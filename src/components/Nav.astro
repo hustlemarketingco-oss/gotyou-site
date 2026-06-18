@@ -11,8 +11,7 @@ function isActive(href: string) {
 
 <nav>
   <a href="/" class="logo" aria-label={`${BRAND.name} home`}>
-    <span class="lc">G</span><span class="lc">O</span><span class="lc">T</span>
-    <span class="lc">Y</span><span class="lc">O</span><span class="lc">U</span>
+    <img src="/images/got-you-logo.png" alt={`${BRAND.name} logo`} />
   </a>
 
   <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Open menu">
@@ -47,26 +46,20 @@ function isActive(href: string) {
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
   }
 
-  /* Logo: 6 white circles, 3x2 grid, black letters — matches the real GotYou mark */
+  /* Logo PNG ships with an opaque white background (no alpha), so the chip
+     just rounds its corners rather than layering a redundant white box. */
   .logo {
-    display: inline-grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
+    display: inline-flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 8px;
+    padding: 6px 10px;
     cursor: pointer;
   }
-  .lc {
-    width: 21px;
-    height: 21px;
-    border-radius: 50%;
-    background: #fff;
-    color: #000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: var(--font-display);
-    font-weight: 900;
-    font-size: 10px;
-    line-height: 1;
+  .logo img {
+    height: 28px;
+    width: auto;
+    display: block;
   }
 
   .nav-right {

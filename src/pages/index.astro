@@ -58,6 +58,34 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     </div>
   </div>
 
+  <div class="section section--white">
+    <div class="section-inner">
+      <div class="center">
+        <span class="section-label">Built For Every Business</span>
+        <h2 class="section-title">From salons to street tacos</h2>
+        <p class="section-sub">Wherever you check in, GOTYOU is there — see what it looks like in the wild.</p>
+      </div>
+      <div class="checkin-grid">
+        <div class="checkin-card">
+          <img src="/images/check-in-salon.png" alt="Customer checking in with the GOTYOU app at a salon" />
+          <span class="checkin-label">Salons &amp; Spas</span>
+        </div>
+        <div class="checkin-card">
+          <img src="/images/checkin-retail-shop.png" alt="Customer checking in with the GOTYOU app at a retail boutique" />
+          <span class="checkin-label">Retail &amp; Boutiques</span>
+        </div>
+        <div class="checkin-card">
+          <img src="/images/check-in-mexican.png" alt="Customer checking in with the GOTYOU app at a restaurant counter" />
+          <span class="checkin-label">Restaurants</span>
+        </div>
+        <div class="checkin-card">
+          <img src="/images/checkin-coffee-shop.png" alt="Customer redeeming GOTYOU rewards at a coffee shop" />
+          <span class="checkin-label">Coffee Shops</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="section section--cream">
     <div class="section-inner">
       <div class="two-col">
@@ -132,6 +160,13 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     .step-icon i { font-size: 24px; color: #fff; }
     .step h3 { font-size: 17px; font-weight: 700; margin-bottom: .5rem; }
     .step p { font-size: 14px; color: var(--muted); line-height: 1.65; }
+
+    .checkin-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; margin-top: 2.5rem; }
+    @media (max-width: 900px) { .checkin-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 480px) { .checkin-grid { grid-template-columns: 1fr; } }
+    .checkin-card { position: relative; border-radius: var(--radius); overflow: hidden; aspect-ratio: 3 / 4; }
+    .checkin-card img { width: 100%; height: 100%; object-fit: cover; }
+    .checkin-label { position: absolute; bottom: 0; left: 0; right: 0; padding: 16px 14px 12px; background: linear-gradient(to top, rgba(0,0,0,.75), transparent); color: #fff; font-family: var(--font-display); font-size: 13px; font-weight: 700; }
 
     .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
     @media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }

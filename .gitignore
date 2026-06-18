@@ -6,6 +6,9 @@ dist/
 # wrangler local cache
 .wrangler/
 
+# local Claude Code state
+.claude/
+
 # dependencies
 node_modules/
 

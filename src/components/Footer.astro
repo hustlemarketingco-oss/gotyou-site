@@ -8,8 +8,7 @@ const year = new Date().getFullYear();
     <div class="footer-top">
       <div class="footer-brand">
         <div class="logo">
-          <span class="lc">G</span><span class="lc">O</span><span class="lc">T</span>
-          <span class="lc">Y</span><span class="lc">O</span><span class="lc">U</span>
+          <img src="/images/got-you-logo.png" alt={`${BRAND.name} logo`} />
         </div>
         <p>The universal digital rewards platform empowering local businesses and connecting them directly with customers.</p>
         <div class="footer-social">
@@ -76,23 +75,16 @@ const year = new Date().getFullYear();
   }
 
   .logo {
-    display: inline-grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
-  }
-  .lc {
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    background: #fff;
-    color: #000;
-    display: flex;
+    display: inline-flex;
     align-items: center;
-    justify-content: center;
-    font-family: var(--font-display);
-    font-weight: 900;
-    font-size: 13px;
-    line-height: 1;
+    background: #fff;
+    border-radius: 8px;
+    padding: 7px 12px;
+  }
+  .logo img {
+    height: 32px;
+    width: auto;
+    display: block;
   }
 
   .footer-brand p {
