@@ -10,7 +10,7 @@ function isActive(href: string) {
 ---
 
 <nav>
-  <a href="/" class="logo" aria-label={`${BRAND.name} home`}>
+  <a href="/" class="logo-wrap" aria-label={`${BRAND.name} home`}>
     <img src="/images/got-you-logo.png" alt={`${BRAND.name} logo`} />
   </a>
 
@@ -20,7 +20,7 @@ function isActive(href: string) {
     <span class="nav-toggle-bar"></span>
   </button>
 
-  <div class="nav-right" id="nav-menu">
+  <div class="nav-links" id="nav-menu">
     {
       NAV_LINKS.map((link) => (
         <a href={link.href} class={isActive(link.href) ? 'active' : ''}>
@@ -28,66 +28,70 @@ function isActive(href: string) {
         </a>
       ))
     }
-    <a href={BRAND.appUrl} class="nav-login">Merchant Login</a>
+    <a href="/businesses" class="nav-new">Businesses <span class="new-tag">new</span></a>
+    <a href={BRAND.appUrl} class="nav-cta">Merchant Login</a>
   </div>
 </nav>
 
 <style>
   nav {
-    background: var(--blue);
-    height: 66px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 2.5rem;
+    padding: 18px 4rem;
     position: sticky;
     top: 0;
+    background: rgba(11, 16, 41, 0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
     z-index: 200;
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
   }
 
   /* Logo PNG ships with an opaque white background (no alpha), so the chip
-     just rounds its corners rather than layering a redundant white box. */
-  .logo {
+     just rounds its corners rather than floating a raw white rectangle on
+     the dark nav. */
+  .logo-wrap {
     display: inline-flex;
     align-items: center;
     background: #fff;
-    border-radius: 10px;
-    padding: 7px 14px;
-    cursor: pointer;
+    border-radius: 8px;
+    padding: 5px 10px;
   }
-  .logo img {
-    height: 42px;
+  .logo-wrap img {
+    height: 32px;
     width: auto;
     display: block;
   }
 
-  .nav-right {
+  .nav-links {
     display: flex;
+    gap: 2.2rem;
     align-items: center;
-    gap: 1.75rem;
   }
-  .nav-right a {
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 14px;
-    font-weight: 500;
+  .nav-links a {
     font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-dim);
     transition: color 0.2s;
   }
-  .nav-right a:hover,
-  .nav-right a.active {
+  .nav-links a:hover,
+  .nav-links a.active {
     color: #fff;
   }
-  .nav-login {
-    background: var(--yellow);
-    color: #000 !important;
-    padding: 9px 20px;
-    border-radius: 6px;
-    font-size: 13px;
-    font-weight: 700 !important;
-    transition: background 0.2s;
+  .nav-new {
+    display: flex;
+    align-items: center;
+    gap: 6px;
   }
-  .nav-login:hover {
+  .nav-cta {
+    background: var(--yellow);
+    color: #0b1029 !important;
+    padding: 10px 22px;
+    border-radius: 100px;
+    font-weight: 700 !important;
+  }
+  .nav-cta:hover {
     background: var(--yellow-2);
   }
 
@@ -122,34 +126,40 @@ function isActive(href: string) {
   }
 
   @media (max-width: 860px) {
+    nav {
+      padding: 16px 1.5rem;
+    }
     .nav-toggle {
       display: flex;
     }
 
-    .nav-right {
+    .nav-links {
       position: absolute;
-      top: 66px;
+      top: 100%;
       left: 0;
       right: 0;
       flex-direction: column;
       align-items: stretch;
       gap: 0;
-      background: var(--blue);
+      background: #0b1029;
       max-height: 0;
       overflow: hidden;
       transition: max-height 0.25s ease;
-      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3);
     }
-    .nav-right.open {
+    .nav-links.open {
       max-height: calc(100vh - 66px);
       overflow-y: auto;
       padding: 0.5rem 0 1.25rem;
     }
-    .nav-right a {
+    .nav-links a {
       padding: 0.85rem 2.5rem;
     }
-    .nav-right a.nav-login {
+    .nav-links a.nav-cta,
+    .nav-links a.nav-new {
       margin: 0.5rem 2.5rem 0;
+    }
+    .nav-links a.nav-cta {
       text-align: center;
     }
   }

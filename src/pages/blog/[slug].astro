@@ -12,34 +12,29 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const wordCount = post.body?.split(/\s+/).filter(Boolean).length ?? 0;
+const readMinutes = Math.max(1, Math.round(wordCount / 200));
 ---
 
 <BaseLayout title={post.data.title} description={post.data.description}>
   <div class="page-hero">
-    <div class="ph-label">{post.data.tag}</div>
+    <div class="eyebrow" style="justify-content: center;">
+      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+      {post.data.tag}
+    </div>
     <h1>{post.data.title}</h1>
-    <div class="meta">
-      <span>{post.data.author}</span> &middot;
-      <span>{post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+    <p class="lede">{post.data.description}</p>
+    <div class="byline">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:-2px"><circle cx="12" cy="8" r="4" /><path d="M4 21v-1a6 6 0 016-6h4a6 6 0 016 6v1" /></svg>
+      {post.data.author}&nbsp;·&nbsp;{post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}&nbsp;·&nbsp;{readMinutes} min read
     </div>
   </div>
 
-  <div class="section section--white">
-    <article class="prose">
+  <div class="section" style="padding-top: 0;">
+    <article class="content-narrow">
+      {post.data.heroImage && <img src={post.data.heroImage} alt={post.data.title} />}
       <Content />
     </article>
   </div>
-
-  <style>
-    .page-hero { background: var(--blue); padding: 64px 2.5rem; text-align: center; }
-    .ph-label { font-family: var(--font-display); font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 12px; }
-    .page-hero h1 { font-size: clamp(24px, 4.5vw, 40px); font-weight: 900; color: #fff; max-width: 720px; margin: 0 auto 1rem; line-height: 1.2; }
-    .meta { color: rgba(255,255,255,.6); font-size: 13px; }
-
-    .prose { max-width: 680px; margin: 0 auto; padding: 0 1.5rem; font-size: 16px; line-height: 1.8; color: var(--text); }
-    .prose :global(h2) { font-size: 22px; font-weight: 700; margin: 2rem 0 1rem; }
-    .prose :global(h3) { font-size: 18px; font-weight: 700; margin: 1.5rem 0 0.75rem; }
-    .prose :global(p) { margin-bottom: 1.25rem; color: var(--muted); }
-    .prose :global(a) { color: var(--blue); text-decoration: underline; }
-  </style>
 </BaseLayout>

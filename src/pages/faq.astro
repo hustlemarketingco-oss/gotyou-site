@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// NOTE: This page states a $0.10 per-token cash value, while /pricing lists
+// the merchant-side "Reward Token Price" as $0.20. That mismatch exists on
+// the live gotyou.co site too (consumer redemption price vs. merchant token
+// cost) — preserved verbatim here per client request rather than reconciled,
+// since resolving it requires a decision from the client, not a copy fix.
+---
+
+<BaseLayout title="FAQ" description="Frequently asked questions about GOTYOU, $GET tokens, and how to earn rewards at local businesses.">
+  <div class="page-hero">
+    <div class="eyebrow" style="justify-content: center;">
+      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+      Help Center
+    </div>
+    <h1>Frequently Asked Questions</h1>
+    <p class="lede">If you have additional questions please contact us.</p>
+  </div>
+
+  <div class="section" style="padding-top: 0;">
+    <div class="content-narrow" style="max-width: 760px;">
+      <div class="faq-grid">
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>What is GOTYOU</h4>
+          <p>GOTYOU is a free membership digital rewards app that lets you connect with local businesses that will pay you for providing feedback, completing surveys, or making referrals. These businesses also provide exclusive perks to GOTYOU members.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>How do I earn GET Tokens</h4>
+          <p>Visit any retail shop or restaurant partnered with GOTYOU and you will receive GET tokens every time you interact with them through the app. There is never a cost to use GOTYOU.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>How much are tokens worth?</h4>
+          <p>GET tokens are different than loyalty points, and each token has a cash value of $0.10. They never expire. You can redeem them at any time for a Gift Card, Visa, or Venmo.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>Redeem Your Tokens for Cash</h4>
+          <p>In the app, go to your Wallet, then select the Redeem button. Currently, Venmo is the main option for redeeming your tokens. We will soon be adding spendable vouchers at local merchants.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>Is there a cap on how much I can earn?</h4>
+          <p>There is never a cap on how much you can earn. The more you participate and promote local businesses in your community the more you can earn — including by referring other users and merchants.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>Can I refer a business to GOTYOU?</h4>
+          <p>Absolutely! If you bring a merchant onboard with GOTYOU and they sign up for our platform, you'll receive a healthy commission on every new account.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>Where can I earn tokens?</h4>
+          <p>GOTYOU is now active in more than 30 high-density zones across a dozen states, including Arizona, California, Florida, Georgia, Kentucky, Louisiana, North Carolina, South Carolina, Tennessee, Texas, Utah, and Virginia.</p>
+        </div>
+
+        <div class="faq-item">
+          <h4><span class="q-dot"></span>Your Data</h4>
+          <p>Completely secure. GOTYOU, a web3 platform, ensures trust and transparency. Your data isn't shared with anyone. Merchants see only your username — your email and phone number remain private.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

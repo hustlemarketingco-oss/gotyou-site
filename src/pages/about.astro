@@ -4,50 +4,33 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout title="About Us" description="At GOTYOU, we develop technology that empowers communities and local businesses, eliminating big tech intermediaries.">
   <div class="page-hero">
-    <div class="ph-label">Our Story</div>
-    <h1>About Us</h1>
-    <p>At GOTYOU, we develop technology that empowers communities and local businesses, eliminating big tech intermediaries and keeping value within local communities.</p>
-  </div>
-
-  <div class="stats-bar">
-    <div class="stats-inner">
-      <div class="stat"><div class="n">25+</div><div class="l">Years of Experience</div></div>
-      <div class="stat"><div class="n">222%</div><div class="l">Ad Cost Increase</div></div>
-      <div class="stat"><div class="n">$GET</div><div class="l">Universal Currency</div></div>
-      <div class="stat"><div class="n">Local</div><div class="l">Community First</div></div>
+    <div class="eyebrow" style="justify-content: center;">
+      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+      About Us
     </div>
+    <h1>Technology that empowers communities and local businesses</h1>
+    <p class="lede">Our platform fosters secure, direct relationships between businesses and consumers, eliminating big tech intermediaries.</p>
   </div>
 
-  <div class="section section--white">
-    <div class="section-inner two-col">
-      <div class="img-box">
-        <img src="/images/about-team.png" alt="About GOTYOU" />
-      </div>
-      <div>
-        <span class="section-label">Who We Are</span>
-        <h2>Technology That Empowers Communities</h2>
-        <p>At GOTYOU, we develop technology that empowers communities and local businesses. Our platform fosters secure, direct relationships between businesses and consumers, eliminating big tech intermediaries.</p>
-        <p>By keeping value within local communities, we're creating a self-sustaining ecosystem built on trust, connection, and growth.</p>
-      </div>
-    </div>
-  </div>
+  <div class="section">
+    <div class="content-narrow">
+      <p>At GOTYOU, we develop technology that empowers communities and local businesses. Our platform fosters secure, direct relationships between businesses and consumers, eliminating big tech intermediaries. By keeping value within local communities, we're creating a self-sustaining ecosystem built on trust, connection, and growth.</p>
 
-  <div class="section section--cream">
-    <div class="section-inner two-col reverse">
-      <div>
-        <span class="section-label">Our Mission</span>
-        <h2>Empowering Local Businesses and Consumers</h2>
-        <p>At GOTYOU, we empower local businesses and consumers to thrive in a digital economy built on trust, transparency, and connection. Our platform fosters direct relationships, protects privacy, and enables instant, real-time rewards.</p>
-        <p>By simplifying local commerce and keeping value within communities, we're creating a marketplace that strengthens local businesses and ensures everyone benefits.</p>
+      <h2>Our Mission</h2>
+      <p>At GOTYOU, we empower local businesses and consumers to thrive in a digital economy built on trust, transparency, and connection. Our platform fosters direct relationships, protects privacy, and enables instant, real-time rewards. By simplifying local commerce and keeping value within communities, we're creating a marketplace that strengthens local businesses and ensures everyone benefits.</p>
+
+      <img src="/images/gotyou-rewards.png" alt="GOTYOU mission" />
+
+      <h2>Our Journey</h2>
+      <p>For over 25 years, our founder has been on a mission to revolutionize how small businesses thrive in the digital age. Backed by a world-class team of engineers, marketers, and operational experts, we're tackling the greatest challenge local businesses face: building meaningful, lasting connections with consumers.</p>
+
+      <div class="stat-row">
+        <div class="stat-card"><div class="n">25+</div><div class="l">Years our founder has worked on local business technology</div></div>
+        <div class="stat-card"><div class="n">222%</div><div class="l">Rise in advertising costs over the past decade</div></div>
       </div>
-      <div class="mission-box">
-        <div class="logo">
-          <span class="lc">G</span><span class="lc">O</span><span class="lc">T</span>
-          <span class="lc">Y</span><span class="lc">O</span><span class="lc">U</span>
-        </div>
-        <div class="mission-title">Our Mission</div>
-        <div class="mission-text">Trust, Transparency, and Connection — empowering local commerce for everyone.</div>
-      </div>
+
+      <p>As e-commerce giants dominate and advertising costs soar, brick-and-mortar businesses are left behind. GOTYOU changes the game. Our platform delivers enterprise-level tools—powered by cutting-edge AI—to local markets, enabling small businesses to personalize offers, create real-time rewards, and drive demand without breaking the bank.</p>
+      <p>We're here to level the playing field, empowering small businesses to compete, grow, and lead in today's digital economy.</p>
     </div>
   </div>
 
@@ -55,39 +38,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <h2>Ready to Join the Movement?</h2>
     <p>Whether you're a business owner or a consumer, GOTYOU has something for you.</p>
     <div class="cta-btns">
-      <a href="https://app.gotyou.co/sign-up" class="btn btn--yellow">Get Started as a Merchant</a>
-      <a href="/download" class="btn btn--outline" style="border-color: rgba(255,255,255,.4); color: #fff;">Download the App</a>
+      <a href="https://app.gotyou.co/sign-up" class="btn-primary">
+        Get Started as a Merchant
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" style="vertical-align:-2px"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
+      </a>
     </div>
   </div>
-
-  <style>
-    .page-hero { background: var(--blue); padding: 68px 2.5rem; text-align: center; }
-    .ph-label { font-family: var(--font-display); font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 12px; }
-    .page-hero h1 { font-size: clamp(26px, 5vw, 46px); font-weight: 900; color: #fff; margin-bottom: 1rem; }
-    .page-hero p { color: rgba(255,255,255,.7); max-width: 580px; margin: 0 auto; font-size: 16px; line-height: 1.7; }
-
-    .stats-bar { background: var(--yellow); padding: 1.75rem 2.5rem; }
-    .stats-inner { max-width: 1080px; margin: 0 auto; display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem; text-align: center; }
-    .stats-inner .n { font-family: var(--font-display); font-size: 28px; font-weight: 900; color: #000; }
-    .stats-inner .l { font-size: 12px; font-weight: 600; color: rgba(0,0,0,.6); margin-top: 2px; text-transform: uppercase; letter-spacing: .3px; }
-
-    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
-    .two-col.reverse { direction: rtl; }
-    .two-col.reverse > * { direction: ltr; }
-    @media (max-width: 720px) { .two-col, .two-col.reverse { grid-template-columns: 1fr; direction: ltr; } }
-    .two-col h2 { font-size: clamp(20px, 2.8vw, 28px); font-weight: 800; margin-bottom: 1rem; color: var(--text); line-height: 1.25; }
-    .two-col p { font-size: 15px; color: var(--muted); line-height: 1.75; margin-bottom: 1rem; }
-    .img-box img { width: 100%; border-radius: var(--radius); }
-
-    .mission-box { background: var(--blue); border-radius: var(--radius); min-height: 300px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; text-align: center; }
-    .logo { display: inline-grid; grid-template-columns: repeat(3, 1fr); gap: 2px; margin-bottom: 1.5rem; }
-    .lc { width: 36px; height: 36px; border-radius: 50%; background: #fff; color: #000; display: flex; align-items: center; justify-content: center; font-family: var(--font-display); font-weight: 900; font-size: 17px; }
-    .mission-title { color: #fff; font-family: var(--font-display); font-size: 16px; font-weight: 700; margin-bottom: .5rem; }
-    .mission-text { color: rgba(255,255,255,.65); font-size: 14px; line-height: 1.6; max-width: 280px; }
-
-    .cta { background: var(--blue); padding: 72px 2.5rem; text-align: center; }
-    .cta h2 { font-size: clamp(24px, 4vw, 38px); font-weight: 900; color: #fff; margin-bottom: 1rem; }
-    .cta p { color: rgba(255,255,255,.7); font-size: 16px; max-width: 520px; margin: 0 auto 2.5rem; line-height: 1.7; }
-    .cta-btns { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
-  </style>
 </BaseLayout>

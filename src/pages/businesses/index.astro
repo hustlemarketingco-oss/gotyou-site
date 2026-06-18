@@ -18,67 +18,20 @@ const searchIndex = allBusinesses.map((b) => ({
 }));
 
 const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
-const totalBusinesses = allBusinesses.length;
-const totalClaimed = allBusinesses.filter((b) => b.data.claimStatus === 'claimed').length;
-const totalCheckins = allBusinesses.reduce((sum, b) => sum + b.data.checkinCount, 0);
 ---
 
 <BaseLayout
   title="Business Directory"
   description="Find and claim your business on GOTYOU. Browse local businesses already earning customer loyalty with $GET token rewards."
 >
-  <div class="hero">
-    <h1>Find & Claim Your Business<br /><span>on GOTYOU</span></h1>
-    <p>Thousands of local businesses are already in our directory. Claim yours to start rewarding customers with $GET tokens.</p>
-
-    <div class="hero-stats">
-      <div class="stat"><div class="n">{totalBusinesses.toLocaleString()}</div><div class="l">Businesses Listed</div></div>
-      <div class="stat"><div class="n">{totalClaimed.toLocaleString()}</div><div class="l">Claimed</div></div>
-      <div class="stat"><div class="n">{totalCheckins.toLocaleString()}+</div><div class="l">Check-ins Logged</div></div>
+  <div class="page-hero">
+    <div class="eyebrow" style="justify-content: center;">
+      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+      New Feature Preview <span class="new-tag" style="margin-left: 4px;">new</span>
     </div>
+    <h1>Find & Claim Your Business on GOTYOU</h1>
+    <p class="lede">A business directory in development. Sample listings shown below for layout purposes — not yet live on gotyou.co.</p>
   </div>
 
   <DirectorySearch businesses={searchIndex} cities={cities} />
-
-  <style>
-    .hero {
-      background: var(--blue);
-      padding: 64px 2.5rem 48px;
-      text-align: center;
-    }
-    .hero h1 {
-      font-size: clamp(28px, 5vw, 44px);
-      font-weight: 900;
-      color: #fff;
-      line-height: 1.1;
-      margin-bottom: 1rem;
-    }
-    .hero h1 span {
-      color: var(--yellow);
-    }
-    .hero p {
-      color: rgba(255, 255, 255, 0.65);
-      font-size: 16px;
-      max-width: 520px;
-      margin: 0 auto 2rem;
-      line-height: 1.7;
-    }
-    .hero-stats {
-      display: flex;
-      justify-content: center;
-      gap: 3rem;
-      flex-wrap: wrap;
-    }
-    .stat .n {
-      font-family: var(--font-display);
-      font-size: 26px;
-      font-weight: 700;
-      color: #fff;
-    }
-    .stat .l {
-      font-size: 12px;
-      color: rgba(255, 255, 255, 0.5);
-      margin-top: 2px;
-    }
-  </style>
 </BaseLayout>

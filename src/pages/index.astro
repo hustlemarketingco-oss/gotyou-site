@@ -2,198 +2,149 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+const featuredBusinesses = (await getCollection('businesses'))
+  .sort((a, b) => b.data.checkinCount - a.data.checkinCount)
+  .slice(0, 2);
 ---
 
 <BaseLayout title="GOTYOU" description="Discover, connect, and unlock exclusive rewards at local businesses. Earn cash, perks, and elevate your status — all in one free app.">
   <div class="hero">
     <div class="hero-inner">
       <div>
-        <div class="hero-label">How GOTYOU works</div>
-        <h1>Download the free app</h1>
-        <p class="hero-bold">Local Savings and Connection, Simplified</p>
-        <p class="hero-sub">
-          At GOTYOU, our free app connects you with local merchants effortlessly—no email lists, no spam.
-          <br /><br />
-          Discover and support your favorite businesses while earning real cash rewards for dining, shopping, and exploring. GOTYOU makes it easy, secure, and rewarding—your personal info stays private, and your everyday actions pay off.
-        </p>
-        <a href="/download" class="btn btn--yellow">GET STARTED &rsaquo;</a>
-      </div>
-      <div class="hero-img">
-        <img src="/images/app-marketplace.png" alt="GOTYOU app marketplace screen" class="phone-back" />
-        <img src="/images/app-checkin.png" alt="GOTYOU app check-in screen" class="phone-front" />
-      </div>
-    </div>
-  </div>
-
-  <div class="section section--white">
-    <div class="section-inner">
-      <div class="center">
-        <span class="section-label">How GOTYOU Works</span>
-        <h2 class="section-title">Three ways to earn</h2>
-        <p class="section-sub">No email lists, no spam — just real rewards for the things you're already doing.</p>
-      </div>
-      <div class="steps">
-        <div class="step">
-          <span class="step-num">1</span>
-          <div class="step-icon"><i class="ti ti-map-check" /></div>
-          <h3>Check In & Earn Instantly</h3>
-          <p>Every time you visit, refresh the GOTYOU app, select the merchant, and hit Check-In—you'll instantly earn a cash reward for supporting your favorite local spots!</p>
+        <div class="eyebrow">
+          <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+          Empowering Digital First Consumers
         </div>
-        <div class="step">
-          <span class="step-num">2</span>
-          <div class="step-icon"><i class="ti ti-star" /></div>
-          <h3>Earn Status, Perks & Rewards</h3>
-          <p>Leave feedback, answer a quick survey, or refer a friend. Every action earns you $GET points—our universal rewards currency you can cash out or use at any GOTYOU business.</p>
+        <h1>Unleash Limitless Savings, Discover New Possibilities</h1>
+        <p class="hero-sub">Discover, connect, and unlock exclusive rewards. Earn cash, perks, and elevate your status at your favorite local hotspots—all while supporting the businesses you love.</p>
+        <div class="hero-ctas">
+          <a href="/download" class="btn-primary">
+            Get Started
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" style="vertical-align:-2px"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
+          </a>
         </div>
-        <div class="step">
-          <span class="step-num">3</span>
-          <div class="step-icon"><i class="ti ti-building-store" /></div>
-          <h3>Save Big on Everyday Purchases</h3>
-          <p>Dine out, shop, or catch a movie—and save at thousands of local businesses. GOTYOU turns your everyday spending into real rewards, all in one app.</p>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-card">
+          <img src="/images/check-in-salon.png" alt="Checking in on GOTYOU" />
+        </div>
+        <div class="floating-token t1"><span class="token-icon">G</span> $GET earned</div>
+        <div class="floating-token t2">
+          <span class="token-icon"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M9 11a3 3 0 106 0 3 3 0 00-6 0z" /><path d="M12 21s-7-6.5-7-11a7 7 0 1114 0c0 4.5-7 11-7 11z" /></svg></span>
+          Sample business
         </div>
       </div>
     </div>
   </div>
 
-  <div class="section section--white">
+  <div class="section">
     <div class="section-inner">
-      <div class="center">
-        <span class="section-label">Built For Every Business</span>
-        <h2 class="section-title">From salons to street tacos</h2>
-        <p class="section-sub">Wherever you check in, GOTYOU is there — see what it looks like in the wild.</p>
+      <div class="section-head">
+        <span class="section-eyebrow">How GOTYOU works</span>
+        <h2 class="section-title">Download the free app</h2>
+        <p class="section-sub">Local Savings and Connection, Simplified — At GOTYOU, our free app connects you with local merchants effortlessly—no email lists, no spam.</p>
       </div>
-      <div class="checkin-grid">
-        <div class="checkin-card">
-          <img src="/images/check-in-salon.png" alt="Customer checking in with the GOTYOU app at a salon" />
-          <span class="checkin-label">Salons &amp; Spas</span>
+      <div class="benefits">
+        <div class="benefit">
+          <div class="benefit-circles"></div>
+          <div class="benefit-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" /><circle cx="12" cy="10" r="3" /></svg></div>
+          <h3>Check In and Earn Instantly</h3>
+          <p>Every time you visit, simply refresh the GOTYOU app, select the merchant, and hit Check-In—you'll instantly earn a cash reward for supporting your favorite local spots!</p>
+          <div class="trail-mini"><span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span></div>
         </div>
-        <div class="checkin-card">
-          <img src="/images/checkin-retail-shop.png" alt="Customer checking in with the GOTYOU app at a retail boutique" />
-          <span class="checkin-label">Retail &amp; Boutiques</span>
-        </div>
-        <div class="checkin-card">
-          <img src="/images/check-in-mexican.png" alt="Customer checking in with the GOTYOU app at a restaurant counter" />
-          <span class="checkin-label">Restaurants</span>
-        </div>
-        <div class="checkin-card">
-          <img src="/images/checkin-coffee-shop.png" alt="Customer redeeming GOTYOU rewards at a coffee shop" />
-          <span class="checkin-label">Coffee Shops</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="section section--cream">
-    <div class="section-inner">
-      <div class="two-col">
-        <div>
-          <span class="section-label">$GET Points</span>
-          <h2>Earn Status, Perks, and Rewards with Every Visit</h2>
+        <div class="benefit">
+          <div class="benefit-circles"></div>
+          <div class="benefit-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" /></svg></div>
+          <h3>Earn Status, Perks, and Rewards with Every Visit</h3>
           <p>After checking in, take it further—leave feedback, answer a quick survey, or refer a friend. Every action earns you $GET points, our universal rewards currency, which you can cash out or use to support more local businesses in the GOTYOU network.</p>
-          <p>Explore the many ways you can make real money with GOTYOU while helping your community thrive!</p>
+          <div class="trail-mini"><span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span></div>
         </div>
-        <div class="img-box">
-          <img src="/images/get-points.png" alt="GOTYOU $GET points wallet" />
+        <div class="benefit">
+          <div class="benefit-circles"></div>
+          <div class="benefit-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l1-5h16l1 5" /><path d="M3 9h18v11H3z" /><path d="M9 13a3 3 0 006 0" /></svg></div>
+          <h3>Save Big on Everyday Purchases</h3>
+          <p>Dine out, shop, or catch a movie—and save at thousands of local businesses. GOTYOU turns your everyday spending into real rewards. Stop juggling multiple apps, emails, SMS messages, or pesky coupons.</p>
+          <div class="trail-mini"><span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span></div>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="section section--white">
+  <div class="section" style="padding-top: 0;">
     <div class="section-inner">
-      <div class="center">
-        <span class="section-label">The GOTYOU Blog</span>
-        <h2 class="section-title">Latest From Our Blog</h2>
+      <div class="section-head">
+        <span class="section-eyebrow">See it in action</span>
+        <h2 class="section-title">Watch How GOTYOU Works</h2>
       </div>
-      <div class="blog-grid">
+      <div class="video-embed">
+        <iframe
+          src="https://www.youtube.com/embed/xA9o9abv2og"
+          title="GOTYOU — See how it works"
+          loading="lazy"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" style="padding-top: 0;">
+    <div class="section-inner">
+      <div class="token-strip">
+        <div class="token-strip-content">
+          <span class="section-eyebrow" style="margin-bottom: 10px;">$GET tokens</span>
+          <h2>Stop juggling multiple apps, emails, SMS messages, or pesky coupons</h2>
+          <p>With $GET tokens, you can earn instantly and spend them at your favorite local spots. Real savings, real rewards, all in one app.</p>
+        </div>
+        <div style="position: relative; z-index: 1;">
+          <img src="/images/gotyou-rewards.png" alt="GOTYOU $GET points wallet" style="width: 100%; border-radius: 16px; display: block;" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-inner">
+      <div class="section-head">
+        <span class="section-eyebrow" style="display: flex; align-items: center; justify-content: center; gap: 8px;">New feature preview <span class="new-tag" style="font-size: 9px;">new</span></span>
+        <h2 class="section-title">Businesses already on GOTYOU</h2>
+        <p class="section-sub">A directory feature in development — sample listings shown for layout purposes.</p>
+      </div>
+      <div class="biz-grid">
         {
-          posts.map((post) => (
-            <a href={`/blog/${post.id}`} class="blog-card">
-              <div class="blog-img">
-                {post.data.heroImage ? <img src={post.data.heroImage} alt={post.data.title} /> : <i class="ti ti-article" />}
-                <span class="blog-tag">{post.data.tag}</span>
+          featuredBusinesses.map((biz) => (
+            <a href={`/businesses/${biz.data.slug}`} class="biz-card">
+              <div class="biz-img">
+                <img src={biz.data.slug.startsWith('firehouse') ? '/images/redeem-tokens.png' : '/images/check-in-salon.png'} alt={biz.data.name} />
+                {biz.data.claimStatus === 'claimed' ? (
+                  <div class="biz-badge"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" style="vertical-align:-2px"><polyline points="20 6 9 17 4 12" /></svg> Verified</div>
+                ) : (
+                  <div class="biz-badge" style="border-color: rgba(255,255,255,0.2); color: var(--text-dim);"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px"><circle cx="12" cy="12" r="9" /><line x1="12" y1="8" x2="12" y2="13" /><line x1="12" y1="16" x2="12" y2="16.01" /></svg> Unclaimed</div>
+                )}
               </div>
-              <div class="blog-body">
-                <h3>{post.data.title}</h3>
-                <p>{post.data.description}</p>
-                <div class="blog-meta"><i class="ti ti-calendar" />{post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</div>
+              <div class="biz-body">
+                <h4>{biz.data.name}</h4>
+                <div class="cat">{biz.data.category} · {biz.data.city}</div>
+                <div class="biz-foot">
+                  <div class="checkins"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px"><path d="M9 11a3 3 0 106 0 3 3 0 00-6 0z" /><path d="M12 21s-7-6.5-7-11a7 7 0 1114 0c0 4.5-7 11-7 11z" /></svg> {biz.data.checkinCount} check-ins</div>
+                </div>
               </div>
             </a>
           ))
         }
-      </div>
-      <div class="center" style="margin-top: 2rem;">
-        <a href="/blog" class="btn btn--blue">View All Posts</a>
+        <div class="biz-card">
+          <div class="biz-img">
+            <img src="/images/check-in-salon.png" alt="Placeholder card" />
+            <div class="biz-badge" style="border-color: rgba(255,255,255,0.2); color: var(--text-dim);">Placeholder</div>
+          </div>
+          <div class="biz-body">
+            <h4>Your business here</h4>
+            <div class="cat">Card layout placeholder</div>
+            <div class="biz-foot"><div class="checkins" style="color: var(--text-dimmer);">Real data once seeded</div></div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-
-  <div class="cta">
-    <h2>Join Us Along This Journey!</h2>
-    <p>Download the free GOTYOU app and start earning real cash rewards at local businesses today.</p>
-    <div class="cta-btns">
-      <a href="/download" class="app-btn"><i class="ti ti-brand-apple" /><div><span class="s">Download on the</span><span class="b">App Store</span></div></a>
-      <a href="/download" class="app-btn"><i class="ti ti-brand-google-play" /><div><span class="s">Get it on</span><span class="b">Google Play</span></div></a>
-    </div>
-  </div>
-
-  <style>
-    .hero { background: var(--bg); padding: 64px 2.5rem 56px; }
-    .hero-inner { max-width: 1080px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; }
-    @media (max-width: 800px) { .hero-inner { grid-template-columns: 1fr; } }
-    .hero-label { font-family: var(--font-display); font-size: 13px; font-weight: 700; color: var(--yellow-2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 1rem; }
-    .hero h1 { font-size: clamp(28px, 4vw, 48px); font-weight: 900; color: var(--text); line-height: 1.1; margin-bottom: 1.25rem; }
-    .hero-bold { font-weight: 700; font-size: 16px; color: var(--text); margin-bottom: .5rem; }
-    .hero-sub { font-size: 15px; color: var(--muted); line-height: 1.75; margin-bottom: 2rem; }
-    .hero-img { position: relative; display: flex; align-items: flex-end; justify-content: center; }
-    .hero-img img { border-radius: 20px; max-height: 480px; width: auto; object-fit: contain; }
-    .phone-back { position: absolute; right: 0; bottom: 0; width: 55%; opacity: .9; }
-    .phone-front { position: relative; z-index: 2; width: 58%; }
-
-    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; margin-top: 3rem; }
-    .step { background: #fff; border-radius: var(--radius); border: 1px solid var(--border); padding: 2rem; position: relative; overflow: hidden; }
-    .step-num { position: absolute; top: 8px; right: 14px; font-family: var(--font-display); font-size: 64px; font-weight: 900; color: rgba(21,101,216,.07); line-height: 1; }
-    .step-icon { width: 50px; height: 50px; border-radius: 50%; background: var(--blue); display: flex; align-items: center; justify-content: center; margin-bottom: 1.25rem; }
-    .step-icon i { font-size: 24px; color: #fff; }
-    .step h3 { font-size: 17px; font-weight: 700; margin-bottom: .5rem; }
-    .step p { font-size: 14px; color: var(--muted); line-height: 1.65; }
-
-    .checkin-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; margin-top: 2.5rem; }
-    @media (max-width: 900px) { .checkin-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (max-width: 480px) { .checkin-grid { grid-template-columns: 1fr; } }
-    .checkin-card { position: relative; border-radius: var(--radius); overflow: hidden; aspect-ratio: 3 / 4; }
-    .checkin-card img { width: 100%; height: 100%; object-fit: cover; }
-    .checkin-label { position: absolute; bottom: 0; left: 0; right: 0; padding: 16px 14px 12px; background: linear-gradient(to top, rgba(0,0,0,.75), transparent); color: #fff; font-family: var(--font-display); font-size: 13px; font-weight: 700; }
-
-    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
-    @media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }
-    .two-col h2 { font-size: clamp(20px, 2.8vw, 28px); font-weight: 800; margin-bottom: 1rem; color: var(--text); line-height: 1.25; }
-    .two-col p { font-size: 15px; color: var(--muted); line-height: 1.75; margin-bottom: 1rem; }
-    .img-box img { width: 100%; border-radius: var(--radius); }
-
-    .blog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.5rem; margin-top: 2.5rem; }
-    .blog-card { background: #fff; border-radius: var(--radius); border: 1px solid var(--border); overflow: hidden; display: block; transition: transform .2s, box-shadow .2s; }
-    .blog-card:hover { transform: translateY(-4px); box-shadow: 0 12px 40px rgba(0,0,0,.1); }
-    .blog-img { height: 170px; background: var(--blue); display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
-    .blog-img img { width: 100%; height: 100%; object-fit: cover; }
-    .blog-img > i { font-size: 44px; color: rgba(255,255,255,.2); }
-    .blog-tag { position: absolute; bottom: 10px; left: 10px; background: var(--yellow); color: #000; padding: 3px 10px; border-radius: 4px; font-size: 10px; font-weight: 700; font-family: var(--font-display); text-transform: uppercase; letter-spacing: .3px; }
-    .blog-body { padding: 1.25rem; }
-    .blog-body h3 { font-size: 15px; font-weight: 700; line-height: 1.4; margin-bottom: 8px; color: var(--text); }
-    .blog-body p { font-size: 13px; color: var(--muted); line-height: 1.6; margin-bottom: 12px; }
-    .blog-meta { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
-
-    .cta { background: var(--blue); padding: 72px 2.5rem; text-align: center; }
-    .cta h2 { font-size: clamp(24px, 4vw, 38px); font-weight: 900; color: #fff; margin-bottom: 1rem; }
-    .cta p { color: rgba(255,255,255,.7); font-size: 16px; max-width: 520px; margin: 0 auto 2.5rem; line-height: 1.7; }
-    .cta-btns { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
-    .app-btn { display: flex; align-items: center; gap: 12px; background: rgba(255,255,255,.1); border: 2px solid rgba(255,255,255,.3); color: #fff; padding: 12px 24px; border-radius: 10px; font-family: var(--font-display); transition: all .2s; }
-    .app-btn:hover { background: #fff; color: var(--blue); }
-    .app-btn i { font-size: 24px; }
-    .app-btn .s { font-size: 10px; opacity: .7; display: block; text-transform: uppercase; letter-spacing: .5px; }
-    .app-btn .b { font-size: 15px; font-weight: 700; display: block; }
-  </style>
 </BaseLayout>

@@ -25,7 +25,7 @@ const { businesses, cities } = Astro.props;
 const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort();
 ---
 
-<div class="section section--cream">
+<div class="section" style="padding-top: 0;">
   <div class="section-inner">
     <div class="controls">
       <input type="text" id="searchInput" placeholder="Search business name or category..." />
@@ -69,9 +69,9 @@ const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort()
   let activeCategory = 'All';
 
   function statusBadgeHtml(status: BusinessSearchEntry['claimStatus']) {
-    if (status === 'claimed') return '<span class="badge claimed"><i class="ti ti-check"></i> Verified</span>';
-    if (status === 'pending') return '<span class="badge pending"><i class="ti ti-clock"></i> In Review</span>';
-    return '<span class="badge unclaimed"><i class="ti ti-alert-circle"></i> Unclaimed</span>';
+    if (status === 'claimed') return '<div class="biz-badge"><i class="ti ti-check"></i> Verified</div>';
+    if (status === 'pending') return '<div class="biz-badge" style="border-color: rgba(245,197,24,0.4); color: var(--yellow);"><i class="ti ti-clock"></i> In Review</div>';
+    return '<div class="biz-badge" style="border-color: rgba(255,255,255,0.2); color: var(--text-dim);"><i class="ti ti-alert-circle"></i> Unclaimed</div>';
   }
 
   function render(list: BusinessSearchEntry[]) {
@@ -85,16 +85,18 @@ const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort()
     grid.innerHTML = list
       .map(
         (b) => `
-        <a href="/businesses/${b.slug}" class="card">
-          <div class="card-img">
-            <i class="ti ti-building-store"></i>
+        <a href="/businesses/${b.slug}" class="biz-card">
+          <div class="biz-img" style="background: var(--card-light); display:flex; align-items:center; justify-content:center;">
+            <i class="ti ti-building-store" style="font-size: 34px; color: rgba(255,255,255,.15);"></i>
             ${statusBadgeHtml(b.claimStatus)}
           </div>
-          <div class="card-body">
-            <h3>${b.name}</h3>
+          <div class="biz-body">
+            <h4>${b.name}</h4>
             <div class="cat">${b.category} · ${b.city}</div>
-            <div class="meta"><i class="ti ti-map-pin"></i>${b.address}</div>
-            ${b.checkinCount > 0 ? `<div class="checkins"><i class="ti ti-map-check"></i>${b.checkinCount} check-ins</div>` : ''}
+            <div class="biz-foot">
+              <div class="checkins"><i class="ti ti-map-pin"></i> ${b.address}</div>
+            </div>
+            ${b.checkinCount > 0 ? `<div class="biz-foot" style="margin-top: 6px;"><div class="checkins"><i class="ti ti-map-check"></i> ${b.checkinCount} check-ins</div></div>` : ''}
           </div>
         </a>`
       )
@@ -136,10 +138,11 @@ const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort()
     display: flex;
     gap: 0;
     max-width: 580px;
-    margin: -40px auto 1.5rem;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+    margin: 0 auto 1.5rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
     border-radius: 12px;
     overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.08);
   }
   .controls input {
     flex: 1;
@@ -148,16 +151,21 @@ const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort()
     font-size: 15px;
     font-family: var(--font-body);
     outline: none;
+    background: var(--card);
+    color: var(--text);
+  }
+  .controls input::placeholder {
+    color: var(--text-dimmer);
   }
   .controls select {
     padding: 16px 14px;
     border: none;
-    border-left: 1px solid var(--border);
+    border-left: 1px solid rgba(255, 255, 255, 0.08);
     font-size: 14px;
     font-family: var(--font-body);
     outline: none;
-    background: #fff;
-    color: var(--muted);
+    background: var(--card-light);
+    color: var(--text-dim);
     cursor: pointer;
   }
 
@@ -166,122 +174,50 @@ const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort()
     gap: 8px;
     flex-wrap: wrap;
     margin-bottom: 1.5rem;
+    justify-content: center;
   }
   .pill {
     padding: 6px 16px;
     border-radius: 20px;
-    border: 1px solid var(--border);
-    background: var(--white);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--card);
     font-size: 13px;
     cursor: pointer;
-    color: var(--muted);
+    color: var(--text-dim);
     transition: all 0.2s;
     font-family: var(--font-body);
   }
   .pill.active,
   .pill:hover {
-    background: var(--blue);
+    background: var(--blue-bright);
     color: #fff;
-    border-color: var(--blue);
+    border-color: var(--blue-bright);
   }
 
   .result-count {
     font-size: 13px;
-    color: var(--muted);
+    color: var(--text-dim);
     margin-bottom: 1rem;
+    text-align: center;
   }
 
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.25rem;
+    gap: 1.4rem;
   }
 
-  .card {
-    background: var(--white);
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
-    overflow: hidden;
-    display: block;
+  .grid :global(.biz-card:hover) {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.3);
     transition: transform 0.2s, box-shadow 0.2s;
-  }
-  .card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
-  }
-  .card-img {
-    height: 120px;
-    background: var(--blue);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-  }
-  .card-img > i {
-    font-size: 34px;
-    color: rgba(255, 255, 255, 0.25);
-  }
-  .card-body {
-    padding: 1rem 1.25rem;
-  }
-  .card-body h3 {
-    font-size: 16px;
-    font-weight: 600;
-    margin-bottom: 4px;
-    color: var(--text);
-  }
-  .cat {
-    font-size: 12px;
-    color: var(--muted);
-    margin-bottom: 8px;
-  }
-  .meta {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 12px;
-    color: var(--muted);
-  }
-  .checkins {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 12px;
-    font-weight: 500;
-    color: var(--blue);
-    margin-top: 8px;
-  }
-
-  .badge {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    padding: 4px 10px;
-    border-radius: 20px;
-    font-size: 11px;
-    font-weight: 600;
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-  }
-  .badge.claimed {
-    background: var(--green);
-    color: #fff;
-  }
-  .badge.unclaimed {
-    background: #ff6b2b;
-    color: #fff;
-  }
-  .badge.pending {
-    background: var(--yellow);
-    color: #000;
   }
 
   .empty {
     grid-column: 1 / -1;
     text-align: center;
     padding: 3rem;
-    color: var(--muted);
+    color: var(--text-dim);
   }
   .empty i {
     font-size: 40px;
