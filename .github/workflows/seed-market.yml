@@ -1,0 +1,54 @@
+name: Seed New Market
+
+# Manually triggered from the Actions tab when launching a new city/market.
+# Runs the deterministic Places seeding step, then the Claude enrichment
+# step, then commits the new business JSON files straight to main — which
+# triggers Cloudflare Pages' connected-repo auto-deploy.
+on:
+  workflow_dispatch:
+    inputs:
+      city:
+        description: 'City to seed, e.g. "Salt Lake City, UT"'
+        required: true
+        type: string
+      categories:
+        description: 'Comma-separated Google Places categories (leave blank for default set)'
+        required: false
+        type: string
+        default: ''
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Seed businesses from Google Places
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          node scripts/seed-places.js \
+            --city="${{ inputs.city }}" \
+            ${{ inputs.categories != '' && format('--categories="{0}"', inputs.categories) || '' }}
+
+      - name: Enrich new business content with Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/enrich-content.js
+
+      - name: Commit new business pages
+        run: |
+          git config user.name "gotyou-seed-bot"
+          git config user.email "bot@gotyou.co"
+          git add src/content/businesses/
+          git diff --staged --quiet || git commit -m "Seed businesses: ${{ inputs.city }}"
+          git push

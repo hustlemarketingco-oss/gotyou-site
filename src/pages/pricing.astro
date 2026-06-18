@@ -1,0 +1,193 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const featureRows: [string, string, string, string, string][] = [
+  ['Setup Fee', '$50', '$50', '$100', '$150'],
+  ['Customer Dashboard', '✓', '✓', '✓', '✓'],
+  ['Customer Reporting', '✓', '✓', '✓', '✓'],
+  ['Customer Contacts', '250', 'Unlimited', 'Unlimited', 'Unlimited'],
+  ['Membership / Community Management', '✓', '✓', '✓', '✓'],
+  ['Location-based Check-in Campaigns', '✓', '✓', '✓', '✓'],
+  ['Remote Check-in Campaigns', '✓', '✓', '✓', '✓'],
+  ['Food Truck / Market / Event', '✓', '✓', '✓', '✓'],
+  ['Location-based Profile', '✓', '✓', '✓', '✓'],
+  ['In-app Business Promotion', '✓', '✓', '✓', '✓'],
+  ['Online Campaign Management', '✓', '✓', '✓', '✓'],
+  ['Reward Token Management', '✓', '✓', '✓', '✓'],
+  ['Feedback Campaigns', '', '✓', '✓', '✓'],
+  ['Referral Campaigns', '', '✓', '✓', '✓'],
+  ['1 Customer Perk (Offer) Campaign', '', '✓', '', ''],
+  ['Custom Designed Perk Campaigns', '', '', '✓', '✓'],
+  ['Survey Campaigns', '', '', '✓', '✓'],
+  ['1 Cross Promotion', '', '', '✓', ''],
+  ['3 Cross Promotions', '', '', '', '✓'],
+  ['In-app Notifications', '', '', '✓', '✓'],
+  ['Customer Demographic Analytics', '', '', '✓', '✓'],
+  ['500 Promotional Handouts/month', '', '', '', '✓'],
+  ['Reward Token Price', '$0.20', '$0.20', '$0.20', '$0.20'],
+  ['Email Support', '✓', '✓', '✓', '✓'],
+  ['Training and Webinar Access', '✓', '✓', '✓', '✓'],
+  ['Dedicated Account Manager', '', '', '✓', '✓'],
+];
+---
+
+<BaseLayout title="Pricing" description="Month to month, no long term contracts. Choose the GOTYOU plan that fits your business.">
+  <div class="page-hero">
+    <div class="ph-label">Transparent Pricing</div>
+    <h1>Choose the Best Plan for Your Business</h1>
+    <p>Month to Month — No long term contracts. Only pay for what you need to grow your brand.</p>
+  </div>
+
+  <div class="section section--cream">
+    <div class="section-inner">
+      <div class="pricing-grid">
+        <div class="pc">
+          <h3>Standard</h3>
+          <div class="tagline">Increase Customer Engagement</div>
+          <div class="price-row"><span class="was">$69/mo</span><span class="amount">$49</span><span class="period">.95/mo</span></div>
+          <ul class="feature-list">
+            <li><i class="ti ti-check check" />All Basic Features</li>
+            <li><i class="ti ti-check check" />Unlimited Customer Contacts</li>
+            <li><i class="ti ti-check check" />Customer Feedback Campaigns</li>
+            <li><i class="ti ti-check check" />Customer Referral Campaigns</li>
+            <li><i class="ti ti-check check" />1 Custom Perk Campaign</li>
+            <li><i class="ti ti-check check" />Remote Check-in Campaign</li>
+            <li class="note"><i class="ti ti-minus dash" />$50 Setup Fee</li>
+            <li class="note"><i class="ti ti-minus dash" />Token Rewards $0.20</li>
+          </ul>
+          <a href="https://app.gotyou.co/signup" class="btn btn--outline pricing-btn">Get Started</a>
+        </div>
+
+        <div class="pc pc--featured">
+          <div class="popular-badge">Most Popular</div>
+          <h3>Plus</h3>
+          <div class="tagline">Increase Customer Frequency</div>
+          <div class="price-row"><span class="was">$129/mo</span><span class="amount">$99</span><span class="period">.95/mo</span></div>
+          <ul class="feature-list">
+            <li><i class="ti ti-check check" />All Standard Features</li>
+            <li><i class="ti ti-check check" />Survey Campaigns</li>
+            <li><i class="ti ti-check check" />1 Cross Promotion Campaign</li>
+            <li><i class="ti ti-check check" />Personalized Perks & Incentives</li>
+            <li><i class="ti ti-check check" />User Demographic Usage</li>
+            <li><i class="ti ti-check check" />Dedicated Account Manager</li>
+            <li class="note"><i class="ti ti-minus dash" />$100 Setup Fee</li>
+            <li class="note"><i class="ti ti-minus dash" />Token Rewards $0.20</li>
+          </ul>
+          <a href="https://app.gotyou.co/signup" class="btn btn--blue pricing-btn">Get Started</a>
+        </div>
+
+        <div class="pc">
+          <h3>Pro</h3>
+          <div class="tagline">Customer Growth & Local Brand Awareness</div>
+          <div class="price-row"><span class="was">$259/mo</span><span class="amount">$199</span><span class="period">.95/mo</span></div>
+          <ul class="feature-list">
+            <li><i class="ti ti-check check" />All Plus Features</li>
+            <li><i class="ti ti-check check" />3 Cross Promotions</li>
+            <li><i class="ti ti-check check" />Customized Branding</li>
+            <li><i class="ti ti-check check" />500 Printed Handouts</li>
+            <li><i class="ti ti-check check" />Demographic Reporting</li>
+            <li><i class="ti ti-check check" />1 IG/TT Post per month</li>
+            <li class="note"><i class="ti ti-minus dash" />$150 Setup Fee</li>
+            <li class="note"><i class="ti ti-minus dash" />Token Rewards $0.20</li>
+          </ul>
+          <a href="https://app.gotyou.co/signup" class="btn btn--outline pricing-btn">Get Started</a>
+        </div>
+      </div>
+
+      <div class="trial-note">⭐ Less than 5 employees? Ask about our Trial plan at <strong>$24.95/mo</strong> and other startup pricing!</div>
+    </div>
+  </div>
+
+  <div class="section section--white" style="padding-top: 0;">
+    <div class="section-inner">
+      <div class="center" style="padding-top: 3rem; margin-bottom: 2rem;">
+        <span class="section-label">Full Feature List</span>
+        <h2 class="section-title">The Power of GOTYOU</h2>
+      </div>
+      <div class="table-wrap">
+        <table class="feature-table">
+          <thead>
+            <tr>
+              <th style="text-align: left;">Feature</th>
+              <th>Basic<br /><small>$24.95/mo</small></th>
+              <th>Standard<br /><small>$49.95/mo</small></th>
+              <th>Plus<br /><small>$99.95/mo</small></th>
+              <th>Pro<br /><small>$199.95/mo</small></th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              featureRows.map((row) => (
+                <tr>
+                  <td>{row[0]}</td>
+                  {row.slice(1).map((v) => (
+                    <td>{v === '✓' ? <span class="check2">✓</span> : v || <span class="dash2">—</span>}</td>
+                  ))}
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="section section--cream">
+    <div class="section-inner">
+      <div class="two-col">
+        <div>
+          <span class="section-label">Enterprise</span>
+          <h2>Multi-Location Custom Pricing</h2>
+          <p>More than ten locations? We feel that it is important to only pay for what you need to grow your brand. Connect with us and we will have a custom quote for you within 24 hours.</p>
+          <a href="/contact" class="btn btn--blue">Contact Us for Pricing</a>
+        </div>
+        <div class="img-box">
+          <img src="/images/multi-location.png" alt="Multi-location pricing" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .page-hero { background: var(--blue); padding: 68px 2.5rem; text-align: center; }
+    .ph-label { font-family: var(--font-display); font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 12px; }
+    .page-hero h1 { font-size: clamp(26px, 5vw, 46px); font-weight: 900; color: #fff; margin-bottom: 1rem; line-height: 1.1; }
+    .page-hero p { color: rgba(255,255,255,.7); max-width: 580px; margin: 0 auto; font-size: 16px; line-height: 1.7; }
+
+    .pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(255px, 1fr)); gap: 1.5rem; margin-top: 1rem; }
+    .pc { background: #fff; border-radius: var(--radius); border: 1px solid var(--border); padding: 2rem; position: relative; }
+    .pc--featured { border: 2px solid var(--blue); box-shadow: 0 8px 40px rgba(21,101,216,.12); }
+    .popular-badge { position: absolute; top: -14px; left: 50%; transform: translateX(-50%); background: var(--blue); color: #fff; padding: 4px 18px; border-radius: 20px; font-size: 11px; font-weight: 700; font-family: var(--font-display); white-space: nowrap; text-transform: uppercase; }
+    .pc h3 { font-size: 20px; font-weight: 800; color: var(--text); margin-bottom: 4px; }
+    .tagline { font-size: 13px; color: var(--muted); margin-bottom: 1.5rem; }
+    .was { font-size: 13px; color: var(--muted); text-decoration: line-through; display: block; }
+    .amount { font-family: var(--font-display); font-size: 44px; font-weight: 900; color: var(--text); }
+    .period { font-size: 14px; color: var(--muted); }
+    .price-row { margin-bottom: 1.5rem; }
+    .feature-list { list-style: none; margin-bottom: 1.5rem; }
+    .feature-list li { padding: 7px 0; border-bottom: 1px solid var(--border); font-size: 14px; display: flex; align-items: center; gap: 8px; }
+    .feature-list li:last-child { border-bottom: none; }
+    .check { color: var(--green); font-size: 15px; flex-shrink: 0; }
+    .dash { color: #ccc; font-size: 15px; flex-shrink: 0; }
+    .note { color: var(--muted); font-size: 13px; }
+    .pricing-btn { display: flex; width: 100%; justify-content: center; }
+    .trial-note { background: var(--blue-light); border: 1px solid #c7d9ff; border-radius: var(--radius); padding: 1rem 1.5rem; text-align: center; margin-top: 1.5rem; font-size: 14px; color: var(--blue-3); }
+
+    .table-wrap { overflow-x: auto; margin-top: 2rem; }
+    .feature-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .feature-table th { background: var(--blue); color: #fff; padding: 12px 14px; font-family: var(--font-display); font-weight: 600; font-size: 12px; text-align: center; }
+    .feature-table th:first-child { text-align: left; }
+    .feature-table th small { opacity: .6; font-weight: 400; }
+    .feature-table td { padding: 10px 14px; border-bottom: 1px solid var(--border); text-align: center; }
+    .feature-table td:first-child { text-align: left; }
+    .feature-table tr:nth-child(even) td { background: #f7f9ff; }
+    .check2 { color: var(--green); font-weight: 700; }
+    .dash2 { color: #ccc; }
+
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
+    @media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }
+    .two-col h2 { font-size: clamp(20px, 2.8vw, 28px); font-weight: 800; margin-bottom: 1rem; color: var(--text); line-height: 1.25; }
+    .two-col p { font-size: 15px; color: var(--muted); line-height: 1.75; margin-bottom: 1.5rem; }
+    .img-box img { width: 100%; border-radius: var(--radius); }
+  </style>
+</BaseLayout>

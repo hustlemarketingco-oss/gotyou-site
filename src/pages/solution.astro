@@ -1,0 +1,98 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const features = [
+  { icon: 'ti-message-circle', title: 'Customer Feedback', desc: 'Collect real-time feedback from customers after every visit.' },
+  { icon: 'ti-clipboard-list', title: 'Online Surveys', desc: 'Create targeted surveys to understand customer preferences.' },
+  { icon: 'ti-coin', title: 'Digital Rewards', desc: 'Issue and manage $GET token rewards that drive repeat visits.' },
+  { icon: 'ti-chart-bar', title: 'Customer Dashboard', desc: 'Full visibility into customer activity and campaign performance.' },
+  { icon: 'ti-map-pin', title: 'Location Insights', desc: 'Understand when and how customers engage with your location.' },
+  { icon: 'ti-bell', title: 'In-App Notifications', desc: 'Targeted push notifications based on behavior and location.' },
+  { icon: 'ti-users', title: 'Customer Referrals', desc: 'Turn happy customers into brand ambassadors automatically.' },
+  { icon: 'ti-filter', title: 'Customer Segmentation', desc: 'Group customers by behavior and demographics.' },
+  { icon: 'ti-activity', title: 'Real-Time Reporting', desc: 'Live dashboards showing campaign performance and engagement.' },
+  { icon: 'ti-building-store', title: 'Multi-Location Discounts', desc: 'Manage promotions across all locations from one dashboard.' },
+];
+---
+
+<BaseLayout title="Solution" description="GOTYOU brings the data-driven power of e-commerce to local businesses. Personalized offers, real-time rewards, and AI-powered campaigns.">
+  <div class="page-hero">
+    <div class="ph-label">Business Solution</div>
+    <h1>Transform Your Customer Connections</h1>
+    <p>Empower Local Commerce with Personalized Connections. GOTYOU brings the data-driven power of e-commerce to local businesses.</p>
+    <div class="ph-btns">
+      <a href="/pricing" class="btn btn--yellow">View Merchant Pricing</a>
+      <a href="https://app.gotyou.co/sign-up" class="btn btn--outline" style="border-color: rgba(255,255,255,.4); color: #fff;">Get Started</a>
+    </div>
+  </div>
+
+  <div class="section section--cream">
+    <div class="section-inner two-col">
+      <div>
+        <span class="section-label">Personalized Commerce</span>
+        <h2>Really Begin to Know Your Customers</h2>
+        <p>GOTYOU brings the data-driven power of e-commerce to local businesses. Just like Amazon personalizes offers that reach customers daily, GOTYOU gives local merchants the ability to reach consumers with the right deals at the right time.</p>
+        <p>No more juggling multiple loyalty apps, email signups, or SMS campaigns—everything happens seamlessly through our platform, right at the point of transaction.</p>
+        <p>Our permission-based system allows you to gain valuable insights from your customers. Our AI-powered search engine optimizes based on comprehensive user profiles, geolocation, and past history.</p>
+        <a href="https://app.gotyou.co/sign-up" class="btn btn--blue">Get Started</a>
+      </div>
+      <div class="img-box">
+        <img src="/images/solution-campaigns.png" alt="GOTYOU Campaigns Dashboard" />
+      </div>
+    </div>
+  </div>
+
+  <div class="section section--white">
+    <div class="section-inner center">
+      <span class="section-label">Platform Features</span>
+      <h2 class="section-title">The Power of GOTYOU</h2>
+      <p class="section-sub">Everything you need to build meaningful customer relationships and grow your local business.</p>
+      <div class="feature-grid">
+        {
+          features.map((f) => (
+            <div class="feature-card">
+              <div class="fi"><i class={`ti ${f.icon}`} /></div>
+              <h4>{f.title}</h4>
+              <p>{f.desc}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <h2>Ready to Grow Your Business?</h2>
+    <p>Join local businesses already using GOTYOU to build lasting customer relationships.</p>
+    <div class="cta-btns">
+      <a href="https://app.gotyou.co/sign-up" class="btn btn--yellow">Get Started Today</a>
+      <a href="/pricing" class="btn btn--outline" style="border-color: rgba(255,255,255,.4); color: #fff;">See Pricing</a>
+    </div>
+  </div>
+
+  <style>
+    .page-hero { background: var(--blue); padding: 68px 2.5rem; text-align: center; }
+    .ph-label { font-family: var(--font-display); font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 12px; }
+    .page-hero h1 { font-size: clamp(26px, 5vw, 46px); font-weight: 900; color: #fff; margin-bottom: 1rem; }
+    .page-hero p { color: rgba(255,255,255,.7); max-width: 580px; margin: 0 auto; font-size: 16px; line-height: 1.7; }
+    .ph-btns { display: flex; gap: 1rem; justify-content: center; margin-top: 2rem; flex-wrap: wrap; }
+
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
+    @media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }
+    .two-col h2 { font-size: clamp(20px, 2.8vw, 28px); font-weight: 800; margin-bottom: 1rem; color: var(--text); line-height: 1.25; }
+    .two-col p { font-size: 15px; color: var(--muted); line-height: 1.75; margin-bottom: 1rem; }
+    .img-box img { width: 100%; border-radius: var(--radius); }
+
+    .feature-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.25rem; margin-top: 2.5rem; }
+    .feature-card { background: #fff; border-radius: var(--radius); border: 1px solid var(--border); padding: 1.5rem; text-align: left; }
+    .fi { width: 44px; height: 44px; border-radius: 50%; background: var(--blue); display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; }
+    .fi i { font-size: 20px; color: #fff; }
+    .feature-card h4 { font-size: 15px; font-weight: 700; margin-bottom: 6px; color: var(--text); }
+    .feature-card p { font-size: 13px; color: var(--muted); line-height: 1.6; }
+
+    .cta { background: var(--blue); padding: 72px 2.5rem; text-align: center; }
+    .cta h2 { font-size: clamp(24px, 4vw, 38px); font-weight: 900; color: #fff; margin-bottom: 1rem; }
+    .cta p { color: rgba(255,255,255,.7); font-size: 16px; max-width: 520px; margin: 0 auto 2.5rem; line-height: 1.7; }
+    .cta-btns { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+  </style>
+</BaseLayout>

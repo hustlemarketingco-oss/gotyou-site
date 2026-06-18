@@ -1,0 +1,102 @@
+---
+import { NAV_LINKS, BRAND } from '../lib/constants';
+
+const currentPath = Astro.url.pathname;
+
+function isActive(href: string) {
+  if (href === '/') return currentPath === '/';
+  return currentPath.startsWith(href);
+}
+---
+
+<nav>
+  <a href="/" class="logo" aria-label={`${BRAND.name} home`}>
+    <span class="lc">G</span><span class="lc">O</span><span class="lc">T</span>
+    <span class="lc">Y</span><span class="lc">O</span><span class="lc">U</span>
+  </a>
+  <div class="nav-right">
+    {
+      NAV_LINKS.map((link) => (
+        <a href={link.href} class={isActive(link.href) ? 'active' : ''}>
+          {link.label}
+        </a>
+      ))
+    }
+    <a href={BRAND.appUrl} class="nav-login">Merchant Login</a>
+  </div>
+</nav>
+
+<style>
+  nav {
+    background: var(--blue);
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Logo: 6 white circles, 3x2 grid, black letters — matches the real GotYou mark */
+  .logo {
+    display: inline-grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    cursor: pointer;
+  }
+  .lc {
+    width: 21px;
+    height: 21px;
+    border-radius: 50%;
+    background: #fff;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-display);
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 1;
+  }
+
+  .nav-right {
+    display: flex;
+    align-items: center;
+    gap: 1.75rem;
+  }
+  .nav-right a {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+    font-weight: 500;
+    font-family: var(--font-display);
+    transition: color 0.2s;
+  }
+  .nav-right a:hover,
+  .nav-right a.active {
+    color: #fff;
+  }
+  .nav-login {
+    background: var(--yellow);
+    color: #000 !important;
+    padding: 9px 20px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 700 !important;
+    transition: background 0.2s;
+  }
+  .nav-login:hover {
+    background: var(--yellow-2);
+  }
+
+  @media (max-width: 860px) {
+    .nav-right {
+      gap: 1rem;
+    }
+    .nav-right a:not(.nav-login) {
+      display: none;
+    }
+  }
+</style>

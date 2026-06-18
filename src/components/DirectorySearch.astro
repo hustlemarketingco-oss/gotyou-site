@@ -1,0 +1,292 @@
+---
+// This is the one genuinely interactive piece of the directory. Rather than
+// pulling in a UI framework for a search box + filter pills, this ships the
+// pre-built search index as inline JSON and filters with vanilla JS. At a
+// few thousand businesses the whole index is still well under what's
+// reasonable to ship as a static <script> payload — if the directory grows
+// past ~20k businesses, swap this for a Cloudflare Worker search endpoint
+// instead of filtering client-side (see SKILL notes in scripts/README.md).
+interface BusinessSearchEntry {
+  slug: string;
+  name: string;
+  category: string;
+  city: string;
+  address: string;
+  claimStatus: 'unclaimed' | 'pending' | 'claimed';
+  checkinCount: number;
+}
+
+interface Props {
+  businesses: BusinessSearchEntry[];
+  cities: string[];
+}
+
+const { businesses, cities } = Astro.props;
+const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort();
+---
+
+<div class="section section--cream">
+  <div class="section-inner">
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Search business name or category..." />
+      <select id="cityFilter">
+        <option value="">All Cities</option>
+        {cities.map((c) => <option value={c}>{c}</option>)}
+      </select>
+    </div>
+    <div class="pills" id="categoryPills">
+      {categories.map((c) => (
+        <button class:list={['pill', c === 'All' && 'active']} data-cat={c}>{c}</button>
+      ))}
+    </div>
+    <div class="result-count" id="resultCount"></div>
+    <div class="grid" id="bizGrid"></div>
+  </div>
+</div>
+
+<script type="application/json" id="businessData" set:html={JSON.stringify(businesses)} />
+
+<script>
+  type BusinessSearchEntry = {
+    slug: string;
+    name: string;
+    category: string;
+    city: string;
+    address: string;
+    claimStatus: 'unclaimed' | 'pending' | 'claimed';
+    checkinCount: number;
+  };
+
+  const dataEl = document.getElementById('businessData');
+  const ALL_BUSINESSES: BusinessSearchEntry[] = JSON.parse(dataEl?.textContent || '[]');
+
+  const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+  const cityFilter = document.getElementById('cityFilter') as HTMLSelectElement;
+  const pillsContainer = document.getElementById('categoryPills') as HTMLDivElement;
+  const grid = document.getElementById('bizGrid') as HTMLDivElement;
+  const resultCount = document.getElementById('resultCount') as HTMLDivElement;
+
+  let activeCategory = 'All';
+
+  function statusBadgeHtml(status: BusinessSearchEntry['claimStatus']) {
+    if (status === 'claimed') return '<span class="badge claimed"><i class="ti ti-check"></i> Verified</span>';
+    if (status === 'pending') return '<span class="badge pending"><i class="ti ti-clock"></i> In Review</span>';
+    return '<span class="badge unclaimed"><i class="ti ti-alert-circle"></i> Unclaimed</span>';
+  }
+
+  function render(list: BusinessSearchEntry[]) {
+    resultCount.textContent = `${list.length} business${list.length === 1 ? '' : 'es'} found`;
+
+    if (!list.length) {
+      grid.innerHTML = `<div class="empty"><i class="ti ti-search"></i><p>No businesses found. Try a different search.</p></div>`;
+      return;
+    }
+
+    grid.innerHTML = list
+      .map(
+        (b) => `
+        <a href="/businesses/${b.slug}" class="card">
+          <div class="card-img">
+            <i class="ti ti-building-store"></i>
+            ${statusBadgeHtml(b.claimStatus)}
+          </div>
+          <div class="card-body">
+            <h3>${b.name}</h3>
+            <div class="cat">${b.category} · ${b.city}</div>
+            <div class="meta"><i class="ti ti-map-pin"></i>${b.address}</div>
+            ${b.checkinCount > 0 ? `<div class="checkins"><i class="ti ti-map-check"></i>${b.checkinCount} check-ins</div>` : ''}
+          </div>
+        </a>`
+      )
+      .join('');
+  }
+
+  function filter() {
+    const q = searchInput.value.toLowerCase().trim();
+    const city = cityFilter.value;
+
+    const filtered = ALL_BUSINESSES.filter((b) => {
+      const matchesQuery = !q || b.name.toLowerCase().includes(q) || b.category.toLowerCase().includes(q);
+      const matchesCity = !city || b.city === city;
+      const matchesCategory = activeCategory === 'All' || b.category === activeCategory;
+      return matchesQuery && matchesCity && matchesCategory;
+    });
+
+    render(filtered);
+  }
+
+  searchInput.addEventListener('input', filter);
+  cityFilter.addEventListener('change', filter);
+
+  pillsContainer.querySelectorAll<HTMLButtonElement>('.pill').forEach((pill) => {
+    pill.addEventListener('click', () => {
+      activeCategory = pill.dataset.cat || 'All';
+      pillsContainer.querySelectorAll('.pill').forEach((p) => p.classList.remove('active'));
+      pill.classList.add('active');
+      filter();
+    });
+  });
+
+  // Initial render — runs once on page load with the full unfiltered list
+  filter();
+</script>
+
+<style>
+  .controls {
+    display: flex;
+    gap: 0;
+    max-width: 580px;
+    margin: -40px auto 1.5rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .controls input {
+    flex: 1;
+    padding: 16px 20px;
+    border: none;
+    font-size: 15px;
+    font-family: var(--font-body);
+    outline: none;
+  }
+  .controls select {
+    padding: 16px 14px;
+    border: none;
+    border-left: 1px solid var(--border);
+    font-size: 14px;
+    font-family: var(--font-body);
+    outline: none;
+    background: #fff;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .pills {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+  .pill {
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: var(--white);
+    font-size: 13px;
+    cursor: pointer;
+    color: var(--muted);
+    transition: all 0.2s;
+    font-family: var(--font-body);
+  }
+  .pill.active,
+  .pill:hover {
+    background: var(--blue);
+    color: #fff;
+    border-color: var(--blue);
+  }
+
+  .result-count {
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 1rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .card {
+    background: var(--white);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    overflow: hidden;
+    display: block;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
+  }
+  .card-img {
+    height: 120px;
+    background: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .card-img > i {
+    font-size: 34px;
+    color: rgba(255, 255, 255, 0.25);
+  }
+  .card-body {
+    padding: 1rem 1.25rem;
+  }
+  .card-body h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: var(--text);
+  }
+  .cat {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .checkins {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--blue);
+    margin-top: 8px;
+  }
+
+  .badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .badge.claimed {
+    background: var(--green);
+    color: #fff;
+  }
+  .badge.unclaimed {
+    background: #ff6b2b;
+    color: #fff;
+  }
+  .badge.pending {
+    background: var(--yellow);
+    color: #000;
+  }
+
+  .empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 3rem;
+    color: var(--muted);
+  }
+  .empty i {
+    font-size: 40px;
+    margin-bottom: 1rem;
+    display: block;
+    opacity: 0.3;
+  }
+</style>

@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title="Blog" description="Insights on local commerce, consumer behavior, and the future of community-driven business.">
+  <div class="page-hero">
+    <div class="ph-label">Insights</div>
+    <h1>The GOTYOU Blog</h1>
+    <p>Insights on local commerce, consumer behavior, and the future of community-driven business.</p>
+  </div>
+
+  <div class="section section--cream">
+    <div class="section-inner">
+      <div class="blog-grid">
+        {
+          posts.map((post) => (
+            <a href={`/blog/${post.id}`} class="blog-card">
+              <div class="blog-img">
+                {post.data.heroImage ? <img src={post.data.heroImage} alt={post.data.title} /> : <i class="ti ti-article" />}
+                <span class="blog-tag">{post.data.tag}</span>
+              </div>
+              <div class="blog-body">
+                <h3>{post.data.title}</h3>
+                <p>{post.data.description}</p>
+                <div class="blog-meta">
+                  <i class="ti ti-user" />{post.data.author} &nbsp;&middot;&nbsp;
+                  <i class="ti ti-calendar" />{post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+                </div>
+              </div>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .page-hero { background: var(--blue); padding: 68px 2.5rem; text-align: center; }
+    .ph-label { font-family: var(--font-display); font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 12px; }
+    .page-hero h1 { font-size: clamp(26px, 5vw, 46px); font-weight: 900; color: #fff; margin-bottom: 1rem; }
+    .page-hero p { color: rgba(255,255,255,.7); max-width: 580px; margin: 0 auto; font-size: 16px; line-height: 1.7; }
+
+    .blog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.5rem; }
+    .blog-card { background: #fff; border-radius: var(--radius); border: 1px solid var(--border); overflow: hidden; display: block; transition: transform .2s, box-shadow .2s; }
+    .blog-card:hover { transform: translateY(-4px); box-shadow: 0 12px 40px rgba(0,0,0,.1); }
+    .blog-img { height: 170px; background: var(--blue); display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
+    .blog-img img { width: 100%; height: 100%; object-fit: cover; }
+    .blog-img > i { font-size: 44px; color: rgba(255,255,255,.2); }
+    .blog-tag { position: absolute; bottom: 10px; left: 10px; background: var(--yellow); color: #000; padding: 3px 10px; border-radius: 4px; font-size: 10px; font-weight: 700; font-family: var(--font-display); text-transform: uppercase; letter-spacing: .3px; }
+    .blog-body { padding: 1.25rem; }
+    .blog-body h3 { font-size: 15px; font-weight: 700; line-height: 1.4; margin-bottom: 8px; color: var(--text); }
+    .blog-body p { font-size: 13px; color: var(--muted); line-height: 1.6; margin-bottom: 12px; }
+    .blog-meta { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+  </style>
+</BaseLayout>

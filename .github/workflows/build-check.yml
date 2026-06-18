@@ -1,0 +1,26 @@
+name: Build Check
+
+# Runs on every push and PR to catch broken builds before Cloudflare Pages'
+# auto-deploy picks them up. This is the safety net underneath the agent
+# workflows above — if seed-market.yml or maintain-businesses.yml ever
+# commits malformed content, this is what catches it.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build

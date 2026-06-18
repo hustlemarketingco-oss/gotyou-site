@@ -1,0 +1,88 @@
+---
+import StatusBadge from './StatusBadge.astro';
+
+interface Props {
+  slug: string;
+  name: string;
+  category: string;
+  city: string;
+  address: string;
+  claimStatus: 'unclaimed' | 'pending' | 'claimed';
+  checkinCount: number;
+}
+
+const { slug, name, category, city, address, claimStatus, checkinCount } = Astro.props;
+---
+
+<a href={`/businesses/${slug}`} class="biz-card">
+  <div class="biz-card-img">
+    <span class="cat-icon"><i class="ti ti-building-store" /></span>
+    <StatusBadge status={claimStatus} size="sm" />
+  </div>
+  <div class="biz-card-body">
+    <h3>{name}</h3>
+    <div class="cat">{category} · {city}</div>
+    <div class="meta"><i class="ti ti-map-pin" />{address}</div>
+    {checkinCount > 0 && (
+      <div class="checkins"><i class="ti ti-map-check" />{checkinCount} check-ins</div>
+    )}
+  </div>
+</a>
+
+<style>
+  .biz-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: block;
+  }
+  .biz-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
+  }
+  .biz-card-img {
+    height: 130px;
+    background: var(--blue);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .cat-icon {
+    font-size: 36px;
+    color: rgba(255, 255, 255, 0.25);
+  }
+  .biz-card-body {
+    padding: 1rem 1.25rem;
+  }
+  .biz-card-body h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    line-height: 1.3;
+    color: var(--text);
+  }
+  .cat {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .checkins {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--blue);
+    margin-top: 8px;
+  }
+</style>

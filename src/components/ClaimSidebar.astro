@@ -1,0 +1,124 @@
+---
+// The primary conversion unit on every business profile page. Phase 1: the
+// "Claim This Business" button links to a static form page that emails the
+// GotYou team. Phase 2: swap the href for a client-side island that writes
+// directly to the app DB and flips claimStatus in real time.
+interface Props {
+  slug: string;
+  name: string;
+  claimStatus: 'unclaimed' | 'pending' | 'claimed';
+}
+
+const { slug, name, claimStatus } = Astro.props;
+---
+
+<div class:list={['claim-card', claimStatus]}>
+  {
+    claimStatus === 'claimed' ? (
+      <>
+        <h3>This business is on GOTYOU</h3>
+        <p>Visit this location and open the GOTYOU app to earn $GET tokens on your next check-in.</p>
+        <a href="/download" class="btn btn--blue claim-btn">Download App & Earn Tokens</a>
+      </>
+    ) : claimStatus === 'pending' ? (
+      <>
+        <h3>Claim in review</h3>
+        <p>We're verifying ownership for {name}. This usually takes less than 24 hours.</p>
+        <a href={`/businesses/${slug}/claim-status`} class="btn btn--outline claim-btn">Check Claim Status</a>
+      </>
+    ) : (
+      <>
+        <h3>Own this business?</h3>
+        <p>Claim your free listing to manage your profile, see customer check-ins, and start rewarding customers with $GET tokens.</p>
+        <a href={`/businesses/${slug}/claim`} class="btn btn--yellow claim-btn">Claim This Business</a>
+      </>
+    )
+  }
+</div>
+
+<div class="value-props">
+  <h3>Why GOTYOU works</h3>
+  <div class="vp"><i class="ti ti-repeat" /><div><strong>More repeat visits</strong><span>Customers earn tokens and come back to spend them</span></div></div>
+  <div class="vp"><i class="ti ti-star" /><div><strong>More 5-star reviews</strong><span>Reward customers for leaving honest feedback</span></div></div>
+  <div class="vp"><i class="ti ti-users" /><div><strong>Word of mouth</strong><span>Referral tokens turn happy customers into ambassadors</span></div></div>
+  <div class="vp"><i class="ti ti-chart-line" /><div><strong>Real analytics</strong><span>See who's visiting, how often, and what's working</span></div></div>
+</div>
+
+<style>
+  .claim-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    border: 2px solid var(--yellow);
+    padding: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+  .claim-card.claimed {
+    border-color: var(--green);
+  }
+  .claim-card.pending {
+    border-color: var(--yellow-2);
+  }
+  .claim-card h3 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text);
+  }
+  .claim-card p {
+    font-size: 14px;
+    color: var(--muted);
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+  }
+  .claim-btn {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .value-props {
+    background: var(--white);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    padding: 1.5rem;
+  }
+  .value-props h3 {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--text);
+  }
+  .vp {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 1rem;
+    align-items: flex-start;
+  }
+  .vp:last-child {
+    margin-bottom: 0;
+  }
+  .vp i {
+    width: 34px;
+    height: 34px;
+    border-radius: 8px;
+    background: var(--blue-light);
+    color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 17px;
+  }
+  .vp strong {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 2px;
+    color: var(--text);
+  }
+  .vp span {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+</style>

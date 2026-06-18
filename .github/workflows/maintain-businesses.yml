@@ -1,0 +1,44 @@
+name: Maintain Business Data
+
+# Runs weekly to catch closures, changed hours, and other drift in existing
+# business records. Also runnable manually for an on-demand check.
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Every Monday at 6am UTC
+  workflow_dispatch: {}
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for stale business data
+        id: maintain
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: node scripts/maintain-businesses.js
+        continue-on-error: true # capture exit code without failing the job outright — see next step
+
+      - name: Commit any data updates
+        run: |
+          git config user.name "gotyou-maintenance-bot"
+          git config user.email "bot@gotyou.co"
+          git add src/content/businesses/
+          git diff --staged --quiet || git commit -m "Weekly business data refresh"
+          git push
+
+      - name: Fail the run if businesses were flagged for review
+        if: steps.maintain.outcome == 'failure'
+        run: |
+          echo "::warning::One or more businesses were flagged for manual review. Check the job log above for details."
+          exit 1
