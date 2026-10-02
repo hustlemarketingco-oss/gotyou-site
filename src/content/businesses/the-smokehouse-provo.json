@@ -1,0 +1,40 @@
+{
+  "slug": "the-smokehouse-provo",
+  "name": "The Smokehouse",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "380 1860 S",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2075921,
+  "lng": -111.65123279999999,
+  "phone": "+18018527747",
+  "website": "https://www.timpanogosgolf.com/about/thesmokehouse/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Smokehouse/data=!4m7!3m6!1s0x874d97869c0fb729:0x231bd165255887d1!8m2!3d40.2075921!4d-111.6512328!16s%2Fg%2F11tf29210r!19sChIJKbcPnIaXTYcR0YdYJWXRGyM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJKbcPnIaXTYcR0YdYJWXRGyM",
+  "googleRating": 4.5,
+  "googleReviewCount": 12,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknKNE_nSAR4SlawZ35U9Lpy76087R-PxQgHRpfhDS94MNqO3gQ4B0jtmx5f2KAy7KothKjJMNxzJaUtCDWJAUsM6vovzAg6Z4ftrNho6Z-pXFmIdSeGPlX6sb1TSjSZmtS1UACjA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 6:30 PM",
+    "tue": "7:00 AM - 6:30 PM",
+    "wed": "7:00 AM - 6:30 PM",
+    "thu": "7:00 AM - 6:30 PM",
+    "fri": "7:00 AM - 6:30 PM",
+    "sat": "7:00 AM - 6:30 PM",
+    "sun": "7:00 AM - 6:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

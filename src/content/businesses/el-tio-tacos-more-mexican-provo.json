@@ -1,0 +1,40 @@
+{
+  "slug": "el-tio-tacos-more-mexican-provo",
+  "name": "El Tio Tacos & More | Mexican",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "1774 N University Pkwy Ste 4",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.256999,
+  "lng": -111.6601041,
+  "phone": "+18019609195",
+  "website": "https://www.eltiotaco.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Tio+Tacos+%26+More+%7C+Mexican/data=!4m7!3m6!1s0x874d91001b025d6f:0x15c3973aedb04cbe!8m2!3d40.256999!4d-111.6601041!16s%2Fg%2F11wfh223__!19sChIJb10CGwCRTYcRvkyw7TqXwxU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJb10CGwCRTYcRvkyw7TqXwxU",
+  "googleRating": 4.8,
+  "googleReviewCount": 348,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhrq4-oFcPFFe8_hOtDQ16LslZGvLoTVqR4dqWk8m8Y_8qGbfc_EP2r5MSvOKA8ndjeWhXCn0ED2PeR-oyc2IXixhB-lKV4KNFjERMukQxV8WOa4x65EItYxkd5la6AIZn0yvaeTNDiSi6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

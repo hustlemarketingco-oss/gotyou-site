@@ -2,8 +2,9 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
+import { sizedPhoto } from '../../lib/business';
 
-const allBusinesses = await getCollection('businesses');
+const allBusinesses = (await getCollection('businesses')).filter((b) => !b.data.temporarilyClosed);
 
 // Serialize just what the client-side search island needs — keeps the
 // hydrated payload small instead of shipping full Astro content entries.
@@ -11,27 +12,215 @@ const searchIndex = allBusinesses.map((b) => ({
   slug: b.data.slug,
   name: b.data.name,
   category: b.data.category,
+  googleCategory: b.data.googleCategory ?? b.data.category,
   city: b.data.city,
   address: b.data.address,
   claimStatus: b.data.claimStatus,
-  checkinCount: b.data.checkinCount,
+  rating: b.data.googleRating ?? 0,
+  reviews: b.data.googleReviewCount ?? 0,
+  price: b.data.priceRange ?? '',
+  photo: sizedPhoto(b.data.photoUrl, 640, 420) ?? '',
 }));
 
 const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
 ---
 
 <BaseLayout
-  title="Business Directory"
-  description="Find and claim your business on GOTYOU. Browse local businesses already earning customer loyalty with $GET token rewards."
+  title="Local Business Directory"
+  description={`Find local spots near you across ${cities.length} cities. Browse ${allBusinesses.length} local businesses, see hours and ratings, and earn cash for showing up with GOTYOU.`}
 >
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      New Feature Preview <span class="new-tag" style="margin-left: 4px;">new</span>
+  <section class="dir-hero">
+    <div class="dir-hero-inner">
+      <div class="eyebrow" style="justify-content: center;">
+        <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+        Your city. One drop a day.
+      </div>
+      <h1>Find the local spots <span class="hl">worth showing up for</span></h1>
+      <p class="lede">
+        Hours, ratings and directions for the businesses near you — and the ones on GOTYOU pay you real cash for the visit.
+      </p>
+      <form class="search" id="dirSearchForm" role="search" onsubmit="return false">
+        <i class="ti ti-search" aria-hidden="true"></i>
+        <input type="search" id="searchInput" placeholder="Tacos, coffee, a place name…" aria-label="Search businesses" />
+        <select id="cityFilter" aria-label="City">
+          <option value="">All cities</option>
+          {cities.map((c) => <option value={c}>{c}</option>)}
+        </select>
+      </form>
+      <div class="hero-stats">
+        <span><strong>{allBusinesses.length.toLocaleString()}</strong> local businesses</span>
+        <span class="sep" aria-hidden="true"></span>
+        <span><strong>{cities.length}</strong> cities</span>
+        <span class="sep" aria-hidden="true"></span>
+        <a href="#claim-cta">Own a business? <u>Claim it free</u></a>
+      </div>
     </div>
-    <h1>Find & Claim Your Business on GOTYOU</h1>
-    <p class="lede">A business directory in development. Sample listings shown below for layout purposes — not yet live on gotyou.co.</p>
+  </section>
+
+  <div class="theme-light">
+    <DirectorySearch businesses={searchIndex} />
   </div>
 
-  <DirectorySearch businesses={searchIndex} cities={cities} />
+  <section class="claim-band" id="claim-cta">
+    <div class="claim-band-inner reveal">
+      <div>
+        <span class="section-eyebrow">For business owners</span>
+        <h2>Customers are already looking you up. Turn the look into a visit.</h2>
+        <p>Claim your free listing to fix your details, see who's checking in, and reward the regulars who keep coming back.</p>
+      </div>
+      <div class="claim-band-actions">
+        <a href="https://app.gotyou.co" class="btn-primary">Merchant login <i class="ti ti-arrow-right"></i></a>
+        <a href="/solution" class="btn-outline-dark">How it works</a>
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .dir-hero {
+    position: relative;
+    overflow: hidden;
+    padding: 84px 1.5rem 56px;
+    text-align: center;
+    background:
+      radial-gradient(900px 420px at 50% -10%, rgba(21, 101, 216, 0.35), transparent 70%),
+      radial-gradient(600px 300px at 85% 110%, rgba(245, 197, 24, 0.12), transparent 70%),
+      var(--navy);
+  }
+  .dir-hero-inner {
+    max-width: 780px;
+    margin: 0 auto;
+  }
+  .dir-hero h1 {
+    font-size: clamp(32px, 5vw, 54px);
+    line-height: 1.08;
+    letter-spacing: -0.02em;
+    margin-bottom: 18px;
+  }
+  .hl {
+    color: var(--yellow);
+  }
+  .lede {
+    color: var(--text-dim);
+    font-size: 17px;
+    max-width: 600px;
+    margin: 0 auto 32px;
+  }
+  .search {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 100px;
+    padding: 6px 6px 6px 22px;
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  .search > i {
+    color: #8b91ab;
+    font-size: 20px;
+  }
+  .search input {
+    flex: 1;
+    min-width: 0;
+    border: none;
+    outline: none;
+    font: 16px var(--font-body);
+    padding: 12px 12px;
+    color: #0b1029;
+    background: transparent;
+  }
+  .search select {
+    border: none;
+    outline: none;
+    background: #eef1f7;
+    color: #0b1029;
+    font: 600 14px var(--font-body);
+    padding: 12px 16px;
+    border-radius: 100px;
+    cursor: pointer;
+    max-width: 44%;
+  }
+  .hero-stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px 16px;
+    margin-top: 26px;
+    color: var(--text-dim);
+    font-size: 14px;
+  }
+  .hero-stats strong {
+    color: #fff;
+  }
+  .hero-stats a:hover {
+    color: var(--yellow);
+  }
+  .sep {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--text-dimmer);
+  }
+
+  .claim-band {
+    background: var(--navy);
+    padding: 72px 1.5rem;
+  }
+  .claim-band-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 2.5rem;
+    align-items: center;
+    background: linear-gradient(135deg, #1565d8, #0a3d9e);
+    border-radius: 24px;
+    padding: 3rem;
+  }
+  .claim-band .section-eyebrow {
+    color: var(--yellow);
+  }
+  .claim-band h2 {
+    font-size: clamp(24px, 3vw, 34px);
+    line-height: 1.15;
+    margin-bottom: 12px;
+  }
+  .claim-band p {
+    color: rgba(255, 255, 255, 0.78);
+  }
+  .claim-band-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: flex-end;
+  }
+  @media (max-width: 800px) {
+    .claim-band-inner {
+      grid-template-columns: 1fr;
+      padding: 2rem 1.5rem;
+    }
+    .claim-band-actions {
+      justify-content: flex-start;
+    }
+  }
+  @media (max-width: 520px) {
+    .dir-hero {
+      padding: 56px 16px 40px;
+    }
+    .search {
+      flex-wrap: wrap;
+      border-radius: 20px;
+      padding: 8px 8px 8px 16px;
+    }
+    .search input {
+      flex-basis: 70%;
+    }
+    .search select {
+      flex-basis: 100%;
+      max-width: none;
+      margin-top: 4px;
+    }
+  }
+</style>

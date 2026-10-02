@@ -1,0 +1,41 @@
+{
+  "slug": "saigon-cafe-provo",
+  "name": "Saigon Café",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "address": "440 W 300 S",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2299319,
+  "lng": -111.6664946,
+  "phone": "+18018121173",
+  "website": "http://www.saigoncafeprovo.biz/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Saigon+Caf%C3%A9/data=!4m7!3m6!1s0x874d99fe036746ad:0x50ca5d3214f09170!8m2!3d40.2299319!4d-111.6664946!16s%2Fg%2F1thxr3bm!19sChIJrUZnA_6ZTYcRcJHwFDJdylA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJrUZnA_6ZTYcRcJHwFDJdylA",
+  "googleRating": 4.6,
+  "googleReviewCount": 988,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkK9f3yzt2Z6rCVwSeV4wBayQgbSFWoK2c4xsQKMKzGdPlfAz-QeZorrssFI99dB06_XfNs7-qqJOiShs0ZNuVj48-wSThfg8ck2Yh55Cc_RtUvDmAjNMxTa6_QjB8S5nXMi9y5=w1200-h800-k-no",
+  "description": "Hearty portions of Asian-inspired fare for a bargain in a modest, no-frills space.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

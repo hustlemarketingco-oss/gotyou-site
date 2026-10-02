@@ -1,0 +1,45 @@
+{
+  "slug": "jcws-the-burger-boys-provo",
+  "name": "JCW's The Burger Boys",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Fast food restaurant",
+    "New American restaurant",
+    "Restaurant"
+  ],
+  "address": "396 W 2230 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.263842,
+  "lng": -111.66568199999999,
+  "phone": "+18013745297",
+  "website": "http://www.jcws.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/JCW%27s+The+Burger+Boys/data=!4m7!3m6!1s0x874d909d4c532643:0x98e301619347ce16!8m2!3d40.263842!4d-111.665682!16s%2Fg%2F1hc0v957p!19sChIJQyZTTJ2QTYcRFs5Hk2EB45g?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJQyZTTJ2QTYcRFs5Hk2EB45g",
+  "googleRating": 4,
+  "googleReviewCount": 2607,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleo-noWHOAqOnvQDM_8YyYgM8_2M4vubz_9GoJWcDvs-yJyvKW5T9tdY-gzGfLvlEy965zmLu0PrR_FVS5s4nRAM3kV08r3_P0jJar6eW_11zPp-E-ztIx_VNPpikfBlfFcnacgg=w1200-h800-k-no",
+  "description": "Straightforward counter-serve dishing out charbroiled burgers with creative topping combinations.",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

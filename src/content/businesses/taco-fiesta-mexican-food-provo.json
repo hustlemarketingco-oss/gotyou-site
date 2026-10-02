@@ -1,0 +1,40 @@
+{
+  "slug": "taco-fiesta-mexican-food-provo",
+  "name": "Taco Fiesta Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "205 400 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.238932899999995,
+  "lng": -111.6624664,
+  "phone": "+13858423686",
+  "website": "https://tacofiestamexicanfoodut.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Fiesta+Mexican+Food/data=!4m7!3m6!1s0x874d91d31c987f93:0x99e8d63cfaac57bc!8m2!3d40.2389329!4d-111.6624664!16s%2Fg%2F11k9mcfhlx!19sChIJk3-YHNORTYcRvFes-jzW6Jk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJk3-YHNORTYcRvFes-jzW6Jk",
+  "googleRating": 4.6,
+  "googleReviewCount": 192,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfRdNSuu4-RMuRXhmq-_lSFQ-fRK2IoixUxKS6ZV2UBJ_wB11S6s5_e7E2llM7Cf2DEMIswhFDuNuF7SwFAB3nAlpM-gLoicLbYUkqoIkVqvVcinGjctiN6V0-iiSuYOupT9Neao8oyf4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

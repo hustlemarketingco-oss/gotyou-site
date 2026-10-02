@@ -1,0 +1,40 @@
+{
+  "slug": "the-meltdown-provo",
+  "name": "The Meltdown",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1680 Freedom Blvd 200 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2438222,
+  "lng": -111.66189879999999,
+  "phone": "+18013758362",
+  "website": "https://themeltdown.com/?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Meltdown/data=!4m7!3m6!1s0x874d918b79eb4359:0x427f908faf0a32f4!8m2!3d40.2438222!4d-111.6618988!16s%2Fg%2F11x2ls1w08!19sChIJWUPreYuRTYcR9DIKr4-Qf0I?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJWUPreYuRTYcR9DIKr4-Qf0I",
+  "googleRating": 2.1,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7dgwSVHQ7f8tf9mHb1hYttBMSGI8N0adFxewlsW8mlUefB-3270h80Z-Izfvv9tokHf6S8xhUWzZmoevIUF6OEH3wDtWRWTlNvVlL-Cy2Bw7ZkyGpePhvCNjZv2x2jskJYgaI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

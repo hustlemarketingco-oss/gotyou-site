@@ -1,0 +1,48 @@
+{
+  "slug": "wingers-restaurant-alehouse-provo",
+  "name": "WINGERS Restaurant & Alehouse",
+  "category": "Fast Food",
+  "googleCategory": "Chicken wings restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar & grill",
+    "Family restaurant",
+    "Delivery Restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "1200 Towne Centre Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2173525,
+  "lng": -111.6623462,
+  "phone": "+18018122141",
+  "website": "https://www.wingersalehouse.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/WINGERS+Restaurant+%26+Alehouse/data=!4m7!3m6!1s0x874d975e701173db:0x1b9e9c3d2609ce79!8m2!3d40.2173525!4d-111.6623462!16s%2Fg%2F1tdpgp9h!19sChIJ23MRcF6XTYcRec4JJj2cnhs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ23MRcF6XTYcRec4JJj2cnhs",
+  "googleRating": 3.9,
+  "googleReviewCount": 1111,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmxUAKSCORlAqgMxoB5c3wnhehspcy7SV_Bh6E-GcJW2CbrjLxz1SVNGDaau-iN7gk968BOWKY9Rx-VCZiHWFRBMuxmGN0wt_4y5mZe3Qcwj18wb8kAjqriZK-cJggYAoy8coV5k2z2mU=w1200-h800-k-no",
+  "description": "Roadhouse-style chain serving wings, burgers & hearty comfort-food plates, plus craft beers.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

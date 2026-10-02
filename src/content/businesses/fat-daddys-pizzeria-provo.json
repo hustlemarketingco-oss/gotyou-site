@@ -1,0 +1,43 @@
+{
+  "slug": "fat-daddys-pizzeria-provo",
+  "name": "Fat Daddy's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery"
+  ],
+  "address": "223 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2333954,
+  "lng": -111.6626988,
+  "phone": "+18013774992",
+  "website": "http://fatdaddyspizzeria.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fat+Daddy%27s+Pizzeria/data=!4m7!3m6!1s0x874d91bc3f55ec81:0xcc7b52eaaff7274c!8m2!3d40.2333954!4d-111.6626988!16s%2Fg%2F11h0324c3m!19sChIJgexVP7yRTYcRTCf3r-pSe8w?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJgexVP7yRTYcRTCf3r-pSe8w",
+  "googleRating": 4.6,
+  "googleReviewCount": 2359,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqBzoHIC6fPKeXAnB8IsV-11Euht9OVt5vML9kzMgB5LZZiROFEyJFlhTEE4HgPGqs9APDXnbQPXfmIiTldDyEwWpm82qLyGiGJAcLdM-ew-Ts7ajmTHMXi9xf6Il3H9daXwZKZOlD4Jjw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "4:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

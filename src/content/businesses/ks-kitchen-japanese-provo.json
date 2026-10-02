@@ -1,0 +1,45 @@
+{
+  "slug": "ks-kitchen-japanese-provo",
+  "name": "K’s Kitchen | Japanese",
+  "category": "Asian & Pacific",
+  "googleCategory": "Authentic Japanese restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Japanese curry restaurant"
+  ],
+  "address": "322 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2340003,
+  "lng": -111.6643916,
+  "phone": "+13852017523",
+  "website": "https://ksjapanesekitchen.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/K%E2%80%99s+Kitchen+%7C+Japanese/data=!4m7!3m6!1s0x874d97b2bea2087d:0x502378db233268f3!8m2!3d40.2340003!4d-111.6643916!16s%2Fg%2F11gjp30dyj!19sChIJfQiivrKXTYcR82gyI9t4I1A?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJfQiivrKXTYcR82gyI9t4I1A",
+  "googleRating": 4.8,
+  "googleReviewCount": 985,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWne426MQwxfHt8E1DNmXCjcitqxWgAKEAqMDCr3IEVlMCc8cp776BkBBXJgZnt1n6WcRYK5ZqyqcNHMa8-8_1MWmFzA8gNqh4s3owlqyXwvJKFlNEAwRnsL1Vm9kQzpOx4lzdrLEg=w1200-h800-k-no",
+  "description": "Unassuming Japanese restaurant specializing in rice bowls with a variety of toppings, plus gyoza.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 2:00 PM",
+    "tue": "11:00 AM - 2:00 PM",
+    "wed": "11:00 AM - 2:00 PM",
+    "thu": "11:00 AM - 2:00 PM",
+    "fri": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "sat": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

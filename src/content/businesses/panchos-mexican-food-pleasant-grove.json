@@ -1,0 +1,50 @@
+{
+  "slug": "panchos-mexican-food-pleasant-grove",
+  "name": "Pancho’s Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Latin American restaurant",
+    "Mexican torta restaurant",
+    "Seafood restaurant",
+    "Taco restaurant"
+  ],
+  "address": "278 E State Rd",
+  "city": "Pleasant Grove",
+  "state": "UT",
+  "zip": "84062",
+  "lat": 40.3559201,
+  "lng": -111.73719279999999,
+  "phone": "+18017967410",
+  "website": "https://panchosmexicanfoodut.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pancho%E2%80%99s+Mexican+Food/data=!4m7!3m6!1s0x874d844015b858b3:0x7a29b668018f29e5!8m2!3d40.3559201!4d-111.7371928!16s%2Fg%2F1w2yvc7_!19sChIJs1i4FUCETYcR5SmPAWi2KXo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJs1i4FUCETYcR5SmPAWi2KXo",
+  "googleRating": 4.2,
+  "googleReviewCount": 1011,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBVOyYCbwkJCY7tRFYFdL0PIsTL-MdgUvbGWRuax9FbEHbktNcBebY0V9fo66msXDnDjk2IywLO43E5MGOXnSRw9IyE49eJpzcz159nZJ9_oSztHPmkgrVJMwioPgSaVR5Ft1RfcRsZeSr=w1200-h800-k-no",
+  "description": "Low-key, quick-serve eatery, open 24/7, offering hearty Mexican combo plates plus a salsa bar.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 1:00 AM",
+    "tue": "7:00 AM - 1:00 AM",
+    "wed": "7:00 AM - 1:00 AM",
+    "thu": "7:00 AM - 2:00 AM",
+    "fri": "7:00 AM - 2:00 AM",
+    "sat": "7:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

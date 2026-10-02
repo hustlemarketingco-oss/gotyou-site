@@ -1,0 +1,45 @@
+{
+  "slug": "starbucks-provo",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "1400 N State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.253036,
+  "lng": -111.66645,
+  "phone": "+18013563216",
+  "website": "https://www.starbucks.com/store-locator",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x874d9b1727892bf9:0x31ffb3a9a7b8afc1!8m2!3d40.253036!4d-111.66645!16s%2Fg%2F11pv294q63!19sChIJ-SuJJxebTYcRwa-4p6mz_zE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ-SuJJxebTYcRwa-4p6mz_zE",
+  "googleRating": 4.8,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-g2K4fUJWyc0iRr1lh7E7x1gc_x8C280v10o0Dv04zBZ7qJrTVzlXq7MiHojPlin8olITzaIU6Jjgj4DNxZY1b4Fj2-j6Xn8ur5AYgoi3ntPLMf2JlN1eFAU7S2ZvZMqUSnCx=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

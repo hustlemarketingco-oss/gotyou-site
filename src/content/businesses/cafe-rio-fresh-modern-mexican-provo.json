@@ -1,0 +1,50 @@
+{
+  "slug": "cafe-rio-fresh-modern-mexican-provo",
+  "name": "Cafe Rio Fresh Modern Mexican",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "address": "1122 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2187115,
+  "lng": -111.65986749999999,
+  "phone": "+18018827995",
+  "website": "https://www.caferio.com/locations/south-provo",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Rio+Fresh+Modern+Mexican/data=!4m7!3m6!1s0x874d976e0041c741:0x590cfe2759968538!8m2!3d40.2187115!4d-111.6598675!16s%2Fg%2F11h4tcklbq!19sChIJQcdBAG6XTYcROIWWWSf-DFk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJQcdBAG6XTYcROIWWWSf-DFk",
+  "googleRating": 3.8,
+  "googleReviewCount": 1504,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTd7INKEYAYBgHZbbc11Oj1J5n7t57im4cfA8HU9m_qcCi99YIGhMF0X_AatRs9f4et0XvPqfI-q6xLnY7wGVcSDDrbTL7AL3bMsZUZXfit8K4K_hm-gHc5-aBxKcmAN0cpKKV=w1200-h800-k-no",
+  "description": "Counter-serve eatery dishing up Mexican classics including hand-rolled tortillas, burritos & tacos.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

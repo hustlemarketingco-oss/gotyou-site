@@ -1,0 +1,45 @@
+{
+  "slug": "einstein-bros-bagels-provo",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee shop"
+  ],
+  "address": "38 E 1230 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250309099999996,
+  "lng": -111.6580412,
+  "phone": "+18013752114",
+  "website": "https://locations.einsteinbros.com/us/ut/provo/38-e-1230-n?y_source=1_OTA0OTg4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Einstein+Bros.+Bagels/data=!4m7!3m6!1s0x874d97530f5a01f7:0x8377addf2dc7a8fb!8m2!3d40.2503091!4d-111.6580412!16s%2Fg%2F1thqh72v!19sChIJ9wFaD1OXTYcR-6jHLd-td4M?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ9wFaD1OXTYcR-6jHLd-td4M",
+  "googleRating": 4.1,
+  "googleReviewCount": 553,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl449lSb9_qzJsVnkO2gtup3RnKucI7pBxmMnfjb1pdPYYaptKYV9xUKHg7XTUl0sSgpd1cIKqO4AhdctKQNI9UaJKhx6r9LZR5tPeTk1L382lf8kZL7i7od_RoyD_K6Ulc4LMmn2goNCTF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

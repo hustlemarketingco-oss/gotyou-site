@@ -1,0 +1,45 @@
+{
+  "slug": "ambrosial-bakery-provo",
+  "name": "Ambrosial Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cake shop",
+    "Caterer",
+    "Cupcake shop",
+    "Dessert shop",
+    "Gluten-free restaurant",
+    "Wedding service"
+  ],
+  "address": "275-B E 300 S",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.229931,
+  "lng": -111.65403099999999,
+  "phone": "+13852690765",
+  "website": "http://ambrosialbakery.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ambrosial+Bakery/data=!4m7!3m6!1s0x874d85c71905ac03:0xbaa368acaa425f9b!8m2!3d40.229931!4d-111.654031!16s%2Fg%2F11f64958jp!19sChIJA6wFGceFTYcRm19Cqqxoo7o?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJA6wFGceFTYcRm19Cqqxoo7o",
+  "googleRating": 5,
+  "googleReviewCount": 272,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTXCxf7dIFy6b5SoiRblZlpi9vxNdgHjo9Fr03NQeIrsD9-Rwf5QCUefKYjkVMBa1w-FyI6C8hKKwh-ykAsiP6R7E_Klne9sSSuxWahXgP9YeOK7AiqXPPOedHdoAYCmNHs2rx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "2:00 PM - 8:00 PM",
+    "thu": "2:00 PM - 8:00 PM",
+    "fri": "2:00 PM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

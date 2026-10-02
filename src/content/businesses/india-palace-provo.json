@@ -1,0 +1,47 @@
+{
+  "slug": "india-palace-provo",
+  "name": "India Palace",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "South Asian restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "98 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234082699999995,
+  "lng": -111.66032,
+  "phone": "+18013737200",
+  "website": "https://indiapalaceprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/India+Palace/data=!4m7!3m6!1s0x874d97549c0b72f7:0x2f91a7fcea47faa2!8m2!3d40.2340827!4d-111.66032!16s%2Fg%2F1tdr3sx0!19sChIJ93ILnFSXTYcRovpH6vynkS8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ93ILnFSXTYcRovpH6vynkS8",
+  "googleRating": 4.5,
+  "googleReviewCount": 1991,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmnRsTbqd7U97dWYGl4dGF22Tjcyh7YpJ0mVDXL87g-1A3ED-9tjFvoPfAFPRA1Lhg6wf6IU_E3nhGjzRHBXYGvB34bGPdsVARafWB_N_WM-mZ6o9s9z4cM9PKyFF8osAj3anZPg=w1200-h800-k-no",
+  "description": "Northern Indian specialties & a popular lunch buffet are served amid traditional decor.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "10:30 AM - 9:30 PM",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

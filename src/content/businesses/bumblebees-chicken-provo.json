@@ -1,0 +1,45 @@
+{
+  "slug": "bumblebees-chicken-provo",
+  "name": "Bumblebee's Chicken",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Korean restaurant",
+    "Pan-Asian restaurant"
+  ],
+  "address": "1254 N State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2510226,
+  "lng": -111.66619259999999,
+  "phone": "+18016072543",
+  "website": "http://bumblebeeskbbq.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bumblebee%27s+Chicken/data=!4m7!3m6!1s0x874d9b5271cb4ef3:0xfea027c6716a9668!8m2!3d40.2510226!4d-111.6661926!16s%2Fg%2F11gj4mtqyx!19sChIJ807LcVKbTYcRaJZqccYnoP4?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ807LcVKbTYcRaJZqccYnoP4",
+  "googleRating": 4.5,
+  "googleReviewCount": 610,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkz644fI-zXjnat_EM5enk68S8XdmofNZw1Klm5WwPUGlgNS_Brc80IMJRYoSKHpn-duV4rOwhhdbmwlHvVNrai0np2K27MF8D0FZ106R6ahqQrOVYRipd2pOzwDMTnZ3R5OJy3-JA93v0M=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

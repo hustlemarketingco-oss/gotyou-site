@@ -1,0 +1,46 @@
+{
+  "slug": "taco-bell-lindon",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "address": "571 N State St",
+  "city": "Lindon",
+  "state": "UT",
+  "zip": "84042",
+  "lat": 40.34868,
+  "lng": -111.7286918,
+  "phone": "+18017851029",
+  "website": "https://locations.tacobell.com/ut/lindon/571-n--state-street.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=030456&utm_content=website&y_source=1_NjE0Mjk0MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x874d845b2ab283cb:0xf60191b58c6b8f1a!8m2!3d40.34868!4d-111.7286918!16s%2Fg%2F11b6gq3pl7!19sChIJy4OyKluETYcRGo9rjLWRAfY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJy4OyKluETYcRGo9rjLWRAfY",
+  "googleRating": 3.6,
+  "googleReviewCount": 865,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmWnWNGUDhJc3sKqD5HTX0Wy2TF0lMqrlDK-mjAZVYqFeMuDyGS6k_BQrwkN5XxMcmo0yRgjz0f9AFDbZ4arjZOxT9gn-18ajdgDIixabBlcc0T81YkO-Z_eHDWDncLemc4Imr8sQ=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:00 AM - 1:00 AM",
+    "sat": "7:00 AM - 1:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

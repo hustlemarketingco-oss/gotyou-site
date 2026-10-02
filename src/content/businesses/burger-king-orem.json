@@ -1,0 +1,44 @@
+{
+  "slug": "burger-king-orem",
+  "name": "Burger King",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1075 S State St",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84097",
+  "lat": 40.2772758,
+  "lng": -111.6858262,
+  "phone": "+18012239209",
+  "website": "https://burgerking.com/store-locator/store/2410",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x874d9a8da53e69d5:0xcac4d1f9326e207d!8m2!3d40.2772758!4d-111.6858262!16s%2Fg%2F1vd3w8cc!19sChIJ1Wk-pY2aTYcRfSBuMvnRxMo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ1Wk-pY2aTYcRfSBuMvnRxMo",
+  "googleRating": 3.7,
+  "googleReviewCount": 731,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIjU1rNyyqRZ-gPInzDCfINmt4Zonq-RBhYDG0ZMqwRhTraer8QL6zowRogW712XvqyIN1-LmINVCs2B4UNkmvUAOEI2wa9AhLf3GsES0UeuV-4za3H4n1yGBR4biaqhGkVVJv=w1200-h800-k-no",
+  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

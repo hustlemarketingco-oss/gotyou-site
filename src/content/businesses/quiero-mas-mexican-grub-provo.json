@@ -1,0 +1,48 @@
+{
+  "slug": "quiero-mas-mexican-grub-provo",
+  "name": "Quiero Más - Mexican Grub",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Cafe",
+    "Family restaurant",
+    "Food court",
+    "Takeout Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "155 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2358153,
+  "lng": -111.6590624,
+  "phone": "+18019801189",
+  "website": "https://www.quieromasgrub.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Quiero+M%C3%A1s+-+Mexican+Grub/data=!4m7!3m6!1s0x874d912980b5323f:0x8b07069f2e613d3c!8m2!3d40.2358153!4d-111.6590624!16s%2Fg%2F11pwyf5qbc!19sChIJPzK1gCmRTYcRPD1hLp8GB4s?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJPzK1gCmRTYcRPD1hLp8GB4s",
+  "googleRating": 4.6,
+  "googleReviewCount": 521,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIKA6WGUOQpyQrzCY1HHOPDzLbomTznDI3As44HFNduxEQES8JiZQk2Lv51iclj16ZQef2XYR6M0VhICrOZ1kjSlQMPSTgOloK_CGRO2vBYWxRzly63UDdd93XmoPD4ZfZ5IuSUA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 9:30 PM",
+    "tue": "11:30 AM - 9:30 PM",
+    "wed": "11:30 AM - 9:30 PM",
+    "thu": "11:30 AM - 9:30 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

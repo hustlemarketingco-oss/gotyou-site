@@ -1,0 +1,41 @@
+{
+  "slug": "sweets-island-place-hawaiian-provo",
+  "name": "Sweet's Island Place | Hawaiian",
+  "category": "Asian & Pacific",
+  "googleCategory": "Hawaiian restaurant",
+  "address": "711 W Columbia Ln",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.252033399999995,
+  "lng": -111.6710323,
+  "phone": "+18013740000",
+  "website": "https://www.toasttab.com/sweet-s-hawaiian-grill-711-columbia-lane",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sweet%27s+Island+Place+%7C+Hawaiian/data=!4m7!3m6!1s0x874d9a0b4f57b5dd:0x4fca4c053068eab!8m2!3d40.2520334!4d-111.6710323!16s%2Fg%2F1tywyf4l!19sChIJ3bVXTwuaTYcRq44GU8Ck_AQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ3bVXTwuaTYcRq44GU8Ck_AQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 942,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnG7r_bx9wMyXWF2GYA0NqDeH_rYR3f_rcnFzp043hwOlzxItVU5jfVSf4XILTNY4JWnb80lbPDFRblK16TobV44ZERTbtRFFQIG4PduL8mv1O5gBI3_kry8XIEhc6hJzkzpo_Luw=w1200-h800-k-no",
+  "description": "Island-themed counter-service eatery offering Hawaiian comfort food platters & tropical beverages.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 4:00 PM",
+    "tue": "11:00 AM - 4:00 PM",
+    "wed": "11:00 AM - 4:00 PM",
+    "thu": "11:00 AM - 4:00 PM",
+    "fri": "11:00 AM - 4:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

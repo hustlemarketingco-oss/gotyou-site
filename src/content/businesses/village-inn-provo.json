@@ -1,0 +1,48 @@
+{
+  "slug": "village-inn-provo",
+  "name": "Village Inn",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Diner",
+    "Family restaurant",
+    "Pie shop",
+    "Restaurant"
+  ],
+  "address": "933 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.22152,
+  "lng": -111.65839,
+  "phone": "+18013733037",
+  "website": "https://www.villageinn.com/provo-ut",
+  "googleMapsUrl": "https://www.google.com/maps/place/Village+Inn/data=!4m7!3m6!1s0x874d975b8b8c91a1:0xd9a25ee87baf9f07!8m2!3d40.22152!4d-111.65839!16s%2Fg%2F1vfp4329!19sChIJoZGMi1uXTYcRB5-ve-heotk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJoZGMi1uXTYcRB5-ve-heotk",
+  "googleRating": 4.7,
+  "googleReviewCount": 4649,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlcVINMGqCu7cy1XZ6x4Z0hVP7rTbLgxIHQlSvM7m9G8FKYFH8xhdo4qme6Jvj6FMlVzikgcv8_biLP6mXMToC3iyZ_SHtTmsoteTJK9zOV5t6qL7szydqMNx4mcNXNgh9HE0BhA=w1200-h800-k-no",
+  "description": "Family-friendly chain serving homestyle American classics such as chicken-fried steak & pot pie.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

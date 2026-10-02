@@ -1,0 +1,51 @@
+{
+  "slug": "panda-express-provo",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Caterer",
+    "Chinese noodle restaurant",
+    "Chinese takeaway",
+    "Delivery Chinese restaurant",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "1240 N University Ave Unit A",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2510841,
+  "lng": -111.65829869999999,
+  "phone": "+18018180111",
+  "website": "https://www.pandaexpress.com/locations/ut/provo/724?utm_source=google_gbp&utm_medium=organic&utm_campaign=websitelink",
+  "googleMapsUrl": "https://www.google.com/maps/place/Panda+Express/data=!4m7!3m6!1s0x874d90a38e7cc06f:0x201392c3cc5f951b!8m2!3d40.2510841!4d-111.6582987!16s%2Fg%2F1tknky0x!19sChIJb8B8jqOQTYcRG5VfzMOSEyA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJb8B8jqOQTYcRG5VfzMOSEyA",
+  "googleRating": 3.9,
+  "googleReviewCount": 1595,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgtBDqWCie5GNzUGHuQ_1KFZxeaFZDEXHF_yNLn30VAAKPJBIlOEztXfI2sJv2eEodWz9eoTz-OmTj0ghQ8lmPzHmRMXaUntvcXBrUkYlpmzUgu0QQlWUdMA9MrM-MPUrH6vOD=w1200-h800-k-no",
+  "description": "Fast-food chain for Chinese standards, including some health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 11:30 PM",
+    "tue": "10:00 AM - 11:30 PM",
+    "wed": "10:00 AM - 11:30 PM",
+    "thu": "10:00 AM - 11:30 PM",
+    "fri": "10:00 AM - 11:30 PM",
+    "sat": "10:00 AM - 11:30 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

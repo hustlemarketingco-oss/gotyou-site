@@ -1,0 +1,37 @@
+{
+  "slug": "tequers-provo",
+  "name": "Tequers",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "1511 N State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2549171,
+  "lng": -111.6717553,
+  "phone": "+12819231158",
+  "website": "https://order.online/business/tequers-11429992",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tequers/data=!4m7!3m6!1s0x874d9b9cf6e1c2d5:0xaab628eaaa9eae78!8m2!3d40.2549171!4d-111.6717553!16s%2Fg%2F11yb53hvbt!19sChIJ1cLh9pybTYcReK6equootqo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ1cLh9pybTYcReK6equootqo",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUQ4RXIWqcBADE_wG8GQh_HgPTKSC7xZg-r_uSi6xHnpUg7NtLstUsZE8Kw1rLcZHOiPR8OQM71BkbL0Oi0LVdUmzTIJRZHhxUWrzhsiXt0HQqo_VBjcDy9Pzb1BBqbHQDhUdK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 9:30 PM",
+    "sat": "10:00 AM - 9:30 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

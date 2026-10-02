@@ -1,0 +1,40 @@
+{
+  "slug": "moa-cafe-provo",
+  "name": "MOA Café",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "500 Campus Dr",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2507666,
+  "lng": -111.64798019999999,
+  "phone": "+18014226321",
+  "website": "https://dining.byu.edu/moa-cafe",
+  "googleMapsUrl": "https://www.google.com/maps/place/MOA+Caf%C3%A9/data=!4m7!3m6!1s0x874d90b97b3b1569:0xff25ff755da17656!8m2!3d40.2507666!4d-111.6479802!16s%2Fg%2F1w8wbhgz!19sChIJaRU7e7mQTYcRVnahXXX_Jf8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJaRU7e7mQTYcRVnahXXX_Jf8",
+  "googleRating": 3.8,
+  "googleReviewCount": 65,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBPjZ5R29UkURgQvEXpxCztqWo6PJwSnO1xSh5jlJvn0VgHbibfe5XGP3Un7c0ALxiOTabvjq4-OtUUxk7bsvbgznhBmb3GsZ7EOVhwE_QkYF2jQDeKwypu6pEiacVEL32wFlo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM",
+    "tue": "11:00 AM - 3:00 PM",
+    "wed": "11:00 AM - 3:00 PM",
+    "thu": "11:00 AM - 3:00 PM",
+    "fri": "11:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

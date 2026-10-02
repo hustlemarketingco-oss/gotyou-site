@@ -1,0 +1,51 @@
+{
+  "slug": "sonic-drive-in-provo",
+  "name": "Sonic Drive-In",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Delivery service",
+    "Hamburger restaurant",
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Ice cream shop"
+  ],
+  "address": "1296 N State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.251812699999995,
+  "lng": -111.6676049,
+  "phone": "+18013776100",
+  "website": "http://www.sonicdrivein.com/locations/us/ut/provo/1296-n--state-street/store-5024?utm_source=google-my-business&utm_medium=organic&utm_campaign=website-link&y_source=1_MjAzMzg1MzAzMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sonic+Drive-In/data=!4m7!3m6!1s0x874d9a0aedfa3aad:0x4980c51901381640!8m2!3d40.2518127!4d-111.6676049!16s%2Fg%2F1tpn310s!19sChIJrTr67QqaTYcRQBY4ARnFgEk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJrTr67QqaTYcRQBY4ARnFgEk",
+  "googleRating": 3.6,
+  "googleReviewCount": 1977,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmq3AtdTGfziXvZ76IHct00ua6IqkL30eniQIV9dVoebX8gC5NvMg-9G_EEaSn-9kUFLjKjUP-LYI4ZYLn2Swl_IHoJvWTAnooCnx8u8-ehHzZ3gYGivmZ37_uGh5IUfXp9M5Z2QCq5sZ92=w1200-h800-k-no",
+  "description": "Fast-food burger & fries joint with an old-school feel, including retro drive-in service.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 1:00 AM",
+    "tue": "7:00 AM - 1:00 AM",
+    "wed": "7:00 AM - 1:00 AM",
+    "thu": "7:00 AM - 1:00 AM",
+    "fri": "7:00 AM - 1:00 AM",
+    "sat": "8:00 AM - 1:00 AM",
+    "sun": "8:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

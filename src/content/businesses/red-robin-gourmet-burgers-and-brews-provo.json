@@ -1,0 +1,51 @@
+{
+  "slug": "red-robin-gourmet-burgers-and-brews-provo",
+  "name": "Red Robin Gourmet Burgers and Brews",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Grill",
+    "Bar",
+    "Bar & grill",
+    "Family restaurant",
+    "Hamburger restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "1200 Towne Centre Blvd Ste 1100",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.217731199999996,
+  "lng": -111.66273299999999,
+  "phone": "+18018528093",
+  "website": "https://www.redrobin.com/locations/ut/provo/provo-towne-ctr-416",
+  "googleMapsUrl": "https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/data=!4m7!3m6!1s0x874d975e701173db:0x34c234072202aef1!8m2!3d40.2177312!4d-111.662733!16s%2Fg%2F1tglzgcq!19sChIJ23MRcF6XTYcR8a4CIgc0wjQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ23MRcF6XTYcR8a4CIgc0wjQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 3846,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9zztG5FOqmPzFy1F6ZYRajlNcfN1se5TJQv66aFca1r2vmxVOYibDGZo7T0i7_ArnEt6e50xn55ND5gMnleSuLgfDhEHb-HcL5bY9_bq2Skd3EFxGj2ABPbPNXefcHbUNjD9m=w1200-h800-k-no",
+  "description": "Chain for gourmet burgers & other American comfort fare.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

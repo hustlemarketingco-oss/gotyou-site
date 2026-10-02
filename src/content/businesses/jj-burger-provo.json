@@ -1,0 +1,40 @@
+{
+  "slug": "jj-burger-provo",
+  "name": "JJ Burger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "address": "40 N 400 W St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2343413,
+  "lng": -111.6654471,
+  "phone": "+18016910580",
+  "website": "http://jjburgerut.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/JJ+Burger/data=!4m7!3m6!1s0x874d970616887fad:0x1b83225cd0eaf52c!8m2!3d40.2343413!4d-111.6654471!16s%2Fg%2F11fqsw93tm!19sChIJrX-IFgaXTYcRLPXq0Fwigxs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJrX-IFgaXTYcRLPXq0Fwigxs",
+  "googleRating": 4.3,
+  "googleReviewCount": 793,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAFUbFVVi2wdTrWkZEAnuj62KzOXO8jus4F1j_gG_vkgZwNgLKahgN0cBTkggGenG_mEyVazIcjjjJwzt8jRvW00_V09LEa0bORWRWZoArNv5sLQs139s5UIsG0bOp84Zuw7pAasPLUZCK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

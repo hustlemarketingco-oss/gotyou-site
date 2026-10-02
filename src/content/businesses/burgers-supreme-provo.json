@@ -1,0 +1,45 @@
+{
+  "slug": "burgers-supreme-provo",
+  "name": "Burgers Supreme",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Catering food and drink supplier",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "address": "1796 N University Pkwy",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.258181,
+  "lng": -111.661479,
+  "phone": "+18013735713",
+  "website": "https://www.burgerssupreme.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burgers+Supreme/data=!4m7!3m6!1s0x874d9a080da08545:0x91ae0dab9cc96605!8m2!3d40.258181!4d-111.661479!16s%2Fg%2F1tj5r6dm!19sChIJRYWgDQiaTYcRBWbJnKsNrpE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJRYWgDQiaTYcRBWbJnKsNrpE",
+  "googleRating": 4.5,
+  "googleReviewCount": 2961,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxXaZGV2jptvkPDVRwsGbXTjvR8sImpb8HndNnrWMsfT3VsNq2tZ07DN1aKPeO6NgJBePNZo2HwcQil2AIbXkfT4mwclSKa9dIiCGG6-kVuSmn8L9qloYoqM_rcRcDE8pBauYw=w1200-h800-k-no",
+  "description": "Established, modest restaurant offering a large menu of burgers & sandwiches, plus fried fare.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 10:30 PM",
+    "tue": "10:30 AM - 10:30 PM",
+    "wed": "10:30 AM - 10:30 PM",
+    "thu": "10:30 AM - 10:30 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

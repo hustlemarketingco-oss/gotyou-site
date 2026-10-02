@@ -1,0 +1,46 @@
+{
+  "slug": "taco-bell-899-provo",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "899 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.222083399999995,
+  "lng": -111.6582236,
+  "phone": "+18013758343",
+  "website": "https://locations.tacobell.com/ut/provo/899-s-university-ave.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=025387&utm_content=website&y_source=1_NjE0MTgyNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x874d975b908b5d59:0x5016132411cc629!8m2!3d40.2220834!4d-111.6582236!16s%2Fg%2F1tfwkv76!19sChIJWV2LkFuXTYcRKcYcQTJhAQU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJWV2LkFuXTYcRKcYcQTJhAQU",
+  "googleRating": 3.6,
+  "googleReviewCount": 1291,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRDKTZV9YzKZ2R5j58qRLnAUlc5ndhuih5zJGVs28jsn9VjGZeYMHNqMS8tALC3PImJUqvkEfzF9GcsJrIZTXFiGiLkZtU-jOqNiT3PwsN8mEG0hqQHj6gFQGxD2Bw3fSE6fEY=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:00 AM - 1:00 AM",
+    "sat": "7:00 AM - 1:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

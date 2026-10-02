@@ -1,0 +1,50 @@
+{
+  "slug": "joe-veras-mexican-restaurant-provo",
+  "name": "Joe Vera's Mexican Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Bar & grill",
+    "Caterer",
+    "Chicken wings restaurant",
+    "Family restaurant",
+    "Takeout Restaurant",
+    "Meat dish restaurant",
+    "Mexican torta restaurant"
+  ],
+  "address": "201 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.23347,
+  "lng": -111.66251249999999,
+  "phone": "+18013756714",
+  "website": "https://www.joeverasmexicanfiestaurant.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Joe+Vera%27s+Mexican+Restaurant/data=!4m7!3m6!1s0x874d9755274cd651:0xcb9df9acc75103d3!8m2!3d40.23347!4d-111.6625125!16s%2Fg%2F1tm1322d!19sChIJUdZMJ1WXTYcR0wNRx6z5ncs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJUdZMJ1WXTYcR0wNRx6z5ncs",
+  "googleRating": 4,
+  "googleReviewCount": 1618,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8_yWb-epyPr1855H-bXe5wiMKUu43KTzCTedFM_g19y3srLDrbOWVqZ-25xLw9TxmDfIIkXUCshSQApacLNS4l9dh6OBiEbpjSX9k-2geZ_uCCWdTRLWhWx62UNaQ76MMjQQ=w1200-h800-k-no",
+  "description": "Familiar homestyle Mexican dishes offered in a relaxed atmosphere with beer, wine & cocktails.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

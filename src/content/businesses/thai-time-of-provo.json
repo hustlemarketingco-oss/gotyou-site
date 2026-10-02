@@ -1,0 +1,44 @@
+{
+  "slug": "thai-time-of-provo",
+  "name": "Thai Time of Provo",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Restaurant"
+  ],
+  "address": "273 West Cougar Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.249912099999996,
+  "lng": -111.6635237,
+  "phone": "+13854770308",
+  "website": "https://www.thaitimeutah.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thai+Time+of+Provo/data=!4m7!3m6!1s0x874d917196dae781:0xbcafc9c4656d3b1!8m2!3d40.2499121!4d-111.6635237!16s%2Fg%2F11x8mcmt40!19sChIJgefalnGRTYcRsdNWRpz8ygs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJgefalnGRTYcRsdNWRpz8ygs",
+  "googleRating": 4.8,
+  "googleReviewCount": 127,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5ch8PNhgeIRdqTdf0CJRlxzMp-DgXby5yy6hWAKZp5ojBYUxur41_Yyy43Pgy9S-wjqTT0EkzzfBlaFvPIvjLFWkokNB0KWYmUzlfEIiOr8w1_kP9gpaIxIFpPBKtOVE6uzlIf9fvhDVI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

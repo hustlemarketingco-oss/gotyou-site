@@ -1,0 +1,43 @@
+{
+  "slug": "taco-bell-433-provo",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ],
+  "address": "433 900 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.239419399999996,
+  "lng": -111.6435353,
+  "phone": "+18013433594",
+  "website": "https://locations.tacobell.com/ut/provo/433-n-900-e.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=025398&utm_content=website&y_source=1_NjE0MzU0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x874d90b569d2e707:0xce8f28da8dd34a33!8m2!3d40.2394194!4d-111.6435353!16s%2Fg%2F1tql57sw!19sChIJB-fSabWQTYcRM0rTjdooj84?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJB-fSabWQTYcRM0rTjdooj84",
+  "googleRating": 3.5,
+  "googleReviewCount": 845,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngiiW2UXM3FxGsivWJAfWrvDgNjgPm4E1OCDEXaTMvA1unnb1K67Hl3StXd1fDRezsH7RYeWnCpVc6bSjpsh8Y_zM9XqDK89-ki24dhRbvcuggB7icGvGP8GS7rVogP8f12XhWyg=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 1:00 AM",
+    "tue": "7:00 AM - 1:00 AM",
+    "wed": "7:00 AM - 1:00 AM",
+    "thu": "7:00 AM - 1:00 AM",
+    "fri": "7:00 AM - 2:00 AM",
+    "sat": "7:00 AM - 2:00 AM",
+    "sun": "7:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

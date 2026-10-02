@@ -1,0 +1,50 @@
+{
+  "slug": "brookers-founding-flavors-ice-cream-provo-ut-provo",
+  "name": "Brooker’s Founding Flavors Ice Cream, Provo UT",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Sweets and dessert buffet",
+    "Dessert shop",
+    "Event planner",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Historical place museum",
+    "Restaurant",
+    "Sundae restaurant"
+  ],
+  "address": "748 E 820 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2446553,
+  "lng": -111.64590129999999,
+  "phone": "+18019194635",
+  "website": "http://www.brookersicecream.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brooker%E2%80%99s+Founding+Flavors+Ice+Cream,+Provo+UT/data=!4m7!3m6!1s0x874d91c5766031f1:0x7bd40e73cb63e5a0!8m2!3d40.2446553!4d-111.6459013!16s%2Fg%2F11frs85v21!19sChIJ8TFgdsWRTYcRoOVjy3MO1Hs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ8TFgdsWRTYcRoOVjy3MO1Hs",
+  "googleRating": 4.9,
+  "googleReviewCount": 1634,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRq8mRCQnLC1n-M0GJga5pOVOxIBLEwnZ9TybJi6bOyFKl9LAWZFqsFD0_c0VpowMEvLmj12yk3FXn_RP-plyonGkSRRQPoVqgiBuw3_hFMrEVmfwiyThHVN4trDvfjnAFNANRLTrB897o=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

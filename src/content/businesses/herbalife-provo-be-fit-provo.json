@@ -1,0 +1,48 @@
+{
+  "slug": "herbalife-provo-be-fit-provo",
+  "name": "Herbalife Provo Be Fit",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Health and beauty shop",
+    "Health food restaurant",
+    "Sports nutrition store",
+    "Tea house",
+    "Vitamin & supplements store",
+    "Weight loss service"
+  ],
+  "address": "275 N 500 W Ste b",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2373252,
+  "lng": -111.66797919999999,
+  "phone": "+18014270638",
+  "website": "https://provo-be-fit.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Herbalife+Provo+Be+Fit/data=!4m7!3m6!1s0x874d9bb706500d9d:0x4d9b07b60b9d6fdb!8m2!3d40.2373252!4d-111.6679792!16s%2Fg%2F11hhmtlw6r!19sChIJnQ1QBrebTYcR22-dC7YHm00?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJnQ1QBrebTYcR22-dC7YHm00",
+  "googleRating": 5,
+  "googleReviewCount": 224,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8Dbj-nUI9sbQafUxZcbi_vRuDbAxAYKK3tUQ9eHvk7GQqkgQyyhiS0XCFacFwlTQWSb_nqr760Dycle46Dmc8IZaN6osXV3zZUj0YWzsJ71xOQZJ17wUlOuhFO02uEWgyjQ8I=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
+    "tue": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
+    "wed": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
+    "thu": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
+    "fri": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "9:00 AM - 1:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

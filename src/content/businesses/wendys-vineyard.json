@@ -1,0 +1,40 @@
+{
+  "slug": "wendys-vineyard",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "145 N Geneva Rd",
+  "city": "Vineyard",
+  "state": "UT",
+  "zip": "84059",
+  "lat": 40.2990078,
+  "lng": -111.7344275,
+  "phone": "+13854492295",
+  "website": "https://locations.wendys.com/united-states/ut/vineyard/145-n-geneva-rd?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x874d850014d7a7b3:0x48ace4e0ad730f0c!8m2!3d40.2990078!4d-111.7344275!16s%2Fg%2F11lw38x8bc!19sChIJs6fXFACFTYcRDA9zreDkrEg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJs6fXFACFTYcRDA9zreDkrEg",
+  "googleRating": 3.1,
+  "googleReviewCount": 133,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXkFDPqdKgwT_S7jjEyFAH9Al8DR1jh31zy6P354MlH_3dfQbLy1V9ZGTwIeH9bBpOtpC_NZZh4vYiBVRlClxP5K4az1RirUg2PksvYdCFb7jyEr-IbJsT059IY-rbX9gcx3pWzTiW2Jo=w1200-h800-k-no",
+  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 1:00 AM",
+    "tue": "6:00 AM - 1:00 AM",
+    "wed": "6:00 AM - 1:00 AM",
+    "thu": "6:00 AM - 1:00 AM",
+    "fri": "6:00 AM - 1:00 AM",
+    "sat": "6:00 AM - 1:00 AM",
+    "sun": "6:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

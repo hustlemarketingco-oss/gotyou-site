@@ -1,0 +1,45 @@
+{
+  "slug": "a-w-restaurant-provo",
+  "name": "A&W Restaurant",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Dessert restaurant",
+    "Hamburger restaurant"
+  ],
+  "address": "1034 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2199112,
+  "lng": -111.65959799999999,
+  "phone": "+18013731363",
+  "website": "https://awrestaurants.com/locations/utah/provo/1034-s-university-avenue/",
+  "googleMapsUrl": "https://www.google.com/maps/place/A%26W+Restaurant/data=!4m7!3m6!1s0x874d975c1786fbd1:0x9e271c5ec7546c98!8m2!3d40.2199112!4d-111.659598!16s%2Fg%2F11clhqwb9w!19sChIJ0fuGF1yXTYcRmGxUx14cJ54?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ0fuGF1yXTYcRmGxUx14cJ54",
+  "googleRating": 3.3,
+  "googleReviewCount": 136,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAM3c_6Py6ALo4zlrgiyB92IJSRqZ8Pcb17Tjbx7aRrbi7S5nq0S92cJQ3GZ54au_6yzov75HltcsOBjZjmYyQVYJp6Qv4w-oZ7p-8_Y4OStnNgS39APc87WAI5zNyaDMTwjU=w1200-h800-k-no",
+  "description": "Fast-food outlet serving up namesake root beer, plus burgers, chicken & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

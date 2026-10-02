@@ -1,0 +1,39 @@
+{
+  "slug": "communal-provo",
+  "name": "Communal",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Fine dining restaurant"
+  ],
+  "address": "102 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.235241699999996,
+  "lng": -111.6583861,
+  "phone": "+18013738000",
+  "website": "https://www.communalrestaurant.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Communal/data=!4m7!3m6!1s0x874d975347fdadc1:0x76636a86d0370462!8m2!3d40.2352417!4d-111.6583861!16s%2Fg%2F1td5glv1!19sChIJwa39R1OXTYcRYgQ30IZqY3Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJwa39R1OXTYcRYgQ30IZqY3Y",
+  "googleRating": 4.5,
+  "googleReviewCount": 1621,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmaQQG3jA-SSvEF7IolXE-7oFybeOUO08H_Too125ukymeCnl8zmh50gxwqXJdIhiUSMU35NKGmnpHcjwp44vz0oLiInH-Z_0OQCP99f08vrR1s1vC_jx3NVcDBZ923hB9DT9jvs6s2TrSD=w1200-h800-k-no",
+  "description": "Locally sourced seasonal American menus star at this comfy kitchen with shared farm-table seating.",
+  "hours": {
+    "mon": "5:00 PM - 10:00 PM",
+    "tue": "10:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "wed": "10:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "thu": "10:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "fri": "10:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "sat": "9:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

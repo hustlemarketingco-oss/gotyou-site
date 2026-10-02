@@ -1,0 +1,47 @@
+{
+  "slug": "rancheritos-mexican-food-provo",
+  "name": "Rancherito's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "46 E 1230 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250428899999996,
+  "lng": -111.6577286,
+  "phone": "+18016071083",
+  "website": "https://rancheritosmexicanfood.com/locations/provo-byu/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rancherito%27s+Mexican+Food/data=!4m7!3m6!1s0x874d91e895a4b0f1:0xb87cf0e84243ea15!8m2!3d40.2504289!4d-111.6577286!16s%2Fg%2F11fb0c3hpz!19sChIJ8bCkleiRTYcRFepDQujwfLg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ8bCkleiRTYcRFepDQujwfLg",
+  "googleRating": 4,
+  "googleReviewCount": 877,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJZvDRqpNS3duNe-9QiLOtsr-819KV0gwlVQ-KWUVORtMj6ERJVMUNYcw3JGkvYIqPjktuKUOV14wrpxR8CGZTyVyAOkuAFhPKwCHCM7G1q01KIdPciM4o9Fda-aYMF-XJYLh-=w1200-h800-k-no",
+  "description": "Mexican restaurant & take-out with a brightly colored interior & counter service, open 24 hours.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 2:00 AM",
+    "tue": "6:00 AM - 2:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "6:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

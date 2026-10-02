@@ -1,0 +1,38 @@
+{
+  "slug": "river-rock-cafe-provo",
+  "name": "River Rock Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "Intermountain Health Utah Valley Hospital",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.248562799999995,
+  "lng": -111.6661824,
+  "googleMapsUrl": "https://www.google.com/maps/place/River+Rock+Cafe/data=!4m7!3m6!1s0x874d91b92ff67435:0xdef10031170d5e6d!8m2!3d40.2485628!4d-111.6661824!16s%2Fg%2F11gy68cf7z!19sChIJNXT2L7mRTYcRbV4NFzEA8d4?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJNXT2L7mRTYcRbV4NFzEA8d4",
+  "googleRating": 4.1,
+  "googleReviewCount": 55,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlS4uHw0D62cSBtG1vndFCf0lrI_7dmo0rzPA-JIbiHOyvASP8y57W0Yusifl7swJyGp9MW7EqzToJjiGzo3MfCBr8O4NF5kkrXktIsOnpZ0I1ka4Gi5tQbYXYQGcWAz1vAm4kfSg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 2:00 AM",
+    "tue": "7:00 AM - 2:00 AM",
+    "wed": "7:00 AM - 2:00 AM",
+    "thu": "7:00 AM - 2:00 AM",
+    "fri": "7:00 AM - 2:00 AM",
+    "sat": "7:00 AM - 2:00 AM",
+    "sun": "7:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

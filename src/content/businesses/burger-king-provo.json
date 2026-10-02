@@ -1,0 +1,44 @@
+{
+  "slug": "burger-king-provo",
+  "name": "Burger King",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1080 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.219109599999996,
+  "lng": -111.6595164,
+  "phone": "+13853841970",
+  "website": "https://burgerking.com/store-locator/store/7233",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x874d975c25973c63:0xe81009a35112a591!8m2!3d40.2191096!4d-111.6595164!16s%2Fg%2F1vntkcjg!19sChIJYzyXJVyXTYcRkaUSUaMJEOg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJYzyXJVyXTYcRkaUSUaMJEOg",
+  "googleRating": 3.3,
+  "googleReviewCount": 1002,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgicwL_6TazUZqI-WZW-MRZKRYtL6hpXVxd7vDB8TnFn2hp3ZUy6i42Ta4EHQ1QdvI0zer0gRdnMHA40lMEL0FhllSG5HrOjn3eGgHQ8nfSQrOxTr7PBct7HSX-KERcWs6M3I5=w1200-h800-k-no",
+  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

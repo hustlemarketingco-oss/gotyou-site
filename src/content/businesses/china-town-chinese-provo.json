@@ -1,0 +1,48 @@
+{
+  "slug": "china-town-chinese-provo",
+  "name": "China Town | Chinese",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Delivery Chinese restaurant",
+    "Delivery Restaurant",
+    "Restaurant"
+  ],
+  "address": "330 S State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.229244,
+  "lng": -111.646486,
+  "phone": "+18013737699",
+  "website": "https://www.chinatownprovout.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/China+Town+%7C+Chinese/data=!4m7!3m6!1s0x874d97572dc2cdfb:0xc3f970535001e638!8m2!3d40.229244!4d-111.646486!16s%2Fg%2F1whdjv7x!19sChIJ-83CLVeXTYcROOYBUFNw-cM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ-83CLVeXTYcROOYBUFNw-cM",
+  "googleRating": 4,
+  "googleReviewCount": 479,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwyajfXj--TAutXOYKL9rO_eIHUG0-yQugSrDysMuoARYjfjXvsQHPR-R92d8YwIfSULH-7WTsi-TVWrR2yz7r0bRtRPdV0zDKMyS0ck7qr6cvlt7_QGNa2WX_TnAo2EvM8JDE=w1200-h800-k-no",
+  "description": "Basic storefront bistro dishing out all the usual Chinese standbys, with popular lunch specials.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:30 PM",
+    "sat": "4:00 PM - 8:30 PM",
+    "sun": "4:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

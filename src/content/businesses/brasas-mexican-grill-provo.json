@@ -1,0 +1,44 @@
+{
+  "slug": "brasas-mexican-grill-provo",
+  "name": "Brasas Mexican Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "238 W 100 S",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.232673299999995,
+  "lng": -111.6627996,
+  "phone": "+18013750240",
+  "website": "https://m.facebook.com/Brasas-Mexican-Grill-904449563004587/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brasas+Mexican+Grill/data=!4m7!3m6!1s0x874d9755aa8cf7ff:0x2811d9534af5cf39!8m2!3d40.2326733!4d-111.6627996!16s%2Fg%2F125_t5lzk!19sChIJ__eMqlWXTYcROc_1SlPZESg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ__eMqlWXTYcROc_1SlPZESg",
+  "googleRating": 4.5,
+  "googleReviewCount": 1127,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1HzznnpiVI4TmIE6sEuAARb8egbVZcyVEUS_M_8hx375xJVIGO0UFkuLYZSgHKToskpGIZ8VfE0n7Rz28qj-rx7I7Q8gzjuVLhlxUK_XRvqDWuJdYF_3w483_ViUtc0Md3QOv=w1200-h800-k-no",
+  "description": "Tacos & other Mexican bites round out the menu at this open-air counter serve with covered seating.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

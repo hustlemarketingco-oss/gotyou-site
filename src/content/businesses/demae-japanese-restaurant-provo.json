@@ -1,0 +1,44 @@
+{
+  "slug": "demae-japanese-restaurant-provo",
+  "name": "Demae Japanese Restaurant",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant"
+  ],
+  "address": "82 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2339543,
+  "lng": -111.6601256,
+  "phone": "+18013740306",
+  "website": "https://www.demaejapanese.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Demae+Japanese+Restaurant/data=!4m7!3m6!1s0x874d97549d9ba869:0x9075aba168b488e6!8m2!3d40.2339543!4d-111.6601256!16s%2Fg%2F1tdc5py_!19sChIJaaibnVSXTYcR5oi0aKGrdZA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJaaibnVSXTYcR5oi0aKGrdZA",
+  "googleRating": 4.4,
+  "googleReviewCount": 328,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmc8Nl1EhbH1AAujZ9jEmemdQR9GC0zettfQTd__SGFDcxBeYJ6wGibaRnboWNqlOU3Be6g-aC5Ha-ksfhyBwvm2HKEdLYE3RZsQ9NZf4ybzKgv19DivQdWRWqi6wtZqS5-SeJaa6Lt1dY=w1200-h800-k-no",
+  "description": "Strip-mall spot for sushi, bento boxes & Japanese standards like teriyaki & tempura.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 8:30 PM",
+    "tue": "11:30 AM - 8:30 PM",
+    "wed": "11:30 AM - 8:30 PM",
+    "thu": "11:30 AM - 8:30 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

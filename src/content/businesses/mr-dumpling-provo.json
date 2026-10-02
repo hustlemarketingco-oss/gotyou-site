@@ -1,0 +1,45 @@
+{
+  "slug": "mr-dumpling-provo",
+  "name": "Mr. Dumpling",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Fast food restaurant",
+    "Lunch restaurant"
+  ],
+  "address": "428 W 2310 N Ste 101",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.265167399999996,
+  "lng": -111.6684817,
+  "phone": "+13852685208",
+  "website": "http://eatmrdumpling.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mr.+Dumpling/data=!4m7!3m6!1s0x874d9bf8adcb919b:0x8283c74765e8254f!8m2!3d40.2651674!4d-111.6684817!16s%2Fg%2F11ydrp94z5!19sChIJm5HLrfibTYcRTyXoZUfHg4I?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJm5HLrfibTYcRTyXoZUfHg4I",
+  "googleRating": 4.3,
+  "googleReviewCount": 126,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlD3FVkXuW5iGOUAb1JRK6isRlqaHUtSAPpEIeeTT4jStuNPkRm2PRgdzYx3eLiuva3_qT3KDol7JOBo4_93NxOaofPXIKSXs7rTyqnV-iW_fGL3u9m_swq9uplwO6xPoJ1xnnRFmb3zlwP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

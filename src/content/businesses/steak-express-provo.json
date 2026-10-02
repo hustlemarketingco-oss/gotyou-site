@@ -1,0 +1,44 @@
+{
+  "slug": "steak-express-provo",
+  "name": "Steak Express",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Cheesesteak restaurant",
+    "Hamburger restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "525 900 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2405992,
+  "lng": -111.6434817,
+  "phone": "+18013772308",
+  "website": "http://steakxpress.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Steak+Express/data=!4m7!3m6!1s0x874d911cfd0ccda1:0xb88b7dc1ff556317!8m2!3d40.2405992!4d-111.6434817!16s%2Fg%2F11jcbx9zk1!19sChIJoc0M_RyRTYcRF2NV_8F9i7g?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJoc0M_RyRTYcRF2NV_8F9i7g",
+  "googleRating": 4.6,
+  "googleReviewCount": 365,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1dZrlc-S6V5TdIVexJHGGZSxK_buDOYw2PScB6r8KMkUc1JpEMzRfaDrpbJf4FNsccr7t19AciyyJZm2dNl4nu8pBXmNmOMz26D-KXj5f-M1UpCbTpnmk475Uurkc8dP9xyJwPGMPvWaQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

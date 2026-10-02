@@ -1,0 +1,36 @@
+{
+  "slug": "red-velvet-provo",
+  "name": "Red Velvet",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Internet cafe",
+  "address": "420 E 600 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2415137,
+  "lng": -111.6513155,
+  "phone": "+13147177132",
+  "googleMapsUrl": "https://www.google.com/maps/place/Red+Velvet/data=!4m7!3m6!1s0x874d910044bbde31:0xada2d9e32e60811!8m2!3d40.2415137!4d-111.6513155!16s%2Fg%2F11ld9w3vln!19sChIJMd67RACRTYcREQjmMp4t2go?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJMd67RACRTYcREQjmMp4t2go",
+  "googleRating": 4.5,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQpW18Or_HyvobaRh6diE0I9GIYfQZMVQ5RCHAH2Jcizbv9wUQqHXMsUW0Ox84qlj6GtYPyd7Vbzg4Dz77qePNcm7mVeGU_fmBgc-RqbSFIswcFJYWGUt0_3Xr6wITVJFNGPg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "peace-on-earth-coffee-provo",
+  "name": "peace on earth coffee PROVO",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "35 N 300 W #200",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.233969099999996,
+  "lng": -111.66418039999999,
+  "phone": "+18015774710",
+  "website": "https://peaceonearth.coffee/",
+  "googleMapsUrl": "https://www.google.com/maps/place/peace+on+earth+coffee+PROVO/data=!4m7!3m6!1s0x874d975530c2a911:0x6f5528daa0d7024a!8m2!3d40.2339691!4d-111.6641804!16s%2Fg%2F11f3r1lqvm!19sChIJEanCMFWXTYcRSgLXoNooVW8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJEanCMFWXTYcRSgLXoNooVW8",
+  "googleRating": 4.5,
+  "googleReviewCount": 1275,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXRGwoMp-D4dNrbw3bfrdvLVwqj-eaOK35EFE9X8wPt9Usa4jM10nOjjH2Xr6mju-1FmHN55Qa_ng7I5sZx3McNJ5ULAPrDPW5hlztAenZsiFpp4GjiPtlEYitTlLhFcIPakrF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "6:30 AM - 8:00 PM",
+    "tue": "6:30 AM - 8:00 PM",
+    "wed": "6:30 AM - 8:00 PM",
+    "thu": "6:30 AM - 8:00 PM",
+    "fri": "6:30 AM - 10:00 PM",
+    "sat": "6:30 AM - 10:00 PM",
+    "sun": "6:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

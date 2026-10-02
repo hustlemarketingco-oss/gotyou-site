@@ -1,0 +1,47 @@
+{
+  "slug": "kneaders-bakery-cafe-provo",
+  "name": "Kneaders Bakery & Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Caterer",
+    "Pastry shop",
+    "Salad shop"
+  ],
+  "address": "295 W 1230 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250281699999995,
+  "lng": -111.6637342,
+  "phone": "+18018122200",
+  "website": "https://www.kneaders.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kneaders+Bakery+%26+Cafe/data=!4m7!3m6!1s0x874d90a0db9e70b7:0x3f96aa7d5ce4d151!8m2!3d40.2502817!4d-111.6637342!16s%2Fg%2F1tf_1k92!19sChIJt3Ce26CQTYcRUdHkXH2qlj8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJt3Ce26CQTYcRUdHkXH2qlj8",
+  "googleRating": 3.8,
+  "googleReviewCount": 1473,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh1S0Uos8tRBZBNcGChUZ3is38wb-HSeT71mCSh2wQMkbh_Y_2Fazpa6A0GTizPHEVIk_KgpuBnZKKZlhiZm0td7YE8oLG0HswiZsO2fVMvSYJJJ7k7pEaSqTW2prnVwnCVGQAkg=w1200-h800-k-no",
+  "description": "Cafe chain specializing in a variety of breads plus sandwiches, salads, pastries & breakfast fare.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

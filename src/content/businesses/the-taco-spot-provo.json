@@ -1,0 +1,50 @@
+{
+  "slug": "the-taco-spot-provo",
+  "name": "The Taco Spot - Provo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Caterer",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Latin American restaurant",
+    "Ramen restaurant",
+    "Taco restaurant"
+  ],
+  "address": "62 W 1230 N St Ste 105",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2513708,
+  "lng": -111.65999389999999,
+  "phone": "+18016071451",
+  "website": "https://tacospotllc.order.online/store/TheTacoSpot-38412989",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Taco+Spot+-+Provo/data=!4m7!3m6!1s0x874d9136da43b81b:0xb9a519acfe67ad94!8m2!3d40.2513708!4d-111.6599939!16s%2Fg%2F11yq30m00p!19sChIJG7hD2jaRTYcRlK1n_qwZpbk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJG7hD2jaRTYcRlK1n_qwZpbk",
+  "googleRating": 4.7,
+  "googleReviewCount": 967,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWly7F-8kFuUk66RZjMqcOsLJ-6ujAYcHmHNDwOXSO3RfGLnFUPRHgoxS_SHUUPHc5S9HbjFK-7UeJ5VJqUGE2I8SGIiCmqEGmI8Uhqj51tNhSNk9WcOHBk-CcRtQKp_h7YtMpxYkOCUFtBV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 12:00 AM",
+    "tue": "9:00 AM - 12:00 AM",
+    "wed": "9:00 AM - 12:00 AM",
+    "thu": "9:00 AM - 12:00 AM",
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

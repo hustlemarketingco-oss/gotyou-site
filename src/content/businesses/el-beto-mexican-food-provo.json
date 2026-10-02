@@ -1,0 +1,43 @@
+{
+  "slug": "el-beto-mexican-food-provo",
+  "name": "El Beto Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1314 N State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2531531,
+  "lng": -111.6689837,
+  "phone": "+13852238936",
+  "website": "https://elbetomexicanfood.shop/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Beto+Mexican+Food/data=!4m7!3m6!1s0x874d9b8b9ba14b27:0xe4015c78c789de6b!8m2!3d40.2531531!4d-111.6689837!16s%2Fg%2F11h1rgv4h4!19sChIJJ0uhm4ubTYcRa96Jx3hcAeQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJJ0uhm4ubTYcRa96Jx3hcAeQ",
+  "googleRating": 3.8,
+  "googleReviewCount": 759,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZ353hK8RS3oArBUtzQhrALqky01Yj4Y1yZdvbKU3oUPbiOClxJyWrCiGO3bVqD4kOqjwX7PpH90TW3jP7wMFq2668Mw1Z155rsK0yhHpJazvqhVE_1jjh_W0NHbZ8mXBpGVfXGC6wOUiF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "5:00 AM - 1:00 AM",
+    "tue": "5:00 AM - 1:00 AM",
+    "wed": "5:00 AM - 1:00 AM",
+    "thu": "5:00 AM - 1:00 AM",
+    "fri": "5:00 AM - 2:00 AM",
+    "sat": "5:00 AM - 2:00 AM",
+    "sun": "5:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

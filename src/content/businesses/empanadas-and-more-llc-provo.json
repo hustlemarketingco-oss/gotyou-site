@@ -1,0 +1,37 @@
+{
+  "slug": "empanadas-and-more-llc-provo",
+  "name": "Empanadas and more LLC",
+  "category": "Mexican & Latin",
+  "googleCategory": "Venezuelan restaurant",
+  "address": "610 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2340513,
+  "lng": -111.6696247,
+  "phone": "+13855159419",
+  "website": "http://orderempanadasandmorellc.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Empanadas+and+more+LLC/data=!4m7!3m6!1s0x874d9900620b707b:0x9100c466d6de3679!8m2!3d40.2340513!4d-111.6696247!16s%2Fg%2F11wxxvhz9m!19sChIJe3ALYgCZTYcReTbe1mbEAJE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJe3ALYgCZTYcReTbe1mbEAJE",
+  "googleRating": 4.9,
+  "googleReviewCount": 397,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDtothM6P4_szJ1HALmADC4i-DEr2Q9C3XzSaYhwx9L4MnpsT4l7OEu33WCtXkTpKBNzknpt9VR-oFeum4OTt-7YhMAEgXCzPCIUQNqSEmAoj4BmehkVATowEllsIY3hja1k2C=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 3:30 PM, 5:30 PM - 10:00 PM",
+    "tue": "8:00 AM - 3:30 PM, 5:30 PM - 10:00 PM",
+    "wed": "8:00 AM - 3:30 PM, 5:30 PM - 10:00 PM",
+    "thu": "8:00 AM - 3:30 PM, 5:30 PM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

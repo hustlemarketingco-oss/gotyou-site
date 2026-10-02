@@ -1,0 +1,44 @@
+{
+  "slug": "habit-burger-grill-provo",
+  "name": "Habit Burger & Grill",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "2245 N University Pkwy",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2632927,
+  "lng": -111.66873819999999,
+  "phone": "+13852540940",
+  "website": "https://order.habitburger.com/store/241/category",
+  "googleMapsUrl": "https://www.google.com/maps/place/Habit+Burger+%26+Grill/data=!4m7!3m6!1s0x874d9b99aa0d6abf:0xbf49724781d018c7!8m2!3d40.2632927!4d-111.6687382!16s%2Fg%2F11f66dznr6!19sChIJv2oNqpmbTYcRxxjQgUdySb8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJv2oNqpmbTYcRxxjQgUdySb8",
+  "googleRating": 4.3,
+  "googleReviewCount": 928,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnISjebNgLN0lp1_gc-5WSfwV9CWe09LSuXfL--kKWcDeBGtADhn_5tefOl5H6U3VJ-KVn3bBufjekyz1OkabWjLU5uuk-MRjKjXOY7GJQGXZXwjebImxL57-TE3ZGyzGbMbW2X=w1200-h800-k-no",
+  "description": "Charbroiled burgers star at this fast-food chain also offering deli-type sandwiches, salads & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

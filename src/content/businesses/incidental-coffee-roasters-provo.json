@@ -1,0 +1,39 @@
+{
+  "slug": "incidental-coffee-roasters-provo",
+  "name": "Incidental Coffee Roasters",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee roastery"
+  ],
+  "address": "27 N 100 W St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2342371,
+  "lng": -111.6606664,
+  "website": "https://incidentalcoffee.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Incidental+Coffee+Roasters/data=!4m7!3m6!1s0x21a82656d0a16b53:0x2d1fec4ada92a280!8m2!3d40.2342371!4d-111.6606664!16s%2Fg%2F11vz7kwhm6!19sChIJU2uh0FYmqCERgKKS2krsHy0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJU2uh0FYmqCERgKKS2krsHy0",
+  "googleRating": 4.8,
+  "googleReviewCount": 180,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIZ0dZ1bIsaxW6FjudiS27M_gD0ZfpuFyf1y1kcoPily66o4a4taS64hy6L2W0WWubDv0ua-viY-myLDAvdJdKGRPiGNgwfyV1zEBSuHsCienlLOHg0gKm_BVhJPEFrrfGOairedb_E5jt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

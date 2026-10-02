@@ -1,0 +1,40 @@
+{
+  "slug": "chom-burger-provo",
+  "name": "CHOM Burger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Family restaurant",
+    "Sandwich shop"
+  ],
+  "address": "45 W 300 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2375389,
+  "lng": -111.6595049,
+  "phone": "+13852417499",
+  "website": "https://www.chomburger.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/CHOM+Burger/data=!4m7!3m6!1s0x874d90ac851a6e77:0x73cf4fe36c95066f!8m2!3d40.2375389!4d-111.6595049!16s%2Fg%2F11cr_v4fjl!19sChIJd24ahayQTYcRbwaVbONPz3M?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJd24ahayQTYcRbwaVbONPz3M",
+  "googleRating": 4.4,
+  "googleReviewCount": 2344,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIyo2P3s11g1qdIGEXx8f8SjGqqMuA97HG_6-2aUoysVKe8on5MclMJU-TT_2Ka0Hg3I2DF32PS_mOlYCIDMxwin82op66hbu82fcKebd7_diEQnWjDYZnyCwZNKBeQOYg2gvzBDbqJg32=w1200-h800-k-no",
+  "description": "Colorful, popular eatery known for its specialty burgers, sweet potato fries & shakes.",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

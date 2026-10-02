@@ -1,0 +1,37 @@
+{
+  "slug": "java-junkie-provo",
+  "name": "Java Junkie",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "16 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2340058,
+  "lng": -111.6591555,
+  "phone": "+18019603028",
+  "googleMapsUrl": "https://www.google.com/maps/place/Java+Junkie/data=!4m7!3m6!1s0x874d97aa3a59ea1f:0x28a3ce6007989767!8m2!3d40.2340058!4d-111.6591555!16s%2Fg%2F11rb2nw0cj!19sChIJH-pZOqqXTYcRZ5eYB2DOoyg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJH-pZOqqXTYcRZ5eYB2DOoyg",
+  "googleRating": 4.7,
+  "googleReviewCount": 411,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL1pwPAU-IgST4IatHV80z8EJ3zDJOtwyITkD9WW8Qoz_0gTAxGzDZ6mNHVUDOq-OIkVjOYMbC1Bxe1CR3VDPbmmMgYgssKCfQhK9-UzLur9GWyyfkz3QSK2c7OUNtvB2ultjcfw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

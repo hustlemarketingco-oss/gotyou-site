@@ -1,0 +1,50 @@
+{
+  "slug": "del-taco-1599-orem",
+  "name": "Del Taco",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Hamburger restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1599 N State St",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84057",
+  "lat": 40.3263118,
+  "lng": -111.70848149999999,
+  "phone": "+18012258501",
+  "website": "https://locations.deltaco.com/us/ut/orem/1599-n-state-st?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Del+Taco/data=!4m7!3m6!1s0x874d851ed7278213:0xd920107e946a0f1b!8m2!3d40.3263118!4d-111.7084815!16s%2Fg%2F1vxzb2s1!19sChIJE4In1x6FTYcRGw9qlH4QINk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJE4In1x6FTYcRGw9qlH4QINk",
+  "googleRating": 4.1,
+  "googleReviewCount": 1537,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_pqIXNVfz_F-clyL4iagxf0qG6RSvI_tsy7wy89d3bqAT10cfmf5qp3_Uebje6MV7fJgOXoS-E7iTs8bd8gC4g10VFdoQpE5Aer4I7itDpm69AZa5OrjTP6k_TAAM60LWSsXw=w1200-h800-k-no",
+  "description": "Fast-food chain for Mexican standards like tacos, burritos & quesadillas plus breakfast.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

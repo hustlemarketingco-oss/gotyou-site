@@ -1,0 +1,44 @@
+{
+  "slug": "kfc-provo",
+  "name": "KFC",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1034 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2198906,
+  "lng": -111.65948429999999,
+  "phone": "+18013731363",
+  "website": "https://locations.kfc.com/ut/provo/1034-south-university-avenue",
+  "googleMapsUrl": "https://www.google.com/maps/place/KFC/data=!4m7!3m6!1s0x874d975c16553213:0x271cb7a67b83b859!8m2!3d40.2198906!4d-111.6594843!16s%2Fg%2F1tdx4lw4!19sChIJEzJVFlyXTYcRWbiDe6a3HCc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJEzJVFlyXTYcRWbiDe6a3HCc",
+  "googleRating": 3.3,
+  "googleReviewCount": 1033,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlHvOnT1_WwAM49susLFRIGFKY2Vr8WYthACLg9N1tNARIbAy7tGmdygRvyJNQe75zxaWbsI0xrfW1dqNdtNb3G3lyBhUfviV5Tk6n79K7YS49M-Hlbr-sThmLllLbL2MfTkv49_Q=w1200-h800-k-no",
+  "description": "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "mcdonalds-provo",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "211 W 1230 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250121,
+  "lng": -111.66248999999999,
+  "phone": "+18013746909",
+  "website": "https://www.mcdonalds.com/us/en-us/location/UT/PROVO/211-W-1230-N/10437.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x874d90a12e52298f:0x7a8691523bc60182!8m2!3d40.250121!4d-111.66249!16s%2Fg%2F1vd71t75!19sChIJjylSLqGQTYcRggHGO1KRhno?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJjylSLqGQTYcRggHGO1KRhno",
+  "googleRating": 3.2,
+  "googleReviewCount": 3362,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2GF4QFBnlk-ok5oAIqEJw6NOcsPvjNy_vC-5cVEMAkRi_rN-dbnEpFVFI_qfTetMAN8hWAXFfv6j5d9ofLEJVvH5JAgVbJKHttYXCJgVQa5_p9eCQ-pz6gqiXpARpseWrRnXnZHILZuE=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

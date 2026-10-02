@@ -1,0 +1,44 @@
+{
+  "slug": "the-cannon-commons-provo",
+  "name": "The Cannon Commons",
+  "category": "Restaurant",
+  "googleCategory": "Cafeteria",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "9998 Helaman Halls",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.252386099999995,
+  "lng": -111.6529917,
+  "phone": "+18014224031",
+  "website": "https://dining.byu.edu/cannon-commons",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Cannon+Commons/data=!4m7!3m6!1s0x874d90bcbe99d6e5:0xe4653cc536b6647c!8m2!3d40.2523861!4d-111.6529917!16s%2Fg%2F11r8gpwx0!19sChIJ5daZvryQTYcRfGS2NsU8ZeQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ5daZvryQTYcRfGS2NsU8ZeQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 641,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNUPZNXWdxvZWbwUk4EYnCw0Nrc-W7IvMseHNUYJz0Y1MPhNyOSIo13J5EEtPGznkojhK7kbHSZQV2u0mB5tKm7cF8uBYI3gKwc7Y-4ti4tAPL9cvw9FdIZTAGBtA61vwiZ1KDxw=w1200-h800-k-no",
+  "description": "University dining center offers themed cuisine stations, from Italian standards to custom salads.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 6:30 PM",
+    "tue": "7:00 AM - 6:30 PM",
+    "wed": "7:00 AM - 6:30 PM",
+    "thu": "7:00 AM - 6:30 PM",
+    "fri": "7:00 AM - 6:30 PM",
+    "sat": "7:30 AM - 6:30 PM",
+    "sun": "9:00 AM - 5:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

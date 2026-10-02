@@ -1,0 +1,45 @@
+{
+  "slug": "gandolfos-new-york-deli-provo",
+  "name": "Gandolfo's New York Deli",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "secondaryCategories": [
+    "American restaurant",
+    "Box lunch supplier",
+    "Sandwich shop"
+  ],
+  "address": "818 N 500 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.244717,
+  "lng": -111.66659969999999,
+  "phone": "+13853752382",
+  "website": "https://gandolfosdeli.com/locations/?state=yes",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gandolfo%27s+New+York+Deli/data=!4m7!3m6!1s0x874d9a081a8bf44f:0xd7f449e0262334ca!8m2!3d40.244717!4d-111.6665997!16s%2Fg%2F1hc5c7vx_!19sChIJT_SLGgiaTYcRyjQjJuBJ9Nc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJT_SLGgiaTYcRyjQjJuBJ9Nc",
+  "googleRating": 4.2,
+  "googleReviewCount": 670,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0aVFsQ9Wf0xFypVJ0m7VDsuxCmkn-M9DMUQKmPDDlTdvHstfbCNfAwIcXIeOHxiy-wM_gdxkc7XvOhOEYUEmajr0FOQDP-IWEdT5dT1qQQzkRsRjqEiyDG0aRo4fjiqjk9rtI=w1200-h800-k-no",
+  "description": "NYC-style deli serving sandwiches on housemade bread, plus salads, hot dogs & bagels.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

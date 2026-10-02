@@ -1,0 +1,38 @@
+{
+  "slug": "bonsai-sushi-provo",
+  "name": "Bonsai Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "address": "672 Freedom Blvd 200 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.242688,
+  "lng": -111.66154669999999,
+  "phone": "+18013730833",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bonsai+Sushi/data=!4m7!3m6!1s0x874d90a8e47908db:0xdc8cc2ed2f33aa7f!8m2!3d40.242688!4d-111.6615467!16s%2Fg%2F11f3cdr22k!19sChIJ2wh55KiQTYcRf6ozL-3CjNw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ2wh55KiQTYcRf6ozL-3CjNw",
+  "googleRating": 4.5,
+  "googleReviewCount": 356,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmRCIztncmKr-CX82jm53bcr-twe8hegFSJwJVXtkP8q8xSHIcEaxHpDaIsfz0M0L6nWIIS8bowXGCOSnw2AKs33r2zWrRVxyz6avNIrvIh00hK8-uzF6fR9MzH2fAn_BSdIo3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:30 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

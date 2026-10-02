@@ -1,0 +1,40 @@
+{
+  "slug": "aloha-plate-hawaiian-provo",
+  "name": "Aloha Plate | Hawaiian",
+  "category": "Asian & Pacific",
+  "googleCategory": "Hawaiian restaurant",
+  "address": "Brigham Young University, Cougareat Food Court Suite 2270",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2485515,
+  "lng": -111.6472221,
+  "phone": "+18014224134",
+  "website": "http://dining.byu.edu/cougareat/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aloha+Plate+%7C+Hawaiian/data=!4m7!3m6!1s0x874d90b9ef88f7a9:0x3586c1df9dbf276f!8m2!3d40.2485515!4d-111.6472221!16s%2Fg%2F11bzrkgyqy!19sChIJqfeI77mQTYcRbye_nd_BhjU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJqfeI77mQTYcRbye_nd_BhjU",
+  "googleRating": 3.9,
+  "googleReviewCount": 153,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbpmI3qU9GDn6fr__GYPlMUOY7fqPbbRV6o9QL9kMskn0N_xQB6TnjT6-FAvVRIy4jVf4dYyMbiafoqNnNCGBS7EiphJTpJvdHYUq6RFTYoTa0f6a7zAdH-Jh6G38Oe-q-834fFXNFJ7k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

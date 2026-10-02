@@ -1,228 +1,464 @@
 ---
-// This is the one genuinely interactive piece of the directory. Rather than
-// pulling in a UI framework for a search box + filter pills, this ships the
-// pre-built search index as inline JSON and filters with vanilla JS. At a
-// few thousand businesses the whole index is still well under what's
-// reasonable to ship as a static <script> payload — if the directory grows
-// past ~20k businesses, swap this for a Cloudflare Worker search endpoint
-// instead of filtering client-side (see SKILL notes in scripts/README.md).
+// The one interactive piece of the directory. Rather than pulling in a UI framework for a
+// search box + filter pills, this ships the pre-built search index as inline JSON and filters
+// with vanilla JS. At a few thousand businesses that is still a reasonable static payload; past
+// ~20k, swap this for a Cloudflare Worker search endpoint instead of filtering client-side.
+//
+// The search input (#searchInput) and city select (#cityFilter) live in the page hero; this
+// component owns the category pills, sorting, the card grid and paging. Filters are mirrored to
+// the URL (?q=&city=&cat=&sort=) so a filtered view can be linked and survives back/forward.
+import { CATEGORY_ICONS } from '../lib/business';
+
 interface BusinessSearchEntry {
   slug: string;
   name: string;
   category: string;
+  googleCategory: string;
   city: string;
   address: string;
   claimStatus: 'unclaimed' | 'pending' | 'claimed';
-  checkinCount: number;
+  rating: number;
+  reviews: number;
+  price: string;
+  photo: string;
 }
 
 interface Props {
   businesses: BusinessSearchEntry[];
-  cities: string[];
 }
 
-const { businesses, cities } = Astro.props;
-const categories = ['All', ...new Set(businesses.map((b) => b.category))].sort();
+const { businesses } = Astro.props;
+const counts = businesses.reduce<Record<string, number>>((acc, b) => ((acc[b.category] = (acc[b.category] ?? 0) + 1), acc), {});
+const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
 ---
 
-<div class="section" style="padding-top: 0;">
-  <div class="section-inner">
-    <div class="controls">
-      <input type="text" id="searchInput" placeholder="Search business name or category..." />
-      <select id="cityFilter">
-        <option value="">All Cities</option>
-        {cities.map((c) => <option value={c}>{c}</option>)}
-      </select>
+<section class="dir-body">
+  <div class="dir-inner">
+    <div class="toolbar">
+      <div class="pills" id="categoryPills" role="group" aria-label="Category">
+        <button class="pill active" data-cat="All" aria-pressed="true"><i class="ti ti-layout-grid"></i>All <span class="n">{businesses.length}</span></button>
+        {categories.map((c) => (
+          <button class="pill" data-cat={c} aria-pressed="false">
+            <i class:list={['ti', CATEGORY_ICONS[c] ?? 'ti-building-store']}></i>{c} <span class="n">{counts[c]}</span>
+          </button>
+        ))}
+      </div>
+      <div class="toolbar-row">
+        <div class="result-count" id="resultCount" aria-live="polite"></div>
+        <label class="sort">
+          Sort
+          <select id="sortSelect">
+            <option value="popular">Most popular</option>
+            <option value="rating">Top rated</option>
+            <option value="name">A–Z</option>
+          </select>
+        </label>
+      </div>
     </div>
-    <div class="pills" id="categoryPills">
-      {categories.map((c) => (
-        <button class:list={['pill', c === 'All' && 'active']} data-cat={c}>{c}</button>
-      ))}
-    </div>
-    <div class="result-count" id="resultCount"></div>
+
     <div class="grid" id="bizGrid"></div>
+    <div class="more-wrap"><button class="more" id="loadMore" hidden>Show more</button></div>
   </div>
-</div>
+</section>
 
 <script type="application/json" id="businessData" set:html={JSON.stringify(businesses)} />
+<script type="application/json" id="categoryIcons" set:html={JSON.stringify(CATEGORY_ICONS)} />
 
 <script>
-  type BusinessSearchEntry = {
+  type Biz = {
     slug: string;
     name: string;
     category: string;
+    googleCategory: string;
     city: string;
     address: string;
     claimStatus: 'unclaimed' | 'pending' | 'claimed';
-    checkinCount: number;
+    rating: number;
+    reviews: number;
+    price: string;
+    photo: string;
   };
 
-  const dataEl = document.getElementById('businessData');
-  const ALL_BUSINESSES: BusinessSearchEntry[] = JSON.parse(dataEl?.textContent || '[]');
+  const PAGE = 24;
+  const ALL: Biz[] = JSON.parse(document.getElementById('businessData')?.textContent || '[]');
+  const ICONS: Record<string, string> = JSON.parse(document.getElementById('categoryIcons')?.textContent || '{}');
 
   const searchInput = document.getElementById('searchInput') as HTMLInputElement;
   const cityFilter = document.getElementById('cityFilter') as HTMLSelectElement;
-  const pillsContainer = document.getElementById('categoryPills') as HTMLDivElement;
+  const sortSelect = document.getElementById('sortSelect') as HTMLSelectElement;
+  const pills = [...document.querySelectorAll<HTMLButtonElement>('#categoryPills .pill')];
   const grid = document.getElementById('bizGrid') as HTMLDivElement;
   const resultCount = document.getElementById('resultCount') as HTMLDivElement;
+  const loadMore = document.getElementById('loadMore') as HTMLButtonElement;
 
   let activeCategory = 'All';
+  let shown = PAGE;
+  let current: Biz[] = [];
 
-  function statusBadgeHtml(status: BusinessSearchEntry['claimStatus']) {
-    if (status === 'claimed') return '<div class="biz-badge"><i class="ti ti-check"></i> Verified</div>';
-    if (status === 'pending') return '<div class="biz-badge" style="border-color: rgba(245,197,24,0.4); color: var(--yellow);"><i class="ti ti-clock"></i> In Review</div>';
-    return '<div class="biz-badge" style="border-color: rgba(255,255,255,0.2); color: var(--text-dim);"><i class="ti ti-alert-circle"></i> Unclaimed</div>';
+  const esc = (s: string) =>
+    s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+
+  // Rating weighted by review volume, so a 5.0 with 3 reviews doesn't outrank a 4.6 with 2,000.
+  const popularity = (b: Biz) => (b.rating ? b.rating * Math.log10(b.reviews + 10) : 0);
+
+  function card(b: Biz) {
+    const icon = ICONS[b.category] ?? 'ti-building-store';
+    const photo = b.photo
+      ? `<img src="${esc(b.photo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`
+      : '';
+    const badge =
+      b.claimStatus === 'claimed'
+        ? '<span class="badge badge--on"><i class="ti ti-circle-check-filled"></i> On GOTYOU</span>'
+        : '';
+    const rating = b.rating
+      ? `<span class="rating"><i class="ti ti-star-filled"></i>${b.rating.toFixed(1)}<span class="cnt">(${b.reviews.toLocaleString()})</span></span>`
+      : '<span class="rating rating--none">No reviews yet</span>';
+    return `
+      <a href="/businesses/${b.slug}" class="card">
+        <div class="photo"><span class="ph"><i class="ti ${icon}"></i></span>${photo}
+          <span class="chip"><i class="ti ${icon}"></i>${esc(b.category)}</span>${badge}
+        </div>
+        <div class="body">
+          <h3>${esc(b.name)}</h3>
+          <div class="sub">${esc(b.googleCategory)}${b.price ? ` · ${esc(b.price)}` : ''}</div>
+          <div class="foot">${rating}<span class="loc"><i class="ti ti-map-pin"></i>${esc(b.city)}</span></div>
+        </div>
+      </a>`;
   }
 
-  function render(list: BusinessSearchEntry[]) {
-    resultCount.textContent = `${list.length} business${list.length === 1 ? '' : 'es'} found`;
-
-    if (!list.length) {
-      grid.innerHTML = `<div class="empty"><i class="ti ti-search"></i><p>No businesses found. Try a different search.</p></div>`;
+  function render() {
+    resultCount.innerHTML = `<strong>${current.length.toLocaleString()}</strong> ${current.length === 1 ? 'place' : 'places'}${
+      cityFilter.value ? ` in ${esc(cityFilter.value)}` : ''
+    }`;
+    if (!current.length) {
+      grid.innerHTML = `<div class="empty"><i class="ti ti-mood-search"></i><p>Nothing matches that yet.</p>
+        <button type="button" class="reset" id="resetFilters">Clear filters</button></div>`;
+      document.getElementById('resetFilters')?.addEventListener('click', reset);
+      loadMore.hidden = true;
       return;
     }
-
-    grid.innerHTML = list
-      .map(
-        (b) => `
-        <a href="/businesses/${b.slug}" class="biz-card">
-          <div class="biz-img" style="background: var(--card-light); display:flex; align-items:center; justify-content:center;">
-            <i class="ti ti-building-store" style="font-size: 34px; color: rgba(255,255,255,.15);"></i>
-            ${statusBadgeHtml(b.claimStatus)}
-          </div>
-          <div class="biz-body">
-            <h4>${b.name}</h4>
-            <div class="cat">${b.category} · ${b.city}</div>
-            <div class="biz-foot">
-              <div class="checkins"><i class="ti ti-map-pin"></i> ${b.address}</div>
-            </div>
-            ${b.checkinCount > 0 ? `<div class="biz-foot" style="margin-top: 6px;"><div class="checkins"><i class="ti ti-map-check"></i> ${b.checkinCount} check-ins</div></div>` : ''}
-          </div>
-        </a>`
-      )
-      .join('');
+    grid.innerHTML = current.slice(0, shown).map(card).join('');
+    loadMore.hidden = shown >= current.length;
+    loadMore.textContent = `Show more (${(current.length - shown).toLocaleString()} left)`;
   }
 
-  function filter() {
+  function apply(resetPaging = true) {
     const q = searchInput.value.toLowerCase().trim();
     const city = cityFilter.value;
-
-    const filtered = ALL_BUSINESSES.filter((b) => {
-      const matchesQuery = !q || b.name.toLowerCase().includes(q) || b.category.toLowerCase().includes(q);
-      const matchesCity = !city || b.city === city;
-      const matchesCategory = activeCategory === 'All' || b.category === activeCategory;
-      return matchesQuery && matchesCity && matchesCategory;
-    });
-
-    render(filtered);
+    current = ALL.filter(
+      (b) =>
+        (!q || `${b.name} ${b.googleCategory} ${b.category} ${b.address}`.toLowerCase().includes(q)) &&
+        (!city || b.city === city) &&
+        (activeCategory === 'All' || b.category === activeCategory),
+    );
+    const sort = sortSelect.value;
+    current.sort((a, b) =>
+      sort === 'name'
+        ? a.name.localeCompare(b.name)
+        : sort === 'rating'
+          ? b.rating - a.rating || b.reviews - a.reviews
+          : popularity(b) - popularity(a),
+    );
+    if (resetPaging) shown = PAGE;
+    render();
+    syncUrl();
   }
 
-  searchInput.addEventListener('input', filter);
-  cityFilter.addEventListener('change', filter);
-
-  pillsContainer.querySelectorAll<HTMLButtonElement>('.pill').forEach((pill) => {
-    pill.addEventListener('click', () => {
-      activeCategory = pill.dataset.cat || 'All';
-      pillsContainer.querySelectorAll('.pill').forEach((p) => p.classList.remove('active'));
-      pill.classList.add('active');
-      filter();
+  function setCategory(cat: string) {
+    activeCategory = pills.some((p) => p.dataset.cat === cat) ? cat : 'All';
+    pills.forEach((p) => {
+      const on = p.dataset.cat === activeCategory;
+      p.classList.toggle('active', on);
+      p.setAttribute('aria-pressed', String(on));
     });
+  }
+
+  function syncUrl() {
+    const p = new URLSearchParams();
+    if (searchInput.value.trim()) p.set('q', searchInput.value.trim());
+    if (cityFilter.value) p.set('city', cityFilter.value);
+    if (activeCategory !== 'All') p.set('cat', activeCategory);
+    if (sortSelect.value !== 'popular') p.set('sort', sortSelect.value);
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? `?${qs}` : location.pathname);
+  }
+
+  function reset() {
+    searchInput.value = '';
+    cityFilter.value = '';
+    setCategory('All');
+    apply();
+  }
+
+  // Restore filters from the URL.
+  const params = new URLSearchParams(location.search);
+  searchInput.value = params.get('q') ?? '';
+  if ([...cityFilter.options].some((o) => o.value === params.get('city'))) cityFilter.value = params.get('city')!;
+  if ([...sortSelect.options].some((o) => o.value === params.get('sort'))) sortSelect.value = params.get('sort')!;
+  setCategory(params.get('cat') ?? 'All');
+
+  let t: number | undefined;
+  searchInput.addEventListener('input', () => {
+    clearTimeout(t);
+    t = window.setTimeout(() => apply(), 120);
+  });
+  cityFilter.addEventListener('change', () => apply());
+  sortSelect.addEventListener('change', () => apply());
+  pills.forEach((p) => p.addEventListener('click', () => (setCategory(p.dataset.cat || 'All'), apply())));
+  loadMore.addEventListener('click', () => {
+    shown += PAGE;
+    render();
   });
 
-  // Initial render — runs once on page load with the full unfiltered list
-  filter();
+  apply();
 </script>
 
 <style>
-  .controls {
-    display: flex;
-    gap: 0;
-    max-width: 580px;
-    margin: 0 auto 1.5rem;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-    border-radius: 12px;
-    overflow: hidden;
-    border: 1px solid rgba(255, 255, 255, 0.08);
+  .dir-body {
+    padding: 40px 1.5rem 80px;
   }
-  .controls input {
-    flex: 1;
-    padding: 16px 20px;
-    border: none;
-    font-size: 15px;
-    font-family: var(--font-body);
-    outline: none;
-    background: var(--card);
-    color: var(--text);
-  }
-  .controls input::placeholder {
-    color: var(--text-dimmer);
-  }
-  .controls select {
-    padding: 16px 14px;
-    border: none;
-    border-left: 1px solid rgba(255, 255, 255, 0.08);
-    font-size: 14px;
-    font-family: var(--font-body);
-    outline: none;
-    background: var(--card-light);
-    color: var(--text-dim);
-    cursor: pointer;
+  .dir-inner {
+    max-width: 1200px;
+    margin: 0 auto;
   }
 
   .pills {
     display: flex;
     gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 1.5rem;
-    justify-content: center;
+    overflow-x: auto;
+    padding-bottom: 6px;
+    scrollbar-width: thin;
   }
   .pill {
-    padding: 6px 16px;
-    border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    background: var(--card);
-    font-size: 13px;
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 9px 16px;
+    border-radius: 100px;
+    border: 1px solid var(--border);
+    background: var(--white);
+    color: var(--text);
+    font: 500 14px var(--font-body);
     cursor: pointer;
-    color: var(--text-dim);
-    transition: all 0.2s;
-    font-family: var(--font-body);
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
   }
-  .pill.active,
+  .pill i {
+    font-size: 17px;
+    color: var(--blue);
+  }
+  .pill .n {
+    font-size: 12px;
+    color: var(--muted);
+  }
   .pill:hover {
-    background: var(--blue-bright);
+    border-color: var(--blue);
+  }
+  .pill.active {
+    background: var(--navy);
+    border-color: var(--navy);
     color: #fff;
-    border-color: var(--blue-bright);
+  }
+  .pill.active i {
+    color: var(--yellow);
+  }
+  .pill.active .n {
+    color: rgba(255, 255, 255, 0.6);
   }
 
+  .toolbar-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 18px 0 20px;
+    gap: 1rem;
+  }
   .result-count {
-    font-size: 13px;
-    color: var(--text-dim);
-    margin-bottom: 1rem;
-    text-align: center;
+    color: var(--muted);
+    font-size: 15px;
+  }
+  .result-count :global(strong) {
+    color: var(--text);
+  }
+  .sort {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .sort select {
+    border: 1px solid var(--border);
+    background: var(--white);
+    color: var(--text);
+    border-radius: 10px;
+    padding: 8px 10px;
+    font: 500 14px var(--font-body);
   }
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.4rem;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 22px;
   }
-
-  .grid :global(.biz-card:hover) {
+  .grid :global(.card) {
+    display: flex;
+    flex-direction: column;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .grid :global(.card:hover) {
     transform: translateY(-4px);
-    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.3);
-    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 18px 40px rgba(11, 16, 41, 0.12);
+  }
+  .grid :global(.photo) {
+    position: relative;
+    aspect-ratio: 16 / 10;
+    background: linear-gradient(135deg, #1565d8, #0a3d9e);
+    overflow: hidden;
+  }
+  .grid :global(.photo img) {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .grid :global(.card:hover .photo img) {
+    transform: scale(1.04);
+  }
+  .grid :global(.ph) {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    font-size: 44px;
+    color: rgba(255, 255, 255, 0.35);
+  }
+  .grid :global(.chip),
+  .grid :global(.badge) {
+    position: absolute;
+    top: 12px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+    border-radius: 100px;
+    font: 600 12px var(--font-body);
+    backdrop-filter: blur(6px);
+  }
+  .grid :global(.chip) {
+    left: 12px;
+    background: rgba(11, 16, 41, 0.72);
+    color: #fff;
+  }
+  .grid :global(.chip i) {
+    color: var(--yellow);
+  }
+  .grid :global(.badge--on) {
+    right: 12px;
+    background: var(--yellow);
+    color: var(--navy);
+  }
+  .grid :global(.body) {
+    padding: 16px 18px 18px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  .grid :global(.body h3) {
+    font-size: 17px;
+    line-height: 1.3;
+    color: var(--text);
+    margin-bottom: 4px;
+  }
+  .grid :global(.sub) {
+    font-size: 13.5px;
+    color: var(--muted);
+    margin-bottom: 14px;
+  }
+  .grid :global(.foot) {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13.5px;
+  }
+  .grid :global(.rating) {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .grid :global(.rating i) {
+    color: #f5a623;
+  }
+  .grid :global(.rating .cnt) {
+    font-weight: 400;
+    color: var(--muted);
+  }
+  .grid :global(.rating--none) {
+    font-weight: 400;
+    color: var(--muted);
+  }
+  .grid :global(.loc) {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    color: var(--muted);
   }
 
-  .empty {
+  .grid :global(.empty) {
     grid-column: 1 / -1;
     text-align: center;
-    padding: 3rem;
-    color: var(--text-dim);
+    padding: 4rem 1rem;
+    color: var(--muted);
   }
-  .empty i {
-    font-size: 40px;
-    margin-bottom: 1rem;
+  .grid :global(.empty i) {
+    font-size: 44px;
     display: block;
-    opacity: 0.3;
+    margin-bottom: 10px;
+    opacity: 0.5;
+  }
+  .grid :global(.reset) {
+    margin-top: 14px;
+    border: 1px solid var(--border);
+    background: var(--white);
+    border-radius: 100px;
+    padding: 9px 18px;
+    font: 600 14px var(--font-body);
+    color: var(--text);
+    cursor: pointer;
+  }
+
+  .more-wrap {
+    text-align: center;
+    margin-top: 36px;
+  }
+  .more {
+    background: var(--navy);
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    padding: 14px 28px;
+    font: 600 15px var(--font-display);
+    cursor: pointer;
+  }
+  .more:hover {
+    background: var(--blue);
+  }
+
+  @media (max-width: 520px) {
+    .dir-body {
+      padding: 28px 16px 56px;
+    }
+    .grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>

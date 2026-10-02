@@ -1,0 +1,44 @@
+{
+  "slug": "wendys-1066-provo",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "address": "1066 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2196001,
+  "lng": -111.6594641,
+  "phone": "+18013771413",
+  "website": "https://locations.wendys.com/united-states/ut/provo/1066-s-university-ave?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x874d975c3ddc01fd:0x4315ae8847639ee8!8m2!3d40.2196001!4d-111.6594641!16s%2Fg%2F1xb2f155!19sChIJ_QHcPVyXTYcR6J5jR4iuFUM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ_QHcPVyXTYcR6J5jR4iuFUM",
+  "googleRating": 3.4,
+  "googleReviewCount": 1030,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmdXwdC67YZso71WxzWviPB9rDQxe0tRl_Zc_G20twgMdA2Ktz0Tz9u2FZ-C5rsIsyuklao0lOTofcqSIiBaBYOPTIZuqtQkh7wzrc6YElBdAbVRg1-o-LWtOTRTRFZ_UgbMPNFtQ=w1200-h800-k-no",
+  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:00 AM - 1:00 AM",
+    "sat": "7:00 AM - 1:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

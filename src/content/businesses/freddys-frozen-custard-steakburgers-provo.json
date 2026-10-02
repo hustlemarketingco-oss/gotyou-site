@@ -1,0 +1,47 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-provo",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Delivery service",
+    "Fast food restaurant",
+    "Restaurant"
+  ],
+  "address": "1025 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.220027699999996,
+  "lng": -111.65835799999999,
+  "phone": "+13852865817",
+  "website": "https://www.freddys.com/location/provo?utm_source=gbp&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Freddy%27s+Frozen+Custard+%26+Steakburgers/data=!4m7!3m6!1s0x874d976120c6e141:0xcfa8ac22cb995458!8m2!3d40.2200277!4d-111.658358!16s%2Fg%2F11l5r251pb!19sChIJQeHGIGGXTYcRWFSZyyKsqM8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJQeHGIGGXTYcRWFSZyyKsqM8",
+  "googleRating": 4.1,
+  "googleReviewCount": 491,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8TXDNHAYVfs5C9ScZ5ZVQSyYnOFqzd44A5mmjwnNp_9Fd5ULhs_Gqy0ugGVEE94PA5ezz-7bOQPm1TV60Qbjc4R9QwBMSqGjMVnq960U9RotYLUM19Epcjm63yTnzdJneFtHT=w1200-h800-k-no",
+  "description": "Vintage-style chain for steakburgers, hot dogs & other fast-food staples, plus frozen custard.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

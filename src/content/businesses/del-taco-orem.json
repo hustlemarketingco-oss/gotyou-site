@@ -1,0 +1,50 @@
+{
+  "slug": "del-taco-orem",
+  "name": "Del Taco",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Hamburger restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1055 S State St",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84097",
+  "lat": 40.277788,
+  "lng": -111.6858194,
+  "phone": "+18012291099",
+  "website": "https://locations.deltaco.com/us/ut/orem/1055-s-state-street?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Del+Taco/data=!4m7!3m6!1s0x874d9a8dbc1cfd73:0xcf6a4bf53e20be46!8m2!3d40.277788!4d-111.6858194!16s%2Fg%2F1tfxyhv8!19sChIJc_0cvI2aTYcRRr4gPvVLas8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJc_0cvI2aTYcRRr4gPvVLas8",
+  "googleRating": 3.9,
+  "googleReviewCount": 1443,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKhSkKB64PTyEaijx-ju-qvqk02IfG8ERV7JqwJJrgZvjGgvkhxRM_1614S_GSJOpl0ve6kCYT-9ShxCdGdYfuLbfgglfWLE7uSVAi2nMrnsVg_a6LBCpCtXC086EhNnwY-7peGwbwXHo=w1200-h800-k-no",
+  "description": "Fast-food chain for Mexican standards like tacos, burritos & quesadillas plus breakfast.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

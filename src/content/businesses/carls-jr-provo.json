@@ -1,0 +1,44 @@
+{
+  "slug": "carls-jr-provo",
+  "name": "Carl's Jr.",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Hamburger restaurant"
+  ],
+  "address": "344 W 1230 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250983999999995,
+  "lng": -111.66490739999999,
+  "phone": "+18013709593",
+  "website": "https://locations.carlsjr.com/ut/provo/344-w-1230-n",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carl%27s+Jr./data=!4m7!3m6!1s0x874d90a09211887f:0x5e5f255717d5fd1b!8m2!3d40.250984!4d-111.6649074!16s%2Fg%2F1vcjmqvj!19sChIJf4gRkqCQTYcRG_3VF1clX14?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJf4gRkqCQTYcRG_3VF1clX14",
+  "googleRating": 4,
+  "googleReviewCount": 1469,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRTlQCgv4MEY576HraiGfF2I4z5raHejE7dRRTm6a6DdjIoefhxNZxDSeP4_JSvvyXnHD0Ao_9SA6jILzQVrqPklEObPmlZPGPiz-omm1v_cKw6swyWxKRHZUFR31tHK2yV8XU=w1200-h800-k-no",
+  "description": "Fast-food chain known for its variety of piled-high burgers & meal combos, plus shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

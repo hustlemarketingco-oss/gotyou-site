@@ -1,0 +1,41 @@
+{
+  "slug": "two-jacks-pizza-provo",
+  "name": "Two Jack's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "address": "80 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.233920999999995,
+  "lng": -111.66003409999999,
+  "phone": "+18013774747",
+  "website": "http://www.twojackspizza.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Two+Jack%27s+Pizza/data=!4m7!3m6!1s0x874d9753627d1771:0x63f5ecbcd4283f2d!8m2!3d40.233921!4d-111.6600341!16s%2Fg%2F1tfshwr4!19sChIJcRd9YlOXTYcRLT8o1Lzs9WM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJcRd9YlOXTYcRLT8o1Lzs9WM",
+  "googleRating": 4.6,
+  "googleReviewCount": 1811,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJbwyFHaWF5s-IDXigiChIpcNEhuTpuy4rh2QKr8aaqLVbq9hOaExqMPaLLHbsBO-QSOfhksjKM1ZI9kpSNmHFJt15pyapjlI-E94YT8T6SIJ0YS5_r8dM1j11k6MQMEFCmY2piyuAKDQ=w1200-h800-k-no",
+  "description": "Hand-tossed pies join pasta dishes, calzones & wings at this casual, counter-serve pizza parlor.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

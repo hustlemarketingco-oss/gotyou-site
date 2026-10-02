@@ -1,0 +1,39 @@
+{
+  "slug": "moon-peak-coffeehouse-provo",
+  "name": "Moon Peak Coffeehouse",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "50 E 500 N #105",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2402666,
+  "lng": -111.6574959,
+  "phone": "+18012349170",
+  "website": "https://www.instagram.com/moonpeakcoffee?igsh=MXZoYmthM3RmZTkzMA==",
+  "googleMapsUrl": "https://www.google.com/maps/place/Moon+Peak+Coffeehouse/data=!4m7!3m6!1s0x874d912533c84d69:0x50739d9c5ac04198!8m2!3d40.2402666!4d-111.6574959!16s%2Fg%2F11ypl_vrf9!19sChIJaU3IMyWRTYcRmEHAWpydc1A?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJaU3IMyWRTYcRmEHAWpydc1A",
+  "googleRating": 4.8,
+  "googleReviewCount": 132,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnglj60l_lGS0Dfd8Bk1uvoBqumYAWcb7JhXGXn2W2TMD3Eg31XqiU7DNhnHOOdVziCUORnTnbEiZaOQszCk5A0IAhJQwmDBuAJJsuDXRd5ocij6g2-F45-F7Ztp0D5FUVX-PBh2jxqKLU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

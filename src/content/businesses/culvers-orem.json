@@ -1,0 +1,49 @@
+{
+  "slug": "culvers-orem",
+  "name": "Culver’s",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Dessert restaurant",
+    "Fast food restaurant",
+    "Hamburger restaurant",
+    "Ice cream shop",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1211 W 800 N",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84057",
+  "lat": 40.3113441,
+  "lng": -111.7241298,
+  "phone": "+18016072841",
+  "website": "http://www.culvers.com/restaurants/orem-ut/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+  "googleMapsUrl": "https://www.google.com/maps/place/Culver%E2%80%99s/data=!4m7!3m6!1s0x874d84d07bde848d:0x83dc3c79ccd20993!8m2!3d40.3113441!4d-111.7241298!16s%2Fg%2F11b7llyv7q!19sChIJjYTee9CETYcRkwnSzHk83IM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJjYTee9CETYcRkwnSzHk83IM",
+  "googleRating": 4.3,
+  "googleReviewCount": 4527,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEYJee7TgtZ0e-1k9Et1SqJeKUezG69UWb4e3LCQlqG_37GE6S8idWdnd2pLXN42X8Jlv9OAyVgT7Gp8TQxpTfr7Hsl5DYjE_2XazaR0qLth3eFwfOt1NDSdcp9fLXK9PNGxyrL6ihBmlo=w1200-h800-k-no",
+  "description": "Fast-food chain specializing in frozen custard & signature burgers made with Midwest beef & dairy.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 11:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "8:30 AM - 10:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

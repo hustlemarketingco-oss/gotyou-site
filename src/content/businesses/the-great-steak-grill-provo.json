@@ -1,0 +1,44 @@
+{
+  "slug": "the-great-steak-grill-provo",
+  "name": "The Great Steak Grill",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Grill",
+    "Fast food restaurant",
+    "Restaurant"
+  ],
+  "address": "1650 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2341136,
+  "lng": -111.6883328,
+  "phone": "+18013756448",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Great+Steak+Grill/data=!4m7!3m6!1s0x874d9a1f38a3a03d:0x6319ef1708a7617f!8m2!3d40.2341136!4d-111.6883328!16s%2Fg%2F1thl1b8x!19sChIJPaCjOB-aTYcRf2GnCBfvGWM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJPaCjOB-aTYcRf2GnCBfvGWM",
+  "googleRating": 4.6,
+  "googleReviewCount": 761,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFs95dgJIYdz2II2Os5l2Y6TaeNSFUbCTSxZ2rQREFNsr84yEjVR2gvG_mWosb91mD7QRG8yR3C2B8EzFeGucTgbNpGnU0x0_zRLtBNy8Sh4PmcHr3EXFj58hCdGPBdPPCsqd7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

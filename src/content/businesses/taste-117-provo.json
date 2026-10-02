@@ -1,0 +1,44 @@
+{
+  "slug": "taste-117-provo",
+  "name": "Taste 117",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Chocolate shop",
+    "Tea house"
+  ],
+  "address": "117 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.235448999999996,
+  "lng": -111.658919,
+  "phone": "+18019004061",
+  "website": "http://taste117.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taste+117/data=!4m7!3m6!1s0x874d97534c490f4f:0x9801faf5961c4cfe!8m2!3d40.235449!4d-111.658919!16s%2Fg%2F11b6990tg6!19sChIJTw9JTFOXTYcR_kwclvX6AZg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJTw9JTFOXTYcR_kwclvX6AZg",
+  "googleRating": 4.6,
+  "googleReviewCount": 658,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9nca9PrxGJwXhix7JYBM8KeW5WpMhQ9vbB1Hs7qUsUTzWPa_Y9UfhiK1PjXIG1HdEBwRkhTw9XoeKkq0754P6dz7TafQbqe-2EdT0LRPzuaK00JaNRMpS8OoXY5e40_m3yt_7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

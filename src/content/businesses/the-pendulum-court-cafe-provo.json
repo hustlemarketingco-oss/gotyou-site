@@ -1,0 +1,40 @@
+{
+  "slug": "the-pendulum-court-cafe-provo",
+  "name": "The Pendulum Court Café",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "1 Campus Dr",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.247164399999996,
+  "lng": -111.65024439999999,
+  "phone": "+18014224636",
+  "website": "https://pencourt.byu.edu/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Pendulum+Court+Caf%C3%A9/data=!4m7!3m6!1s0x874d90ba77d57d4b:0x4b97638bc7feb027!8m2!3d40.2471644!4d-111.6502444!16s%2Fg%2F11dxfr4ltv!19sChIJS33Vd7qQTYcRJ7D-x4tjl0s?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJS33Vd7qQTYcRJ7D-x4tjl0s",
+  "googleRating": 4.6,
+  "googleReviewCount": 54,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlbTRhnWIqxGcvjzrMEOEqauewY4QoIjEr1r5HgLX507iyCx8l0TSATKYzp5-0ugCI2GHd0NuunefTpQ7qQkZKD-jWuCY4MQ07UKUDP-QuR9K6P67Hv_Jc19fWmyP9tRKjCQQi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 1:10 PM",
+    "tue": "12:00 PM - 1:30 PM",
+    "wed": "11:30 AM - 1:10 PM",
+    "thu": "11:30 AM - 1:10 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

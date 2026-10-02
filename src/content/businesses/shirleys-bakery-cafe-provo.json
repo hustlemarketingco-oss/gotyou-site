@@ -1,0 +1,45 @@
+{
+  "slug": "shirleys-bakery-cafe-provo",
+  "name": "Shirley's Bakery & Cafe",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "American restaurant",
+    "Cafe"
+  ],
+  "address": "200 W, 1620 N Freedom Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2561642,
+  "lng": -111.6613417,
+  "phone": "+18013758020",
+  "website": "http://shirleysbakerycafe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shirley%27s+Bakery+%26+Cafe/data=!4m7!3m6!1s0x874d90a8e44bd1c1:0x6f21d768cce81b8e!8m2!3d40.2561642!4d-111.6613417!16s%2Fg%2F1ptx229bs!19sChIJwdFL5KiQTYcRjhvozGjXIW8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJwdFL5KiQTYcRjhvozGjXIW8",
+  "googleRating": 4.3,
+  "googleReviewCount": 1211,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWliCNJasXc2GHkC2dvg07ageha6xk_T0ICaPYOhuXrMMAog7BuWn8qL0GTLrC8_InFfxMRLYtXlAvVGnTAJFipno_QChdyXlRw4H-39Ww6Ecutx0OdXTNllvQNDdoWT0XTGrPkq=w1200-h800-k-no",
+  "description": "Comfortable counter-serve offering baked breads & desserts, plus simple salads & sandwiches.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "guatemex-food-truck-inc-provo",
+  "name": "GUATEMEX FOOD TRUCK INC",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "210 W 200 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.230760499999995,
+  "lng": -111.6625598,
+  "phone": "+13852850537",
+  "googleMapsUrl": "https://www.google.com/maps/place/GUATEMEX+FOOD+TRUCK+INC/data=!4m7!3m6!1s0x874d97b2720408af:0x8f0e26ca74c97827!8m2!3d40.2307605!4d-111.6625598!16s%2Fg%2F11nvlz8x7n!19sChIJrwgEcrKXTYcRJ3jJdMomDo8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJrwgEcrKXTYcRJ3jJdMomDo8",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7IEIi9Bxjp5k8rOYSJpbFO6Rdeb0mTQwqGOpmSJc4jv6jAZrfz7iJBSKBrkHBV-QALctOM1Y4MUY-bF7yyvm4E94CswV4YmS2d7lng4tWq0lso7K5JuNyJ2ydII4gzYjuRcCfA5J_CQcx=w1200-h800-k-no",
+  "hours": {
+    "mon": "9:30 AM - 9:30 PM",
+    "tue": "9:30 AM - 9:30 PM",
+    "wed": "9:30 AM - 9:30 PM",
+    "thu": "9:30 AM - 9:30 PM",
+    "fri": "9:30 AM - 9:30 PM",
+    "sat": "9:30 AM - 9:30 PM",
+    "sun": "9:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

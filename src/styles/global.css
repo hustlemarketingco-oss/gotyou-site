@@ -914,3 +914,111 @@ img {
   align-items: center;
   gap: 6px;
 }
+
+/* ── light content sections ──
+   Dark navy stays for the nav, heroes, CTA bands and footer; content that people read or scan
+   (directory, profiles) sits on light sections. Wrapping in .theme-light remaps the shared tokens,
+   so components written against var(--white)/var(--text)/... render correctly on either. */
+.theme-light {
+  --bg: #f5f3ee;
+  --white: #ffffff;
+  --card: #ffffff;
+  --card-light: #eef1f7;
+  --text: #0b1029;
+  --muted: #5c6478;
+  --text-dim: #5c6478;
+  --text-dimmer: #8b91ab;
+  --border: #e3e6ee;
+  --blue-light: #e8f0ff;
+  background: var(--bg);
+  color: var(--text);
+}
+.theme-light .section-eyebrow,
+.theme-light .eyebrow {
+  color: var(--blue);
+}
+
+.btn-outline-dark {
+  border: 1.5px solid rgba(255, 255, 255, 0.35);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 14px;
+  padding: 13px 26px;
+  border-radius: 100px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: background 0.2s, border-color 0.2s;
+}
+.btn-outline-dark:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: #fff;
+}
+
+.stars {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 600;
+}
+.stars i {
+  color: var(--yellow);
+}
+
+/* Fade-up on scroll; content stays visible if JS or IntersectionObserver is unavailable. */
+.reveal {
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.js-reveal .reveal:not(.is-in) {
+  opacity: 0;
+  transform: translateY(16px);
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    transition: none;
+  }
+  .js-reveal .reveal:not(.is-in) {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ── generic buttons (used by ClaimSidebar and claim pages) ── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 13px 22px;
+  border-radius: 100px;
+  font: 700 15px var(--font-display);
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.btn:hover {
+  transform: translateY(-1px);
+}
+.btn--yellow {
+  background: var(--yellow);
+  color: #0b1029;
+}
+.btn--yellow:hover {
+  background: #ffd53d;
+}
+.btn--blue {
+  background: var(--blue);
+  color: #fff;
+}
+.btn--blue:hover {
+  background: #0f52c1;
+}
+.btn--outline {
+  border-color: var(--border);
+  color: var(--text);
+  background: transparent;
+}
+.btn--outline:hover {
+  border-color: var(--blue);
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "in-n-out-burger-orem",
+  "name": "In-N-Out Burger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Diner",
+    "Fast food restaurant",
+    "Lunch restaurant",
+    "Restaurant"
+  ],
+  "address": "350 E University Pkwy",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84058",
+  "lat": 40.2731419,
+  "lng": -111.6866139,
+  "phone": "+18007861000",
+  "website": "https://locations.in-n-out.com/235",
+  "googleMapsUrl": "https://www.google.com/maps/place/In-N-Out+Burger/data=!4m7!3m6!1s0x80c2d7ed85230adf:0x9a40f15193220d3f!8m2!3d40.2731419!4d-111.6866139!16s%2Fg%2F1tlkcvsm!19sChIJ3wojhe3XwoARPw0ik1HxQJo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ3wojhe3XwoARPw0ik1HxQJo",
+  "googleRating": 4.5,
+  "googleReviewCount": 6381,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2tA1RAqIFZxGsRmEDMu25D2qVquWCPW2ulxA86LtaOKMCbnfjdiya6Io3RwS3n4A5KH-UnFneZN9hHRwm44eJrMsDN5251m3Ru3NEIjQvwXwWg8aNjbmPOYXpV-cZt2LiwiPjpQEijkE=w1200-h800-k-no",
+  "description": "Classic burger chain serving customizable burgers, hand-cut fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 1:00 AM",
+    "tue": "10:30 AM - 1:00 AM",
+    "wed": "10:30 AM - 1:00 AM",
+    "thu": "10:30 AM - 1:00 AM",
+    "fri": "10:30 AM - 1:30 AM",
+    "sat": "10:30 AM - 1:30 AM",
+    "sun": "10:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

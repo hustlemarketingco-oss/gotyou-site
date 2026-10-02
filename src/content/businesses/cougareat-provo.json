@@ -1,0 +1,39 @@
+{
+  "slug": "cougareat-provo",
+  "name": "Cougareat",
+  "category": "Restaurant",
+  "googleCategory": "Food court",
+  "address": "Brigham Young University, Cougareat Food Court",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2485515,
+  "lng": -111.6472221,
+  "phone": "+18014224134",
+  "website": "http://dining.byu.edu/cougareat/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cougareat/data=!4m7!3m6!1s0x874d91fb6a13efa9:0x9a9dbf3f9e2f215!8m2!3d40.2485515!4d-111.6472221!16s%2Fg%2F11c3tv7bkq!19sChIJqe8TavuRTYcRFfLi-fPbqQk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJqe8TavuRTYcRFfLi-fPbqQk",
+  "googleRating": 4.2,
+  "googleReviewCount": 241,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlA2YOGrQmilejsMspgxLZV5Vv-HyG2m_2NOPyn56-5FbBAez7Kemyy4VB7kdewJ7rish76WBnF7Yra4iUGhv0FLUoKlmyY3LXiVwHBIYbVFRLolOWEJfgTa7xaLNv4zJrU8YE-PQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "teri-gao-asian-cafe-provo",
+  "name": "Teri Gao Asian Cafe",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian restaurant",
+  "address": "62 West Cougar Blvd #104",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2512312,
+  "lng": -111.65997809999999,
+  "phone": "+18019609336",
+  "website": "https://www.terigaoasiancafeut.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Teri+Gao+Asian+Cafe/data=!4m7!3m6!1s0x874d910060c23825:0xfe0f8c45fd9aeca0!8m2!3d40.2512312!4d-111.6599781!16s%2Fg%2F11wbsscvry!19sChIJJTjCYACRTYcRoOya_UWMD_4?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJJTjCYACRTYcRoOya_UWMD_4",
+  "googleRating": 4.9,
+  "googleReviewCount": 913,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnu4b9Rss28PsGXiFuxKg43KZ1W-BWqSDjuLuKtmny3eGihnQw639pA8gf-hhr2D0bIDSiKZStcgI8SG7qCSdt_BxdZs1m5Y9Ag6EuwxtBOdb7vDDBRoLEODeC5kmPidayfQ5V_UQ_126QO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

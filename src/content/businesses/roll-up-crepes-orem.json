@@ -1,0 +1,51 @@
+{
+  "slug": "roll-up-crepes-orem",
+  "name": "Roll Up Crepes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Creperie",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Cafe",
+    "Dessert restaurant",
+    "Fast food restaurant",
+    "French restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "538 E University Pkwy",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84097",
+  "lat": 40.2728731,
+  "lng": -111.6824362,
+  "phone": "+13852696164",
+  "website": "https://rollupcrepes.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Roll+Up+Crepes/data=!4m7!3m6!1s0x874d9a624ca796eb:0xe520fa192408e46!8m2!3d40.2728731!4d-111.6824362!16s%2Fg%2F1tfnz1p1!19sChIJ65anTGKaTYcRRo5AkqEPUg4?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ65anTGKaTYcRRo5AkqEPUg4",
+  "googleRating": 4.2,
+  "googleReviewCount": 1079,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlx4raxVygKDLNif0UzSt6G_nHBlzcGLNih9V97ZcjuP9Vom3JmD85ragaTfeq6gaYfRZQHgj7D73bW6FgmQAmD67NQlO82ull9SasSNnRM7LFnNUKptsYghJPjNFR96vAZMdGDXpoW8-s=w1200-h800-k-no",
+  "description": "Relaxed hangout with late-night hours, occasional live music & a menu of crêpes, panini & salads.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

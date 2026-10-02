@@ -1,0 +1,44 @@
+{
+  "slug": "el-mexsal-mexican-salvadorian-provo",
+  "name": "El Mexsal | Mexican • Salvadorian",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "325 S 200 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.229396,
+  "lng": -111.66188299999999,
+  "phone": "+18013753468",
+  "website": "https://elmexsal.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Mexsal+%7C+Mexican+%E2%80%A2+Salvadorian/data=!4m7!3m6!1s0x874d975691a4c99b:0x6d1ce8b24bb3344c!8m2!3d40.229396!4d-111.661883!16s%2Fg%2F1vntkcjf!19sChIJm8mkkVaXTYcRTDSzS7LoHG0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJm8mkkVaXTYcRTDSzS7LoHG0",
+  "googleRating": 4.3,
+  "googleReviewCount": 2038,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkY1HrQjRF3Juuo61OV46geBChOjmUJWs6bWc9X5DLpUVb-Qs6tJlyPyfELSAwKtU-1q8dDnTMv1BRPDx5gkaIX8HdoFXo4nndBgrLoYXEaDPmUNN32i4wH2ExRMWsnKZF-je9UXukhGEO2=w1200-h800-k-no",
+  "description": "A simple, colorful spot serving Mexican & Salvadoran specialties, like pupusas, chile verde & tacos.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

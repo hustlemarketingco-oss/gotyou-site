@@ -1,0 +1,40 @@
+{
+  "slug": "we-proudly-serve-starbucks-starbucks-coffee-provo",
+  "name": "We Proudly Serve Starbucks (Starbucks Coffee)",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "101 W 100 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2344836,
+  "lng": -111.6617021,
+  "phone": "+18013703582",
+  "website": "https://weproudlyservestarbucks.com/ca/ca-en",
+  "googleMapsUrl": "https://www.google.com/maps/place/We+Proudly+Serve+Starbucks+%28Starbucks+Coffee%29/data=!4m7!3m6!1s0x874d97006d99d43d:0x7c165876e91dddde!8m2!3d40.2344836!4d-111.6617021!16s%2Fg%2F11m5gxxp4d!19sChIJPdSZbQCXTYcR3t0d6XZYFnw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJPdSZbQCXTYcR3t0d6XZYFnw",
+  "googleRating": 3.3,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0FE3rObOPcoNuYzehwYTwQjrTaNSSTNYGtlL5Iiw5YJfo5PyHhcs_5mzQ2xfJ6bhMDS5imlRBW9RrBAUHYiJOK1tETf-T3uYYTt7bhdWhCZS7gjEwEl8c32vw8edPm2-3BfizuJlsjY6u=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 5:00 PM",
+    "tue": "6:00 AM - 5:00 PM",
+    "wed": "6:00 AM - 5:00 PM",
+    "thu": "6:00 AM - 5:00 PM",
+    "fri": "6:00 AM - 5:00 PM",
+    "sat": "6:00 AM - 5:00 PM",
+    "sun": "6:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "little-caesars-pizza-provo",
+  "name": "Little Caesars Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "1260 N State St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2511,
+  "lng": -111.66609,
+  "phone": "+18013742314",
+  "website": "https://littlecaesars.com/en-us/store/705",
+  "googleMapsUrl": "https://www.google.com/maps/place/Little+Caesars+Pizza/data=!4m7!3m6!1s0x874d9a0af54e080d:0x335dd7db66a5672!8m2!3d40.2511!4d-111.66609!16s%2Fg%2F1tjpqzw8!19sChIJDQhO9QqaTYcRclZqtn3dNQM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJDQhO9QqaTYcRclZqtn3dNQM",
+  "googleRating": 3.2,
+  "googleReviewCount": 881,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2Qg7gftHnDQnnqyHw2CNOcmCYCQBP2md9Q-4CWV8bj2naaep8dhFRYu5HpkkmnnLW64sTsFfTy2SowfAyudeJB-lSfP3jObDiBTGo0zYXGWv25r3E2aaq61A78tfU4oN8CDVJ=w1200-h800-k-no",
+  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

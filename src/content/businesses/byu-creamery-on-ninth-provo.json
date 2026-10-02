@@ -1,0 +1,42 @@
+{
+  "slug": "byu-creamery-on-ninth-provo",
+  "name": "BYU Creamery on Ninth",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1209 900 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250372299999995,
+  "lng": -111.6441705,
+  "phone": "+18014222663",
+  "website": "https://dining.byu.edu/creamery-on-ninth",
+  "googleMapsUrl": "https://www.google.com/maps/place/BYU+Creamery+on+Ninth/data=!4m7!3m6!1s0x874d90b8ef51c1b7:0xf16c7389a72393b2!8m2!3d40.2503723!4d-111.6441705!16zL20vMDlnMzBn!19sChIJt8FR77iQTYcRspMjp4lzbPE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJt8FR77iQTYcRspMjp4lzbPE",
+  "googleRating": 4.6,
+  "googleReviewCount": 3745,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0fDq87ZLEOCj7xftlDCCPmm2SoVlQtWd1Ga4OQWsjA15C812Qm0ZNjlAqdGFD2Ydxp2gKScX3C9cs-jhrgnmmUkCZmYmYu7oqLDuy6T7j52et47tUFjdNKkqjsG7GqCkk9ShpY7WjCkA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 11:00 PM",
+    "tue": "7:00 AM - 11:00 PM",
+    "wed": "7:00 AM - 11:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

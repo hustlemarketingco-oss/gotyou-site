@@ -1,0 +1,49 @@
+{
+  "slug": "first-watch-provo",
+  "name": "First Watch",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Family restaurant",
+    "Health food restaurant",
+    "Lunch restaurant",
+    "Pancake restaurant",
+    "Restaurant"
+  ],
+  "address": "2235 N University Pkwy",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2627867,
+  "lng": -111.6681225,
+  "phone": "+13853984120",
+  "website": "https://www.firstwatch.com/locations/provo/?utm_source=gbp-listing&utm_medium=organic&utm_campaign=gbp-listing&utm_content=provo",
+  "googleMapsUrl": "https://www.google.com/maps/place/First+Watch/data=!4m7!3m6!1s0x874d9b0addd6caa3:0x7f966e6898a2bcf1!8m2!3d40.2627867!4d-111.6681225!16s%2Fg%2F11yx6c67wr!19sChIJo8rW3QqbTYcR8byimGhuln8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJo8rW3QqbTYcR8byimGhuln8",
+  "googleRating": 4.7,
+  "googleReviewCount": 828,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZpPhv5GTFjfCKDPzp5Eo6pOrLI0cYGyT8rIMo7B_UPBIDU2fiVlXRtCLdqDdCJfiJYe0AqNpf53FaCSIEKpSo1N9y3dHROXyt5PYpzmddw2_S5Clv_LHZkCY7E6Wys97JbHmkHH71xGvT=w1200-h800-k-no",
+  "description": "Cafe chain for health-minded breakfast, brunch & lunch options such as omelets, salads & soups.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "7:00 AM - 2:30 PM",
+    "sun": "7:00 AM - 2:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

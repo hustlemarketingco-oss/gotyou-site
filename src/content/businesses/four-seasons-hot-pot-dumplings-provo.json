@@ -1,0 +1,45 @@
+{
+  "slug": "four-seasons-hot-pot-dumplings-provo",
+  "name": "Four Seasons Hot Pot & Dumplings",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Hot pot restaurant",
+    "Sushi restaurant"
+  ],
+  "address": "236 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.236923999999995,
+  "lng": -111.65825799999999,
+  "phone": "+18013756888",
+  "website": "https://fourseasonhotpot1.wixsite.com/newsite",
+  "googleMapsUrl": "https://www.google.com/maps/place/Four+Seasons+Hot+Pot+%26+Dumplings/data=!4m7!3m6!1s0x874d90acbff346b9:0x8cea953984a75764!8m2!3d40.236924!4d-111.658258!16s%2Fg%2F1td2mzbb!19sChIJuUbzv6yQTYcRZFenhDmV6ow?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJuUbzv6yQTYcRZFenhDmV6ow",
+  "googleRating": 4.5,
+  "googleReviewCount": 627,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkzE47PcgPNlUzJ472_kY7tvDfDCLtjYaBZS7inNlKiNG-YMehW_mNyNwwNQUOvjHCKyeYf0-vUjuMEjrJM3ps7GGSezbTBghJnpnqI8TgRDaGK1OsiNERELiPma1ceLNQ09ova2GxzfQ6i=w1200-h800-k-no",
+  "description": "Low-key restaurant offering Chinese hot pots & dumplings in a modestly appointed dining room.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 9:30 PM",
+    "tue": "11:30 AM - 9:30 PM",
+    "wed": "11:30 AM - 9:30 PM",
+    "thu": "11:30 AM - 9:30 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

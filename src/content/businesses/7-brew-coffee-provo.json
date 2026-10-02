@@ -1,0 +1,40 @@
+{
+  "slug": "7-brew-coffee-provo",
+  "name": "7 Brew Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "2298 N University Pkwy",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2652657,
+  "lng": -111.6696899,
+  "phone": "+14793589274",
+  "website": "https://7brew.com/location/utah-provo-000323",
+  "googleMapsUrl": "https://www.google.com/maps/place/7+Brew+Coffee/data=!4m7!3m6!1s0x874d9ba877b10f0f:0x3b44bea883209b9b!8m2!3d40.2652657!4d-111.6696899!16s%2Fg%2F11lf22mwhv!19sChIJDw-xd6ibTYcRm5sgg6i-RDs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJDw-xd6ibTYcRm5sgg6i-RDs",
+  "googleRating": 4.7,
+  "googleReviewCount": 218,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFx2K46onoGNbHaGLLv9E3xfa1VnRBPrDIO00lXppXKgB63-Cs3BabrasZbPcOZ0eOEF3yOblS0K8xxXWJcxr21Zx0p3QHuNLd0gDjiw0-HRPB-Cfwbf5Kj0rzmkhLdANR0u4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "5:30 AM - 10:00 PM",
+    "tue": "5:30 AM - 10:00 PM",
+    "wed": "5:30 AM - 10:00 PM",
+    "thu": "5:30 AM - 10:00 PM",
+    "fri": "5:30 AM - 11:00 PM",
+    "sat": "5:30 AM - 11:00 PM",
+    "sun": "5:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

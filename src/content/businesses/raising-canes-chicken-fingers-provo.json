@@ -1,0 +1,46 @@
+{
+  "slug": "raising-canes-chicken-fingers-provo",
+  "name": "Raising Cane's Chicken Fingers",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Chicken restaurant",
+    "Southern restaurant (US)"
+  ],
+  "address": "132 W 1230 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2510224,
+  "lng": -111.66052889999999,
+  "phone": "+18013752492",
+  "website": "https://locations.raisingcanes.com/ut/provo/132-west-1230-north",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raising+Cane%27s+Chicken+Fingers/data=!4m7!3m6!1s0x874d91ac4c7d79d9:0xa344e22628142d43!8m2!3d40.2510224!4d-111.6605289!16s%2Fg%2F11nnw0m64p!19sChIJ2Xl9TKyRTYcRQy0UKCbiRKM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ2Xl9TKyRTYcRQy0UKCbiRKM",
+  "googleRating": 4.1,
+  "googleReviewCount": 2228,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk50qmZA_XpeZ1oZNsuRHvEFi9C9qFvu0ILHCZet3i7krisfbNmmcUH6tZpO2fyl6nkVKLawgDzj-vkNyv3asyZ99U8Q6Tkkmc0OT_qG-R9HBzwkCt6RmHchch_CkDtzkE8SREH5w=w1200-h800-k-no",
+  "description": "Fast-food chain specializing in fried chicken fingers, crinkle-cut fries & Texas toast.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 3:00 AM",
+    "tue": "10:00 AM - 3:00 AM",
+    "wed": "10:00 AM - 3:00 AM",
+    "thu": "10:00 AM - 3:00 AM",
+    "fri": "10:00 AM - 3:00 AM",
+    "sat": "10:00 AM - 3:00 AM",
+    "sun": "10:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

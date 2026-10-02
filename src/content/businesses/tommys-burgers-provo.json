@@ -1,0 +1,43 @@
+{
+  "slug": "tommys-burgers-provo",
+  "name": "Tommy's Burgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "401 W 100 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2349858,
+  "lng": -111.66585959999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Tommy%27s+Burgers/data=!4m7!3m6!1s0x874d90aaa62dc453:0x3b8c1132ce3e8e92!8m2!3d40.2349858!4d-111.6658596!16s%2Fg%2F1tfpk8xt!19sChIJU8QtpqqQTYcRko4-zjIRjDs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJU8QtpqqQTYcRko4-zjIRjDs",
+  "googleRating": 4.4,
+  "googleReviewCount": 1133,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4y5yk5TPyLQwtn7n8_eN97Iifn35JTCKNhqbhzq8NYaWA-HndPvQ31_7q2YJ-rSHiiK3BM6P1JOe5RO6in_j2AIgVhUmK4JXqp_IwbniChKdz1RROwz56MSBTnjksHtWER0DL=w1200-h800-k-no",
+  "description": "Fast-food chain topping burgers, fries & hot dogs with a signature chili since 1946.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

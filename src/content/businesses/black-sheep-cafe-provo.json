@@ -1,0 +1,46 @@
+{
+  "slug": "black-sheep-cafe-provo",
+  "name": "Black Sheep Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Native American restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Family restaurant",
+    "Southwestern restaurant (US)"
+  ],
+  "address": "19 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2342829,
+  "lng": -111.6590597,
+  "phone": "+18016072485",
+  "website": "https://www.blacksheepcafe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Black+Sheep+Cafe/data=!4m7!3m6!1s0x874d97536d3a43e7:0xbb3b993934429c54!8m2!3d40.2342829!4d-111.6590597!16s%2Fg%2F11g_cgcyv!19sChIJ50M6bVOXTYcRVJxCNDmZO7s?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ50M6bVOXTYcRVJxCNDmZO7s",
+  "googleRating": 4.4,
+  "googleReviewCount": 1798,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcZIxktn22wbv_anZTipdPMBVKFUDma8LX1pOFa3XLuuYINyM_4sq0PowcMKLNGlt1GfFh2kEyHlg2ZMJPhvFuEs_pQ34BDzpGoK4wI0bEuhrJlDalq2YZ6VI4mn5XiN7neqre4Cy7vdU=w1200-h800-k-no",
+  "description": "Contemporary Southwestern Native American cooking served with a full bar in an upscale-casual space.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "sat": "12:00 PM - 3:00 PM, 5:00 PM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

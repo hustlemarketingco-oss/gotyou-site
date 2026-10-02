@@ -1,0 +1,44 @@
+{
+  "slug": "mi-lindo-guadalajara-provo",
+  "name": "Mi Lindo Guadalajara",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "446 N Freedom Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.239688699999995,
+  "lng": -111.6618833,
+  "phone": "+18013739498",
+  "website": "https://m.facebook.com/mlgmexicanrestaurant/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mi+Lindo+Guadalajara/data=!4m7!3m6!1s0x874d90abd9781c47:0xc1e4fd93f9306e95!8m2!3d40.2396887!4d-111.6618833!16s%2Fg%2F11bccj8pcc!19sChIJRxx42auQTYcRlW4w-ZP95ME?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJRxx42auQTYcRlW4w-ZP95ME",
+  "googleRating": 4.4,
+  "googleReviewCount": 1011,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmSldW2KMOCbPLEatXXqo3_zYn3ROODQhVyIF_BchiOZCxmzG6Qkfns5NFhXh_Cs9HELIbQDN4NoQDkhyXngZVvTnCa6bFnfhW8YYdrAq_4d-3r-LZXo4pma9W_itKY00ONbOv=w1200-h800-k-no",
+  "description": "Tacos & other homestyle Mexican eats offered in a down-to-earth restaurant with TVs.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

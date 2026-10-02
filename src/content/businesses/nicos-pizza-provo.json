@@ -1,0 +1,45 @@
+{
+  "slug": "nicos-pizza-provo",
+  "name": "Nico's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant",
+    "Restaurant"
+  ],
+  "address": "255 West Cougar Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2499283,
+  "lng": -111.6633694,
+  "phone": "+18013567900",
+  "website": "http://www.nicospizzaprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nico%27s+Pizza/data=!4m7!3m6!1s0x874d9a79a3e4b58d:0xcd50b568e36d4859!8m2!3d40.2499283!4d-111.6633694!16s%2Fg%2F1tmgcxm5!19sChIJjbXko3maTYcRWUht42i1UM0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJjbXko3maTYcRWUht42i1UM0",
+  "googleRating": 4.6,
+  "googleReviewCount": 1273,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLPYX0Cxt0Bc319ZzoBDfNiUMbHvY8vpqvyFO_cIesEmlplhdFntxuXLMxe0UbvuCYz7XM_V8jhSkDBtAo16jrAlvVfO5OAddlERAUf3YNazl6UXg25cAqPxTmCpfUAH0hzFIjMTPpro8=w1200-h800-k-no",
+  "description": "Informal counter-service shop specializing in Boston-style pizza, plus other casual Italian food.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

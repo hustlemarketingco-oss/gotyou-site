@@ -1,0 +1,39 @@
+{
+  "slug": "chicken-boy-provo",
+  "name": "Chicken Boy",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "address": "1195 N Canyon Rd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2500156,
+  "lng": -111.6569976,
+  "website": "http://chickenboy.us/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chicken+Boy/data=!4m7!3m6!1s0x874d8100514a511b:0x62c18aa9dd6c855f!8m2!3d40.2500156!4d-111.6569976!16s%2Fg%2F11y4qqsm27!19sChIJG1FKUQCBTYcRX4Vs3amKwWI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJG1FKUQCBTYcRX4Vs3amKwWI",
+  "googleRating": 4.9,
+  "googleReviewCount": 443,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrrqs3CHrnMdvdEUUr8-pDIxA8770Cr8T1DUf6I7iDME1qVQEBetQnDotTeTJ6LWf25jp8o-47sxBTXaa5L1QRTLjhgUFt7lEszcyNMDXqHWm675P4QAveshidyaXEtoQtf3F6IGCQr_z2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "4:00 PM - 8:00 PM",
+    "tue": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

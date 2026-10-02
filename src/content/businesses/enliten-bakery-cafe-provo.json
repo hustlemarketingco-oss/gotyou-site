@@ -1,0 +1,41 @@
+{
+  "slug": "enliten-bakery-cafe-provo",
+  "name": "Enliten Bakery & Cafe",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "Historic gates snow building, 43 E Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2339444,
+  "lng": -111.6579644,
+  "phone": "+18019193838",
+  "googleMapsUrl": "https://www.google.com/maps/place/Enliten+Bakery+%26+Cafe/data=!4m7!3m6!1s0x874d97530f75b1e7:0x43be979b35acb66d!8m2!3d40.2339444!4d-111.6579644!16s%2Fg%2F11xq8pw50!19sChIJ57F1D1OXTYcRbbasNZuXvkM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ57F1D1OXTYcRbbasNZuXvkM",
+  "googleRating": 4,
+  "googleReviewCount": 128,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6OB0Xcl2MlfQrGYYB2n-yXwb3dc31iG_315ilggOAIQtEvAbRvADMMUfTg_A4d84YMDav0GGAKtct7FPwWfmP405zhGprKJVHrVQ6TH44tLO5NdJFFtl57FXM34VqhV274L4kbw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

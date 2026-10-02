@@ -16,7 +16,8 @@ const businesses = defineCollection({
     // Identity
     slug: z.string(), // URL-safe, e.g. "firehouse-pizza-salt-lake-city"
     name: z.string(),
-    category: z.string(), // e.g. "Restaurant", "Fitness", "Beauty & Spa"
+    category: z.string(), // GotYou display bucket, e.g. "Restaurant", "Coffee & Cafe", "Pizza"
+    googleCategory: z.string().optional(), // the specific Google category, e.g. "Thai restaurant"
     secondaryCategories: z.array(z.string()).default([]),
 
     // Location
@@ -36,6 +37,13 @@ const businesses = defineCollection({
     googleRating: z.number().optional(),
     googleReviewCount: z.number().optional(),
     googlePhotoRef: z.string().optional(), // photo reference, not the binary
+    googleMapsUrl: z.string().url().optional(),
+    photoUrl: z.string().url().optional(), // hosted Google photo URL (from the directory scraper)
+    priceRange: z.string().optional(),
+    amenities: z.array(z.string()).default([]), // e.g. "Wheelchair accessible entrance", "Dine-in"
+    timezone: z.string().optional(), // IANA, e.g. "America/Denver" — used for the "Open now" badge
+    temporarilyClosed: z.boolean().default(false),
+    source: z.string().optional(), // "gmaps-scraper" when written by directory-pipeline/export_gotyou.py
 
     // Enriched content (written by enrich-content.js)
     description: z.string().optional(), // 2-3 sentence Claude-generated description

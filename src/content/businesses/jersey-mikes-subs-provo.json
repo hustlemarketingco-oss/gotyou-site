@@ -1,0 +1,47 @@
+{
+  "slug": "jersey-mikes-subs-provo",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Deli",
+    "Fast food restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "426 West Cougar Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.250948,
+  "lng": -111.6660972,
+  "phone": "+18016911568",
+  "website": "https://www.jerseymikes.com/42031/provo-ut?utm_source=google&utm_medium=organic&utm_campaign=listings",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jersey+Mike%27s+Subs/data=!4m7!3m6!1s0x874d9b38f4052647:0xe4e359b34293c14f!8m2!3d40.250948!4d-111.6660972!16s%2Fg%2F11t0nmd3cz!19sChIJRyYF9DibTYcRT8GTQrNZ4-Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJRyYF9DibTYcRT8GTQrNZ4-Q",
+  "googleRating": 4.9,
+  "googleReviewCount": 1239,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgx5dEmmcbrizHNYZWveHvgV0OazX_TVyH3BMazFF0v31SfInCE8We7elDa0hIINEzDdEQU9_ynVog8Fnwra9qEuuyPlWIJqkbmD_2gcoaUyDEJycfoyahkshjfx-RMlHXj2lt=w1200-h800-k-no",
+  "description": "New Jersey–based counter-serve sandwich chain serving jumbo subs filled with cold cuts & toppings.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

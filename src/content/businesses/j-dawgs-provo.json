@@ -1,0 +1,46 @@
+{
+  "slug": "j-dawgs-provo",
+  "name": "J.Dawgs",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Hot dog restaurant",
+    "Hot dog stand"
+  ],
+  "address": "858 N 700 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.245259399999995,
+  "lng": -111.6463139,
+  "phone": "+18018522021",
+  "website": "http://www.jdawgs.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/J.Dawgs/data=!4m7!3m6!1s0x874d90b6e0355489:0xec8ceb994694e9b9!8m2!3d40.2452594!4d-111.6463139!16s%2Fg%2F1tdp0ypt!19sChIJiVQ14LaQTYcRuemURpnrjOw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJiVQ14LaQTYcRuemURpnrjOw",
+  "googleRating": 4.7,
+  "googleReviewCount": 1460,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYqU1XBulPchF5vmKGihCM_WIfd2jq7urIOk_8iyP6Lj8HtWr36pTYyQQg-v4zaCqpPrwNF0FbNC_YKtBemPDA5NiMTY5rRMu4UJJ5IMAd1zF72TEVEuF-aCpC1iEuXxj7DFiuDg=w1200-h800-k-no",
+  "description": "Eatery known for Polish & beef hot dogs served with locally baked buns & a signature sauce.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

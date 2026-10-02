@@ -1,0 +1,50 @@
+{
+  "slug": "king-kebab-provo",
+  "name": "King Kebab",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Falafel restaurant",
+    "Family restaurant",
+    "Greek restaurant",
+    "Gyro restaurant",
+    "Kebab shop",
+    "Lunch restaurant",
+    "Shawarma restaurant"
+  ],
+  "address": "Towne Centre, 1200 Towne Centre Blvd Fl 2",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2169746,
+  "lng": -111.6627188,
+  "phone": "+13854129727",
+  "website": "https://kingkebab.com/?utm_source=googlemybusiness",
+  "googleMapsUrl": "https://www.google.com/maps/place/King+Kebab/data=!4m7!3m6!1s0x874d975e5517105d:0x56593f17457a9f27!8m2!3d40.2169746!4d-111.6627188!16s%2Fg%2F11cn9ncdzr!19sChIJXRAXVV6XTYcRJ596RRc_WVY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJXRAXVV6XTYcRJ596RRc_WVY",
+  "googleRating": 4.7,
+  "googleReviewCount": 561,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGDq9_gtYwywLn4IrWrncXpixEzRTdI7DQ-mpenJTPrp77W-CFL2-rGUlwX1IvPoEBtBJ5NlKxXtaJW53jxicv08fXLb5rpndPV14CyphZt7Wc7oXu579gnn9xKGwo02yWzWYpZRbckfKS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

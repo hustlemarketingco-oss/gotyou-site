@@ -1,0 +1,40 @@
+{
+  "slug": "ronis-mac-bar-provo-ut-provo",
+  "name": "Roni's Mac Bar - Provo, UT",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "42 E 1230 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2503385,
+  "lng": -111.6579081,
+  "phone": "+18016098814",
+  "website": "http://www.ronismacbar.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Roni%27s+Mac+Bar+-+Provo,+UT/data=!4m7!3m6!1s0x874d91808aee62bd:0xe9beddf3a09da67c!8m2!3d40.2503385!4d-111.6579081!16s%2Fg%2F11wbdr0f2w!19sChIJvWLuioCRTYcRfKadoPPdvuk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJvWLuioCRTYcRfKadoPPdvuk",
+  "googleRating": 4.5,
+  "googleReviewCount": 791,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUq8wkJvisSKHPEdd3nIoXd0ZsAeQ5xU_qt4LxZo8IO4lrf-PiKBudfntjsW9_T0A9f7xiJUra5zV8NJ0UVXqpkMt_5D_LCAPYm0pCCgxsr5bVOfjNHjafvJEf6ZsEZGbpBAC1=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

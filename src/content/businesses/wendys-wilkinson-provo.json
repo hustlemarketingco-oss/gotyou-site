@@ -1,0 +1,44 @@
+{
+  "slug": "wendys-wilkinson-provo",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "address": "Wilkinson Std. Ctr, Byu, 2230, 1 Campus Drive",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2485515,
+  "lng": -111.6472221,
+  "phone": "+18014221607",
+  "website": "https://locations.wendys.com/united-states/ut/provo/byu,-2230-wilkinson-std-ctr,-1-campus-drive?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x874d9154d721f7db:0x2711fec3351f47e2!8m2!3d40.2485515!4d-111.6472221!16s%2Fg%2F11hdyc684x!19sChIJ2_ch11SRTYcR4kcfNcP-ESc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ2_ch11SRTYcR4kcfNcP-ESc",
+  "googleRating": 3.3,
+  "googleReviewCount": 34,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlM03xBa1bcOwTTbgY5I2HgMdyjDYDaOzifIxdgUEUO9-FXD6bqHoXBgxm4dfyIHuotEoOYe_zGBu4YePKtavAubBIvSGTtUDrMRRoq5p5uy4vUq4uyadivCRB6Uq6Kjc5S7cH1jqsbTcSt=w1200-h800-k-no",
+  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "7:15 AM - 9:30 PM",
+    "tue": "7:15 AM - 9:30 PM",
+    "wed": "7:15 AM - 9:30 PM",
+    "thu": "7:15 AM - 9:30 PM",
+    "fri": "7:15 AM - 9:30 PM",
+    "sat": "10:00 AM - 7:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

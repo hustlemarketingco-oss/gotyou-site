@@ -1,0 +1,45 @@
+{
+  "slug": "five-sushi-brothers-provo",
+  "name": "Five Sushi Brothers",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Delivery Restaurant",
+    "Restaurant"
+  ],
+  "address": "445 Freedom Blvd 200 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.239773,
+  "lng": -111.662544,
+  "phone": "+13853251321",
+  "website": "https://fivesushibrothers.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Five+Sushi+Brothers/data=!4m7!3m6!1s0x874d90abddd4cd7f:0xe840daf94d60c672!8m2!3d40.239773!4d-111.662544!16s%2Fg%2F11c4wx9rws!19sChIJf83U3auQTYcRcsZgTfnaQOg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJf83U3auQTYcRcsZgTfnaQOg",
+  "googleRating": 4.6,
+  "googleReviewCount": 2539,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_KE1MGyJgMpF3HEKgHLjpZt5E08UyO8ADEkMDBfj_X0j39b96kA0iaVsOWGjR8F9mFM5V3XqNX3vNkBxKtWnooZHbH-wCmj3KKQjea9-wp2wwBbmjecsOSEdyoI_JYy9WGYt0=w1200-h800-k-no",
+  "description": "Funky shop for sushi & inventive rolls with offbeat names, for dine-in or delivery until late.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "tue": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "wed": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "thu": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "sat": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

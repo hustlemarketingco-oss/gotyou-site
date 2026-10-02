@@ -1,0 +1,44 @@
+{
+  "slug": "dennys-restaurant-provo",
+  "name": "Denny's Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Diner"
+  ],
+  "address": "1680 Freedom Blvd 200 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.256686699999996,
+  "lng": -111.66148849999999,
+  "phone": "+18013758362",
+  "website": "https://locations.dennys.com/UT/PROVO/247482?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/Denny%27s+Restaurant/data=!4m7!3m6!1s0x874da6a05021db97:0x91f755330d287e7c!8m2!3d40.2566867!4d-111.6614885!16s%2Fg%2F1tfkwstf!19sChIJl9shUKCmTYcRfH4oDTNV95E?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJl9shUKCmTYcRfH4oDTNV95E",
+  "googleRating": 4.5,
+  "googleReviewCount": 5260,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkSEjuhHJMkmzC7uTM_I-HH-vpRIopgQplXF1dw-C9uJHkXQjgdCa4ci2r3kfM_fiLAdCTFrSVk-ArFKiE25oPSKxzzM0S00JDDc0jeBNBDDMLtoG5Y8uryF-B2lyOOfhvHlWcGq4K2GiQ=w1200-h800-k-no",
+  "description": "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

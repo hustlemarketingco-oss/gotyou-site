@@ -1,0 +1,40 @@
+{
+  "slug": "the-corndog-company-provo",
+  "name": "The Corndog Company",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1200 Towne Centre Blvd Unit 2068",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2176779,
+  "lng": -111.66325599999999,
+  "phone": "+18015056595",
+  "website": "http://www.thecorndogco.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Corndog+Company/data=!4m7!3m6!1s0x874d97b2f615a9dd:0xe396c5307ddb6c01!8m2!3d40.2176779!4d-111.663256!16s%2Fg%2F11v9y47xzp!19sChIJ3akV9rKXTYcRAWzbfTDFluM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ3akV9rKXTYcRAWzbfTDFluM",
+  "googleRating": 4.9,
+  "googleReviewCount": 382,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSIkMJqc-6AezR4NiPkjvj53MyIhnDAHic5twAar8GePmrHpQfJSdMULJWS_yFHPBmPaf2rwCmq_VQ92CDX_1hWaQmTxC3QKGczXiVJZZO6sRyhUuSJvR2pZuhIL3wLQxSCSK3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

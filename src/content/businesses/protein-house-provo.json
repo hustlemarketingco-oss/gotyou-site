@@ -1,0 +1,44 @@
+{
+  "slug": "protein-house-provo",
+  "name": "Protein House",
+  "category": "Bars & Pubs",
+  "googleCategory": "Espresso bar",
+  "secondaryCategories": [
+    "Juice shop",
+    "Restaurant",
+    "Vegetarian cafe and deli"
+  ],
+  "address": "1364 N Freedom Blvd Apt 1364",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.252447599999996,
+  "lng": -111.6616092,
+  "website": "https://hausbrock.com/menu",
+  "googleMapsUrl": "https://www.google.com/maps/place/Protein+House/data=!4m7!3m6!1s0x874d914c032eef31:0xfbeaf0c83c0adf13!8m2!3d40.2524476!4d-111.6616092!16s%2Fg%2F11w48d19yq!19sChIJMe8uA0yRTYcRE98KPMjw6vs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJMe8uA0yRTYcRE98KPMjw6vs",
+  "googleRating": 4.2,
+  "googleReviewCount": 83,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlqS_LhSiuqcZ5g4tDA8V5jd-hZwfBO-GPvlBjx5NMhoWJQTgqcgl1vxC2sputXJ1nCtHTl7BHAm5ezwy7wpFL39qdk8wsfkUpmR00sGwEFKPdfcg0VCT5nKe9QglGGzGEXNgz6IBHCy_ig=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "3:30 PM - 9:00 PM",
+    "tue": "5:00 PM - 9:00 PM",
+    "wed": "3:30 PM - 9:00 PM",
+    "thu": "5:00 PM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

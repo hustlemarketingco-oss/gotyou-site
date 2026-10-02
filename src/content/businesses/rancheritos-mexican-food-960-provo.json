@@ -1,0 +1,44 @@
+{
+  "slug": "rancheritos-mexican-food-960-provo",
+  "name": "Rancherito's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "960 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2211024,
+  "lng": -111.65935239999999,
+  "phone": "+18016910786",
+  "website": "https://rancheritosmexicanfood.com/locations/provo-east-bay/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rancherito%27s+Mexican+Food/data=!4m7!3m6!1s0x874d975c0994e95b:0xf73de41a634dbfa!8m2!3d40.2211024!4d-111.6593524!16s%2Fg%2F11gfnc6vhw!19sChIJW-mUCVyXTYcR-ts0pkHecw8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJW-mUCVyXTYcR-ts0pkHecw8",
+  "googleRating": 3.7,
+  "googleReviewCount": 1001,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQuxmjNhixVp5sujTJajgrWdppvgfKcvtJ-6Ifcl65Pe2xhK7hkC0zU4Vd0szPcKP_B5A-VnMpo81SESUTh_gD4iVeJGgU8hdHLi9wx4PoTf1rtoNhjC5DFHvMUV48PlfllL-t=w1200-h800-k-no",
+  "description": "Basic fast-food option for Mexican favorites in a casual setting or drive-thru around the clock.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "boba-bee-provo",
+  "name": "Boba Bee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "180 N University Ave #120",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.235997999999995,
+  "lng": -111.658412,
+  "phone": "+18016510508",
+  "website": "https://www.bobabeehive.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boba+Bee/data=!4m7!3m6!1s0x874d91cff8cef709:0x63afc6c89abf525a!8m2!3d40.235998!4d-111.658412!16s%2Fg%2F11q26g1fyd!19sChIJCffO-M-RTYcRWlK_msjGr2M?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJCffO-M-RTYcRWlK_msjGr2M",
+  "googleRating": 4.4,
+  "googleReviewCount": 354,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmE8I6b2IBzABQeL5JI0rAx9A2SbabRID4O4P41eCAlUkaskfE-AmupK6f7deyrSDQibYqZfZ-mZo8lcaNRlVDfJCTSDV9EfYFfQAim-XfHF6_7k9Ofmr2Q3uQyI6IlMJQySzOgGLhqssA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

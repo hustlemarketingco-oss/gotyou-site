@@ -1,0 +1,42 @@
+{
+  "slug": "ednas-market-grille-provo",
+  "name": "Edna's Market & Grille - Provo",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "New American restaurant"
+  ],
+  "address": "250 W Center St #100",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2341517,
+  "lng": -111.6631317,
+  "phone": "+18018523232",
+  "website": "https://ednasgrill.com/provo?utm_source=google",
+  "googleMapsUrl": "https://www.google.com/maps/place/Edna%27s+Market+%26+Grille+-+Provo/data=!4m7!3m6!1s0x874d97e92e86832d:0x9ebfddd560ddc74a!8m2!3d40.2341517!4d-111.6631317!16s%2Fg%2F11wph5ykgh!19sChIJLYOGLumXTYcRSsfdYNXdv54?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJLYOGLumXTYcRSsfdYNXdv54",
+  "googleRating": 4.6,
+  "googleReviewCount": 175,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjlNVUzNgKCHFJRI2Md_4B1OVGZh0gZya8VM1Jju2K6jzKClkvUI-Rq43AM_f_G4NSb7ITPWnKguQ3bqpfkz1v-442vDCXjUICozW5O7ZoGLLBT-oJP87liYOMX3kqnwWV1m-W5Ys0kZJO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:15 PM",
+    "tue": "11:00 AM - 8:15 PM",
+    "wed": "11:00 AM - 8:15 PM",
+    "thu": "11:00 AM - 8:15 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

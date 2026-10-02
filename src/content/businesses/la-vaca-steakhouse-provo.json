@@ -1,0 +1,46 @@
+{
+  "slug": "la-vaca-steakhouse-provo",
+  "name": "La Vaca SteakHouse",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Argentinian restaurant",
+    "Dessert restaurant",
+    "Italian restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "1145 N 500 W Ste A2",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2500753,
+  "lng": -111.6679726,
+  "phone": "+18016071173",
+  "website": "https://www.lavacautah.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Vaca+SteakHouse/data=!4m7!3m6!1s0x874d9b1d10ad8b7b:0x8a8604dea4b3d89d!8m2!3d40.2500753!4d-111.6679726!16s%2Fg%2F11x7q7wf0m!19sChIJe4utEB2bTYcRndizpN4Ehoo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJe4utEB2bTYcRndizpN4Ehoo",
+  "googleRating": 4.9,
+  "googleReviewCount": 448,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleI31e5DNeMrg13z7O3OjQUmtr_l03FCD0EAV3wRCCw8hRxVbmJqvSaXbnYIcmrJU3fP7pTfxI3f8GWEIWY86G31n6U2W8RtsagwhsidSgGAkjem7A2BufwdUbFaXnIoR39UDIKFujMMyE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "4:00 PM - 9:30 PM",
+    "tue": "4:00 PM - 9:30 PM",
+    "wed": "4:00 PM - 9:30 PM",
+    "thu": "4:00 PM - 9:30 PM",
+    "fri": "4:00 PM - 9:30 PM",
+    "sat": "4:00 PM - 9:30 PM",
+    "sun": "3:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

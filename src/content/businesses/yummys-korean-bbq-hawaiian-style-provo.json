@@ -1,0 +1,45 @@
+{
+  "slug": "yummys-korean-bbq-hawaiian-style-provo",
+  "name": "Yummy's Korean BBQ | Hawaiian Style",
+  "category": "Asian & Pacific",
+  "googleCategory": "Korean restaurant",
+  "secondaryCategories": [
+    "Hawaiian restaurant",
+    "Korean barbecue restaurant",
+    "Restaurant"
+  ],
+  "address": "198 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234012799999995,
+  "lng": -111.6620555,
+  "phone": "+18017696614",
+  "website": "https://yummysprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yummy%27s+Korean+BBQ+%7C+Hawaiian+Style/data=!4m7!3m6!1s0x874d976adf0e4b69:0x7ffc14de633466e8!8m2!3d40.2340128!4d-111.6620555!16s%2Fg%2F11y3t4d4n1!19sChIJaUsO32qXTYcR6GY0Y94U_H8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJaUsO32qXTYcR6GY0Y94U_H8",
+  "googleRating": 4.8,
+  "googleReviewCount": 490,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUXZJ8n7NCjj2jOnTOABvRuK_1QQ7_7pHNmIABlRj7nEk2qn-ieG2Kkr911mFXmKnShen5wmQAsLDP_m1mB36gUShicT1kejW2B4rtf1L3V_wWUcWkUdKtvl6eY_H5euIO-5D5NQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "tue": "5:00 PM - 8:00 PM",
+    "wed": "11:30 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "thu": "11:30 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

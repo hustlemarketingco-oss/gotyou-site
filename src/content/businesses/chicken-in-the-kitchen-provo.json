@@ -1,0 +1,44 @@
+{
+  "slug": "chicken-in-the-kitchen-provo",
+  "name": "Chicken in the Kitchen",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Chicken wings restaurant",
+    "Korean restaurant"
+  ],
+  "address": "1700 N State St #23",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2559958,
+  "lng": -111.6703069,
+  "phone": "+18013750818",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chicken+in+the+Kitchen/data=!4m7!3m6!1s0x874d9b6814f3a299:0x7902dbfe2ad31e8e!8m2!3d40.2559958!4d-111.6703069!16s%2Fg%2F11t3fd1d1x!19sChIJmaLzFGibTYcRjh7TKv7bAnk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJmaLzFGibTYcRjh7TKv7bAnk",
+  "googleRating": 4.8,
+  "googleReviewCount": 484,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpdmpI7O5lTrGjVZsBWrRwza4WCEjag_-E3TGVQ8fqNYIDUMvB3x-PGV7_B6KIIPbDhrCW2mNAETHVpBjv_xKvYDZ3K0FQGaZnh-5A4mPvR4g6rIZniCNZt_ZgyXDI8AYuo5aS9g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

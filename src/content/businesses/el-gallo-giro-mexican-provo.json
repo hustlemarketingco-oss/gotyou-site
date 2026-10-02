@@ -1,0 +1,50 @@
+{
+  "slug": "el-gallo-giro-mexican-provo",
+  "name": "El Gallo Giro | Mexican",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Grill",
+    "Beer hall",
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Chicken restaurant",
+    "Family restaurant",
+    "Taco restaurant"
+  ],
+  "address": "346n N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2383756,
+  "lng": -111.65838869999999,
+  "phone": "+18013772571",
+  "website": "https://elgallogiro.shop/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Gallo+Giro+%7C+Mexican/data=!4m7!3m6!1s0x874d90ac608143fd:0x41ae5c24022445b9!8m2!3d40.2383756!4d-111.6583887!16s%2Fg%2F1tm8fgbz!19sChIJ_UOBYKyQTYcRuUUkAiRcrkE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ_UOBYKyQTYcRuUUkAiRcrkE",
+  "googleRating": 4.2,
+  "googleReviewCount": 1782,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhmZU_TnOgcvhvMde5eyjojmo36JT71BArvNlIkqIpaWAVsVOA2KO9jkS_xQILw_WiSOH4ivxTd5_HRmIhc_HPyRoF6D6DmopGxOsQVtY0to2cLKZgUxGHhqbA2wTGvSGVvOj3Og=w1200-h800-k-no",
+  "description": "Quaint Mexican grill with patio seating preparing tortas, street tacos & classic entrees.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:30 PM",
+    "sat": "9:00 AM - 9:30 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

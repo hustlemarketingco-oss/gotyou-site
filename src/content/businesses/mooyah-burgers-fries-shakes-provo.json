@@ -1,0 +1,47 @@
+{
+  "slug": "mooyah-burgers-fries-shakes-provo",
+  "name": "MOOYAH Burgers, Fries & Shakes",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "2319 N 400 W",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2644899,
+  "lng": -111.6667251,
+  "phone": "+13852258760",
+  "website": "https://www.mooyah.com/locations/provo-ut-285/",
+  "googleMapsUrl": "https://www.google.com/maps/place/MOOYAH+Burgers,+Fries+%26+Shakes/data=!4m7!3m6!1s0x874d9be53ddb9387:0xf053c993822452f8!8m2!3d40.2644899!4d-111.6667251!16s%2Fg%2F11zcy9_yfj!19sChIJh5PbPeWbTYcR-FIkgpPJU_A?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJh5PbPeWbTYcR-FIkgpPJU_A",
+  "googleRating": 3.5,
+  "googleReviewCount": 39,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPP9zn0XlwGMTdmPW66T8R3Gh8oOAK_5Obm1xI_pBnuAw21IceMwD-S-Ccl-wvGK3qtNy51TXMb6fGp5XnqVlpRWEBJpI9MCopTi918W1S5cGFuOtSmuYos6qEeKS7Uruhsq9LV-orIvMu=w1200-h800-k-no",
+  "description": "Counter-serve chain for custom burgers, including poultry & veggie versions, plus fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

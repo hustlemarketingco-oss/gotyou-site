@@ -1,0 +1,43 @@
+{
+  "slug": "buffalo-wild-wings-go-lindon",
+  "name": "Buffalo Wild Wings GO",
+  "category": "Fast Food",
+  "googleCategory": "Chicken wings restaurant",
+  "secondaryCategories": [
+    "Takeout Restaurant"
+  ],
+  "address": "677 N State St Suite B",
+  "city": "Lindon",
+  "state": "UT",
+  "zip": "84042",
+  "lat": 40.351184599999996,
+  "lng": -111.731557,
+  "phone": "+18019785333",
+  "website": "http://www.buffalowildwings.com/locations/us/ut/lindon/677-n--state-street/sports-bar-1979?utm_source=google-my-business&utm_medium=organic&utm_campaign=website-link&y_source=1_MjA0MTA5OTY2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buffalo+Wild+Wings+GO/data=!4m7!3m6!1s0x874d85468d1e4d9f:0xb44aee5a33c7b681!8m2!3d40.3511846!4d-111.731557!16s%2Fg%2F11mzmz4p8j!19sChIJn00ejUaFTYcRgbbHM1ruSrQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJn00ejUaFTYcRgbbHM1ruSrQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 95,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLxxmxcu7_EszQ_Aygq0s4pCangtUhpFVfzN3Xyfe8PR3rorz0d9MKY6zK3NTiIsUqvoW9Y-HxaZ7sMVxcKZiCqUhubXMtYisX-ny7XsdmrIq_RgiAMm2rrW-GqrUmBuwWdc9G-PpkAwIh=w1200-h800-k-no",
+  "description": "Chain dishing up wings, tenders & burgers, plus sauces ranging from sweet to very spicy.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 2:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

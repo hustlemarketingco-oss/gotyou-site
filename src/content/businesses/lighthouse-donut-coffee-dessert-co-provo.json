@@ -1,0 +1,47 @@
+{
+  "slug": "lighthouse-donut-coffee-dessert-co-provo",
+  "name": "Lighthouse Donut, Coffee, & Dessert Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Dessert shop",
+    "Donut shop",
+    "Sandwich shop"
+  ],
+  "address": "1528 N Freedom Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.254231499999996,
+  "lng": -111.6613027,
+  "phone": "+18019609604",
+  "website": "http://lighthousedonuts.net/?utm_source=gmb&utm_medium=referral",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lighthouse+Donut,+Coffee,+%26+Dessert+Co./data=!4m7!3m6!1s0x874d913d51020005:0x292b19a3ae1ffbf8!8m2!3d40.2542315!4d-111.6613027!16s%2Fg%2F11s30jyxhj!19sChIJBQACUT2RTYcR-PsfrqMZKyk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJBQACUT2RTYcR-PsfrqMZKyk",
+  "googleRating": 4.9,
+  "googleReviewCount": 415,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloT_4t8rfolPEQ8RB61--Jz5BjB1CCIhq3RU93rvyAeTRGtZSYcoq4aCO2Br2JuzIHeL52Zt8Yk2aelQzpx1JqYtfV6Is1-Jli81cNrWp_aq8VfxEKgIXm6nEmKPSDqK0gLFAs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 AM - 3:30 PM",
+    "wed": "7:00 AM - 3:30 PM",
+    "thu": "7:00 AM - 3:30 PM",
+    "fri": "7:00 AM - 3:30 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

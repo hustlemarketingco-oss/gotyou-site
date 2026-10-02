@@ -1,0 +1,43 @@
+{
+  "slug": "bowls-superfoods-provo",
+  "name": "Bowls Superfoods",
+  "category": "Restaurant",
+  "googleCategory": "Health food restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant"
+  ],
+  "address": "1161 N Canyon Rd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.249735,
+  "lng": -111.65754849999999,
+  "phone": "+18016156138",
+  "website": "http://bowlssuperfoods.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bowls+Superfoods/data=!4m7!3m6!1s0x874d9102d6ad6aef:0xc50e74d9b604b77!8m2!3d40.249735!4d-111.6575485!16s%2Fg%2F11j8wbfl7s!19sChIJ72qt1gKRTYcRd0tgm03nUAw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ72qt1gKRTYcRd0tgm03nUAw",
+  "googleRating": 4.8,
+  "googleReviewCount": 902,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUUW1eEwmm3XxVfU5fA2pwqEUwYLlC2Tm6XfPzDVOexy4-1M7heMBiy1o3WIXWZnUD8z3JHjsvU_U4-IzYfRAAAjmFc_gMQotyu2Yy9B5jrXodg_uB3JJM9XqLRS1NnuibuEmaHw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "la-dolce-vita-ristorante-italiano-provo",
+  "name": "La Dolce Vita Ristorante Italiano",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Fine dining restaurant",
+    "Pasta shop",
+    "Pizza restaurant",
+    "Restaurant",
+    "Wine bar"
+  ],
+  "address": "61 N 100 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2345067,
+  "lng": -111.65703169999999,
+  "phone": "+18013182891",
+  "website": "https://ladolcevitaprovo.com/?utm_source=google",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Dolce+Vita+Ristorante+Italiano/data=!4m7!3m6!1s0x874d9752e248ef67:0xb0e9bf7a6f937b53!8m2!3d40.2345067!4d-111.6570317!16s%2Fg%2F1tqtybzd!19sChIJZ-9I4lKXTYcRU3uTb3q_6bA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJZ-9I4lKXTYcRU3uTb3q_6bA",
+  "googleRating": 4.2,
+  "googleReviewCount": 1255,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEX6ocSZ0vQDrCcqO2GeDT2nJi3xWlVV1qlrJOzvENmjckElqVVp6rYrxiD_FZCkKAVtOm4i8RbdF9X-YAeqPq8EMQp7ufVjoRmANscj2BrzAAp2nAmUubKM-5WfGgviPcSJk=w1200-h800-k-no",
+  "description": "Neapolitan-style eatery serving pizza, pasta & entrees in a welcoming space with old-school decor.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

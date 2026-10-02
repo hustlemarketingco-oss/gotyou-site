@@ -1,0 +1,48 @@
+{
+  "slug": "chick-fil-a-2-afto-provo",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Caterer",
+    "Chicken restaurant",
+    "Delivery service",
+    "Family restaurant"
+  ],
+  "address": "Provo",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2485515,
+  "lng": -111.6472221,
+  "phone": "+18014224134",
+  "website": "https://www.chick-fil-a.com/locations/ut/brigham-young-university?utm_source=google&utm_medium=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chick-fil-A/data=!4m7!3m6!1s0x874d90b9f1b98c35:0x3a15da6f5f493a7b!8m2!3d40.2485515!4d-111.6472221!16s%2Fg%2F11cnbzbmwc!19sChIJNYy58bmQTYcRezpJX2_aFTo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJNYy58bmQTYcRezpJX2_aFTo",
+  "googleRating": 4.1,
+  "googleReviewCount": 247,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk2H-3QEQQRIQleDnAbUA6615OjtAPg3nKrFFjF7m_EJ2z-EiMQB7t6MfrERLx543EXWU0E8T_VTQUKaTghjrYfLSCY4-Ub6eSKTPqHQBhwrCkp-lIs5aiyf51BBOez_toZX3RW=w1200-h800-k-no",
+  "description": "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "10:30 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "el-salvador-restaurant-provo",
+  "name": "El Salvador Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Salvadoran restaurant",
+  "address": "332 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234022499999995,
+  "lng": -111.66455409999999,
+  "phone": "+18013735377",
+  "website": "https://elsalvadorut.top/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Salvador+Restaurant/data=!4m7!3m6!1s0x874d975538efc8e9:0xcc41e56b466fd64e!8m2!3d40.2340225!4d-111.6645541!16s%2Fg%2F1tgxv0cl!19sChIJ6cjvOFWXTYcRTtZvRmvlQcw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ6cjvOFWXTYcRTtZvRmvlQcw",
+  "googleRating": 4.4,
+  "googleReviewCount": 1033,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmT9yoMeZg3haAEtJISwEZ97abAme5GF5wfAuV7vCvhf56dMbSJ-VAYyFedyxvgOkwXc3xaDr6pu8rcim3QJiZx-Y8PWhmX8iMHT0Z1aWicA8I5gKQ-3tAyzl4LnQD7oeYQx16FrtHzk1ii=w1200-h800-k-no",
+  "description": "Generous plates of Salvadoran comfort fare draws crowds to this pint-sized, family-owned restaurant.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "Closed",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

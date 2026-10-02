@@ -1,0 +1,46 @@
+{
+  "slug": "mcdonalds-pleasant-grove",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "312 State St",
+  "city": "Pleasant Grove",
+  "state": "UT",
+  "zip": "84062",
+  "lat": 40.3548908,
+  "lng": -111.73617619999999,
+  "phone": "+18014417564",
+  "website": "https://www.mcdonalds.com/us/en-us/location/UT/PLEASANT-GROVE/312-E-STATE-ST/20695.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x874d844045fcddeb:0xeabe9a580ec35e09!8m2!3d40.3548908!4d-111.7361762!16s%2Fg%2F1tf6bj7_!19sChIJ6938RUCETYcRCV7DDliavuo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ6938RUCETYcRCV7DDliavuo",
+  "googleRating": 2.7,
+  "googleReviewCount": 1628,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldmxeK0ERa8ZFprcDrDJGrmcopdd2XmkT1wLq2oz-MIdhK9XQ-D4ko17NBg8dMYa9iXoRHqy9qJOPZcIlaGbdRUcgPtcXiracgWXM6oHHEG6tFICcxYc7fTZ_PBAz3ZpJ0UZuzHiyhJicu=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "5:00 AM - 11:00 PM",
+    "wed": "5:00 AM - 11:00 PM",
+    "thu": "5:00 AM - 11:00 PM",
+    "fri": "5:00 AM - 11:00 PM",
+    "sat": "5:00 AM - 11:00 PM",
+    "sun": "5:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "dragon-express-chinese-provo",
+  "name": "Dragon Express | Chinese",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Dumpling restaurant",
+    "Lunch restaurant",
+    "Soup restaurant"
+  ],
+  "address": "664 N Freedom Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2425986,
+  "lng": -111.661571,
+  "phone": "+18016071342",
+  "website": "https://dragonexpressut.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dragon+Express+%7C+Chinese/data=!4m7!3m6!1s0x874d910065f4601f:0xe53735957147c001!8m2!3d40.2425986!4d-111.661571!16s%2Fg%2F11mcx6nmc3!19sChIJH2D0ZQCRTYcRAcBHcZU1N-U?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJH2D0ZQCRTYcRAcBHcZU1N-U",
+  "googleRating": 4.7,
+  "googleReviewCount": 307,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9qLoo8OSHIz9p7no-SvqsvnSgCQzgxc3SVex9iRgCKt3YeRKUwVYmPM_ySgCq0StKiAVjmu_SSf2533gpLsbDjmxJo8J7Ph2Xym_MoMpbVBhfFQyWCknzysjdDtaTnckXZJNlnwstpfg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "fruiteria-provo",
+  "name": "Fruiteria",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert restaurant",
+    "Dessert shop",
+    "Snack bar"
+  ],
+  "address": "239 West Cougar Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.249912599999995,
+  "lng": -111.6631891,
+  "phone": "+13853752965",
+  "website": "https://www.myfruiteria.com/location-provo",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fruiteria/data=!4m7!3m6!1s0x874d9153f3620639:0x7b70d137a600763!8m2!3d40.2499126!4d-111.6631891!16s%2Fg%2F11txqjqkxj!19sChIJOQZi81ORTYcRYwdgehMNtwc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJOQZi81ORTYcRYwdgehMNtwc",
+  "googleRating": 4.6,
+  "googleReviewCount": 291,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncpd8W-tUMeRe_nQ8b-Reg2GR7KVsabwoLQ1CkSRKVGoB6DtI6w_krYOETRb_LoKUzD6CnIbvfjCN9hybZay5517ykRAM5wfw17LwuCchfhQ2kHzfDjrJti4fQc3BZ0kqxcekt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

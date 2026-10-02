@@ -1,0 +1,39 @@
+{
+  "slug": "byu-helaman-creamery-provo",
+  "name": "BYU Helaman Creamery",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "141 CANC Brigham Young University",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.252243799999995,
+  "lng": -111.6527314,
+  "phone": "+18014222555",
+  "website": "https://dining.byu.edu/helaman-creamery",
+  "googleMapsUrl": "https://www.google.com/maps/place/BYU+Helaman+Creamery/data=!4m7!3m6!1s0x874d915d3487c1bb:0xe29383ee7f67f58c!8m2!3d40.2522438!4d-111.6527314!16s%2Fg%2F11cn8s2g78!19sChIJu8GHNF2RTYcRjPVnf-6Dk-I?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJu8GHNF2RTYcRjPVnf-6Dk-I",
+  "googleRating": 4.6,
+  "googleReviewCount": 92,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2ZViu-R3FJ2nM-BJVlVuk--_G_VCQSw-Ypc9v9QpZSdMnz-7VgLfKM80gBZyyKyGy9GAbRZE1A6Dnnjb8rekgyc5i7WeVeJz7ViQej9SgrLmxQ_NoRSQrp-8BiCBatvPxAh0YBw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "2:00 PM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

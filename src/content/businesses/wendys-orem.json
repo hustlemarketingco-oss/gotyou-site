@@ -1,0 +1,44 @@
+{
+  "slug": "wendys-orem",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "address": "1444 S State St",
+  "city": "Orem",
+  "state": "UT",
+  "zip": "84097",
+  "lat": 40.270865,
+  "lng": -111.684017,
+  "phone": "+18012263018",
+  "website": "https://locations.wendys.com/united-states/ut/orem/1444-s-state?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x874d9a89f414653f:0x46098c7dc1d1dd62!8m2!3d40.270865!4d-111.684017!16s%2Fg%2F1tdk11hz!19sChIJP2UU9ImaTYcRYt3RwX2MCUY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJP2UU9ImaTYcRYt3RwX2MCUY",
+  "googleRating": 3.7,
+  "googleReviewCount": 1222,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkr6uPmN8xuWl7ZrcLcL7DW0j4X5IDhVKwrMd4a1p7bGDdqjBvAXw9s9fv_cw0BCDqyBynUjZxkFnwkXl1_hmnF1XVKXUyedTAMzJn2oqLZ53xKvsZ7aVZ1KpGvKgxnl8tB16ZR=w1200-h800-k-no",
+  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 1:00 AM",
+    "tue": "7:00 AM - 1:00 AM",
+    "wed": "7:00 AM - 1:00 AM",
+    "thu": "7:00 AM - 1:00 AM",
+    "fri": "7:00 AM - 2:00 AM",
+    "sat": "7:00 AM - 2:00 AM",
+    "sun": "7:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "don-chuys-taco-shop-provo",
+  "name": "Don Chuy’s Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "520 900 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2410486,
+  "lng": -111.6427994,
+  "phone": "+18013752587",
+  "website": "http://donchuys.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Don+Chuy%E2%80%99s+Taco+Shop/data=!4m7!3m6!1s0x874d90b5799ddb1b:0x42773e9ba081bd6a!8m2!3d40.2410486!4d-111.6427994!16s%2Fg%2F11fzf2pyhv!19sChIJG9udebWQTYcRar2BoJs-d0I?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJG9udebWQTYcRar2BoJs-d0I",
+  "googleRating": 4.3,
+  "googleReviewCount": 898,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlAzYTgRYbIvwFhTf-CLxiGOaX_fIiqwHKOORFggcf3bNHHc7zFhmcZOzw-Dhsyrvrngb_IuyLnIbjM25NXljUgn7KmWgNiClxWWZCqful-b5YY7B0cqUpCpTscbRmwXkESi_kZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 11:00 PM",
+    "tue": "8:00 AM - 11:00 PM",
+    "wed": "8:00 AM - 11:00 PM",
+    "thu": "8:00 AM - 11:00 PM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

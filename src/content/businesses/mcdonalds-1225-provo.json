@@ -1,0 +1,46 @@
+{
+  "slug": "mcdonalds-1225-provo",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1225 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2173166,
+  "lng": -111.65840259999999,
+  "phone": "+18013730370",
+  "website": "https://www.mcdonalds.com/us/en-us/location/UT/PROVO/1225-S-UNIVERSITY-AVE/11107.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x874d975d944d1417:0x3d6ac93438bd71b9!8m2!3d40.2173166!4d-111.6584026!16s%2Fg%2F1tqg0tn2!19sChIJFxRNlF2XTYcRuXG9ODTJaj0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJFxRNlF2XTYcRuXG9ODTJaj0",
+  "googleRating": 3.3,
+  "googleReviewCount": 2761,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvSs9O2oZldDGqXmoFPYRxMtRY3PEdyZiuEuY880eiPfsSvqTmzFS0beq4McDpfzt3A3upwSN2Q7IVxkuCy-M06NXjjvSK7_loRmJ3evabzLRIaXyrkPNtlWc0fQ9CAqyX9xB1Eg=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

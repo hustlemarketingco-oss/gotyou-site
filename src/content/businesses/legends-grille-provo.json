@@ -1,0 +1,40 @@
+{
+  "slug": "legends-grille-provo",
+  "name": "Legends Grille",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "SAB, 106",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2480999,
+  "lng": -111.6547607,
+  "phone": "+18014223757",
+  "website": "https://dining.byu.edu/legends-grille",
+  "googleMapsUrl": "https://www.google.com/maps/place/Legends+Grille/data=!4m7!3m6!1s0x874d90bc70e6f7af:0xb1c31036dc443e44!8m2!3d40.2480999!4d-111.6547607!16s%2Fg%2F1tf7y5wc!19sChIJr_fmcLyQTYcRRD5E3DYQw7E?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJr_fmcLyQTYcRRD5E3DYQw7E",
+  "googleRating": 4.1,
+  "googleReviewCount": 92,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlB7yb3mqkLYZ02Rhw-gpQ7Lph4g2B1Diq44ExKNHIRaIFpv_eWI9I165LCL_7iQnM2tsK3KF56O4QWFmPkfDwX0WSc7XtAhYyTQRwetJur7xREJX5b_W2ppUudfOuUOxFIqEKKPA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 2:00 PM",
+    "tue": "11:00 AM - 2:00 PM",
+    "wed": "11:00 AM - 2:00 PM",
+    "thu": "11:00 AM - 2:00 PM",
+    "fri": "11:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

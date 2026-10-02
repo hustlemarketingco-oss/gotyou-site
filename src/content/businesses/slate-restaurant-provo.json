@@ -1,0 +1,44 @@
+{
+  "slug": "slate-restaurant-provo",
+  "name": "Slate Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "101 W 100 N",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234867799999996,
+  "lng": -111.66145759999999,
+  "phone": "+18013774700",
+  "website": "http://slateprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Slate+Restaurant/data=!4m7!3m6!1s0x874d9754b3c5f04d:0x904a6611778c5e4d!8m2!3d40.2348678!4d-111.6614576!16s%2Fg%2F1pp2wxtvy!19sChIJTfDFs1SXTYcRTV6MdxFmSpA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJTfDFs1SXTYcRTV6MdxFmSpA",
+  "googleRating": 4.2,
+  "googleReviewCount": 94,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1wpC7uytjzvUJr2PX6WXq5fpPt6lCeCtS9TweErbT8wzWyGpGrZPQzRR2TYgUwzxSYUA5sx52szKZahGLImOQ1NyAnzkbcel354mwSAM6b2XdYVenhEcsFUUZ91YK8HAf2-Urtw9sSWlT=w1200-h800-k-no",
+  "description": "Hotel restaurant serving steaks, seafood & other traditional American meals in a contemporary space.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "6:30 AM - 11:00 AM, 5:00 PM - 11:00 PM",
+    "tue": "6:30 AM - 11:00 AM, 5:00 PM - 11:00 PM",
+    "wed": "6:30 AM - 11:00 AM, 5:00 PM - 11:00 PM",
+    "thu": "6:30 AM - 2:00 PM, 5:00 PM - 11:00 PM",
+    "fri": "6:30 AM - 2:00 PM, 5:00 PM - 11:00 PM",
+    "sat": "6:30 AM - 2:00 PM, 5:00 PM - 11:00 PM",
+    "sun": "6:30 AM - 2:00 PM, 5:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

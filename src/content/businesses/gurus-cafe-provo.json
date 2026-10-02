@@ -1,0 +1,48 @@
+{
+  "slug": "gurus-cafe-provo",
+  "name": "Guru's Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Fusion restaurant",
+    "Health food restaurant",
+    "Restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "45 E Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.2340419,
+  "lng": -111.657845,
+  "phone": "+18013754878",
+  "website": "https://guruscafe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Guru%27s+Cafe/data=!4m7!3m6!1s0x874d975305f9b47f:0x2539fa88353dfb23!8m2!3d40.2340419!4d-111.657845!16s%2Fg%2F1wh4gb56!19sChIJf7T5BVOXTYcRI_s9NYj6OSU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJf7T5BVOXTYcRI_s9NYj6OSU",
+  "googleRating": 4.3,
+  "googleReviewCount": 2701,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnuW7jCyriB7jqW6fXkXQclcaUtIsutDZ6DL9Kwben2a0EkgHsltTInATpoSEE--L_VatyDGVZ_43i_Ge7GQcMmQmGja5_Ao0yqeBQpL5Gl4N9_Z7aw751OaKAx1rk5n6T5Zwn7qA4VL5Dj=w1200-h800-k-no",
+  "description": "Eclectic cafe offering breakfast, burritos & veggie dishes in casual digs with live music & karaoke.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

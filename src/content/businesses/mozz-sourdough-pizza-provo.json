@@ -1,0 +1,39 @@
+{
+  "slug": "mozz-sourdough-pizza-provo",
+  "name": "MOZZ Sourdough Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "address": "145 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.235675799999996,
+  "lng": -111.6589317,
+  "phone": "+18018520069",
+  "website": "https://www.mozzartisanpizza.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/MOZZ+Sourdough+Pizza/data=!4m7!3m6!1s0x874d91122e4d1beb:0xddf7eed3ece24798!8m2!3d40.2356758!4d-111.6589317!16s%2Fg%2F11h5xfq5hg!19sChIJ6xtNLhKRTYcRmEfi7NPu990?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ6xtNLhKRTYcRmEfi7NPu990",
+  "googleRating": 4.7,
+  "googleReviewCount": 1237,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmarfSDhe5DGve4wxJHI5Q5GlgvHNrzkPQocj6LxLkyaJejIg0pk9pbl_5IJwChmbDFnfzsdav9RYW-yVTde4kmLYshP90-ieCg5VhQIGL3waZlFYIKEFl93FEGyaENy3z-wYTR=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 8:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

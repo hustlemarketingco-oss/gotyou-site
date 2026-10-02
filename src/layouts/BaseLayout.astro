@@ -42,6 +42,7 @@ const fullTitle = title === 'GOTYOU' ? title : `${title} | GOTYOU`;
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
 
     <link rel="canonical" href={Astro.url.href} />
+    <slot name="head" />
   </head>
   <body>
     <Nav />
@@ -49,5 +50,18 @@ const fullTitle = title === 'GOTYOU' ? title : `${title} | GOTYOU`;
       <slot />
     </main>
     <Footer />
+    <script>
+      // Fade-up for .reveal elements as they scroll into view.
+      if ('IntersectionObserver' in window) {
+        document.documentElement.classList.add('js-reveal');
+        const io = new IntersectionObserver(
+          (entries) => entries.forEach((e) => e.isIntersecting && (e.target.classList.add('is-in'), io.unobserve(e.target))),
+          { rootMargin: '0px 0px -8% 0px' },
+        );
+        const watch = () => document.querySelectorAll('.reveal:not(.is-in)').forEach((el) => io.observe(el));
+        watch();
+        document.addEventListener('reveal:refresh', watch);
+      }
+    </script>
   </body>
 </html>

@@ -1,0 +1,44 @@
+{
+  "slug": "dutch-bros-coffee-provo",
+  "name": "Dutch Bros Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Juice shop",
+    "Tea house"
+  ],
+  "address": "1310 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.251664,
+  "lng": -111.65810499999999,
+  "phone": "+18778992767",
+  "website": "https://www.dutchbros.com/locations/ut/provo/1310-n-university-avenue?y_source=1_MTg4MDc1MTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x874d918d6c8d713f:0x2b068fd125724a3e!8m2!3d40.251664!4d-111.658105!16s%2Fg%2F11qnfvfwpl!19sChIJP3GNbI2RTYcRPkpyJdGPBis?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJP3GNbI2RTYcRPkpyJdGPBis",
+  "googleRating": 4.4,
+  "googleReviewCount": 833,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlr7CcuHvg8_iJO8MNEqIHPKCfpj8L78nlDiqSmJKao3nPnU3cs3tatX7qevrbEtkLtRg6gpJfWOXMABdFlr7Una-BcAh5uNagCkwt3491WAiBQ47nwrZQqCA77erwuC-u8Z-njybUAM-cO=w1200-h800-k-no",
+  "description": "Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "5:00 AM - 11:00 PM",
+    "wed": "5:00 AM - 11:00 PM",
+    "thu": "5:00 AM - 11:00 PM",
+    "fri": "5:00 AM - 12:00 AM",
+    "sat": "5:00 AM - 12:00 AM",
+    "sun": "5:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

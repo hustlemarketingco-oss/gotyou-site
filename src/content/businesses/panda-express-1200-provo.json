@@ -1,0 +1,51 @@
+{
+  "slug": "panda-express-1200-provo",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Caterer",
+    "Chinese noodle restaurant",
+    "Chinese takeaway",
+    "Delivery Chinese restaurant",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "1200 Towne Centre Blvd #2072",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2178982,
+  "lng": -111.6631613,
+  "phone": "+18018523400",
+  "website": "https://www.pandaexpress.com/locations/ut/provo/455?utm_source=google_gbp&utm_medium=organic&utm_campaign=websitelink",
+  "googleMapsUrl": "https://www.google.com/maps/place/Panda+Express/data=!4m7!3m6!1s0x874d975e701173db:0x95514a4b9d2d969e!8m2!3d40.2178982!4d-111.6631613!16s%2Fg%2F1tn0687x!19sChIJ23MRcF6XTYcRnpYtnUtKUZU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ23MRcF6XTYcRnpYtnUtKUZU",
+  "googleRating": 3.7,
+  "googleReviewCount": 288,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpZ6QtCpbaG5n90bOLnEQa_W_h3CqfNeP671mfLXrbp2fAMKqUyGsTtzT-HlApvrBX86MPFCjb1qAyFezYXrZOG_0DICpbyF_aIisZVNCSxV0UxEvh7KiESP8m0KTfX0AKWjZ6=w1200-h800-k-no",
+  "description": "Fast-food chain for Chinese standards, including some health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "wendys-lindon",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "address": "795 N State St",
+  "city": "Lindon",
+  "state": "UT",
+  "zip": "84042",
+  "lat": 40.351900799999996,
+  "lng": -111.7330733,
+  "phone": "+18017858300",
+  "website": "https://locations.wendys.com/united-states/ut/lindon/795-n-state-road?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x874d84447517cb63:0x28ef375415737800!8m2!3d40.3519008!4d-111.7330733!16s%2Fg%2F1pp2vmxs5!19sChIJY8sXdUSETYcRAHhzFVQ37yg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJY8sXdUSETYcRAHhzFVQ37yg",
+  "googleRating": 3.6,
+  "googleReviewCount": 921,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMK5-AXe8iCSyQJ-_CVRIntuHZWhpN8x94wLCS_mqR5bT7L3j1cTnpZ9jBSoYTPHqaN0_XX_YOxm8eq8_duKBfEB5VWsUWgncmkUSUfaftLSqr6Fzo6IBFyHQOK09c42S-5_8a=w1200-h800-k-no",
+  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "6:30 AM - 12:00 AM",
+    "tue": "6:30 AM - 12:00 AM",
+    "wed": "6:30 AM - 12:00 AM",
+    "thu": "6:30 AM - 12:00 AM",
+    "fri": "6:30 AM - 12:00 AM",
+    "sat": "6:30 AM - 12:00 AM",
+    "sun": "6:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

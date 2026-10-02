@@ -1,0 +1,45 @@
+{
+  "slug": "bombay-house-provo",
+  "name": "Bombay House",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "463 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2399194,
+  "lng": -111.65892219999999,
+  "phone": "+18013736677",
+  "website": "https://bombayhouse.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bombay+House/data=!4m7!3m6!1s0x874d90ac17f1d32f:0xb08445ca19a572c9!8m2!3d40.2399194!4d-111.6589222!16s%2Fg%2F1vr3dn45!19sChIJL9PxF6yQTYcRyXKlGcpFhLA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJL9PxF6yQTYcRyXKlGcpFhLA",
+  "googleRating": 4.9,
+  "googleReviewCount": 17372,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYTWyQ4DhSrxGqXF8sKS8H1_kNjM7xAdGzN725MUTnj1a2RzdglZW73yXzCgBFjKT8bKKexXjuQljposrKioqzR_Plx3FZYKJvoB-Hs4JifTbKqiynMRIulOQ870XQmtRXYc2Hjw=w1200-h800-k-no",
+  "description": "Acclaimed local chain serving traditional Indian fare, beer & wine in a buzzy atmosphere.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 9:00 PM",
+    "sat": "4:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "aji-peru-provo",
+  "name": "AJI PERU PROVO",
+  "category": "Mexican & Latin",
+  "googleCategory": "Peruvian restaurant",
+  "address": "610 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234051199999996,
+  "lng": -111.66962459999999,
+  "phone": "+13852078456",
+  "website": "http://www.ajiperuprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AJI+PERU+PROVO/data=!4m7!3m6!1s0x874d9b3e59b14ffb:0xfa351fc823eb4577!8m2!3d40.2340512!4d-111.6696246!16s%2Fg%2F11tfnk4y9r!19sChIJ-0-xWT6bTYcRd0XrI8gfNfo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ-0-xWT6bTYcRd0XrI8gfNfo",
+  "googleRating": 4.8,
+  "googleReviewCount": 942,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlAJNW28rPnKu_D82y4xT4acQIrXIBrABMv4cJTESwqrNKYbi7YMqJVi1NUfHWnhPL7c9l6qJtHSgECNlUwPWn40UsMVpN2I-WplWOOTPgZDGYhiy3Mr6GRaA2S7kTyFgvM_o0U=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "los-hermanos-mexican-provo",
+  "name": "Los Hermanos | Mexican",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Latin American restaurant"
+  ],
+  "address": "1 E Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84606",
+  "lat": 40.234101599999995,
+  "lng": -111.6583514,
+  "phone": "+18013755732",
+  "website": "http://www.loshermanosutah.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Los+Hermanos+%7C+Mexican/data=!4m7!3m6!1s0x874d9753721a1d5f:0x974520fcc612dc69!8m2!3d40.2341016!4d-111.6583514!16s%2Fg%2F1tfk09_6!19sChIJXx0aclOXTYcRadwSxvwgRZc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJXx0aclOXTYcRadwSxvwgRZc",
+  "googleRating": 3.9,
+  "googleReviewCount": 2139,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyXAjt1cy1eOHNdoox4z3sjBwEc-1s86bbBa9l3gyuq9zXQNFXVHrfbdj2lj5aB0UiBhvTTvueVJ_eQD-6fpFhqxsdMtMPfF7tImdONyNSlntEZYhIGfAMJhv5OCBJpJaXTAX8Qg=w1200-h800-k-no",
+  "description": "Colorful, long-standing cantina serving casual Mexican favorites & nonalcoholic frozen drinks.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

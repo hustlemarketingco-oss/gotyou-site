@@ -1,0 +1,43 @@
+{
+  "slug": "library-cafe-provo",
+  "name": "Library Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Store"
+  ],
+  "address": "2060 Lee Lane",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84602",
+  "lat": 40.2486949,
+  "lng": -111.64886329999999,
+  "phone": "+18014222236",
+  "website": "https://dining.byu.edu/library-cafe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Library+Cafe/data=!4m7!3m6!1s0x874d911a38c85d13:0xdcee4557a562c7d8!8m2!3d40.2486949!4d-111.6488633!16s%2Fg%2F11w207jcg0!19sChIJE13IOBqRTYcR2MdipVdF7tw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJE13IOBqRTYcR2MdipVdF7tw",
+  "googleRating": 2.5,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltw2XJ5VPr9DgtPot9ixnwbupn4yRNuJNMDnhw6HrtB7zsj4ZcsvM2Mgb-XLR2XeeROmaOuNDaItpUr6qW2JgfZ8ZnDz3L-4ZaulJ-YZqLB_JayPsdE1M1aTF6k0fi0qVykzk0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

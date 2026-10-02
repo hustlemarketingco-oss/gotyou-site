@@ -1,0 +1,40 @@
+{
+  "slug": "crazy-ds-hot-chicken-provo",
+  "name": "Crazy D's Hot Chicken",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1283 N University Ave #102",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2517084,
+  "lng": -111.6593482,
+  "phone": "+18019950569",
+  "website": "https://www.crazydshotchicken.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Crazy+D%27s+Hot+Chicken/data=!4m7!3m6!1s0x874d91d8964315ef:0x127128f0357b14ee!8m2!3d40.2517084!4d-111.6593482!16s%2Fg%2F11mkvdznnr!19sChIJ7xVDltiRTYcR7hR7NfAocRI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ7xVDltiRTYcR7hR7NfAocRI",
+  "googleRating": 4.6,
+  "googleReviewCount": 128,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUdTFpLA6M-EIs-DJkSXKA62Kqz86cMRVgqx-cAA9SZxfiU7pWhV7slJOoLT_FX7t5U80J66EX40L7IOrL7tFrCEVyiV3me2smwGMgcUQWcZns1PDCVFsxGlSgFHmvSIYBPGjyMvYM1FHE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

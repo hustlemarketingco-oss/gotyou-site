@@ -1,0 +1,39 @@
+{
+  "slug": "wariqe-peruvian-food-provo",
+  "name": "Wariqe Peruvian Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Peruvian restaurant",
+  "address": "18 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234024,
+  "lng": -111.65840139999999,
+  "phone": "+14064023056",
+  "website": "http://orderwariqeperuvianfood.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wariqe+Peruvian+Food/data=!4m7!3m6!1s0x874d97fef8f59cdf:0x353920681ffa2c79!8m2!3d40.234024!4d-111.6584014!16s%2Fg%2F11r_w0xgjy!19sChIJ35z1-P6XTYcReSz6H2ggOTU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ35z1-P6XTYcReSz6H2ggOTU",
+  "googleRating": 4.7,
+  "googleReviewCount": 347,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBGFu6-wT9vFhKz8NGJZDSonh0KwRC22rHk_Giu2SgohnxvXHaiyhizKd0iaDEtlNNzEGE8UQ1EaBlwtCFfO3R6DcrqOG3r5YU-swmKgt1gjlv8KcA0_WcdJeDge_T1KswVON6TMPoIP4Y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

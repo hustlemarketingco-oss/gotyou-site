@@ -1,0 +1,42 @@
+{
+  "slug": "sensuous-sandwich-provo",
+  "name": "Sensuous Sandwich",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "163 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2335466,
+  "lng": -111.66159569999999,
+  "phone": "+18013779244",
+  "website": "https://sensuoussandwich.ecwid.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sensuous+Sandwich/data=!4m7!3m6!1s0x874d9754935ea6f7:0xc1e6346e076c8724!8m2!3d40.2335466!4d-111.6615957!16s%2Fg%2F11btwm8t6j!19sChIJ96Zek1SXTYcRJIdsB2405sE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ96Zek1SXTYcRJIdsB2405sE",
+  "googleRating": 4.5,
+  "googleReviewCount": 838,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlabLOxv6Q3dakN5gcSk647ATps8vLBRs7O7fxjr1pPFsZWCSKtqRFj-m-sEFILQxsFYJ0D44eKPK7HgHJfB0MjWdG42fViBuhsGTmrgLQyXCgRUlxx3h3k_UmcTlUyoy_m4MAs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

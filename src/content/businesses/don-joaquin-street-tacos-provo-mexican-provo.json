@@ -1,0 +1,48 @@
+{
+  "slug": "don-joaquin-street-tacos-provo-mexican-provo",
+  "name": "Don Joaquin Street Tacos - Provo | Mexican",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "150 W 1230 N St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2509399,
+  "lng": -111.66090559999999,
+  "phone": "+18014002894",
+  "website": "https://donjoaquinstreettacos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Don+Joaquin+Street+Tacos+-+Provo+%7C+Mexican/data=!4m7!3m6!1s0x874d9a0a77d5f11f:0x524960aec2c10b8c!8m2!3d40.2509399!4d-111.6609056!16s%2Fg%2F11ckvxr2_4!19sChIJH_HVdwqaTYcRjAvBwq5gSVI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJH_HVdwqaTYcRjAvBwq5gSVI",
+  "googleRating": 4.5,
+  "googleReviewCount": 3294,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWndTYszTd0j-8BgJVdNlw2KHryKuraaznJuGKtlBUY1Ixg2tnKtYkUO-583E0hvn_b68sY194et0zTQ-cKoEWZ0uf14nG8zsKbxlseD8xhqjP170bGJ7pg3bfVDTvOzwRYs3iD63A=w1200-h800-k-no",
+  "description": "No-frills counter-serve eatery serving Mexican fare including tacos, burritos, quesadillas & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

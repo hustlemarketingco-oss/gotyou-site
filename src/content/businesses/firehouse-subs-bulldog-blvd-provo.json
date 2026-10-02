@@ -1,0 +1,44 @@
+{
+  "slug": "firehouse-subs-bulldog-blvd-provo",
+  "name": "Firehouse Subs Bulldog Blvd.",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer"
+  ],
+  "address": "64 Bulldog Ln",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.251124999999995,
+  "lng": -111.65988,
+  "phone": "+18012245800",
+  "website": "https://www.firehousesubs.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Firehouse+Subs+Bulldog+Blvd./data=!4m7!3m6!1s0x874d90a3fbb9e08f:0xc6934cfd4cea512c!8m2!3d40.251125!4d-111.65988!16s%2Fg%2F11b5pjngt_!19sChIJj-C5-6OQTYcRLFHqTP1Mk8Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJj-C5-6OQTYcRLFHqTP1Mk8Y",
+  "googleRating": 4.1,
+  "googleReviewCount": 712,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2dBYTpLBZneyLKAOepwjvX1UVlUj1yWBFF7eTzvjaZzP21EW0YfVeoY4Q7LBmjS0znx88HPV5oyBH7fbatPRNtGPi8jwHQu00430Q6pmeu_pM-LDGW_HzPYI3_5-4Gue6JPU7=w1200-h800-k-no",
+  "description": "Counter-serve sandwich chain offering made-to-order hot & cold subs, plus a variety of hot sauces.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

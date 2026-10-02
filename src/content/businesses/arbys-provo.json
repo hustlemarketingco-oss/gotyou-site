@@ -1,0 +1,48 @@
+{
+  "slug": "arbys-provo",
+  "name": "Arby's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Deli",
+    "Grocery delivery service",
+    "Takeout Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1474 S 40 E",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2140905,
+  "lng": -111.6583131,
+  "phone": "+18013777439",
+  "website": "http://www.arbys.com/locations/us/ut/provo/1474-s-40th-e/store-5260?utm_source=google-my-business&utm_medium=organic&utm_campaign=website-link&y_source=1_MjAyMzUyMzEyMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arby%27s/data=!4m7!3m6!1s0x874d9767101192b9:0x8bdef157232e8a35!8m2!3d40.2140905!4d-111.6583131!16s%2Fg%2F1tdwfdj5!19sChIJuZIREGeXTYcRNYouI1fx3os?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJuZIREGeXTYcRNYouI1fx3os",
+  "googleRating": 3.9,
+  "googleReviewCount": 1175,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDs5WB4WqmodiT4TNYYvooeo7uog1f_6WKha9i15AEoNfVb-WeLcXlDK0w8QZUWYUe4T9_0zQkyTQZyu-638M6rvRv-8ZhYebRKnYBpCd-J2Sf4-aPGTIVQi0m9eYrCi5tV7jyQw=w1200-h800-k-no",
+  "description": "Fast-food chain, known for its roast beef, serving up hot & cold sandwiches, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 12:00 AM",
+    "tue": "9:00 AM - 12:00 AM",
+    "wed": "9:00 AM - 12:00 AM",
+    "thu": "9:00 AM - 1:00 AM",
+    "fri": "9:00 AM - 1:00 AM",
+    "sat": "9:00 AM - 1:00 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

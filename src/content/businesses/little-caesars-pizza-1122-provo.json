@@ -1,0 +1,44 @@
+{
+  "slug": "little-caesars-pizza-1122-provo",
+  "name": "Little Caesars Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "1122 S University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.218790999999996,
+  "lng": -111.65985599999999,
+  "phone": "+13853143038",
+  "website": "https://littlecaesars.com/en-us/store/12533",
+  "googleMapsUrl": "https://www.google.com/maps/place/Little+Caesars+Pizza/data=!4m7!3m6!1s0x874d97f9f2637729:0x5e30a890f19b8193!8m2!3d40.218791!4d-111.659856!16s%2Fg%2F11ry71gwwc!19sChIJKXdj8vmXTYcRk4Gb8ZCoMF4?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJKXdj8vmXTYcRk4Gb8ZCoMF4",
+  "googleRating": 3.3,
+  "googleReviewCount": 182,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3XGRt_wY5G1aXX78JZhXPvEFShVVYChESmJJU0F3qoMkkkkwaoE2yiuVEHV__0Zv1vd_UVuGKjQ3eCxZdkdnGkp4AV-hXr0_-jOr5AZmAxvvmXnxyosJ-12HFg-lyq9-ObQhHDQ=w1200-h800-k-no",
+  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

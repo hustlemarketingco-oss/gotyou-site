@@ -1,0 +1,44 @@
+{
+  "slug": "the-kolache-place-provo",
+  "name": "The Kolache Place",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Caterer"
+  ],
+  "address": "434 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.233999999999995,
+  "lng": -111.66619999999999,
+  "phone": "+18016233578",
+  "website": "https://www.thekolacheplace.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Kolache+Place/data=!4m7!3m6!1s0x874d99fffe100cef:0xdbd95fc7db9f0714!8m2!3d40.234!4d-111.6662!16s%2Fg%2F11bbxk6vq_!19sChIJ7wwQ_v-ZTYcRFAef28df2ds?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ7wwQ_v-ZTYcRFAef28df2ds",
+  "googleRating": 4.8,
+  "googleReviewCount": 1923,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWls4-ZW-UmaCFtadX5M69WxwRWBDd42gEYWlju_suPI1bEVwDf3diY-f3KPwbhhbDOFcHS-84CipBndysyUAIxWQMrGQdNvbxdHB8Vx9SGJt97_8Ch3HERnI9x-9mRmQbYAw7Ylbg=w1200-h800-k-no",
+  "description": "Kolaches with sweet & savory fillings are the draw at this little bake shop with outdoor tables.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "6:30 AM - 1:00 PM",
+    "tue": "6:30 AM - 1:00 PM",
+    "wed": "6:30 AM - 1:00 PM",
+    "thu": "6:30 AM - 1:00 PM",
+    "fri": "6:30 AM - 1:00 PM",
+    "sat": "6:30 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

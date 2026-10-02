@@ -1,0 +1,41 @@
+{
+  "slug": "penguin-brothers-dessert-catering-and-ice-cream-shop-provo",
+  "name": "Penguin Brothers | Dessert Catering and Ice Cream Shop",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Sandwich shop"
+  ],
+  "address": "111 West Cougar Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2510901,
+  "lng": -111.6567463,
+  "phone": "+18015329537",
+  "website": "http://www.thepenguinbrothers.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Penguin+Brothers+%7C+Dessert+Catering+and+Ice+Cream+Shop/data=!4m7!3m6!1s0x874d90a37b46802d:0xe81c432303d47eba!8m2!3d40.2510901!4d-111.6567463!16s%2Fg%2F11dxm7045j!19sChIJLYBGe6OQTYcRun7UAyNDHOg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJLYBGe6OQTYcRun7UAyNDHOg",
+  "googleRating": 4.7,
+  "googleReviewCount": 1095,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmi2dfpAib2TWSgZE1wphqHeUSG6XBSxzFmLRve43d-S9VpnadLzFGulqMPfcHd4uUIJw2aRYsUCFKz0zZMBiF5z1m7NdPtJ3esObWevxznobgEFrUbSWA0A2wLd0EgEj_wLJxt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "hours": {
+    "mon": "5:00 PM - 10:00 PM",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "5:00 PM - 11:00 PM",
+    "sat": "5:00 PM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

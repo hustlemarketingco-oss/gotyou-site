@@ -1,0 +1,40 @@
+{
+  "slug": "tandoor-indian-cuisine-provo",
+  "name": "Tandoor Indian Cuisine - Provo",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "address": "1600 N Freedom Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.255945,
+  "lng": -111.6606195,
+  "phone": "+18019609048",
+  "website": "https://tandoorindiancuisineprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tandoor+Indian+Cuisine+-+Provo/data=!4m7!3m6!1s0x874d91b83280fdf7:0xd21b8e5ebc798157!8m2!3d40.255945!4d-111.6606195!16s%2Fg%2F11j7grwd_m!19sChIJ9_2AMriRTYcRV4F5vF6OG9I?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ9_2AMriRTYcRV4F5vF6OG9I",
+  "googleRating": 4.7,
+  "googleReviewCount": 1072,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnnxvk8yb3-UvTVeSVQ3BFsf-A4MD9PSkHRmktyLFjFbYKVcIOSnGmOO-0JMjZyAelDWUF8aZC8UcBdYWUnIh9-rlw7EXteVYtZZdPDdpDsVGqerzu4d2Oq2ZmyFkLCCfyERFq8oVo59Dvb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

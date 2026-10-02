@@ -1,0 +1,39 @@
+{
+  "slug": "the-social-provo",
+  "name": "The Social, Provo",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "65 N University Ave Downstairs Suite 2",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.234544799999995,
+  "lng": -111.6589096,
+  "phone": "+18012100693",
+  "website": "https://www.thesocialprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Social,+Provo/data=!4m7!3m6!1s0x874d97536aa16ccf:0xc3b8ddfecf844a42!8m2!3d40.2345448!4d-111.6589096!16s%2Fg%2F1tjdm6p5!19sChIJz2yhalOXTYcRQkqEz_7duMM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJz2yhalOXTYcRQkqEz_7duMM",
+  "googleRating": 4.6,
+  "googleReviewCount": 529,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll99xR7B4CV91XkKNTl1HmKjfr7-voPcM5bk5h2F45Kd3USCna9V2WAfA8fhgL8GG5ULc0VFchlqKHrXqo-6eTZn_7EEGgchB_Z4ckfbw0CdBIKAYujrX-URernU6o6JNybFY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 2:30 PM, 5:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 2:30 PM, 5:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 2:30 PM, 5:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 2:30 PM, 5:00 PM - 11:00 PM",
+    "fri": "12:00 PM - 2:30 PM, 5:00 PM - 12:00 AM",
+    "sat": "12:00 PM - 2:30 PM, 5:00 PM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

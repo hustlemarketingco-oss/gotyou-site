@@ -1,0 +1,39 @@
+{
+  "slug": "konala-provo",
+  "name": "Konala",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "210 West Cougar Blvd",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84604",
+  "lat": 40.2508537,
+  "lng": -111.66244479999999,
+  "phone": "+12109438446",
+  "website": "https://konala.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Konala/data=!4m7!3m6!1s0x874d9181a596f49b:0x24028d6b09d9e331!8m2!3d40.2508537!4d-111.6624448!16s%2Fg%2F11y_vl9m81!19sChIJm_SWpYGRTYcRMePZCWuNAiQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJm_SWpYGRTYcRMePZCWuNAiQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 354,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_9mPdsYGnWSMKG5A0BFbUW20VjJtsUN2lrbIWND14NeQTJjA5ekr7cr3LpreVP0dwRvQft6SJsLq92jxEA78kWZ4cIWCsaRruRQOgQoLXpuesb4CDphcdJsJujORcOqMUO8HOa52s9pL8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

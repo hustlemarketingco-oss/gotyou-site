@@ -1,0 +1,48 @@
+{
+  "slug": "silver-dish-thai-cuisine-provo",
+  "name": "Silver Dish Thai Cuisine",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Chinese noodle restaurant",
+    "Ice cream shop",
+    "Pho restaurant"
+  ],
+  "address": "278 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2340702,
+  "lng": -111.66354559999999,
+  "phone": "+18013739540",
+  "website": "https://ordersilverdishthaicuisine.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Silver+Dish+Thai+Cuisine/data=!4m7!3m6!1s0x874d97552414a6a7:0x8c44c0c06986db2e!8m2!3d40.2340702!4d-111.6635456!16s%2Fg%2F11hcwpk_7h!19sChIJp6YUJFWXTYcRLtuGacDARIw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJp6YUJFWXTYcRLtuGacDARIw",
+  "googleRating": 4.6,
+  "googleReviewCount": 1136,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloqdQoVPQZilHJXNi1TBnKaBeNzzH6u1KptZWV3NB0yQ2VqAXV3PAvRZk-JQs4IO8Q4bF89IDD_v08pYWH1NWX0ex-t1_M7MWvPFkOCS5jgSSAujbCHlt6CV15uQL2MR15WZiX=w1200-h800-k-no",
+  "description": "Small, easygoing stop offering Thai noodle soups, curries, salads, wok dishes & a tea selection.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:30 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}

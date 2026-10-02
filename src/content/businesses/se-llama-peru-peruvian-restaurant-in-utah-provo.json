@@ -1,0 +1,45 @@
+{
+  "slug": "se-llama-peru-peruvian-restaurant-in-utah-provo",
+  "name": "Se Llama Perú: Peruvian Restaurant in Utah",
+  "category": "Mexican & Latin",
+  "googleCategory": "Peruvian restaurant",
+  "secondaryCategories": [
+    "Latin American restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "368 W Center St",
+  "city": "Provo",
+  "state": "UT",
+  "zip": "84601",
+  "lat": 40.2339481,
+  "lng": -111.6650287,
+  "phone": "+18013750275",
+  "website": "https://sellamaperuprovo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Se+Llama+Per%C3%BA:+Peruvian+Restaurant+in+Utah/data=!4m7!3m6!1s0x874d97554ed01ed7:0x6b65c99f08d63fae!8m2!3d40.2339481!4d-111.6650287!16s%2Fg%2F12hs2z2qg!19sChIJ1x7QTlWXTYcRrj_WCJ_JZWs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "placeId": "ChIJ1x7QTlWXTYcRrj_WCJ_JZWs",
+  "googleRating": 4.3,
+  "googleReviewCount": 904,
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgV9HMXt0GpuRmIuo_CiN6zfdmcZ-38fDQIkWZZ-UmzFRW7Ry8MAiu-7ZP1R0MnYjw5dL9qfvDXz0oV9n5g4yHm3z6n3ObwEaJYysaWrC5p5esNGEG--vOjWC3ZUkYcGCrgbDV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 8:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-02T04:48:14Z",
+  "updatedAt": "2026-10-02T04:48:15Z",
+  "source": "gmaps-scraper"
+}
