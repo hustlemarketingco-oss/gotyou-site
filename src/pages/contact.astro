@@ -1,49 +1,112 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
 import { BRAND, SOCIAL_LINKS } from '../lib/constants';
 
-const socialIcons: Record<string, string> = {
-  'Twitter/X': '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>',
-  Facebook: '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 011-1h3v-4h-3a5 5 0 00-5 5v2.01h-2l-.396 3.98h2.396z"/></svg>',
-  Instagram: '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="3.6"/><circle cx="17.2" cy="6.8" r="0.9" fill="currentColor"/></svg>',
-  TikTok: '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 5.82s.51.5 0 0A4.278 4.278 0 0115.54 3h-3.09v12.4a2.59 2.59 0 11-2.59-2.6c.18 0 .35.02.5.05V9.94c-.17-.02-.33-.04-.5-.04A5.5 5.5 0 005.36 15.4 5.5 5.5 0 0010.9 21a5.5 5.5 0 005.5-5.5V9.39a8.166 8.166 0 004.85 1.56V7.83a4.6 4.6 0 01-4.65-2.01z"/></svg>',
-};
+const cards = [
+  { icon: 'ti-mail', title: 'General & support', body: 'Questions about the app, your wallet, or anything else.', href: `mailto:${BRAND.supportEmail}`, label: BRAND.supportEmail },
+  { icon: 'ti-building-store', title: 'Merchants & partnerships', body: 'Bring GOTYOU to your business or build a custom demand plan.', href: `mailto:${BRAND.helloEmail}?subject=GOTYOU%20for%20my%20business`, label: BRAND.helloEmail },
+  { icon: 'ti-map-pin-plus', title: 'Bring GOTYOU to your city', body: 'Want GOTYOU in your community, or want to help promote it?', href: `mailto:${BRAND.helloEmail}?subject=Bring%20GOTYOU%20to%20my%20city`, label: 'Tell us where' },
+];
 ---
 
-<BaseLayout title="Contact Us" description="We value your feedback and are eager to hear from you. Send us a message and we'll get back to you promptly.">
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      Contact
-    </div>
-    <h1>Send us a message</h1>
-    <p class="lede">Welcome to GOTYOU! We value your feedback and are eager to hear from you. Please send us an email, and we'll get back to you promptly.</p>
-  </div>
+<BaseLayout title="Contact" description="Get in touch with GOTYOU — we value your feedback and are eager to hear from you.">
+  <PageHero eyebrow="Contact" title="We’d love to <em>hear from you.</em>" lede="We value your feedback and are eager to hear from you. Send us an email and we’ll get back to you promptly." />
 
-  <div class="section" style="padding-top: 0;">
-    <div class="contact-grid">
-      <div class="contact-card">
-        <h3>Get in touch</h3>
-        <div class="contact-row">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2" /><polyline points="3 7 12 13 21 7" /></svg>
-          {BRAND.supportEmail}
-        </div>
-        <div class="contact-row">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11a3 3 0 106 0 3 3 0 00-6 0z" /><path d="M12 21s-7-6.5-7-11a7 7 0 1114 0c0 4.5-7 11-7 11z" /></svg>
-          Arizona Street, Santa Monica, CA 90401
-        </div>
+  <section class="section">
+    <div class="container">
+      <div class="cards">
+        {cards.map((c) => (
+          <a href={c.href} class="card card--pad contact reveal">
+            <span class="icon-circle"><i class:list={['ti', c.icon]}></i></span>
+            <h2 class="h3">{c.title}</h2>
+            <p>{c.body}</p>
+            <span class="link-arrow">{c.label} <i class="ti ti-arrow-right"></i></span>
+          </a>
+        ))}
       </div>
-      <div class="contact-card">
-        <h3>Follow along</h3>
-        <p>Stay up to date with new markets, merchant features, and the latest from the GOTYOU blog.</p>
-        <div class="social-row">
-          {
-            SOCIAL_LINKS.map((s) => (
-              <a href={s.href} class="social-icon" aria-label={s.label} target="_blank" rel="noopener" set:html={socialIcons[s.label]} />
-            ))
-          }
+
+      <div class="card card--pad more reveal">
+        <div>
+          <h2 class="h3">Follow along</h2>
+          <p>New drops, local spots, and what’s next for GOTYOU.</p>
         </div>
+        <div class="social">
+          {SOCIAL_LINKS.map((s) => (
+            <a href={s.href} target="_blank" rel="noopener"><i class:list={['ti', s.icon]}></i>{s.label}</a>
+          ))}
+        </div>
+        <p class="addr"><i class="ti ti-map-pin"></i>{BRAND.address}</p>
       </div>
     </div>
-  </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+  }
+  .contact {
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .contact:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow);
+  }
+  .contact h2 {
+    margin: 18px 0 8px;
+  }
+  .contact p {
+    color: var(--muted);
+    margin-bottom: 18px;
+    flex: 1;
+  }
+  .more {
+    margin-top: 22px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 18px 32px;
+    align-items: center;
+  }
+  .more p {
+    color: var(--muted);
+  }
+  .social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .social a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: 100px;
+    background: var(--blue-50);
+    color: var(--blue);
+    font-weight: 600;
+  }
+  .social a:hover {
+    background: var(--blue);
+    color: #fff;
+  }
+  .addr {
+    grid-column: 1 / -1;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+  @media (max-width: 860px) {
+    .cards,
+    .more {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

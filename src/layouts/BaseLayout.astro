@@ -11,11 +11,12 @@ interface Props {
 
 const {
   title,
-  description = 'GOTYOU is the universal digital rewards platform empowering local businesses and connecting them directly with customers.',
-  ogImage = '/og-default.png',
+  description = 'GOTYOU is the daily match between locals and the businesses near them — and it pays you real cash for showing up.',
+  ogImage = '/images/site/two_phones_transparent.png',
 } = Astro.props;
 
 const fullTitle = title === 'GOTYOU' ? title : `${title} | GOTYOU`;
+const ogImageUrl = new URL(ogImage, Astro.site ?? Astro.url).href;
 ---
 
 <!doctype html>
@@ -23,20 +24,25 @@ const fullTitle = title === 'GOTYOU' ? title : `${title} | GOTYOU`;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#1f6bd6" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
 
     <!-- Open Graph -->
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={ogImage} />
+    <meta property="og:image" content={ogImageUrl} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url.href} />
+    <meta name="twitter:card" content="summary_large_image" />
 
-    <!-- Space Grotesk (display) + Inter (body) — the GOTYOU dark theme type system -->
+    <!-- Poppins — the GOTYOU app typeface -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" />
 
     <!-- Tabler icons — used throughout for nav/feature/social icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />

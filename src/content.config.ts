@@ -91,4 +91,11 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { businesses, blog };
+// ─── Legal ───────────────────────────────────────────────────────────────
+// Privacy policy and terms, copied verbatim from the WordPress site.
+const legal = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/legal' }),
+  schema: z.object({ title: z.string() }),
+});
+
+export const collections = { businesses, blog, legal };

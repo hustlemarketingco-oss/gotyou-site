@@ -18,8 +18,8 @@ const { business } = Astro.props;
 ---
 
 <BaseLayout title={`Claim ${business.name}`} description={`Verify ownership of ${business.name} to manage your GOTYOU listing.`}>
-  <div class="section section--cream">
-    <div class="section-inner narrow">
+  <div class="section">
+    <div class="container narrow">
       <a href={`/businesses/${business.slug}`} class="back-link"><i class="ti ti-arrow-left" /> Back to {business.name}</a>
 
       <div class="form-card">
@@ -53,7 +53,7 @@ const { business } = Astro.props;
             <input type="text" id="role" name="role" placeholder="Owner, Manager, etc." />
           </div>
 
-          <button type="submit" class="btn btn--yellow submit-btn">Submit Claim Request &rarr;</button>
+          <button type="submit" class="btn btn--primary btn--lg submit-btn">Submit Claim Request &rarr;</button>
           <p class="fine-print">We'll verify and activate your listing within 24 hours.</p>
         </form>
       </div>
@@ -78,12 +78,13 @@ const { business } = Astro.props;
 
     .form-card {
       background: var(--white);
-      border-radius: var(--radius);
+      border-radius: var(--radius-lg);
       border: 1px solid var(--border);
-      padding: 2rem;
+      box-shadow: var(--shadow);
+      padding: 2.5rem;
     }
     .form-card h1 {
-      font-size: 22px;
+      font-size: 28px;
       font-weight: 800;
       margin-bottom: 0.5rem;
       color: var(--text);
@@ -107,10 +108,10 @@ const { business } = Astro.props;
     }
     .field input {
       width: 100%;
-      padding: 10px 14px;
+      padding: 13px 16px;
       border: 1px solid var(--border);
-      border-radius: 8px;
-      font-size: 14px;
+      border-radius: 14px;
+      font-size: 15px;
       font-family: var(--font-body);
       outline: none;
       transition: border-color 0.2s;

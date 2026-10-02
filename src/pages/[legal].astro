@@ -1,0 +1,30 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('legal');
+  return pages.map((page) => ({ params: { legal: page.id }, props: { page } }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+
+<BaseLayout title={page.data.title} description={`GOTYOU ${page.data.title}.`}>
+  <PageHero eyebrow="Legal" title={page.data.title} ground="var(--surface)" />
+  <section class="section section--white">
+    <div class="container narrow">
+      <article class="prose legal">
+        <Content />
+      </article>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .legal {
+    font-size: 16.5px;
+  }
+</style>

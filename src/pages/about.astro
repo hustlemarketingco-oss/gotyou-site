@@ -1,47 +1,205 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+
+const pillars = [
+  {
+    icon: 'ti-map-pin-check',
+    title: 'Verified visits',
+    body: 'A merchant runs an offer, a real person shows up to redeem it, and a tap confirms the visit. From that moment the customer belongs to the business: named, real, and theirs to bring back.',
+  },
+  {
+    icon: 'ti-chart-dots-3',
+    title: 'The Behavior Graph',
+    body: 'Every verified visit builds a living record of who comes in, how often, and what moves them — the intelligence e-commerce guarded for itself, now owned by the merchants who earn it.',
+  },
+  {
+    icon: 'ti-building-store',
+    title: 'Value stays on Main Street',
+    body: 'Google, Meta, and the delivery apps rent local businesses access to their own customers and keep the relationship. We hand those tools straight to merchants, so the value stays where it’s earned.',
+  },
+];
 ---
 
-<BaseLayout title="About Us" description="At GOTYOU, we develop technology that empowers communities and local businesses, eliminating big tech intermediaries.">
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      About Us
-    </div>
-    <h1>Technology that empowers communities and local businesses</h1>
-    <p class="lede">Our platform fosters secure, direct relationships between businesses and consumers, eliminating big tech intermediaries.</p>
-  </div>
+<BaseLayout title="About us" description="GOTYOU is building the data layer physical commerce never had — Verified Physical Commerce for Main Street.">
+  <PageHero
+    eyebrow="About GOTYOU"
+    title="We’re building the data layer physical commerce <em>never had.</em>"
+    lede="For twenty years, e-commerce has known exactly who its customers are and when to bring them back. Main Street got none of it. We’re changing that."
+  />
 
-  <div class="section">
-    <div class="content-narrow">
-      <p>At GOTYOU, we develop technology that empowers communities and local businesses. Our platform fosters secure, direct relationships between businesses and consumers, eliminating big tech intermediaries. By keeping value within local communities, we're creating a self-sustaining ecosystem built on trust, connection, and growth.</p>
-
-      <h2>Our Mission</h2>
-      <p>At GOTYOU, we empower local businesses and consumers to thrive in a digital economy built on trust, transparency, and connection. Our platform fosters direct relationships, protects privacy, and enables instant, real-time rewards. By simplifying local commerce and keeping value within communities, we're creating a marketplace that strengthens local businesses and ensures everyone benefits.</p>
-
-      <img src="/images/gotyou-rewards.png" alt="GOTYOU mission" />
-
-      <h2>Our Journey</h2>
-      <p>For over 25 years, our founder has been on a mission to revolutionize how small businesses thrive in the digital age. Backed by a world-class team of engineers, marketers, and operational experts, we're tackling the greatest challenge local businesses face: building meaningful, lasting connections with consumers.</p>
-
-      <div class="stat-row">
-        <div class="stat-card"><div class="n">25+</div><div class="l">Years our founder has worked on local business technology</div></div>
-        <div class="stat-card"><div class="n">222%</div><div class="l">Rise in advertising costs over the past decade</div></div>
+  <section class="section">
+    <div class="container split">
+      <div class="reveal">
+        <span class="eyebrow">Verified Physical Commerce</span>
+        <h2 class="h2">Every visit anonymous. Every customer a stranger. <span class="hl-blue">Until now.</span></h2>
+        <p class="lede">
+          At GOTYOU, we’re building the data layer physical commerce never had. Every in-store visit has been anonymous — every customer a stranger who might never return.
+        </p>
+        <p class="lede">
+          It’s a category we call <strong>Verified Physical Commerce</strong>. Real relationships. Real visits. Real growth, owned by the people who earn it.
+        </p>
       </div>
-
-      <p>As e-commerce giants dominate and advertising costs soar, brick-and-mortar businesses are left behind. GOTYOU changes the game. Our platform delivers enterprise-level tools—powered by cutting-edge AI—to local markets, enabling small businesses to personalize offers, create real-time rewards, and drive demand without breaking the bank.</p>
-      <p>We're here to level the playing field, empowering small businesses to compete, grow, and lead in today's digital economy.</p>
+      <div class="img-stack reveal">
+        <img src="/images/site/coffee-shop.jpg" alt="A barista serving a customer at a busy local coffee shop" loading="lazy" class="main" />
+        <img src="/images/site/checkin_tall_transparent.png" alt="GOTYOU check-in screen" loading="lazy" class="phone-cut float" />
+      </div>
     </div>
-  </div>
+  </section>
 
-  <div class="cta">
-    <h2>Ready to Join the Movement?</h2>
-    <p>Whether you're a business owner or a consumer, GOTYOU has something for you.</p>
-    <div class="cta-btns">
-      <a href="https://app.gotyou.co/sign-up" class="btn-primary">
-        Get Started as a Merchant
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" style="vertical-align:-2px"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
-      </a>
+  <section class="section section--white">
+    <div class="container">
+      <div class="pillars">
+        {pillars.map((p) => (
+          <article class="card card--pad pillar reveal">
+            <span class="icon-circle"><i class:list={['ti', p.icon]}></i></span>
+            <h3 class="h3">{p.title}</h3>
+            <p>{p.body}</p>
+          </article>
+        ))}
+      </div>
     </div>
-  </div>
+  </section>
+
+  <section class="section">
+    <div class="container story">
+      <div class="story-row reveal">
+        <img src="/images/site/mission.jpg" alt="Wooden blocks spelling mission" loading="lazy" />
+        <div>
+          <span class="eyebrow">Our mission</span>
+          <h2 class="h2">Give local businesses the power big tech built for itself — and let them keep it.</h2>
+          <p class="lede">
+            Every visit is verified. Every customer is named, real, and owned by the business, not rented from a platform. We reward people for showing up, protect their privacy, and make sure the value stays where it’s earned: on Main Street. When the corner shop can compete with the giants, everyone wins.
+          </p>
+        </div>
+      </div>
+      <div class="story-row story-row--flip reveal">
+        <img src="/images/site/journey.jpg" alt="A runner's shoes at the 2024 start line" loading="lazy" />
+        <div>
+          <span class="eyebrow">Our journey</span>
+          <h2 class="h2">25 years of helping small businesses win.</h2>
+          <p class="lede">
+            For 25 years, our founder has been building technology that helps small businesses win. GOTYOU is the culmination: a platform that gives Main Street the tools big tech kept for itself.
+          </p>
+          <div class="stat">
+            <strong>222%</strong>
+            <span>How much ad costs have climbed in a decade, while brick-and-mortar gets left behind. GOTYOU brings verified visits, named customers merchants own, and real rewards that bring people back — enterprise-grade tools, priced for the corner shop.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <CtaBand />
 </BaseLayout>
+
+<style>
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    align-items: center;
+  }
+  .split .h2 {
+    margin-bottom: 18px;
+  }
+  .split .lede + .lede {
+    margin-top: 14px;
+  }
+  .img-stack {
+    position: relative;
+    padding-right: 60px;
+  }
+  .img-stack .main {
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+  .phone-cut {
+    position: absolute;
+    right: 0;
+    bottom: -40px;
+    width: 34%;
+    filter: drop-shadow(0 20px 30px rgba(20, 24, 51, 0.3));
+  }
+  .pillars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .pillar h3 {
+    margin: 20px 0 10px;
+  }
+  .pillar p {
+    color: var(--muted);
+  }
+  .story {
+    display: grid;
+    gap: 96px;
+  }
+  .story-row {
+    display: grid;
+    grid-template-columns: 0.9fr 1.1fr;
+    gap: 64px;
+    align-items: center;
+  }
+  .story-row--flip img {
+    order: 2;
+  }
+  .story-row img {
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    width: 100%;
+  }
+  .story-row .h2 {
+    font-size: clamp(26px, 3vw, 36px);
+    margin-bottom: 16px;
+  }
+  .stat {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    margin-top: 26px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 20px 22px;
+  }
+  .stat strong {
+    font-size: 44px;
+    font-weight: 800;
+    color: var(--blue);
+    letter-spacing: -0.03em;
+  }
+  .stat span {
+    color: var(--muted);
+    font-size: 15px;
+  }
+  @media (max-width: 900px) {
+    .split,
+    .story-row,
+    .pillars {
+      grid-template-columns: 1fr;
+    }
+    .story-row--flip img {
+      order: 0;
+    }
+    .story {
+      gap: 64px;
+    }
+    .img-stack {
+      padding-right: 0;
+      margin-bottom: 30px;
+    }
+  }
+  @media (max-width: 520px) {
+    .stat {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

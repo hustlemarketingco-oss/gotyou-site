@@ -1,51 +1,130 @@
 ---
-import { BRAND } from '../lib/constants';
+import { BRAND, FOOTER_LINKS, LEGAL_LINKS, SOCIAL_LINKS } from '../lib/constants';
+import StoreBadges from './StoreBadges.astro';
 const year = new Date().getFullYear();
 ---
 
-<footer>
-  <div class="footer-inner">
-    <a href="/" class="logo-wrap" aria-label={`${BRAND.name} home`}>
-      <img src="/images/got-you-logo.png" alt={`${BRAND.name} logo`} />
-    </a>
-    <p>© {year} {BRAND.name}, Co All Rights Reserved</p>
+<footer class="site-footer">
+  <div class="container">
+    <div class="top">
+      <div class="brand">
+        <a href="/" aria-label={`${BRAND.name} home`}><img src="/images/brand/gotyou-logo-white.png" alt={BRAND.name} width="74" height="48" /></a>
+        <p>{BRAND.promise}</p>
+        <StoreBadges />
+        <div class="social">
+          {SOCIAL_LINKS.map((s) => (
+            <a href={s.href} target="_blank" rel="noopener" aria-label={s.label}><i class:list={['ti', s.icon]}></i></a>
+          ))}
+        </div>
+      </div>
+      {FOOTER_LINKS.map((col) => (
+        <div class="col">
+          <h3>{col.title}</h3>
+          <ul>
+            {col.links.map((l) => (
+              <li><a href={l.href} {...(l.href.startsWith('http') ? { target: '_blank', rel: 'noopener' } : {})}>{l.label}</a></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+    <div class="bottom">
+      <p>© {year} {BRAND.name}, Co. All rights reserved. · <a href={`mailto:${BRAND.supportEmail}`}>{BRAND.supportEmail}</a></p>
+      <nav aria-label="Legal">
+        {LEGAL_LINKS.map((l) => <a href={l.href}>{l.label}</a>)}
+      </nav>
+    </div>
   </div>
 </footer>
 
 <style>
-  footer {
-    padding: 2.5rem 4rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  .site-footer {
+    background: var(--ink);
+    color: rgba(255, 255, 255, 0.72);
+    padding: 64px 0 32px;
+    font-size: 15px;
   }
-  .footer-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1rem;
+  .top {
+    display: grid;
+    grid-template-columns: 1.5fr repeat(3, 1fr);
+    gap: 40px;
+    padding-bottom: 48px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   }
-  .logo-wrap {
-    display: inline-flex;
-    align-items: center;
-    background: #fff;
-    border-radius: 6px;
-    padding: 4px 8px;
-  }
-  .logo-wrap img {
-    height: 18px;
+  .brand img {
+    height: 48px;
     width: auto;
-    display: block;
+    margin-bottom: 16px;
   }
-  footer p {
-    color: var(--text-dimmer);
-    font-size: 12.5px;
+  .brand p {
+    max-width: 320px;
+    margin-bottom: 22px;
+    color: rgba(255, 255, 255, 0.82);
   }
-
-  @media (max-width: 640px) {
-    footer {
-      padding: 2rem 1.5rem;
+  .brand :global(.badges img) {
+    height: 42px;
+  }
+  .social {
+    display: flex;
+    gap: 10px;
+    margin-top: 22px;
+  }
+  .social a {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background: rgba(255, 255, 255, 0.08);
+    font-size: 19px;
+    color: #fff;
+    transition: background 0.15s, color 0.15s;
+  }
+  .social a:hover {
+    background: var(--lime);
+    color: var(--ink);
+  }
+  h3 {
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 16px;
+  }
+  ul {
+    list-style: none;
+    display: grid;
+    gap: 10px;
+  }
+  ul a:hover,
+  .bottom a:hover {
+    color: var(--lime);
+  }
+  .bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 14px;
+    padding-top: 26px;
+    font-size: 13.5px;
+    color: rgba(255, 255, 255, 0.55);
+  }
+  .bottom nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  @media (max-width: 900px) {
+    .top {
+      grid-template-columns: 1fr 1fr;
+    }
+    .brand {
+      grid-column: 1 / -1;
+    }
+  }
+  @media (max-width: 480px) {
+    .top {
+      grid-template-columns: 1fr;
     }
   }
 </style>

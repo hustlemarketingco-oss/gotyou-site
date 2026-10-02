@@ -255,12 +255,12 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     border-color: var(--blue);
   }
   .pill.active {
-    background: var(--navy);
-    border-color: var(--navy);
+    background: var(--blue);
+    border-color: var(--blue);
     color: #fff;
   }
   .pill.active i {
-    color: var(--yellow);
+    color: #fff;
   }
   .pill.active .n {
     color: rgba(255, 255, 255, 0.6);
@@ -317,7 +317,7 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   .grid :global(.photo) {
     position: relative;
     aspect-ratio: 16 / 10;
-    background: linear-gradient(135deg, #1565d8, #0a3d9e);
+    background: var(--grad-sky);
     overflow: hidden;
   }
   .grid :global(.photo img) {
@@ -441,7 +441,7 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     margin-top: 36px;
   }
   .more {
-    background: var(--navy);
+    background: var(--blue);
     color: #fff;
     border: none;
     border-radius: 100px;
@@ -450,7 +450,7 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     cursor: pointer;
   }
   .more:hover {
-    background: var(--blue);
+    background: var(--blue-600);
   }
 
   @media (max-width: 520px) {

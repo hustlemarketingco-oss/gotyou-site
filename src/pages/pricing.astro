@@ -1,112 +1,516 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import { BRAND } from '../lib/constants';
+
+const DEMAND = [
+  '100% delivery guarantee — we deliver or refund the rest',
+  '11:23 Daily Drop engine included',
+  'AI customer discovery & free map listing',
+  'Full GOTYOU platform included ($0/mo)',
+  'In-Store Kit included (NFC pad & signage, $50 value)',
+];
+const plans = [
+  {
+    tag: 'Platform access',
+    name: 'GOTYOU Trial',
+    price: '$1',
+    per: 'one-time',
+    blurb: 'Platform only. Set up your account, explore AI discovery, and list on our consumer map.',
+    features: [
+      'Free local business map & profile listing',
+      'AI customer discovery & user behavior graph',
+      'Complete GOTYOU merchant dashboard',
+      'In-store check-in & attribution tracking',
+      'Offer & campaign management tools',
+    ],
+    excluded: ['11:23 Daily Drops not included', 'In-Store Kit available separately ($50)'],
+    cta: 'Start trial for $1',
+    fine: 'No guaranteed customer deliveries. Upgrade anytime.',
+  },
+  {
+    tag: 'Starter demand',
+    name: 'GOTYOU 50',
+    price: '$175',
+    per: '/ month',
+    blurb: '50 first-time customers through your door every month.',
+    features: ['50 guaranteed new customers / mo', 'Every customer is a first-time visitor', ...DEMAND],
+    cta: 'Get 50 customers / mo',
+    fine: 'Month-to-month. No contract. Cancel anytime.',
+  },
+  {
+    tag: 'Most popular',
+    name: 'GOTYOU 100',
+    price: '$300',
+    per: '/ month',
+    blurb: '100 first-time customers through your door every month. Our sweet spot.',
+    features: ['100 guaranteed new customers / mo', 'Every customer is a first-time visitor', ...DEMAND],
+    cta: 'Get 100 customers / mo',
+    fine: 'Month-to-month. No contract. Cancel anytime.',
+    hot: true,
+  },
+  {
+    tag: 'Best value',
+    name: 'GOTYOU 200',
+    price: '$500',
+    per: '/ month',
+    blurb: '200 first-time customers through your door every month. Built for volume.',
+    features: ['200 guaranteed new customers / mo', 'Every customer is a first-time visitor', ...DEMAND],
+    cta: 'Get 200 customers / mo',
+    fine: 'Month-to-month. No contract. Cancel anytime.',
+  },
+];
+
+const steps = [
+  { n: 'Step one', icon: 'ti-user-plus', title: 'Get new customers', body: 'The 11:23 Daily Drop delivers a guaranteed number of first-time customers through your door every month. Never the same person twice.' },
+  { n: 'Step two', icon: 'ti-repeat', title: 'Drive more visits', body: 'Add a GOTYOU Demand Budget anytime to fill slow hours and bring past customers back. Repeat visits cost a fraction of a new customer.' },
+  { n: 'Step three', icon: 'ti-heart-handshake', title: 'Keep them coming back', body: 'Automated check-ins, rewards, AI discovery, and your local map presence turn a first visit into a regular.' },
+];
+
+const customMail = `mailto:${BRAND.helloEmail}?subject=Custom%20GOTYOU%20Demand%20Plan`;
+const faqs = [
+  { q: 'How does the customer guarantee work?', a: 'Your monthly plan buys a guaranteed number of unique new customers through your door via 11:23 Daily Drops. Every visit is tracked in real time through your GOTYOU Counter Tap NFC pad and dashboard. If we fall short of your plan’s commitment during the month, we extend your campaign at no charge until we deliver them, or automatically refund the difference.' },
+  { q: 'Are these brand-new customers or people who already visit me?', a: 'Brand new, every time. The 11:23 Daily Drop only counts first-time visitors toward your plan, and the same person is never counted twice. Bringing past customers back is a separate, much less expensive motion — that runs through your GOTYOU Demand Budget, not your plan.' },
+  { q: 'Is the GOTYOU platform really free?', a: 'Yes. We don’t believe in charging local businesses hundreds of dollars a month just to access software. Your merchant profile, AI customer discovery engine, local map listing, customer database, attribution tracking, and campaign management tools are included at $0/month. You only pay for actual customer demand.' },
+  { q: 'Why are standard plans built for businesses with tickets under $25?', a: 'The 11:23 Daily Drop model is designed around everyday, high-frequency venues like coffee shops, bakeries, quick-service restaurants, and casual retail, where a first visit turns into a habit quickly. High-ticket venues need a different incentive structure, which we support through dedicated GOTYOU Demand Budgets.' },
+  { q: 'Do you offer custom plans for spas, salons, med spas, or massage clinics?', a: `Yes. While our standard 11:23 Daily Drop plans are calibrated for everyday venues under $25, we build custom GOTYOU Demand Plans for higher average-order-value businesses. Acquiring a new customer for a $150 spa treatment or a $300 salon service takes a different incentive structure, so we configure a dedicated GOTYOU Demand Budget tailored to your unit economics. You still get the entire GOTYOU platform, AI discovery, map listing, and Counter Tap technology at $0/month. <a href="${customMail}">Contact us to build your custom plan.</a>` },
+  { q: 'What’s the difference between the $1 Trial and the demand plans?', a: 'The $1 Trial gives you full platform access to build your profile, list on our local consumer map, test our AI customer discovery tools, and set up your dashboard. It does not include guaranteed 11:23 Daily Drop customer deliveries. When you’re ready for guaranteed foot traffic, upgrade to GOTYOU 50, 100, or 200.' },
+];
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })),
+};
 ---
 
-<BaseLayout title="Pricing" description="Month to month, no long term contracts. Choose the GOTYOU plan that fits your business.">
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      Transparent Pricing Plans
-    </div>
-    <h1>Choose the best plan for your business</h1>
-    <p class="lede">Month to Month – No long term contracts.</p>
-  </div>
+<BaseLayout title="Pricing" description="Stop paying for software. Start paying for customers. GOTYOU guarantees real, new customers through your door every month — month-to-month, no contract.">
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqLd)} />
 
-  <div class="section" style="padding-top: 0;">
-    <div class="section-inner">
-      <div class="pricing-grid">
-        <div class="price-card">
-          <h3>Standard</h3>
-          <div class="tag">Increase Customer Engagement</div>
-          <div class="amt">$49<span>.95/mo</span></div>
-          <ul>
-            <li class="included">All Basic Features</li>
-            <li class="included">Unlimited Customer Contacts</li>
-            <li class="included">Customer Feedback Campaigns</li>
-            <li class="included">Customer Referral Campaigns</li>
-            <li>1 Custom Perk Campaign</li>
-            <li>Remote Check-in Campaign</li>
-            <li>$50 Setup Fee</li>
-            <li>*Customer Reward Tokens $.20</li>
-          </ul>
-          <a href="https://app.gotyou.co/signup" class="btn-ghost" style="display:flex; justify-content:center; border-bottom:none; background: var(--card-light); border-radius: 100px;">Get Started</a>
-        </div>
-        <div class="price-card featured">
-          <div class="badge">Most Popular</div>
-          <h3>Plus</h3>
-          <div class="tag">Increase Customer Frequency</div>
-          <div class="amt">$99<span>.95/mo</span></div>
-          <ul>
-            <li class="included">All Standard Features</li>
-            <li class="included">Survey Campaigns</li>
-            <li class="included">1 Cross Promotion Campaign</li>
-            <li>Personalized Perks/Incentives</li>
-            <li>User Demographic Usage</li>
-            <li>Dedicated Account Manager</li>
-            <li>$100 Setup Fee</li>
-            <li>*Customer Reward Tokens $.20</li>
-          </ul>
-          <a href="https://app.gotyou.co/signup" class="btn-primary" style="display:flex; justify-content:center;">Get Started</a>
-        </div>
-        <div class="price-card">
-          <h3>Pro</h3>
-          <div class="tag">Customer Growth and Local Brand Awareness</div>
-          <div class="amt">$199<span>.95/mo</span></div>
-          <ul>
-            <li class="included">All Plus Features</li>
-            <li class="included">3 Cross Promotions</li>
-            <li class="included">Customized Branding</li>
-            <li class="included">500 Printed Handouts</li>
-            <li>Demographic Reporting</li>
-            <li>1 IG/TT Post</li>
-            <li>$150 Setup Fee</li>
-            <li>*Customer Rewards Tokens $.20</li>
-          </ul>
-          <a href="https://app.gotyou.co/signup" class="btn-ghost" style="display:flex; justify-content:center; border-bottom:none; background: var(--card-light); border-radius: 100px;">Get Started</a>
-        </div>
-      </div>
-      <p style="text-align:center; color: var(--text-dim); font-size: 13px; margin-top: 1.5rem;">***Less than 5 employees ask about our Trial $24.95 and other Startup pricing!</p>
+  <PageHero
+    eyebrow="Transparent pricing · Month to month"
+    title="Stop paying for software. <em>Start paying for customers.</em>"
+    lede="GOTYOU guarantees real, new customers through your door every month. Full platform access, AI customer discovery, local map listing, and in-store check-in technology are included at no extra cost."
+  >
+    <div class="hero-ctas">
+      <a href={BRAND.appUrl} class="btn btn--lime btn--lg">Get 100 customers a month</a>
+      <a href={BRAND.appUrl} class="btn btn--ghost btn--lg">Start your $1 trial</a>
     </div>
-  </div>
+  </PageHero>
 
-  <div class="section">
-    <div class="section-inner">
+  <section class="section section--tight">
+    <div class="container drop-explain reveal">
+      <div class="clock"><span>11:23</span><small>am</small></div>
+      <p>
+        <b>Every day at 11:23, your offer drops to opted-in locals nearby.</b> They walk in, tap the pad on your counter, and become a customer you can reach again.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="container">
       <div class="section-head">
-        <span class="section-eyebrow">Feature List</span>
-        <h2 class="section-title">The Power of GOTYOU</h2>
+        <span class="eyebrow">Three ways GOTYOU grows your business</span>
+        <h2 class="h2">The platform is included. <span class="hl-blue">You only pay for customer demand.</span></h2>
       </div>
-      <div style="overflow-x: auto;">
-        <table class="comparison-table">
-          <thead>
-            <tr><th>Feature</th><th>Basic<br /><span style="opacity:.6">$24.95</span></th><th>Standard<br /><span style="opacity:.6">$49.95</span></th><th>Plus<br /><span style="opacity:.6">$99.95</span></th><th>Pro<br /><span style="opacity:.6">$199.95</span></th></tr>
-          </thead>
-          <tbody>
-            <tr><td>Setup Fee</td><td>$50</td><td>$50</td><td>$100</td><td>$150</td></tr>
-            <tr><td>Customer Dashboard</td><td class="yes">✓</td><td class="yes">✓</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-            <tr><td>Customer Contacts</td><td>250</td><td>Unlimited</td><td>Unlimited</td><td>Unlimited</td></tr>
-            <tr><td>Feedback Campaigns</td><td>—</td><td class="yes">✓</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-            <tr><td>Referral Campaigns</td><td>—</td><td class="yes">✓</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-            <tr><td>Survey Campaigns</td><td>—</td><td>—</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-            <tr><td>In-app Notifications</td><td>—</td><td>—</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-            <tr><td>Customer Demographic Analytics</td><td>—</td><td>—</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-            <tr><td>500 Promotional Handouts/mo</td><td>—</td><td>—</td><td>—</td><td class="yes">✓</td></tr>
-            <tr><td>Reward Token Price</td><td>$0.20</td><td>$0.20</td><td>$0.20</td><td>$0.20</td></tr>
-            <tr><td>Dedicated Account Manager</td><td>—</td><td>—</td><td class="yes">✓</td><td class="yes">✓</td></tr>
-          </tbody>
-        </table>
+      <div class="ways">
+        {steps.map((s) => (
+          <article class="card card--pad reveal">
+            <span class="icon-circle"><i class:list={['ti', s.icon]}></i></span>
+            <small>{s.n}</small>
+            <h3 class="h3">{s.title}</h3>
+            <p>{s.body}</p>
+          </article>
+        ))}
       </div>
     </div>
-  </div>
+  </section>
 
-  <div class="section" style="padding-top:0;">
-    <div class="content-narrow" style="text-align:center;">
-      <span class="section-eyebrow">Multi-Location Custom Pricing</span>
-      <h2 style="text-align:center;">More than ten locations?</h2>
-      <p>We feel that it is important to only pay for what you need to grow your brand. Connect with us and we will have a custom quote for you within 24 hours.</p>
-      <a href="/contact" class="btn-primary">
-        Contact us for Pricing
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" style="vertical-align:-2px"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
-      </a>
+  <section class="section" id="plans">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Plans</span>
+        <h2 class="h2">Pick the number of customers you want</h2>
+        <p class="lede">
+          Every plan is month-to-month, with no setup fee and no contract. Plans below are built for everyday, high-frequency businesses with an average ticket under $25.
+        </p>
+      </div>
+      <div class="plans">
+        {plans.map((p) => (
+          <article class:list={['plan', p.hot && 'plan--hot']}>
+            <span class="tag">{p.tag}</span>
+            <h3>{p.name}</h3>
+            <div class="price"><b>{p.price}</b><span>{p.per}</span></div>
+            <p class="blurb">{p.blurb}</p>
+            <ul>
+              {p.features.map((f) => <li><i class="ti ti-check"></i>{f}</li>)}
+              {p.excluded?.map((f) => <li class="no"><i class="ti ti-minus"></i>{f}</li>)}
+            </ul>
+            <a href={BRAND.appUrl} class:list={['btn btn--block', p.hot ? 'btn--lime' : 'btn--primary']}>{p.cta}</a>
+            <small class="fine">{p.fine}</small>
+          </article>
+        ))}
+      </div>
+
+      <div class="extras">
+        <div class="card card--pad extra reveal">
+          <img src="/images/site/puck_transparent.png" alt="GOTYOU Counter Tap NFC pad" loading="lazy" />
+          <div>
+            <h3>Need in-store check-in hardware?</h3>
+            <p>Add the GOTYOU In-Store Kit for a one-time $50 and get your Counter Tap NFC check-in pad, branded table tents, and storefront window stickers. Included free with GOTYOU 50, 100, and 200.</p>
+            <a href={BRAND.appUrl} class="link-arrow">Add the In-Store Kit — $50 <i class="ti ti-arrow-right"></i></a>
+          </div>
+        </div>
+        <div class="card card--pad extra reveal">
+          <span class="icon-circle"><i class="ti ti-diamond"></i></span>
+          <div>
+            <h3>Average visit over $25? Spas, salons, fine dining, medical.</h3>
+            <p>Standard plans are engineered for high-frequency businesses with average visits under $25 — cafes, quick-serve, casual retail. If your average visit is $50 to $200+, we’ll calibrate a custom GOTYOU Demand Budget to your economics.</p>
+            <a href={customMail} class="link-arrow">Build a custom plan <i class="ti ti-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
+  </section>
+
+  <section class="section section--ink">
+    <div class="container guarantee reveal">
+      <div class="shield"><i class="ti ti-shield-check"></i></div>
+      <div>
+        <h2 class="h2">100% customer guarantee. <span class="hl-lime">Zero risk, no contracts.</span></h2>
+        <p class="lede">
+          Your plan guarantees a specific number of new customers every month, and every one of them is a first-time visitor — we never count the same person twice. If GOTYOU doesn’t deliver the promised count during your billing cycle, we keep running the campaign until we do, or we refund the undelivered portion.
+        </p>
+        <p class="lede">
+          Every GOTYOU demand plan is month-to-month. No annual commitments, no setup fees, no lock-in. Upgrade, downgrade, or cancel anytime right inside your merchant dashboard.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="container narrow">
+      <div class="section-head">
+        <span class="eyebrow">FAQ</span>
+        <h2 class="h2">Questions merchants ask</h2>
+      </div>
+      <div class="faq">
+        {faqs.map((f, i) => (
+          <details open={i === 0}>
+            <summary>{f.q}<i class="ti ti-plus"></i></summary>
+            <p set:html={f.a} />
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="final sky">
+    <div class="container final-inner reveal">
+      <h2 class="h2">Your next 100 customers are already nearby.</h2>
+      <p class="lede">Set up in minutes. Your first drop can run tomorrow at 11:23.</p>
+      <a href={BRAND.appUrl} class="btn btn--lime btn--lg">Get 100 customers / mo</a>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .hero-ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 28px;
+  }
+  .drop-explain {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 26px 34px;
+    box-shadow: var(--shadow-sm);
+    max-width: 920px;
+  }
+  .clock {
+    flex: none;
+    background: var(--grad-sky);
+    color: #fff;
+    border-radius: 24px;
+    padding: 14px 22px;
+    font-weight: 800;
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+  }
+  .clock span {
+    font-size: 40px;
+    letter-spacing: -0.02em;
+  }
+  .drop-explain p {
+    font-size: 17px;
+    color: var(--muted);
+  }
+  .drop-explain b {
+    color: var(--ink);
+  }
+  .ways {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .ways small {
+    display: block;
+    margin: 18px 0 4px;
+    font-weight: 600;
+    color: var(--blue);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 12.5px;
+  }
+  .ways h3 {
+    margin-bottom: 8px;
+  }
+  .ways p {
+    color: var(--muted);
+  }
+
+  .plans {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    align-items: stretch;
+  }
+  .plan {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 28px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: var(--shadow-sm);
+  }
+  .plan--hot {
+    background: var(--ink);
+    color: #fff;
+    border-color: var(--ink);
+    box-shadow: 0 24px 50px rgba(20, 24, 51, 0.3);
+    transform: translateY(-10px);
+  }
+  .tag {
+    align-self: flex-start;
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 5px 12px;
+    border-radius: 100px;
+    background: var(--blue-50);
+    color: var(--blue);
+  }
+  .plan--hot .tag {
+    background: var(--lime);
+    color: var(--ink);
+  }
+  .plan h3 {
+    font-size: 21px;
+    margin: 16px 0 6px;
+  }
+  .price {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .price b {
+    font-size: 46px;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+  }
+  .price span {
+    color: var(--muted);
+  }
+  .plan--hot .price span,
+  .plan--hot .blurb,
+  .plan--hot .fine {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .blurb {
+    color: var(--muted);
+    font-size: 15px;
+    margin: 8px 0 18px;
+    min-height: 3em;
+  }
+  .plan ul {
+    list-style: none;
+    display: grid;
+    gap: 10px;
+    font-size: 14.5px;
+    margin-bottom: 24px;
+    flex: 1;
+  }
+  .plan li {
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+  .plan li i {
+    color: var(--green);
+    font-size: 18px;
+    margin-top: 2px;
+  }
+  .plan--hot li i {
+    color: var(--lime);
+  }
+  .plan li.no {
+    color: var(--faint);
+  }
+  .plan li.no i {
+    color: var(--faint);
+  }
+  .fine {
+    display: block;
+    margin-top: 12px;
+    text-align: center;
+    font-size: 12.5px;
+    color: var(--muted);
+  }
+  .extras {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 40px;
+  }
+  .extra {
+    display: flex;
+    gap: 22px;
+    align-items: flex-start;
+  }
+  .extra img {
+    width: 120px;
+    flex: none;
+  }
+  .extra h3 {
+    font-size: 19px;
+    margin-bottom: 8px;
+  }
+  .extra p {
+    color: var(--muted);
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+
+  .guarantee {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 40px;
+    align-items: center;
+    max-width: 1000px;
+  }
+  .shield {
+    width: 140px;
+    height: 140px;
+    border-radius: 40px;
+    background: var(--lime);
+    color: var(--ink);
+    display: grid;
+    place-items: center;
+    font-size: 76px;
+  }
+  .guarantee .h2 {
+    margin-bottom: 16px;
+  }
+  .guarantee .lede + .lede {
+    margin-top: 12px;
+  }
+
+  .faq {
+    display: grid;
+    gap: 12px;
+  }
+  details {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 4px 24px;
+  }
+  details[open] {
+    background: var(--surface);
+    box-shadow: var(--shadow-sm);
+  }
+  summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 16px 0;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary i {
+    flex: none;
+    color: var(--blue);
+    transition: transform 0.2s;
+  }
+  details[open] summary i {
+    transform: rotate(45deg);
+  }
+  details p {
+    color: var(--muted);
+    padding-bottom: 18px;
+  }
+  details :global(a) {
+    color: var(--blue);
+    font-weight: 600;
+  }
+
+  .final {
+    padding: 88px 0;
+    text-align: center;
+  }
+  .final .lede {
+    color: rgba(255, 255, 255, 0.88);
+    margin: 12px 0 28px;
+  }
+
+  @media (max-width: 1100px) {
+    .plans {
+      grid-template-columns: 1fr 1fr;
+    }
+    .plan--hot {
+      transform: none;
+    }
+  }
+  @media (max-width: 800px) {
+    .ways,
+    .extras {
+      grid-template-columns: 1fr;
+    }
+    .guarantee {
+      grid-template-columns: 1fr;
+      gap: 24px;
+    }
+    .shield {
+      width: 96px;
+      height: 96px;
+      font-size: 52px;
+      border-radius: 28px;
+    }
+    .drop-explain {
+      flex-direction: column;
+      text-align: center;
+      padding: 24px;
+    }
+  }
+  @media (max-width: 560px) {
+    .plans {
+      grid-template-columns: 1fr;
+    }
+    .extra {
+      flex-direction: column;
+    }
+  }
+</style>

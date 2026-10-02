@@ -1,52 +1,183 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
-
-const TOTAL_PUBLISHED = 12;
+const [featured, ...rest] = posts;
+const tags = [...new Set(posts.map((p) => p.data.tag))].sort();
+const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 ---
 
-<BaseLayout title="Blog" description="Insights on local commerce, consumer behavior, and the future of community-driven business.">
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      The GOTYOU Blog
-    </div>
-    <h1>GOTYOU Blog</h1>
-  </div>
+<BaseLayout title="Blog" description="Notes from Main Street — local commerce, loyalty, and how GOTYOU helps local businesses win.">
+  <PageHero eyebrow="The GOTYOU blog" title="Notes from <em>Main Street.</em>" lede="Local commerce, customer loyalty, and the future of the neighborhood economy." />
 
-  <div class="section" style="padding-top: 0;">
-    <div class="section-inner">
-      <div class="blog-grid">
-        {
-          posts.map((post) => (
-            <a href={`/blog/${post.id}`} class="blog-card">
-              <div class="blog-img">
-                {post.data.heroImage ? <img src={post.data.heroImage} alt={post.data.title} /> : <i class="ti ti-article" />}
-                <span class="blog-tag">{post.data.tag}</span>
-              </div>
-              <div class="blog-body">
-                <h3>{post.data.title}</h3>
-                <p>{post.data.description}</p>
-                <div class="blog-meta">
-                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px"><circle cx="12" cy="8" r="4" /><path d="M4 21v-1a6 6 0 016-6h4a6 6 0 016 6v1" /></svg>
-                  {post.data.author} · {post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
-                </div>
-              </div>
-            </a>
-          ))
-        }
+  <section class="section">
+    <div class="container">
+      {featured && (
+        <a href={`/blog/${featured.id}`} class="featured card reveal">
+          <div class="f-img">{featured.data.heroImage && <img src={featured.data.heroImage} alt="" />}</div>
+          <div class="f-body">
+            <span class="chip">Latest · {featured.data.tag}</span>
+            <h2 class="h2">{featured.data.title}</h2>
+            <p>{featured.data.description}</p>
+            <span class="meta">{fmt(featured.data.pubDate)}</span>
+            <span class="link-arrow">Read article <i class="ti ti-arrow-right"></i></span>
+          </div>
+        </a>
+      )}
+
+      <div class="filters" role="group" aria-label="Filter by topic">
+        <button class="pill active" data-tag="">All</button>
+        {tags.map((t) => <button class="pill" data-tag={t}>{t}</button>)}
       </div>
-      {
-        posts.length < 6 && (
-          <p style="text-align:center; color: var(--text-dimmer); font-size: 13px; margin-top: 2rem;">
-            {posts.length} of {TOTAL_PUBLISHED} published posts shown — full archive on gotyou.co
-          </p>
-        )
-      }
+
+      <div class="grid">
+        {rest.map((p) => (
+          <a href={`/blog/${p.id}`} class="post card" data-tag={p.data.tag}>
+            <div class="p-img">{p.data.heroImage && <img src={p.data.heroImage} alt="" loading="lazy" decoding="async" />}</div>
+            <div class="p-body">
+              <span class="chip">{p.data.tag}</span>
+              <h3>{p.data.title}</h3>
+              <span class="meta">{fmt(p.data.pubDate)}</span>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
-  </div>
+  </section>
 </BaseLayout>
+
+<script>
+  const pills = document.querySelectorAll<HTMLButtonElement>('.filters .pill');
+  const posts = document.querySelectorAll<HTMLElement>('.grid .post');
+  pills.forEach((pill) =>
+    pill.addEventListener('click', () => {
+      pills.forEach((p) => p.classList.toggle('active', p === pill));
+      const tag = pill.dataset.tag;
+      posts.forEach((post) => (post.hidden = !!tag && post.dataset.tag !== tag));
+    }),
+  );
+</script>
+
+<style>
+  .featured {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    overflow: hidden;
+    margin-bottom: 48px;
+    transition: box-shadow 0.2s;
+  }
+  .featured:hover {
+    box-shadow: var(--shadow);
+  }
+  .f-img {
+    background: var(--grad-sky);
+    min-height: 340px;
+  }
+  .f-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .f-body {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+    justify-content: center;
+  }
+  .f-body .h2 {
+    font-size: clamp(26px, 2.8vw, 36px);
+  }
+  .f-body p {
+    color: var(--muted);
+  }
+  .meta {
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 28px;
+  }
+  .pill {
+    padding: 9px 18px;
+    border-radius: 100px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    font: 500 14.5px var(--font);
+    cursor: pointer;
+    color: var(--text);
+  }
+  .pill.active {
+    background: var(--blue);
+    border-color: var(--blue);
+    color: #fff;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .post {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .post[hidden] {
+    display: none;
+  }
+  .post:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow);
+  }
+  .p-img {
+    aspect-ratio: 16 / 9;
+    background: linear-gradient(135deg, #e3effc, #c9def6);
+  }
+  .p-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .p-body {
+    padding: 20px 22px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    flex: 1;
+  }
+  .p-body h3 {
+    font-size: 18.5px;
+    line-height: 1.3;
+    flex: 1;
+  }
+  @media (max-width: 960px) {
+    .featured {
+      grid-template-columns: 1fr;
+    }
+    .f-img {
+      min-height: 0;
+      aspect-ratio: 16 / 9;
+    }
+    .f-body {
+      padding: 26px 24px 30px;
+    }
+    .grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (max-width: 600px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

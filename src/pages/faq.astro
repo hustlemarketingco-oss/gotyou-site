@@ -1,66 +1,201 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import { BRAND } from '../lib/constants';
 
-// NOTE: This page states a $0.10 per-token cash value, while /pricing lists
-// the merchant-side "Reward Token Price" as $0.20. That mismatch exists on
-// the live gotyou.co site too (consumer redemption price vs. merchant token
-// cost) — preserved verbatim here per client request rather than reconciled,
-// since resolving it requires a decision from the client, not a copy fix.
+const hello = `<a href="mailto:${BRAND.helloEmail}">${BRAND.helloEmail}</a>`;
+// Copied from gotyou.co/faq-mobile, grouped by topic.
+const groups = [
+  {
+    title: 'About GOTYOU',
+    icon: 'ti-sparkles',
+    items: [
+      ['What is GOTYOU?', 'GOTYOU is a free membership digital rewards app that lets you connect with local businesses that will pay you for providing feedback, completing surveys, or making referrals. These businesses also provide exclusive perks to GOTYOU members.'],
+      ['How does it work?', 'Companies shift a portion of their marketing funds, usually spent on platforms such as Google or Meta, to instead directly compensate you for providing feedback and spreading the word about their business.'],
+      ['What types of businesses are on GOTYOU?', 'We partnered with top restaurants, retail shops, and other services in your community. Open the GOTYOU app, check in, and start earning today.'],
+      ['Why use GOTYOU?', 'It is the only social media app where you can earn status, perks, and points that have real cash value. Earn anywhere and spend anywhere. It is also the only social membership app where you own and control your own data.'],
+      ['Where can I earn?', `GOTYOU is now active in more than 30 high-density zones across a dozen states, including Arizona, California, Florida, Georgia, Kentucky, Louisiana, North Carolina, South Carolina, Tennessee, Texas, Utah, and Virginia — with around 2,000 business locations on the app. <a href="/where-gotyou-works">See every zone.</a> If you’d like to see GOTYOU in your community, email us at ${hello}.`],
+      ['Can I use GOTYOU with other loyalty apps?', 'Yes — you can use the brand’s loyalty app and also use GOTYOU. This allows you to double dip on your favorite local hot spots.'],
+    ],
+  },
+  {
+    title: 'Earning & rewards',
+    icon: 'ti-coins',
+    items: [
+      ['How do I earn?', 'Visit any retail shop or restaurant partnered with GOTYOU and you will receive tokens every time you interact with them through the app — check-ins, feedback, or referrals. You can get paid up to 10 tokens for any single action. There is never a cost to use GOTYOU.'],
+      ['How much are tokens worth?', 'Tokens are different than loyalty points: each one has a cash value and they never expire. You can redeem them at any time for a gift card, Visa, or Venmo.'],
+      ['Is there a cap on how much I can earn?', 'There is never a cap on how much you can earn. The more you participate and promote local businesses in your community, the more you can earn. You can also earn by referring other users and merchants to the platform.'],
+      ['Are they different than reward points?', 'Yes. Each reward earned has a cash value and will not expire. Most reward points are only good at a single merchant, you do not own them, and they normally do not have any cash value.'],
+      ['How do I redeem my tokens for cash?', 'In the app, go to your Wallet and select the Redeem button. Currently, Venmo is the main option for redeeming your tokens. We will soon be adding the ability to redeem them for spendable vouchers at local merchants.'],
+      ['What is the digital wallet?', 'There is an in-app digital wallet that holds the tokens you have earned. The wallet also stores all of the businesses you are connected to.'],
+      ['Can I refer a business to GOTYOU?', `Absolutely! If you bring a merchant onboard with GOTYOU and they sign up for our platform, you’ll receive a healthy commission on every new account. Suggest a business at ${hello}.`],
+      ['What new features are coming?', 'More earning methods, perks, and status upgrades are coming every few weeks. Surveys, offers, and social posts are next on our plate.'],
+    ],
+  },
+  {
+    title: 'Privacy & data',
+    icon: 'ti-lock',
+    items: [
+      ['Is my data secure?', 'Our mobile app prioritizes data security by employing advanced encryption protocols to safeguard all user information. We continuously monitor and update our security measures to protect against unauthorized access and ensure that user data remains confidential and secure.'],
+      ['Who sees my data?', 'Your data isn’t shared with anyone. Merchants see only your username — your email and phone number remain private. Survey information you choose to share becomes merchant-owned first-party data.'],
+    ],
+  },
+  {
+    title: 'Community',
+    icon: 'ti-heart-handshake',
+    items: [
+      ['Does GOTYOU give back?', 'We will give 10% of our revenue to local charities in the communities where we operate each year. Users will also be able to give their tokens to those same charities.'],
+    ],
+  },
+];
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: groups.flatMap((g) => g.items.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } }))),
+};
 ---
 
-<BaseLayout title="FAQ" description="Frequently asked questions about GOTYOU, $GET tokens, and how to earn rewards at local businesses.">
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      Help Center
-    </div>
-    <h1>Frequently Asked Questions</h1>
-    <p class="lede">If you have additional questions please contact us.</p>
-  </div>
+<BaseLayout title="FAQ" description="Answers to common questions about the GOTYOU app: how earning works, redeeming rewards, privacy, and where GOTYOU is live.">
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+  <PageHero eyebrow="Help center" title="Frequently asked <em>questions</em>" lede="Everything you need to know about earning with GOTYOU. Still stuck? We’re one email away." />
 
-  <div class="section" style="padding-top: 0;">
-    <div class="content-narrow" style="max-width: 760px;">
-      <div class="faq-grid">
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>What is GOTYOU</h4>
-          <p>GOTYOU is a free membership digital rewards app that lets you connect with local businesses that will pay you for providing feedback, completing surveys, or making referrals. These businesses also provide exclusive perks to GOTYOU members.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>How do I earn GET Tokens</h4>
-          <p>Visit any retail shop or restaurant partnered with GOTYOU and you will receive GET tokens every time you interact with them through the app. There is never a cost to use GOTYOU.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>How much are tokens worth?</h4>
-          <p>GET tokens are different than loyalty points, and each token has a cash value of $0.10. They never expire. You can redeem them at any time for a Gift Card, Visa, or Venmo.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>Redeem Your Tokens for Cash</h4>
-          <p>In the app, go to your Wallet, then select the Redeem button. Currently, Venmo is the main option for redeeming your tokens. We will soon be adding spendable vouchers at local merchants.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>Is there a cap on how much I can earn?</h4>
-          <p>There is never a cap on how much you can earn. The more you participate and promote local businesses in your community the more you can earn — including by referring other users and merchants.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>Can I refer a business to GOTYOU?</h4>
-          <p>Absolutely! If you bring a merchant onboard with GOTYOU and they sign up for our platform, you'll receive a healthy commission on every new account.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>Where can I earn tokens?</h4>
-          <p>GOTYOU is now active in more than 30 high-density zones across a dozen states, including Arizona, California, Florida, Georgia, Kentucky, Louisiana, North Carolina, South Carolina, Tennessee, Texas, Utah, and Virginia.</p>
-        </div>
-
-        <div class="faq-item">
-          <h4><span class="q-dot"></span>Your Data</h4>
-          <p>Completely secure. GOTYOU, a web3 platform, ensures trust and transparency. Your data isn't shared with anyone. Merchants see only your username — your email and phone number remain private.</p>
-        </div>
+  <section class="section">
+    <div class="container faq-layout">
+      <nav class="toc" aria-label="FAQ topics">
+        {groups.map((g) => <a href={`#${g.title.toLowerCase().replace(/[^a-z]+/g, '-')}`}><i class:list={['ti', g.icon]}></i>{g.title}</a>)}
+        <a href={`mailto:${BRAND.supportEmail}`} class="mail"><i class="ti ti-mail"></i>{BRAND.supportEmail}</a>
+      </nav>
+      <div class="groups">
+        {groups.map((g) => (
+          <section id={g.title.toLowerCase().replace(/[^a-z]+/g, '-')} class="group">
+            <h2><span class="icon-circle"><i class:list={['ti', g.icon]}></i></span>{g.title}</h2>
+            {g.items.map(([q, a]) => (
+              <details>
+                <summary>{q}<i class="ti ti-plus"></i></summary>
+                <p set:html={a} />
+              </details>
+            ))}
+          </section>
+        ))}
       </div>
     </div>
-  </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .faq-layout {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 48px;
+    align-items: start;
+  }
+  .toc {
+    position: sticky;
+    top: 100px;
+    display: grid;
+    gap: 6px;
+  }
+  .toc a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 16px;
+    border-radius: 16px;
+    font-weight: 500;
+    color: #39415e;
+  }
+  .toc a:hover {
+    background: var(--surface);
+    color: var(--blue);
+  }
+  .toc i {
+    color: var(--blue);
+    font-size: 20px;
+  }
+  .toc .mail {
+    margin-top: 12px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    font-size: 14px;
+  }
+  .groups {
+    display: grid;
+    gap: 48px;
+  }
+  .group {
+    scroll-margin-top: 100px;
+  }
+  .group h2 {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 26px;
+    margin-bottom: 18px;
+  }
+  .group h2 .icon-circle {
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+  }
+  details {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 2px 24px;
+    margin-bottom: 10px;
+  }
+  details[open] {
+    box-shadow: var(--shadow-sm);
+    border-color: var(--blue-100);
+  }
+  summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 16px 0;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary i {
+    flex: none;
+    color: var(--blue);
+    transition: transform 0.2s;
+  }
+  details[open] summary i {
+    transform: rotate(45deg);
+  }
+  details p {
+    color: var(--muted);
+    padding-bottom: 18px;
+  }
+  details :global(a) {
+    color: var(--blue);
+    font-weight: 600;
+  }
+  @media (max-width: 860px) {
+    .faq-layout {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+    .toc {
+      position: static;
+      display: flex;
+      overflow-x: auto;
+      gap: 8px;
+      padding-bottom: 4px;
+    }
+    .toc a {
+      flex: none;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      padding: 10px 14px;
+    }
+  }
+</style>

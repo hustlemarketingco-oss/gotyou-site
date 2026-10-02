@@ -1,0 +1,163 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { ZONES, BRAND } from '../lib/constants';
+
+const cityCount = ZONES.reduce((n, z) => n + z.cities.length, 0);
+---
+
+<BaseLayout title="Where GOTYOU works" description="GOTYOU runs in zones near major universities across 12 states. See where you can earn with local merchants and when 11:23 Daily Drops go live.">
+  <PageHero
+    eyebrow="Where GOTYOU works"
+    title="Live near you — <em>and growing.</em>"
+    lede="GOTYOU runs in zones near major universities. In these cities you can earn GET tokens with local merchants. 11:23 Daily Drops are live in St George and rolling out across all other zones in 2026."
+  />
+
+  <section class="section">
+    <div class="container">
+      <div class="legend reveal">
+        <span><i class="dot dot--get"></i>Earning live in all {cityCount} cities</span>
+        <span><i class="dot dot--live"></i>11:23 Daily Drops live</span>
+        <span><i class="dot dot--soon"></i>Daily Drops coming soon</span>
+      </div>
+      <div class="states">
+        {ZONES.map((z) => (
+          <article class="state card reveal">
+            <h2>{z.state}</h2>
+            <ul>
+              {z.cities.map(([city, drops]) => (
+                <li>
+                  <span class="city"><i class="ti ti-map-pin-filled"></i>{city}</span>
+                  <span class:list={['status', drops === 'Live' ? 'status--live' : 'status--soon']}>
+                    {drops === 'Live' ? 'Drops live' : `Drops ${drops}`}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        ))}
+      </div>
+
+      <div class="how card card--pad reveal">
+        <h2 class="h3">How it works</h2>
+        <div class="how-grid">
+          <p><i class="ti ti-coins"></i>In every GOTYOU zone you earn GET tokens when you check in, leave feedback, or engage with local merchants.</p>
+          <p><i class="ti ti-flame"></i>11:23 Daily Drops send one strong offer at 11:23 in the morning that you can claim and redeem nearby.</p>
+          <p><i class="ti ti-rocket"></i>Drops are live in St George and will roll into all other zones through 2026.</p>
+        </div>
+        <p class="ask">Want GOTYOU in your community? <a href={`mailto:${BRAND.helloEmail}?subject=Bring%20GOTYOU%20to%20my%20city`} class="link-arrow">Email {BRAND.helloEmail} <i class="ti ti-arrow-right"></i></a></p>
+      </div>
+    </div>
+  </section>
+
+  <CtaBand />
+</BaseLayout>
+
+<style>
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 28px;
+    margin-bottom: 36px;
+    font-weight: 500;
+    color: var(--muted);
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+  }
+  .dot--get {
+    background: var(--blue);
+  }
+  .dot--live {
+    background: var(--lime);
+    box-shadow: 0 0 0 3px rgba(20, 24, 51, 0.12);
+  }
+  .dot--soon {
+    background: #c9d6ea;
+  }
+  .states {
+    columns: 3 300px;
+    column-gap: 20px;
+  }
+  .state {
+    break-inside: avoid;
+    margin-bottom: 20px;
+    padding: 22px 24px;
+  }
+  .state h2 {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .state ul {
+    list-style: none;
+  }
+  .state li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+    border-top: 1px solid var(--line);
+  }
+  .city {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+  }
+  .city i {
+    color: var(--blue);
+  }
+  .status {
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 100px;
+    white-space: nowrap;
+  }
+  .status--live {
+    background: var(--lime);
+    color: var(--ink);
+  }
+  .status--soon {
+    background: var(--blue-50);
+    color: var(--blue);
+  }
+  .how {
+    margin-top: 28px;
+  }
+  .how-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin: 18px 0 22px;
+  }
+  .how-grid p {
+    color: var(--muted);
+  }
+  .how-grid i {
+    display: block;
+    font-size: 28px;
+    color: var(--blue);
+    margin-bottom: 8px;
+  }
+  .ask {
+    font-weight: 500;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+  }
+  @media (max-width: 760px) {
+    .how-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

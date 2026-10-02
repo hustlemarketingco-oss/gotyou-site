@@ -1,40 +1,186 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import CtaBand from '../../components/CtaBand.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog', ({ data }) => !data.draft);
-  return posts.map((post) => ({
+  const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+  );
+  return posts.map((post, i) => ({
     params: { slug: post.id },
-    props: { post },
+    props: { post, related: posts.filter((p) => p.id !== post.id && p.data.tag === post.data.tag).slice(0, 3), newer: posts[i - 1], older: posts[i + 1] },
   }));
 }
 
-const { post } = Astro.props;
+const { post, related } = Astro.props;
 const { Content } = await render(post);
 
-const wordCount = post.body?.split(/\s+/).filter(Boolean).length ?? 0;
-const readMinutes = Math.max(1, Math.round(wordCount / 200));
+const text = (post.body ?? '').replace(/<[^>]+>/g, ' ');
+const readMinutes = Math.max(1, Math.round(text.split(/\s+/).filter(Boolean).length / 220));
+const date = post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  author: { '@type': 'Person', name: post.data.author },
+  publisher: { '@type': 'Organization', name: 'GOTYOU', logo: { '@type': 'ImageObject', url: new URL('/images/brand/gotyou-logo-blue.png', Astro.site ?? Astro.url).href } },
+  ...(post.data.heroImage && { image: new URL(post.data.heroImage, Astro.site ?? Astro.url).href }),
+};
 ---
 
-<BaseLayout title={post.data.title} description={post.data.description}>
-  <div class="page-hero">
-    <div class="eyebrow" style="justify-content: center;">
-      <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-      {post.data.tag}
-    </div>
-    <h1>{post.data.title}</h1>
-    <p class="lede">{post.data.description}</p>
-    <div class="byline">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:-2px"><circle cx="12" cy="8" r="4" /><path d="M4 21v-1a6 6 0 016-6h4a6 6 0 016 6v1" /></svg>
-      {post.data.author}&nbsp;·&nbsp;{post.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}&nbsp;·&nbsp;{readMinutes} min read
-    </div>
-  </div>
+<BaseLayout title={post.data.title} description={post.data.description} ogImage={post.data.heroImage}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
-  <div class="section" style="padding-top: 0;">
-    <article class="content-narrow">
-      {post.data.heroImage && <img src={post.data.heroImage} alt={post.data.title} />}
-      <Content />
-    </article>
-  </div>
+  <article>
+    <header class="head">
+      <div class="container narrow">
+        <a href="/blog" class="back"><i class="ti ti-arrow-left"></i>All articles</a>
+        <span class="chip">{post.data.tag}</span>
+        <h1>{post.data.title}</h1>
+        <div class="byline">
+          <span class="avatar"><img src="/images/site/mascot-explorer.jpg" alt="" /></span>
+          <span><b>{post.data.author}</b>{date} · {readMinutes} min read</span>
+        </div>
+      </div>
+    </header>
+
+    {post.data.heroImage && (
+      <div class="container hero-img">
+        <img src={post.data.heroImage} alt="" />
+      </div>
+    )}
+
+    <div class="container narrow">
+      <div class="prose">
+        <Content />
+      </div>
+    </div>
+  </article>
+
+  {related.length > 0 && (
+    <section class="section related">
+      <div class="container">
+        <h2 class="h3">More on {post.data.tag}</h2>
+        <div class="rel-grid">
+          {related.map((p) => (
+            <a href={`/blog/${p.id}`} class="card rel">
+              <div class="r-img">{p.data.heroImage && <img src={p.data.heroImage} alt="" loading="lazy" />}</div>
+              <h3>{p.data.title}</h3>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <CtaBand />
 </BaseLayout>
+
+<style>
+  .head {
+    padding: 56px 0 36px;
+  }
+  .back {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-bottom: 26px;
+    font-size: 15px;
+  }
+  .back:hover {
+    color: var(--blue);
+  }
+  .head .chip {
+    display: table;
+    margin-bottom: 16px;
+  }
+  .head h1 {
+    font-size: clamp(32px, 4.6vw, 52px);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+  }
+  .byline {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 26px;
+    font-size: 14.5px;
+    color: var(--muted);
+  }
+  .byline b {
+    display: block;
+    color: var(--ink);
+  }
+  .avatar {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    flex: none;
+  }
+  .avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .hero-img img {
+    width: 100%;
+    max-height: 560px;
+    object-fit: cover;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    margin-bottom: 48px;
+  }
+  .prose {
+    padding-bottom: 72px;
+  }
+  .related {
+    background: var(--surface);
+    padding: 64px 0;
+  }
+  .related .h3 {
+    margin-bottom: 22px;
+  }
+  .rel-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .rel {
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .rel:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+  }
+  .r-img {
+    aspect-ratio: 16 / 9;
+    background: linear-gradient(135deg, #e3effc, #c9def6);
+  }
+  .r-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .rel h3 {
+    font-size: 17px;
+    line-height: 1.35;
+    padding: 16px 18px 20px;
+  }
+  @media (max-width: 760px) {
+    .rel-grid {
+      grid-template-columns: 1fr;
+    }
+    .prose {
+      font-size: 17px;
+    }
+  }
+</style>

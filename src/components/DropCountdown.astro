@@ -1,0 +1,63 @@
+---
+// Live countdown to the next 11:23 AM Daily Drop in the visitor's own time zone, styled like the
+// timer on the app's Drop screen. Renders a sensible static value without JavaScript.
+interface Props {
+  dark?: boolean;
+}
+const { dark = false } = Astro.props;
+---
+
+<div class:list={['countdown', dark && 'countdown--dark']} data-drop-countdown aria-live="off">
+  <span class="unit"><b data-h>--</b></span>
+  <span class="colon">:</span>
+  <span class="unit"><b data-m>--</b></span>
+  <span class="colon">:</span>
+  <span class="unit"><b data-s>--</b></span>
+</div>
+
+<script>
+  const pad = (n: number) => String(n).padStart(2, '0');
+  function tick() {
+    const now = new Date();
+    const next = new Date(now);
+    next.setHours(11, 23, 0, 0);
+    if (next <= now) next.setDate(next.getDate() + 1);
+    const s = Math.floor((next.getTime() - now.getTime()) / 1000);
+    document.querySelectorAll<HTMLElement>('[data-drop-countdown]').forEach((el) => {
+      el.querySelector('[data-h]')!.textContent = pad(Math.floor(s / 3600));
+      el.querySelector('[data-m]')!.textContent = pad(Math.floor((s % 3600) / 60));
+      el.querySelector('[data-s]')!.textContent = pad(s % 60);
+    });
+  }
+  tick();
+  setInterval(tick, 1000);
+</script>
+
+<style>
+  .countdown {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #fff;
+    color: var(--blue);
+    padding: 14px 26px;
+    border-radius: 22px;
+    box-shadow: 0 16px 36px rgba(10, 40, 100, 0.22);
+    font-weight: 800;
+    font-size: clamp(34px, 5vw, 52px);
+    letter-spacing: -0.02em;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+  }
+  .countdown--dark {
+    background: var(--ink-2);
+    color: #fff;
+  }
+  .unit b {
+    font-weight: 800;
+  }
+  .colon {
+    opacity: 0.85;
+    transform: translateY(-3px);
+  }
+</style>

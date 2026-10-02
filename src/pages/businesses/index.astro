@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
 import { sizedPhoto } from '../../lib/business';
+import Skyline from '../../components/Skyline.astro';
 
 const allBusinesses = (await getCollection('businesses')).filter((b) => !b.data.temporarilyClosed);
 
@@ -31,10 +32,7 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
 >
   <section class="dir-hero">
     <div class="dir-hero-inner">
-      <div class="eyebrow" style="justify-content: center;">
-        <span class="token-trail"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
-        Your city. One drop a day.
-      </div>
+      <span class="eyebrow eyebrow--pill"><span class="dot"></span>Your city. One drop a day.</span>
       <h1>Find the local spots <span class="hl">worth showing up for</span></h1>
       <p class="lede">
         Hours, ratings and directions for the businesses near you — and the ones on GOTYOU pay you real cash for the visit.
@@ -55,6 +53,7 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
         <a href="#claim-cta">Own a business? <u>Claim it free</u></a>
       </div>
     </div>
+    <Skyline fill="var(--bg)" />
   </section>
 
   <div class="theme-light">
@@ -80,28 +79,31 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
   .dir-hero {
     position: relative;
     overflow: hidden;
-    padding: 84px 1.5rem 56px;
+    padding: 72px 0 0;
     text-align: center;
-    background:
-      radial-gradient(900px 420px at 50% -10%, rgba(21, 101, 216, 0.35), transparent 70%),
-      radial-gradient(600px 300px at 85% 110%, rgba(245, 197, 24, 0.12), transparent 70%),
-      var(--navy);
+    color: #fff;
+    background: var(--grad-sky);
+  }
+  .dir-hero-inner {
+    padding: 0 1.5rem;
   }
   .dir-hero-inner {
     max-width: 780px;
     margin: 0 auto;
   }
   .dir-hero h1 {
-    font-size: clamp(32px, 5vw, 54px);
-    line-height: 1.08;
-    letter-spacing: -0.02em;
-    margin-bottom: 18px;
+    font-size: clamp(34px, 5.2vw, 58px);
+    font-weight: 800;
+    line-height: 1.06;
+    letter-spacing: -0.03em;
+    margin: 6px 0 18px;
+    text-shadow: 0 2px 24px rgba(10, 40, 110, 0.18);
   }
   .hl {
     color: var(--yellow);
   }
   .lede {
-    color: var(--text-dim);
+    color: rgba(255, 255, 255, 0.9);
     font-size: 17px;
     max-width: 600px;
     margin: 0 auto 32px;
@@ -112,7 +114,7 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
     background: #fff;
     border-radius: 100px;
     padding: 6px 6px 6px 22px;
-    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 18px 50px rgba(10, 40, 110, 0.3);
     max-width: 640px;
     margin: 0 auto;
   }
@@ -148,7 +150,7 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
     align-items: center;
     gap: 10px 16px;
     margin-top: 26px;
-    color: var(--text-dim);
+    color: rgba(255, 255, 255, 0.88);
     font-size: 14px;
   }
   .hero-stats strong {
@@ -161,12 +163,12 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
     width: 4px;
     height: 4px;
     border-radius: 50%;
-    background: var(--text-dimmer);
+    background: rgba(255, 255, 255, 0.6);
   }
 
   .claim-band {
-    background: var(--navy);
-    padding: 72px 1.5rem;
+    background: var(--bg);
+    padding: 24px 1.5rem 96px;
   }
   .claim-band-inner {
     max-width: 1200px;
@@ -175,8 +177,9 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
     grid-template-columns: 1.4fr 1fr;
     gap: 2.5rem;
     align-items: center;
-    background: linear-gradient(135deg, #1565d8, #0a3d9e);
-    border-radius: 24px;
+    background: var(--ink);
+    color: #fff;
+    border-radius: var(--radius-lg);
     padding: 3rem;
   }
   .claim-band .section-eyebrow {
@@ -207,7 +210,10 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
   }
   @media (max-width: 520px) {
     .dir-hero {
-      padding: 56px 16px 40px;
+      padding: 48px 0 0;
+    }
+    .dir-hero-inner {
+      padding: 0 16px;
     }
     .search {
       flex-wrap: wrap;

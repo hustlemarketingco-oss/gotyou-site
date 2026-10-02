@@ -2,190 +2,187 @@
 import { NAV_LINKS, BRAND } from '../lib/constants';
 
 const currentPath = Astro.url.pathname;
-
-function isActive(href: string) {
-  if (href === '/') return currentPath === '/';
-  return currentPath.startsWith(href);
-}
+const isActive = (href: string) => (href === '/' ? currentPath === '/' : !href.includes('#') && currentPath.startsWith(href));
 ---
 
-<nav>
-  <a href="/" class="logo-wrap" aria-label={`${BRAND.name} home`}>
-    <img src="/images/got-you-logo.png" alt={`${BRAND.name} logo`} />
-  </a>
+<header class="site-nav">
+  <nav class="container bar" aria-label="Main">
+    <a href="/" class="logo" aria-label={`${BRAND.name} home`}>
+      <img src="/images/brand/gotyou-logo-blue.png" alt={BRAND.name} width="62" height="40" />
+    </a>
 
-  <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Open menu">
-    <span class="nav-toggle-bar"></span>
-    <span class="nav-toggle-bar"></span>
-    <span class="nav-toggle-bar"></span>
-  </button>
+    <div class="links" id="nav-menu">
+      {NAV_LINKS.map((l) => <a href={l.href} class:list={[isActive(l.href) && 'active']}>{l.label}</a>)}
+      <div class="menu-actions">
+        <a href={BRAND.appUrl} class="login">Merchant login</a>
+        <a href="/download" class="btn btn--primary get">Get the app</a>
+      </div>
+    </div>
 
-  <div class="nav-links" id="nav-menu">
-    {
-      NAV_LINKS.map((link) => (
-        <a href={link.href} class={isActive(link.href) ? 'active' : ''}>
-          {link.label}
-        </a>
-      ))
-    }
-    <a href="/businesses" class="nav-new">Businesses <span class="new-tag">new</span></a>
-    <a href={BRAND.appUrl} class="nav-cta">Merchant Login</a>
-  </div>
-</nav>
+    <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+</header>
+
+<script>
+  const header = document.querySelector<HTMLElement>('.site-nav');
+  const toggle = document.querySelector<HTMLButtonElement>('.nav-toggle');
+  const menu = document.getElementById('nav-menu');
+
+  function setOpen(open: boolean) {
+    menu?.classList.toggle('open', open);
+    header?.classList.toggle('menu-open', open);
+    toggle?.setAttribute('aria-expanded', String(open));
+    toggle?.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    document.body.style.overflow = open ? 'hidden' : '';
+  }
+  toggle?.addEventListener('click', () => setOpen(!menu?.classList.contains('open')));
+  menu?.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setOpen(false)));
+  document.addEventListener('keydown', (e) => e.key === 'Escape' && setOpen(false));
+
+  const onScroll = () => header?.classList.toggle('scrolled', window.scrollY > 8);
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+</script>
 
 <style>
-  nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 18px 4rem;
+  .site-nav {
     position: sticky;
     top: 0;
-    background: rgba(11, 16, 41, 0.85);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
     z-index: 200;
+    background: rgba(255, 255, 255, 0.86);
+    backdrop-filter: saturate(1.4) blur(14px);
+    -webkit-backdrop-filter: saturate(1.4) blur(14px);
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s, box-shadow 0.2s;
   }
-
-  /* Logo PNG ships with an opaque white background (no alpha), so the chip
-     just rounds its corners rather than floating a raw white rectangle on
-     the dark nav. */
-  .logo-wrap {
-    display: inline-flex;
-    align-items: center;
-    background: #fff;
-    border-radius: 8px;
-    padding: 5px 10px;
+  .site-nav.scrolled {
+    border-bottom-color: var(--line);
+    box-shadow: 0 6px 24px rgba(20, 24, 51, 0.06);
   }
-  .logo-wrap img {
-    height: 32px;
-    width: auto;
-    display: block;
-  }
-
-  .nav-links {
+  .bar {
+    height: 74px;
     display: flex;
-    gap: 2.2rem;
     align-items: center;
+    gap: 28px;
   }
-  .nav-links a {
-    font-family: var(--font-display);
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--text-dim);
-    transition: color 0.2s;
+  .logo img {
+    height: 40px;
+    width: auto;
   }
-  .nav-links a:hover,
-  .nav-links a.active {
-    color: #fff;
-  }
-  .nav-new {
+  .links {
+    flex: 1;
     display: flex;
     align-items: center;
     gap: 6px;
   }
-  .nav-cta {
-    background: var(--yellow);
-    color: #0b1029 !important;
-    padding: 10px 22px;
+  .links > a {
+    padding: 9px 14px;
     border-radius: 100px;
-    font-weight: 700 !important;
+    font-size: 15px;
+    font-weight: 500;
+    color: #39415e;
+    transition: background 0.15s, color 0.15s;
   }
-  .nav-cta:hover {
-    background: var(--yellow-2);
+  .links > a:hover {
+    background: var(--blue-50);
+    color: var(--blue);
+  }
+  .links > a.active {
+    color: var(--blue);
+    font-weight: 600;
+  }
+  .menu-actions {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+  }
+  .login {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .login:hover {
+    color: var(--blue);
+  }
+  .get {
+    padding: 11px 22px;
+    font-size: 15px;
+    box-shadow: none;
   }
 
   .nav-toggle {
     display: none;
+    margin-left: auto;
+    width: 46px;
+    height: 46px;
+    border-radius: 14px;
+    border: 1px solid var(--line);
+    background: #fff;
+    cursor: pointer;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
     gap: 5px;
-    width: 40px;
-    height: 40px;
-    padding: 8px;
-    background: transparent;
-    border: none;
-    cursor: pointer;
   }
-  .nav-toggle-bar {
-    display: block;
-    width: 100%;
+  .nav-toggle span {
+    width: 20px;
     height: 2px;
-    background: #fff;
     border-radius: 2px;
-    transition: transform 0.2s ease, opacity 0.2s ease;
+    background: var(--ink);
+    transition: transform 0.2s, opacity 0.2s;
   }
-  .nav-toggle[aria-expanded='true'] .nav-toggle-bar:nth-child(1) {
+  .menu-open .nav-toggle span:nth-child(1) {
     transform: translateY(7px) rotate(45deg);
   }
-  .nav-toggle[aria-expanded='true'] .nav-toggle-bar:nth-child(2) {
+  .menu-open .nav-toggle span:nth-child(2) {
     opacity: 0;
   }
-  .nav-toggle[aria-expanded='true'] .nav-toggle-bar:nth-child(3) {
+  .menu-open .nav-toggle span:nth-child(3) {
     transform: translateY(-7px) rotate(-45deg);
   }
 
-  @media (max-width: 860px) {
-    nav {
-      padding: 16px 1.5rem;
-    }
+  @media (max-width: 960px) {
     .nav-toggle {
       display: flex;
     }
-
-    .nav-links {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      right: 0;
+    .links {
+      position: fixed;
+      inset: 74px 0 0 0;
+      background: #fff;
       flex-direction: column;
       align-items: stretch;
-      gap: 0;
-      background: #0b1029;
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.25s ease;
-      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3);
-    }
-    .nav-links.open {
-      max-height: calc(100vh - 66px);
+      gap: 2px;
+      padding: 18px 16px 32px;
+      transform: translateY(-8px);
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.2s, transform 0.2s, visibility 0.2s;
       overflow-y: auto;
-      padding: 0.5rem 0 1.25rem;
     }
-    .nav-links a {
-      padding: 0.85rem 2.5rem;
+    .links.open {
+      opacity: 1;
+      transform: none;
+      visibility: visible;
     }
-    .nav-links a.nav-cta,
-    .nav-links a.nav-new {
-      margin: 0.5rem 2.5rem 0;
+    .links > a {
+      font-size: 20px;
+      font-weight: 600;
+      padding: 14px 12px;
+      border-radius: 14px;
     }
-    .nav-links a.nav-cta {
+    .menu-actions {
+      margin: 18px 0 0;
+      flex-direction: column-reverse;
+      align-items: stretch;
+      gap: 14px;
       text-align: center;
+    }
+    .get {
+      padding: 16px;
+      font-size: 17px;
     }
   }
 </style>
-
-<script>
-  const toggle = document.querySelector<HTMLButtonElement>('.nav-toggle');
-  const menu = document.getElementById('nav-menu');
-
-  function closeMenu() {
-    menu?.classList.remove('open');
-    toggle?.setAttribute('aria-expanded', 'false');
-    toggle?.setAttribute('aria-label', 'Open menu');
-  }
-
-  toggle?.addEventListener('click', () => {
-    const isOpen = menu?.classList.toggle('open') ?? false;
-    toggle.setAttribute('aria-expanded', String(isOpen));
-    toggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
-  });
-
-  menu?.querySelectorAll('a').forEach((link) => {
-    link.addEventListener('click', closeMenu);
-  });
-
-  document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') closeMenu();
-  });
-</script>

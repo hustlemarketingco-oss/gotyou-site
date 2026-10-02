@@ -1,0 +1,50 @@
+---
+// The city-skyline silhouette from the GOTYOU app (Drop + Wallet screens): a back row of towers
+// and a front row of houses, trees and lamp posts. `fill` is the colour of the section that
+// follows, so the skyline reads as the ground line between two bands.
+interface Props {
+  fill?: string;
+  back?: string;
+  class?: string;
+}
+const { fill = 'var(--bg)', back = 'rgba(255,255,255,0.28)', class: cls } = Astro.props;
+
+// Back row: towers of varying width/height across 1440 units.
+const towers = [
+  [0, 70, 60], [64, 110, 40], [108, 84, 70], [182, 130, 46], [232, 96, 64], [300, 150, 38], [342, 108, 74],
+  [420, 76, 52], [476, 136, 44], [524, 92, 80], [608, 160, 50], [662, 112, 66], [732, 82, 48], [784, 142, 56],
+  [844, 100, 72], [920, 128, 42], [966, 88, 68], [1038, 152, 48], [1090, 104, 70], [1164, 80, 54], [1222, 134, 46],
+  [1272, 96, 72], [1348, 120, 44], [1396, 86, 44],
+];
+// Front row: houses (x, width, wall height) with pitched roofs.
+const houses = [[40, 96, 46], [250, 120, 54], [560, 104, 44], [880, 128, 52], [1180, 110, 48]];
+const trees = [[176, 34], [400, 40], [720, 30], [1060, 38], [1340, 34]];
+---
+
+<svg class:list={['skyline', cls]} viewBox="0 0 1440 170" preserveAspectRatio="none" aria-hidden="true">
+  <g fill={back}>
+    {towers.map(([x, h, w]) => <rect x={x} y={170 - h} width={w} height={h} rx="6" />)}
+  </g>
+  <g fill={fill}>
+    {houses.map(([x, w, h]) => (
+      <path d={`M${x} 170 V${170 - h} L${x + w / 2} ${170 - h - w * 0.32} L${x + w} ${170 - h} V170 Z`} />
+    ))}
+    {trees.map(([x, r]) => (
+      <>
+        <circle cx={x} cy={170 - 28 - r * 0.6} r={r * 0.62} />
+        <rect x={x - 3} y={170 - 30} width="6" height="30" />
+      </>
+    ))}
+    <rect x="0" y="150" width="1440" height="20" />
+    <path d="M0 160 Q 240 132 520 150 T 1040 146 T 1440 152 V170 H0 Z" />
+  </g>
+</svg>
+
+<style>
+  .skyline {
+    display: block;
+    width: 100%;
+    height: clamp(70px, 10vw, 150px);
+    pointer-events: none;
+  }
+</style>

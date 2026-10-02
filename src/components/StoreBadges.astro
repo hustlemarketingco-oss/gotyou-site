@@ -1,0 +1,44 @@
+---
+import { BRAND } from '../lib/constants';
+
+interface Props {
+  size?: 'md' | 'lg';
+  align?: 'start' | 'center';
+}
+const { size = 'md', align = 'start' } = Astro.props;
+---
+
+<div class:list={['badges', `badges--${size}`, `badges--${align}`]}>
+  <a href={BRAND.appStoreUrl} target="_blank" rel="noopener" aria-label="Download GOTYOU on the App Store">
+    <img src="/images/brand/app-store-badge.svg" alt="Download on the App Store" width="150" height="50" />
+  </a>
+  <a href={BRAND.playStoreUrl} target="_blank" rel="noopener" aria-label="Get GOTYOU on Google Play">
+    <img src="/images/brand/google-play-badge.png" alt="Get it on Google Play" width="168" height="50" />
+  </a>
+</div>
+
+<style>
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+  }
+  .badges--center {
+    justify-content: center;
+  }
+  .badges a {
+    display: block;
+    transition: transform 0.18s;
+  }
+  .badges a:hover {
+    transform: translateY(-2px);
+  }
+  .badges img {
+    height: 50px;
+    width: auto;
+  }
+  .badges--lg img {
+    height: 58px;
+  }
+</style>
