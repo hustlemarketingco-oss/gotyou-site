@@ -458,10 +458,11 @@ const steps = [
     justify-content: center;
     align-items: center;
   }
+  /* Official mockup, trimmed to the phone's edges: same width as the <Phone> frames (250px). */
   .mockup {
-    width: 268px;
-    max-width: 82%;
+    width: min(250px, 74vw);
     height: auto;
+    filter: drop-shadow(0 30px 40px rgba(15, 25, 60, 0.28));
   }
   .step-copy {
     padding: 26px 28px 30px;
@@ -1000,10 +1001,7 @@ const steps = [
     .proof-row div:last-child {
       grid-column: 1 / -1;
     }
-    .mockup {
-      width: 300px;
-      max-width: 86%;
-    }
+
     .drop-art {
       min-height: 520px;
     }
