@@ -98,4 +98,16 @@ const legal = defineCollection({
   schema: z.object({ title: z.string() }),
 });
 
-export const collections = { businesses, blog, legal };
+// ─── Jobs ────────────────────────────────────────────────────────────────
+// Open roles, migrated from the WordPress job board (gotyou.co/job-openings).
+const jobs = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/jobs' }),
+  schema: z.object({
+    title: z.string(),
+    summary: z.string(),
+    posted: z.coerce.date(),
+    location: z.string().default('USA'),
+  }),
+});
+
+export const collections = { businesses, blog, legal, jobs };

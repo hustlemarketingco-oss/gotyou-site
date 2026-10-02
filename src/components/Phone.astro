@@ -1,5 +1,7 @@
 ---
-// A real GOTYOU app screenshot inside a simple phone frame.
+// A real GOTYOU app screenshot in a modern phone frame: thin titanium-edged bezel, side buttons,
+// and an iOS-style status bar (time, Dynamic Island, signal/battery) above the screenshot, so the
+// island never covers app content. The screenshot keeps its full height — nothing is cropped.
 interface Props {
   src: string;
   alt: string;
@@ -7,53 +9,129 @@ interface Props {
   tilt?: number;
   class?: string;
   eager?: boolean;
+  bar?: string; // status bar colour; defaults to the screenshot's own top colour
+  dark?: boolean; // light status-bar text (for dark/blue screens)
 }
+
+// Top-edge colour of each screenshot (sampled), so the status bar blends into the app screen.
+const BAR: Record<string, [string, boolean]> = {
+  'drop.jpg': ['#1c80d5', true],
+  'explore-map.jpg': ['#f3efe7', false],
+};
 const { src, alt, width = 280, tilt = 0, class: cls, eager = false } = Astro.props;
+const [defBar, defDark] = BAR[src.split('/').pop() ?? ''] ?? ['#ffffff', false];
+const bar = Astro.props.bar ?? defBar;
+const dark = Astro.props.dark ?? defDark;
 ---
 
-<figure class:list={['phone', cls]} style={`--w:${width}px; --tilt:${tilt}deg`}>
+<figure class:list={['phone', cls]} style={`--w:${width}px; --tilt:${tilt}deg; --bar:${bar}`}>
   <div class="screen">
-    <img src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" />
+    <div class:list={['status', dark && 'status--light']} aria-hidden="true">
+      <span class="time">9:41</span>
+      <span class="island"></span>
+      <span class="icons">
+        <svg viewBox="0 0 18 12"><rect x="0" y="8" width="3" height="4" rx="1" /><rect x="5" y="5.5" width="3" height="6.5" rx="1" /><rect x="10" y="3" width="3" height="9" rx="1" /><rect x="15" y="0" width="3" height="12" rx="1" /></svg>
+        <svg viewBox="0 0 16 12"><path d="M8 2.2c2.3 0 4.4.9 6 2.4l1.3-1.4A10.4 10.4 0 0 0 8 .3 10.4 10.4 0 0 0 .7 3.2L2 4.6a8.5 8.5 0 0 1 6-2.4Zm0 3.8c1.3 0 2.5.5 3.4 1.3l1.3-1.4A6.7 6.7 0 0 0 8 4.1a6.7 6.7 0 0 0-4.7 1.8l1.3 1.4C5.5 6.5 6.7 6 8 6Zm0 3.8c-.6 0-1.1.2-1.5.6L8 12l1.5-1.6c-.4-.4-.9-.6-1.5-.6Z" /></svg>
+        <svg viewBox="0 0 27 13"><rect x=".5" y=".5" width="23" height="12" rx="3.5" fill="none" stroke="currentColor" opacity=".45" /><rect x="2.5" y="2.5" width="16" height="8" rx="2" /><path d="M25 4.5v4c.8-.3 1.5-1.1 1.5-2s-.7-1.7-1.5-2Z" opacity=".45" /></svg>
+      </span>
+    </div>
+    <img src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" width="1080" height="2250" />
+    <span class="home-bar" aria-hidden="true"></span>
   </div>
 </figure>
 
 <style>
   .phone {
-    width: min(var(--w), 78vw);
-    aspect-ratio: 9 / 19;
-    padding: 10px;
-    border-radius: 44px;
-    background: linear-gradient(145deg, #2a2f4a, #0f1226);
+    --pw: min(var(--w), 74vw);
+    width: var(--pw);
+    padding: calc(var(--pw) * 0.026);
+    border-radius: calc(var(--pw) * 0.165);
+    background: #0e1020;
     box-shadow:
-      0 30px 70px rgba(20, 24, 51, 0.32),
-      inset 0 0 0 2px rgba(255, 255, 255, 0.08);
+      inset 0 0 0 1.5px #4a4f63,
+      inset 0 0 0 3px #15182a,
+      0 2px 0 0 rgba(255, 255, 255, 0.06),
+      0 40px 80px -20px rgba(15, 25, 60, 0.45),
+      0 18px 36px -18px rgba(15, 25, 60, 0.35);
     transform: rotate(var(--tilt));
     position: relative;
     flex: none;
   }
-  .phone::before {
+  /* side buttons */
+  .phone::before,
+  .phone::after {
     content: '';
     position: absolute;
-    top: 18px;
-    left: 50%;
-    width: 30%;
-    height: 22px;
-    transform: translateX(-50%);
-    background: #0f1226;
-    border-radius: 100px;
-    z-index: 2;
+    width: 3px;
+    border-radius: 2px;
+    background: #2b2f42;
+  }
+  .phone::before {
+    left: -3px;
+    top: 18%;
+    height: 7%;
+    box-shadow: 0 calc(var(--pw) * 0.2) 0 #2b2f42;
+  }
+  .phone::after {
+    right: -3px;
+    top: 24%;
+    height: 11%;
   }
   .screen {
-    width: 100%;
-    height: 100%;
-    border-radius: 35px;
+    position: relative;
+    border-radius: calc(var(--pw) * 0.14);
     overflow: hidden;
-    background: #fff;
+    background: var(--bar);
+  }
+  .status {
+    height: calc(var(--pw) * 0.115);
+    background: var(--bar);
+    color: #141833;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 calc(var(--pw) * 0.075);
+    position: relative;
+    font-weight: 600;
+    font-size: calc(var(--pw) * 0.05);
+    letter-spacing: -0.01em;
+  }
+  .status--light {
+    color: #fff;
+  }
+  .island {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    height: calc(var(--pw) * 0.078);
+    border-radius: 100px;
+    background: #000;
+  }
+  .icons {
+    display: flex;
+    align-items: center;
+    gap: calc(var(--pw) * 0.014);
+  }
+  .icons svg {
+    height: calc(var(--pw) * 0.036);
+    width: auto;
+    fill: currentColor;
   }
   .screen img {
+    display: block;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: top center;
+    height: auto;
+  }
+  .home-bar {
+    position: absolute;
+    left: 50%;
+    bottom: calc(var(--pw) * 0.022);
+    width: 34%;
+    height: 4px;
+    border-radius: 4px;
+    transform: translateX(-50%);
+    background: rgba(20, 24, 51, 0.55);
   }
 </style>

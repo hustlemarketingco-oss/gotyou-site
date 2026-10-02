@@ -1,0 +1,121 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import { BRAND } from '../lib/constants';
+
+const doList = [
+  { icon: 'ti-confetti', text: 'Host parties and events to promote GOTYOU.' },
+  { icon: 'ti-wallet', text: 'Manage a marketing budget to create impactful campus activities.' },
+  { icon: 'ti-target-arrow', text: 'Identify key moments and opportunities on campus for GOTYOU involvement.' },
+  { icon: 'ti-speakerphone', text: 'Represent the GOTYOU mission and execute creative activations.' },
+];
+const getList = [
+  { icon: 'ti-rocket', text: 'Be part of the next unicorn start-up.' },
+  { icon: 'ti-users-group', text: 'Receive mentorship from our global team of experienced entrepreneurs.' },
+  { icon: 'ti-cash', text: 'Enjoy competitive pay.' },
+];
+---
+
+<BaseLayout title="College Ambassador Program" description="Join the GOTYOU College Team. Host events, run campus activations, and get mentorship from experienced entrepreneurs — with competitive pay.">
+  <PageHero eyebrow="College Ambassador Program" title="Join the GOTYOU <em>College Team.</em>" lede="Entrepreneurial, motivated, and well-connected? Help spread the GOTYOU mission on your campus and support our growth.">
+    <div class="hero-ctas">
+      <a href={BRAND.ambassadorFormUrl} class="btn btn--lime btn--lg" target="_blank" rel="noopener">Apply to the program</a>
+      <a href="/careers" class="btn btn--ghost btn--lg">See all careers</a>
+    </div>
+  </PageHero>
+
+  <section class="section">
+    <div class="container two">
+      <div class="card card--pad reveal">
+        <span class="eyebrow">What you’ll do</span>
+        <ul>{doList.map((d) => <li><span class="icon-circle"><i class:list={['ti', d.icon]}></i></span>{d.text}</li>)}</ul>
+      </div>
+      <div class="card card--pad reveal">
+        <span class="eyebrow">What you’ll get</span>
+        <ul>{getList.map((d) => <li><span class="icon-circle"><i class:list={['ti', d.icon]}></i></span>{d.text}</li>)}</ul>
+        <div class="req">
+          <h3>Who can apply</h3>
+          <p>Full-time college students who are citizens of the country where they attend university (e.g., US citizens for US colleges). Program runs mid-August through April.</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="apply sky reveal">
+        <div>
+          <h2 class="h2">Apply now and be part of something extraordinary.</h2>
+          <p>If you’re selected for an interview, we’ll reach out by email. Questions? <a href={`mailto:${BRAND.helloEmail}`}>{BRAND.helloEmail}</a></p>
+        </div>
+        <a href={BRAND.ambassadorFormUrl} class="btn btn--lime btn--lg" target="_blank" rel="noopener">Join the program</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero-ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 28px;
+  }
+  .two {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+    margin-bottom: 28px;
+  }
+  ul {
+    list-style: none;
+    display: grid;
+    gap: 16px;
+  }
+  li {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-weight: 500;
+  }
+  li .icon-circle {
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+  }
+  .req {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+  }
+  .req h3 {
+    font-size: 17px;
+    margin-bottom: 6px;
+  }
+  .req p {
+    color: var(--muted);
+  }
+  .apply {
+    border-radius: var(--radius-lg);
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .apply .h2 {
+    font-size: clamp(24px, 3vw, 34px);
+    margin-bottom: 8px;
+  }
+  .apply a:not(.btn) {
+    color: var(--lime);
+    font-weight: 600;
+  }
+  @media (max-width: 800px) {
+    .two {
+      grid-template-columns: 1fr;
+    }
+    .apply {
+      padding: 28px 22px;
+    }
+  }
+</style>

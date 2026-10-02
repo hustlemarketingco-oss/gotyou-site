@@ -1,0 +1,106 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BRAND } from '../../lib/constants';
+
+export async function getStaticPaths() {
+  const jobs = await getCollection('jobs');
+  return jobs.map((job) => ({ params: { slug: job.id }, props: { job } }));
+}
+
+const { job } = Astro.props;
+const { Content } = await render(job);
+const apply = `mailto:${BRAND.helloEmail}?subject=${encodeURIComponent(`Application: ${job.data.title}`)}&body=${encodeURIComponent('Hi GOTYOU team,\n\nI’d like to apply for this role. My resume / LinkedIn: \n\nWhy I’m a fit: \n')}`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'JobPosting',
+  title: job.data.title,
+  description: job.data.summary,
+  datePosted: job.data.posted.toISOString().slice(0, 10),
+  hiringOrganization: { '@type': 'Organization', name: 'GOTYOU', sameAs: 'https://gotyou.co' },
+  jobLocationType: 'TELECOMMUTE',
+  applicantLocationRequirements: { '@type': 'Country', name: 'USA' },
+};
+---
+
+<BaseLayout title={`${job.data.title} — Careers`} description={job.data.summary}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <section class="section">
+    <div class="container layout">
+      <article>
+        <a href="/careers" class="back"><i class="ti ti-arrow-left"></i>All open roles</a>
+        <h1>{job.data.title}</h1>
+        <p class="meta"><i class="ti ti-map-pin"></i>{job.data.location} · <i class="ti ti-building-store"></i>GOTYOU</p>
+        <div class="prose">
+          <Content />
+        </div>
+      </article>
+      <aside>
+        <div class="card card--pad apply">
+          <h2 class="h3">Apply for this role</h2>
+          <p>Send us your resume or LinkedIn and a few lines on why you’re a fit.</p>
+          <a href={apply} class="btn btn--primary btn--block">Apply by email</a>
+          <small>{BRAND.helloEmail}</small>
+        </div>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 56px;
+    align-items: start;
+  }
+  .back {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-bottom: 22px;
+  }
+  .back:hover {
+    color: var(--blue);
+  }
+  h1 {
+    font-size: clamp(32px, 4.4vw, 48px);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+  }
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--muted);
+    margin: 12px 0 30px;
+  }
+  .prose {
+    font-size: 17px;
+  }
+  .apply {
+    position: sticky;
+    top: 100px;
+    display: grid;
+    gap: 14px;
+  }
+  .apply p {
+    color: var(--muted);
+  }
+  .apply small {
+    text-align: center;
+    color: var(--muted);
+  }
+  @media (max-width: 860px) {
+    .layout {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+    .apply {
+      position: static;
+    }
+  }
+</style>

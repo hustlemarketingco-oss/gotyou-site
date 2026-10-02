@@ -1,0 +1,179 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+
+// From gotyou.co/summer25 + /summer-update (last updated August 13, 2025).
+const UPDATE_URL = 'https://link.gotyou.co/aug13';
+const changes = [
+  { icon: 'ti-layout-dashboard', title: 'New interface and faster flow', items: ['Cleaner home screen with a better “near me”.', 'Improved check-in at the counter.', 'Smoother token redemption in Wallet.'] },
+  { icon: 'ti-share', title: 'Share and earn', items: ['Share from the app after you check in, or from Wallet.', 'Your friends and family join and check in near them.', 'You earn. They earn. Local wins.'] },
+  { icon: 'ti-school', title: 'Campus launches', items: ['Live on and around LSU, UF, UGA, UK, and UT Knoxville.', 'UT Tech hosted the first college Drop Day on August 29, 2025 — giveaways, prizes, free gear, and big savings.', 'More campuses are in the queue.'] },
+  { icon: 'ti-flame', title: 'In-market offers', items: ['Live city offers turning on in Athens GA, Baton Rouge LA, Knoxville TN, Lexington KY, St. George UT, and Gainesville FL.'] },
+];
+const cities = ['Utah County, UT', 'St. George, UT', 'Plantation, FL', 'Gainesville, FL', 'Greenville, SC', 'Athens, GA', 'Boise, ID', 'Savannah, GA', 'Tempe, AZ', 'Austin, TX', 'Raleigh, NC', 'Durham, NC', 'Chapel Hill, NC', 'Waco, TX', 'Richmond, VA', 'Knoxville, TN', 'Lexington, KY', 'Richmond, KY', 'Baton Rouge, LA', 'Irvine, CA'];
+const nextUp = ['Programmable vouchers that work in store and online.', 'Built-in social posting and short video.', 'More in-app ways to earn and spend.'];
+---
+
+<BaseLayout title="What's new" description="GOTYOU product updates: a new interface, share-and-earn, campus launches, and new cities where you can check in and earn.">
+  <PageHero eyebrow="Product updates · August 13, 2025" title="We’ve been busy. <em>Check it out!</em>" lede="Cash earnings and instant rewards with local merchants near you. Free to download and free to use.">
+    <div class="hero-ctas">
+      <a href={UPDATE_URL} class="btn btn--lime btn--lg"><i class="ti ti-refresh"></i>Update the app</a>
+      <a href="#share-earn" class="btn btn--ghost btn--lg">Share and earn</a>
+    </div>
+  </PageHero>
+
+  <section class="section section--tight">
+    <div class="container stats">
+      <div class="card"><strong>2,000+</strong><span>Places to check in and earn</span></div>
+      <div class="card"><strong>15</strong><span>Active markets and growing</span></div>
+      <div class="card"><strong>Weekly</strong><span>New offers coming online</span></div>
+    </div>
+  </section>
+
+  <section class="section section--white" id="share-earn">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">What changed</span>
+        <h2 class="h2">A faster, friendlier GOTYOU</h2>
+        <p class="lede">To see the new interface, faster check-in, and cash-out flow, update to the latest version from the store.</p>
+      </div>
+      <div class="changes">
+        {changes.map((c) => (
+          <article class="card card--pad reveal">
+            <span class="icon-circle"><i class:list={['ti', c.icon]}></i></span>
+            <h3 class="h3">{c.title}</h3>
+            <ul>{c.items.map((i) => <li><i class="ti ti-check"></i>{i}</li>)}</ul>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="where">
+    <div class="container where">
+      <div class="reveal">
+        <span class="eyebrow">Where you can earn</span>
+        <h2 class="h2">Check in and earn in these cities.</h2>
+        <p class="lede">More going live every week. For the latest list and Daily Drop dates, see <a href="/where-gotyou-works" class="link-arrow">Where GOTYOU works <i class="ti ti-arrow-right"></i></a></p>
+      </div>
+      <ul class="city-cloud reveal">{cities.map((c) => <li>{c}</li>)}</ul>
+    </div>
+  </section>
+
+  <section class="section section--ink">
+    <div class="container next reveal">
+      <div>
+        <span class="eyebrow eyebrow--light"><span class="dot"></span>What’s coming next</span>
+        <h2 class="h2">We’re reinventing how we shop and engage locally.</h2>
+        <p class="lede">This is about you and your city. GOTYOU Gainesville. GOTYOU Athens. GOTYOU everywhere you are.</p>
+      </div>
+      <ul>{nextUp.map((n) => <li><i class="ti ti-sparkles"></i>{n}</li>)}</ul>
+    </div>
+  </section>
+
+  <CtaBand />
+</BaseLayout>
+
+<style>
+  .hero-ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 28px;
+  }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+  }
+  .stats .card {
+    padding: 26px;
+    text-align: center;
+  }
+  .stats strong {
+    display: block;
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--blue);
+    letter-spacing: -0.03em;
+  }
+  .stats span {
+    color: var(--muted);
+  }
+  .changes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+  }
+  .changes h3 {
+    margin: 18px 0 12px;
+  }
+  .changes ul,
+  .next ul {
+    list-style: none;
+    display: grid;
+    gap: 10px;
+  }
+  .changes li,
+  .next li {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    color: var(--muted);
+  }
+  .changes li i {
+    color: var(--green);
+    margin-top: 4px;
+  }
+  .where {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .where .h2 {
+    margin-bottom: 14px;
+  }
+  .city-cloud {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .city-cloud li {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 100px;
+    padding: 9px 16px;
+    font-weight: 500;
+  }
+  .next {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .next .h2 {
+    margin-bottom: 14px;
+  }
+  .next li {
+    color: rgba(255, 255, 255, 0.85);
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    padding: 16px 18px;
+  }
+  .next li i {
+    color: var(--lime);
+    margin-top: 3px;
+  }
+  @media (max-width: 860px) {
+    .stats,
+    .changes,
+    .where,
+    .next {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

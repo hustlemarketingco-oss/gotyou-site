@@ -13,7 +13,10 @@ export const BRAND = {
   address: 'Santa Monica, CA 90401',
   appStoreUrl: 'https://apps.apple.com/us/app/gotyou-connect-earn/id6449746388',
   playStoreUrl: 'https://play.google.com/store/apps/details?id=com.gotyou.mobile',
-  jobsUrl: 'https://gotyou.co/job-openings/',
+  textToDownload: { keyword: 'Swig', number: '833-614-4393' },
+  dropDownloadUrl: 'https://link.gotyou.co/swig',
+  ambassadorFormUrl: 'https://l94k2x9e69o.typeform.com/to/u7WPBHqS',
+  redeemFormUrl: 'https://form.typeform.com/to/UBol0uNM',
 } as const;
 
 export const NAV_LINKS = [
@@ -30,7 +33,11 @@ export const FOOTER_LINKS = [
     links: [
       { label: 'Download the app', href: '/download' },
       { label: 'Explore local spots', href: '/businesses' },
+      { label: 'The 11:23 Daily Drop', href: '/1123' },
       { label: 'Where GOTYOU works', href: '/where-gotyou-works' },
+      { label: 'Earnings calculator', href: '/earnings-calculator' },
+      { label: 'Redeem & save', href: '/save' },
+      { label: "What's new", href: '/updates' },
       { label: 'FAQ', href: '/faq' },
     ],
   },
@@ -39,6 +46,7 @@ export const FOOTER_LINKS = [
     links: [
       { label: 'How it works for merchants', href: '/solution' },
       { label: 'Pricing', href: '/pricing' },
+      { label: 'ROI calculator', href: '/roi' },
       { label: 'Claim your listing', href: '/businesses' },
       { label: 'Merchant login', href: 'https://app.gotyou.co' },
     ],
@@ -48,7 +56,8 @@ export const FOOTER_LINKS = [
     links: [
       { label: 'About us', href: '/about' },
       { label: 'Blog', href: '/blog' },
-      { label: 'Careers', href: 'https://gotyou.co/job-openings/' },
+      { label: 'Careers', href: '/careers' },
+      { label: 'College ambassadors', href: '/ambassador' },
       { label: 'Contact', href: '/contact' },
     ],
   },
@@ -82,3 +91,7 @@ export const ZONES = [
   { state: 'Virginia', cities: [['Richmond', 'Q2 2026']] },
   { state: 'Kentucky', cities: [['Lexington', 'Q2 2026']] },
 ] as const;
+
+// Value of one reward token in dollars, as published on gotyou.co (FAQ + earnings calculator).
+// NOTE: the current app shows 1 GY = $0.01 (144 GY = $1.44); confirm which is right before launch.
+export const TOKEN_VALUE_USD = 0.1;

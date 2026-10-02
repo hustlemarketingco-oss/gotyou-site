@@ -1,0 +1,284 @@
+---
+// Merchant ROI calculator — same model as the calculator on gotyou.co/roi:
+//  • monthly revenue = customers/day × avg spend × 30
+//  • typical marketing spend = monthly revenue × industry % range
+//  • suggested GOTYOU budget = 15% of the midpoint of that range, clamped to $50–$5,000
+//  • every $3.90 of budget connects one new user; each brings referral revenue (1 × avg spend)
+//    plus repeat-visit revenue (avg spend × 1.2 × 4 / 12) per month
+//  • digital-ads comparison: $24.87 per acquired customer
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import { BRAND } from '../lib/constants';
+---
+
+<BaseLayout title="ROI calculator" description="See how GOTYOU compares to digital ads for your business. Estimate new customers, repeat-visit revenue, and return on your rewards budget.">
+  <PageHero eyebrow="For local business" title="Turn daily customers into <em>your marketing team.</em>" lede="Estimate what a GOTYOU rewards budget could return for your business — and how it compares to the same spend on digital ads." />
+
+  <section class="section">
+    <div class="container calc" id="roi-calc">
+      <form class="card card--pad inputs" onsubmit="return false">
+        <h2 class="h3">Your business</h2>
+        <label>Type of business
+          <select name="type">
+            <option value="Restaurant">Restaurant</option>
+            <option value="Retail">Retail</option>
+            <option value="Services">Services</option>
+            <option value="Other">Other</option>
+          </select>
+        </label>
+        <label>Customers per day
+          <input type="number" name="customers" min="1" value="120" inputmode="numeric" />
+        </label>
+        <label>Average customer spend ($)
+          <input type="number" name="spend" min="1" step="0.01" value="18" inputmode="decimal" />
+        </label>
+        <label>Monthly GOTYOU rewards budget <output name="budgetOut">$0</output>
+          <input type="range" name="budget" min="50" max="5000" step="10" value="500" />
+          <span class="range-ends"><span>$50</span><span>$5,000</span></span>
+        </label>
+        <button type="button" class="btn btn--outline" data-suggest>Use suggested budget</button>
+        <dl class="mini">
+          <div><dt>Monthly revenue</dt><dd data-out="revenue">—</dd></div>
+          <div><dt data-out="mktLabel">Typical monthly marketing spend</dt><dd data-out="mkt">—</dd></div>
+        </dl>
+      </form>
+
+      <div class="results">
+        <div class="roas sky">
+          <span>Projected return on ad spend</span>
+          <strong data-out="roas">—</strong>
+          <p>For every $1 spent on customer rewards, you’re projected to earn <b data-out="perDollar">—</b> in new revenue.</p>
+        </div>
+        <div class="card card--pad">
+          <h2 class="h3">What GOTYOU delivers each month</h2>
+          <ul class="kpis">
+            <li><span>Connected new users</span><b data-out="users">—</b></li>
+            <li><span>Revenue from repeat visits</span><b data-out="repeat">—</b></li>
+            <li><span>Revenue from new referrals</span><b data-out="referral">—</b></li>
+            <li class="total"><span>Total additional revenue</span><b data-out="total">—</b></li>
+            <li><span>Customer feedback collected</span><b data-out="feedback">—</b></li>
+            <li><span>Survey responses</span><b data-out="surveys">—</b></li>
+          </ul>
+          <p class="compare" data-out="compare"></p>
+        </div>
+        <div class="card card--pad extra">
+          <h2 class="h3">Extra benefits for your business and community</h2>
+          <ul>
+            <li><i class="ti ti-arrows-exchange"></i><span>Redirect <b data-out="yearly">—</b> a year from digital ad campaigns to customers in your own community.</span></li>
+            <li><i class="ti ti-heart-handshake"></i><span>10% of our profits go toward supporting local charities.</span></li>
+            <li><i class="ti ti-pig-money"></i><span>Save over <b data-out="savings">—</b> a year versus getting those same contacts through digital marketing.</span></li>
+          </ul>
+        </div>
+        <p class="fine">Estimates only. Restaurant figures exclude fees from DoorDash and other delivery platforms. Incentivizing direct customers through GOTYOU is more powerful than traditional digital advertising.</p>
+        <div class="ctas">
+          <a href="/pricing" class="btn btn--primary btn--lg">See plans & pricing</a>
+          <a href={BRAND.merchantSignupUrl} class="btn btn--outline btn--lg">Get started</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const root = document.getElementById('roi-calc')!;
+  const f = root.querySelector('form')!;
+  const el = (name: string) => f.elements.namedItem(name) as HTMLInputElement;
+  const out = (k: string, v: string) => root.querySelectorAll(`[data-out="${k}"]`).forEach((n) => (n.textContent = v));
+  const money = (n: number) => '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const int = (n: number) => Math.floor(n).toLocaleString('en-US');
+  const RANGES: Record<string, [number, number, string]> = {
+    Restaurant: [4, 6, 'restaurants'],
+    Retail: [7, 9, 'retail businesses'],
+    Services: [3, 8, 'service businesses'],
+    Other: [5, 10, 'businesses'],
+  };
+
+  function basics() {
+    const customers = parseFloat(el('customers').value) || 0;
+    const spend = parseFloat(el('spend').value) || 0;
+    const [min, max, label] = RANGES[(f.elements.namedItem('type') as HTMLSelectElement).value];
+    const revenue = customers * spend * 30;
+    out('revenue', money(revenue));
+    out('mktLabel', `Typical monthly marketing spend for local ${label}`);
+    out('mkt', `${money((revenue * min) / 100)} – ${money((revenue * max) / 100)}`);
+    return Math.max(50, Math.min(5000, revenue * ((min + max) / 200) * 0.15));
+  }
+
+  function benefits() {
+    const budget = parseFloat(el('budget').value);
+    const spend = parseFloat(el('spend').value) || 0;
+    (f.elements.namedItem('budgetOut') as HTMLOutputElement).value = money(budget);
+    const users = Math.floor(budget / 3.9);
+    const repeat = users * ((spend * 1.2 * 4) / 12);
+    const referral = users * spend;
+    const total = repeat + referral;
+    const adCustomers = Math.floor(budget / 24.87);
+    out('users', `${int(users)} / month`);
+    out('repeat', money(repeat));
+    out('referral', money(referral));
+    out('total', money(total));
+    out('feedback', int(users * 2));
+    out('surveys', int(users * 6));
+    out('roas', `${Math.round((total / budget) * 100).toLocaleString('en-US')}%`);
+    out('perDollar', money(total / budget));
+    out('compare', `For the same ${money(budget)}, digital ads would yield about ${int(adCustomers)} customers and ${money(adCustomers * spend)} in revenue.`);
+    out('yearly', money(budget * 12));
+    out('savings', money(users * 16.15 * 12));
+  }
+
+  root.querySelector('[data-suggest]')!.addEventListener('click', () => {
+    el('budget').value = String(Math.round(basics()));
+    benefits();
+  });
+  f.addEventListener('input', (e) => {
+    const target = e.target as HTMLElement;
+    if (target.getAttribute('name') !== 'budget') basics();
+    benefits();
+  });
+  basics();
+  benefits();
+</script>
+
+<style>
+  .calc {
+    display: grid;
+    grid-template-columns: 380px 1fr;
+    gap: 28px;
+    align-items: start;
+  }
+  .inputs {
+    position: sticky;
+    top: 96px;
+    display: grid;
+    gap: 18px;
+  }
+  label {
+    display: grid;
+    gap: 8px;
+    font-weight: 600;
+    font-size: 15px;
+  }
+  label output {
+    float: right;
+    color: var(--blue);
+    font-weight: 700;
+  }
+  input[type='number'],
+  select {
+    font: 500 16px var(--font);
+    padding: 13px 16px;
+    border-radius: 14px;
+    border: 1px solid var(--line);
+    background: var(--bg);
+    color: var(--text);
+  }
+  input[type='range'] {
+    accent-color: var(--blue);
+    width: 100%;
+  }
+  .range-ends {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12.5px;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .mini {
+    display: grid;
+    gap: 10px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+  .mini dt {
+    font-size: 13.5px;
+    color: var(--muted);
+  }
+  .mini dd {
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .results {
+    display: grid;
+    gap: 20px;
+  }
+  .roas {
+    border-radius: var(--radius-lg);
+    padding: 32px;
+    box-shadow: var(--shadow-blue);
+  }
+  .roas span {
+    font-weight: 600;
+    opacity: 0.9;
+  }
+  .roas strong {
+    display: block;
+    font-size: clamp(48px, 7vw, 76px);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    color: var(--lime);
+  }
+  .roas p {
+    opacity: 0.92;
+  }
+  .kpis {
+    list-style: none;
+    margin-top: 16px;
+  }
+  .kpis li {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 12px 0;
+    border-top: 1px solid var(--line);
+  }
+  .kpis span {
+    color: var(--muted);
+  }
+  .kpis .total b {
+    color: var(--blue);
+    font-size: 20px;
+  }
+  .compare {
+    margin-top: 14px;
+    background: var(--blue-50);
+    border-radius: 14px;
+    padding: 14px 16px;
+    font-weight: 500;
+  }
+  .extra ul {
+    list-style: none;
+    display: grid;
+    gap: 14px;
+    margin-top: 14px;
+  }
+  .extra li {
+    display: flex;
+    gap: 12px;
+    color: var(--muted);
+  }
+  .extra i {
+    color: var(--blue);
+    font-size: 22px;
+  }
+  .extra b {
+    color: var(--ink);
+  }
+  .fine {
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  @media (max-width: 900px) {
+    .calc {
+      grid-template-columns: 1fr;
+    }
+    .inputs {
+      position: static;
+    }
+  }
+</style>

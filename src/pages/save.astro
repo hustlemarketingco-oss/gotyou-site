@@ -1,0 +1,154 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { BRAND } from '../lib/constants';
+
+const how = [
+  { icon: 'ti-coins', title: 'Spend your tokens', body: 'Use your GOTYOU tokens to cover part or all of your purchases.' },
+  { icon: 'ti-gift', title: 'Get rewarded', body: 'Earn bonus tokens when you check in, visit local businesses, or pre-purchase gift cards.' },
+  { icon: 'ti-discount', title: 'Save big', body: 'Enjoy cash-back rewards from 5% to 20% at hundreds of local spots and franchise brands.' },
+];
+const why = [
+  { icon: 'ti-arrows-maximize', title: 'Stretch your dollar', body: 'Make every token go further.' },
+  { icon: 'ti-building-store', title: 'Support local & franchise brands', body: 'Save while shopping or dining in your community.' },
+  { icon: 'ti-world', title: 'Earn & redeem anywhere', body: 'Shop, dine, and gift with ease.' },
+];
+---
+
+<BaseLayout title="Redeem & save" description="You earned it — now spend it. Turn your GOTYOU tokens into free food, drinks, and savings at local restaurants, shops, and franchise brands.">
+  <PageHero eyebrow="Redeem & save" title="You earned it. <em>Now spend it!</em>" lede="Turn your GOTYOU tokens into free food, drinks, and savings at local restaurants, retail shops, and national franchise brands near you.">
+    <div class="hero-ctas">
+      <a href={BRAND.redeemFormUrl} class="btn btn--lime btn--lg" target="_blank" rel="noopener"><i class="ti ti-coins"></i>Redeem tokens now</a>
+    </div>
+  </PageHero>
+
+  <section class="section">
+    <div class="container split">
+      <div>
+        <div class="section-head section-head--left">
+          <span class="eyebrow">How it works</span>
+          <h2 class="h2">Enjoy savings on everyday essentials.</h2>
+        </div>
+        <div class="how">
+          {how.map((h, i) => (
+            <div class="card card--pad step reveal">
+              <span class="num">{i + 1}</span>
+              <span class="icon-circle"><i class:list={['ti', h.icon]}></i></span>
+              <div><h3>{h.title}</h3><p>{h.body}</p></div>
+            </div>
+          ))}
+        </div>
+      </div>
+      <img src="/images/site/mockup-wallet.webp" alt="GOTYOU wallet with three offers ready to redeem" class="mock reveal" loading="lazy" />
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Why GOTYOU?</span>
+        <h2 class="h2">Your tokens are ready — start saving today.</h2>
+      </div>
+      <div class="why">
+        {why.map((w) => (
+          <div class="card card--pad reveal">
+            <span class="icon-circle"><i class:list={['ti', w.icon]}></i></span>
+            <h3 class="h3">{w.title}</h3>
+            <p>{w.body}</p>
+          </div>
+        ))}
+      </div>
+      <div class="perks sky reveal">
+        <span class="party">🎉</span>
+        <div>
+          <h2 class="h3">Daily perks & cash giveaways</h2>
+          <p>Check in daily at any business on GOTYOU for chances to win instant cash or discover a Golden Ticket! Businesses love giving back to loyal visitors, and we make it easy to earn and save every day.</p>
+        </div>
+        <a href={BRAND.redeemFormUrl} class="btn btn--lime" target="_blank" rel="noopener">Redeem tokens now</a>
+      </div>
+    </div>
+  </section>
+
+  <CtaBand />
+</BaseLayout>
+
+<style>
+  .hero-ctas {
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+  }
+  .split {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 48px;
+    align-items: center;
+  }
+  .how {
+    display: grid;
+    gap: 14px;
+  }
+  .step {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    position: relative;
+  }
+  .num {
+    position: absolute;
+    right: 22px;
+    top: 14px;
+    font-size: 36px;
+    font-weight: 800;
+    color: var(--blue-50);
+  }
+  .step h3 {
+    font-size: 19px;
+    margin-bottom: 4px;
+  }
+  .step p,
+  .why p {
+    color: var(--muted);
+  }
+  .mock {
+    width: 100%;
+    max-width: 380px;
+    margin: 0 auto;
+    filter: drop-shadow(0 30px 40px rgba(15, 25, 60, 0.25));
+  }
+  .why {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+  }
+  .why h3 {
+    margin: 18px 0 6px;
+  }
+  .perks {
+    margin-top: 32px;
+    border-radius: var(--radius-lg);
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+  .party {
+    font-size: 48px;
+  }
+  .perks p {
+    opacity: 0.92;
+    margin-top: 6px;
+  }
+  @media (max-width: 860px) {
+    .split,
+    .why {
+      grid-template-columns: 1fr;
+    }
+    .perks {
+      flex-direction: column;
+      text-align: center;
+      padding: 28px 22px;
+    }
+  }
+</style>

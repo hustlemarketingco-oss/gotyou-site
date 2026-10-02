@@ -2,7 +2,6 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Skyline from '../components/Skyline.astro';
 import StoreBadges from '../components/StoreBadges.astro';
-import Phone from '../components/Phone.astro';
 import DropCountdown from '../components/DropCountdown.astro';
 ---
 
@@ -19,9 +18,8 @@ import DropCountdown from '../components/DropCountdown.astro';
           <DropCountdown />
         </div>
       </div>
-      <div class="art" aria-hidden="true">
-        <Phone src="/images/app/drop.jpg" alt="" width={260} tilt={-5} class="p1 float float--slow" eager />
-        <Phone src="/images/app/explore-card.jpg" alt="" width={270} tilt={5} class="p2 float" eager />
+      <div class="art">
+        <img src="/images/site/mockup-welcome-coin.webp" alt="The GOTYOU app welcome screen with a gold GYC coin" class="float" fetchpriority="high" width="1200" height="1600" />
       </div>
     </div>
     <Skyline fill="var(--bg)" />
@@ -95,18 +93,13 @@ import DropCountdown from '../components/DropCountdown.astro';
     border-radius: 16px;
   }
   .art {
-    position: relative;
-    height: 580px;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 10px;
   }
-  .art :global(.p1) {
-    position: absolute;
-    left: 6%;
-    top: 40px;
-  }
-  .art :global(.p2) {
-    position: absolute;
-    right: 6%;
-    top: 0;
+  .art img {
+    width: min(440px, 100%);
+    filter: drop-shadow(0 30px 40px rgba(10, 40, 110, 0.3));
   }
   .two {
     display: grid;
@@ -129,14 +122,8 @@ import DropCountdown from '../components/DropCountdown.astro';
     .two {
       grid-template-columns: 1fr;
     }
-    .art {
-      height: 460px;
-      max-width: 480px;
-      width: 100%;
-      margin: 0 auto;
-    }
-    .art :global(.phone) {
-      --w: 200px !important;
+    .art img {
+      width: min(340px, 86%);
     }
     .next {
       flex-direction: column;
