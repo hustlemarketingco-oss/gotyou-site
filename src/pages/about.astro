@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHero from '../components/PageHero.astro';
 import CtaBand from '../components/CtaBand.astro';
+import Phone from '../components/Phone.astro';
 
 const pillars = [
   {
@@ -43,7 +44,7 @@ const pillars = [
       </div>
       <div class="img-stack reveal">
         <img src="/images/site/coffee-shop.jpg" alt="A barista serving a customer at a busy local coffee shop" loading="lazy" class="main" />
-        <img src="/images/site/mockup-checkin.webp" alt="GOTYOU check-in screen" loading="lazy" class="phone-cut float" />
+        <Phone src="/images/app/checkin.jpg" alt="GOTYOU local status: earn for checking in, sharing and rating" width={200} class="phone-cut float" />
       </div>
     </div>
   </section>
@@ -117,12 +118,10 @@ const pillars = [
     aspect-ratio: 4 / 3;
     object-fit: cover;
   }
-  .phone-cut {
+  .img-stack :global(.phone-cut) {
     position: absolute;
     right: 0;
-    bottom: -40px;
-    width: 34%;
-    filter: drop-shadow(0 20px 30px rgba(20, 24, 51, 0.3));
+    bottom: -60px;
   }
   .pillars {
     display: grid;

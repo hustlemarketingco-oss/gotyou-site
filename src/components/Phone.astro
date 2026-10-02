@@ -17,6 +17,7 @@ interface Props {
 const BAR: Record<string, [string, boolean]> = {
   'drop.jpg': ['#1c80d5', true],
   'explore-map.jpg': ['#f3efe7', false],
+  'checkin.jpg': ['#fefefe', false],
 };
 const { src, alt, width = 280, tilt = 0, class: cls, eager = false } = Astro.props;
 const [defBar, defDark] = BAR[src.split('/').pop() ?? ''] ?? ['#ffffff', false];
