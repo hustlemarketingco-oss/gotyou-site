@@ -24,10 +24,17 @@
   "googleRating": 3.6,
   "googleReviewCount": 1291,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRDKTZV9YzKZ2R5j58qRLnAUlc5ndhuih5zJGVs28jsn9VjGZeYMHNqMS8tALC3PImJUqvkEfzF9GcsJrIZTXFiGiLkZtU-jOqNiT3PwsN8mEG0hqQHj6gFQGxD2Bw3fSE6fEY=w1200-h800-k-no",
-  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "description": "This Taco Bell on South University Avenue serves tacos, quesadillas and nachos from 7 AM until midnight, later on weekends.",
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 205,
+    "2": 104,
+    "3": 180,
+    "4": 282,
+    "5": 520
+  },
   "hours": {
     "mon": "7:00 AM - 12:00 AM",
     "tue": "7:00 AM - 12:00 AM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

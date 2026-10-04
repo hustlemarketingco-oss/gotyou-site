@@ -22,13 +22,20 @@
   "googleRating": 4.1,
   "googleReviewCount": 491,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8TXDNHAYVfs5C9ScZ5ZVQSyYnOFqzd44A5mmjwnNp_9Fd5ULhs_Gqy0ugGVEE94PA5ezz-7bOQPm1TV60Qbjc4R9QwBMSqGjMVnq960U9RotYLUM19Epcjm63yTnzdJneFtHT=w1200-h800-k-no",
-  "description": "Vintage-style chain for steakburgers, hot dogs & other fast-food staples, plus frozen custard.",
+  "description": "Freddy's on South University Avenue is a vintage-style chain serving steakburgers, hot dogs and frozen custard, with delivery available. It's open from 10:30 AM to 10 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 38,
+    "3": 31,
+    "4": 66,
+    "5": 306
+  },
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
     "tue": "10:30 AM - 10:00 PM",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -16,13 +16,20 @@
   "googleRating": 4.4,
   "googleReviewCount": 1033,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmT9yoMeZg3haAEtJISwEZ97abAme5GF5wfAuV7vCvhf56dMbSJ-VAYyFedyxvgOkwXc3xaDr6pu8rcim3QJiZx-Y8PWhmX8iMHT0Z1aWicA8I5gKQ-3tAyzl4LnQD7oeYQx16FrtHzk1ii=w1200-h800-k-no",
-  "description": "Generous plates of Salvadoran comfort fare draws crowds to this pint-sized, family-owned restaurant.",
+  "description": "El Salvador Restaurant is a small family-owned spot on West Center Street known for generous plates of Salvadoran comfort food. It's open from 11 AM to 8 PM and closed on Wednesdays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 25,
+    "3": 61,
+    "4": 173,
+    "5": 721
+  },
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "11:00 AM - 8:00 PM",
@@ -37,5 +44,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

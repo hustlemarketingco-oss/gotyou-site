@@ -25,13 +25,20 @@
   "googleRating": 3.8,
   "googleReviewCount": 1504,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTd7INKEYAYBgHZbbc11Oj1J5n7t57im4cfA8HU9m_qcCi99YIGhMF0X_AatRs9f4et0XvPqfI-q6xLnY7wGVcSDDrbTL7AL3bMsZUZXfit8K4K_hm-gHc5-aBxKcmAN0cpKKV=w1200-h800-k-no",
-  "description": "Counter-serve eatery dishing up Mexican classics including hand-rolled tortillas, burritos & tacos.",
+  "description": "This Cafe Rio on South University Avenue serves the chain's counter-serve Mexican food, including hand-rolled tortillas, burritos and tacos, and it also offers catering. It's open from 10:30 AM to 10 PM most nights.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 298,
+    "2": 110,
+    "3": 85,
+    "4": 183,
+    "5": 828
+  },
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
     "tue": "10:30 AM - 10:00 PM",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

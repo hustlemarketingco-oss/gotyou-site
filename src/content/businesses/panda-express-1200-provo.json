@@ -26,13 +26,20 @@
   "googleRating": 3.7,
   "googleReviewCount": 288,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpZ6QtCpbaG5n90bOLnEQa_W_h3CqfNeP671mfLXrbp2fAMKqUyGsTtzT-HlApvrBX86MPFCjb1qAyFezYXrZOG_0DICpbyF_aIisZVNCSxV0UxEvh7KiESP8m0KTfX0AKWjZ6=w1200-h800-k-no",
-  "description": "Fast-food chain for Chinese standards, including some health-conscious options.",
+  "description": "This Panda Express is inside Provo Towne Centre, serving the chain's Chinese-American standards, with catering available. It's open from 11 AM to 8 PM, later on Fridays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 15,
+    "3": 33,
+    "4": 61,
+    "5": 127
+  },
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "11:00 AM - 8:00 PM",
@@ -47,5 +54,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

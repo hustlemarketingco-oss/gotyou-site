@@ -21,13 +21,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 645,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7ouqgO4S6emUPZswVIPjl2izsVNtLNjO_R-U8hbleW423Sj502ChSTuuyQOBP01lYRt6aIFkAxKRCDw-8E54m2GLi0ekmM8aeoZltLDFM8qVpleeEZqonLzG5gEZNVqnjO0=w1200-h800-k-no",
-  "description": "Chain serving ice cream & yogurt, including vegan & soy options, made to order & flash-frozen.",
+  "description": "Sub Zero on West Center Street makes ice cream and yogurt to order and flash-freezes it, with vegan and soy options. It also offers catering and STEM events, and is open from noon to 10:30 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 44,
+    "2": 28,
+    "3": 35,
+    "4": 115,
+    "5": 423
+  },
   "hours": {
     "mon": "12:00 PM - 10:30 PM",
     "tue": "12:00 PM - 10:30 PM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

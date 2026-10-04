@@ -21,13 +21,20 @@
   "googleRating": 4.4,
   "googleReviewCount": 1798,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcZIxktn22wbv_anZTipdPMBVKFUDma8LX1pOFa3XLuuYINyM_4sq0PowcMKLNGlt1GfFh2kEyHlg2ZMJPhvFuEs_pQ34BDzpGoK4wI0bEuhrJlDalq2YZ6VI4mn5XiN7neqre4Cy7vdU=w1200-h800-k-no",
-  "description": "Contemporary Southwestern Native American cooking served with a full bar in an upscale-casual space.",
+  "description": "Black Sheep Cafe serves contemporary Southwestern and Native American cooking in an upscale-casual space on University Avenue in downtown Provo. It's open for lunch and dinner with a break in the afternoon, and it's one of the area's better-known sit-down restaurants.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 55,
+    "3": 131,
+    "4": 306,
+    "5": 1241
+  },
   "hours": {
     "mon": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
     "tue": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

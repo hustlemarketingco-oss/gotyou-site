@@ -32,6 +32,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 19,
+    "3": 18,
+    "4": 38,
+    "5": 858
+  },
   "hours": {
     "mon": "9:00 AM - 12:00 AM",
     "tue": "9:00 AM - 12:00 AM",
@@ -46,5 +53,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "The Taco Spot on 1230 North near BYU serves tacos, burritos and breakfast, with catering available. It's open from 9 AM to midnight and holds a 4.7-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

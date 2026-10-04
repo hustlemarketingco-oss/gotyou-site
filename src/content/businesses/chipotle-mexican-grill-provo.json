@@ -24,13 +24,20 @@
   "googleRating": 2.6,
   "googleReviewCount": 474,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMPowK_EzkevASPaM2JRppYg6mMJjJTnZt0ZDyRfmGR7DcbIiKhDZp7oJCrJMff3hAc8BmFzPJWbp8OuQaX6n3w8pn4BEklva2rVk6ov388MsmdQ2tpiBkID_6nVrAy98Ow4fZ=w1200-h800-k-no",
-  "description": "Casual restaurant offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+  "description": "This Chipotle on North University Avenue near BYU serves the chain's build-your-own burritos, tacos and bowls, with catering and delivery available. It's open every day from 10:45 AM to 11 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 234,
+    "2": 47,
+    "3": 21,
+    "4": 27,
+    "5": 145
+  },
   "hours": {
     "mon": "10:45 AM - 11:00 PM",
     "tue": "10:45 AM - 11:00 PM",
@@ -45,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -22,6 +22,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 14,
+    "3": 11,
+    "4": 23,
+    "5": 85
+  },
   "hours": {
     "mon": "11:00 AM - 6:00 PM",
     "tue": "11:00 AM - 6:00 PM",
@@ -36,5 +43,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Aloha Plate serves Hawaiian food inside the Cougareat food court at Brigham Young University. It keeps daytime hours, from 11 AM to 6 PM on weekdays, making it a quick lunch option on campus.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

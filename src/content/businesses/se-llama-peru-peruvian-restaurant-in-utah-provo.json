@@ -27,6 +27,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 64,
+    "2": 31,
+    "3": 50,
+    "4": 140,
+    "5": 619
+  },
   "hours": {
     "mon": "11:30 AM - 8:00 PM",
     "tue": "11:30 AM - 9:00 PM",
@@ -41,5 +48,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Se Llama Perú is a Peruvian restaurant on West Center Street serving Latin American dishes and seafood. It's open from 11:30 AM into the evening.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

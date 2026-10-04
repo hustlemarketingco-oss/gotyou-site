@@ -21,6 +21,12 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 6,
+    "3": 2,
+    "4": 6,
+    "5": 429
+  },
   "hours": {
     "mon": "4:00 PM - 8:00 PM",
     "tue": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
@@ -35,5 +41,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Chicken Boy is a chicken restaurant on North Canyon Road near BYU with a 4.9-star average from more than 440 reviews. It serves lunch and dinner most days, with a lunch break in the afternoon.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -23,11 +23,18 @@
   "googleRating": 2.7,
   "googleReviewCount": 1628,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldmxeK0ERa8ZFprcDrDJGrmcopdd2XmkT1wLq2oz-MIdhK9XQ-D4ko17NBg8dMYa9iXoRHqy9qJOPZcIlaGbdRUcgPtcXiracgWXM6oHHEG6tFICcxYc7fTZ_PBAz3ZpJ0UZuzHiyhJicu=w1200-h800-k-no",
-  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "description": "This McDonald's on State Street in Pleasant Grove serves burgers, fries, breakfast and coffee, from 5 AM to 11 PM daily.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 639,
+    "2": 146,
+    "3": 230,
+    "4": 225,
+    "5": 388
+  },
   "hours": {
     "mon": "5:00 AM - 11:00 PM",
     "tue": "5:00 AM - 11:00 PM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

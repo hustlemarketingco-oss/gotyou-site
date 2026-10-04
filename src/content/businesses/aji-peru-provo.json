@@ -20,6 +20,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 7,
+    "3": 19,
+    "4": 30,
+    "5": 860
+  },
   "hours": {
     "mon": "Closed",
     "tue": "11:00 AM - 9:00 PM",
@@ -34,5 +41,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "AJI PERU is a Peruvian restaurant on West Center Street in Provo, open Tuesday through Sunday. With a 4.8-star average across more than 900 Google reviews, it's one of the city's most highly rated spots for Peruvian food.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

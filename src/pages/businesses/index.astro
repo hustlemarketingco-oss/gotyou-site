@@ -4,6 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
 import { sizedPhoto } from '../../lib/business';
 import Skyline from '../../components/Skyline.astro';
+import { byCity, categoriesIn } from '../../lib/explore';
+import { cityPath, categoryPath, plural } from '../../lib/profile-content';
 
 const allBusinesses = (await getCollection('businesses')).filter((b) => !b.data.temporarilyClosed);
 
@@ -24,6 +26,7 @@ const searchIndex = allBusinesses.map((b) => ({
 }));
 
 const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
+const cityGroups = byCity(allBusinesses.map((b) => b.data));
 ---
 
 <BaseLayout
@@ -59,6 +62,24 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
   <div class="theme-light">
     <DirectorySearch businesses={searchIndex} />
   </div>
+
+  <section class="browse">
+    <div class="browse-inner">
+      <h2>Browse by city</h2>
+      <div class="browse-grid">
+        {cityGroups.map((c) => (
+          <div>
+            <a href={cityPath(c.city)} class="city-link">{c.city} <small>{c.items.length}</small></a>
+            <ul>
+              {categoriesIn(c.items).filter((g) => g.hasPage).map((g) => (
+                <li><a href={categoryPath(c.city, g.category)}>{plural(g.category)}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
 
   <section class="claim-band" id="claim-cta">
     <div class="claim-band-inner reveal">
@@ -166,6 +187,41 @@ const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
     background: rgba(255, 255, 255, 0.6);
   }
 
+  .browse {
+    background: var(--bg);
+    padding: 8px 1.5rem 48px;
+  }
+  .browse-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .browse h2 {
+    font-size: 24px;
+    margin-bottom: 18px;
+  }
+  .browse-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  .city-link {
+    font-weight: 700;
+    color: var(--ink);
+  }
+  .city-link small {
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .browse ul {
+    list-style: none;
+    margin-top: 6px;
+    display: grid;
+    gap: 4px;
+  }
+  .browse li a {
+    color: var(--blue);
+    font-size: 14.5px;
+  }
   .claim-band {
     background: var(--bg);
     padding: 24px 1.5rem 96px;

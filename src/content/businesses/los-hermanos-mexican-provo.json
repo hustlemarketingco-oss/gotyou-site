@@ -20,13 +20,20 @@
   "googleRating": 3.9,
   "googleReviewCount": 2139,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyXAjt1cy1eOHNdoox4z3sjBwEc-1s86bbBa9l3gyuq9zXQNFXVHrfbdj2lj5aB0UiBhvTTvueVJ_eQD-6fpFhqxsdMtMPfF7tImdONyNSlntEZYhIGfAMJhv5OCBJpJaXTAX8Qg=w1200-h800-k-no",
-  "description": "Colorful, long-standing cantina serving casual Mexican favorites & nonalcoholic frozen drinks.",
+  "description": "Los Hermanos is a colorful, long-standing Mexican cantina at the corner of Center Street and University Avenue in downtown Provo, serving casual Mexican favorites and non-alcoholic frozen drinks. It also caters and has more than 2,100 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 247,
+    "2": 174,
+    "3": 232,
+    "4": 408,
+    "5": 1078
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

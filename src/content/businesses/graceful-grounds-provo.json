@@ -17,6 +17,10 @@
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 78
+  },
   "hours": {
     "mon": "8:00 AM - 2:00 PM",
     "tue": "8:00 AM - 2:00 PM",
@@ -31,5 +35,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Graceful Grounds is a small coffee shop on North Canyon Road near BYU, open weekday mornings from 8 AM to 2 PM, with a perfect 5.0 rating.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

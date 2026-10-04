@@ -19,6 +19,12 @@
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 2,
+    "4": 3,
+    "5": 387
+  },
   "hours": {
     "mon": "8:00 AM - 3:30 PM, 5:30 PM - 10:00 PM",
     "tue": "8:00 AM - 3:30 PM, 5:30 PM - 10:00 PM",
@@ -33,5 +39,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Empanadas and More is a Venezuelan restaurant on West Center Street serving empanadas and other Venezuelan dishes. It's open for breakfast, lunch and dinner with an afternoon break, and holds a 4.9-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

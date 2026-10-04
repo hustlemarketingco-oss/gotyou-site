@@ -21,6 +21,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 7,
+    "3": 28,
+    "4": 75,
+    "5": 123
+  },
   "hours": {
     "mon": "11:00 AM - 6:00 PM",
     "tue": "Closed",
@@ -35,5 +42,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "The Cougareat is the main food court in Brigham Young University's student center, home to several quick-service counters. It keeps daytime hours on select weekdays.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

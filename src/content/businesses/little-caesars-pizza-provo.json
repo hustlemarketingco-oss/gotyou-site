@@ -21,11 +21,18 @@
   "googleRating": 3.2,
   "googleReviewCount": 881,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2Qg7gftHnDQnnqyHw2CNOcmCYCQBP2md9Q-4CWV8bj2naaep8dhFRYu5HpkkmnnLW64sTsFfTy2SowfAyudeJB-lSfP3jObDiBTGo0zYXGWv25r3E2aaq61A78tfU4oN8CDVJ=w1200-h800-k-no",
-  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "description": "This Little Caesars on North State Street is a carry-out pizza spot with wings and signature breadsticks. It's open from 10 AM to 11 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 251,
+    "2": 67,
+    "3": 100,
+    "4": 149,
+    "5": 314
+  },
   "hours": {
     "mon": "10:00 AM - 11:00 PM",
     "tue": "10:00 AM - 11:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -19,13 +19,20 @@
   "googleRating": 4.4,
   "googleReviewCount": 1011,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmSldW2KMOCbPLEatXXqo3_zYn3ROODQhVyIF_BchiOZCxmzG6Qkfns5NFhXh_Cs9HELIbQDN4NoQDkhyXngZVvTnCa6bFnfhW8YYdrAq_4d-3r-LZXo4pma9W_itKY00ONbOv=w1200-h800-k-no",
-  "description": "Tacos & other homestyle Mexican eats offered in a down-to-earth restaurant with TVs.",
+  "description": "Mi Lindo Guadalajara is a down-to-earth Mexican restaurant on North Freedom Boulevard serving tacos and homestyle dishes, with TVs. It's open from 10 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 60,
+    "2": 28,
+    "3": 52,
+    "4": 174,
+    "5": 697
+  },
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
     "tue": "10:00 AM - 9:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

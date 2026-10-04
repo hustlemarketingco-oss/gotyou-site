@@ -19,13 +19,20 @@
   "googleRating": 3.7,
   "googleReviewCount": 1001,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQuxmjNhixVp5sujTJajgrWdppvgfKcvtJ-6Ifcl65Pe2xhK7hkC0zU4Vd0szPcKP_B5A-VnMpo81SESUTh_gD4iVeJGgU8hdHLi9wx4PoTf1rtoNhjC5DFHvMUV48PlfllL-t=w1200-h800-k-no",
-  "description": "Basic fast-food option for Mexican favorites in a casual setting or drive-thru around the clock.",
+  "description": "This Rancherito's on South University Avenue is a basic, fast Mexican option with a drive-thru, open 24 hours.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 160,
+    "2": 68,
+    "3": 107,
+    "4": 198,
+    "5": 468
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

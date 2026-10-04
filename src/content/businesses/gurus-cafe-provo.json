@@ -23,13 +23,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 2701,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnuW7jCyriB7jqW6fXkXQclcaUtIsutDZ6DL9Kwben2a0EkgHsltTInATpoSEE--L_VatyDGVZ_43i_Ge7GQcMmQmGja5_Ao0yqeBQpL5Gl4N9_Z7aw751OaKAx1rk5n6T5Zwn7qA4VL5Dj=w1200-h800-k-no",
-  "description": "Eclectic cafe offering breakfast, burritos & veggie dishes in casual digs with live music & karaoke.",
+  "description": "Guru's Cafe is an eclectic downtown cafe on East Center Street offering breakfast, burritos and vegetarian dishes in casual digs, with live music and karaoke. It's open from 8 AM to 9 PM, later on Fridays, and has more than 2,700 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 120,
+    "2": 115,
+    "3": 225,
+    "4": 637,
+    "5": 1604
+  },
   "hours": {
     "mon": "8:00 AM - 9:00 PM",
     "tue": "8:00 AM - 9:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

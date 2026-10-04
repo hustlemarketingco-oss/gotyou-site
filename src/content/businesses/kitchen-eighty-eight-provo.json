@@ -16,6 +16,10 @@
   "googleRating": 4.9,
   "googleReviewCount": 18,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWki9lTSRIy9gWEUyN9XPpF3fFPQyuH2pT8RCxuds_ehgWOyczwPnAJagz44F2QgCozXV6NMdZINk4BE_Um9UaM0P3mwOFYz5Ajh2D_is2yIr5as4eQJ_9Us5fLozOjDpbTkfyeTt9tPq7Zq=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "3": 1,
+    "5": 17
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -30,5 +34,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Kitchen Eighty Eight is an American restaurant on Rivers Edge Drive in Provo, open from 11 AM to 9 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

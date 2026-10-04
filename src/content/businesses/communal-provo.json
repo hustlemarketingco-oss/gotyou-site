@@ -20,7 +20,14 @@
   "googleRating": 4.5,
   "googleReviewCount": 1621,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmaQQG3jA-SSvEF7IolXE-7oFybeOUO08H_Too125ukymeCnl8zmh50gxwqXJdIhiUSMU35NKGmnpHcjwp44vz0oLiInH-Z_0OQCP99f08vrR1s1vC_jx3NVcDBZ923hB9DT9jvs6s2TrSD=w1200-h800-k-no",
-  "description": "Locally sourced seasonal American menus star at this comfy kitchen with shared farm-table seating.",
+  "description": "Communal is a downtown Provo restaurant serving locally sourced, seasonal American food at shared farm-table seating. It's open for dinner, plus brunch on several days, and is one of the city's best-known sit-down spots.",
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 65,
+    "3": 99,
+    "4": 208,
+    "5": 1197
+  },
   "hours": {
     "mon": "5:00 PM - 10:00 PM",
     "tue": "10:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
@@ -35,5 +42,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

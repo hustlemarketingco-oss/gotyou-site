@@ -21,6 +21,11 @@
   "googleRating": 5,
   "googleReviewCount": 194,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmD8Wjnh_zw3ARpUggOfOQOSrOateoifefYzz33wL2UFlYlY7k_FTJVbfJbTJVwymR7rKyUo9i-B47uxECAR0FFixOwSewcP6bHrxQ0VxqNGAKSdLdfuTQTxewSzaILxucuZDViBbAkjhc=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 192
+  },
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "6:30 AM - 8:00 PM",
@@ -35,5 +40,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Kiwi Tu Meke Bites is a cafe and bakery on North University Avenue serving New Zealand–style meat pies and Polynesian fare. It opens early on most weekdays and holds a perfect 5.0 rating.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -22,13 +22,20 @@
   "googleRating": 4,
   "googleReviewCount": 877,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJZvDRqpNS3duNe-9QiLOtsr-819KV0gwlVQ-KWUVORtMj6ERJVMUNYcw3JGkvYIqPjktuKUOV14wrpxR8CGZTyVyAOkuAFhPKwCHCM7G1q01KIdPciM4o9Fda-aYMF-XJYLh-=w1200-h800-k-no",
-  "description": "Mexican restaurant & take-out with a brightly colored interior & counter service, open 24 hours.",
+  "description": "This Rancherito's on 1230 North is a brightly colored counter-serve Mexican spot with takeout, open 24 hours late in the week and until 2 AM early in the week.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 119,
+    "2": 40,
+    "3": 63,
+    "4": 174,
+    "5": 481
+  },
   "hours": {
     "mon": "6:00 AM - 2:00 AM",
     "tue": "6:00 AM - 2:00 AM",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

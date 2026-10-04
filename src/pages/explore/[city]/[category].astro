@@ -1,0 +1,176 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PageHero from '../../../components/PageHero.astro';
+import SpotList from '../../../components/SpotList.astro';
+import { activeBusinesses, byCity, categoriesIn, avgRating } from '../../../lib/explore';
+import { categoryPath, cityPath, hoursFacts, plural, lc } from '../../../lib/profile-content';
+
+export async function getStaticPaths() {
+  const all = await activeBusinesses();
+  const cities = byCity(all);
+  return cities.flatMap((c) =>
+    categoriesIn(c.items)
+      .filter((g) => g.hasPage)
+      .map((g) => ({
+        params: { city: c.slug, category: g.slug },
+        props: {
+          city: c.city,
+          state: c.state,
+          category: g.category,
+          items: g.items,
+          siblings: categoriesIn(c.items).filter((s) => s.hasPage && s.category !== g.category),
+          elsewhere: cities.filter((o) => o.slug !== c.slug && categoriesIn(o.items).some((s) => s.category === g.category && s.hasPage)),
+        },
+      })),
+  );
+}
+
+const { city, state, category, items, siblings, elsewhere } = Astro.props;
+const label = plural(category);
+const avg = avgRating(items);
+const best = items[0];
+const lateNight = items.filter((b) => (hoursFacts(b).latest ?? 0) >= 22 * 60);
+const early = items.filter((b) => (hoursFacts(b).earliest ?? 9999) <= 7 * 60);
+const sunday = items.filter((b) => b.hours?.sun && b.hours.sun !== 'Closed');
+const site = Astro.site ?? Astro.url;
+const url = new URL(categoryPath(city, category), site).href;
+
+const intro = `We found ${items.length} ${lc(label)} in ${city}, ${state}${avg ? ` with an average Google rating of ${avg.toFixed(1)} stars` : ''}. ${best ? `${best.name} tops the list${best.googleRating ? ` at ${best.googleRating.toFixed(1)}★ from ${best.googleReviewCount?.toLocaleString()} reviews` : ''}.` : ''}`;
+const faqs = [
+  ...(best ? [{ q: `What is the best ${lc(category)} spot in ${city}?`, a: `By Google rating and review volume, ${best.name} ranks first${best.googleRating ? ` (${best.googleRating.toFixed(1)}★, ${best.googleReviewCount?.toLocaleString()} reviews)` : ''}, followed by ${items.slice(1, 3).map((b) => b.name).join(' and ')}.` }] : []),
+  ...(lateNight.length ? [{ q: `Which ${lc(label)} in ${city} are open late?`, a: `${lateNight.length} stay open until 10 PM or later: ${lateNight.slice(0, 4).map((b) => b.name).join(', ')}.` }] : []),
+  ...(early.length ? [{ q: `Which ${lc(label)} in ${city} open early?`, a: `${early.slice(0, 4).map((b) => b.name).join(', ')} open at 7 AM or earlier.` }] : []),
+  { q: `Are ${lc(label)} in ${city} open on Sunday?`, a: sunday.length ? `${sunday.length} of ${items.length} are open on Sundays, including ${sunday.slice(0, 3).map((b) => b.name).join(', ')}.` : `None of the ${lc(label)} listed in ${city} are open on Sundays.` },
+  { q: `How many ${lc(label)} are in ${city}?`, a: `GOTYOU lists ${items.length} ${lc(label)} in ${city}, ${state}.` },
+];
+const ld = [
+  { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Directory', item: new URL('/businesses/', site).href },
+    { '@type': 'ListItem', position: 2, name: city, item: new URL(cityPath(city), site).href },
+    { '@type': 'ListItem', position: 3, name: label, item: url },
+  ] },
+  { '@context': 'https://schema.org', '@type': 'ItemList', name: `Best ${label} in ${city}, ${state}`, numberOfItems: items.length, itemListElement: items.map((b, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(`/businesses/${b.slug}/`, site).href, name: b.name })) },
+  { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
+];
+---
+
+<BaseLayout title={`Best ${label} in ${city}, ${state} (${items.length} spots)`} description={intro.slice(0, 300)}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
+  <PageHero eyebrow={`${city}, ${state}`} title={`Best ${label} in <em>${city}</em>`} lede={intro}>
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/businesses/">Directory</a> › <a href={cityPath(city)}>{city}</a> › {label}</nav>
+  </PageHero>
+
+  <section class="section">
+    <div class="container layout">
+      <div>
+        <h2 class="h3 sec-title">{items.length} {lc(label)} in {city}, ranked</h2>
+        <SpotList items={items} />
+        <section class="faq">
+          <h2 class="h3 sec-title">{label} in {city}: quick answers</h2>
+          {faqs.map((f) => <details><summary>{f.q}<i class="ti ti-plus"></i></summary><p>{f.a}</p></details>)}
+        </section>
+      </div>
+      <aside>
+        {siblings.length > 0 && (
+          <div class="card card--pad side">
+            <h2>More in {city}</h2>
+            <ul>{siblings.map((s) => <li><a href={categoryPath(city, s.category)}>{plural(s.category)}</a><small>{s.items.length}</small></li>)}</ul>
+          </div>
+        )}
+        {elsewhere.length > 0 && (
+          <div class="card card--pad side">
+            <h2>{label} nearby</h2>
+            <ul>{elsewhere.map((o) => <li><a href={categoryPath(o.city, category)}>{label} in {o.city}</a></li>)}</ul>
+          </div>
+        )}
+        <div class="card card--pad side">
+          <h2>Own one of these?</h2>
+          <p>Claim your free listing to keep your hours and details accurate.</p>
+          <a href="/solution/" class="link-arrow">For business <i class="ti ti-arrow-right"></i></a>
+        </div>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .crumbs {
+    margin-top: 18px;
+    font-size: 14px;
+    opacity: 0.9;
+  }
+  .crumbs a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 36px;
+    align-items: start;
+  }
+  .sec-title {
+    margin-bottom: 16px;
+  }
+  .faq {
+    margin-top: 48px;
+  }
+  .faq details {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 2px 20px;
+    margin-bottom: 10px;
+  }
+  .faq summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    gap: 14px;
+    font-weight: 600;
+    padding: 14px 0;
+  }
+  .faq summary::-webkit-details-marker {
+    display: none;
+  }
+  .faq summary i {
+    color: var(--blue);
+  }
+  .faq details p {
+    color: var(--muted);
+    padding-bottom: 14px;
+  }
+  .side {
+    margin-bottom: 18px;
+  }
+  .side h2 {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .side p {
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  .side ul {
+    list-style: none;
+    display: grid;
+    gap: 8px;
+  }
+  .side li {
+    display: flex;
+    justify-content: space-between;
+  }
+  .side li a {
+    color: var(--blue);
+    font-weight: 500;
+  }
+  .side small {
+    color: var(--muted);
+  }
+  @media (max-width: 900px) {
+    .layout {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

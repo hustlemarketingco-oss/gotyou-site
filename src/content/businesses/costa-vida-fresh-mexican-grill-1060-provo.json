@@ -25,13 +25,19 @@
   "googleRating": 2.3,
   "googleReviewCount": 7,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmI62_n7vPRjmFSK6dBIexFCoG6zaxZhddMAUKh9CDh0GB7HGNO_ISWmep_V3xeSIPIxkZJ_OpGg8486IKP1SBpDalo-B3dfET9_AEkiX6bY4RdwqDpBX_jFbZKcWhE-2hMTfjJRqJCbFwy=w1200-h800-k-no",
-  "description": "Laid-back counter-serve Mexican chain with Baja-style tacos & burritos, plus gluten-free options.",
+  "description": "This Costa Vida is inside the Cougar Eatery on the BYU campus, serving Baja-style tacos, burritos and salads with gluten-free options. It's open from 10:30 AM to 9:30 PM on weekdays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "5": 1
+  },
   "hours": {
     "mon": "10:30 AM - 9:30 PM",
     "tue": "10:30 AM - 9:30 PM",
@@ -46,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

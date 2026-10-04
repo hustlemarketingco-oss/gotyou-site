@@ -21,13 +21,20 @@
   "googleRating": 4.1,
   "googleReviewCount": 2228,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk50qmZA_XpeZ1oZNsuRHvEFi9C9qFvu0ILHCZet3i7krisfbNmmcUH6tZpO2fyl6nkVKLawgDzj-vkNyv3asyZ99U8Q6Tkkmc0OT_qG-R9HBzwkCt6RmHchch_CkDtzkE8SREH5w=w1200-h800-k-no",
-  "description": "Fast-food chain specializing in fried chicken fingers, crinkle-cut fries & Texas toast.",
+  "description": "This Raising Cane's on 1230 North near BYU specializes in chicken fingers, crinkle-cut fries and Texas toast. It's open daily from 10 AM to 3 AM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 182,
+    "2": 145,
+    "3": 192,
+    "4": 368,
+    "5": 1341
+  },
   "hours": {
     "mon": "10:00 AM - 3:00 AM",
     "tue": "10:00 AM - 3:00 AM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

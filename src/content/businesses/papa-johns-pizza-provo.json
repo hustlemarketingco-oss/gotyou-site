@@ -22,11 +22,18 @@
   "googleRating": 3.2,
   "googleReviewCount": 291,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXwTikT1MbN1SLBS48ee0d5KEzK6_uiDrE9y2umyTvRhHjxN6OXaGI815uFndO6XSksFd1tiIrxwprxMZ6_6_gQwS1NrTBsjNrelktoOQ1hv-kJZrbzi0Hg1bfk_1hQ6KY9ZRRSA=w1200-h800-k-no",
-  "description": "Pizza take-out & delivery chain offering classic & specialty pizzas, plus wings, sides & desserts.",
+  "description": "This Papa Johns on North University Avenue offers takeout and delivery pizza, wings, sides and desserts. It's open daily from 10 AM to midnight.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 97,
+    "2": 19,
+    "3": 17,
+    "4": 46,
+    "5": 112
+  },
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
     "tue": "10:00 AM - 12:00 AM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

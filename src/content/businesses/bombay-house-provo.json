@@ -20,13 +20,20 @@
   "googleRating": 4.9,
   "googleReviewCount": 17372,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYTWyQ4DhSrxGqXF8sKS8H1_kNjM7xAdGzN725MUTnj1a2RzdglZW73yXzCgBFjKT8bKKexXjuQljposrKioqzR_Plx3FZYKJvoB-Hs4JifTbKqiynMRIulOQ870XQmtRXYc2Hjw=w1200-h800-k-no",
-  "description": "Acclaimed local chain serving traditional Indian fare, beer & wine in a buzzy atmosphere.",
+  "description": "Bombay House is an acclaimed local chain serving traditional Indian food, including vegetarian and vegan dishes, in a lively dining room on North University Avenue. With more than 17,000 Google reviews and a 4.9-star average, it's the most-reviewed restaurant in the GOTYOU Provo directory. It opens for dinner at 4 PM and is closed on Sundays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 25,
+    "3": 97,
+    "4": 691,
+    "5": 16505
+  },
   "hours": {
     "mon": "4:00 PM - 9:00 PM",
     "tue": "4:00 PM - 9:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

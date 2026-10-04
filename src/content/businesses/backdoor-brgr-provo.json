@@ -22,6 +22,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 59,
+    "3": 55,
+    "4": 123,
+    "5": 1151
+  },
   "hours": {
     "mon": "11:30 AM - 9:00 PM",
     "tue": "11:30 AM - 9:00 PM",
@@ -36,5 +43,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Backdoor BRGR is a burger restaurant on University Avenue in downtown Provo. It's a popular local pick, with nearly 1,500 Google reviews and a 4.5-star average, and it's open for lunch and dinner.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -22,13 +22,20 @@
   "googleRating": 4.9,
   "googleReviewCount": 1239,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgx5dEmmcbrizHNYZWveHvgV0OazX_TVyH3BMazFF0v31SfInCE8We7elDa0hIINEzDdEQU9_ynVog8Fnwra9qEuuyPlWIJqkbmD_2gcoaUyDEJycfoyahkshjfx-RMlHXj2lt=w1200-h800-k-no",
-  "description": "New Jersey–based counter-serve sandwich chain serving jumbo subs filled with cold cuts & toppings.",
+  "description": "This Jersey Mike's on West Cougar Boulevard serves the chain's jumbo subs with cold cuts and toppings, plus catering. It's open daily from 10 AM to 9 PM and holds a 4.9-star average from more than 1,200 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 8,
+    "3": 9,
+    "4": 9,
+    "5": 1189
+  },
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
     "tue": "10:00 AM - 9:00 PM",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

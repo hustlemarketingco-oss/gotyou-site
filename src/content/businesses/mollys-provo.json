@@ -21,13 +21,20 @@
   "googleRating": 4.8,
   "googleReviewCount": 716,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkOuFEzd0eda6JCeKM_tiVCrWztXo5D3Bzu5bnVFO2rSw8ma5zbk-JyDdB5NfmBiyzEt6lZ10L2aLWmj4yuK2dlI29FJO32tVMKcZuESdnPYa2TkVY8LTTDcY_gjw97vEfhdPLeBS5Gb6LJ=w1200-h800-k-no",
-  "description": "American comfort food from barbecue sandwiches to classic entrees in a homey, cafeteria-style space.",
+  "description": "Molly's is a cafeteria-style spot on West Columbia Lane serving American comfort food, from barbecue sandwiches to classic entrees. It's open for lunch Wednesday through Friday and holds a 4.8-star average.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 6,
+    "3": 17,
+    "4": 75,
+    "5": 615
+  },
   "hours": {
     "mon": "Closed",
     "tue": "Closed",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

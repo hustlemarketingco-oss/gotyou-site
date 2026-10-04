@@ -19,13 +19,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 2495,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDDza8-dU5icJkYqCZg4j53boCrsxib8ypykpPjM1oyZQV_zl9yon_FLCydFwUISWT5YisQwNpHdCBtgeZVHDVYLzPn9Ig8TlFk_Lt9xMEyId0Y-L-gNsKa2MvgD0OR9_xcXM=w1200-h800-k-no",
-  "description": "Regional chain known for its comfort-food buffet, global daily specials & free nonalcoholic drinks.",
+  "description": "Chuck-A-Rama is a regional buffet chain on South University Avenue known for comfort food, rotating daily specials and free non-alcoholic drinks. It's open from 11 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 100,
+    "3": 272,
+    "4": 693,
+    "5": 1344
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

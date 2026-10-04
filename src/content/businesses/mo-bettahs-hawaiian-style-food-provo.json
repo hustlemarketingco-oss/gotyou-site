@@ -31,6 +31,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 27,
+    "3": 27,
+    "4": 79,
+    "5": 478
+  },
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
     "tue": "10:30 AM - 10:00 PM",
@@ -45,5 +52,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Mo' Bettahs on 900 East serves Hawaiian-style plate lunches, barbecue and chicken, with catering available. It's open from 10:30 AM to 10 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -19,10 +19,16 @@
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 16
+  },
   "timezone": "America/Denver",
   "claimStatus": "unclaimed",
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Azi's Fish and Chips is a small Provo restaurant focused on fish and chips. It's newer to Google reviews, but early diners have given it a 4.8-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

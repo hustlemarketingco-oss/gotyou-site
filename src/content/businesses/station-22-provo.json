@@ -16,7 +16,14 @@
   "googleRating": 4.2,
   "googleReviewCount": 2156,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkHMginHbE3Iu4Umnp7b4cc_718p0eD3t152wY4L1qivQ2DI00ClbbR84yGyDW19Q1h6sneBR2c3kVk1yAfa1HPNhqPgLLgnd_LWjQXK9i97YcSo9sOM8EgRLXyuIGgxWLJE5hY=w1200-h800-k-no",
-  "description": "Casual eatery serving updated American classics, sandwiches & veggie options in a unique atmosphere.",
+  "description": "Station 22 is a casual downtown Provo eatery on West Center Street serving updated American classics, sandwiches and vegetarian options. It's open for breakfast and lunch, then reopens for dinner, and has more than 2,100 reviews.",
+  "ratingBreakdown": {
+    "1": 150,
+    "2": 138,
+    "3": 196,
+    "4": 395,
+    "5": 1277
+  },
   "hours": {
     "mon": "9:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
     "tue": "9:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
@@ -31,5 +38,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -29,6 +29,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 60,
+    "2": 32,
+    "3": 67,
+    "4": 174,
+    "5": 565
+  },
   "hours": {
     "mon": "8:00 AM - 11:00 PM",
     "tue": "8:00 AM - 11:00 PM",
@@ -43,5 +50,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Don Chuy's Taco Shop is a family-friendly Mexican spot on 900 East near BYU serving tacos, burritos and breakfast. It's open from 8 AM to 11 PM, and until 2 AM on weekends.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

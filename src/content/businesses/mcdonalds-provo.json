@@ -23,12 +23,19 @@
   "googleRating": 3.2,
   "googleReviewCount": 3362,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2GF4QFBnlk-ok5oAIqEJw6NOcsPvjNy_vC-5cVEMAkRi_rN-dbnEpFVFI_qfTetMAN8hWAXFfv6j5d9ofLEJVvH5JAgVbJKHttYXCJgVQa5_p9eCQ-pz6gqiXpARpseWrRnXnZHILZuE=w1200-h800-k-no",
-  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "description": "This McDonald's on 1230 North near BYU is open 24 hours, serving burgers, fries, breakfast and coffee.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 795,
+    "2": 294,
+    "3": 606,
+    "4": 653,
+    "5": 1014
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

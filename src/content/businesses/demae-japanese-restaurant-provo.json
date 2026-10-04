@@ -19,13 +19,20 @@
   "googleRating": 4.4,
   "googleReviewCount": 328,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmc8Nl1EhbH1AAujZ9jEmemdQR9GC0zettfQTd__SGFDcxBeYJ6wGibaRnboWNqlOU3Be6g-aC5Ha-ksfhyBwvm2HKEdLYE3RZsQ9NZf4ybzKgv19DivQdWRWqi6wtZqS5-SeJaa6Lt1dY=w1200-h800-k-no",
-  "description": "Strip-mall spot for sushi, bento boxes & Japanese standards like teriyaki & tempura.",
+  "description": "Demae is a Japanese restaurant on West Center Street in downtown Provo serving sushi, bento boxes, teriyaki and tempura. It's open for lunch and dinner most days.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 13,
+    "3": 21,
+    "4": 36,
+    "5": 236
+  },
   "hours": {
     "mon": "11:30 AM - 8:30 PM",
     "tue": "11:30 AM - 8:30 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

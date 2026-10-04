@@ -25,6 +25,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 1,
+    "3": 12,
+    "4": 26,
+    "5": 414
+  },
   "hours": {
     "mon": "Closed",
     "tue": "Closed",
@@ -39,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Vegan Sun is a vegan restaurant on West Center Street in downtown Provo, open Wednesday through Sunday for lunch and dinner. It holds a 4.8-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

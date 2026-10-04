@@ -20,12 +20,19 @@
   "googleRating": 3.7,
   "googleReviewCount": 1037,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlU7a3MYn7c3kMj5S5TLfzQwiOfM9NoEDL5A9tpQ3jKVjvaVKnk89D8iE3B_Oe4VOCamlHhBuS8CRzBuDiuhRZOKv06wViXHYTIhkCtgknIi_xE5gWOKSK1ODj5M_mJPeOAe63u=w1200-h800-k-no",
-  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "description": "This Wendy's on 1230 North near BYU serves burgers plus sides like chili and baked potatoes, daily from 6 AM to 1 AM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 153,
+    "2": 80,
+    "3": 142,
+    "4": 263,
+    "5": 399
+  },
   "hours": {
     "mon": "6:00 AM - 1:00 AM",
     "tue": "6:00 AM - 1:00 AM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

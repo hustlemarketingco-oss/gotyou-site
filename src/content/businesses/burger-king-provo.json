@@ -19,13 +19,20 @@
   "googleRating": 3.3,
   "googleReviewCount": 1002,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmgicwL_6TazUZqI-WZW-MRZKRYtL6hpXVxd7vDB8TnFn2hp3ZUy6i42Ta4EHQ1QdvI0zer0gRdnMHA40lMEL0FhllSG5HrOjn3eGgHQ8nfSQrOxTr7PBct7HSX-KERcWs6M3I5=w1200-h800-k-no",
-  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "description": "This Burger King on University Avenue in south Provo is open 24 hours a day, serving the chain's flame-grilled burgers, fries and shakes.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 241,
+    "2": 105,
+    "3": 112,
+    "4": 206,
+    "5": 338
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

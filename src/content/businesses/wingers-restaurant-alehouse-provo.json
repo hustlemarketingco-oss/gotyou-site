@@ -23,13 +23,20 @@
   "googleRating": 3.9,
   "googleReviewCount": 1111,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmxUAKSCORlAqgMxoB5c3wnhehspcy7SV_Bh6E-GcJW2CbrjLxz1SVNGDaau-iN7gk968BOWKY9Rx-VCZiHWFRBMuxmGN0wt_4y5mZe3Qcwj18wb8kAjqriZK-cJggYAoy8coV5k2z2mU=w1200-h800-k-no",
-  "description": "Roadhouse-style chain serving wings, burgers & hearty comfort-food plates, plus craft beers.",
+  "description": "Wingers at Provo Towne Centre is a roadhouse-style restaurant serving wings, burgers and hearty comfort food, plus craft beer, with delivery available. It's open from 11 AM to 9:30 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 145,
+    "2": 68,
+    "3": 89,
+    "4": 238,
+    "5": 571
+  },
   "hours": {
     "mon": "11:00 AM - 9:30 PM",
     "tue": "11:00 AM - 9:30 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

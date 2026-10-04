@@ -32,6 +32,11 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 139
+  },
   "hours": {
     "mon": "4:00 PM - 10:30 PM",
     "tue": "4:00 PM - 10:30 PM",
@@ -46,5 +51,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Bro Bro's 9 is an ice cream and dessert shop on Cougar Boulevard that also offers chocolates and dessert catering for events. It opens in the late afternoon and stays open until 10:30 PM or later, with a perfect 5.0 rating.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -25,6 +25,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 8,
+    "3": 17,
+    "4": 35,
+    "5": 823
+  },
   "hours": {
     "mon": "8:00 AM - 10:00 PM",
     "tue": "8:00 AM - 10:00 PM",
@@ -39,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Bowls Superfoods is a health-food spot on North Canyon Road near BYU serving bowls with vegan options. It's open from 8 AM to 10 PM and holds a 4.8-star average across about 900 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

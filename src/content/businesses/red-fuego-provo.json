@@ -21,6 +21,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 9,
+    "3": 16,
+    "4": 33,
+    "5": 215
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -35,5 +42,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Red Fuego is a restaurant on 820 North in northeast Provo, open from 11 AM to 9 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -22,13 +22,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 1991,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmnRsTbqd7U97dWYGl4dGF22Tjcyh7YpJ0mVDXL87g-1A3ED-9tjFvoPfAFPRA1Lhg6wf6IU_E3nhGjzRHBXYGvB34bGPdsVARafWB_N_WM-mZ6o9s9z4cM9PKyFF8osAj3anZPg=w1200-h800-k-no",
-  "description": "Northern Indian specialties & a popular lunch buffet are served amid traditional decor.",
+  "description": "India Palace serves Northern Indian specialties, including vegetarian and vegan dishes, in a traditionally decorated dining room on West Center Street. It's known for its popular lunch buffet and is open from 10:30 AM to 9:30 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 97,
+    "2": 51,
+    "3": 107,
+    "4": 305,
+    "5": 1431
+  },
   "hours": {
     "mon": "10:30 AM - 9:30 PM",
     "tue": "10:30 AM - 9:30 PM",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

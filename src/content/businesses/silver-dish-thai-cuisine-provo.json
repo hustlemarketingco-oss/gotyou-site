@@ -23,13 +23,20 @@
   "googleRating": 4.6,
   "googleReviewCount": 1136,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloqdQoVPQZilHJXNi1TBnKaBeNzzH6u1KptZWV3NB0yQ2VqAXV3PAvRZk-JQs4IO8Q4bF89IDD_v08pYWH1NWX0ex-t1_M7MWvPFkOCS5jgSSAujbCHlt6CV15uQL2MR15WZiX=w1200-h800-k-no",
-  "description": "Small, easygoing stop offering Thai noodle soups, curries, salads, wok dishes & a tea selection.",
+  "description": "Silver Dish is a small, easygoing Thai restaurant on West Center Street serving noodle soups, curries, salads, wok dishes and tea. It's open for lunch and dinner with an afternoon break.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 22,
+    "3": 42,
+    "4": 165,
+    "5": 874
+  },
   "hours": {
     "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
     "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

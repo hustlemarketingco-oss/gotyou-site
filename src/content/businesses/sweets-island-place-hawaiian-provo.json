@@ -16,13 +16,20 @@
   "googleRating": 4.8,
   "googleReviewCount": 942,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnG7r_bx9wMyXWF2GYA0NqDeH_rYR3f_rcnFzp043hwOlzxItVU5jfVSf4XILTNY4JWnb80lbPDFRblK16TobV44ZERTbtRFFQIG4PduL8mv1O5gBI3_kry8XIEhc6hJzkzpo_Luw=w1200-h800-k-no",
-  "description": "Island-themed counter-service eatery offering Hawaiian comfort food platters & tropical beverages.",
+  "description": "Sweet's Island Place is an island-themed counter-service spot on West Columbia Lane serving Hawaiian comfort-food plates and tropical drinks. It's open from 11 AM to 4 PM with a 4.8-star average.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 10,
+    "3": 16,
+    "4": 71,
+    "5": 829
+  },
   "hours": {
     "mon": "11:00 AM - 4:00 PM",
     "tue": "11:00 AM - 4:00 PM",
@@ -37,5 +44,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

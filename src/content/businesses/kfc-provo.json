@@ -19,13 +19,20 @@
   "googleRating": 3.3,
   "googleReviewCount": 1033,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlHvOnT1_WwAM49susLFRIGFKY2Vr8WYthACLg9N1tNARIbAy7tGmdygRvyJNQe75zxaWbsI0xrfW1dqNdtNb3G3lyBhUfviV5Tk6n79K7YS49M-Hlbr-sThmLllLbL2MfTkv49_Q=w1200-h800-k-no",
-  "description": "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+  "description": "This KFC on South University Avenue serves the chain's buckets of fried chicken, combo meals and sides. It's open daily from 10 AM to 10 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 244,
+    "2": 84,
+    "3": 135,
+    "4": 226,
+    "5": 344
+  },
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
     "tue": "10:00 AM - 10:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

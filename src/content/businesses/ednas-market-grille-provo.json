@@ -24,6 +24,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 3,
+    "3": 13,
+    "4": 12,
+    "5": 142
+  },
   "hours": {
     "mon": "11:00 AM - 8:15 PM",
     "tue": "11:00 AM - 8:15 PM",
@@ -38,5 +45,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Edna's Market & Grille is a New American restaurant on West Center Street in downtown Provo. It's open from 11 AM into the evening and holds a 4.6-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

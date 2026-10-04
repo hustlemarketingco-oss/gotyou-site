@@ -20,6 +20,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 13,
+    "3": 25,
+    "4": 34,
+    "5": 272
+  },
   "hours": {
     "mon": "12:00 PM - 8:00 PM",
     "tue": "12:00 PM - 8:00 PM",
@@ -34,5 +41,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Bonsai Sushi is a sushi restaurant on Freedom Boulevard in Provo, open from noon into the evening most days. It carries a 4.5-star average from more than 350 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

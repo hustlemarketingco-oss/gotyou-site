@@ -30,6 +30,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 19,
+    "3": 19,
+    "4": 40,
+    "5": 431
+  },
   "hours": {
     "mon": "11:30 AM - 9:30 PM",
     "tue": "11:30 AM - 9:30 PM",
@@ -44,5 +51,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Quiero Más is a Mexican spot on North University Avenue in downtown Provo serving burritos and casual Mexican food. It's open from 11:30 AM to 9:30 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

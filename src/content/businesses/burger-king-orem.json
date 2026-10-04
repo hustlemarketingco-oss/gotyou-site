@@ -19,13 +19,20 @@
   "googleRating": 3.7,
   "googleReviewCount": 731,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIjU1rNyyqRZ-gPInzDCfINmt4Zonq-RBhYDG0ZMqwRhTraer8QL6zowRogW712XvqyIN1-LmINVCs2B4UNkmvUAOEI2wa9AhLf3GsES0UeuV-4za3H4n1yGBR4biaqhGkVVJv=w1200-h800-k-no",
-  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "description": "This Burger King on South State Street in Orem is open 24 hours a day, serving the chain's flame-grilled burgers, fries and shakes.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 122,
+    "2": 42,
+    "3": 102,
+    "4": 156,
+    "5": 309
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

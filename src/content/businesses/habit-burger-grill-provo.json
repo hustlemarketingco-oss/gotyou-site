@@ -19,13 +19,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 928,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnISjebNgLN0lp1_gc-5WSfwV9CWe09LSuXfL--kKWcDeBGtADhn_5tefOl5H6U3VJ-KVn3bBufjekyz1OkabWjLU5uuk-MRjKjXOY7GJQGXZXwjebImxL57-TE3ZGyzGbMbW2X=w1200-h800-k-no",
-  "description": "Charbroiled burgers star at this fast-food chain also offering deli-type sandwiches, salads & fries.",
+  "description": "The Habit on North University Parkway is a fast-casual chain known for charbroiled burgers, plus sandwiches, salads and fries. It's open daily from 10:30 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 73,
+    "2": 29,
+    "3": 76,
+    "4": 164,
+    "5": 586
+  },
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
     "tue": "10:30 AM - 9:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

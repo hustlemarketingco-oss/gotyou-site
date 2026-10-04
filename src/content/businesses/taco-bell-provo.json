@@ -26,7 +26,14 @@
   "googleRating": 3.8,
   "googleReviewCount": 1354,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmD9V43bklXyoqWe6e-mnqlEIGqv9xey7IBsN1ydhTRRr5rqcC9uxLIpWWEHuVBYdq2SD7YZJudVKizF2CUDkaAEUlLCxHx0UgDduuIf9I4FSTpfIcl9mMXqnCch7BAoVpNMNcjsr3uprkS=w1200-h800-k-no",
-  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "description": "This Taco Bell on North Freedom Boulevard is open 24 hours, serving tacos, quesadillas, nachos and breakfast.",
+  "ratingBreakdown": {
+    "1": 177,
+    "2": 77,
+    "3": 198,
+    "4": 309,
+    "5": 593
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -27,6 +27,11 @@
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 7,
+    "5": 264
+  },
   "hours": {
     "mon": "Closed",
     "tue": "Closed",
@@ -41,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Ambrosial Bakery is a small bakery in downtown Provo specializing in cakes, cupcakes and desserts, and it also caters events. It's open Wednesday through Saturday afternoons and evenings, and holds a perfect 5.0 rating from more than 270 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

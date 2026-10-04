@@ -30,6 +30,10 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 223
+  },
   "hours": {
     "mon": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
     "tue": "6:00 AM - 2:00 PM, 7:00 PM - 9:00 PM",
@@ -44,5 +48,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Herbalife Provo Be Fit is a nutrition and juice bar on 500 West serving shakes, teas and coffee drinks. It opens at 6 AM and has a perfect 5.0 rating from more than 200 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

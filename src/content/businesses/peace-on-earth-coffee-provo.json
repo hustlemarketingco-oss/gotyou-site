@@ -22,6 +22,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 33,
+    "3": 48,
+    "4": 151,
+    "5": 978
+  },
   "hours": {
     "mon": "6:30 AM - 8:00 PM",
     "tue": "6:30 AM - 8:00 PM",
@@ -36,5 +43,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Peace on Earth Coffee is a coffee shop on 300 West in downtown Provo, open from 6:30 AM to 8 PM and until 10 PM on Fridays. It has more than 1,200 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

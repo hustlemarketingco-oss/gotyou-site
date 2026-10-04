@@ -25,13 +25,20 @@
   "googleRating": 4.1,
   "googleReviewCount": 1537,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_pqIXNVfz_F-clyL4iagxf0qG6RSvI_tsy7wy89d3bqAT10cfmf5qp3_Uebje6MV7fJgOXoS-E7iTs8bd8gC4g10VFdoQpE5Aer4I7itDpm69AZa5OrjTP6k_TAAM60LWSsXw=w1200-h800-k-no",
-  "description": "Fast-food chain for Mexican standards like tacos, burritos & quesadillas plus breakfast.",
+  "description": "This Del Taco on North State Street in Orem is open 24 hours, serving tacos, burritos, quesadillas, burgers and breakfast.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 99,
+    "2": 56,
+    "3": 222,
+    "4": 420,
+    "5": 740
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

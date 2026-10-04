@@ -21,12 +21,19 @@
   "googleRating": 3.3,
   "googleReviewCount": 136,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAM3c_6Py6ALo4zlrgiyB92IJSRqZ8Pcb17Tjbx7aRrbi7S5nq0S92cJQ3GZ54au_6yzov75HltcsOBjZjmYyQVYJp6Qv4w-oZ7p-8_Y4OStnNgS39APc87WAI5zNyaDMTwjU=w1200-h800-k-no",
-  "description": "Fast-food outlet serving up namesake root beer, plus burgers, chicken & fries.",
+  "description": "A&W in south Provo is the fast-food outlet known for its namesake root beer, alongside burgers, chicken and fries. It's on University Avenue and serves from 10:30 AM to 9 PM every day.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 16,
+    "3": 18,
+    "4": 33,
+    "5": 39
+  },
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
     "tue": "10:30 AM - 9:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -16,12 +16,19 @@
   "googleRating": 4.7,
   "googleReviewCount": 1615,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmul119bPIz6_NtFmxMLf6XXhgnBjorasW2X_zjEQ_mA43v3c1IROEkOXSERANvg5PONsL4HpQ4WAEe6-kdkNwjsbGvR3rCiNnDCVD3x9hlD-FZwrzgNsgl6ALKEOkigbpmH02t5LKVPhw=w1200-h800-k-no",
-  "description": "Mellow, modern ice cream parlor scooping housemade, old-fashioned ice cream in unique flavors.",
+  "description": "Rockwell Ice Cream is a mellow, modern parlor on North University Avenue in downtown Provo scooping house-made, old-fashioned ice cream in unique flavors. It's open from 1 PM to 10 PM, later on weekends, with a 4.7-star average.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 27,
+    "3": 60,
+    "4": 235,
+    "5": 1263
+  },
   "hours": {
     "mon": "1:00 PM - 10:00 PM",
     "tue": "1:00 PM - 10:00 PM",
@@ -36,5 +43,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

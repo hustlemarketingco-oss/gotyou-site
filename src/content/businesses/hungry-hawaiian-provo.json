@@ -32,6 +32,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 19,
+    "3": 30,
+    "4": 41,
+    "5": 448
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -46,5 +53,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Hungry Hawaiian is a Hawaiian and Asian-fusion restaurant on North University Avenue in downtown Provo that also caters. It's open from 11 AM to 9 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

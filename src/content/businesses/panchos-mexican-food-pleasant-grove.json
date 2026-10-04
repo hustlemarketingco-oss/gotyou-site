@@ -25,13 +25,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1011,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBVOyYCbwkJCY7tRFYFdL0PIsTL-MdgUvbGWRuax9FbEHbktNcBebY0V9fo66msXDnDjk2IywLO43E5MGOXnSRw9IyE49eJpzcz159nZJ9_oSztHPmkgrVJMwioPgSaVR5Ft1RfcRsZeSr=w1200-h800-k-no",
-  "description": "Low-key, quick-serve eatery, open 24/7, offering hearty Mexican combo plates plus a salsa bar.",
+  "description": "Pancho's Mexican Food is a low-key, quick-serve Mexican spot on State Road in Pleasant Grove with hearty combo plates and a salsa bar. It's open from 7 AM until 1 or 2 AM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 87,
+    "2": 36,
+    "3": 78,
+    "4": 222,
+    "5": 588
+  },
   "hours": {
     "mon": "7:00 AM - 1:00 AM",
     "tue": "7:00 AM - 1:00 AM",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

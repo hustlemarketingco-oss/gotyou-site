@@ -25,13 +25,20 @@
   "googleRating": 3.8,
   "googleReviewCount": 2896,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcMPjpT7w4evYBYkbmgejjgYtO96obbTl5LMBbvOTOkcJevBp_NVhdbwbT3shtZPAhMfM0J8TQnayVYY5lkqH7Qsr1qMWAeXrEuHFJOt7K74DBcZM-_wf3e5IYhiLTmWnzWFL8W4kO0Lw=w1200-h800-k-no",
-  "description": "Counter-serve eatery dishing up Mexican classics including hand-rolled tortillas, burritos & tacos.",
+  "description": "This Cafe Rio on North University Parkway is a counter-serve Mexican spot known for hand-rolled tortillas, burritos and tacos, and it also caters. It's open until 10 PM most nights and later toward the weekend.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 495,
+    "2": 203,
+    "3": 235,
+    "4": 509,
+    "5": 1454
+  },
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
     "tue": "10:30 AM - 10:00 PM",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

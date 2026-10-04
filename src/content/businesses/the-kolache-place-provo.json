@@ -21,11 +21,18 @@
   "googleRating": 4.8,
   "googleReviewCount": 1923,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWls4-ZW-UmaCFtadX5M69WxwRWBDd42gEYWlju_suPI1bEVwDf3diY-f3KPwbhhbDOFcHS-84CipBndysyUAIxWQMrGQdNvbxdHB8Vx9SGJt97_8Ch3HERnI9x-9mRmQbYAw7Ylbg=w1200-h800-k-no",
-  "description": "Kolaches with sweet & savory fillings are the draw at this little bake shop with outdoor tables.",
+  "description": "The Kolache Place is a little bake shop on West Center Street known for sweet and savory kolaches, with outdoor tables and catering. It's a morning spot, open 6:30 AM to 1 PM, with a 4.8-star average from nearly 2,000 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 21,
+    "3": 47,
+    "4": 181,
+    "5": 1658
+  },
   "hours": {
     "mon": "6:30 AM - 1:00 PM",
     "tue": "6:30 AM - 1:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

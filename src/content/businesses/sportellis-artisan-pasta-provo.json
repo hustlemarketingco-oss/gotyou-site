@@ -22,6 +22,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 11,
+    "3": 16,
+    "4": 38,
+    "5": 1422
+  },
   "hours": {
     "mon": "11:30 AM - 9:00 PM",
     "tue": "11:30 AM - 9:00 PM",
@@ -36,5 +43,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Sportellis Artisan Pasta is an Italian restaurant on North University Avenue focused on handmade pasta. It's open for lunch and dinner and holds a 4.9-star average from more than 1,500 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -21,11 +21,18 @@
   "googleRating": 3.3,
   "googleReviewCount": 1156,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxAWHEDda8JkbrWjEt84-N4gCel7N787ueEOVftm41YcT5IFKxlK9Btzacq4avNtlljfkM7edde95Pk7e-jp1uje84fRiIxq062D8CCXIkLSRvpYYe6CdiBgErXZVE0KsEnk_5L0qvrU0=w1200-h800-k-no",
-  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "description": "This Little Caesars on 900 East near BYU is a carry-out pizza spot with wings and signature breadsticks. It's open from 10 AM to 11 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 322,
+    "2": 96,
+    "3": 126,
+    "4": 195,
+    "5": 417
+  },
   "hours": {
     "mon": "10:00 AM - 11:00 PM",
     "tue": "10:00 AM - 11:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

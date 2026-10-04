@@ -29,6 +29,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 8,
+    "3": 3,
+    "4": 10,
+    "5": 67
+  },
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
     "tue": "7:00 AM - 9:00 PM",
@@ -43,5 +50,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "TOUS les JOURS is a bakery-cafe on University Parkway in Orem with cakes, pastries, coffee and breakfast. It's open daily from 7 AM to 9 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

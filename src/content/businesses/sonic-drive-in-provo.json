@@ -26,13 +26,20 @@
   "googleRating": 3.6,
   "googleReviewCount": 1977,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmq3AtdTGfziXvZ76IHct00ua6IqkL30eniQIV9dVoebX8gC5NvMg-9G_EEaSn-9kUFLjKjUP-LYI4ZYLn2Swl_IHoJvWTAnooCnx8u8-ehHzZ3gYGivmZ37_uGh5IUfXp9M5Z2QCq5sZ92=w1200-h800-k-no",
-  "description": "Fast-food burger & fries joint with an old-school feel, including retro drive-in service.",
+  "description": "Sonic on North State Street is a retro drive-in serving burgers, fries, breakfast and drinks. It's open from 7 AM to 1 AM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 330,
+    "2": 142,
+    "3": 322,
+    "4": 474,
+    "5": 709
+  },
   "hours": {
     "mon": "7:00 AM - 1:00 AM",
     "tue": "7:00 AM - 1:00 AM",
@@ -47,5 +54,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

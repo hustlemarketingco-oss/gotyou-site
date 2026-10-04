@@ -26,13 +26,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 3846,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9zztG5FOqmPzFy1F6ZYRajlNcfN1se5TJQv66aFca1r2vmxVOYibDGZo7T0i7_ArnEt6e50xn55ND5gMnleSuLgfDhEHb-HcL5bY9_bq2Skd3EFxGj2ABPbPNXefcHbUNjD9m=w1200-h800-k-no",
-  "description": "Chain for gourmet burgers & other American comfort fare.",
+  "description": "Red Robin at Provo Towne Centre is a sit-down chain for gourmet burgers and American comfort food, with a bar. It's open from 11 AM to 10 PM and has more than 3,800 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 260,
+    "2": 154,
+    "3": 258,
+    "4": 710,
+    "5": 2464
+  },
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -47,5 +54,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

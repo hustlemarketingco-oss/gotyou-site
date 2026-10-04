@@ -23,11 +23,18 @@
   "googleRating": 3.3,
   "googleReviewCount": 2761,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvSs9O2oZldDGqXmoFPYRxMtRY3PEdyZiuEuY880eiPfsSvqTmzFS0beq4McDpfzt3A3upwSN2Q7IVxkuCy-M06NXjjvSK7_loRmJ3evabzLRIaXyrkPNtlWc0fQ9CAqyX9xB1Eg=w1200-h800-k-no",
-  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "description": "This McDonald's on South University Avenue is open 24 hours, serving burgers, fries, breakfast and coffee.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 591,
+    "2": 223,
+    "3": 484,
+    "4": 572,
+    "5": 891
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -23,13 +23,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 7068,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPUzLxuXdrnxJySP-Ai2d0KW9aJVvcuS970TqnrIymN1xULVOEGhrLIYyOE-XrJcKmVrZyTGgChnKJRVQISMjP3dsTeTHsFlThtGDeVnfJnu8pUBSNXyKWqHZaLZUah9nw_6pWQC8ePZw=w1200-h800-k-no",
-  "description": "Classic burger chain serving customizable burgers, hand-cut fries & shakes.",
+  "description": "This In-N-Out on West Main Street in American Fork serves the chain's customizable burgers, hand-cut fries and shakes. It's open until 1 AM, and 1:30 AM on weekends, with more than 7,000 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 160,
+    "2": 150,
+    "3": 404,
+    "4": 1360,
+    "5": 4994
+  },
   "hours": {
     "mon": "10:30 AM - 1:00 AM",
     "tue": "10:30 AM - 1:00 AM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

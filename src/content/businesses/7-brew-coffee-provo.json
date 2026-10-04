@@ -22,6 +22,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 7,
+    "3": 2,
+    "4": 7,
+    "5": 191
+  },
   "hours": {
     "mon": "5:30 AM - 10:00 PM",
     "tue": "5:30 AM - 10:00 PM",
@@ -36,5 +43,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "7 Brew Coffee is a coffee stop on North University Parkway in Provo that opens at 5:30 AM for early commuters and stays open until 10 PM most nights, with later hours on Fridays. It's one of the area's best-rated coffee spots, with a 4.7-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

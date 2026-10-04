@@ -21,7 +21,14 @@
   "googleRating": 4.4,
   "googleReviewCount": 2344,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIyo2P3s11g1qdIGEXx8f8SjGqqMuA97HG_6-2aUoysVKe8on5MclMJU-TT_2Ka0Hg3I2DF32PS_mOlYCIDMxwin82op66hbu82fcKebd7_diEQnWjDYZnyCwZNKBeQOYg2gvzBDbqJg32=w1200-h800-k-no",
-  "description": "Colorful, popular eatery known for its specialty burgers, sweet potato fries & shakes.",
+  "description": "CHOM Burger is a colorful, popular burger spot just north of downtown Provo, known for specialty burgers, sweet potato fries and shakes. It's open from 11 AM to 10 PM and has more than 2,300 reviews.",
+  "ratingBreakdown": {
+    "1": 94,
+    "2": 89,
+    "3": 174,
+    "4": 422,
+    "5": 1565
+  },
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -36,5 +43,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

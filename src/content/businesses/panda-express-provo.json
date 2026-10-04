@@ -26,13 +26,20 @@
   "googleRating": 3.9,
   "googleReviewCount": 1595,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgtBDqWCie5GNzUGHuQ_1KFZxeaFZDEXHF_yNLn30VAAKPJBIlOEztXfI2sJv2eEodWz9eoTz-OmTj0ghQ8lmPzHmRMXaUntvcXBrUkYlpmzUgu0QQlWUdMA9MrM-MPUrH6vOD=w1200-h800-k-no",
-  "description": "Fast-food chain for Chinese standards, including some health-conscious options.",
+  "description": "This Panda Express on North University Avenue near BYU serves the chain's Chinese-American standards and noodles, with catering available. It's open from 10 AM to 11:30 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 190,
+    "2": 83,
+    "3": 174,
+    "4": 400,
+    "5": 748
+  },
   "hours": {
     "mon": "10:00 AM - 11:30 PM",
     "tue": "10:00 AM - 11:30 PM",
@@ -47,5 +54,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

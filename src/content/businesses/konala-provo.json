@@ -21,6 +21,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 7,
+    "3": 14,
+    "4": 32,
+    "5": 299
+  },
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
     "tue": "10:00 AM - 9:00 PM",
@@ -35,5 +42,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Konala is a restaurant on West Cougar Boulevard near BYU, open daily from 10 AM to 9 PM with a 4.7-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

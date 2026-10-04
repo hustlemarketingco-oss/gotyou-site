@@ -15,6 +15,9 @@
   "googleRating": 5,
   "googleReviewCount": 3,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7IEIi9Bxjp5k8rOYSJpbFO6Rdeb0mTQwqGOpmSJc4jv6jAZrfz7iJBSKBrkHBV-QALctOM1Y4MUY-bF7yyvm4E94CswV4YmS2d7lng4tWq0lso7K5JuNyJ2ydII4gzYjuRcCfA5J_CQcx=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 3
+  },
   "hours": {
     "mon": "9:30 AM - 9:30 PM",
     "tue": "9:30 AM - 9:30 PM",
@@ -29,5 +32,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Guatemex is a food truck on West 200 North in Provo serving quick Guatemalan- and Mexican-style food. It's open daily from 9:30 AM to 9:30 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -21,12 +21,19 @@
   "googleRating": 4.6,
   "googleReviewCount": 3070,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkK6h3vrzhF30mH3NTUhudxSBa8KNiJicWO18Rlp8niWYazfohYAMPSkw5GQg1ZnHThAg9r-mL1QGHR6IdDbuyVWSzWJRW7qW9eL9qWWAhlmwD0cLBvMXXYDYf1yrLQNbQbNHnd=w1200-h800-k-no",
-  "description": "This cozy outpost for a food truck outfit serves Korean take-out fare from a walk-up window.",
+  "description": "Cupbop started as a food truck and serves Korean BBQ in a cup from a walk-up window near BYU. It's open from 10:30 AM to 9 PM and is one of Provo's most-reviewed Korean spots.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 95,
+    "2": 59,
+    "3": 87,
+    "4": 355,
+    "5": 2474
+  },
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
     "tue": "10:30 AM - 9:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

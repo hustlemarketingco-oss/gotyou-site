@@ -19,13 +19,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 2038,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkY1HrQjRF3Juuo61OV46geBChOjmUJWs6bWc9X5DLpUVb-Qs6tJlyPyfELSAwKtU-1q8dDnTMv1BRPDx5gkaIX8HdoFXo4nndBgrLoYXEaDPmUNN32i4wH2ExRMWsnKZF-je9UXukhGEO2=w1200-h800-k-no",
-  "description": "A simple, colorful spot serving Mexican & Salvadoran specialties, like pupusas, chile verde & tacos.",
+  "description": "El Mexsal is a colorful, casual spot in Provo serving Mexican and Salvadoran food, including pupusas, chile verde and tacos. It's open from 11 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 108,
+    "2": 56,
+    "3": 150,
+    "4": 437,
+    "5": 1287
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

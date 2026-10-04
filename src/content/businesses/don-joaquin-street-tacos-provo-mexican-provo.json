@@ -23,13 +23,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 3294,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWndTYszTd0j-8BgJVdNlw2KHryKuraaznJuGKtlBUY1Ixg2tnKtYkUO-583E0hvn_b68sY194et0zTQ-cKoEWZ0uf14nG8zsKbxlseD8xhqjP170bGJ7pg3bfVDTvOzwRYs3iD63A=w1200-h800-k-no",
-  "description": "No-frills counter-serve eatery serving Mexican fare including tacos, burritos, quesadillas & more.",
+  "description": "Don Joaquin Street Tacos is a no-frills counter-serve spot on 1230 North serving tacos, burritos and quesadillas. It's open daily from 10 AM to midnight and has more than 3,200 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 137,
+    "2": 75,
+    "3": 141,
+    "4": 555,
+    "5": 2386
+  },
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
     "tue": "10:00 AM - 12:00 AM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

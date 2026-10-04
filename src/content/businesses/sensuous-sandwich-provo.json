@@ -24,6 +24,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 25,
+    "3": 35,
+    "4": 135,
+    "5": 618
+  },
   "hours": {
     "mon": "10:30 AM - 8:00 PM",
     "tue": "10:30 AM - 8:00 PM",
@@ -38,5 +45,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Sensuous Sandwich is a sandwich shop on West Center Street in downtown Provo, open from 10:30 AM to 8 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

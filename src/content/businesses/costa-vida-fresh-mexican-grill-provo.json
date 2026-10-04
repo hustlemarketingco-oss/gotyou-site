@@ -25,13 +25,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1667,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGlItXQ4G4jaBwt20h_l7u65WCXPkvu2SUMrp88UAjcIO65RX6xziWqE7ySW7Hb6Hb2gGMz9rRTmlTXL6m1uZH95vmiL-qgI9oh0ohYG3UJOrPCsUxZ2nZw3UB9aO8bxY1S-N7=w1200-h800-k-no",
-  "description": "Laid-back counter-serve Mexican chain with Baja-style tacos & burritos, plus gluten-free options.",
+  "description": "This Costa Vida on North University Avenue is a laid-back, counter-serve Mexican spot with Baja-style tacos and burritos plus gluten-free options. It's open from 10:30 AM to 9 PM most nights, later on Fridays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 125,
+    "2": 57,
+    "3": 118,
+    "4": 405,
+    "5": 962
+  },
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
     "tue": "10:30 AM - 9:00 PM",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

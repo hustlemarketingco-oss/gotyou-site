@@ -23,6 +23,13 @@
   "amenities": [
     "Wheelchair accessible entrance"
   ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "3": 3,
+    "4": 6,
+    "5": 14
+  },
   "hours": {
     "mon": "8:00 AM - 5:00 PM",
     "tue": "8:00 AM - 11:00 AM, 12:00 PM - 5:00 PM",
@@ -37,5 +44,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Harvey's Engineering Café is a sandwich and coffee counter in the Engineering Building at Brigham Young University, open weekdays during class hours.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

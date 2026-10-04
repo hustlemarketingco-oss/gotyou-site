@@ -26,13 +26,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1079,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlx4raxVygKDLNif0UzSt6G_nHBlzcGLNih9V97ZcjuP9Vom3JmD85ragaTfeq6gaYfRZQHgj7D73bW6FgmQAmD67NQlO82ull9SasSNnRM7LFnNUKptsYghJPjNFR96vAZMdGDXpoW8-s=w1200-h800-k-no",
-  "description": "Relaxed hangout with late-night hours, occasional live music & a menu of crêpes, panini & salads.",
+  "description": "Roll Up Crepes is a relaxed hangout on University Parkway in Orem with a menu of crepes, panini and salads, and occasional live music. It's open until midnight, making it a popular late-night stop.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 84,
+    "2": 60,
+    "3": 88,
+    "4": 177,
+    "5": 670
+  },
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
     "tue": "10:00 AM - 12:00 AM",
@@ -47,5 +54,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

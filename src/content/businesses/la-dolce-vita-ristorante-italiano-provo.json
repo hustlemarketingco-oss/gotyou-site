@@ -24,13 +24,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1255,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEX6ocSZ0vQDrCcqO2GeDT2nJi3xWlVV1qlrJOzvENmjckElqVVp6rYrxiD_FZCkKAVtOm4i8RbdF9X-YAeqPq8EMQp7ufVjoRmANscj2BrzAAp2nAmUubKM-5WfGgviPcSJk=w1200-h800-k-no",
-  "description": "Neapolitan-style eatery serving pizza, pasta & entrees in a welcoming space with old-school decor.",
+  "description": "La Dolce Vita is a Neapolitan-style Italian restaurant on 100 East in downtown Provo serving pizza, pasta and entrees in a welcoming space with old-school decor. It's open from 11 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 73,
+    "3": 104,
+    "4": 204,
+    "5": 782
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -45,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

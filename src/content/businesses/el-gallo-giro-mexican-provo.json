@@ -25,13 +25,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1782,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhmZU_TnOgcvhvMde5eyjojmo36JT71BArvNlIkqIpaWAVsVOA2KO9jkS_xQILw_WiSOH4ivxTd5_HRmIhc_HPyRoF6D6DmopGxOsQVtY0to2cLKZgUxGHhqbA2wTGvSGVvOj3Og=w1200-h800-k-no",
-  "description": "Quaint Mexican grill with patio seating preparing tortas, street tacos & classic entrees.",
+  "description": "El Gallo Giro is a Mexican grill on North University Avenue with patio seating, serving tortas, street tacos and breakfast. It's open from 9 AM to 9 PM most days.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 182,
+    "2": 74,
+    "3": 94,
+    "4": 271,
+    "5": 1161
+  },
   "hours": {
     "mon": "9:00 AM - 9:00 PM",
     "tue": "9:00 AM - 9:00 PM",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

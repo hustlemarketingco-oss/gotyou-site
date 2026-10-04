@@ -21,11 +21,18 @@
   "googleRating": 4.5,
   "googleReviewCount": 5260,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkSEjuhHJMkmzC7uTM_I-HH-vpRIopgQplXF1dw-C9uJHkXQjgdCa4ci2r3kfM_fiLAdCTFrSVk-ArFKiE25oPSKxzzM0S00JDDc0jeBNBDDMLtoG5Y8uryF-B2lyOOfhvHlWcGq4K2GiQ=w1200-h800-k-no",
-  "description": "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
+  "description": "This Denny's on Freedom Boulevard is open 24 hours, serving classic American diner food and all-day breakfast. It's one of the most-reviewed restaurants in Provo, with more than 5,000 reviews.",
   "amenities": [
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 246,
+    "2": 106,
+    "3": 297,
+    "4": 753,
+    "5": 3858
+  },
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

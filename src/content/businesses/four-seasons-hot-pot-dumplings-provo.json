@@ -20,13 +20,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 627,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkzE47PcgPNlUzJ472_kY7tvDfDCLtjYaBZS7inNlKiNG-YMehW_mNyNwwNQUOvjHCKyeYf0-vUjuMEjrJM3ps7GGSezbTBghJnpnqI8TgRDaGK1OsiNERELiPma1ceLNQ09ova2GxzfQ6i=w1200-h800-k-no",
-  "description": "Low-key restaurant offering Chinese hot pots & dumplings in a modestly appointed dining room.",
+  "description": "Four Seasons Hot Pot & Dumplings is a low-key spot on North University Avenue serving Chinese hot pot and dumplings, with sushi on the menu too. It's open from 11:30 AM to 9:30 PM, later on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 17,
+    "3": 31,
+    "4": 93,
+    "5": 453
+  },
   "hours": {
     "mon": "11:30 AM - 9:30 PM",
     "tue": "11:30 AM - 9:30 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

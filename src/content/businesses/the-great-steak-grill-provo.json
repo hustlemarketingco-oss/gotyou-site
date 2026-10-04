@@ -26,6 +26,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 7,
+    "3": 21,
+    "4": 136,
+    "5": 573
+  },
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "11:00 AM - 8:00 PM",
@@ -40,5 +47,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "The Great Steak Grill is a quick-serve steak and grill spot on West Center Street, open from 11 AM to 8 PM with a 4.6-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

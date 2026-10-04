@@ -25,6 +25,13 @@
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 3,
+    "3": 3,
+    "4": 15,
+    "5": 246
+  },
   "hours": {
     "mon": "12:00 PM - 10:00 PM",
     "tue": "12:00 PM - 10:00 PM",
@@ -39,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Fruiteria is a dessert and snack shop on West Cougar Boulevard near BYU serving ice cream and fruit-based treats. It's open from noon to 10 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

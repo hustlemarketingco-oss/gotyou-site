@@ -23,13 +23,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 3741,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkp10u3q3IvOvctmkmOQ3ZbKEvCrQAEUlAsv7gmOwxq7gPGQ6t4Qono-T4SJvFlYfyvT8tQQW4aH4erSP8Y8BpHvWaYMkAX4UUaILCuFvJlQxhRPolf1YBrhe2m4Xd556vyStw-bw=w1200-h800-k-no",
-  "description": "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides.",
+  "description": "This Chick-fil-A on West Cougar Boulevard serves the chain's chicken sandwiches, nuggets, salads and breakfast, and offers catering and delivery. It opens at 6:30 AM and is one of the busiest spots in the area, with more than 3,700 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 152,
+    "2": 86,
+    "3": 191,
+    "4": 694,
+    "5": 2618
+  },
   "hours": {
     "mon": "6:30 AM - 10:00 PM",
     "tue": "6:30 AM - 10:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -2,17 +2,20 @@
 import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
+import { IS_PREVIEW } from '../lib/deploy';
 
 interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  noindex?: boolean;
 }
 
 const {
   title,
   description = 'GOTYOU is the daily match between locals and the businesses near them — and it pays you real cash for showing up.',
   ogImage = '/images/site/og-gotyou.jpg',
+  noindex = false,
 } = Astro.props;
 
 const fullTitle = title === 'GOTYOU' ? title : `${title} | GOTYOU`;
@@ -30,6 +33,8 @@ const ogImageUrl = new URL(ogImage, Astro.site ?? Astro.url).href;
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    {(noindex || IS_PREVIEW) && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- Open Graph -->
     <meta property="og:title" content={fullTitle} />

@@ -24,13 +24,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1982,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVcQAF8r00tE_BHjQi_km__4Q0VwlYHEcy4c-3BRWztPWiBmij8oBvPODBw7MtrDLnATgamDtepiuFUJBPAXe2CNrQ6XYLZ2mfHnmxXjuMxLYoXGqOnLQ_hGYfgv4_nJ112VRD=w1200-h800-k-no",
-  "description": "Counter-serve local chain serving hearty soups, innovative salads & diverse sandwiches.",
+  "description": "Cafe Zupas is a counter-serve local chain in north Provo serving hearty soups, salads and sandwiches, with catering available. It's open from 11 AM to 9 PM most days.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 162,
+    "2": 96,
+    "3": 130,
+    "4": 421,
+    "5": 1173
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -45,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

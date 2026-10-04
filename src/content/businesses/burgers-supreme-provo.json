@@ -21,12 +21,19 @@
   "googleRating": 4.5,
   "googleReviewCount": 2961,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxXaZGV2jptvkPDVRwsGbXTjvR8sImpb8HndNnrWMsfT3VsNq2tZ07DN1aKPeO6NgJBePNZo2HwcQil2AIbXkfT4mwclSKa9dIiCGG6-kVuSmn8L9qloYoqM_rcRcDE8pBauYw=w1200-h800-k-no",
-  "description": "Established, modest restaurant offering a large menu of burgers & sandwiches, plus fried fare.",
+  "description": "Burgers Supreme is a long-established Provo restaurant on University Parkway with a large menu of burgers, sandwiches and fried favorites. It's open until 10:30 PM and has nearly 3,000 Google reviews with a 4.5-star average.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 115,
+    "2": 82,
+    "3": 169,
+    "4": 574,
+    "5": 2021
+  },
   "hours": {
     "mon": "10:30 AM - 10:30 PM",
     "tue": "10:30 AM - 10:30 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

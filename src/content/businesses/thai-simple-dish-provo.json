@@ -25,6 +25,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 7,
+    "3": 6,
+    "4": 16,
+    "5": 422
+  },
   "hours": {
     "mon": "Closed",
     "tue": "Closed",
@@ -39,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Thai Simple Dish is a quick-serve Thai spot on East 300 South, open Wednesday through Sunday with a 4.8-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

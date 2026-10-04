@@ -19,6 +19,9 @@
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "5": 4
+  },
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
     "tue": "10:00 AM - 9:00 PM",
@@ -33,5 +36,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Tequers is a quick-serve food spot on North State Street in Provo, open from 10 AM to about 9 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

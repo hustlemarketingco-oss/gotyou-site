@@ -21,13 +21,20 @@
   "googleRating": 4.7,
   "googleReviewCount": 1460,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYqU1XBulPchF5vmKGihCM_WIfd2jq7urIOk_8iyP6Lj8HtWr36pTYyQQg-v4zaCqpPrwNF0FbNC_YKtBemPDA5NiMTY5rRMu4UJJ5IMAd1zF72TEVEuF-aCpC1iEuXxj7DFiuDg=w1200-h800-k-no",
-  "description": "Eatery known for Polish & beef hot dogs served with locally baked buns & a signature sauce.",
+  "description": "J.Dawgs is a Provo hot dog spot near BYU known for Polish and beef dogs on locally baked buns with a signature sauce. It's open from 11 AM to 10 PM and holds a 4.7-star average.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 14,
+    "3": 64,
+    "4": 259,
+    "5": 1107
+  },
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

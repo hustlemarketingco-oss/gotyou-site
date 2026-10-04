@@ -23,13 +23,20 @@
   "googleRating": 4,
   "googleReviewCount": 479,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwyajfXj--TAutXOYKL9rO_eIHUG0-yQugSrDysMuoARYjfjXvsQHPR-R92d8YwIfSULH-7WTsi-TVWrR2yz7r0bRtRPdV0zDKMyS0ck7qr6cvlt7_QGNa2WX_TnAo2EvM8JDE=w1200-h800-k-no",
-  "description": "Basic storefront bistro dishing out all the usual Chinese standbys, with popular lunch specials.",
+  "description": "China Town is a no-frills Chinese restaurant on South State Street in Provo serving the classic standbys, known for its lunch specials, with delivery available. It's open from 11 AM to 8 PM most days.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 63,
+    "2": 33,
+    "3": 41,
+    "4": 69,
+    "5": 273
+  },
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "11:00 AM - 8:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

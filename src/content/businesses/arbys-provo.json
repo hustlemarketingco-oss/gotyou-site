@@ -23,13 +23,20 @@
   "googleRating": 3.9,
   "googleReviewCount": 1175,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDs5WB4WqmodiT4TNYYvooeo7uog1f_6WKha9i15AEoNfVb-WeLcXlDK0w8QZUWYUe4T9_0zQkyTQZyu-638M6rvRv-8ZhYebRKnYBpCd-J2Sf4-aPGTIVQi0m9eYrCi5tV7jyQw=w1200-h800-k-no",
-  "description": "Fast-food chain, known for its roast beef, serving up hot & cold sandwiches, fries & shakes.",
+  "description": "Arby's in south Provo is the fast-food chain known for roast beef, serving hot and cold sandwiches, fries and shakes. It stays open until midnight early in the week and 1 AM later in the week, making it a late-night option near University Avenue.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 117,
+    "2": 62,
+    "3": 170,
+    "4": 344,
+    "5": 482
+  },
   "hours": {
     "mon": "9:00 AM - 12:00 AM",
     "tue": "9:00 AM - 12:00 AM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

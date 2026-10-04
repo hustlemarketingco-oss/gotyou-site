@@ -19,12 +19,18 @@
   "googleRating": 4.7,
   "googleReviewCount": 95,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLxxmxcu7_EszQ_Aygq0s4pCangtUhpFVfzN3Xyfe8PR3rorz0d9MKY6zK3NTiIsUqvoW9Y-HxaZ7sMVxcKZiCqUhubXMtYisX-ny7XsdmrIq_RgiAMm2rrW-GqrUmBuwWdc9G-PpkAwIh=w1200-h800-k-no",
-  "description": "Chain dishing up wings, tenders & burgers, plus sauces ranging from sweet to very spicy.",
+  "description": "Buffalo Wild Wings GO is a takeout-focused location of the wings chain on State Street in Lindon, serving wings, tenders and burgers with sauces from sweet to very spicy. It's open until midnight or later every night.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "5": 87
+  },
   "hours": {
     "mon": "11:00 AM - 12:00 AM",
     "tue": "11:00 AM - 12:00 AM",
@@ -39,5 +45,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

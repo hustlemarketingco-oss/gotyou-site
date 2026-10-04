@@ -20,13 +20,20 @@
   "googleRating": 4.6,
   "googleReviewCount": 2539,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_KE1MGyJgMpF3HEKgHLjpZt5E08UyO8ADEkMDBfj_X0j39b96kA0iaVsOWGjR8F9mFM5V3XqNX3vNkBxKtWnooZHbH-wCmj3KKQjea9-wp2wwBbmjecsOSEdyoI_JYy9WGYt0=w1200-h800-k-no",
-  "description": "Funky shop for sushi & inventive rolls with offbeat names, for dine-in or delivery until late.",
+  "description": "Five Sushi Brothers is a funky sushi shop on Freedom Boulevard known for inventive rolls with offbeat names, with dine-in and delivery. It serves lunch, then reopens for dinner until midnight, making it one of Provo's later sushi options.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 105,
+    "2": 75,
+    "3": 108,
+    "4": 268,
+    "5": 1983
+  },
   "hours": {
     "mon": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
     "tue": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

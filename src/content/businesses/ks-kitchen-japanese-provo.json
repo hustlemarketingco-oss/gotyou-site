@@ -20,13 +20,20 @@
   "googleRating": 4.8,
   "googleReviewCount": 985,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWne426MQwxfHt8E1DNmXCjcitqxWgAKEAqMDCr3IEVlMCc8cp776BkBBXJgZnt1n6WcRYK5ZqyqcNHMa8-8_1MWmFzA8gNqh4s3owlqyXwvJKFlNEAwRnsL1Vm9kQzpOx4lzdrLEg=w1200-h800-k-no",
-  "description": "Unassuming Japanese restaurant specializing in rice bowls with a variety of toppings, plus gyoza.",
+  "description": "K's Kitchen is an unassuming Japanese spot on West Center Street specializing in rice bowls with a variety of toppings, Japanese curry and gyoza. It's a lunch spot, open 11 AM to 2 PM, with a 4.8-star average.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 10,
+    "3": 20,
+    "4": 62,
+    "5": 873
+  },
   "hours": {
     "mon": "11:00 AM - 2:00 PM",
     "tue": "11:00 AM - 2:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

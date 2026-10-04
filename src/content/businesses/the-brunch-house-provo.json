@@ -25,6 +25,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 74,
+    "2": 50,
+    "3": 73,
+    "4": 132,
+    "5": 1187
+  },
   "hours": {
     "mon": "8:00 AM - 2:00 PM",
     "tue": "8:00 AM - 2:00 PM",
@@ -39,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "The Brunch House is a breakfast and brunch restaurant with a bakery on North 500 West in Provo. It's open daily from 8 AM to 2 PM and has more than 1,500 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

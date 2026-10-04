@@ -1,0 +1,135 @@
+---
+// Server-rendered, ranked list of businesses for the /explore city & category pages
+// (crawlable links + an ItemList the page can mirror in JSON-LD).
+import type { Biz } from '../lib/profile-content';
+import { hoursFacts } from '../lib/profile-content';
+import { sizedPhoto, categoryIcon } from '../lib/business';
+
+interface Props {
+  items: Biz[];
+  ranked?: boolean;
+}
+const { items, ranked = true } = Astro.props;
+---
+
+<ol class:list={['spots', ranked && 'spots--ranked']}>
+  {items.map((b, i) => {
+    const h = hoursFacts(b);
+    const hours = h.always ? 'Open 24 hours' : h.sameEveryDay && h.earliest !== null && h.latest !== null ? `${h.clock(h.earliest)}–${h.clock(h.latest)} daily` : h.openDays ? `Open ${h.openDays} days a week` : '';
+    return (
+      <li class="spot">
+        <a href={`/businesses/${b.slug}/`} class="spot-link">
+          <div class="spot-img">
+            <i class:list={['ti', categoryIcon(b.category)]}></i>
+            {(b.ownerPhotoUrl || b.photoUrl) && <img src={b.ownerPhotoUrl ?? sizedPhoto(b.photoUrl, 360, 270)} alt="" loading="lazy" referrerpolicy="no-referrer" />}
+            {ranked && <span class="rank">{i + 1}</span>}
+          </div>
+          <div class="spot-body">
+            <h3>{b.name}</h3>
+            <p class="meta">
+              {b.googleRating && <span class="rating"><i class="ti ti-star-filled"></i>{b.googleRating.toFixed(1)} <small>({b.googleReviewCount?.toLocaleString()})</small></span>}
+              <span>{b.googleCategory ?? b.category}</span>
+              {b.priceRange && <span>{b.priceRange}</span>}
+            </p>
+            <p class="addr"><i class="ti ti-map-pin"></i>{b.address}, {b.city}</p>
+            {hours && <p class="addr"><i class="ti ti-clock"></i>{hours}</p>}
+          </div>
+        </a>
+      </li>
+    );
+  })}
+</ol>
+
+<style>
+  .spots {
+    list-style: none;
+    display: grid;
+    gap: 14px;
+  }
+  .spot-link {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 20px;
+    align-items: center;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 12px;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .spot-link:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow);
+  }
+  .spot-img {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    border-radius: 14px;
+    overflow: hidden;
+    background: var(--grad-sky);
+    display: grid;
+    place-items: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 30px;
+  }
+  .spot-img img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .rank {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background: var(--lime);
+    color: var(--ink);
+    font-weight: 800;
+    font-size: 15px;
+  }
+  h3 {
+    font-size: 19px;
+    margin-bottom: 6px;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    color: var(--muted);
+    font-size: 14.5px;
+    margin-bottom: 6px;
+  }
+  .rating {
+    font-weight: 700;
+    color: var(--ink);
+  }
+  .rating i {
+    color: var(--star);
+  }
+  .rating small {
+    font-weight: 400;
+    color: var(--muted);
+  }
+  .addr {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  @media (max-width: 560px) {
+    .spot-link {
+      grid-template-columns: 110px 1fr;
+      gap: 14px;
+    }
+    h3 {
+      font-size: 17px;
+    }
+  }
+</style>

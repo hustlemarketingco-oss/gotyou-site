@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ClaimSidebar from '../../components/ClaimSidebar.astro';
 import { DAYS, categoryIcon, formatPhone, sizedPhoto, to24hRanges, websiteHost } from '../../lib/business';
+import { profileContent, cityPath, categoryPath, plural, fmtMiles, MIN_CATEGORY_LISTINGS } from '../../lib/profile-content';
 
 // This is the function that turns "businesses in the content collection"
 // into "real pages on the site." Every entry in src/content/businesses/
@@ -38,17 +39,21 @@ const directionsUrl =
   b.lat && b.lng
     ? `https://www.google.com/maps/dir/?api=1&destination=${b.lat},${b.lng}${b.placeId ? `&destination_place_id=${b.placeId}` : ''}`
     : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${b.name} ${fullAddress}`)}`;
-const heroPhoto = sizedPhoto(b.photoUrl, 1600, 900);
+// Merchant-supplied photos (after claiming) win; the Google photo is only a temporary fallback.
+const heroPhoto = b.ownerPhotoUrl ?? sizedPhoto(b.photoUrl, 1600, 900);
+const allData = allBusinesses.map((x) => x.data).filter((x) => !x.temporarilyClosed);
+const content = profileContent(b, allData);
+const hasCategoryPage = allData.filter((x) => x.city === b.city && x.category === b.category).length >= MIN_CATEGORY_LISTINGS;
+const site = Astro.site ?? Astro.url;
+const pageUrl = new URL(`/businesses/${b.slug}/`, site).href;
+const updated = b.updatedAt ? new Date(b.updatedAt) : undefined;
+const updatedLabel = updated?.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+const mapsUrl = b.googleMapsUrl?.split('?')[0];
 const icon = categoryIcon(b.category);
 const kind = (b.googleCategory ?? b.category).toLowerCase();
 
-const description =
-  b.description ||
-  `${b.name} is ${/^[aeiou]/.test(kind) ? 'an' : 'a'} ${kind} in ${b.city}, ${b.state}${b.googleRating ? `, rated ${b.googleRating.toFixed(1)} by ${b.googleReviewCount?.toLocaleString()} Google reviewers` : ''}.`;
 const pageTitle = b.metaTitle || `${b.name} — ${b.googleCategory ?? b.category} in ${b.city}, ${b.state}`;
-const pageDescription =
-  b.metaDescription ||
-  `${b.name} in ${b.city}: hours, phone, directions${b.googleRating ? ` and ${b.googleRating.toFixed(1)}★ rating` : ''}. ${b.description ?? ''}`.trim();
+const pageDescription = b.metaDescription || content.summary;
 
 const hasHours = b.hours && Object.values(b.hours).some(Boolean);
 
@@ -71,12 +76,18 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': schemaType,
   name: b.name,
-  url: new URL(`/businesses/${b.slug}`, Astro.site ?? Astro.url).href,
-  ...(heroPhoto && { image: heroPhoto }),
+  '@id': `${pageUrl}#business`,
+  url: pageUrl,
+  ...(b.ownerPhotoUrl && { image: b.ownerPhotoUrl }),
   ...(b.phone && { telephone: b.phone }),
   ...(b.priceRange && { priceRange: b.priceRange }),
-  ...(b.website && { sameAs: [b.website] }),
-  ...(b.description && { description: b.description }),
+  // Entity links: the business's own site and its Google Maps listing identify it unambiguously.
+  ...((b.website || mapsUrl) && { sameAs: [b.website, mapsUrl].filter(Boolean) }),
+  ...(mapsUrl && { hasMap: mapsUrl }),
+  description: b.description || content.summary,
+  ...(b.amenities.length && {
+    amenityFeature: b.amenities.map((a) => ({ '@type': 'LocationFeatureSpecification', name: a, value: true })),
+  }),
   address: {
     '@type': 'PostalAddress',
     streetAddress: b.address,
@@ -97,19 +108,50 @@ const jsonLd = {
     }),
   }),
 };
+const breadcrumbs = [
+  { name: 'Directory', url: new URL('/businesses/', site).href },
+  { name: b.city, url: new URL(cityPath(b.city), site).href },
+  ...(hasCategoryPage ? [{ name: `${plural(b.category)} in ${b.city}`, url: new URL(categoryPath(b.city, b.category), site).href }] : []),
+  { name: b.name, url: pageUrl },
+];
+const pageLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': pageUrl,
+    url: pageUrl,
+    name: pageTitle,
+    description: content.summary,
+    about: { '@id': `${pageUrl}#business` },
+    ...(updated && { dateModified: updated.toISOString() }),
+    isPartOf: { '@type': 'WebSite', name: 'GOTYOU', url: new URL('/', site).href },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.url })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: content.faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  },
+];
 ---
 
-<BaseLayout title={pageTitle} description={pageDescription.slice(0, 300)} ogImage={heroPhoto}>
+<BaseLayout title={pageTitle} description={pageDescription.slice(0, 300)} ogImage={b.ownerPhotoUrl}>
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(pageLd)} />
+  <link slot="head" rel="alternate" type="application/json" href={`/businesses/${b.slug}.json`} title={`${b.name} — structured data`} />
 
   <section class="p-hero">
     {heroPhoto && <img class="p-hero-img" src={heroPhoto} alt="" referrerpolicy="no-referrer" fetchpriority="high" />}
     <div class="p-hero-shade"></div>
     <div class="p-hero-inner">
       <nav class="crumbs" aria-label="Breadcrumb">
-        <a href="/businesses">Directory</a><i class="ti ti-chevron-right"></i>
-        <a href={`/businesses?city=${encodeURIComponent(b.city)}`}>{b.city}</a><i class="ti ti-chevron-right"></i>
-        <a href={`/businesses?city=${encodeURIComponent(b.city)}&cat=${encodeURIComponent(b.category)}`}>{b.category}</a>
+        <a href="/businesses/">Directory</a><i class="ti ti-chevron-right"></i>
+        <a href={cityPath(b.city)}>{b.city}</a>
+        {hasCategoryPage && <><i class="ti ti-chevron-right"></i><a href={categoryPath(b.city, b.category)}>{plural(b.category)}</a></>}
       </nav>
       <span class="cat-chip"><i class:list={['ti', icon]}></i>{b.googleCategory ?? b.category}</span>
       <h1>{b.name}</h1>
@@ -142,8 +184,12 @@ const jsonLd = {
     <div class="p-layout">
       <div class="p-main">
         <section class="block reveal">
-          <h2>About</h2>
-          <p class="about">{description}</p>
+          <h2>About {b.name}</h2>
+          <p class="summary">{content.summary}</p>
+          <dl class="quick">
+            {content.quick.map((q) => <div><dt>{q.label}</dt><dd>{q.value}</dd></div>)}
+          </dl>
+          {content.paras.map((p) => <p class="about">{p}</p>)}
           {b.secondaryCategories.length > 0 && (
             <div class="tags">{b.secondaryCategories.map((c) => <span class="tag">{c}</span>)}</div>
           )}
@@ -162,7 +208,7 @@ const jsonLd = {
                 ))}
               </tbody>
             </table>
-            <p class="fine">Hours from Google; holidays may differ.</p>
+            <p class="fine">Hours from Google{updatedLabel && `, last checked ${updatedLabel}`}; holidays may differ.</p>
           </section>
         )}
 
@@ -184,6 +230,27 @@ const jsonLd = {
             <div><i class="ti ti-map-pin"></i>{fullAddress}</div>
             <a href={directionsUrl} target="_blank" rel="noopener" class="link">Get directions <i class="ti ti-arrow-up-right"></i></a>
           </div>
+          {content.nearby.sameCategory.length > 0 && (
+            <div class="near-list">
+              <h3>Nearby {plural(b.category).toLowerCase()}</h3>
+              <ul>
+                {content.nearby.sameCategory.map((x) => (
+                  <li><a href={`/businesses/${x.biz.slug}/`}>{x.biz.name}</a><span>{x.biz.googleCategory ?? x.biz.category} · {fmtMiles(x.mi)}</span></li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </section>
+
+        <section class="block reveal" id="faq">
+          <h2>Questions about {b.name}</h2>
+          {content.faqs.map((f) => (
+            <details>
+              <summary>{f.q}<i class="ti ti-plus"></i></summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+          {updatedLabel && <p class="fine">Listing details last updated {updatedLabel}. Own this business? <a href={`/businesses/${b.slug}/claim/`}>Claim it</a> to keep it accurate.</p>}
         </section>
       </div>
 
@@ -199,7 +266,7 @@ const jsonLd = {
         <div class="nearby-inner">
           <div class="nearby-head">
             <h2>More in {b.city}</h2>
-            <a href={`/businesses?city=${encodeURIComponent(b.city)}`} class="link">See all <i class="ti ti-arrow-right"></i></a>
+            <a href={hasCategoryPage ? categoryPath(b.city, b.category) : cityPath(b.city)} class="link">{hasCategoryPage ? `All ${plural(b.category).toLowerCase()} in ${b.city}` : `See all in ${b.city}`} <i class="ti ti-arrow-right"></i></a>
           </div>
           <div class="nearby-grid">
             {nearby.map((n) => (
@@ -478,10 +545,102 @@ const jsonLd = {
     margin-bottom: 14px;
     color: var(--text);
   }
+  .summary {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: var(--ink);
+    margin-bottom: 16px;
+  }
+  .quick {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  .quick div {
+    background: var(--bg);
+    border-radius: 14px;
+    padding: 10px 14px;
+  }
+  .quick dt {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+  }
+  .quick dd {
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--ink);
+  }
   .about {
     font-size: 16.5px;
     line-height: 1.7;
     color: #2b3247;
+  }
+  .about + .about {
+    margin-top: 12px;
+  }
+  .near-list {
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid var(--border);
+  }
+  .near-list h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .near-list ul {
+    list-style: none;
+    display: grid;
+    gap: 6px;
+  }
+  .near-list li {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: 15px;
+  }
+  .near-list a {
+    color: var(--blue);
+    font-weight: 600;
+  }
+  .near-list span {
+    color: var(--muted);
+    text-align: right;
+  }
+  #faq details {
+    border-top: 1px solid var(--border);
+  }
+  #faq summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    gap: 14px;
+    align-items: center;
+    font-weight: 600;
+    padding: 14px 0;
+  }
+  #faq summary::-webkit-details-marker {
+    display: none;
+  }
+  #faq summary i {
+    color: var(--blue);
+    transition: transform 0.2s;
+  }
+  #faq details[open] summary i {
+    transform: rotate(45deg);
+  }
+  #faq details p {
+    color: #2b3247;
+    padding-bottom: 14px;
+  }
+  .fine a {
+    color: var(--blue);
+    font-weight: 600;
   }
   .tags {
     display: flex;

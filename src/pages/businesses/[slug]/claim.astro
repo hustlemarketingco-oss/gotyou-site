@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 const { business } = Astro.props;
 ---
 
-<BaseLayout title={`Claim ${business.name}`} description={`Verify ownership of ${business.name} to manage your GOTYOU listing.`}>
+<BaseLayout title={`Claim ${business.name}`} description={`Verify ownership of ${business.name} to manage your GOTYOU listing.`} noindex>
   <div class="section">
     <div class="container narrow">
       <a href={`/businesses/${business.slug}`} class="back-link"><i class="ti ti-arrow-left" /> Back to {business.name}</a>

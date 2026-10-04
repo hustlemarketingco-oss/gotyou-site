@@ -23,13 +23,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 6381,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2tA1RAqIFZxGsRmEDMu25D2qVquWCPW2ulxA86LtaOKMCbnfjdiya6Io3RwS3n4A5KH-UnFneZN9hHRwm44eJrMsDN5251m3Ru3NEIjQvwXwWg8aNjbmPOYXpV-cZt2LiwiPjpQEijkE=w1200-h800-k-no",
-  "description": "Classic burger chain serving customizable burgers, hand-cut fries & shakes.",
+  "description": "This In-N-Out on East University Parkway in Orem serves the chain's customizable burgers, hand-cut fries and shakes. It's open until 1 AM most nights, later on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 174,
+    "2": 120,
+    "3": 398,
+    "4": 1165,
+    "5": 4524
+  },
   "hours": {
     "mon": "10:30 AM - 1:00 AM",
     "tue": "10:30 AM - 1:00 AM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

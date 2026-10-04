@@ -20,12 +20,19 @@
   "googleRating": 3.7,
   "googleReviewCount": 1222,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkr6uPmN8xuWl7ZrcLcL7DW0j4X5IDhVKwrMd4a1p7bGDdqjBvAXw9s9fv_cw0BCDqyBynUjZxkFnwkXl1_hmnF1XVKXUyedTAMzJn2oqLZ53xKvsZ7aVZ1KpGvKgxnl8tB16ZR=w1200-h800-k-no",
-  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "description": "This Wendy's on South State Street in Orem serves burgers plus sides like chili and baked potatoes. It's open from 7 AM until 1 AM, later on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 184,
+    "2": 71,
+    "3": 158,
+    "4": 277,
+    "5": 532
+  },
   "hours": {
     "mon": "7:00 AM - 1:00 AM",
     "tue": "7:00 AM - 1:00 AM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

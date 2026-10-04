@@ -21,6 +21,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 22,
+    "3": 54,
+    "4": 112,
+    "5": 1025
+  },
   "hours": {
     "mon": "11:30 AM - 8:00 PM",
     "tue": "11:30 AM - 9:00 PM",
@@ -35,5 +42,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "MOZZ Sourdough Pizza is a downtown Provo pizza spot on North University Avenue specializing in sourdough-crust pizza. It's open for lunch and dinner and holds a 4.7-star average from more than 1,200 reviews.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

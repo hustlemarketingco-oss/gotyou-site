@@ -21,13 +21,20 @@
   "googleRating": 4.1,
   "googleReviewCount": 2921,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmfJGe2k_k6ctfte4o6tfvpROulfT65eGjoEAA8fZAWUfTNYsmLKywHtHCJR9S5yDGUKAI0CgaZ7yJxIMfNq-aVcmj9DF6n_zJs822SVvKCpK8fpbaGdujQVMXgpdzyFx0jelL8=w1200-h800-k-no",
-  "description": "Rustic eatery serving aged, USDA Choice steaks & traditional sides alongside a cozy rock fireplace.",
+  "description": "Ruby River Steakhouse is a rustic steakhouse on South University Avenue serving aged USDA Choice steaks and traditional sides by a rock fireplace. It also has banquet space and catering, and nearly 3,000 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 197,
+    "2": 171,
+    "3": 287,
+    "4": 609,
+    "5": 1657
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

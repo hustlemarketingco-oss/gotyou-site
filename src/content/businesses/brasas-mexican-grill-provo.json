@@ -19,13 +19,20 @@
   "googleRating": 4.5,
   "googleReviewCount": 1127,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1HzznnpiVI4TmIE6sEuAARb8egbVZcyVEUS_M_8hx375xJVIGO0UFkuLYZSgHKToskpGIZ8VfE0n7Rz28qj-rx7I7Q8gzjuVLhlxUK_XRvqDWuJdYF_3w483_ViUtc0Md3QOv=w1200-h800-k-no",
-  "description": "Tacos & other Mexican bites round out the menu at this open-air counter serve with covered seating.",
+  "description": "Brasas Mexican Grill is an open-air counter-service spot in downtown Provo with covered seating, serving tacos and other Mexican dishes. It's open from 10 AM daily, with later hours on Fridays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 26,
+    "3": 63,
+    "4": 213,
+    "5": 787
+  },
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
     "tue": "10:00 AM - 8:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

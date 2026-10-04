@@ -20,6 +20,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 4,
+    "3": 2,
+    "4": 11,
+    "5": 32
+  },
   "hours": {
     "mon": "7:00 AM - 2:00 AM",
     "tue": "7:00 AM - 2:00 AM",
@@ -34,5 +41,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "River Rock Cafe is the cafe inside Intermountain Health's Utah Valley Hospital in Provo, open from 7 AM until 2 AM for patients, visitors and staff.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

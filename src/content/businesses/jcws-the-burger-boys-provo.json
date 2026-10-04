@@ -22,11 +22,18 @@
   "googleRating": 4,
   "googleReviewCount": 2607,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleo-noWHOAqOnvQDM_8YyYgM8_2M4vubz_9GoJWcDvs-yJyvKW5T9tdY-gzGfLvlEy965zmLu0PrR_FVS5s4nRAM3kV08r3_P0jJar6eW_11zPp-E-ztIx_VNPpikfBlfFcnacgg=w1200-h800-k-no",
-  "description": "Straightforward counter-serve dishing out charbroiled burgers with creative topping combinations.",
+  "description": "JCW's The Burger Boys is a counter-serve burger joint on 2230 North serving charbroiled burgers with creative topping combinations. It's open from 10 AM to 10 PM.",
   "amenities": [
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 208,
+    "2": 165,
+    "3": 244,
+    "4": 663,
+    "5": 1327
+  },
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
     "tue": "10:00 AM - 10:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

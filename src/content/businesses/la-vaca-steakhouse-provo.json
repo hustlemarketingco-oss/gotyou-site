@@ -28,6 +28,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 3,
+    "4": 14,
+    "5": 424
+  },
   "hours": {
     "mon": "4:00 PM - 9:30 PM",
     "tue": "4:00 PM - 9:30 PM",
@@ -42,5 +49,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "La Vaca SteakHouse is a steakhouse on 500 West with Argentinian, Italian and Mexican influences. It's open for dinner from 4 PM and holds a 4.9-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

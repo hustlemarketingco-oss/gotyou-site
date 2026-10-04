@@ -21,13 +21,20 @@
   "googleRating": 4.4,
   "googleReviewCount": 959,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAcDmBbUuZi--loClE2jUXEut5CbKrICb2NxXscxANrFbxSuqxVMXv6sggESJYGaRmqSctBp6InQIpLFVj6V8ySGeSP6MgB0UQ6IOD4UXuBAhuchm18onQO-tDFqR_USoRlxKoLA=w1200-h800-k-no",
-  "description": "Hearty bowls of pho, plus banh mi & other classic Vietnamese fare, served in a relaxed environment.",
+  "description": "Phở Plus is a Vietnamese restaurant on West Center Street serving hearty bowls of pho, banh mi and other classic dishes in a relaxed setting. It's open from 11:30 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 36,
+    "3": 46,
+    "4": 191,
+    "5": 647
+  },
   "hours": {
     "mon": "11:30 AM - 9:00 PM",
     "tue": "11:30 AM - 9:00 PM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

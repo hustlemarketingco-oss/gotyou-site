@@ -22,13 +22,19 @@
   "googleRating": 3.5,
   "googleReviewCount": 39,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPP9zn0XlwGMTdmPW66T8R3Gh8oOAK_5Obm1xI_pBnuAw21IceMwD-S-Ccl-wvGK3qtNy51TXMb6fGp5XnqVlpRWEBJpI9MCopTi918W1S5cGFuOtSmuYos6qEeKS7Uruhsq9LV-orIvMu=w1200-h800-k-no",
-  "description": "Counter-serve chain for custom burgers, including poultry & veggie versions, plus fries & shakes.",
+  "description": "MOOYAH on North 400 West is a counter-serve chain for custom burgers, including chicken and veggie versions, plus fries and shakes. It's open from 10:30 AM to 10 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 4,
+    "4": 5,
+    "5": 20
+  },
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
     "tue": "10:30 AM - 10:00 PM",
@@ -43,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

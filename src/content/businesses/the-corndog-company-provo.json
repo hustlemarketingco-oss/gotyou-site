@@ -22,6 +22,12 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 3,
+    "4": 15,
+    "5": 359
+  },
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "11:00 AM - 8:00 PM",
@@ -36,5 +42,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "The Corndog Company at Provo Towne Centre serves corn dogs from 11 AM to 8 PM, with a 4.9-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

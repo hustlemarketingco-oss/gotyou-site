@@ -22,13 +22,20 @@
   "googleRating": 4.4,
   "googleReviewCount": 4992,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOLQIMyx85tQ4y_0d09husO3rB6K1KeMrOU6lt0V4IlP8NG7Ut9nDCEOyLj7CBafOczoZMlrKFnZ3ONPTrqOR7hsYz9hHodiIlhl0dudMI446D-DlfUhbo36jEpXM9z2YL46k=w1200-h800-k-no",
-  "description": "Flagship of a pizzeria chain serving all-you-can-eat pasta, soup & salad, plus signature root beer.",
+  "description": "Brick Oven is the original location of a Provo pizzeria chain, known for its pizza, all-you-can-eat pasta, soup and salad, and its signature root beer. It sits just north of downtown on 800 North and has nearly 5,000 Google reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 187,
+    "2": 218,
+    "3": 398,
+    "4": 1033,
+    "5": 3156
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

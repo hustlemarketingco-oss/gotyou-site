@@ -19,13 +19,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 641,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNUPZNXWdxvZWbwUk4EYnCw0Nrc-W7IvMseHNUYJz0Y1MPhNyOSIo13J5EEtPGznkojhK7kbHSZQV2u0mB5tKm7cF8uBYI3gKwc7Y-4ti4tAPL9cvw9FdIZTAGBtA61vwiZ1KDxw=w1200-h800-k-no",
-  "description": "University dining center offers themed cuisine stations, from Italian standards to custom salads.",
+  "description": "The Cannon Commons is BYU's main dining hall in Helaman Halls, with themed food stations from Italian standards to custom salads. It's open from 7 AM to 6:30 PM on weekdays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 14,
+    "3": 63,
+    "4": 183,
+    "5": 363
+  },
   "hours": {
     "mon": "7:00 AM - 6:30 PM",
     "tue": "7:00 AM - 6:30 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

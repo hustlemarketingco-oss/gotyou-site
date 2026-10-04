@@ -20,13 +20,20 @@
   "googleRating": 4.6,
   "googleReviewCount": 1273,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLPYX0Cxt0Bc319ZzoBDfNiUMbHvY8vpqvyFO_cIesEmlplhdFntxuXLMxe0UbvuCYz7XM_V8jhSkDBtAo16jrAlvVfO5OAddlERAUf3YNazl6UXg25cAqPxTmCpfUAH0hzFIjMTPpro8=w1200-h800-k-no",
-  "description": "Informal counter-service shop specializing in Boston-style pizza, plus other casual Italian food.",
+  "description": "Nico's Pizza is an informal counter-service spot on West Cougar Boulevard specializing in Boston-style pizza and casual Italian food. It's open from 11 AM until midnight.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 23,
+    "3": 57,
+    "4": 175,
+    "5": 985
+  },
   "hours": {
     "mon": "11:00 AM - 12:00 AM",
     "tue": "11:00 AM - 12:00 AM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

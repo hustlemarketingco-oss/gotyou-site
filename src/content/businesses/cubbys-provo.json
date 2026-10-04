@@ -22,13 +22,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 1089,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmG2TlIn3pIRFPPJ-wQhC5R7kYPY5qhfRlYYYHBbedH2P0Cb3rBgqD6wm6JPX24JFkcmMhZDRO551lJWIniPxmdRzNeyb92mPRdIRJrcd4GbwfhpNeDs-G-9wIB8--J3pQMWTEVpHEqNuA=w1200-h800-k-no",
-  "description": "Gourmet counter-serve eatery offering beef sandwiches, burgers & salads made from local ingredients.",
+  "description": "Cubby's is a counter-serve spot on North State Street serving beef sandwiches, burgers, salads and breakfast made with local ingredients. It's open from 11 AM to 8:30 PM, later on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 60,
+    "2": 76,
+    "3": 99,
+    "4": 163,
+    "5": 691
+  },
   "hours": {
     "mon": "11:00 AM - 8:30 PM",
     "tue": "11:00 AM - 8:30 PM",
@@ -43,5 +50,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

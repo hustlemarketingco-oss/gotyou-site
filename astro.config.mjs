@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import cloudflare from '@astrojs/cloudflare';
+import sitemap from '@astrojs/sitemap';
 import { readdirSync } from 'node:fs';
 
 // Old WordPress URLs on gotyou.co -> new site. Blog posts lived at the root (/slug/).
@@ -17,6 +18,11 @@ const jobRedirects = Object.fromEntries(
     .map((f) => f.replace(/\.md$/, ''))
     .map((slug) => [`/jobs/${slug}`, `/careers/${slug}`]),
 );
+
+// Cloudflare Workers Builds sets WORKERS_CI_BRANCH; any branch other than main is a preview deploy.
+// Read it here (Node) and inline it, since pages prerender in the workerd runtime without build env vars.
+const branch = process.env.WORKERS_CI_BRANCH;
+const isPreview = Boolean(branch && branch !== 'main');
 
 // https://astro.build/config
 export default defineConfig({
@@ -38,6 +44,15 @@ export default defineConfig({
     '/jobs/content-media-operations-team': '/careers/content-media-operations-team',
     ...blogRedirects,
     ...jobRedirects,
+  },
+  integrations: [
+    sitemap({
+      // Claim forms are utility pages, not content.
+      filter: (page) => !/\/claim\/?$/.test(page),
+    }),
+  ],
+  vite: {
+    define: { __IS_PREVIEW__: JSON.stringify(isPreview) },
   },
   output: 'static', // Directory + marketing pages are static. The /api/claim route opts into
                      // server rendering individually via `export const prerender = false`.

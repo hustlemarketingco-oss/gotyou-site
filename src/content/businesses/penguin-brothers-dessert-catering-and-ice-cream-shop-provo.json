@@ -23,6 +23,13 @@
   "amenities": [
     "Wheelchair accessible entrance"
   ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 14,
+    "3": 28,
+    "4": 107,
+    "5": 928
+  },
   "hours": {
     "mon": "5:00 PM - 10:00 PM",
     "tue": "5:00 PM - 10:00 PM",
@@ -37,5 +44,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Penguin Brothers is an ice cream shop on West Cougar Boulevard that also does dessert catering. It's an evening spot, open from 5 PM to 10 PM and later on weekends.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

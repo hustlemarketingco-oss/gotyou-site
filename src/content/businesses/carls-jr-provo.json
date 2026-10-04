@@ -20,12 +20,19 @@
   "googleRating": 4,
   "googleReviewCount": 1469,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRTlQCgv4MEY576HraiGfF2I4z5raHejE7dRRTm6a6DdjIoefhxNZxDSeP4_JSvvyXnHD0Ao_9SA6jILzQVrqPklEObPmlZPGPiz-omm1v_cKw6swyWxKRHZUFR31tHK2yV8XU=w1200-h800-k-no",
-  "description": "Fast-food chain known for its variety of piled-high burgers & meal combos, plus shakes.",
+  "description": "Carl's Jr. on 1230 North in Provo serves the chain's piled-high burgers, chicken and meal combos plus shakes. It opens at 6 AM for breakfast and stays open until 11 PM or later.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 143,
+    "2": 81,
+    "3": 162,
+    "4": 355,
+    "5": 728
+  },
   "hours": {
     "mon": "6:00 AM - 11:00 PM",
     "tue": "6:00 AM - 11:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

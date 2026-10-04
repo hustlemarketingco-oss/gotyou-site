@@ -27,6 +27,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 56,
+    "2": 29,
+    "3": 34,
+    "4": 111,
+    "5": 323
+  },
   "hours": {
     "mon": "6:00 AM - 2:00 PM",
     "tue": "6:00 AM - 2:00 PM",
@@ -41,5 +48,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Einstein Bros. Bagels on 1230 North serves bagels, breakfast sandwiches and coffee. It's a morning spot, open from 6 AM to 2 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

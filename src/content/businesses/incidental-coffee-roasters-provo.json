@@ -21,6 +21,13 @@
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 6,
+    "5": 167
+  },
   "hours": {
     "mon": "7:00 AM - 4:00 PM",
     "tue": "7:00 AM - 4:00 PM",
@@ -35,5 +42,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Incidental Coffee Roasters is a coffee shop and roastery on 100 West in downtown Provo, open weekdays from 7 AM to 4 PM. It holds a 4.8-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

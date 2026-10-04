@@ -26,6 +26,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 5,
+    "3": 1,
+    "4": 3,
+    "5": 62
+  },
   "hours": {
     "mon": "3:30 PM - 9:00 PM",
     "tue": "5:00 PM - 9:00 PM",
@@ -40,5 +47,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Protein House is an espresso and juice bar on North Freedom Boulevard with vegetarian options, open in the afternoons and evenings on weekdays.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -24,13 +24,20 @@
   "googleRating": 3.4,
   "googleReviewCount": 1149,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl6bjJ5Q9o7DQQfvi4rCrrV81l-_yRChI9MdE9zjaT0RxxFiIqbg8FWB9MqR5hd-rPISM4NN-qKSI6fY_sEzUyhWS3xk5YgGNplmg64j3Hk_gQejjN8Tjhp2hZcrOfc_7RVHgs=w1200-h800-k-no",
-  "description": "Casual restaurant offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+  "description": "This Chipotle on East University Parkway in Orem serves build-your-own burritos, tacos and bowls, with catering and delivery. It's open daily from 10:45 AM to 11 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 297,
+    "2": 79,
+    "3": 90,
+    "4": 199,
+    "5": 484
+  },
   "hours": {
     "mon": "10:45 AM - 11:00 PM",
     "tue": "10:45 AM - 11:00 PM",
@@ -45,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

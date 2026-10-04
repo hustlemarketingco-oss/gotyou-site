@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHero from '../../components/PageHero.astro';
+import { activeBusinesses, byCity, categoriesIn } from '../../lib/explore';
+import { cityPath, categoryPath, plural } from '../../lib/profile-content';
+
+const all = await activeBusinesses();
+const cities = byCity(all);
+const site = Astro.site ?? Astro.url;
+const ld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Directory', item: new URL('/businesses/', site).href },
+    { '@type': 'ListItem', position: 2, name: 'Explore by city', item: new URL('/explore/', site).href },
+  ],
+};
+---
+
+<BaseLayout title="Explore local spots by city" description={`Browse ${all.length} local businesses across ${cities.length} cities — the best restaurants, coffee shops, pizza, desserts and more, with hours, ratings and directions.`}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
+  <PageHero eyebrow="Explore" title="Local spots, <em>city by city.</em>" lede={`${all.length.toLocaleString()} local businesses across ${cities.length} cities, with hours, ratings and directions.`} />
+
+  <section class="section">
+    <div class="container cities">
+      {cities.map((c) => (
+        <article class="card card--pad city reveal">
+          <h2><a href={cityPath(c.city)}>{c.city}, {c.state}</a></h2>
+          <p>{c.items.length} local {c.items.length === 1 ? 'spot' : 'spots'}</p>
+          <ul>
+            {categoriesIn(c.items).map((g) => (
+              <li>{g.hasPage ? <a href={categoryPath(c.city, g.category)}>{plural(g.category)}</a> : <span>{plural(g.category)}</span>} <small>{g.items.length}</small></li>
+            ))}
+          </ul>
+          <a href={cityPath(c.city)} class="link-arrow">Explore {c.city} <i class="ti ti-arrow-right"></i></a>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .cities {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .city h2 {
+    font-size: 24px;
+  }
+  .city h2 a:hover {
+    color: var(--blue);
+  }
+  .city > p {
+    color: var(--muted);
+    margin-bottom: 14px;
+  }
+  .city ul {
+    list-style: none;
+    display: grid;
+    gap: 6px;
+    margin-bottom: 16px;
+  }
+  .city li {
+    display: flex;
+    justify-content: space-between;
+  }
+  .city li a {
+    color: var(--blue);
+    font-weight: 500;
+  }
+  .city small {
+    color: var(--muted);
+  }
+</style>

@@ -24,13 +24,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 4527,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEYJee7TgtZ0e-1k9Et1SqJeKUezG69UWb4e3LCQlqG_37GE6S8idWdnd2pLXN42X8Jlv9OAyVgT7Gp8TQxpTfr7Hsl5DYjE_2XazaR0qLth3eFwfOt1NDSdcp9fLXK9PNGxyrL6ihBmlo=w1200-h800-k-no",
-  "description": "Fast-food chain specializing in frozen custard & signature burgers made with Midwest beef & dairy.",
+  "description": "Culver's in Orem is the Midwest chain known for frozen custard and signature burgers made with Midwest beef and dairy. It's open from 9 AM to 11 PM and has more than 4,500 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 188,
+    "2": 129,
+    "3": 366,
+    "4": 1103,
+    "5": 2741
+  },
   "hours": {
     "mon": "9:00 AM - 11:00 PM",
     "tue": "9:00 AM - 11:00 PM",
@@ -45,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -23,6 +23,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 12,
+    "3": 10,
+    "4": 29,
+    "5": 67
+  },
   "hours": {
     "mon": "8:00 AM - 9:00 PM",
     "tue": "8:00 AM - 9:00 PM",
@@ -37,5 +44,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Enliten Bakery & Cafe is a bakery and cafe in the historic Gates & Snow building on East Center Street in downtown Provo. It's open from 8 AM to 9 PM on weekdays.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -24,10 +24,17 @@
   "googleRating": 3.6,
   "googleReviewCount": 865,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmWnWNGUDhJc3sKqD5HTX0Wy2TF0lMqrlDK-mjAZVYqFeMuDyGS6k_BQrwkN5XxMcmo0yRgjz0f9AFDbZ4arjZOxT9gn-18ajdgDIixabBlcc0T81YkO-Z_eHDWDncLemc4Imr8sQ=w1200-h800-k-no",
-  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "description": "This Taco Bell on North State Street in Lindon serves tacos, quesadillas and nachos from 7 AM until midnight, later on weekends.",
   "amenities": [
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 151,
+    "2": 58,
+    "3": 119,
+    "4": 175,
+    "5": 362
+  },
   "hours": {
     "mon": "7:00 AM - 12:00 AM",
     "tue": "7:00 AM - 12:00 AM",
@@ -42,5 +49,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

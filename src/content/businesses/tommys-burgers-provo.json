@@ -19,12 +19,19 @@
   "googleRating": 4.4,
   "googleReviewCount": 1133,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4y5yk5TPyLQwtn7n8_eN97Iifn35JTCKNhqbhzq8NYaWA-HndPvQ31_7q2YJ-rSHiiK3BM6P1JOe5RO6in_j2AIgVhUmK4JXqp_IwbniChKdz1RROwz56MSBTnjksHtWER0DL=w1200-h800-k-no",
-  "description": "Fast-food chain topping burgers, fries & hot dogs with a signature chili since 1946.",
+  "description": "Tommy's Burgers on West 100 North serves burgers, fries and hot dogs topped with the chain's signature chili, a recipe dating to 1946. It's open from 11 AM to 10 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 50,
+    "3": 86,
+    "4": 211,
+    "5": 753
+  },
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -39,5 +46,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

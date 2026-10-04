@@ -16,6 +16,11 @@
   "googleRating": 4.6,
   "googleReviewCount": 48,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwi20bitGObqeWh0nAoA1O0nwDLWpZO_t8YkwneWtctuawgj1jMe1IF-u69JMchQqcGnW9-hTd6KbwQdPfo5cUr9jVRgE9rpbef-XVuYN_szxEUJ4DjOqeXXQKmT3UfGwkMco3_tWjdesv=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 4,
+    "4": 4,
+    "5": 40
+  },
   "hours": {
     "mon": "Closed",
     "tue": "7:30 AM - 1:00 PM, 5:30 PM - 11:00 PM",
@@ -30,5 +35,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Maracucho is a Venezuelan restaurant on West Center Street, open Tuesday through Sunday for breakfast and again in the evening until 11 PM.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

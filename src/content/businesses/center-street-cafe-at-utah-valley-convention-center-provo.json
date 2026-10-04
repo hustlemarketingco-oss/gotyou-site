@@ -21,10 +21,19 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 3
+  },
   "timezone": "America/Denver",
   "claimStatus": "unclaimed",
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Center Street Cafe is the cafe inside the Utah Valley Convention Center on West Center Street in downtown Provo, a convenient stop for convention and event attendees.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

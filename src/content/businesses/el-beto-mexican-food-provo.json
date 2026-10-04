@@ -25,6 +25,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 129,
+    "2": 46,
+    "3": 55,
+    "4": 130,
+    "5": 399
+  },
   "hours": {
     "mon": "5:00 AM - 1:00 AM",
     "tue": "5:00 AM - 1:00 AM",
@@ -39,5 +46,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "El Beto is a fast Mexican food spot on North State Street that opens at 5 AM and stays open until 1 AM, and 2 AM on weekends — one of Provo's longest-hours restaurants.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

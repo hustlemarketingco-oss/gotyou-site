@@ -27,6 +27,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 4,
+    "3": 11,
+    "4": 30,
+    "5": 436
+  },
   "hours": {
     "mon": "11:30 AM - 2:00 PM, 5:00 PM - 8:00 PM",
     "tue": "5:00 PM - 8:00 PM",
@@ -41,5 +48,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Yummy's is a Korean BBQ restaurant on West Center Street with Hawaiian-style plates. It's open for lunch and dinner on most days and holds a 4.8-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

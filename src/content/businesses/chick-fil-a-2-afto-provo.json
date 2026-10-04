@@ -23,13 +23,20 @@
   "googleRating": 4.1,
   "googleReviewCount": 247,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk2H-3QEQQRIQleDnAbUA6615OjtAPg3nKrFFjF7m_EJ2z-EiMQB7t6MfrERLx543EXWU0E8T_VTQUKaTghjrYfLSCY4-Ub6eSKTPqHQBhwrCkp-lIs5aiyf51BBOez_toZX3RW=w1200-h800-k-no",
-  "description": "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides.",
+  "description": "This Chick-fil-A location in Provo serves the chain's chicken sandwiches and nuggets with salads and sides. It's open 10:30 AM to 8 PM on weekdays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 12,
+    "3": 16,
+    "4": 55,
+    "5": 141
+  },
   "hours": {
     "mon": "10:30 AM - 8:00 PM",
     "tue": "10:30 AM - 8:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

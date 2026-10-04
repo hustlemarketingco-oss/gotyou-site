@@ -16,13 +16,20 @@
   "googleRating": 4.6,
   "googleReviewCount": 1811,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJbwyFHaWF5s-IDXigiChIpcNEhuTpuy4rh2QKr8aaqLVbq9hOaExqMPaLLHbsBO-QSOfhksjKM1ZI9kpSNmHFJt15pyapjlI-E94YT8T6SIJ0YS5_r8dM1j11k6MQMEFCmY2piyuAKDQ=w1200-h800-k-no",
-  "description": "Hand-tossed pies join pasta dishes, calzones & wings at this casual, counter-serve pizza parlor.",
+  "description": "Two Jack's Pizza is a casual counter-serve pizza parlor on West Center Street in downtown Provo, serving hand-tossed pies, pasta, calzones and wings. It's open from 11 AM to 10 PM and has more than 1,800 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 28,
+    "3": 61,
+    "4": 296,
+    "5": 1386
+  },
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -37,5 +44,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

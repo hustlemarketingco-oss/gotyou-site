@@ -23,13 +23,20 @@
   "googleRating": 4.7,
   "googleReviewCount": 4649,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlcVINMGqCu7cy1XZ6x4Z0hVP7rTbLgxIHQlSvM7m9G8FKYFH8xhdo4qme6Jvj6FMlVzikgcv8_biLP6mXMToC3iyZ_SHtTmsoteTJK9zOV5t6qL7szydqMNx4mcNXNgh9HE0BhA=w1200-h800-k-no",
-  "description": "Family-friendly chain serving homestyle American classics such as chicken-fried steak & pot pie.",
+  "description": "Village Inn on South University Avenue is a family-friendly diner known for homestyle American classics like chicken-fried steak and pot pie, plus pie. It's open daily from 7 AM to 9 PM and has more than 4,600 reviews.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 75,
+    "2": 77,
+    "3": 214,
+    "4": 615,
+    "5": 3668
+  },
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
     "tue": "7:00 AM - 9:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

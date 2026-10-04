@@ -21,12 +21,19 @@
   "googleRating": 4.2,
   "googleReviewCount": 670,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0aVFsQ9Wf0xFypVJ0m7VDsuxCmkn-M9DMUQKmPDDlTdvHstfbCNfAwIcXIeOHxiy-wM_gdxkc7XvOhOEYUEmajr0FOQDP-IWEdT5dT1qQQzkRsRjqEiyDG0aRo4fjiqjk9rtI=w1200-h800-k-no",
-  "description": "NYC-style deli serving sandwiches on housemade bread, plus salads, hot dogs & bagels.",
+  "description": "Gandolfo's is a New York–style deli on 500 West serving sandwiches on house-made bread, plus salads, hot dogs and bagels, with box lunches for groups. It opens at 7 AM on weekdays.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 33,
+    "3": 38,
+    "4": 118,
+    "5": 423
+  },
   "hours": {
     "mon": "7:00 AM - 8:00 PM",
     "tue": "7:00 AM - 8:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

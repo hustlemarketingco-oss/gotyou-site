@@ -20,12 +20,19 @@
   "googleRating": 3.4,
   "googleReviewCount": 1030,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmdXwdC67YZso71WxzWviPB9rDQxe0tRl_Zc_G20twgMdA2Ktz0Tz9u2FZ-C5rsIsyuklao0lOTofcqSIiBaBYOPTIZuqtQkh7wzrc6YElBdAbVRg1-o-LWtOTRTRFZ_UgbMPNFtQ=w1200-h800-k-no",
-  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "description": "This Wendy's on South University Avenue serves burgers plus sides like chili and baked potatoes. It's open from 7 AM to midnight, and 1 AM on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 227,
+    "2": 89,
+    "3": 131,
+    "4": 233,
+    "5": 350
+  },
   "hours": {
     "mon": "7:00 AM - 12:00 AM",
     "tue": "7:00 AM - 12:00 AM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

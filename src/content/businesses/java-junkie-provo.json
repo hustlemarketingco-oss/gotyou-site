@@ -19,6 +19,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 4,
+    "3": 13,
+    "4": 18,
+    "5": 359
+  },
   "hours": {
     "mon": "6:00 AM - 9:00 PM",
     "tue": "6:00 AM - 9:00 PM",
@@ -33,5 +40,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Java Junkie is a coffee shop on West Center Street in downtown Provo, open from 6 AM to 9 PM and until 11 PM on Fridays.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

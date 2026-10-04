@@ -20,12 +20,19 @@
   "googleRating": 3.6,
   "googleReviewCount": 921,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMK5-AXe8iCSyQJ-_CVRIntuHZWhpN8x94wLCS_mqR5bT7L3j1cTnpZ9jBSoYTPHqaN0_XX_YOxm8eq8_duKBfEB5VWsUWgncmkUSUfaftLSqr6Fzo6IBFyHQOK09c42S-5_8a=w1200-h800-k-no",
-  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "description": "This Wendy's on North State Street in Lindon serves burgers plus sides like chili and baked potatoes, daily from 6:30 AM to midnight.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 158,
+    "2": 59,
+    "3": 121,
+    "4": 209,
+    "5": 374
+  },
   "hours": {
     "mon": "6:30 AM - 12:00 AM",
     "tue": "6:30 AM - 12:00 AM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

@@ -23,13 +23,20 @@
   "googleRating": 4.2,
   "googleReviewCount": 585,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-FNdpqE4pEoFz49XSlOCR-wWZroxx6It6YLm5Qkdp9hSKQ8efg_tuVNn56J-q_HJAbUfjTpgH_7m9yRh38dGCfPU1RiINxBcuS4iCPMXHI9-DVWGJBlB78Uvh_SsLV-Qwf1_u=w1200-h800-k-no",
-  "description": "Easygoing juice & espresso bar offering a variety of beverages, plus baked goods & free WiFi.",
+  "description": "Juice 'n Java is an easygoing juice and espresso bar on Freedom Boulevard with baked goods and free WiFi. It's open from 6:30 AM to 7 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 73,
+    "2": 26,
+    "3": 24,
+    "4": 64,
+    "5": 398
+  },
   "hours": {
     "mon": "6:30 AM - 7:00 PM",
     "tue": "6:30 AM - 7:00 PM",
@@ -44,5 +51,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

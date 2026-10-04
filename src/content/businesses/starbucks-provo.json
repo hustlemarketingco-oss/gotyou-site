@@ -20,13 +20,18 @@
   "googleRating": 4.8,
   "googleReviewCount": 18,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-g2K4fUJWyc0iRr1lh7E7x1gc_x8C280v10o0Dv04zBZ7qJrTVzlXq7MiHojPlin8olITzaIU6Jjgj4DNxZY1b4Fj2-j6Xn8ur5AYgoi3ntPLMf2JlN1eFAU7S2ZvZMqUSnCx=w1200-h800-k-no",
-  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "description": "This Starbucks on North State Street serves handcrafted coffee, espresso and tea, plus breakfast, lunch and pastries. It's open weekdays from 6 AM to 6 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 16
+  },
   "hours": {
     "mon": "6:00 AM - 6:00 PM",
     "tue": "6:00 AM - 6:00 PM",
@@ -41,5 +46,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

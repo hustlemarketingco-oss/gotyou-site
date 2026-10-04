@@ -22,6 +22,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "3": 2,
+    "4": 5,
+    "5": 43
+  },
   "hours": {
     "mon": "11:30 AM - 1:10 PM",
     "tue": "12:00 PM - 1:30 PM",
@@ -36,5 +43,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "The Pendulum Court Café is a lunch cafe on the BYU campus, open midday Monday through Thursday.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

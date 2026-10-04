@@ -21,11 +21,18 @@
   "googleRating": 4.4,
   "googleReviewCount": 833,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlr7CcuHvg8_iJO8MNEqIHPKCfpj8L78nlDiqSmJKao3nPnU3cs3tatX7qevrbEtkLtRg6gpJfWOXMABdFlr7Una-BcAh5uNagCkwt3491WAiBQ47nwrZQqCA77erwuC-u8Z-njybUAM-cO=w1200-h800-k-no",
-  "description": "Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",
+  "description": "This Dutch Bros on North University Avenue is a drive-thru serving customized coffees, Rebel energy drinks, cold brew and tea. It's open from 5 AM until 11 PM, and midnight on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 61,
+    "2": 29,
+    "3": 38,
+    "4": 79,
+    "5": 626
+  },
   "hours": {
     "mon": "5:00 AM - 11:00 PM",
     "tue": "5:00 AM - 11:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

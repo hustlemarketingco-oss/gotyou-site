@@ -26,6 +26,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 24,
+    "3": 21,
+    "4": 67,
+    "5": 531
+  },
   "hours": {
     "mon": "11:00 AM - 8:30 PM",
     "tue": "11:00 AM - 8:30 PM",
@@ -40,5 +47,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Taste 117 is a downtown Provo spot on North University Avenue with a tea house and chocolate shop. It's open from 11 AM into the evening, later Thursday through Saturday.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

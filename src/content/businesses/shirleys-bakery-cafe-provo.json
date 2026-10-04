@@ -20,13 +20,20 @@
   "googleRating": 4.3,
   "googleReviewCount": 1211,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWliCNJasXc2GHkC2dvg07ageha6xk_T0ICaPYOhuXrMMAog7BuWn8qL0GTLrC8_InFfxMRLYtXlAvVGnTAJFipno_QChdyXlRw4H-39Ww6Ecutx0OdXTNllvQNDdoWT0XTGrPkq=w1200-h800-k-no",
-  "description": "Comfortable counter-serve offering baked breads & desserts, plus simple salads & sandwiches.",
+  "description": "Shirley's Bakery & Cafe is a comfortable counter-serve bakery on North Freedom Boulevard offering fresh breads and desserts, plus simple salads and sandwiches. It's open from 7 AM to 7 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 52,
+    "3": 79,
+    "4": 194,
+    "5": 804
+  },
   "hours": {
     "mon": "7:00 AM - 7:00 PM",
     "tue": "7:00 AM - 7:00 PM",
@@ -41,5 +48,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

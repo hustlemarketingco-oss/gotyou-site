@@ -25,13 +25,20 @@
   "googleRating": 4,
   "googleReviewCount": 1618,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8_yWb-epyPr1855H-bXe5wiMKUu43KTzCTedFM_g19y3srLDrbOWVqZ-25xLw9TxmDfIIkXUCshSQApacLNS4l9dh6OBiEbpjSX9k-2geZ_uCCWdTRLWhWx62UNaQ76MMjQQ=w1200-h800-k-no",
-  "description": "Familiar homestyle Mexican dishes offered in a relaxed atmosphere with beer, wine & cocktails.",
+  "description": "Joe Vera's is a downtown Provo Mexican restaurant on West Center Street serving homestyle dishes in a relaxed atmosphere with beer, wine and cocktails. It also caters, and is open from 11 AM to 9 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 126,
+    "2": 103,
+    "3": 181,
+    "4": 395,
+    "5": 813
+  },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -46,5 +53,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

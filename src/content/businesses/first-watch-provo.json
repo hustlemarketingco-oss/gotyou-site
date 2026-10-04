@@ -24,13 +24,20 @@
   "googleRating": 4.7,
   "googleReviewCount": 828,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZpPhv5GTFjfCKDPzp5Eo6pOrLI0cYGyT8rIMo7B_UPBIDU2fiVlXRtCLdqDdCJfiJYe0AqNpf53FaCSIEKpSo1N9y3dHROXyt5PYpzmddw2_S5Clv_LHZkCY7E6Wys97JbHmkHH71xGvT=w1200-h800-k-no",
-  "description": "Cafe chain for health-minded breakfast, brunch & lunch options such as omelets, salads & soups.",
+  "description": "First Watch is a daytime cafe chain on North University Parkway serving health-minded breakfast, brunch and lunch, including omelets, salads and soups. It's open daily from 7 AM to 2:30 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 17,
+    "3": 20,
+    "4": 58,
+    "5": 712
+  },
   "hours": {
     "mon": "7:00 AM - 2:30 PM",
     "tue": "7:00 AM - 2:30 PM",
@@ -45,5 +52,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

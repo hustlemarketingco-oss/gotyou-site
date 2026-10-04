@@ -24,6 +24,13 @@
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
+  "ratingBreakdown": {
+    "1": 68,
+    "2": 62,
+    "3": 171,
+    "4": 661,
+    "5": 2783
+  },
   "hours": {
     "mon": "7:00 AM - 11:00 PM",
     "tue": "7:00 AM - 11:00 PM",
@@ -38,5 +45,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "BYU Creamery on Ninth is Brigham Young University's ice cream shop and campus market, a Provo institution for its BYU-made ice cream. It's open 7 AM to 11 PM Monday through Saturday and closed Sundays.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

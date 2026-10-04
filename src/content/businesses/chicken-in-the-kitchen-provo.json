@@ -26,6 +26,13 @@
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 6,
+    "3": 4,
+    "4": 22,
+    "5": 443
+  },
   "hours": {
     "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
     "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
@@ -40,5 +47,7 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "description": "Chicken in the Kitchen is a Korean chicken and wings restaurant on North State Street in Provo. It serves lunch and dinner with an afternoon break, and holds a 4.8-star average.",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }

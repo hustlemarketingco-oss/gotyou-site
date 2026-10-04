@@ -40,7 +40,9 @@ const businesses = defineCollection({
     googleMapsUrl: z.string().url().optional(),
     photoUrl: z.string().url().optional(), // hosted Google photo URL (from the directory scraper)
     priceRange: z.string().optional(),
-    amenities: z.array(z.string()).default([]), // e.g. "Wheelchair accessible entrance", "Dine-in"
+    amenities: z.array(z.string()).default([]),
+    ratingBreakdown: z.record(z.string(), z.number()).optional(), // Google star counts, e.g. {"5": 2783, "4": 661}
+    ownerPhotoUrl: z.string().optional(), // photo supplied by the merchant after claiming; preferred over photoUrl // e.g. "Wheelchair accessible entrance", "Dine-in"
     timezone: z.string().optional(), // IANA, e.g. "America/Denver" — used for the "Open now" badge
     temporarilyClosed: z.boolean().default(false),
     source: z.string().optional(), // "gmaps-scraper" when written by directory-pipeline/export_gotyou.py

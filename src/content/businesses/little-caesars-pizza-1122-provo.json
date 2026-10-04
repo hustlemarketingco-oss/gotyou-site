@@ -21,11 +21,18 @@
   "googleRating": 3.3,
   "googleReviewCount": 182,
   "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3XGRt_wY5G1aXX78JZhXPvEFShVVYChESmJJU0F3qoMkkkkwaoE2yiuVEHV__0Zv1vd_UVuGKjQ3eCxZdkdnGkp4AV-hXr0_-jOr5AZmAxvvmXnxyosJ-12HFg-lyq9-ObQhHDQ=w1200-h800-k-no",
-  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "description": "This Little Caesars on South University Avenue is a carry-out pizza spot with wings and its signature breadsticks. It's open from 10 AM to 11 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 12,
+    "3": 9,
+    "4": 22,
+    "5": 81
+  },
   "hours": {
     "mon": "10:00 AM - 11:00 PM",
     "tue": "10:00 AM - 11:00 PM",
@@ -40,5 +47,6 @@
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
-  "source": "gmaps-scraper"
+  "source": "gmaps-scraper",
+  "enrichedAt": "2026-10-04T18:45:49Z"
 }
