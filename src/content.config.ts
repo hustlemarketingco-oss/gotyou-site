@@ -38,6 +38,7 @@ const businesses = defineCollection({
     googleReviewCount: z.number().optional(),
     googlePhotoRef: z.string().optional(), // photo reference, not the binary
     googleMapsUrl: z.string().url().optional(),
+    googleCid: z.string().optional(), // stable Google Maps id -> https://maps.google.com/?cid=<id>
     photoUrl: z.string().url().optional(), // hosted Google photo URL (from the directory scraper)
     priceRange: z.string().optional(),
     amenities: z.array(z.string()).default([]),

@@ -8,8 +8,10 @@ import { sizedPhoto, categoryIcon } from '../lib/business';
 interface Props {
   items: Biz[];
   ranked?: boolean;
+  /** Optional per-item highlight (e.g. "Open until 1 AM (Fri)"), same order as items. */
+  notes?: (string | undefined)[];
 }
-const { items, ranked = true } = Astro.props;
+const { items, ranked = true, notes } = Astro.props;
 ---
 
 <ol class:list={['spots', ranked && 'spots--ranked']}>
@@ -32,7 +34,7 @@ const { items, ranked = true } = Astro.props;
               {b.priceRange && <span>{b.priceRange}</span>}
             </p>
             <p class="addr"><i class="ti ti-map-pin"></i>{b.address}, {b.city}</p>
-            {hours && <p class="addr"><i class="ti ti-clock"></i>{hours}</p>}
+            {notes?.[i] ? <p class="addr hl"><i class="ti ti-sparkles"></i>{notes[i]}</p> : hours && <p class="addr"><i class="ti ti-clock"></i>{hours}</p>}
           </div>
         </a>
       </li>
@@ -122,6 +124,10 @@ const { items, ranked = true } = Astro.props;
     gap: 6px;
     font-size: 14px;
     color: var(--muted);
+  }
+  .hl {
+    color: var(--blue);
+    font-weight: 600;
   }
   @media (max-width: 560px) {
     .spot-link {

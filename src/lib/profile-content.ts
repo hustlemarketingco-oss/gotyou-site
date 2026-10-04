@@ -88,12 +88,15 @@ export function hoursFacts(b: Biz) {
   const opens = open.map((d) => Math.min(...d.ranges!.map((r) => r[0])));
   const closes = open.map((d) => Math.max(...d.ranges!.map((r) => r[1])));
   const always = open.length === 7 && open.every((d) => d.ranges!.some((r) => r[0] === 0 && r[1] >= 1440));
+  // Days with a midday break (e.g. 11 AM–2 PM, 5 PM–midnight).
+  const split = open.filter((d) => d.ranges!.length > 1).length;
   return {
     days,
     known: known.length > 0,
     openDays: open.length,
     closed,
     always,
+    split,
     earliest: opens.length ? Math.min(...opens) : null,
     latest: closes.length ? Math.max(...closes) : null,
     sameEveryDay: open.length > 1 && open.every((d) => b.hours?.[d.key] === b.hours?.[open[0].key]),
@@ -138,9 +141,12 @@ export function profileContent(b: Biz, all: Biz[]) {
   const access = b.amenities.filter((a) => /wheelchair/i.test(a)).map((a) => a.replace(/^Wheelchair accessible /i, '').toLowerCase());
 
   // One-sentence summary: the "answer" an AI assistant or featured snippet would quote.
+  const days = h.openDays === 7 ? 'daily' : `${h.openDays} days a week`;
   const hoursBit = h.always
     ? 'open 24 hours a day'
-    : h.sameEveryDay && h.earliest !== null && h.latest !== null
+    : h.split && h.latest !== null
+      ? `open ${days} for lunch and dinner with an afternoon break, until ${clock(h.latest)}`
+      : h.sameEveryDay && h.earliest !== null && h.latest !== null
       ? `open ${h.openDays === 7 ? 'daily' : `${h.openDays} days a week`} from ${clock(h.earliest)} to ${clock(h.latest)}`
       : h.openDays
         ? `open ${h.openDays} days a week`
@@ -166,7 +172,9 @@ export function profileContent(b: Biz, all: Biz[]) {
   const p2: string[] = [];
   if (h.always) p2.push(`${b.name} is open 24 hours, seven days a week.`);
   else if (h.known) {
-    if (h.sameEveryDay && h.earliest !== null && h.latest !== null)
+    if (h.split)
+      p2.push(`It serves lunch, closes for a break in the afternoon, and reopens for dinner${h.latest !== null ? ` until ${clock(h.latest)}` : ''} — check today’s hours below before heading over.`);
+    else if (h.sameEveryDay && h.earliest !== null && h.latest !== null)
       p2.push(`It keeps the same hours every day it’s open: ${clock(h.earliest)} to ${clock(h.latest)}.`);
     else if (h.earliest !== null && h.latest !== null)
       p2.push(`Hours vary by day — the earliest opening is ${clock(h.earliest)} and the latest close is ${clock(h.latest)}.`);

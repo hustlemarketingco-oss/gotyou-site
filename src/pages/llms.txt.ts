@@ -1,8 +1,9 @@
 // /llms.txt — a plain-language map of the site for AI assistants (llmstxt.org convention).
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { activeBusinesses, byCity, categoriesIn } from '../lib/explore';
-import { categoryPath, cityPath, plural } from '../lib/profile-content';
+import { activeBusinesses, byCity } from '../lib/explore';
+import { cityPath } from '../lib/profile-content';
+import { topicsForCity, modifiersFor, topicPath } from '../lib/topics';
 import { BRAND } from '../lib/constants';
 
 export const GET: APIRoute = async ({ site }) => {
@@ -32,9 +33,10 @@ export const GET: APIRoute = async ({ site }) => {
     `- [Explore by city](${u('/explore/')})`,
     ...cities.flatMap((c) => [
       `- [${c.city}, ${c.state}](${u(cityPath(c.city))}): ${c.items.length} businesses`,
-      ...categoriesIn(c.items)
-        .filter((g) => g.hasPage)
-        .map((g) => `  - [${plural(g.category)} in ${c.city}](${u(categoryPath(c.city, g.category))}): ${g.items.length}`),
+      ...topicsForCity(c.items).flatMap((t) => [
+        `  - [${t.topic.kind === 'feature' ? t.topic.label : `Best ${t.topic.label}`} in ${c.city}](${u(topicPath(c.city, t.topic))}): ${t.items.length}`,
+        ...modifiersFor(t.topic, t.items).map((m) => `    - [${m.mod.title(t.topic, c.city)}](${u(topicPath(c.city, t.topic, m.mod.slug))})`),
+      ]),
     ]),
     '',
     '## Recent articles',

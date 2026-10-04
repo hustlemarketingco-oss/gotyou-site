@@ -5,6 +5,7 @@ import SpotList from '../../../components/SpotList.astro';
 import { activeBusinesses, byCity, categoriesIn, avgRating } from '../../../lib/explore';
 import { categoryPath, cityPath, hoursFacts, plural, lc } from '../../../lib/profile-content';
 import { categoryIcon } from '../../../lib/business';
+import { topicsForCity, modifiersFor, topicPath } from '../../../lib/topics';
 
 export async function getStaticPaths() {
   const all = await activeBusinesses();
@@ -14,6 +15,11 @@ export async function getStaticPaths() {
 const { group, others } = Astro.props;
 const { city, state, items } = group;
 const cats = categoriesIn(items);
+const topics = topicsForCity(items);
+const searches = topics.flatMap((t) => [
+  { href: topicPath(city, t.topic), label: t.topic.kind === 'feature' ? `${t.topic.label} in ${city}` : `Best ${lc(t.topic.label)} in ${city}` },
+  ...modifiersFor(t.topic, t.items).map((m) => ({ href: topicPath(city, t.topic, m.mod.slug), label: m.mod.title(t.topic, city) })),
+]);
 const avg = avgRating(items);
 const lateNight = items.filter((b) => (hoursFacts(b).latest ?? 0) >= 22 * 60).length;
 const top = items.slice(0, 20);
@@ -50,6 +56,13 @@ const ld = [
         <SpotList items={top} />
         {items.length > top.length && <p class="more"><a href={`/businesses/?city=${encodeURIComponent(city)}`} class="link-arrow">See all {items.length} in {city} <i class="ti ti-arrow-right"></i></a></p>}
 
+        {searches.length > 0 && (
+          <section class="searches">
+            <h2 class="h3 sec-title">Popular searches in {city}</h2>
+            <div class="cloud">{searches.map((x) => <a href={x.href}>{x.label}</a>)}</div>
+          </section>
+        )}
+
         <section class="faq">
           <h2 class="h3 sec-title">Questions about {city}</h2>
           {faqs.map((f) => <details><summary>{f.q}<i class="ti ti-plus"></i></summary><p>{f.a}</p></details>)}
@@ -57,14 +70,18 @@ const ld = [
       </div>
       <aside>
         <div class="card card--pad side">
-          <h2>Browse {city} by category</h2>
+          <h2>{city} by cuisine</h2>
           <ul>
-            {cats.map((c) => (
-              <li>
-                <i class:list={['ti', categoryIcon(c.category)]}></i>
-                {c.hasPage ? <a href={categoryPath(city, c.category)}>{plural(c.category)}</a> : <span>{plural(c.category)}</span>}
-                <small>{c.items.length}</small>
-              </li>
+            {topics.filter((t) => t.topic.kind === 'cuisine').map((t) => (
+              <li><i class="ti ti-tools-kitchen-2"></i><a href={topicPath(city, t.topic)}>{t.topic.label}</a><small>{t.items.length}</small></li>
+            ))}
+          </ul>
+        </div>
+        <div class="card card--pad side">
+          <h2>Popular in {city}</h2>
+          <ul>
+            {topics.filter((t) => t.topic.kind !== 'cuisine').map((t) => (
+              <li><i class:list={['ti', t.topic.kind === 'category' ? categoryIcon(t.topic.label) : 'ti-star']}></i><a href={topicPath(city, t.topic)}>{t.topic.label}</a><small>{t.items.length}</small></li>
             ))}
           </ul>
         </div>
@@ -100,6 +117,26 @@ const ld = [
   }
   .more {
     margin-top: 18px;
+  }
+  .searches {
+    margin-top: 48px;
+  }
+  .cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .cloud a {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 100px;
+    padding: 8px 14px;
+    font-size: 14.5px;
+    font-weight: 500;
+    color: var(--blue);
+  }
+  .cloud a:hover {
+    border-color: var(--blue);
   }
   .faq {
     margin-top: 48px;

@@ -1,0 +1,98 @@
+---
+import TopicPage from '../../../../components/TopicPage.astro';
+import StoreBadges from '../../../../components/StoreBadges.astro';
+import { activeBusinesses, byCity } from '../../../../lib/explore';
+import { cityPath, lc } from '../../../../lib/profile-content';
+import { topicsForCity, modifiersFor, topicPath } from '../../../../lib/topics';
+import { dealsCopy, lateCopy } from '../../../../lib/topic-copy';
+
+export async function getStaticPaths() {
+  const cities = byCity(await activeBusinesses());
+  return cities.flatMap((c) => {
+    const topics = topicsForCity(c.items);
+    return topics.flatMap(({ topic, items: topicItems }) =>
+      modifiersFor(topic, topicItems).map(({ mod, items }) => ({
+        params: { city: c.slug, topic: topic.slug, modifier: mod.slug },
+        props: {
+          city: c.city,
+          state: c.state,
+          topic,
+          mod,
+          items,
+          topicCount: topicItems.length,
+          siblingDeals: topics.filter((t) => t.topic.slug !== topic.slug && modifiersFor(t.topic, t.items).some((m) => m.mod.slug === mod.slug)).map((t) => t.topic),
+          otherMods: modifiersFor(topic, topicItems).filter((m) => m.mod.slug !== mod.slug),
+        },
+      })),
+    );
+  });
+}
+
+const { city, state, topic, mod, items, topicCount, siblingDeals, otherMods } = Astro.props;
+const isDeals = mod.slug === 'deals';
+const { intro, faqs } = isDeals ? dealsCopy(topic, city, state, items) : lateCopy(topic, city, state, items);
+const title = mod.title(topic, city);
+const notes = mod.note ? items.map(mod.note) : undefined;
+---
+
+<TopicPage
+  title={`${title}, ${state}`}
+  heading={title.replace(city, `<em>${city}</em>`)}
+  eyebrow={isDeals ? 'Local deals · GOTYOU' : `${city}, ${state}`}
+  intro={intro}
+  listTitle={isDeals ? `${items.length} ${lc(topic.label)} in ${city}` : `${items.length} late-night ${lc(topic.label)}, ranked`}
+  items={items}
+  notes={notes}
+  faqs={faqs}
+  breadcrumbs={[
+    { name: 'Directory', href: '/businesses/' },
+    { name: city, href: cityPath(city) },
+    { name: topic.label, href: topicPath(city, topic) },
+    { name: isDeals ? 'Deals' : 'Late night', href: topicPath(city, topic, mod.slug) },
+  ]}
+  related={[
+    { title: `${topic.label} in ${city}`, links: [{ href: topicPath(city, topic), label: `All ${lc(topic.label)} (ranked)`, count: topicCount }, ...otherMods.map((m) => ({ href: topicPath(city, topic, m.mod.slug), label: m.mod.title(topic, city), count: m.items.length }))] },
+    { title: isDeals ? `More deals in ${city}` : `More late-night food in ${city}`, links: siblingDeals.map((t) => ({ href: topicPath(city, t, mod.slug), label: mod.title(t, city) })) },
+  ]}
+>
+  {isDeals && (
+    <div slot="before" class="save card card--pad">
+      <h2 class="h3">How to save on {topic.short} in {city}</h2>
+      <ol>
+        <li><b>Tune in to the 11:23 Daily Drop.</b> Every day at 11:23 AM, GOTYOU drops one real offer from a local spot near you, live for a limited time.</li>
+        <li><b>Check in and earn.</b> At participating businesses, checking in, leaving feedback and sharing all earn cash rewards you can cash out.</li>
+        <li><b>Explore what’s live.</b> Offers change daily — open the app’s map to see what’s available near you right now.</li>
+      </ol>
+      <StoreBadges />
+      <p class="fine"><a href="/1123/">How the Daily Drop works</a> · <a href="/where-gotyou-works/">Where GOTYOU is live</a></p>
+    </div>
+  )}
+</TopicPage>
+
+<style>
+  .save {
+    margin-bottom: 32px;
+    background: linear-gradient(180deg, #e3effc, #fff);
+  }
+  .save h2 {
+    margin-bottom: 14px;
+  }
+  .save ol {
+    padding-left: 20px;
+    display: grid;
+    gap: 10px;
+    margin-bottom: 18px;
+    color: var(--muted);
+  }
+  .save b {
+    color: var(--ink);
+  }
+  .fine {
+    margin-top: 12px;
+    font-size: 14px;
+  }
+  .fine a {
+    color: var(--blue);
+    font-weight: 600;
+  }
+</style>

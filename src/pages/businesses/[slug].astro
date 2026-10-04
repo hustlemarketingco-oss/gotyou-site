@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ClaimSidebar from '../../components/ClaimSidebar.astro';
 import { DAYS, categoryIcon, formatPhone, sizedPhoto, to24hRanges, websiteHost } from '../../lib/business';
 import { profileContent, cityPath, categoryPath, plural, fmtMiles, MIN_CATEGORY_LISTINGS } from '../../lib/profile-content';
+import { cuisinesFor } from '../../lib/topics';
 
 // This is the function that turns "businesses in the content collection"
 // into "real pages on the site." Every entry in src/content/businesses/
@@ -48,7 +49,9 @@ const site = Astro.site ?? Astro.url;
 const pageUrl = new URL(`/businesses/${b.slug}/`, site).href;
 const updated = b.updatedAt ? new Date(b.updatedAt) : undefined;
 const updatedLabel = updated?.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
-const mapsUrl = b.googleMapsUrl?.split('?')[0];
+// Stable, short Google Maps URL from the place's CID (the long /maps/place/... link changes over time).
+const mapsUrl = b.googleCid ? `https://maps.google.com/?cid=${b.googleCid}` : b.googleMapsUrl?.split('?')[0];
+const servesCuisine = cuisinesFor(b);
 const icon = categoryIcon(b.category);
 const kind = (b.googleCategory ?? b.category).toLowerCase();
 
@@ -85,6 +88,7 @@ const jsonLd = {
   ...((b.website || mapsUrl) && { sameAs: [b.website, mapsUrl].filter(Boolean) }),
   ...(mapsUrl && { hasMap: mapsUrl }),
   description: b.description || content.summary,
+  ...(servesCuisine.length && { servesCuisine }),
   ...(b.amenities.length && {
     amenityFeature: b.amenities.map((a) => ({ '@type': 'LocationFeatureSpecification', name: a, value: true })),
   }),
@@ -139,7 +143,7 @@ const pageLd = [
 ];
 ---
 
-<BaseLayout title={pageTitle} description={pageDescription.slice(0, 300)} ogImage={b.ownerPhotoUrl}>
+<BaseLayout title={pageTitle} description={pageDescription.slice(0, 300)} ogImage={b.ownerPhotoUrl ?? `/og/businesses/${b.slug}.jpg`}>
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(pageLd)} />
   <link slot="head" rel="alternate" type="application/json" href={`/businesses/${b.slug}.json`} title={`${b.name} — structured data`} />
@@ -203,7 +207,15 @@ const pageLd = [
                 {DAYS.map(([key, label]) => (
                   <tr data-day={key}>
                     <th scope="row">{label}</th>
-                    <td class:list={[b.hours?.[key] === 'Closed' && 'is-closed']}>{b.hours?.[key] ?? '—'}</td>
+                    <td class:list={[b.hours?.[key] === 'Closed' && 'is-closed']}>
+                      {b.hours?.[key] && b.hours[key] !== 'Closed' && !/24 hours/i.test(b.hours[key]!)
+                        ? to24hRanges(b.hours[key]!).map((r, i) => {
+                            const [o, c] = r.split('-');
+                            const parts = b.hours![key]!.split(',')[i]?.split(' - ') ?? [];
+                            return <>{i > 0 && ', '}<time datetime={o}>{parts[0]?.trim()}</time> – <time datetime={c}>{parts[1]?.trim()}</time></>;
+                          })
+                        : b.hours?.[key] ?? '—'}
+                    </td>
                   </tr>
                 ))}
               </tbody>
@@ -227,7 +239,7 @@ const pageLd = [
             <iframe src={mapSrc} title={`Map of ${b.name}`} loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
           <div class="loc-row">
-            <div><i class="ti ti-map-pin"></i>{fullAddress}</div>
+            <address><i class="ti ti-map-pin"></i>{fullAddress}</address>
             <a href={directionsUrl} target="_blank" rel="noopener" class="link">Get directions <i class="ti ti-arrow-up-right"></i></a>
           </div>
           {content.nearby.sameCategory.length > 0 && (
@@ -745,6 +757,9 @@ const pageLd = [
     margin-top: 14px;
     font-size: 15px;
     color: #2b3247;
+  }
+  .loc-row address {
+    font-style: normal;
   }
   .loc-row i {
     color: var(--blue);

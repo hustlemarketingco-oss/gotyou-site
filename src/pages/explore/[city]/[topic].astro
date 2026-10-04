@@ -1,0 +1,52 @@
+---
+import TopicPage from '../../../components/TopicPage.astro';
+import { activeBusinesses, byCity } from '../../../lib/explore';
+import { cityPath, lc } from '../../../lib/profile-content';
+import { topicsForCity, modifiersFor, topicPath } from '../../../lib/topics';
+import { topicCopy } from '../../../lib/topic-copy';
+
+export async function getStaticPaths() {
+  const cities = byCity(await activeBusinesses());
+  const pages = cities.flatMap((c) => topicsForCity(c.items).map((x) => ({ c, ...x })));
+  return pages.map(({ c, topic, items }) => ({
+    params: { city: c.slug, topic: topic.slug },
+    props: {
+      city: c.city,
+      state: c.state,
+      cityTotal: c.items.length,
+      topic,
+      items,
+      siblings: topicsForCity(c.items).filter((x) => x.topic.slug !== topic.slug),
+      elsewhere: pages.filter((p) => p.topic.slug === topic.slug && p.c.slug !== c.slug).map((p) => p.c),
+      mods: modifiersFor(topic, items),
+    },
+  }));
+}
+
+const { city, state, cityTotal, topic, items, siblings, elsewhere, mods } = Astro.props;
+const { intro, faqs } = topicCopy(topic, city, state, items, cityTotal);
+const title = topic.kind === 'feature' ? `${topic.label} in ${city}, ${state}` : `Best ${topic.label} in ${city}, ${state}`;
+const notes = topic.note ? items.map(topic.note) : undefined;
+---
+
+<TopicPage
+  title={`${title} (${items.length})`}
+  heading={topic.kind === 'feature' ? `${topic.label} in <em>${city}</em>` : `Best ${topic.label} in <em>${city}</em>`}
+  eyebrow={`${city}, ${state}`}
+  intro={intro}
+  listTitle={`${items.length} ${lc(topic.label)} in ${city}, ranked`}
+  items={items}
+  notes={notes}
+  faqs={faqs}
+  breadcrumbs={[
+    { name: 'Directory', href: '/businesses/' },
+    { name: city, href: cityPath(city) },
+    { name: topic.label, href: topicPath(city, topic) },
+  ]}
+  related={[
+    { title: `More ${topic.short} in ${city}`, links: mods.map((m) => ({ href: topicPath(city, topic, m.mod.slug), label: m.mod.title(topic, city), count: m.items.length })) },
+    { title: `Cuisines in ${city}`, links: siblings.filter((s) => s.topic.kind === 'cuisine').map((s) => ({ href: topicPath(city, s.topic), label: s.topic.label, count: s.items.length })) },
+    { title: `Popular in ${city}`, links: siblings.filter((s) => s.topic.kind !== 'cuisine').map((s) => ({ href: topicPath(city, s.topic), label: s.topic.label, count: s.items.length })) },
+    { title: `${topic.label} nearby`, links: elsewhere.map((o) => ({ href: topicPath(o.city, topic), label: `${topic.label} in ${o.city}` })) },
+  ]}
+/>

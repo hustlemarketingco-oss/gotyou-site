@@ -45,7 +45,8 @@ export function to24hRanges(value: string): string[] {
     .split(',')
     .map((r) => r.split(' - ').map(t))
     .filter((p): p is [string, string] => p.length === 2 && !!p[0] && !!p[1])
-    .map(([a, b]) => `${a}-${b}`);
+    // A close of exactly midnight is written 23:59: some parsers read "00:00" as the start of the day.
+    .map(([a, b]) => `${a}-${b === '00:00' ? '23:59' : b}`);
 }
 
 /** Tabler icon per GotYou display bucket. */
