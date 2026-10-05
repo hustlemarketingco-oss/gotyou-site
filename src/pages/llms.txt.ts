@@ -25,7 +25,7 @@ export const GET: APIRoute = async ({ site }) => {
     `- [For business](${u('/solution/')}): Verified Physical Commerce for merchants`,
     `- [Pricing](${u('/pricing/')}): $1 trial; 50/100/200 guaranteed new customers a month for $175/$300/$500`,
     `- [Where GOTYOU works](${u('/where-gotyou-works/')}): live cities and zones`,
-    `- [FAQ](${u('/faq/')})`,
+    `- [FAQ](${u('/faq/')}): app questions, plus a business guide to loyalty and rewards programs, getting more customers, filling slow hours and community-led marketing (${u('/faq/#for-business')})`,
     `- [About](${u('/about/')})`,
     '',
     '## Local business directory',

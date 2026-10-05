@@ -47,6 +47,7 @@ export const FOOTER_LINKS = [
       { label: 'How it works for merchants', href: '/solution' },
       { label: 'Pricing', href: '/pricing' },
       { label: 'ROI calculator', href: '/roi' },
+      { label: 'Business FAQ', href: '/faq/#for-business' },
       { label: 'Claim your listing', href: '/businesses' },
       { label: 'Merchant login', href: 'https://app.gotyou.co' },
     ],

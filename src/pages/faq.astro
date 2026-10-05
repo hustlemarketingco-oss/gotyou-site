@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHero from '../components/PageHero.astro';
 import { BRAND } from '../lib/constants';
+import { BUSINESS_FAQ_GROUPS } from '../lib/business-faq';
 
 const hello = `<a href="mailto:${BRAND.helloEmail}">${BRAND.helloEmail}</a>`;
 // Copied from gotyou.co/faq-mobile, grouped by topic.
@@ -49,34 +50,54 @@ const groups = [
   },
 ];
 
+const audiences = [
+  { id: 'for-locals', title: 'For locals', lede: 'Earning, redeeming and privacy in the GOTYOU app.', groups },
+  { id: 'for-business', title: 'For businesses', lede: 'Loyalty programs, getting more customers, and community-led marketing — plus how GOTYOU works for merchants.', groups: BUSINESS_FAQ_GROUPS },
+];
+const groupId = (title: string) => title.toLowerCase().replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
 const faqLd = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: groups.flatMap((g) => g.items.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } }))),
+  mainEntity: audiences.flatMap((au) =>
+    au.groups.flatMap((g) => g.items.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a.replace(/<[^>]+>/g, '') } }))),
+  ),
 };
 ---
 
-<BaseLayout title="FAQ" description="Answers to common questions about the GOTYOU app: how earning works, redeeming rewards, privacy, and where GOTYOU is live.">
+<BaseLayout title="FAQ — rewards, loyalty programs & local marketing" description="Answers about earning with the GOTYOU app, plus a guide for local businesses: loyalty and rewards programs, how to get more customers, filling slow hours, and community-led marketing.">
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqLd)} />
-  <PageHero eyebrow="Help center" title="Frequently asked <em>questions</em>" lede="Everything you need to know about earning with GOTYOU. Still stuck? We’re one email away." />
+  <PageHero eyebrow="Help center" title="Frequently asked <em>questions</em>" lede="Everything about earning with GOTYOU — and a guide for local businesses on loyalty programs, getting more customers and community-led marketing." />
 
   <section class="section">
     <div class="container faq-layout">
       <nav class="toc" aria-label="FAQ topics">
-        {groups.map((g) => <a href={`#${g.title.toLowerCase().replace(/[^a-z]+/g, '-')}`}><i class:list={['ti', g.icon]}></i>{g.title}</a>)}
+        {audiences.map((au) => (
+          <>
+            <a href={`#${au.id}`} class="toc-head">{au.title}</a>
+            {au.groups.map((g) => <a href={`#${groupId(g.title)}`}><i class:list={['ti', g.icon]}></i>{g.title}</a>)}
+          </>
+        ))}
         <a href={`mailto:${BRAND.supportEmail}`} class="mail"><i class="ti ti-mail"></i>{BRAND.supportEmail}</a>
       </nav>
       <div class="groups">
-        {groups.map((g) => (
-          <section id={g.title.toLowerCase().replace(/[^a-z]+/g, '-')} class="group">
-            <h2><span class="icon-circle"><i class:list={['ti', g.icon]}></i></span>{g.title}</h2>
-            {g.items.map(([q, a]) => (
-              <details>
-                <summary>{q}<i class="ti ti-plus"></i></summary>
-                <p set:html={a} />
-              </details>
+        {audiences.map((au) => (
+          <div class="audience" id={au.id}>
+            <div class="audience-head">
+              <span class="eyebrow">{au.title}</span>
+              <p>{au.lede}</p>
+            </div>
+            {au.groups.map((g) => (
+              <section id={groupId(g.title)} class="group">
+                <h2><span class="icon-circle"><i class:list={['ti', g.icon]}></i></span>{g.title}</h2>
+                {g.items.map(([q, a]) => (
+                  <details>
+                    <summary>{q}<i class="ti ti-plus"></i></summary>
+                    <p set:html={a} />
+                  </details>
+                ))}
+              </section>
             ))}
-          </section>
+          </div>
         ))}
       </div>
     </div>
@@ -121,7 +142,31 @@ const faqLd = {
   }
   .groups {
     display: grid;
+    gap: 72px;
+  }
+  .audience {
+    display: grid;
     gap: 48px;
+    scroll-margin-top: 100px;
+  }
+  .audience-head {
+    border-bottom: 2px solid var(--line);
+    padding-bottom: 14px;
+  }
+  .audience-head .eyebrow {
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+  .audience-head p {
+    color: var(--muted);
+  }
+  .toc-head {
+    font-weight: 700 !important;
+    color: var(--ink) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 12.5px;
+    margin-top: 10px;
   }
   .group {
     scroll-margin-top: 100px;
