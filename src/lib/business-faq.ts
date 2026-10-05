@@ -8,6 +8,36 @@ const blog = (slug: string, text: string) => `<a href="/blog/${slug}/">${text}</
 
 export const BUSINESS_FAQ_GROUPS = [
   {
+    title: 'Getting started with GOTYOU',
+    icon: 'ti-rocket',
+    items: [
+      [
+        'How much does GOTYOU cost for businesses?',
+        'The platform — merchant dashboard, AI customer discovery, local map listing, check-in and attribution tracking — is included at $0/month. You pay for customer demand: a $1 trial, or plans that guarantee 50, 100 or 200 first-time customers a month for $175, $300 or $500. <a href="/pricing/">Compare plans.</a>',
+      ],
+      [
+        'Is there a contract?',
+        'No. Every plan is month-to-month with no setup fee. Upgrade, downgrade or cancel anytime from your merchant dashboard.',
+      ],
+      [
+        'What happens if GOTYOU doesn’t deliver the customers I paid for?',
+        'Paid plans guarantee a specific number of first-time visitors each billing cycle. If we fall short, we keep running your campaign until we deliver, or refund the undelivered portion.',
+      ],
+      [
+        'What kinds of businesses is GOTYOU best for?',
+        'Standard plans are built for everyday, high-frequency businesses with an average ticket under $25 — coffee shops, bakeries, quick-service restaurants and casual retail. For spas, salons, fine dining, medical and other higher-ticket businesses, we build a custom Demand Plan. <a href="mailto:hello@gotyou.co?subject=Custom%20GOTYOU%20Demand%20Plan">Ask about a custom plan.</a>',
+      ],
+      [
+        'Do I need special hardware?',
+        'Check-ins use the GOTYOU Counter Tap NFC pad at your counter. The In-Store Kit (pad, table tents and window stickers) is included free with GOTYOU 50, 100 and 200, or $50 on its own.',
+      ],
+      [
+        'How quickly can I get started?',
+        'Setup takes minutes — your first 11:23 Daily Drop can run tomorrow. <a href="https://app.gotyou.co">Create your merchant account</a>, or <a href="/solution/">see how it works for merchants</a>.',
+      ],
+    ],
+  },
+  {
     title: 'Loyalty & rewards programs',
     icon: 'ti-heart-handshake',
     items: [
@@ -106,36 +136,6 @@ export const BUSINESS_FAQ_GROUPS = [
       [
         'What is Verified Physical Commerce?',
         'It’s the category GOTYOU is building: e-commerce-style intelligence for in-person businesses. A merchant runs an offer, a real person shows up to redeem it, and a tap confirms the visit — so the customer becomes named, real and yours to bring back, and every visit builds a record of who comes in and what moves them. <a href="/about/">Read more about our mission.</a>',
-      ],
-    ],
-  },
-  {
-    title: 'Getting started with GOTYOU',
-    icon: 'ti-rocket',
-    items: [
-      [
-        'How much does GOTYOU cost for businesses?',
-        'The platform — merchant dashboard, AI customer discovery, local map listing, check-in and attribution tracking — is included at $0/month. You pay for customer demand: a $1 trial, or plans that guarantee 50, 100 or 200 first-time customers a month for $175, $300 or $500. <a href="/pricing/">Compare plans.</a>',
-      ],
-      [
-        'Is there a contract?',
-        'No. Every plan is month-to-month with no setup fee. Upgrade, downgrade or cancel anytime from your merchant dashboard.',
-      ],
-      [
-        'What happens if GOTYOU doesn’t deliver the customers I paid for?',
-        'Paid plans guarantee a specific number of first-time visitors each billing cycle. If we fall short, we keep running your campaign until we deliver, or refund the undelivered portion.',
-      ],
-      [
-        'What kinds of businesses is GOTYOU best for?',
-        'Standard plans are built for everyday, high-frequency businesses with an average ticket under $25 — coffee shops, bakeries, quick-service restaurants and casual retail. For spas, salons, fine dining, medical and other higher-ticket businesses, we build a custom Demand Plan. <a href="mailto:hello@gotyou.co?subject=Custom%20GOTYOU%20Demand%20Plan">Ask about a custom plan.</a>',
-      ],
-      [
-        'Do I need special hardware?',
-        'Check-ins use the GOTYOU Counter Tap NFC pad at your counter. The In-Store Kit (pad, table tents and window stickers) is included free with GOTYOU 50, 100 and 200, or $50 on its own.',
-      ],
-      [
-        'How quickly can I get started?',
-        'Setup takes minutes — your first 11:23 Daily Drop can run tomorrow. <a href="https://app.gotyou.co">Create your merchant account</a>, or <a href="/solution/">see how it works for merchants</a>.',
       ],
     ],
   },
