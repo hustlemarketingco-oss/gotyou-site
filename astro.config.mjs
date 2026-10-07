@@ -51,6 +51,8 @@ export default defineConfig({
       filter: (page) => !/\/claim\/?$/.test(page),
     }),
   ],
+  // Inline page CSS into the HTML: removes render-blocking stylesheet requests (pages' CSS is small).
+  build: { inlineStylesheets: 'always' },
   vite: {
     define: { __IS_PREVIEW__: JSON.stringify(isPreview) },
   },

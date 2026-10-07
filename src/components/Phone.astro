@@ -15,9 +15,9 @@ interface Props {
 
 // Top-edge colour of each screenshot (sampled), so the status bar blends into the app screen.
 const BAR: Record<string, [string, boolean]> = {
-  'drop.jpg': ['#1c80d5', true],
-  'explore-map.jpg': ['#f3efe7', false],
-  'checkin.jpg': ['#fefefe', false],
+  'drop.webp': ['#1c80d5', true],
+  'explore-map.webp': ['#f3efe7', false],
+  'checkin.webp': ['#fefefe', false],
 };
 const { src, alt, width = 280, tilt = 0, class: cls, eager = false } = Astro.props;
 const [defBar, defDark] = BAR[src.split('/').pop() ?? ''] ?? ['#ffffff', false];
@@ -36,7 +36,7 @@ const dark = Astro.props.dark ?? defDark;
         <svg viewBox="0 0 27 13"><rect x=".5" y=".5" width="23" height="12" rx="3.5" fill="none" stroke="currentColor" opacity=".45" /><rect x="2.5" y="2.5" width="16" height="8" rx="2" /><path d="M25 4.5v4c.8-.3 1.5-1.1 1.5-2s-.7-1.7-1.5-2Z" opacity=".45" /></svg>
       </span>
     </div>
-    <img src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" width="1080" height="2250" />
+    <img src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" width="720" height="1500" />
     <span class="home-bar" aria-hidden="true"></span>
   </div>
 </figure>

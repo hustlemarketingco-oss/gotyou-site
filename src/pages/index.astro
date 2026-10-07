@@ -22,7 +22,7 @@ const steps = [
     n: '01',
     title: 'Find your spot',
     body: 'Open Explore to see the best local spots near you, live on the map from morning to late night. Slide from near to hot to see what everyone’s into right now.',
-    img: '/images/app/explore-map.jpg',
+    img: '/images/app/explore-map.webp',
     alt: 'GOTYOU Explore map showing local spots around Tempe and Scottsdale',
     phone: true,
   },
@@ -30,7 +30,7 @@ const steps = [
     n: '02',
     title: 'Check in and earn instantly',
     body: 'Tap the merchant and check in. GOTYOU verifies you’re actually there and drops cash into your account on the spot. Real visits, real spots, real rewards.',
-    img: '/images/app/checkin.jpg',
+    img: '/images/app/checkin.webp',
     alt: 'GOTYOU local status card: earn for checking in, sharing and rating',
     phone: true,
   },
@@ -38,7 +38,7 @@ const steps = [
     n: '03',
     title: 'Watch it add up',
     body: 'Leave feedback, share, rate, or refer a friend. Every action earns more. Your wallet tracks every cent, and your status grows at the places you love.',
-    img: '/images/site/mockup-wallet.webp',
+    img: '/images/site/mockup-wallet-750.webp',
     alt: 'GOTYOU wallet showing $46.65 lifetime value unlocked and three offers ready to redeem',
   },
 ];
@@ -58,7 +58,7 @@ const steps = [
         <a href="/businesses" class="explore-link">Or explore local spots on the web <i class="ti ti-arrow-right"></i></a>
       </div>
       <div class="hero-art">
-        <img src="/images/site/mockup-map-offers.webp" alt="The GOTYOU app: a live map of local spots and today's offers from Chipotle Mexican Grill" class="hero-mockup" fetchpriority="high" width="1200" height="1094" />
+        <img src="/images/site/mockup-map-offers.webp" srcset="/images/site/mockup-map-offers-640.webp 640w, /images/site/mockup-map-offers.webp 1200w" sizes="(max-width: 900px) 100vw, 600px" alt="The GOTYOU app: a live map of local spots and today's offers from Chipotle Mexican Grill" class="hero-mockup" fetchpriority="high" width="1200" height="1094" />
         <div class="bubble bubble--earn float" aria-hidden="true">
           <span class="plus">+5<span class="gy"></span></span>
           <span><b>Pier 49 Pizza</b><small>Review · $0.05 value</small></span>
@@ -128,7 +128,7 @@ const steps = [
       </div>
       <div class="drop-art reveal">
         <img src="/images/site/daily-drop-neon.jpg" alt="11:23 Daily Drop neon sign" loading="lazy" class="neon" />
-        <Phone src="/images/app/drop.jpg" alt="GOTYOU Drop screen counting down to the 11:23 Daily Drop" width={250} tilt={3} class="drop-phone" />
+        <Phone src="/images/app/drop.webp" alt="GOTYOU Drop screen counting down to the 11:23 Daily Drop" width={250} tilt={3} class="drop-phone" />
       </div>
     </div>
     <Skyline fill="var(--surface)" />
