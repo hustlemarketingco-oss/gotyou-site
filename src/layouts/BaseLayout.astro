@@ -8,6 +8,10 @@ import '@fontsource/poppins/latin-600.css';
 import '@fontsource/poppins/latin-700.css';
 import '@fontsource/poppins/latin-800.css';
 import '../styles/icons.css';
+// Preload the two Poppins files above-the-fold text uses (800 headings, 400 body) so the
+// headline (the LCP element) doesn't wait on CSS discovery.
+import poppins800 from '@fontsource/poppins/files/poppins-latin-800-normal.woff2?url';
+import poppins400 from '@fontsource/poppins/files/poppins-latin-400-normal.woff2?url';
 import '../styles/global.css';
 import { IS_PREVIEW } from '../lib/deploy';
 
@@ -51,6 +55,8 @@ const ogImageUrl = new URL(ogImage, Astro.site ?? Astro.url).href;
     <meta property="og:url" content={Astro.url.href} />
     <meta name="twitter:card" content="summary_large_image" />
 
+    <link rel="preload" href={poppins800} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={poppins400} as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/tabler-subset.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="canonical" href={Astro.url.href} />
     <slot name="head" />
