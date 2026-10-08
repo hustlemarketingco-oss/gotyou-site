@@ -1,0 +1,1057 @@
+---
+// Design mockup of a business profile in two states:
+//   claimed=false → conversion-focused: claim CTAs, zeroed GOTYOU activity, benefits, how claiming works
+//   claimed=true  → showcase: live offers, GOTYOU activity, earn-here actions, member perks
+// Uses a real listing for realism; engagement numbers on the claimed version are sample data.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { DAYS, formatPhone, sizedPhoto, websiteHost } from '../lib/business';
+import { profileContent, type Biz } from '../lib/profile-content';
+
+interface Props {
+  b: Biz;
+  all: Biz[];
+  claimed: boolean;
+}
+const { b, all, claimed } = Astro.props;
+const c = profileContent(b, all);
+const phone = formatPhone(b.phone);
+const photo = sizedPhoto(b.photoUrl, 1600, 900);
+const claimUrl = `/businesses/${b.slug}/claim/`;
+const fullAddress = [b.address, b.city, [b.state, b.zip].filter(Boolean).join(' ')].filter(Boolean).join(', ');
+
+// GOTYOU activity. Unclaimed: everything zero (the point: "this could be you"). Claimed: sample data.
+const activity = claimed
+  ? [
+      { icon: 'ti-circle-check-filled', label: 'Check-ins', value: '1,284', sub: '+86 this week' },
+      { icon: 'ti-share', label: 'Shares', value: '362', sub: 'reached ~4,100 locals' },
+      { icon: 'ti-star-filled', label: 'GOTYOU rating', value: '4.8', sub: '418 verified ratings' },
+      { icon: 'ti-users', label: 'Regulars', value: '211', sub: 'visited 3+ times' },
+      { icon: 'ti-flame', label: 'Daily Drops', value: '24', sub: 'redeemed 1,032 times' },
+      { icon: 'ti-coins', label: 'Rewards paid', value: '$612', sub: 'to local customers' },
+    ]
+  : [
+      { icon: 'ti-circle-check-filled', label: 'Check-ins', value: '0', sub: 'Verified visits at your counter' },
+      { icon: 'ti-share', label: 'Shares', value: '0', sub: 'Customers sharing you with friends' },
+      { icon: 'ti-star-filled', label: 'GOTYOU ratings', value: '—', sub: 'Ratings from verified visitors' },
+      { icon: 'ti-users', label: 'Regulars', value: '0', sub: 'Customers who come back' },
+      { icon: 'ti-flame', label: 'Daily Drops', value: '0', sub: 'Your offer at 11:23 AM' },
+      { icon: 'ti-coins', label: 'Rewards paid', value: '$0', sub: 'Cash back that brings people in' },
+    ];
+
+const benefits = [
+  { icon: 'ti-user-plus', title: 'Guaranteed new customers', body: 'Your offer drops to opted-in locals nearby at 11:23 AM. Paid plans guarantee first-time visitors every month.' },
+  { icon: 'ti-nfc', title: 'Verified visits, not clicks', body: 'Every redemption is confirmed with a tap on your counter. You pay for real people in your store.' },
+  { icon: 'ti-chart-dots-3', title: 'Customers you own', body: 'See who comes in, how often, and what brings them back — your Behavior Graph, not a platform’s.' },
+  { icon: 'ti-star', title: 'Ratings from real visitors', body: 'Only people who actually checked in can rate you — and those ratings show on this page.' },
+  { icon: 'ti-share', title: 'Word of mouth that pays', body: 'Customers earn for sharing and referring friends, turning regulars into promoters.' },
+  { icon: 'ti-edit', title: 'Control your listing', body: 'Fix your hours, add photos and your own description, and post offers on this page.' },
+];
+
+const memberOffers = [
+  { tag: 'Today’s Drop · 11:23', title: '$5 off any specialty roll', note: 'Live for 3 hours · 41 claimed', hot: true },
+  { tag: 'Power Hour · 2–5 PM', title: 'Free miso soup with any roll', note: 'Weekdays during the afternoon break' },
+  { tag: 'First visit', title: '10% off your first order', note: 'New GOTYOU members only' },
+];
+const recent = [
+  ['Maya R.', 'checked in', '2h ago'],
+  ['Jordan K.', 'rated it 5★', '5h ago'],
+  ['Tyler M.', 'shared with 3 friends', 'Yesterday'],
+  ['Ana P.', 'reached Local Regular', 'Yesterday'],
+];
+const today = new Date().toLocaleDateString('en-US', { weekday: 'short' }).toLowerCase().slice(0, 3);
+---
+
+<BaseLayout title={`${claimed ? 'Claimed' : 'Unclaimed'} profile mockup — ${b.name}`} description="Design mockup" noindex>
+  <div class="mock-banner">
+    <i class="ti ti-sparkles"></i> <b>Mockup:</b> {claimed ? 'claimed profile, with sample GOTYOU activity data' : 'unclaimed profile designed to drive claims'} · real listing: {b.name}
+    · <a href={claimed ? '/mockups/unclaimed-profile/' : '/mockups/claimed-profile/'}>see the {claimed ? 'unclaimed' : 'claimed'} version</a>
+  </div>
+
+  {!claimed && (
+    <div class="claim-strip">
+      <div class="wrap">
+        <span><i class="ti ti-building-store"></i><b>Is this your business?</b> This listing is unclaimed — claim it free to manage it and start getting customers from GOTYOU.</span>
+        <a href={claimUrl} class="btn btn--lime">Claim this business</a>
+      </div>
+    </div>
+  )}
+
+  <section class="hero">
+    {photo && <img src={photo} alt="" class="hero-img" referrerpolicy="no-referrer" />}
+    <div class="shade"></div>
+    <div class="wrap hero-inner">
+      <div class="chips">
+        <span class="chip-g"><i class="ti ti-fish"></i>{b.googleCategory}</span>
+        {claimed ? <span class="badge-on"><i class="ti ti-circle-check-filled"></i>Verified on GOTYOU</span> : <span class="badge-off"><i class="ti ti-alert-circle"></i>Unclaimed listing</span>}
+      </div>
+      <h1>{b.name}</h1>
+      <div class="facts">
+        {claimed && <span><i class="ti ti-star-filled lime"></i><b>4.8</b> GOTYOU (418 verified)</span>}
+        <span><i class="ti ti-star-filled star"></i><b>{b.googleRating?.toFixed(1)}</b> Google ({b.googleReviewCount?.toLocaleString()})</span>
+        <span><i class="ti ti-map-pin"></i>{b.city}, {b.state}</span>
+        {claimed && <span class="earn-pill"><i class="ti ti-coins"></i>Earn up to 11 GY here</span>}
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap actions-wrap">
+    <div class="actions">
+      {phone && <a class="act act--primary" href={`tel:${b.phone}`}><i class="ti ti-phone"></i><span>Call<small>{phone}</small></span></a>}
+      <a class="act" href="#location"><i class="ti ti-directions"></i><span>Directions<small>{b.address}</small></span></a>
+      {b.website && <a class="act" href={b.website}><i class="ti ti-world"></i><span>Website<small>{websiteHost(b.website)}</small></span></a>}
+      {claimed ? <a class="act act--app" href="/download/"><i class="ti ti-device-mobile"></i><span>Open in GOTYOU<small>Check in & earn</small></span></a>
+              : <a class="act act--claim" href={claimUrl}><i class="ti ti-shield-check"></i><span>Own this business?<small>Claim it free</small></span></a>}
+    </div>
+  </div>
+
+  <div class="wrap layout">
+    <div class="main">
+      {claimed && (
+        <section class="block offers">
+          <div class="block-head"><h2>Offers on GOTYOU</h2><span class="live"><span class="dot"></span>Live now</span></div>
+          <div class="offer-list">
+            {memberOffers.map((o) => (
+              <div class:list={['offer', o.hot && 'offer--hot']}>
+                <span class="offer-tag">{o.tag}</span>
+                <b>{o.title}</b>
+                <small>{o.note}</small>
+                <a href="/download/" class="btn btn--primary btn-sm">Claim in app</a>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class:list={['block activity', !claimed && 'activity--zero']}>
+        <div class="block-head">
+          <h2>GOTYOU activity</h2>
+          {claimed ? <span class="muted">Last 90 days</span> : <span class="pill-off">Not active yet</span>}
+        </div>
+        <div class="stats">
+          {activity.map((s) => (
+            <div class="stat">
+              <i class:list={['ti', s.icon]}></i>
+              <b>{s.value}</b>
+              <span>{s.label}</span>
+              <small>{s.sub}</small>
+            </div>
+          ))}
+        </div>
+        {!claimed ? (
+          <div class="zero-cta">
+            <div>
+              <b>Locals are already searching for places like {b.name} in {b.city}.</b>
+              <p>Claim {b.name} to turn this page into a customer engine: verified check-ins, shares, ratings and a daily offer to nearby locals.</p>
+            </div>
+            <a href={claimUrl} class="btn btn--primary">Start getting customers</a>
+          </div>
+        ) : (
+          <div class="feed">
+            <h3>Recent activity</h3>
+            <ul>{recent.map(([who, what, when]) => <li><span class="av">{who[0]}</span><span><b>{who}</b> {what}</span><time>{when}</time></li>)}</ul>
+          </div>
+        )}
+      </section>
+
+      <section class="block love">
+        <div class="love-card">
+          <img src="/images/site/mascot-explorer.jpg" alt="" class="mascot" />
+          <span class="lvl">{claimed ? 'Level 1 · Explorer → Level 2 · Regular' : 'Earn status here'}</span>
+          <p class="love-title">{claimed ? 'Show some love' : 'Coming soon to this spot'}</p>
+          <div class="love-actions">
+            <div><span class="ic"><i class="ti ti-circle-check-filled"></i></span>Check in<b>{claimed ? '5' : '—'}<span class="gy"></span></b></div>
+            <div><span class="ic"><i class="ti ti-share"></i></span>Share<b>{claimed ? '5' : '—'}<span class="gy"></span></b></div>
+            <div><span class="ic"><i class="ti ti-star"></i></span>Rate<b>{claimed ? '1' : '—'}<span class="gy"></span></b></div>
+          </div>
+        </div>
+        <div class="love-copy">
+          {claimed ? (
+            <>
+              <h2>Earn rewards at {b.name}</h2>
+              <p>Check in at the counter, share it with friends, and rate your visit in the GOTYOU app — every action earns real cash value, and your status grows the more you come back.</p>
+              <ul class="perks">
+                <li><i class="ti ti-crown"></i><span><b>Regular</b> after 3 visits: free miso with any roll</span></li>
+                <li><i class="ti ti-trophy"></i><span><b>Local Legend</b> after 10 visits: priority on Daily Drops</span></li>
+              </ul>
+              <a href="/download/" class="btn btn--primary">Get the app</a>
+            </>
+          ) : (
+            <>
+              <h2>Give your customers a reason to come back</h2>
+              <p>Once {b.name} is on GOTYOU, customers earn real cash value for checking in, sharing and rating their visit — and build status at your business the more they return. You decide the perks.</p>
+              <a href={claimUrl} class="btn btn--primary">Claim and set up rewards</a>
+            </>
+          )}
+        </div>
+      </section>
+
+      <section class="block">
+        <h2>About {b.name}</h2>
+        <p class="summary">{c.summary}</p>
+        {claimed && <p class="owner-note"><i class="ti ti-quote"></i>From the owner: “Five brothers, one sushi bar, and a menu of rolls with names you won’t forget. Come for lunch, come back at midnight.”</p>}
+        {c.paras.map((p) => <p class="about">{p}</p>)}
+      </section>
+
+      {!claimed && (
+        <section class="block benefits">
+          <h2>What you get when you claim {b.name}</h2>
+          <div class="ben-grid">
+            {benefits.map((x) => (
+              <div class="ben"><span class="icon-circle"><i class:list={['ti', x.icon]}></i></span><b>{x.title}</b><p>{x.body}</p></div>
+            ))}
+          </div>
+          <div class="compare">
+            <table>
+              <thead><tr><th></th><th>Unclaimed</th><th class="hl">On GOTYOU</th></tr></thead>
+              <tbody>
+                <tr><td>Hours, map & contact</td><td><i class="ti ti-check"></i></td><td class="hl"><i class="ti ti-check"></i></td></tr>
+                <tr><td>Edit your details & photos</td><td><i class="ti ti-minus"></i></td><td class="hl"><i class="ti ti-check"></i></td></tr>
+                <tr><td>“Verified on GOTYOU” badge</td><td><i class="ti ti-minus"></i></td><td class="hl"><i class="ti ti-check"></i></td></tr>
+                <tr><td>Offers & 11:23 Daily Drop on this page</td><td><i class="ti ti-minus"></i></td><td class="hl"><i class="ti ti-check"></i></td></tr>
+                <tr><td>Verified check-ins, shares & ratings</td><td><i class="ti ti-minus"></i></td><td class="hl"><i class="ti ti-check"></i></td></tr>
+                <tr><td>Know who your customers are</td><td><i class="ti ti-minus"></i></td><td class="hl"><i class="ti ti-check"></i></td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      <section class="block">
+        <h2>Hours</h2>
+        <table class="hours">
+          <tbody>
+            {DAYS.map(([key, label]) => (
+              <tr class:list={[key === today && 'today']}><th>{label}</th><td>{b.hours?.[key] ?? '—'}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+
+      <section class="block" id="location">
+        <h2>Location</h2>
+        <iframe class="map" src={`https://maps.google.com/maps?q=${encodeURIComponent(`${b.name}, ${fullAddress}`)}&z=16&output=embed`} title="Map" loading="lazy"></iframe>
+        <address><i class="ti ti-map-pin"></i>{fullAddress}</address>
+      </section>
+
+      {!claimed && (
+        <section class="block steps">
+          <h2>Claiming takes about 2 minutes</h2>
+          <ol>
+            <li><span>1</span><div><b>Claim your free listing</b><p>Tell us you own or manage {b.name}.</p></div></li>
+            <li><span>2</span><div><b>We verify you</b><p>Usually within 24 hours.</p></div></li>
+            <li><span>3</span><div><b>Go live</b><p>Update your page, set rewards, and run your first Daily Drop as soon as tomorrow at 11:23.</p></div></li>
+          </ol>
+          <a href={claimUrl} class="btn btn--lime btn--lg">Claim {b.name}</a>
+        </section>
+      )}
+
+      <section class="block faq">
+        <h2>{claimed ? `Questions about ${b.name}` : 'Questions'}</h2>
+        {!claimed && [
+          ['Is claiming my business free?', 'Yes. Claiming your listing and managing your page is free. Paid GOTYOU plans add guaranteed new customers through the 11:23 Daily Drop.'],
+          ['What happens after I claim?', 'We verify you own or manage the business (usually within 24 hours), then you can edit your details, add photos, set customer rewards and run offers.'],
+        ].map(([q, a]) => <details open><summary>{q}<i class="ti ti-plus"></i></summary><p>{a}</p></details>)}
+        {c.faqs.slice(0, 4).map((f) => <details><summary>{f.q}<i class="ti ti-plus"></i></summary><p>{f.a}</p></details>)}
+      </section>
+    </div>
+
+    <aside class="side">
+      <div class="sticky">
+        {claimed ? (
+          <div class="card card--pad side-app">
+            <img src="/images/site/mascot-explorer.jpg" alt="" />
+            <h3>Earn here with GOTYOU</h3>
+            <ul>
+              <li><span>Check in</span><b>+5 GY</b></li>
+              <li><span>Share</span><b>+5 GY</b></li>
+              <li><span>Rate your visit</span><b>+1 GY</b></li>
+            </ul>
+            <a href="/download/" class="btn btn--primary btn--block">Get the free app</a>
+          </div>
+        ) : (
+          <div class="card card--pad side-claim">
+            <span class="badge-off"><i class="ti ti-alert-circle"></i>Unclaimed</span>
+            <h3>Own {b.name}?</h3>
+            <p>Claim this free listing to fix your info, see who’s checking in, and get guaranteed new customers.</p>
+            <ul>
+              <li><i class="ti ti-check"></i>Free to claim · ~2 minutes</li>
+              <li><i class="ti ti-check"></i>Verified within 24 hours</li>
+              <li><i class="ti ti-check"></i>First Daily Drop as soon as tomorrow</li>
+            </ul>
+            <a href={claimUrl} class="btn btn--lime btn--block">Claim this business</a>
+            <a href="/pricing/" class="link-arrow">See plans & pricing <i class="ti ti-arrow-right"></i></a>
+          </div>
+        )}
+        <div class="card card--pad side-proof">
+          <b>GOTYOU in numbers</b>
+          <div><span>30+</span>live zones</div>
+          <div><span>2,000+</span>local businesses</div>
+          <div><span>11:23</span>one drop, every day</div>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <div class="mobile-bar">
+    {claimed ? <><a href={`tel:${b.phone}`} class="mb"><i class="ti ti-phone"></i>Call</a><a href="/download/" class="mb mb--primary"><i class="ti ti-coins"></i>Earn here</a></>
+             : <><a href={`tel:${b.phone}`} class="mb"><i class="ti ti-phone"></i>Call</a><a href={claimUrl} class="mb mb--primary"><i class="ti ti-shield-check"></i>Claim business</a></>}
+  </div>
+</BaseLayout>
+
+<style>
+  .mock-banner {
+    background: var(--ink);
+    color: #fff;
+    text-align: center;
+    font-size: 13.5px;
+    padding: 8px 16px;
+  }
+  .mock-banner a {
+    color: var(--lime);
+    text-decoration: underline;
+  }
+  .wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+  .claim-strip {
+    background: var(--lime);
+    color: var(--ink);
+  }
+  .claim-strip .wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 15px;
+  }
+  .claim-strip i {
+    margin-right: 6px;
+  }
+  .claim-strip .btn {
+    background: var(--ink);
+    color: #fff;
+    padding: 10px 20px;
+    flex: none;
+  }
+  .hero {
+    position: relative;
+    min-height: 420px;
+    display: flex;
+    align-items: flex-end;
+    color: #fff;
+    background: var(--grad-sky);
+    overflow: hidden;
+  }
+  .hero-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .shade {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(11, 16, 41, 0.2), rgba(11, 16, 41, 0.92));
+  }
+  .hero-inner {
+    position: relative;
+    width: 100%;
+    padding-top: 110px;
+    padding-bottom: 48px;
+  }
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .chip-g,
+  .badge-on,
+  .badge-off {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .chip-g {
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+  }
+  .badge-on {
+    background: var(--lime);
+    color: var(--ink);
+  }
+  .badge-off {
+    background: rgba(255, 107, 43, 0.18);
+    border: 1px solid rgba(255, 140, 90, 0.6);
+    color: #ffd0b8;
+  }
+  .side-claim .badge-off {
+    color: #c2410c;
+    background: #fff1ea;
+  }
+  .hero h1 {
+    color: #fff;
+    font-size: clamp(36px, 5.5vw, 60px);
+    margin: 14px 0;
+    text-shadow: 0 2px 18px rgba(0, 0, 0, 0.45);
+  }
+  .facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 22px;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.88);
+  }
+  .facts span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .facts b {
+    color: #fff;
+  }
+  .star {
+    color: var(--star);
+  }
+  .lime {
+    color: var(--lime);
+  }
+  .earn-pill {
+    background: rgba(228, 255, 26, 0.18);
+    border: 1px solid rgba(228, 255, 26, 0.5);
+    padding: 4px 12px;
+    border-radius: 100px;
+    color: var(--lime) !important;
+    font-weight: 600;
+  }
+  .actions-wrap {
+    position: relative;
+  }
+  .actions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    overflow: hidden;
+    transform: translateY(-28px);
+    box-shadow: var(--shadow);
+  }
+  .act {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 20px;
+    background: #fff;
+    font-weight: 600;
+  }
+  .act i {
+    font-size: 22px;
+    color: var(--blue);
+  }
+  .act span {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .act small {
+    font-weight: 400;
+    font-size: 13px;
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .act--primary {
+    background: var(--lime);
+  }
+  .act--primary i {
+    color: var(--ink);
+  }
+  .act--claim,
+  .act--app {
+    background: var(--ink);
+    color: #fff;
+  }
+  .act--claim i,
+  .act--app i {
+    color: var(--lime);
+  }
+  .act--claim small,
+  .act--app small {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 340px;
+    gap: 28px;
+    align-items: start;
+    padding-bottom: 72px;
+  }
+  .block {
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 26px 28px;
+    margin-bottom: 20px;
+  }
+  .block h2 {
+    font-size: 21px;
+    margin-bottom: 14px;
+  }
+  .block-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .block-head h2 {
+    margin: 0;
+  }
+  .live {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--green);
+  }
+  .live .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--green);
+    box-shadow: 0 0 0 4px rgba(24, 178, 107, 0.18);
+  }
+  .muted {
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .pill-off {
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 100px;
+    background: #fff1ea;
+    color: #c2410c;
+  }
+  .offer-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .offer {
+    border: 1px dashed #9cc0ee;
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    background: var(--blue-50);
+  }
+  .offer--hot {
+    background: var(--grad-sky);
+    border: none;
+    color: #fff;
+  }
+  .offer-tag {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--blue);
+  }
+  .offer--hot .offer-tag {
+    color: var(--lime);
+  }
+  .offer b {
+    font-size: 17px;
+    line-height: 1.3;
+  }
+  .offer small {
+    color: var(--muted);
+    flex: 1;
+  }
+  .offer--hot small {
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .btn-sm {
+    padding: 9px 14px;
+    font-size: 14px;
+    box-shadow: none;
+    align-self: flex-start;
+  }
+  .offer--hot .btn-sm {
+    background: var(--lime);
+    color: var(--ink);
+  }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .stat {
+    background: var(--bg);
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+  }
+  .stat i {
+    color: var(--blue);
+    font-size: 22px;
+    margin-bottom: 6px;
+  }
+  .stat b {
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .stat span {
+    font-weight: 600;
+  }
+  .stat small {
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .activity--zero .stat {
+    background: repeating-linear-gradient(135deg, #f4f8fd, #f4f8fd 10px, #eef3fa 10px, #eef3fa 20px);
+  }
+  .activity--zero .stat b {
+    color: #b3bccf;
+  }
+  .zero-cta {
+    margin-top: 16px;
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--ink);
+    color: #fff;
+    border-radius: 16px;
+    padding: 18px 20px;
+  }
+  .zero-cta p {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 14.5px;
+    margin-top: 4px;
+  }
+  .zero-cta .btn {
+    flex: none;
+  }
+  .feed {
+    margin-top: 18px;
+  }
+  .feed h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  .feed ul {
+    list-style: none;
+  }
+  .feed li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 0;
+    border-top: 1px solid var(--line);
+  }
+  .feed li > span:nth-child(2) {
+    flex: 1;
+  }
+  .feed time {
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .av {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background: var(--blue-50);
+    color: var(--blue);
+    font-weight: 700;
+  }
+  .love {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 28px;
+    align-items: center;
+  }
+  .love-card {
+    background: linear-gradient(180deg, #e3effc, #bcd5f2);
+    border-radius: 24px;
+    padding: 24px 16px;
+    text-align: center;
+  }
+  .mascot {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 10px;
+  }
+  .lvl {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #4a5168;
+  }
+  .love-title {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--blue);
+    margin: 6px 0 14px;
+  }
+  .love-actions {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    font-size: 13px;
+    color: #4a5168;
+  }
+  .love-actions div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+  .love-actions .ic {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: #fff;
+    display: grid;
+    place-items: center;
+    font-size: 22px;
+    color: var(--blue);
+  }
+  .love-actions b {
+    color: var(--blue);
+    font-size: 19px;
+    font-weight: 800;
+  }
+  .love-copy p {
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+  .perks {
+    list-style: none;
+    display: grid;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  .perks li {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .perks i {
+    color: var(--coin);
+    font-size: 22px;
+  }
+  .summary {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--ink);
+    margin-bottom: 12px;
+  }
+  .owner-note {
+    background: var(--blue-50);
+    border-left: 4px solid var(--blue);
+    border-radius: 0 14px 14px 0;
+    padding: 14px 18px;
+    margin-bottom: 12px;
+    font-style: italic;
+  }
+  .owner-note i {
+    color: var(--blue);
+    margin-right: 6px;
+  }
+  .about {
+    color: #2b3247;
+    margin-top: 10px;
+  }
+  .ben-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .ben b {
+    display: block;
+    margin: 12px 0 4px;
+  }
+  .ben p {
+    color: var(--muted);
+    font-size: 14.5px;
+  }
+  .ben .icon-circle {
+    width: 50px;
+    height: 50px;
+    font-size: 22px;
+  }
+  .compare {
+    margin-top: 22px;
+    overflow-x: auto;
+  }
+  .compare table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+  }
+  .compare th,
+  .compare td {
+    padding: 11px 12px;
+    text-align: center;
+    border-bottom: 1px solid var(--line);
+  }
+  .compare td:first-child {
+    text-align: left;
+  }
+  .compare .hl {
+    background: var(--blue-50);
+    color: var(--blue);
+    font-weight: 700;
+  }
+  .compare .ti-check {
+    color: var(--green);
+  }
+  .compare .ti-minus {
+    color: #c4cad8;
+  }
+  .hours {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .hours th,
+  .hours td {
+    text-align: left;
+    padding: 9px 10px;
+    border-bottom: 1px solid var(--line);
+  }
+  .hours th {
+    font-weight: 500;
+    color: var(--muted);
+  }
+  .hours .today {
+    background: var(--blue-50);
+    font-weight: 700;
+  }
+  .map {
+    width: 100%;
+    aspect-ratio: 16 / 8;
+    border: 0;
+    border-radius: 14px;
+  }
+  address {
+    font-style: normal;
+    margin-top: 10px;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+  }
+  .steps ol {
+    list-style: none;
+    display: grid;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+  .steps li {
+    display: flex;
+    gap: 14px;
+  }
+  .steps li > span {
+    flex: none;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background: var(--lime);
+    font-weight: 800;
+  }
+  .steps p {
+    color: var(--muted);
+  }
+  .faq details {
+    border-top: 1px solid var(--line);
+  }
+  .faq summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    padding: 14px 0;
+  }
+  .faq summary::-webkit-details-marker {
+    display: none;
+  }
+  .faq summary i {
+    color: var(--blue);
+  }
+  .faq details p {
+    color: var(--muted);
+    padding-bottom: 14px;
+  }
+  .sticky {
+    position: sticky;
+    top: 96px;
+    display: grid;
+    gap: 16px;
+  }
+  .side-claim {
+    border: 2px solid var(--lime);
+    box-shadow: 0 18px 40px rgba(20, 24, 51, 0.12);
+  }
+  .side-claim h3,
+  .side-app h3 {
+    font-size: 22px;
+    margin: 12px 0 8px;
+  }
+  .side-claim p {
+    color: var(--muted);
+    margin-bottom: 14px;
+  }
+  .side-claim ul,
+  .side-app ul {
+    list-style: none;
+    display: grid;
+    gap: 8px;
+    margin-bottom: 18px;
+  }
+  .side-claim li {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .side-claim li i {
+    color: var(--green);
+  }
+  .side-claim .link-arrow {
+    margin-top: 12px;
+    justify-content: center;
+    width: 100%;
+  }
+  .side-app {
+    text-align: center;
+    background: linear-gradient(180deg, #e3effc, #fff);
+  }
+  .side-app img {
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  .side-app li {
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 10px 14px;
+  }
+  .side-app li b {
+    color: var(--blue);
+  }
+  .side-proof {
+    display: grid;
+    gap: 8px;
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .side-proof b {
+    color: var(--ink);
+  }
+  .side-proof span {
+    font-weight: 800;
+    color: var(--blue);
+    font-size: 18px;
+    margin-right: 6px;
+  }
+  .mobile-bar {
+    display: none;
+  }
+  @media (max-width: 900px) {
+    .layout {
+      grid-template-columns: 1fr;
+    }
+    .sticky {
+      position: static;
+    }
+    .love {
+      grid-template-columns: 1fr;
+    }
+    .offer-list,
+    .ben-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media (max-width: 600px) {
+    .wrap {
+      padding: 0 16px;
+    }
+    .claim-strip .wrap {
+      flex-direction: column;
+      align-items: stretch;
+      text-align: center;
+    }
+    .actions {
+      grid-template-columns: 1fr 1fr;
+    }
+    .act small {
+      display: none;
+    }
+    .stats {
+      grid-template-columns: 1fr 1fr;
+    }
+    .block {
+      padding: 20px 18px;
+    }
+    .zero-cta {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .mobile-bar {
+      display: flex;
+      gap: 10px;
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 50;
+      padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+      background: rgba(11, 16, 41, 0.95);
+    }
+    .mb {
+      flex: 1;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      padding: 13px;
+      border-radius: 100px;
+      font-weight: 700;
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+    .mb--primary {
+      background: var(--lime);
+      border-color: var(--lime);
+      color: var(--ink);
+    }
+  }
+</style>

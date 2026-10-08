@@ -48,7 +48,7 @@ export default defineConfig({
   integrations: [
     sitemap({
       // Claim forms are utility pages, not content.
-      filter: (page) => !/\/claim\/?$/.test(page),
+      filter: (page) => !/\/claim\/?$/.test(page) && !page.includes('/mockups/'),
     }),
   ],
   // Inline page CSS into the HTML: removes render-blocking stylesheet requests (pages' CSS is small).
