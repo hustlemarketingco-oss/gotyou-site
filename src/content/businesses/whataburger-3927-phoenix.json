@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-3927-phoenix",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "3927 E Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.479988999999996,
+  "lng": -111.99712400000001,
+  "phone": "+14803479134",
+  "website": "https://locations.whataburger.com/az/phoenix/3927-e-thomas-rd.html/",
+  "placeId": "ChIJE5WysSTFzYARhREmQyX4jw4",
+  "googleRating": 3.6,
+  "googleReviewCount": 201,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d69c711d849e1cdd848",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

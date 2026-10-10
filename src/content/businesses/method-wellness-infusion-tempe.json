@@ -1,0 +1,41 @@
+{
+  "slug": "method-wellness-infusion-tempe",
+  "name": "Method Wellness & Infusion",
+  "category": "Health & Beauty",
+  "googleCategory": "Skin care clinic",
+  "secondaryCategories": [
+    "Hair care",
+    "Beauty salon",
+    "Body art service",
+    "Medical clinic",
+    "Doctor",
+    "Spa"
+  ],
+  "address": "401 S Mill Ave #201",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4263453,
+  "lng": -111.93982609999999,
+  "phone": "+14808780720",
+  "website": "https://methodwellnessandinfusion.com/",
+  "placeId": "ChIJH29KqJIJK4cRrZXdECnKss8",
+  "googleRating": 4.9,
+  "googleReviewCount": 60,
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ec2ac2b9a002315a3f12e",
+  "seededAt": "2026-06-26T18:19:24Z",
+  "updatedAt": "2026-07-07T18:02:00Z",
+  "source": "groundgame"
+}

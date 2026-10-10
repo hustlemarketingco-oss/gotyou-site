@@ -1,0 +1,36 @@
+{
+  "slug": "burrito-express-7165-gilbert",
+  "name": "Burrito Express",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7165 S Val Vista Dr",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85298",
+  "lat": 33.2199668,
+  "lng": -111.7548702,
+  "website": "https://www.theburritoexpress.com/",
+  "placeId": "ChIJ91vSO3ZTKocRqI5h8xrd4gg",
+  "googleRating": 3.2,
+  "googleReviewCount": 26,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 3:00 PM",
+    "tue": "6:00 AM - 3:00 PM",
+    "wed": "6:00 AM - 3:00 PM",
+    "thu": "6:00 AM - 3:00 PM",
+    "fri": "6:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a30b2e4823726b22d092",
+  "seededAt": "2026-06-22T21:03:07Z",
+  "updatedAt": "2026-06-22T21:03:08Z",
+  "source": "groundgame"
+}

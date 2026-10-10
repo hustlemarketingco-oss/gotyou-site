@@ -1,0 +1,37 @@
+{
+  "slug": "ganache-d-llc-cedar-city",
+  "name": "Ganache-d, LLC",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "33 N Main St",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.678056399999996,
+  "lng": -113.0622334,
+  "phone": "+14352757230",
+  "website": "http://www.ganache-d.com/",
+  "placeId": "ChIJpTBLsvdhtYARnoUeVPcDz8A",
+  "googleRating": 4.7,
+  "googleReviewCount": 132,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "3:00 PM - 9:00 PM",
+    "tue": "3:00 PM - 9:00 PM",
+    "wed": "3:00 PM - 9:00 PM",
+    "thu": "3:00 PM - 9:00 PM",
+    "fri": "1:00 PM - 10:00 PM",
+    "sat": "1:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f12617665257064ce4",
+  "seededAt": "2025-12-17T18:39:45Z",
+  "updatedAt": "2025-12-17T18:39:45Z",
+  "source": "groundgame"
+}

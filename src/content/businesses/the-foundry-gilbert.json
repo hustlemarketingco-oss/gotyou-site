@@ -1,0 +1,40 @@
+{
+  "slug": "the-foundry-gilbert",
+  "name": "The Foundry Gilbert",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym",
+    "Sports school",
+    "Sports complex",
+    "Sports activity location"
+  ],
+  "address": "1815 E Williams Field Rd Ste #101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3050194,
+  "lng": -111.7511586,
+  "phone": "+14802197432",
+  "website": "https://www.thefoundryyoga.com/gilbert",
+  "placeId": "ChIJGyLCB_WtK4cR9DIQLiK9R3c",
+  "googleRating": 4.7,
+  "googleReviewCount": 21,
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "8:00 AM - 1:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397e6116638ab851d048e5",
+  "seededAt": "2026-06-22T18:26:41Z",
+  "updatedAt": "2026-06-22T18:26:42Z",
+  "source": "groundgame"
+}

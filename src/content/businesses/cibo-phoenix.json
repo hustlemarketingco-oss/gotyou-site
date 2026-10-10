@@ -1,0 +1,37 @@
+{
+  "slug": "cibo-phoenix",
+  "name": "CIBO",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "603 N 5th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.4549917,
+  "lng": -112.07991980000001,
+  "phone": "+16024412697",
+  "website": "http://www.cibophoenix.com/",
+  "placeId": "ChIJwWmiGTsSK4cREnWeKx719ho",
+  "googleRating": 4.6,
+  "googleReviewCount": 3275,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "5:00 PM - 10:00 PM",
+    "sun": "5:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb1a63a221110110845f",
+  "seededAt": "2026-06-07T01:36:26Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

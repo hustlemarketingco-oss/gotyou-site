@@ -1,0 +1,38 @@
+{
+  "slug": "helluva-brewing-company-chandler",
+  "name": "HELLUVA Brewing Company",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3950 W Ray Rd #5",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "phone": "+14806646488",
+  "priceRange": "$$",
+  "description": "Large, airy-industrial brewery offering an array of artisan beers plus BBQ eats & sports on TV.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/chandlerbrewery"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24530150d3bda2e5e93c78",
+  "seededAt": "2026-06-06T17:04:01Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

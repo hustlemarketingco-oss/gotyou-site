@@ -1,0 +1,39 @@
+{
+  "slug": "nora-asian-fresh-phoenix",
+  "name": "Nora Asian Fresh",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Fusion restaurant"
+  ],
+  "address": "400 W Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.4950161,
+  "lng": -112.07941339999999,
+  "phone": "+16023742812",
+  "website": "http://www.noraasianfresh.com/",
+  "placeId": "ChIJRzmVe00TK4cR2C65n0AsEMM",
+  "googleRating": 3.9,
+  "googleReviewCount": 223,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb687bd3cfe442843233",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

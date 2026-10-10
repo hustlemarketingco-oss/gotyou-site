@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-tolleson",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "405 N 99th Ave",
+  "city": "Tolleson",
+  "state": "AZ",
+  "zip": "85353",
+  "lat": 33.4516282,
+  "lng": -112.27187339999999,
+  "phone": "+16234404775",
+  "website": "https://www.freddys.com/location/freddys-frozen-custard-steakburgers-4",
+  "placeId": "ChIJFwWung0_K4cRV5-yOnm9QyA",
+  "googleRating": 4.1,
+  "googleReviewCount": 220,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b65a097e6c1c911ee5747",
+  "seededAt": "2026-06-12T01:49:20Z",
+  "updatedAt": "2026-06-12T01:49:20Z",
+  "source": "groundgame"
+}

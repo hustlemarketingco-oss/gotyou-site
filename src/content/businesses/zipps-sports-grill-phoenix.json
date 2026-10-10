@@ -1,0 +1,42 @@
+{
+  "slug": "zipps-sports-grill-phoenix",
+  "name": "Zipps Sports Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Family restaurant",
+    "Chicken wings restaurant",
+    "Sports bar",
+    "Chicken restaurant",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "3647 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.494558999999995,
+  "lng": -112.0024746,
+  "phone": "+16029572112",
+  "website": "https://www.zippssportsgrills.com/locations/arcadia/",
+  "placeId": "ChIJ32qhd6sNK4cR0wBfX1USVQM",
+  "googleRating": 4.1,
+  "googleReviewCount": 1298,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31903ff1c23929b4dd68fe",
+  "seededAt": "2026-06-16T18:04:47Z",
+  "updatedAt": "2026-06-16T18:04:48Z",
+  "source": "groundgame"
+}

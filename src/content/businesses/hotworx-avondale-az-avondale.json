@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-avondale-az-avondale",
+  "name": "HOTWORX - Avondale, AZ",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Sauna",
+    "Public bath",
+    "Fitness center",
+    "Gym",
+    "Spa",
+    "Sports activity location"
+  ],
+  "address": "1729 N Dysart Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.467184599999996,
+  "lng": -112.3392794,
+  "phone": "+16232898885",
+  "website": "https://www.hotworx.net/studio/avondale",
+  "placeId": "ChIJf_r5Zxo5K4cR1svHeMBRUJI",
+  "googleRating": 4.6,
+  "googleReviewCount": 73,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc2d9d981f33eb46002e",
+  "seededAt": "2026-10-07T21:39:57Z",
+  "updatedAt": "2026-10-07T21:39:58Z",
+  "source": "groundgame"
+}

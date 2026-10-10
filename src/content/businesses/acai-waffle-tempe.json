@@ -1,0 +1,40 @@
+{
+  "slug": "acai-waffle-tempe",
+  "name": "Acai Waffle Tempe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Health food restaurant",
+    "Ice cream shop"
+  ],
+  "address": "425 S Mill Ave #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4257557,
+  "lng": -111.9397158,
+  "phone": "+14802199465",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17416085746736696600",
+  "googleCid": "17416085746736696600",
+  "placeId": "ChIJVzvybPMJK4cRGA38V7ZdsvE",
+  "googleRating": 4.2,
+  "googleReviewCount": 24,
+  "description": "Located in Tempe, Acai Waffle Tempe is a juice shop & health food restaurant with takeout & delivery.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Checks",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2435f7b8b5bd1c1c0cd5d6",
+  "seededAt": "2026-06-06T15:00:07Z",
+  "updatedAt": "2026-06-06T15:04:46Z",
+  "source": "groundgame"
+}

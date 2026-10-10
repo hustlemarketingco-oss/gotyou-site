@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-surprise",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "13714 W Bell Rd #2",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85374",
+  "lat": 33.638993299999996,
+  "lng": -112.3532436,
+  "phone": "+16239754275",
+  "website": "https://restaurants.fiveguys.com/13714-west-bell-road",
+  "placeId": "ChIJpRos3rZEK4cRKFcxcqZSgas",
+  "googleRating": 4.1,
+  "googleReviewCount": 957,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c2ba129e9d3e4a00b25",
+  "seededAt": "2026-06-16T17:47:23Z",
+  "updatedAt": "2026-06-16T17:47:24Z",
+  "source": "groundgame"
+}

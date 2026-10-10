@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-vistancia-blvd-peoria",
+  "name": "Firehouse Subs Vistancia Blvd",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "28325 N El Mirage Rd",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.739319,
+  "lng": -112.32398699999999,
+  "phone": "+14803972253",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJ14dMuDFfK4cRZ8yF7DFPAgk",
+  "googleRating": 4.3,
+  "googleReviewCount": 17,
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afaea9fd1bea05690f5",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-06-12T14:43:06Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "pepper-lunch-tempe",
+  "name": "Pepper Lunch",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "Parking off 10th Street & Mill Ave, 947 S Mill Ave Ste 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4197847,
+  "lng": -111.93972199999999,
+  "phone": "+14802469891",
+  "website": "https://www.pepperlunchrestaurants.com/pepper-lunch-in-az",
+  "placeId": "ChIJ-9kio3sJK4cRv3YZ6qMWp3k",
+  "googleRating": 4.8,
+  "googleReviewCount": 213,
+  "amenities": [
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39f62fb3be0de9b07c0ff9",
+  "seededAt": "2026-06-23T02:57:51Z",
+  "updatedAt": "2026-08-04T18:59:20Z",
+  "source": "groundgame"
+}

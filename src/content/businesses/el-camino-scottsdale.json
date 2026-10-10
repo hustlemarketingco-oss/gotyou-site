@@ -1,0 +1,39 @@
+{
+  "slug": "el-camino-scottsdale",
+  "name": "El Camino",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "7133 E Stetson Dr Ste 105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4992151,
+  "lng": -111.9274164,
+  "phone": "+14805737950",
+  "website": "https://www.elcaminoarizona.com/",
+  "placeId": "ChIJ1_6vGlALK4cRO9rGBGmSjao",
+  "googleRating": 4.7,
+  "googleReviewCount": 98,
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 12:00 AM",
+    "tue": "12:00 PM - 12:00 AM",
+    "wed": "12:00 PM - 12:00 AM",
+    "thu": "12:00 PM - 12:00 AM",
+    "fri": "12:00 PM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a42bc40827510577668a2fc",
+  "seededAt": "2026-06-29T18:41:04Z",
+  "updatedAt": "2026-07-09T19:08:56Z",
+  "source": "groundgame"
+}

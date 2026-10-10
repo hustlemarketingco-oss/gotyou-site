@@ -1,0 +1,52 @@
+{
+  "slug": "first-watch-gilbert",
+  "name": "First Watch",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Lunch restaurant"
+  ],
+  "address": "2475 S Val Vista Dr Ste.105 Ste. 105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "phone": "+14802640677",
+  "priceRange": "$10–20",
+  "description": "Cafe chain for health-minded breakfast, brunch & lunch options such as omelets, salads & soups.",
+  "amenities": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "Coffee",
+    "Healthy options",
+    "Organic dishes",
+    "Quick bite",
+    "Vegan options",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/FirstWatch"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26488b42abaa2b42c5c63f",
+  "seededAt": "2026-06-08T04:43:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

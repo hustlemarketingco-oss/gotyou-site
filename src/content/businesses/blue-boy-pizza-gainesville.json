@@ -1,0 +1,39 @@
+{
+  "slug": "blue-boy-pizza-gainesville",
+  "name": "Blue Boy Pizza",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Pizza restaurant"
+  ],
+  "address": "1540 W University Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.6522647,
+  "lng": -82.3429012,
+  "phone": "+17866449273",
+  "placeId": "ChIJNfINot6j6IgR7xWByQsTw2Y",
+  "googleRating": 4.7,
+  "googleReviewCount": 73,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "2:00 PM - 10:30 PM",
+    "wed": "2:00 PM - 2:00 AM",
+    "thu": "2:00 PM - 10:00 PM",
+    "fri": "2:00 PM - 3:00 AM",
+    "sat": "2:00 PM - 3:00 AM",
+    "sun": "2:00 PM - 10:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696034303e939b5de4883d8a",
+  "seededAt": "2026-01-08T22:48:16Z",
+  "updatedAt": "2026-01-08T22:48:16Z",
+  "source": "groundgame"
+}

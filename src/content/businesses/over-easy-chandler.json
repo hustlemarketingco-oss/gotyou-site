@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-chandler",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "7131 W Ray Rd Ste #7",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3180506,
+  "lng": -111.9673255,
+  "phone": "+14803066681",
+  "website": "https://eatatovereasy.com/locations/chandler-ray-rd/",
+  "placeId": "ChIJhbpOkGUFK4cRmOtqUtsdD8s",
+  "googleRating": 4.5,
+  "googleReviewCount": 366,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3039f8b0e974263156b310",
+  "seededAt": "2026-06-15T17:44:24Z",
+  "updatedAt": "2026-06-15T17:44:24Z",
+  "source": "groundgame"
+}

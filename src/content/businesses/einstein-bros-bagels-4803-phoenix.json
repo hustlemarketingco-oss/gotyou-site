@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-4803-phoenix",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "4803 E Ray Rd #102",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.31889880000001,
+  "lng": -111.9799975,
+  "phone": "+14807055001",
+  "website": "https://locations.einsteinbros.com/us/az/phoenix/4803-e-ray-rd?y_source=1_OTA0OTk1MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJF3A370YEK4cRl_vrxfEoeOI",
+  "googleRating": 4.1,
+  "googleReviewCount": 518,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 PM",
+    "tue": "5:00 AM - 2:00 PM",
+    "wed": "5:00 AM - 2:00 PM",
+    "thu": "5:00 AM - 2:00 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994cd2610d40b4c9220c7",
+  "seededAt": "2026-06-10T16:46:05Z",
+  "updatedAt": "2026-06-12T22:06:08Z",
+  "source": "groundgame"
+}

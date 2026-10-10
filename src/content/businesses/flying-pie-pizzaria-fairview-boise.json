@@ -1,0 +1,37 @@
+{
+  "slug": "flying-pie-pizzaria-fairview-boise",
+  "name": "Flying Pie Pizzaria-Fairview",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "6508 Fairview Ave",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83704",
+  "lat": 43.619456899999996,
+  "lng": -116.2626283,
+  "phone": "+12083450000",
+  "website": "https://www.flyingpie.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "placeId": "ChIJr_hAOQNWrlQRCIwcjFirHdA",
+  "googleRating": 4.6,
+  "googleReviewCount": 2037,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b54f7953c79206e8ace",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

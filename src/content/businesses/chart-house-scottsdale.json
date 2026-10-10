@@ -1,0 +1,45 @@
+{
+  "slug": "chart-house-scottsdale",
+  "name": "Chart House",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Banquet hall",
+    "Fine dining restaurant",
+    "Restaurant",
+    "Steak house"
+  ],
+  "address": "7255 E McCormick Pkwy",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "phone": "+14809512550",
+  "priceRange": "$50–100",
+  "description": "High-end chain eatery serving seafood & steakhouse fare in a classy setting with views.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/ChartHouseRestaurants"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e719e7c69686bf5f5bc",
+  "seededAt": "2026-06-06T15:36:17Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

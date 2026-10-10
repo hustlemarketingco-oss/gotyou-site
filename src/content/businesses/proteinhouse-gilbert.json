@@ -1,0 +1,42 @@
+{
+  "slug": "proteinhouse-gilbert",
+  "name": "ProteinHouse Gilbert",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Juice shop",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Coffee shop",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3097 E Pecos Rd #106",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.2912416,
+  "lng": -111.72306909999999,
+  "phone": "+14809353854",
+  "website": "https://www.protein-house.com/location/proteinhouse-gilbert-az/",
+  "placeId": "ChIJfV9xoPmsK4cRQETDlxO6HCo",
+  "googleRating": 4,
+  "googleReviewCount": 616,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e31e513cdd313b2fdeea",
+  "seededAt": "2026-06-17T18:10:38Z",
+  "updatedAt": "2026-06-17T18:10:39Z",
+  "source": "groundgame"
+}

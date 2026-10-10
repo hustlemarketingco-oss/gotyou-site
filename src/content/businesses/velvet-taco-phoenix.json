@@ -1,0 +1,36 @@
+{
+  "slug": "velvet-taco-phoenix",
+  "name": "Velvet Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Mexican restaurant"
+  ],
+  "address": "12646 N Tatum Blvd Suite 105",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6021575,
+  "lng": -111.98116519999999,
+  "phone": "+14802227792",
+  "website": "https://www.velvettaco.com/location/paradise-valley/",
+  "placeId": "ChIJQSB4-WZzK4cRnnaXEKgBzJc",
+  "googleRating": 4.1,
+  "googleReviewCount": 29,
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "10:30 AM - 12:00 AM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a396e86d1aca58d353ef590",
+  "seededAt": "2026-06-22T17:19:02Z",
+  "updatedAt": "2026-06-22T17:19:03Z",
+  "source": "groundgame"
+}

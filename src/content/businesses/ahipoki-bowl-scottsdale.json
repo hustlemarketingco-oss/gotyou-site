@@ -1,0 +1,39 @@
+{
+  "slug": "ahipoki-bowl-scottsdale",
+  "name": "Ahipoki Bowl Scottsdale",
+  "category": "Asian & Pacific",
+  "googleCategory": "Hawaiian restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "American restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "2805 N Scottsdale Rd #103",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4792146,
+  "lng": -111.92579049999999,
+  "phone": "+14802199310",
+  "website": "https://www.ahipokibowl.com/",
+  "placeId": "ChIJfUgqqt0LK4cRwxCpVhzFkEQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 571,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2991d913f6e6f50c48961e",
+  "seededAt": "2026-06-10T16:33:29Z",
+  "updatedAt": "2026-07-24T20:37:57Z",
+  "source": "groundgame"
+}

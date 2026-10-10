@@ -1,0 +1,39 @@
+{
+  "slug": "macayos-mexican-food-6538-mesa",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Latin american restaurant",
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "6538 E Superstition Springs Blvd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.3857146,
+  "lng": -111.6914815,
+  "phone": "+14808071846",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJRWStg02vK4cR8V9kUj9Vj_4",
+  "googleRating": 4.2,
+  "googleReviewCount": 1623,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4714278bb5397147dae5fb",
+  "seededAt": "2026-07-03T01:45:11Z",
+  "updatedAt": "2026-07-03T01:45:11Z",
+  "source": "groundgame"
+}

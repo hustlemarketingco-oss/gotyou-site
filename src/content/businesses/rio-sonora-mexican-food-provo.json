@@ -39,11 +39,12 @@
     "sun": "11:00 AM - 4:00 PM"
   },
   "timezone": "America/Denver",
-  "claimStatus": "unclaimed",
+  "claimStatus": "claimed",
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "description": "Rio Sonora is a Mexican restaurant on East 300 South in Provo, open Tuesday through Sunday with a 4.7-star average.",
-  "enrichedAt": "2026-10-04T18:45:49Z"
+  "enrichedAt": "2026-10-04T18:45:49Z",
+  "groundgameId": "6940fa243635d46374acc0d1"
 }

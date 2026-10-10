@@ -1,0 +1,39 @@
+{
+  "slug": "bootleggers-modern-american-smokehouse-scottsdale",
+  "name": "Bootleggers Modern American Smokehouse",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Bar"
+  ],
+  "address": "7217 E 1st St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4920111,
+  "lng": -111.9255611,
+  "phone": "+14804049984",
+  "website": "https://www.bootleggerssmokehouse.com/",
+  "placeId": "ChIJQdgIfcALK4cR4GJdQ6Qi23U",
+  "googleRating": 4.1,
+  "googleReviewCount": 2033,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2753505363acd4584ab21d",
+  "seededAt": "2026-06-08T23:42:08Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

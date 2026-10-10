@@ -1,0 +1,37 @@
+{
+  "slug": "zzeeks-pizza-phoenix",
+  "name": "Zzeeks Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant"
+  ],
+  "address": "4825 E Warner Rd suit d1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3293965,
+  "lng": -111.97967829999999,
+  "phone": "+14809405555",
+  "website": "https://zzeeks.com/",
+  "placeId": "ChIJE3O1t0sEK4cReDzxdtMVHko",
+  "googleRating": 4.4,
+  "googleReviewCount": 1111,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 10:30 PM",
+    "tue": "10:30 AM - 10:30 PM",
+    "wed": "10:30 AM - 10:30 PM",
+    "thu": "10:30 AM - 10:30 PM",
+    "fri": "10:30 AM - 11:30 PM",
+    "sat": "10:30 AM - 11:30 PM",
+    "sun": "10:30 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a306c660a40b5b9cbb5677f",
+  "seededAt": "2026-06-15T21:19:34Z",
+  "updatedAt": "2026-06-15T21:19:35Z",
+  "source": "groundgame"
+}

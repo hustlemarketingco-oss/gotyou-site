@@ -1,0 +1,41 @@
+{
+  "slug": "pizza-hut-st-george",
+  "name": "Pizza Hut",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Meal delivery",
+    "Chicken wings restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1930 W Sunset Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.124189199999996,
+  "lng": -113.6256531,
+  "phone": "+14356521201",
+  "website": "https://locations.pizzahut.com/ut/st-george/1930-w-sunset",
+  "placeId": "ChIJhVzVEnxEyoARk56Kxhg-nK0",
+  "googleRating": 3.7,
+  "googleReviewCount": 282,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69c55cb50f66742ab87d13c6",
+  "seededAt": "2026-03-26T16:20:05Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

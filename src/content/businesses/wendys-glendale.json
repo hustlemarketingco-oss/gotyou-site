@@ -1,0 +1,37 @@
+{
+  "slug": "wendys-glendale",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant"
+  ],
+  "address": "6923 N 75th Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85303",
+  "lat": 33.5370026,
+  "lng": -112.21996449999999,
+  "phone": "+16232154288",
+  "website": "https://locations.wendys.com/united-states/az/glendale/6923-north-75th-ave",
+  "placeId": "ChIJH9xbwvhrK4cRXVzv5Do90a0",
+  "googleRating": 3.8,
+  "googleReviewCount": 193,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 1:00 AM",
+    "tue": "6:00 AM - 1:00 AM",
+    "wed": "6:00 AM - 1:00 AM",
+    "thu": "6:00 AM - 1:00 AM",
+    "fri": "6:00 AM - 3:00 AM",
+    "sat": "6:00 AM - 3:00 AM",
+    "sun": "6:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dce88f81856d28b11f3",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-06-12T14:55:10Z",
+  "source": "groundgame"
+}

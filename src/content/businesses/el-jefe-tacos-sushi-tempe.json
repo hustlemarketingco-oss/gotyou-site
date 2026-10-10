@@ -1,0 +1,38 @@
+{
+  "slug": "el-jefe-tacos-sushi-tempe",
+  "name": "El Jefe Tacos & Sushi - Tempe",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "2155 E University Dr Unit 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421211,
+  "lng": -111.89270499999999,
+  "phone": "+14808855333",
+  "website": "https://www.eljefetacos.com/",
+  "placeId": "ChIJAyYc8YcJK4cRAfTPshJd-lw",
+  "googleRating": 4.1,
+  "googleReviewCount": 920,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 1:00 AM",
+    "tue": "7:00 AM - 1:00 AM",
+    "wed": "7:00 AM - 1:00 AM",
+    "thu": "7:00 AM - 1:00 AM",
+    "fri": "7:00 AM - 2:30 AM",
+    "sat": "7:00 AM - 2:30 AM",
+    "sun": "7:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "claimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad7fa21a42edb1c297e41",
+  "seededAt": "2026-06-23T19:01:14Z",
+  "updatedAt": "2026-07-06T15:00:10Z",
+  "source": "groundgame"
+}

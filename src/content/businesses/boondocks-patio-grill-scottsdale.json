@@ -1,0 +1,42 @@
+{
+  "slug": "boondocks-patio-grill-scottsdale",
+  "name": "Boondocks Patio & Grill Scottsdale",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Sports bar",
+    "Bar and grill",
+    "Night club",
+    "Live music venue",
+    "Event venue"
+  ],
+  "address": "4341 N 75th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.499719,
+  "lng": -111.9199108,
+  "phone": "+14809498454",
+  "website": "http://patio.boondocksaz.com/",
+  "placeId": "ChIJQTIa0rsLK4cRoe2Hm1MP-Fs",
+  "googleRating": 4.3,
+  "googleReviewCount": 1785,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 2:00 AM",
+    "tue": "12:00 PM - 2:00 AM",
+    "wed": "12:00 PM - 2:00 AM",
+    "thu": "12:00 PM - 2:00 AM",
+    "fri": "12:00 PM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a43c107b564050976b2550a",
+  "seededAt": "2026-06-30T13:13:43Z",
+  "updatedAt": "2026-07-08T23:38:14Z",
+  "source": "groundgame"
+}

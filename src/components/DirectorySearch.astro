@@ -1,20 +1,21 @@
 ---
-// The one interactive piece of the directory. Rather than pulling in a UI framework for a
-// search box + filter pills, this ships the pre-built search index as inline JSON and filters
-// with vanilla JS. At a few thousand businesses that is still a reasonable static payload; past
-// ~20k, swap this for a Cloudflare Worker search endpoint instead of filtering client-side.
+// The one interactive piece of the directory. The first page of cards is rendered on the server
+// (fast first paint, crawlable links); the full search index is a static file
+// (/businesses/search.json, see search.json.ts) fetched once and filtered with vanilla JS.
+// Past ~20k businesses, swap this for a Cloudflare Worker search endpoint.
 //
 // The search input (#searchInput) and city select (#cityFilter) live in the page hero; this
 // component owns the category pills, sorting, the card grid and paging. Filters are mirrored to
 // the URL (?q=&city=&cat=&sort=) so a filtered view can be linked and survives back/forward.
 import { CATEGORY_ICONS } from '../lib/business';
 
-interface BusinessSearchEntry {
+export interface BusinessSearchEntry {
   slug: string;
   name: string;
   category: string;
   googleCategory: string;
   city: string;
+  state: string;
   address: string;
   claimStatus: 'unclaimed' | 'pending' | 'claimed';
   rating: number;
@@ -28,6 +29,9 @@ interface Props {
 }
 
 const { businesses } = Astro.props;
+// "Most popular": GOTYOU partners first, then rating weighted by review volume (same order as the client script).
+const popularity = (b: BusinessSearchEntry) => (b.claimStatus === 'claimed' ? 100 : 0) + (b.rating ? b.rating * Math.log10(b.reviews + 10) : 0);
+const first = [...businesses].sort((a, b) => popularity(b) - popularity(a)).slice(0, 24);
 const counts = businesses.reduce<Record<string, number>>((acc, b) => ((acc[b.category] = (acc[b.category] ?? 0) + 1), acc), {});
 const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
 ---
@@ -56,12 +60,33 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
       </div>
     </div>
 
-    <div class="grid" id="bizGrid"></div>
-    <div class="more-wrap"><button class="more" id="loadMore" hidden>Show more</button></div>
+    <div class="grid" id="bizGrid" data-total={businesses.length}>
+      {first.map((b) => {
+        const icon = CATEGORY_ICONS[b.category] ?? 'ti-building-store';
+        return (
+          <a href={`/businesses/${b.slug}`} class="card">
+            <div class="photo">
+              <span class="ph"><i class:list={['ti', icon]}></i></span>
+              {b.photo && <img src={b.photo} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+              <span class="chip"><i class:list={['ti', icon]}></i>{b.category}</span>
+              {b.claimStatus === 'claimed' && <span class="badge badge--on"><i class="ti ti-circle-check-filled"></i> On GOTYOU</span>}
+            </div>
+            <div class="body">
+              <h3>{b.name}</h3>
+              <div class="sub">{b.googleCategory}{b.price ? ` · ${b.price}` : ''}</div>
+              <div class="foot">
+                {b.rating ? <span class="rating"><i class="ti ti-star-filled"></i>{b.rating.toFixed(1)}<span class="cnt">({b.reviews.toLocaleString()})</span></span> : <span class="rating rating--none">No reviews yet</span>}
+                <span class="loc"><i class="ti ti-map-pin"></i>{b.city}</span>
+              </div>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+    <div class="more-wrap"><button class="more" id="loadMore">Show more</button></div>
   </div>
 </section>
 
-<script type="application/json" id="businessData" set:html={JSON.stringify(businesses)} />
 <script type="application/json" id="categoryIcons" set:html={JSON.stringify(CATEGORY_ICONS)} />
 
 <script>
@@ -71,6 +96,7 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     category: string;
     googleCategory: string;
     city: string;
+    state: string;
     address: string;
     claimStatus: 'unclaimed' | 'pending' | 'claimed';
     rating: number;
@@ -80,7 +106,24 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   };
 
   const PAGE = 24;
-  const ALL: Biz[] = JSON.parse(document.getElementById('businessData')?.textContent || '[]');
+  let ALL: Biz[] = [];
+  // search.json is a list of tuples (see search.json.ts) to keep the download small.
+  const FIELDS = ['slug', 'name', 'category', 'googleCategory', 'city', 'state', 'address', 'claimStatus', 'rating', 'reviews', 'price', 'photo'] as const;
+  const STATUS = ['unclaimed', 'pending', 'claimed'] as const;
+  let loading: Promise<void> | null = null;
+  function load() {
+    loading ??= fetch('/businesses/search.json')
+      .then((r) => r.json())
+      .then((rows: { cats: string[]; rows: unknown[][] }) => {
+        ALL = rows.rows.map((r) => {
+          const o = Object.fromEntries(FIELDS.map((f, i) => [f, r[i]])) as Record<string, unknown>;
+          o.category = rows.cats[o.category as number];
+          o.claimStatus = STATUS[o.claimStatus as number];
+          return o as unknown as Biz;
+        });
+      });
+    return loading;
+  }
   const ICONS: Record<string, string> = JSON.parse(document.getElementById('categoryIcons')?.textContent || '{}');
 
   const searchInput = document.getElementById('searchInput') as HTMLInputElement;
@@ -99,7 +142,7 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
 
   // Rating weighted by review volume, so a 5.0 with 3 reviews doesn't outrank a 4.6 with 2,000.
-  const popularity = (b: Biz) => (b.rating ? b.rating * Math.log10(b.reviews + 10) : 0);
+  const popularity = (b: Biz) => (b.claimStatus === 'claimed' ? 100 : 0) + (b.rating ? b.rating * Math.log10(b.reviews + 10) : 0);
 
   function card(b: Biz) {
     const icon = ICONS[b.category] ?? 'ti-building-store';
@@ -142,13 +185,18 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     loadMore.textContent = `Show more (${(current.length - shown).toLocaleString()} left)`;
   }
 
-  function apply(resetPaging = true) {
+  async function apply(resetPaging = true) {
+    if (!ALL.length) {
+      grid.setAttribute('aria-busy', 'true');
+      await load();
+      grid.removeAttribute('aria-busy');
+    }
     const q = searchInput.value.toLowerCase().trim();
     const city = cityFilter.value;
     current = ALL.filter(
       (b) =>
         (!q || `${b.name} ${b.googleCategory} ${b.category} ${b.address}`.toLowerCase().includes(q)) &&
-        (!city || b.city === city) &&
+        (!city || `${b.city}, ${b.state}` === city) &&
         (activeCategory === 'All' || b.category === activeCategory),
     );
     const sort = sortSelect.value;
@@ -205,12 +253,19 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   cityFilter.addEventListener('change', () => apply());
   sortSelect.addEventListener('change', () => apply());
   pills.forEach((p) => p.addEventListener('click', () => (setCategory(p.dataset.cat || 'All'), apply())));
-  loadMore.addEventListener('click', () => {
+  loadMore.addEventListener('click', async () => {
+    if (!ALL.length) await apply();
     shown += PAGE;
     render();
   });
 
-  apply();
+  // The server already rendered the default view; only load the index straight away when the URL asks for a filter.
+  if (params.toString()) apply();
+  else {
+    resultCount.innerHTML = `<strong>${Number(grid.dataset.total ?? 0).toLocaleString()}</strong> places`;
+    const warm = () => load();
+    'requestIdleCallback' in window ? requestIdleCallback(warm) : setTimeout(warm, 1500);
+  }
 </script>
 
 <style>

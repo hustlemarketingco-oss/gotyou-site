@@ -1,0 +1,37 @@
+{
+  "slug": "crumbl-maricopa",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cookie shop",
+  "secondaryCategories": [
+    "Dessert shop"
+  ],
+  "address": "20320 N John Wayne Pkwy Suite 105",
+  "city": "Maricopa",
+  "state": "AZ",
+  "zip": "85139",
+  "phone": "+16026759660",
+  "priceRange": "$$",
+  "description": "Located in Maricopa, Crumbl is a cookie shop & dessert shop with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/crumblcookies"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a245371956faf5dbf4c8798",
+  "seededAt": "2026-06-06T17:05:53Z",
+  "updatedAt": "2026-06-06T17:05:53Z",
+  "source": "groundgame"
+}

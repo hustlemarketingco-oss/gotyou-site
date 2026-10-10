@@ -1,0 +1,39 @@
+{
+  "slug": "hermies-drive-in-cedar-city",
+  "name": "Hermie's Drive In",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Sandwich shop",
+    "American restaurant"
+  ],
+  "address": "294 N Main St",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84721",
+  "lat": 37.6824264,
+  "lng": -113.06147759999999,
+  "phone": "+14358650612",
+  "website": "https://hermiesdrivein.shop/",
+  "placeId": "ChIJfU7KQ6VhtYARRPVyKdraYPI",
+  "googleRating": 4.6,
+  "googleReviewCount": 2050,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f0b9accf9f728c2c58",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

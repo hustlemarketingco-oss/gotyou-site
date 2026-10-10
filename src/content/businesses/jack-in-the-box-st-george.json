@@ -1,0 +1,43 @@
+{
+  "slug": "jack-in-the-box-st-george",
+  "name": "Jack in the Box",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Mexican restaurant",
+    "Meal delivery",
+    "Hamburger restaurant",
+    "American restaurant",
+    "Dessert restaurant",
+    "Food delivery"
+  ],
+  "address": "1596 S Convention Center Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.08106430000001,
+  "lng": -113.5826012,
+  "phone": "+14359860284",
+  "website": "https://locations.jackinthebox.com/us/ut/saint-george/1596-s-convention-center-dr",
+  "placeId": "ChIJqyyVEDdFyoARQYOJAsoLpHA",
+  "googleRating": 4,
+  "googleReviewCount": 1808,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b47aab666b2d4c6a0ee",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

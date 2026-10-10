@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-75-gilbert",
+  "name": "Yogis Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "75 E Rivulon Blvd Ste 108",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.285406,
+  "lng": -111.78783209999999,
+  "phone": "+14807221169",
+  "website": "http://yogisgrill.com/",
+  "placeId": "ChIJLRij3p-rK4cRq_lhhtmqXtE",
+  "googleRating": 3.4,
+  "googleReviewCount": 197,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971b26d4ad84e09391bb8",
+  "seededAt": "2026-06-22T17:32:34Z",
+  "updatedAt": "2026-06-22T17:32:35Z",
+  "source": "groundgame"
+}

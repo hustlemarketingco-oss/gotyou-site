@@ -1,0 +1,37 @@
+{
+  "slug": "schlotzskys-deli-4513-mesa",
+  "name": "Schlotzsky's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "4513 S Power Rd #106",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.33388,
+  "lng": -111.68652,
+  "phone": "+14804992772",
+  "website": "https://locations.schlotzskys.com/az/mesa/4513-south-power-road",
+  "placeId": "ChIJR6VaXXqtK4cRLxRsiD8s8tY",
+  "googleRating": 3.8,
+  "googleReviewCount": 105,
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4961e96e9905ab6e506fa0",
+  "seededAt": "2026-07-04T19:41:29Z",
+  "updatedAt": "2026-07-04T19:41:30Z",
+  "source": "groundgame"
+}

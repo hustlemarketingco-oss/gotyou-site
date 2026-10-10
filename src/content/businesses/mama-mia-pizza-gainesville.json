@@ -1,0 +1,39 @@
+{
+  "slug": "mama-mia-pizza-gainesville",
+  "name": "Mama Mia Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "7669 Limestone Dr STE 110",
+  "city": "Gainesville",
+  "state": "VA",
+  "zip": "20155",
+  "lat": 38.790564499999995,
+  "lng": -77.5981225,
+  "phone": "+17037534605",
+  "website": "https://mamamiapizza.net/",
+  "placeId": "ChIJn1CIDq9ntokR4xLKZXRgsyQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 406,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342fe1c5c1c9b904fd9d",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

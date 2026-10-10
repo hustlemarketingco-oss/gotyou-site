@@ -1,0 +1,40 @@
+{
+  "slug": "fazolis-mesa",
+  "name": "Fazoli's",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Catering service",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "953 N Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4339935,
+  "lng": -111.86493019999999,
+  "phone": "+14809062001",
+  "website": "https://fazolis.com/stores/az-mesa-953-north-dobson-road-85201/&y_source=1_OTEyMTM4MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ1yzNNTgJK4cRy9zMeKXg7cA",
+  "googleRating": 4,
+  "googleReviewCount": 830,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "10:30 AM - 9:30 PM",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d84097c4206ff45e5301b",
+  "seededAt": "2026-06-25T19:39:53Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "daydreamer-coffee-tempe",
+  "name": "Daydreamer Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "1020 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.415397299999995,
+  "lng": -111.92367259999999,
+  "website": "https://daydreamer.coffee/",
+  "placeId": "ChIJ2cPA2HAJK4cRGTNeilqz-bY",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6c07f5960527e3d5b58e0",
+  "seededAt": "2026-10-07T21:58:23Z",
+  "updatedAt": "2026-10-07T21:58:33Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-15435-scottsdale",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog stand",
+    "Hot dog restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "15435 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.626621,
+  "lng": -111.924983,
+  "phone": "+14809914400",
+  "website": "https://restaurants.fiveguys.com/15435-scottsdale-rd",
+  "placeId": "ChIJt_f_Mjx0K4cRzcyFuTqwgOA",
+  "googleRating": 4.3,
+  "googleReviewCount": 763,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c1ec389a21715998779",
+  "seededAt": "2026-06-16T17:47:10Z",
+  "updatedAt": "2026-06-16T17:47:11Z",
+  "source": "groundgame"
+}

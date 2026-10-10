@@ -1,0 +1,32 @@
+{
+  "slug": "green-goddess-house-of-herbs-phoenix",
+  "name": "Green Goddess House of Herbs",
+  "category": "Restaurant",
+  "address": "3020 N 16th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.482714099999995,
+  "lng": -112.0479975,
+  "phone": "+16022668177",
+  "website": "https://www.greengoddessherbsaz.com/",
+  "placeId": "ChIJnUy9eOUSK4cRAgQV5Q19H1E",
+  "googleRating": 4.6,
+  "googleReviewCount": 184,
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 4:30 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c3257b0fe8b13635f26bd",
+  "seededAt": "2026-06-12T16:22:47Z",
+  "updatedAt": "2026-06-12T16:22:48Z",
+  "source": "groundgame"
+}

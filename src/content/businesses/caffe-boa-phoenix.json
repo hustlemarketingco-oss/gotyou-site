@@ -1,0 +1,41 @@
+{
+  "slug": "caffe-boa-phoenix",
+  "name": "Caffe Boa",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Family restaurant",
+    "Bar",
+    "Live music venue",
+    "Event venue"
+  ],
+  "address": "5063 E Elliot Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3476403,
+  "lng": -111.97600759999999,
+  "phone": "+14808933331",
+  "website": "https://caffeboa.com/",
+  "placeId": "ChIJ4zfhoLgFK4cRNDf7mVFYg7I",
+  "googleRating": 4.5,
+  "googleReviewCount": 1160,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2cddef807a055ab3a70",
+  "seededAt": "2026-06-10T17:45:49Z",
+  "updatedAt": "2026-06-10T17:45:49Z",
+  "source": "groundgame"
+}

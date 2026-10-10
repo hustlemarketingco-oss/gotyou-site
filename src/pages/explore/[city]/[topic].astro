@@ -17,7 +17,7 @@ export async function getStaticPaths() {
       topic,
       items,
       siblings: topicsForCity(c.items).filter((x) => x.topic.slug !== topic.slug),
-      elsewhere: pages.filter((p) => p.topic.slug === topic.slug && p.c.slug !== c.slug).map((p) => p.c),
+      elsewhere: pages.filter((p) => p.topic.slug === topic.slug && p.c.slug !== c.slug && p.c.state === c.state).slice(0, 12).map((p) => ({ city: p.c.city, state: p.c.state })),
       mods: modifiersFor(topic, items),
     },
   }));
@@ -40,13 +40,13 @@ const notes = topic.note ? items.map(topic.note) : undefined;
   faqs={faqs}
   breadcrumbs={[
     { name: 'Directory', href: '/businesses/' },
-    { name: city, href: cityPath(city) },
-    { name: topic.label, href: topicPath(city, topic) },
+    { name: city, href: cityPath(city, state) },
+    { name: topic.label, href: topicPath(city, state, topic) },
   ]}
   related={[
-    { title: `More ${topic.short} in ${city}`, links: mods.map((m) => ({ href: topicPath(city, topic, m.mod.slug), label: m.mod.title(topic, city), count: m.items.length })) },
-    { title: `Cuisines in ${city}`, links: siblings.filter((s) => s.topic.kind === 'cuisine').map((s) => ({ href: topicPath(city, s.topic), label: s.topic.label, count: s.items.length })) },
-    { title: `Popular in ${city}`, links: siblings.filter((s) => s.topic.kind !== 'cuisine').map((s) => ({ href: topicPath(city, s.topic), label: s.topic.label, count: s.items.length })) },
-    { title: `${topic.label} nearby`, links: elsewhere.map((o) => ({ href: topicPath(o.city, topic), label: `${topic.label} in ${o.city}` })) },
+    { title: `More ${topic.short} in ${city}`, links: mods.map((m) => ({ href: topicPath(city, state, topic, m.mod.slug), label: m.mod.title(topic, city), count: m.items.length })) },
+    { title: `Cuisines in ${city}`, links: siblings.filter((s) => s.topic.kind === 'cuisine').map((s) => ({ href: topicPath(city, state, s.topic), label: s.topic.label, count: s.items.length })) },
+    { title: `Popular in ${city}`, links: siblings.filter((s) => s.topic.kind !== 'cuisine').map((s) => ({ href: topicPath(city, state, s.topic), label: s.topic.label, count: s.items.length })) },
+    { title: `${topic.label} nearby`, links: elsewhere.map((o) => ({ href: topicPath(o.city, o.state, topic), label: `${topic.label} in ${o.city}` })) },
   ]}
 />

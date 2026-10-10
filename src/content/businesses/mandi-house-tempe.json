@@ -1,0 +1,37 @@
+{
+  "slug": "mandi-house-tempe",
+  "name": "Mandi House",
+  "category": "Restaurant",
+  "googleCategory": "Middle eastern restaurant",
+  "secondaryCategories": [
+    "Halal restaurant"
+  ],
+  "address": "1639 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4145557,
+  "lng": -111.9109164,
+  "phone": "+14806594751",
+  "website": "https://mandihouse.shop/",
+  "placeId": "ChIJm5Qx8fMIK4cReqypoEtSJPQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 1245,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a625d0a937d6c2154b7af1c",
+  "seededAt": "2026-07-23T18:27:22Z",
+  "updatedAt": "2026-07-27T19:25:46Z",
+  "source": "groundgame"
+}

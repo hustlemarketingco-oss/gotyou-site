@@ -1,0 +1,47 @@
+{
+  "slug": "sprouts-farmers-market-phoenix",
+  "name": "Sprouts Farmers Market",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Fresh food market",
+    "Fruit and vegetable store",
+    "Grocery delivery service",
+    "Health food store",
+    "Organic food store",
+    "Produce market",
+    "Supermarket",
+    "Vitamin & supplements store"
+  ],
+  "address": "2824 E Indian School Rd #126",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "phone": "+16025533131",
+  "description": "Specialty chain offering a range of natural & organic grocery items, including own-brand goods.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Checks",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SproutsFarmersMarket"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24431230287173428cbecd",
+  "seededAt": "2026-06-06T15:56:02Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

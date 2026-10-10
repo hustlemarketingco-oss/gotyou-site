@@ -1,0 +1,37 @@
+{
+  "slug": "waba-grill-phoenix",
+  "name": "WaBa Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian fusion restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Fusion restaurant"
+  ],
+  "address": "7450 S 59th Ave, Laveen Village, AZ 85339",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85339",
+  "lat": 33.37923,
+  "lng": -112.18648999999999,
+  "phone": "+16233351995",
+  "website": "https://locations.wabagrill.com/ll/us/az/laveen-village/e478101/",
+  "placeId": "ChIJGbcPGAAXK4cREmFXeoEpA_M",
+  "googleRating": 4.1,
+  "googleReviewCount": 107,
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435f6f43cb5a25d59429e",
+  "seededAt": "2026-06-18T18:16:22Z",
+  "updatedAt": "2026-06-18T18:16:22Z",
+  "source": "groundgame"
+}

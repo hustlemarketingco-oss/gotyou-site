@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-3322-phoenix",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3322 E Greenway Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6267524,
+  "lng": -112.0105131,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/greenway-rd-n-32nd-st",
+  "placeId": "ChIJ62JFK2dxK4cRGHFRmuZSpuY",
+  "googleRating": 4.1,
+  "googleReviewCount": 94,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725f0d4e49b28d2d117d",
+  "seededAt": "2026-07-10T22:29:51Z",
+  "updatedAt": "2026-07-10T22:29:52Z",
+  "source": "groundgame"
+}

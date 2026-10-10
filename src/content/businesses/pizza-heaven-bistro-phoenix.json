@@ -1,0 +1,39 @@
+{
+  "slug": "pizza-heaven-bistro-phoenix",
+  "name": "Pizza Heaven Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "5150 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.512679999999996,
+  "lng": -112.06519229999999,
+  "phone": "+16022778800",
+  "website": "https://phbistro.com/",
+  "placeId": "ChIJNwUBkZYSK4cRD1k3RBDyMw8",
+  "googleRating": 4.7,
+  "googleReviewCount": 1623,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "2:30 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb197753bb6ea8744048",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "hurts-donut-company-tempe",
+  "name": "Hurts Donut Company",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "2161 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421610199999996,
+  "lng": -111.8927076,
+  "phone": "+14807652101",
+  "website": "http://www.wannahurts.com/",
+  "placeId": "ChIJzbIc1VoIK4cRiZ12skqG_MA",
+  "googleRating": 4.5,
+  "googleReviewCount": 2687,
+  "priceRange": "$",
+  "hours": {
+    "mon": "4:00 AM - 12:00 AM",
+    "tue": "4:00 AM - 12:00 AM",
+    "wed": "4:00 AM - 12:00 AM",
+    "thu": "4:00 AM - 12:00 AM",
+    "fri": "2:00 AM - 12:00 AM",
+    "sat": "2:00 AM - 12:00 AM",
+    "sun": "4:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3acaeae394f86fe59af4e9",
+  "seededAt": "2026-06-23T18:05:30Z",
+  "updatedAt": "2026-06-29T18:52:26Z",
+  "source": "groundgame"
+}

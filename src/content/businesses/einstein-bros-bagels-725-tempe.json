@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-725-tempe",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "725 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422502699999995,
+  "lng": -111.9258461,
+  "phone": "+14803036606",
+  "website": "https://locations.einsteinbros.com/us/az/tempe/725-south-rural-road?y_source=1_OTA1MDA3NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJsUwKoNwIK4cRvPrme4Kk2nU",
+  "googleRating": 4.3,
+  "googleReviewCount": 519,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 5:00 PM",
+    "tue": "6:00 AM - 5:00 PM",
+    "wed": "6:00 AM - 5:00 PM",
+    "thu": "6:00 AM - 5:00 PM",
+    "fri": "6:00 AM - 5:00 PM",
+    "sat": "6:00 AM - 4:00 PM",
+    "sun": "6:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994bd52e91ab68af71bf4",
+  "seededAt": "2026-06-10T16:45:49Z",
+  "updatedAt": "2026-07-14T19:50:33Z",
+  "source": "groundgame"
+}

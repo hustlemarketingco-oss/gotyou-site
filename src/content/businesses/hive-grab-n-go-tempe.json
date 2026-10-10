@@ -1,0 +1,58 @@
+{
+  "slug": "hive-grab-n-go-tempe",
+  "name": "HIVE Grab N Go",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Cigar shop",
+    "Smoke shop",
+    "Tobacco shop",
+    "Vaporizer store"
+  ],
+  "address": "425 S Mill Ave Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4257737,
+  "lng": -111.9396268,
+  "phone": "+14802348401",
+  "website": "http://hivegrabngo.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7043995268355913650",
+  "googleCid": "7043995268355913650",
+  "placeId": "ChIJy_NzD54JK4cRsvfiOWBMwWE",
+  "googleRating": 4.6,
+  "googleReviewCount": 43,
+  "description": "Located in Tempe, HIVE Grab N Go is a convenience store & cigar shop with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/og.hive"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 3:00 AM",
+    "sat": "9:00 AM - 3:00 AM",
+    "sun": "9:00 AM - 3:00 AM",
+    "mon": "9:00 AM - 3:00 AM",
+    "tue": "9:00 AM - 3:00 AM",
+    "wed": "9:00 AM - 3:00 AM",
+    "thu": "9:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24392bdf72eb174b5dd480",
+  "seededAt": "2026-06-06T15:13:47Z",
+  "updatedAt": "2026-06-06T15:13:47Z",
+  "source": "groundgame"
+}

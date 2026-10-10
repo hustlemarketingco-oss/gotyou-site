@@ -1,0 +1,40 @@
+{
+  "slug": "sauce-pizza-wine-phoenix",
+  "name": "Sauce Pizza & Wine",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Family restaurant",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "742 E Glendale Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5389739,
+  "lng": -112.0641603,
+  "phone": "+16022162400",
+  "website": "https://www.saucepizzaandwine.com/locations/phoenix-madison-village/",
+  "placeId": "ChIJ_ZZg4E5tK4cRSCtGKr9Lif0",
+  "googleRating": 4.2,
+  "googleReviewCount": 569,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9c70ff75cd7e17f47f7",
+  "seededAt": "2026-06-10T19:23:51Z",
+  "updatedAt": "2026-06-10T19:23:51Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "hotel-valley-ho-scottsdale",
+  "name": "Hotel Valley Ho",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Resort hotel",
+    "Hotel",
+    "Spa"
+  ],
+  "address": "6850 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14803762600",
+  "priceRange": "134",
+  "description": "Iconic luxury hotel featuring mid-century modern rooms & suites, a pool, spa & an American eatery.",
+  "sameAs": [
+    "https://www.facebook.com/hotelvalleyhoscottsdale"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ac231d40d5278004cec",
+  "seededAt": "2026-06-06T15:20:34Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

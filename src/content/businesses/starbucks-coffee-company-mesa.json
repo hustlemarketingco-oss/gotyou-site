@@ -1,0 +1,47 @@
+{
+  "slug": "starbucks-coffee-company-mesa",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "5110 S Power Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "phone": "+14802810268",
+  "priceRange": "$1–10",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://facebook.com/starbucks"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2649ad9bdac39bb20bde66",
+  "seededAt": "2026-06-08T04:48:45Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

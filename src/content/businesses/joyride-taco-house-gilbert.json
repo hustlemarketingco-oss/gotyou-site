@@ -1,0 +1,40 @@
+{
+  "slug": "joyride-taco-house-gilbert",
+  "name": "Joyride Taco House",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Catering service",
+    "Bar",
+    "Food delivery"
+  ],
+  "address": "302 N Gilbert Rd #101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.355256499999996,
+  "lng": -111.7898974,
+  "phone": "+14806328226",
+  "website": "https://joyridetacohouse.com/",
+  "placeId": "ChIJPUdmS56oK4cRV5v6j73I57M",
+  "googleRating": 4.4,
+  "googleReviewCount": 3178,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a73c7045d950ebea398",
+  "seededAt": "2026-06-08T23:04:19Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

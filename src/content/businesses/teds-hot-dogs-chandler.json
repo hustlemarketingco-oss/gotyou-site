@@ -1,0 +1,33 @@
+{
+  "slug": "teds-hot-dogs-chandler",
+  "name": "Ted's Hot Dogs",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "2700 E Germann Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85286",
+  "lat": 33.2793041,
+  "lng": -111.7940926,
+  "phone": "+14802753152",
+  "website": "https://www.tedshotdogs.com/",
+  "placeId": "ChIJtT9G86WrK4cROoS1UIX-sBA",
+  "googleRating": 4,
+  "googleReviewCount": 99,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d80b74c6d6365fe912d",
+  "seededAt": "2026-06-12T14:53:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

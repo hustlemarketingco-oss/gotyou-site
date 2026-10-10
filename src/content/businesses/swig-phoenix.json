@@ -1,0 +1,40 @@
+{
+  "slug": "swig-phoenix",
+  "name": "Swig",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4635 E Shea Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "lat": 33.582260999999995,
+  "lng": -111.98125379999999,
+  "phone": "+16028785680",
+  "website": "https://swig.com/findaswig/shea",
+  "placeId": "ChIJGSojEHxzK4cR1iaSNuy1CE8",
+  "googleRating": 4.6,
+  "googleReviewCount": 843,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766007d761a52719784da",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

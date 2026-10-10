@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-9164-scottsdale",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery"
+  ],
+  "address": "9164 E Talking Stick Wy",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.538770400000004,
+  "lng": -111.8839642,
+  "phone": "+16026617660",
+  "website": "https://www.pandaexpress.com/locations/az/scottsdale/3288",
+  "placeId": "ChIJ8ZIQvnALK4cRknVtc1qcezI",
+  "googleRating": 3.1,
+  "googleReviewCount": 302,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:30 AM - 10:30 PM",
+    "tue": "8:30 AM - 10:30 PM",
+    "wed": "8:30 AM - 10:30 PM",
+    "thu": "8:30 AM - 10:30 PM",
+    "fri": "8:30 AM - 10:30 PM",
+    "sat": "9:00 AM - 10:30 PM",
+    "sun": "9:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29979c4fd46f51bad9b269",
+  "seededAt": "2026-06-10T16:58:04Z",
+  "updatedAt": "2026-06-12T22:08:04Z",
+  "source": "groundgame"
+}

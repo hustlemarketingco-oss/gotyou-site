@@ -1,0 +1,45 @@
+{
+  "slug": "go-go-avocado-tempe",
+  "name": "Go Go Avocado",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Breakfast restaurant"
+  ],
+  "address": "707 S Farmer Ave Suite 125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4223755,
+  "lng": -111.9439119,
+  "website": "https://www.gogoavocadoaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17017252984732493252",
+  "googleCid": "17017252984732493252",
+  "placeId": "ChIJuaqMAAAJK4cRxKXvp21tKew",
+  "googleRating": 4.7,
+  "googleReviewCount": 62,
+  "priceRange": "$10–20",
+  "description": "Located in Tempe, Go Go Avocado is a cafe & breakfast restaurant with coffee, dine-in.",
+  "amenities": [
+    "Dine-in",
+    "Free parking lot",
+    "Free street parking",
+    "Coffee"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM",
+    "mon": "Closed",
+    "tue": "8:00 AM - 3:00 PM",
+    "wed": "8:00 AM - 3:00 PM",
+    "thu": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439474ef33f52b6d768b7",
+  "seededAt": "2026-06-06T15:14:15Z",
+  "updatedAt": "2026-08-05T21:10:53Z",
+  "source": "groundgame"
+}

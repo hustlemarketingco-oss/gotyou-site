@@ -1,0 +1,37 @@
+{
+  "slug": "taco-nazo-walnut",
+  "name": "Taco Nazo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant"
+  ],
+  "address": "1267 N Grand Ave",
+  "city": "Walnut",
+  "state": "CA",
+  "zip": "91789",
+  "lat": 34.04466540000001,
+  "lng": -117.8491418,
+  "phone": "+19095950555",
+  "website": "http://www.taconazo.com/",
+  "placeId": "ChIJPXjoLF8pw4ARvBwU96BTNMk",
+  "googleRating": 4.5,
+  "googleReviewCount": 1216,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d485969533763c61210",
+  "seededAt": "2026-06-12T14:52:56Z",
+  "updatedAt": "2026-06-12T14:52:56Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "papa-johns-pizza-walnut",
+  "name": "Papa Johns Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "18734 Amar Rd",
+  "city": "Walnut",
+  "state": "CA",
+  "zip": "91789",
+  "lat": 34.0266601,
+  "lng": -117.89336179999998,
+  "phone": "+16269649677",
+  "website": "https://locations.papajohns.com/united-states/ca/91789/walnut/18734-amar-rd&y_source=1_MTA2OTIzNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJMzXfgyYqw4ARWxRsY7szk3M",
+  "googleRating": 3.5,
+  "googleReviewCount": 106,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429d3937f38bd6de8fcf",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

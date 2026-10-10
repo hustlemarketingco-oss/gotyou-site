@@ -1,0 +1,36 @@
+{
+  "slug": "shawarmaati-chandler",
+  "name": "Shawarmaati",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4985 S Arizona Ave #1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.233689,
+  "lng": -111.840603,
+  "phone": "+14803971216",
+  "website": "http://shawarmaati.com/",
+  "placeId": "ChIJ8SVQqMmrK4cRpo9rMSfJTFo",
+  "googleRating": 4.8,
+  "googleReviewCount": 217,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34380c13112d58f005f686",
+  "seededAt": "2026-06-18T18:25:16Z",
+  "updatedAt": "2026-06-18T18:25:17Z",
+  "source": "groundgame"
+}

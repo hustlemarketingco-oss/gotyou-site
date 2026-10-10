@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-13637-phoenix",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "13637 N Tatum Blvd Suite 16",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6108934,
+  "lng": -111.9762284,
+  "phone": "+16026102383",
+  "website": "https://locations.massageenvy.com/arizona/phoenix/13637-north-tatum-blvd.html",
+  "placeId": "ChIJa0Ggi79zK4cRJ6HjjDjRDI0",
+  "googleRating": 4.6,
+  "googleReviewCount": 420,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e6360ca17155140ec4ba",
+  "seededAt": "2026-06-17T18:23:50Z",
+  "updatedAt": "2026-06-17T18:23:50Z",
+  "source": "groundgame"
+}

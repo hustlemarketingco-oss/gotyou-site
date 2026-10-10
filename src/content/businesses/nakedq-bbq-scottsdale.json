@@ -1,0 +1,44 @@
+{
+  "slug": "nakedq-bbq-scottsdale",
+  "name": "NakedQ BBQ",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "10240 N 90th St Suite 105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "phone": "+14809122102",
+  "priceRange": "$10–20",
+  "description": "Laid-back BBQ joint serving smoked meats along with comfort-style sides in a no-frills space.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/nakedq"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243eafdb359c21d19386cf",
+  "seededAt": "2026-06-06T15:37:19Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

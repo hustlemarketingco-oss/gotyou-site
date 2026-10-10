@@ -1,0 +1,44 @@
+{
+  "slug": "trader-joes-tempe",
+  "name": "Trader Joe's",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Cheese shop",
+    "Health food store",
+    "Liquor store",
+    "Natural goods store",
+    "Organic food store",
+    "Produce market",
+    "Supermarket",
+    "Wine store"
+  ],
+  "address": "940 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "phone": "+14803039974",
+  "description": "Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/traderjoes"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243993763e5db57538e30a",
+  "seededAt": "2026-06-06T15:15:31Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

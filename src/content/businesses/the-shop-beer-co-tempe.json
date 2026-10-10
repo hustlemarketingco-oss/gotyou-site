@@ -1,0 +1,38 @@
+{
+  "slug": "the-shop-beer-co-tempe",
+  "name": "The Shop Beer Co.",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Bar",
+    "Manufacturer"
+  ],
+  "address": "922 W 1st St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4293338,
+  "lng": -111.95126750000001,
+  "phone": "+14804779212",
+  "website": "http://www.theshop.beer/",
+  "placeId": "ChIJbUhWoSwJK4cRNNVaTW1Dowc",
+  "googleRating": 4.8,
+  "googleReviewCount": 628,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 11:00 PM",
+    "tue": "12:00 PM - 11:00 PM",
+    "wed": "12:00 PM - 11:00 PM",
+    "thu": "12:00 PM - 11:00 PM",
+    "fri": "12:00 PM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397b300427b9aad2c49191",
+  "seededAt": "2026-06-22T18:13:04Z",
+  "updatedAt": "2026-06-22T18:13:04Z",
+  "source": "groundgame"
+}

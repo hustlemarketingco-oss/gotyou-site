@@ -1,0 +1,33 @@
+{
+  "slug": "escape-the-room-az-scottsdale",
+  "name": "Escape The Room AZ",
+  "category": "Fun & Activities",
+  "googleCategory": "Amusement center",
+  "address": "7135 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4929811,
+  "lng": -111.9276062,
+  "phone": "+14805240393",
+  "website": "https://escapetheroom.com/phoenix/",
+  "placeId": "ChIJr8Uc8L8LK4cRZ6prk4Mv_xc",
+  "googleRating": 5,
+  "googleReviewCount": 634,
+  "hours": {
+    "mon": "1:00 PM - 9:00 PM",
+    "tue": "1:00 PM - 9:00 PM",
+    "wed": "1:00 PM - 9:00 PM",
+    "thu": "1:00 PM - 9:00 PM",
+    "fri": "1:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31b8502d4d86319c17f17f",
+  "seededAt": "2026-06-16T20:55:44Z",
+  "updatedAt": "2026-06-16T20:57:19Z",
+  "source": "groundgame"
+}

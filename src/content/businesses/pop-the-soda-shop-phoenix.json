@@ -1,0 +1,32 @@
+{
+  "slug": "pop-the-soda-shop-phoenix",
+  "name": "Pop The Soda Shop",
+  "category": "Shopping",
+  "address": "12038 N 35th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.5958688,
+  "lng": -112.134667,
+  "phone": "+16029930834",
+  "website": "http://www.popsoda.com/",
+  "placeId": "ChIJfYOFXARsK4cRzNJB2aQJP0g",
+  "googleRating": 4.8,
+  "googleReviewCount": 65,
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27660086781c5e0171f208",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-scottsdale",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2825 N Scottsdale Rd Ste 151",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.479561,
+  "lng": -111.9239549,
+  "phone": "+14808740808",
+  "website": "https://locations.einsteinbros.com/us/az/scottsdale/2825-n-scottsdale-rd?y_source=1_OTA0OTgwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJAQNPV9wLK4cR7q7Nf3X7wp0",
+  "googleRating": 3.6,
+  "googleReviewCount": 485,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 PM",
+    "tue": "5:00 AM - 2:00 PM",
+    "wed": "5:00 AM - 2:00 PM",
+    "thu": "5:00 AM - 2:00 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994b7e6a0afff3bd4b844",
+  "seededAt": "2026-06-10T16:45:43Z",
+  "updatedAt": "2026-06-26T18:49:21Z",
+  "source": "groundgame"
+}

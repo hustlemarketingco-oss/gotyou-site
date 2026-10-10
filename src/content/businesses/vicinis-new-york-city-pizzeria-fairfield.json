@@ -1,0 +1,37 @@
+{
+  "slug": "vicinis-new-york-city-pizzeria-fairfield",
+  "name": "Vicini's New York City Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3342 N Texas St",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2910689,
+  "lng": -122.03282069999999,
+  "phone": "+17074252600",
+  "website": "http://www.vicinispizza.com/locations.htm",
+  "placeId": "ChIJj-m4dV4WhYARN44hIqCdaLs",
+  "googleRating": 4.6,
+  "googleReviewCount": 626,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646eef00ffcc51da35de3",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "the-gladly-phoenix",
+  "name": "The Gladly",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "American restaurant",
+    "Event venue"
+  ],
+  "address": "2201 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.509009999999996,
+  "lng": -112.03400049999999,
+  "phone": "+16027598132",
+  "website": "http://www.thegladly.com/",
+  "placeId": "ChIJkxpMR28NK4cRg84ZJeCWJ-U",
+  "googleRating": 4.7,
+  "googleReviewCount": 1812,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c4d8db0c0c2bd38da971e",
+  "seededAt": "2026-06-12T18:18:53Z",
+  "updatedAt": "2026-06-12T18:19:36Z",
+  "source": "groundgame"
+}

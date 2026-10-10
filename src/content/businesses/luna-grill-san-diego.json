@@ -1,0 +1,36 @@
+{
+  "slug": "luna-grill-san-diego",
+  "name": "Luna Grill",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "Food Court, 3665 N Harbor Dr Gate 115",
+  "city": "San Diego",
+  "state": "CA",
+  "zip": "92101",
+  "lat": 32.7312407,
+  "lng": -117.19222959999999,
+  "phone": "+18587887130",
+  "website": "https://locations.lunagrill.com/",
+  "placeId": "ChIJ2eEs_ZOr3oAR6OKObG6Mqx0",
+  "googleRating": 4.6,
+  "googleReviewCount": 115,
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f75722191c4c7c98dfbf",
+  "seededAt": "2026-07-12T20:21:43Z",
+  "updatedAt": "2026-07-12T20:21:45Z",
+  "source": "groundgame"
+}

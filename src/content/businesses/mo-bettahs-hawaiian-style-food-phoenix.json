@@ -1,0 +1,36 @@
+{
+  "slug": "mo-bettahs-hawaiian-style-food-phoenix",
+  "name": "Mo' Bettahs Hawaiian Style Food",
+  "category": "Asian & Pacific",
+  "googleCategory": "Hawaiian restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "50 W Jefferson St Ste 180",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.447842699999995,
+  "lng": -112.0748136,
+  "phone": "+16026135534",
+  "website": "http://mobettahs.com/",
+  "placeId": "ChIJ3XSyEvwTK4cRqMrQIJTiedU",
+  "googleRating": 4.4,
+  "googleReviewCount": 49,
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c6e3ac2e38b7d649bd1",
+  "seededAt": "2026-06-23T05:41:02Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

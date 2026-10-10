@@ -1,0 +1,37 @@
+{
+  "slug": "squarehouse-pizza-gainesville",
+  "name": "SquareHouse Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "405 SW 4th Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.6480343,
+  "lng": -82.32909649999999,
+  "phone": "+13525544484",
+  "website": "http://squarehousepizza.com/",
+  "placeId": "ChIJp5OstbWj6IgRRWhd8qfhVVg",
+  "googleRating": 4.6,
+  "googleReviewCount": 614,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342fa042d15de2bcf66c",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

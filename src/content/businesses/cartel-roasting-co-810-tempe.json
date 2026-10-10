@@ -1,0 +1,43 @@
+{
+  "slug": "cartel-roasting-co-810-tempe",
+  "name": "Cartel Roasting Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Pastry shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Coffee roastery",
+    "Cafe",
+    "Wholesaler",
+    "Food store"
+  ],
+  "address": "810 S Ash Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4211099,
+  "lng": -111.94249769999999,
+  "website": "http://cartelroasting.co/",
+  "placeId": "ChIJ96i2HtcIK4cR3pPQXoa0W1Q",
+  "googleRating": 4.4,
+  "googleReviewCount": 1464,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 8:00 PM",
+    "sun": "6:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f835915f3b323ac14f0",
+  "seededAt": "2026-06-18T17:48:51Z",
+  "updatedAt": "2026-09-21T20:18:04Z",
+  "source": "groundgame"
+}

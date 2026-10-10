@@ -1,0 +1,42 @@
+{
+  "slug": "waba-grill-avondale",
+  "name": "WaBa Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian fusion restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Fusion restaurant",
+    "Vegetarian restaurant",
+    "Fast food restaurant",
+    "Korean restaurant",
+    "Meal takeaway"
+  ],
+  "address": "9915 W McDowell Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.464078799999996,
+  "lng": -112.2729918,
+  "phone": "+16234787685",
+  "website": "https://locations.wabagrill.com/ll/us/az/avondale/9915-w-mcdowell-rd/",
+  "placeId": "ChIJScPNRbs_K4cRV__48UGUTgY",
+  "googleRating": 4,
+  "googleReviewCount": 304,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435f77ec09d824a36495d",
+  "seededAt": "2026-06-18T18:16:23Z",
+  "updatedAt": "2026-06-18T18:16:24Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "portillos-scottsdale",
+  "name": "Portillo's Scottsdale",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Hot dog restaurant",
+    "American restaurant",
+    "Meal takeaway"
+  ],
+  "address": "10574 N 90th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5817286,
+  "lng": -111.8886065,
+  "phone": "+14804512888",
+  "website": "https://www.portillos.com/locations/scottsdale/",
+  "placeId": "ChIJd7dzmz51K4cRgZYw_0kIitw",
+  "googleRating": 4.5,
+  "googleReviewCount": 6349,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:30 PM",
+    "tue": "10:00 AM - 10:30 PM",
+    "wed": "10:00 AM - 10:30 PM",
+    "thu": "10:00 AM - 10:30 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766471e5fd26629cdfd05",
+  "seededAt": "2026-06-09T01:03:03Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

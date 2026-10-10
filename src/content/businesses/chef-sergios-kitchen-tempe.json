@@ -1,0 +1,33 @@
+{
+  "slug": "chef-sergios-kitchen-tempe",
+  "name": "Chef Sergio's Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "710 W Elliot Rd #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496026,
+  "lng": -111.94730000000001,
+  "phone": "+16232571090",
+  "website": "https://sergioskitchen.com/",
+  "placeId": "ChIJKyfpD_wTK4cRQ1f7jbDUL-A",
+  "googleRating": 4.5,
+  "googleReviewCount": 26,
+  "hours": {
+    "mon": "8:00 AM - 1:00 PM",
+    "tue": "8:00 AM - 1:00 PM",
+    "wed": "8:00 AM - 1:00 PM",
+    "thu": "8:00 AM - 1:00 PM",
+    "fri": "8:00 AM - 1:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4c178830531ca3fc4dea3e",
+  "seededAt": "2026-07-06T21:00:56Z",
+  "updatedAt": "2026-07-06T21:00:56Z",
+  "source": "groundgame"
+}

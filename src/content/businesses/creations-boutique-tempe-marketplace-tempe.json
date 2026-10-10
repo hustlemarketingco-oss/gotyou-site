@@ -1,0 +1,39 @@
+{
+  "slug": "creations-boutique-tempe-marketplace-tempe",
+  "name": "Creations Boutique Tempe Marketplace",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "2000 E Rio Salado Pkwy #1246",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4332232,
+  "lng": -111.90266659999999,
+  "phone": "+14804481687",
+  "website": "http://www.creations24.com/",
+  "placeId": "ChIJdWQ5e9cIK4cRAGRxCCC1JMQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 40,
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Credit card",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34358a7f9afe0355ea24d8",
+  "seededAt": "2026-06-18T18:14:34Z",
+  "updatedAt": "2026-07-27T18:02:31Z",
+  "source": "groundgame"
+}

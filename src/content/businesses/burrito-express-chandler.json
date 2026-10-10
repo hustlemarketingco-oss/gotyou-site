@@ -1,0 +1,38 @@
+{
+  "slug": "burrito-express-chandler",
+  "name": "Burrito Express",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "985 W Elliot Rd #6",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.3481534,
+  "lng": -111.8585657,
+  "phone": "+14806373805",
+  "website": "https://www.theburritoexpress.com/chandler",
+  "placeId": "ChIJ_3rso30HK4cREUdU5cfpjQ0",
+  "googleRating": 4.2,
+  "googleReviewCount": 688,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a2ffd95eaa6c58d5ee0d",
+  "seededAt": "2026-06-22T21:02:55Z",
+  "updatedAt": "2026-06-22T21:02:56Z",
+  "source": "groundgame"
+}

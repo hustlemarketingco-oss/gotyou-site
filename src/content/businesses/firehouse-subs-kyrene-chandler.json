@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-kyrene-chandler",
+  "name": "Firehouse Subs Kyrene & Chandler",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "6050 W Chandler Blvd #1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.30590000000001,
+  "lng": -111.94615999999999,
+  "phone": "+14806216964",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJl3xIM68GK4cRC5vocFSqhQU",
+  "googleRating": 4.4,
+  "googleReviewCount": 454,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afa6e89d8278c8fba3a",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

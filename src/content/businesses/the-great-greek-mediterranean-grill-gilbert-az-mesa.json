@@ -1,0 +1,37 @@
+{
+  "slug": "the-great-greek-mediterranean-grill-gilbert-az-mesa",
+  "name": "The Great Greek Mediterranean Grill - Gilbert, AZ",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4972 S Power Rd Suite 107",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.3260613,
+  "lng": -111.68744400000001,
+  "phone": "+14806804578",
+  "website": "https://www.thegreatgreekgrill.com/gilbert-az-gateway",
+  "placeId": "ChIJkdFJCACtK4cRuyYdBUr21PU",
+  "googleRating": 4.7,
+  "googleReviewCount": 783,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c36ce2b2941e6bd166f",
+  "seededAt": "2026-06-22T19:25:42Z",
+  "updatedAt": "2026-06-22T19:25:42Z",
+  "source": "groundgame"
+}

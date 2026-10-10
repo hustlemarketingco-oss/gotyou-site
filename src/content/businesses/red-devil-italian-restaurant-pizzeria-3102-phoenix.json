@@ -1,0 +1,41 @@
+{
+  "slug": "red-devil-italian-restaurant-pizzeria-3102-phoenix",
+  "name": "Red Devil Italian Restaurant & Pizzeria",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Pizza restaurant",
+    "Family restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "3102 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4660308,
+  "lng": -112.01566389999999,
+  "phone": "+16022671036",
+  "website": "https://www.reddevilrestaurant.com/italian-restaurant-phoenix-az/",
+  "placeId": "ChIJOSbt2sQNK4cRXDhFj2eikP0",
+  "googleRating": 4.4,
+  "googleReviewCount": 3990,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765569f3411e91cabd576",
+  "seededAt": "2026-06-09T00:59:02Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

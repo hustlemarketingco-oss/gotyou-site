@@ -1,0 +1,41 @@
+{
+  "slug": "buck-rider-phoenix",
+  "name": "Buck & Rider Phoenix",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Brunch restaurant",
+    "Steak house",
+    "Bar",
+    "Japanese restaurant"
+  ],
+  "address": "4225 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.509183,
+  "lng": -111.98871899999999,
+  "phone": "+16023460110",
+  "website": "https://www.buckandrider.com/",
+  "placeId": "ChIJ1c1vcvoMK4cRCmLc_sOcxKI",
+  "googleRating": 4.6,
+  "googleReviewCount": 3475,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a0105d52c3062cbae28ff",
+  "seededAt": "2026-06-23T03:44:05Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

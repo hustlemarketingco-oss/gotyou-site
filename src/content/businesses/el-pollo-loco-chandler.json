@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-chandler",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "2520 W Chandler Blvd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.306377999999995,
+  "lng": -111.8862281,
+  "phone": "+14808571462",
+  "website": "https://restaurants.elpolloloco.com/az/chandler/2520-west-chandler-blvd",
+  "placeId": "ChIJ102BbP0BK4cRFxOhG9zQxnU",
+  "googleRating": 3.9,
+  "googleReviewCount": 824,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3dd59bfa1b3355861727ec",
+  "seededAt": "2026-06-26T01:27:55Z",
+  "updatedAt": "2026-06-26T01:27:55Z",
+  "source": "groundgame"
+}

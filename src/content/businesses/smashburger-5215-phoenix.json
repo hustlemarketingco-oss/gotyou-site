@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-5215-phoenix",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Chicken restaurant",
+    "Fast food restaurant",
+    "American restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "5215 W Baseline Rd, Laveen Village, AZ 85339",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85339",
+  "lat": 33.3764521,
+  "lng": -112.1716207,
+  "phone": "+14803782211",
+  "website": "https://smashburger.com/locations/us/az/laveen/5215-w-baseline-rd",
+  "placeId": "ChIJCQg4KRkXK4cRx-DtDFjEXWE",
+  "googleRating": 4.4,
+  "googleReviewCount": 1363,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cbdb7bfb534375fd6b5",
+  "seededAt": "2026-06-19T17:30:37Z",
+  "updatedAt": "2026-06-19T17:30:38Z",
+  "source": "groundgame"
+}

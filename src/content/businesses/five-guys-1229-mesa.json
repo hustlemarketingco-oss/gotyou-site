@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-1229-mesa",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "1229 S Power Rd #110",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.3924216,
+  "lng": -111.68382199999999,
+  "phone": "+14808077967",
+  "website": "https://restaurants.fiveguys.com/1229-s-power-road",
+  "placeId": "ChIJabnp-MuvK4cRuX4HfgJ-joM",
+  "googleRating": 4.1,
+  "googleReviewCount": 862,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c20829c55212a1f186e",
+  "seededAt": "2026-06-16T17:47:12Z",
+  "updatedAt": "2026-06-16T17:47:12Z",
+  "source": "groundgame"
+}

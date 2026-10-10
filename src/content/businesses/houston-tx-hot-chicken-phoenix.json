@@ -1,0 +1,36 @@
+{
+  "slug": "houston-tx-hot-chicken-phoenix",
+  "name": "Houston TX Hot Chicken",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1904 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.509546799999995,
+  "lng": -112.0409136,
+  "phone": "+16026917952",
+  "website": "https://www.hhc.ooo/location/1904-e-camelback-rd-phoenix-arizona-85016",
+  "placeId": "ChIJV5VMk2wNK4cRBFlajivehq4",
+  "googleRating": 4.6,
+  "googleReviewCount": 251,
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 1:00 AM",
+    "fri": "10:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c6cdd0ac8dd12839f53",
+  "seededAt": "2026-06-23T05:41:00Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

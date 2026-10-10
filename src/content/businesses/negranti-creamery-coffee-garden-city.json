@@ -1,0 +1,40 @@
+{
+  "slug": "negranti-creamery-coffee-garden-city",
+  "name": "Negranti Creamery + Coffee",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Coffee shop",
+    "Food store",
+    "Cafe"
+  ],
+  "address": "521 E 41st St Suite 155",
+  "city": "Garden City",
+  "state": "ID",
+  "zip": "83714",
+  "lat": 43.634057899999995,
+  "lng": -116.24281839999999,
+  "phone": "+12088721025",
+  "website": "http://www.negranticreamery.com/",
+  "placeId": "ChIJodUTGCv_rlQRlknKlypIke4",
+  "googleRating": 4.3,
+  "googleReviewCount": 22,
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942600647c0220abd034874",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

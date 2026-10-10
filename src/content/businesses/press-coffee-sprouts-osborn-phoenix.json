@@ -1,0 +1,38 @@
+{
+  "slug": "press-coffee-sprouts-osborn-phoenix",
+  "name": "Press Coffee - Sprouts Osborn",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee roastery",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3320 N 7th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.486835899999996,
+  "lng": -112.08411369999999,
+  "phone": "+16026750766",
+  "website": "https://presscoffee.com/pages/location-sprouts-osborn",
+  "placeId": "ChIJFdHn1m0TK4cRx-G-7xqLt7E",
+  "googleRating": 4.5,
+  "googleReviewCount": 30,
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b930bd38d7c96264363a",
+  "seededAt": "2026-06-10T19:21:20Z",
+  "updatedAt": "2026-06-10T19:21:20Z",
+  "source": "groundgame"
+}

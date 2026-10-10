@@ -1,0 +1,36 @@
+{
+  "slug": "maru-espresso-bar-beverly-hills",
+  "name": "Maru Espresso Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "201 N Canon Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.0679143,
+  "lng": -118.3983858,
+  "website": "https://www.marucoffee.com/blogs/notes/maru-espresso-bar",
+  "placeId": "ChIJz-i1mVC7woARMfEq7XNCQ40",
+  "googleRating": 4.6,
+  "googleReviewCount": 271,
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abf5703da4e7e818fa9",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

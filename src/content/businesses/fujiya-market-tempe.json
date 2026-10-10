@@ -1,0 +1,51 @@
+{
+  "slug": "fujiya-market-tempe",
+  "name": "Fujiya Market",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese grocery store",
+  "secondaryCategories": [
+    "Supermarket"
+  ],
+  "address": "1335 W University Dr #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4212209,
+  "lng": -111.9600458,
+  "phone": "+14809681890",
+  "website": "http://fujiyamarket.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15229604416976197732",
+  "googleCid": "15229604416976197732",
+  "placeId": "ChIJMUf9zykPK4cRZBiW_4ZsWtM",
+  "googleRating": 4.7,
+  "googleReviewCount": 709,
+  "description": "No-frills Japanese grocery store also serving prepared foods like sushi & lunch boxes.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/Arizona-Sake-271441909978851"
+  ],
+  "hours": {
+    "fri": "12:00 PM - 6:00 PM",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "12:00 PM - 6:00 PM",
+    "mon": "Closed",
+    "tue": "12:00 PM - 6:00 PM",
+    "wed": "12:00 PM - 6:00 PM",
+    "thu": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24364c72197eb4c86fd209",
+  "seededAt": "2026-06-06T15:01:32Z",
+  "updatedAt": "2026-06-06T15:06:15Z",
+  "source": "groundgame"
+}

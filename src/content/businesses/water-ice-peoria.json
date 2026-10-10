@@ -1,0 +1,50 @@
+{
+  "slug": "water-ice-peoria",
+  "name": "Water & Ice",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Water mill"
+  ],
+  "address": "8390 W Cactus Rd #5206",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85381",
+  "lat": 33.596049,
+  "lng": -112.239791,
+  "phone": "+16238785428",
+  "website": "http://www.facebook.com/watericepeoriathrifys",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10596597280873897623",
+  "googleCid": "10596597280873897623",
+  "placeId": "ChIJNVHkSQhCK4cRl95bchWtDpM",
+  "googleRating": 4.3,
+  "googleReviewCount": 104,
+  "description": "Located in Peoria, Water & Ice is a casual ice cream shop & dessert shop with takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM",
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443a0e0a8f938c7782c35",
+  "seededAt": "2026-06-06T15:58:24Z",
+  "updatedAt": "2026-06-06T15:58:24Z",
+  "source": "groundgame"
+}

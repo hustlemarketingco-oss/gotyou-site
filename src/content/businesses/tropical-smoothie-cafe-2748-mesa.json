@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-2748-mesa",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Fast food restaurant",
+    "Breakfast restaurant",
+    "Cafe"
+  ],
+  "address": "2748 S Signal Butte Rd Suite 106",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.364886,
+  "lng": -111.60361300000001,
+  "phone": "+14805886911",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/mesa/2748-south-signal-butte-road?y_source=1_MTA5MDM2ODktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ0--pW7qxK4cRwlgtTYK1kio",
+  "googleRating": 4.4,
+  "googleReviewCount": 142,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4c2c76b6b0ed381bae4976",
+  "seededAt": "2026-07-06T22:30:14Z",
+  "updatedAt": "2026-07-06T22:30:14Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "mishas-european-food-market-phoenix",
+  "name": "Misha’s European Food Market",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Candy store",
+    "Cheese shop",
+    "Deli",
+    "Kosher grocery store",
+    "Grocery store",
+    "Newsstand",
+    "Supermarket"
+  ],
+  "address": "814 E Union Hills Dr C4",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85024",
+  "lat": 33.656139,
+  "lng": -112.062447,
+  "phone": "+16235800909",
+  "googleMapsUrl": "https://www.google.com/maps?cid=12307590586349075515",
+  "googleCid": "12307590586349075515",
+  "placeId": "ChIJZxzwqTNuK4cROzxHDG5Yzao",
+  "googleRating": 4.4,
+  "googleReviewCount": 198,
+  "description": "Market carrying Eastern European provisions, including smoked fish, baked goods & kosher items.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "10:00 AM - 6:00 PM",
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244329977211e77d175292",
+  "seededAt": "2026-06-06T15:56:25Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

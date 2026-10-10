@@ -1,0 +1,40 @@
+{
+  "slug": "the-foundry-scottsdale",
+  "name": "The Foundry Scottsdale",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sports complex",
+    "Gym",
+    "Sports school",
+    "Sports activity location"
+  ],
+  "address": "9301 E Shea Blvd Suite 121-122",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.5805158,
+  "lng": -111.88050489999999,
+  "phone": "+16028977170",
+  "website": "https://www.thefoundryyoga.com/",
+  "placeId": "ChIJ7297L0B1K4cRlQftkx8HIh0",
+  "googleRating": 4.7,
+  "googleReviewCount": 12,
+  "hours": {
+    "mon": "6:00 AM - 7:00 PM",
+    "tue": "6:00 AM - 7:00 PM",
+    "wed": "6:00 AM - 7:00 PM",
+    "thu": "6:00 AM - 7:00 PM",
+    "fri": "6:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 1:00 PM",
+    "sun": "7:00 AM - 1:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397e60b615c5bd5061c0cf",
+  "seededAt": "2026-06-22T18:26:40Z",
+  "updatedAt": "2026-06-22T18:26:40Z",
+  "source": "groundgame"
+}

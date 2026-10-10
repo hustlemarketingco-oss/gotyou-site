@@ -1,0 +1,62 @@
+{
+  "slug": "maya-day-night-scottsdale",
+  "name": "MAYA Day + Night",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Night club",
+    "Club",
+    "Dance club",
+    "Lounge bar",
+    "Outdoor swimming pool"
+  ],
+  "address": "7333 E Indian Plaza",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.501291,
+  "lng": -111.9228153,
+  "phone": "+14806740492",
+  "website": "https://mayaclubaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2389648987948883387",
+  "googleCid": "2389648987948883387",
+  "placeId": "ChIJWQAPh7wLK4cRu52Q-Be9KSE",
+  "googleRating": 3.8,
+  "googleReviewCount": 1374,
+  "priceRange": "$100+",
+  "description": "Indoor/outdoor club with a Las Vegas vibe offering daytime pool parties, bottle service & DJ nights.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking garage",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/mayadayclub"
+  ],
+  "hours": {
+    "fri": "8:00 PM - 2:00 AM",
+    "sat": "12:00 PM - 2:00 AM",
+    "sun": "12:00 PM - 2:00 AM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "8:00 PM - 2:00 AM",
+    "thu": "8:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b982d5d5c5aa239dc2b",
+  "seededAt": "2026-06-06T15:24:08Z",
+  "updatedAt": "2026-06-23T03:47:59Z",
+  "source": "groundgame"
+}

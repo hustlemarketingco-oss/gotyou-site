@@ -1,0 +1,44 @@
+{
+  "slug": "taco-nazo-tempe",
+  "name": "Taco Nazo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Burrito restaurant",
+    "Meal takeaway"
+  ],
+  "address": "1405 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3918452,
+  "lng": -111.9615046,
+  "phone": "+14809020828",
+  "placeId": "ChIJ4TgDsU8PK4cR53vLqRZYAiA",
+  "googleRating": 4.4,
+  "googleReviewCount": 636,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d48e0cf1b1fe2f0a1bd",
+  "seededAt": "2026-06-12T14:52:56Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "by-the-bucket-mesa",
+  "name": "By the Bucket",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Fast food restaurant",
+    "Family restaurant",
+    "Sandwich shop",
+    "Food delivery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "454 N Lindsay Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85213",
+  "lat": 33.424188799999996,
+  "lng": -111.771467,
+  "phone": "+14808683724",
+  "website": "https://crazy-spaghetti.com/",
+  "placeId": "ChIJg72kusKnK4cR3YkyglgnGX8",
+  "googleRating": 4.7,
+  "googleReviewCount": 332,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "4:00 PM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a331fc590791d18cb823394",
+  "seededAt": "2026-06-17T22:29:25Z",
+  "updatedAt": "2026-06-17T22:29:26Z",
+  "source": "groundgame"
+}

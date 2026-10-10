@@ -1,0 +1,33 @@
+{
+  "slug": "east-bite-mediterranean-cuisine-phoenix",
+  "name": "East Bite Mediterranean Cuisine",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "101 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4655726,
+  "lng": -112.0722753,
+  "phone": "+16026868935",
+  "website": "https://www.eastbitephoenix.com/",
+  "placeId": "ChIJd_dHyb8TK4cRvdJBypAYf0A",
+  "googleRating": 4.9,
+  "googleReviewCount": 119,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343805bcf885306bff046e",
+  "seededAt": "2026-06-18T18:25:09Z",
+  "updatedAt": "2026-06-18T18:25:10Z",
+  "source": "groundgame"
+}

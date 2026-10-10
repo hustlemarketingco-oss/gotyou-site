@@ -1,0 +1,34 @@
+{
+  "slug": "tortoise-tea-house-phoenix",
+  "name": "Tortoise Tea House",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "address": "2418 E Greenway Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "phone": "+16026122363",
+  "description": "Located in Phoenix, Tortoise Tea House is a tea house with takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/tortoiseteahouse"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24433c0fb32b4830c5acbe",
+  "seededAt": "2026-06-06T15:56:44Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

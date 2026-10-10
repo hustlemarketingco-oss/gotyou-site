@@ -1,0 +1,49 @@
+{
+  "slug": "sams-club-bakery-tempe",
+  "name": "Sam's Club Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Wholesale bakery"
+  ],
+  "address": "2080 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4310966,
+  "lng": -111.8993375,
+  "phone": "+14806061808",
+  "website": "https://www.samsclub.com/club/4956-tempe-az/bakery",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14302807403464244248",
+  "googleCid": "14302807403464244248",
+  "placeId": "ChIJf-X75ukJK4cRGDxQzo3HfcY",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "description": "Located in Tempe, Sam's Club Bakery is a bakery & wholesale bakery with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 8:00 PM",
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439c014b1508e260c7186",
+  "seededAt": "2026-06-06T15:16:16Z",
+  "updatedAt": "2026-06-06T15:16:16Z",
+  "source": "groundgame"
+}

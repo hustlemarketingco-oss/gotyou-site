@@ -1,0 +1,42 @@
+{
+  "slug": "flower-child-5013-phoenix",
+  "name": "Flower Child",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Catering service",
+    "Vegetarian restaurant",
+    "Salad shop",
+    "Food delivery",
+    "Family restaurant"
+  ],
+  "address": "5013 N 44th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.5103333,
+  "lng": -111.9862806,
+  "phone": "+16024296222",
+  "website": "https://www.iamaflowerchild.com/locations/phoenix-az-arcadia/",
+  "placeId": "ChIJuYlv9fAMK4cRofVecDmQP1Y",
+  "googleRating": 4.6,
+  "googleReviewCount": 1253,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4bfa84e6f368b4c3e5650a",
+  "seededAt": "2026-07-06T18:57:08Z",
+  "updatedAt": "2026-07-06T18:57:09Z",
+  "source": "groundgame"
+}

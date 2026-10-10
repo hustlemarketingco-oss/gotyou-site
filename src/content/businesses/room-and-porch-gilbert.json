@@ -1,0 +1,36 @@
+{
+  "slug": "room-and-porch-gilbert",
+  "name": "Room and Porch",
+  "category": "Shopping",
+  "googleCategory": "Home goods store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "2212 E Williams Field Rd #110",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.309515999999995,
+  "lng": -111.74249979999999,
+  "phone": "+16028445773",
+  "website": "http://www.roomandporch.com/",
+  "placeId": "ChIJfyVAewetK4cRYs2S7N2AUlc",
+  "googleRating": 4.8,
+  "googleReviewCount": 33,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1c4fa6d8c9799c830fb8",
+  "seededAt": "2026-06-12T14:48:47Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "zs-greek-phoenix",
+  "name": "Z's Greek",
+  "category": "Restaurant",
+  "googleCategory": "Greek restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4026 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.495402399999996,
+  "lng": -111.9940599,
+  "phone": "+16029557600",
+  "website": "http://zsgreek.com/",
+  "placeId": "ChIJM4NP_VMMK4cRzrYGZc9uer0",
+  "googleRating": 4.6,
+  "googleReviewCount": 1597,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c2f54985f8ea5ece084",
+  "seededAt": "2026-06-22T19:25:35Z",
+  "updatedAt": "2026-06-22T19:25:35Z",
+  "source": "groundgame"
+}

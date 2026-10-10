@@ -1,0 +1,49 @@
+{
+  "slug": "market-cafe-tempe",
+  "name": "Market Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "American restaurant",
+    "Brunch restaurant",
+    "Cafe",
+    "Breakfast restaurant",
+    "Lunch restaurant"
+  ],
+  "address": "2000 W Westcourt Way",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "phone": "+16022259000",
+  "priceRange": "$20–30",
+  "description": "Cafe in a Marriott Hotel offering American fare & a weekend Bloody Mary bar, plus scenic views.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Quick bite",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/TheButtesTempe"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243955a02ffd0691ee71a4",
+  "seededAt": "2026-06-06T15:14:29Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

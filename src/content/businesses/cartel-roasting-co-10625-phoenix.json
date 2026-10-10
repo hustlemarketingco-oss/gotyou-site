@@ -1,0 +1,36 @@
+{
+  "slug": "cartel-roasting-co-10625-phoenix",
+  "name": "Cartel Roasting Co",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "10625 N Tatum Blvd Ste 104",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "lat": 33.5835119,
+  "lng": -111.97649229999999,
+  "website": "https://cartelroasting.co/locations/",
+  "placeId": "ChIJvd5rzyZzK4cR_Ri5VgExDyE",
+  "googleRating": 4.4,
+  "googleReviewCount": 75,
+  "hours": {
+    "mon": "6:00 AM - 4:00 PM",
+    "tue": "6:00 AM - 4:00 PM",
+    "wed": "6:00 AM - 4:00 PM",
+    "thu": "6:00 AM - 4:00 PM",
+    "fri": "6:00 AM - 4:00 PM",
+    "sat": "6:00 AM - 4:00 PM",
+    "sun": "6:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f8ab333bad9bd46e448",
+  "seededAt": "2026-06-18T17:48:58Z",
+  "updatedAt": "2026-06-18T17:48:59Z",
+  "source": "groundgame"
+}

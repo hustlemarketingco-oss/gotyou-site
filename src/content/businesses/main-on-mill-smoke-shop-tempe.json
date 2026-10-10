@@ -1,0 +1,53 @@
+{
+  "slug": "main-on-mill-smoke-shop-tempe",
+  "name": "Main On Mill Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Smoke shop",
+  "secondaryCategories": [
+    "Candle store",
+    "Candy store",
+    "Cigar shop",
+    "Clothing store",
+    "Convenience store",
+    "Glass shop",
+    "Hookah store",
+    "Tobacco shop"
+  ],
+  "address": "33 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3926098,
+  "lng": -111.9407201,
+  "phone": "+14805576653",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11646679503481922314",
+  "googleCid": "11646679503481922314",
+  "placeId": "ChIJFQzAz68IK4cRCuPcOU1RoaE",
+  "googleRating": 4.4,
+  "googleReviewCount": 548,
+  "description": "Neighborhood tobacco store that's open late & features cigarettes, hookahs, pipes & accessories.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 12:00 AM",
+    "sat": "8:00 AM - 12:00 AM",
+    "sun": "8:00 AM - 12:00 AM",
+    "mon": "8:00 AM - 12:00 AM",
+    "tue": "8:00 AM - 12:00 AM",
+    "wed": "8:00 AM - 12:00 AM",
+    "thu": "8:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243992d7deed9903d11450",
+  "seededAt": "2026-06-06T15:15:30Z",
+  "updatedAt": "2026-06-06T15:15:30Z",
+  "source": "groundgame"
+}

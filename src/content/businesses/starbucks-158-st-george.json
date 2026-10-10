@@ -1,0 +1,40 @@
+{
+  "slug": "starbucks-158-st-george",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Internet cafe",
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "158 Red Cliffs Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.11082,
+  "lng": -113.55396999999999,
+  "phone": "+14356738320",
+  "website": "https://www.starbucks.com/store-locator/store/11703/",
+  "placeId": "ChIJiSJduSNbyoAROqvWu0EOYBU",
+  "googleRating": 3.9,
+  "googleReviewCount": 862,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7d19e6d35f380eb708",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

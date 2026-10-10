@@ -1,0 +1,41 @@
+{
+  "slug": "the-flower-cart-scottsdale",
+  "name": "The Flower Cart",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Gift shop",
+    "Pet care",
+    "Home goods store",
+    "Wholesaler",
+    "Farm"
+  ],
+  "address": "2515 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4753889,
+  "lng": -111.92538549999999,
+  "phone": "+14809453101",
+  "website": "http://www.theflowercart.org/",
+  "placeId": "ChIJt_dwLWcJK4cRwdiq65Z9yY4",
+  "googleRating": 5,
+  "googleReviewCount": 531,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "11:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e1fa9d23908b33234426",
+  "seededAt": "2026-06-17T18:05:46Z",
+  "updatedAt": "2026-07-02T06:29:12Z",
+  "source": "groundgame"
+}

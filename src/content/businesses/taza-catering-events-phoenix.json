@@ -1,0 +1,41 @@
+{
+  "slug": "taza-catering-events-phoenix",
+  "name": "Taza Catering & Events",
+  "category": "Restaurant",
+  "googleCategory": "Caterer",
+  "secondaryCategories": [
+    "Event planner",
+    "Mobile caterer"
+  ],
+  "address": "910 W Jackson St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85007",
+  "phone": "+14808422275",
+  "priceRange": "$$",
+  "description": "Taza Catering & Events is a Phoenix caterer & event planner known for takeout & delivery. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/TazaCateringEvents"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244fcddce8d08d8620d05b",
+  "seededAt": "2026-06-06T16:50:21Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

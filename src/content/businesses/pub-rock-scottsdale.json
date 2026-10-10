@@ -1,0 +1,52 @@
+{
+  "slug": "pub-rock-scottsdale",
+  "name": "Pub Rock",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "8005 E Roosevelt St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4577445,
+  "lng": -111.9081615,
+  "phone": "+14809454985",
+  "website": "http://www.pubrocklive.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3471501552915442145",
+  "googleCid": "3471501552915442145",
+  "placeId": "ChIJF6zwMHQJK4cR4em9AkVALTA",
+  "googleRating": 4.3,
+  "googleReviewCount": 746,
+  "priceRange": "$10–20",
+  "description": "This cavernous, no-frills choice for concerts features a full bar & weekend sports on TV.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://instagram.com/pubrocklive"
+  ],
+  "hours": {
+    "fri": "12:00 PM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "12:00 PM - 2:00 AM",
+    "mon": "12:00 PM - 2:00 AM",
+    "tue": "12:00 PM - 2:00 AM",
+    "wed": "12:00 PM - 2:00 AM",
+    "thu": "12:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b9315cf070c543aebc5",
+  "seededAt": "2026-06-06T15:24:03Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

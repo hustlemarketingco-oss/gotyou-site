@@ -1,0 +1,36 @@
+{
+  "slug": "cala-scottsdale",
+  "name": "Cala Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7501 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5018806,
+  "lng": -111.9198516,
+  "phone": "+16022412742",
+  "website": "https://www.calascottsdale.com/",
+  "placeId": "ChIJWTvP6m8LK4cRSowZv8e3kyk",
+  "googleRating": 4.5,
+  "googleReviewCount": 2294,
+  "hours": {
+    "mon": "7:00 AM - 11:00 PM",
+    "tue": "7:00 AM - 11:00 PM",
+    "wed": "7:00 AM - 11:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "7:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2753644b169d3a4cb3c7df",
+  "seededAt": "2026-06-08T23:42:28Z",
+  "updatedAt": "2026-06-30T12:54:38Z",
+  "source": "groundgame"
+}

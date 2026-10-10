@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-10637-phoenix",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "10637 N Tatum Blvd Ste 101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "lat": 33.5840897,
+  "lng": -111.97681899999999,
+  "phone": "+16025956020",
+  "website": "https://eatatovereasy.com/locations/paradise-valley/",
+  "placeId": "ChIJs_e0qAxzK4cRByBf9GNRJXs",
+  "googleRating": 4.5,
+  "googleReviewCount": 686,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3039fbf2a7c6cb5c48dc14",
+  "seededAt": "2026-06-15T17:44:27Z",
+  "updatedAt": "2026-06-15T17:44:27Z",
+  "source": "groundgame"
+}

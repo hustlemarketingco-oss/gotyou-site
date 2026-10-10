@@ -1,0 +1,49 @@
+{
+  "slug": "pepperwood-water-ice-cream-tempe",
+  "name": "Pepperwood Water & Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Ice supplier"
+  ],
+  "address": "805 W Baseline Rd #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3772971,
+  "lng": -111.9515532,
+  "phone": "+14805805738",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16370186596494503817",
+  "googleCid": "16370186596494503817",
+  "placeId": "ChIJpVWilwAGK4cRiW_q_vmVLuM",
+  "googleRating": 4.7,
+  "googleReviewCount": 112,
+  "priceRange": "$",
+  "description": "Located in Tempe, Pepperwood Water & Ice Cream is a casual ice cream shop & ice supplier with takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "10:00 AM - 8:30 PM",
+    "sun": "10:00 AM - 8:30 PM",
+    "mon": "10:00 AM - 8:30 PM",
+    "tue": "10:00 AM - 8:30 PM",
+    "wed": "10:00 AM - 8:30 PM",
+    "thu": "10:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24361e0b98a5af8d9a9954",
+  "seededAt": "2026-06-06T15:00:46Z",
+  "updatedAt": "2026-06-06T15:00:46Z",
+  "source": "groundgame"
+}

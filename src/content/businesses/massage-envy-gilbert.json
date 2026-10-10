@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-gilbert",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "865 N Gilbert Rd Ste 102-103",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.366133399999995,
+  "lng": -111.789272,
+  "phone": "+14805307282",
+  "website": "https://locations.massageenvy.com/arizona/gilbert/865-north-gilbert-rd.html",
+  "placeId": "ChIJZQF2Qh6pK4cRbUlMddd-Vvo",
+  "googleRating": 4.6,
+  "googleReviewCount": 537,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e637fd9cc5e91c0fde5b",
+  "seededAt": "2026-06-17T18:23:51Z",
+  "updatedAt": "2026-06-17T18:23:52Z",
+  "source": "groundgame"
+}

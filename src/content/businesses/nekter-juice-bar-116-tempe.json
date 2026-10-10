@@ -1,0 +1,48 @@
+{
+  "slug": "nekter-juice-bar-116-tempe",
+  "name": "Nekter Juice Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Vegan restaurant",
+    "Health food store",
+    "Vegetarian restaurant",
+    "Acai shop",
+    "Brazilian restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "116 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422151899999996,
+  "lng": -111.93705179999999,
+  "phone": "+14804013897",
+  "website": "https://locations.nekterjuicebar.com/ll/us/az/tempe/116-e-university-dr-ste-103/",
+  "placeId": "ChIJWwu1omMJK4cRwGVTxYlO6hE",
+  "googleRating": 3.4,
+  "googleReviewCount": 104,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Cash"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3583a20038fb15d736459a",
+  "seededAt": "2026-06-19T18:00:02Z",
+  "updatedAt": "2026-08-06T19:33:34Z",
+  "source": "groundgame"
+}

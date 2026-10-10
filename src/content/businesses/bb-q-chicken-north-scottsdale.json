@@ -1,0 +1,33 @@
+{
+  "slug": "bb-q-chicken-north-scottsdale",
+  "name": "bb.q Chicken North Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "15689 Hayden Rd #127",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6280942,
+  "lng": -111.8915645,
+  "phone": "+16025817520",
+  "website": "https://bbqchicken.com/",
+  "placeId": "ChIJ87E72vZ1K4cRQH8yOEDH_xo",
+  "googleRating": 4.7,
+  "googleReviewCount": 87,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766c7eb6e7bb6dbce0e29",
+  "seededAt": "2026-06-09T01:05:11Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

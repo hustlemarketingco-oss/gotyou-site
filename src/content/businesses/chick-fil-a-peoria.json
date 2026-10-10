@@ -1,0 +1,41 @@
+{
+  "slug": "chick-fil-a-peoria",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "16657 N 83rd Ave",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.6358299,
+  "lng": -112.2329643,
+  "phone": "+16238780885",
+  "website": "https://www.chick-fil-a.com/locations/az/arrowhead",
+  "placeId": "ChIJPw5wzChoK4cR-v1IjS-1IqQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 3417,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 10:00 PM",
+    "tue": "6:30 AM - 10:00 PM",
+    "wed": "6:30 AM - 10:00 PM",
+    "thu": "6:30 AM - 10:00 PM",
+    "fri": "6:30 AM - 10:00 PM",
+    "sat": "6:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b19600fa67bf19c6918",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-06-12T14:43:37Z",
+  "source": "groundgame"
+}

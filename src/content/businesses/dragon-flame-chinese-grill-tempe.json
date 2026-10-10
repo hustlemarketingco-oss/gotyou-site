@@ -1,0 +1,39 @@
+{
+  "slug": "dragon-flame-chinese-grill-tempe",
+  "name": "Dragon Flame Chinese Grill 龙焱烧烤",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Ramen restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "909 E Lemon St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4165547,
+  "lng": -111.92549059999999,
+  "phone": "+16028033800",
+  "website": "https://www.dragonflame.us/",
+  "placeId": "ChIJ4zMk1-4IK4cReN3nM6hiMrA",
+  "googleRating": 4.6,
+  "googleReviewCount": 3713,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3edc8a0de20ff34c6ba944",
+  "seededAt": "2026-06-26T20:09:46Z",
+  "updatedAt": "2026-06-26T20:09:46Z",
+  "source": "groundgame"
+}

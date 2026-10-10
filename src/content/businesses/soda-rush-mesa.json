@@ -1,0 +1,43 @@
+{
+  "slug": "soda-rush-mesa",
+  "name": "Soda Rush",
+  "category": "Shopping",
+  "googleCategory": "Soft drinks shop",
+  "secondaryCategories": [
+    "Cookie shop",
+    "Dessert shop"
+  ],
+  "address": "4202 E Main St",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85205",
+  "lat": 33.415794,
+  "lng": -111.7405755,
+  "phone": "+14806419774",
+  "website": "http://sodarush.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=9413501868188806233",
+  "googleCid": "9413501868188806233",
+  "placeId": "ChIJpVNQuDCvK4cRWazeARN6o4I",
+  "googleRating": 4.4,
+  "googleReviewCount": 118,
+  "priceRange": "$1–10",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/sodarushaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b5e37c58ddd8f5a6b4d",
+  "seededAt": "2026-06-08T04:55:58Z",
+  "updatedAt": "2026-06-08T04:55:58Z",
+  "source": "groundgame"
+}

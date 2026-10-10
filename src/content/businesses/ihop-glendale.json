@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-glendale",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "6601 W Peoria Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85302",
+  "lat": 33.5813629,
+  "lng": -112.20063209999999,
+  "phone": "+16238789631",
+  "website": "https://restaurants.ihop.com/en-us/az/glendale/breakfast-6601-w-peoria-ave-1504",
+  "placeId": "ChIJSz4OuS9qK4cRg8z-kfQraLQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 4015,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddf043ee24b3339ed7b3",
+  "seededAt": "2026-06-17T17:48:32Z",
+  "updatedAt": "2026-06-17T17:48:33Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "kandy-shop-creations-mesa",
+  "name": "Kandy Shop Creations",
+  "category": "Shopping",
+  "googleCategory": "Car repair",
+  "secondaryCategories": [
+    "Service"
+  ],
+  "address": "555 W 2nd Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.4109767,
+  "lng": -111.84372259999999,
+  "phone": "+16029093496",
+  "website": "http://www.kandyshopcreations.com/",
+  "placeId": "ChIJxX-5auWnK4cReS3b-WtW7tE",
+  "googleRating": 4.9,
+  "googleReviewCount": 26,
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435916ab78e8688418e0f",
+  "seededAt": "2026-06-18T18:14:41Z",
+  "updatedAt": "2026-06-18T18:14:41Z",
+  "source": "groundgame"
+}

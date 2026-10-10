@@ -1,0 +1,37 @@
+{
+  "slug": "toscana-wood-fired-italian-scottsdale",
+  "name": "Toscana - Wood Fired Italian",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Steak house"
+  ],
+  "address": "16580 N 92nd St #100",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6367931,
+  "lng": -111.8830517,
+  "phone": "+14805977160",
+  "website": "http://toscanascottsdale.com/",
+  "placeId": "ChIJcVwWLAB1K4cRAKVGZJ6X8f0",
+  "googleRating": 4.7,
+  "googleReviewCount": 114,
+  "hours": {
+    "mon": "Closed",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "5:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276630160a80abdc89b9ee",
+  "seededAt": "2026-06-09T01:02:40Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

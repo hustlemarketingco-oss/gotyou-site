@@ -1,0 +1,40 @@
+{
+  "slug": "gypsys-roadhouse-phoenix",
+  "name": "Gypsy's Roadhouse",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar and grill",
+  "secondaryCategories": [
+    "Night club",
+    "Karaoke",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "5122 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4658926,
+  "lng": -111.97111070000001,
+  "phone": "+16022869251",
+  "website": "https://gypsysroadhouse.com/",
+  "placeId": "ChIJCdDKkR4MK4cRigAokzDShSc",
+  "googleRating": 4.4,
+  "googleReviewCount": 657,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1e524a82fdf1deae4a86",
+  "seededAt": "2026-06-12T14:57:22Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

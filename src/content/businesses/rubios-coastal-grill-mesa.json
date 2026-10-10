@@ -1,0 +1,49 @@
+{
+  "slug": "rubios-coastal-grill-mesa",
+  "name": "Rubio's Coastal Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Seafood restaurant",
+    "Burrito restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "937 N Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4339522,
+  "lng": -111.8677084,
+  "phone": "+14809693035",
+  "website": "https://www.rubios.com/restaurant-locations/arizona/mesa-dobson-rd",
+  "placeId": "ChIJ7dYY_D0IK4cR_AZ2Lp2koIA",
+  "googleRating": 4.1,
+  "googleReviewCount": 947,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39744185d312cfb8c3c863",
+  "seededAt": "2026-06-22T17:43:29Z",
+  "updatedAt": "2026-07-17T19:19:16Z",
+  "source": "groundgame"
+}

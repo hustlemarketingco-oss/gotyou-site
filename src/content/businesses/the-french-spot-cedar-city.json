@@ -1,0 +1,43 @@
+{
+  "slug": "the-french-spot-cedar-city",
+  "name": "The French Spot",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Brunch restaurant",
+    "Bakery",
+    "Dessert shop",
+    "Confectionery",
+    "French restaurant",
+    "Food store"
+  ],
+  "address": "18 S Main St",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.6766769,
+  "lng": -113.0619969,
+  "phone": "+14352630586",
+  "website": "https://www.thefrenchspotcafe.com/",
+  "placeId": "ChIJmxG-QLphtYARMd4goFT1E4k",
+  "googleRating": 4.5,
+  "googleReviewCount": 800,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f1ee09d81028032f58",
+  "seededAt": "2025-12-17T18:39:45Z",
+  "updatedAt": "2025-12-17T18:39:45Z",
+  "source": "groundgame"
+}

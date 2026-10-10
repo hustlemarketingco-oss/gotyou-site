@@ -1,0 +1,39 @@
+{
+  "slug": "cast-iron-grill-bar-suisun-city",
+  "name": "Cast Iron Grill & Bar",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Bar and grill",
+    "Bar"
+  ],
+  "address": "700 Main St Suite 104",
+  "city": "Suisun City",
+  "state": "CA",
+  "zip": "94585",
+  "lat": 38.2382011,
+  "lng": -122.0400848,
+  "phone": "+17074251700",
+  "website": "http://www.castirongrillandbar.com/",
+  "placeId": "ChIJ5e7K5VIUhYARFIn8b87Z2YU",
+  "googleRating": 4.3,
+  "googleReviewCount": 1405,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 8:00 PM",
+    "tue": "11:30 AM - 8:00 PM",
+    "wed": "11:30 AM - 8:00 PM",
+    "thu": "11:30 AM - 8:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "9:30 AM - 9:00 PM",
+    "sun": "9:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472e1f6631bbef5a449a",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

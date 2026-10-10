@@ -1,0 +1,35 @@
+{
+  "slug": "hive-fit-club-scottsdale",
+  "name": "Hive Fit Club",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Iv therapy service",
+    "Wellness center"
+  ],
+  "address": "8275 N Pima Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "phone": "+14804767400",
+  "description": "Located in Scottsdale, Hive Fit Club is a shower fitness center & iv therapy service with sauna.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/thehivefitclub"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243bbdf30da85ae82305c0",
+  "seededAt": "2026-06-06T15:24:45Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

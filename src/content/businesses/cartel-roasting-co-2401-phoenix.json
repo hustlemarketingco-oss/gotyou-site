@@ -1,0 +1,36 @@
+{
+  "slug": "cartel-roasting-co-2401-phoenix",
+  "name": "Cartel Roasting Co",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2401 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.508473099999996,
+  "lng": -112.02947259999999,
+  "website": "https://cartelroasting.co/locations/",
+  "placeId": "ChIJcXyXHaQNK4cRkhAqfWiq1TE",
+  "googleRating": 4.5,
+  "googleReviewCount": 18,
+  "hours": {
+    "mon": "5:30 AM - 2:00 PM",
+    "tue": "5:30 AM - 2:00 PM",
+    "wed": "5:30 AM - 2:00 PM",
+    "thu": "5:30 AM - 2:00 PM",
+    "fri": "5:30 AM - 2:00 PM",
+    "sat": "5:30 AM - 2:00 PM",
+    "sun": "5:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f89f3abf7c681e1e141",
+  "seededAt": "2026-06-18T17:48:57Z",
+  "updatedAt": "2026-06-18T17:48:58Z",
+  "source": "groundgame"
+}

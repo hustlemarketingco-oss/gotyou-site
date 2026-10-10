@@ -1,0 +1,40 @@
+{
+  "slug": "fellow-osteria-pizzeria-scottsdale",
+  "name": "Fellow Osteria & Pizzeria",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Lounge bar",
+    "Night club",
+    "Pizza restaurant",
+    "Bar"
+  ],
+  "address": "1455 N Scottsdale Rd Suite 100",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4641671,
+  "lng": -111.9257914,
+  "phone": "+14802071864",
+  "website": "https://www.fellowosteria.com/",
+  "placeId": "ChIJX2TQb_MJK4cRqOWLYx2-2-g",
+  "googleRating": 4.4,
+  "googleReviewCount": 698,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "3:00 PM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2726b15dd87f274ba2091a",
+  "seededAt": "2026-06-08T20:31:45Z",
+  "updatedAt": "2026-07-08T21:40:08Z",
+  "source": "groundgame"
+}

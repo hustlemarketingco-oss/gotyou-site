@@ -1,0 +1,37 @@
+{
+  "slug": "nellos-ahwatukee-phoenix",
+  "name": "Nello's Ahwatukee",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4710 E Warner Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3313215,
+  "lng": -111.98266369999999,
+  "phone": "+14808938930",
+  "website": "https://www.nellospizza.com/",
+  "placeId": "ChIJG2hpl0wEK4cRL33S1D4cm-4",
+  "googleRating": 4.6,
+  "googleReviewCount": 1626,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4e907d7711d3cbb16f8c1d",
+  "seededAt": "2026-07-08T18:01:33Z",
+  "updatedAt": "2026-07-08T18:01:34Z",
+  "source": "groundgame"
+}

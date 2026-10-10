@@ -1,0 +1,39 @@
+{
+  "slug": "mojo-yogurt-tempe",
+  "name": "Mojo Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.43279,
+  "lng": -111.904761,
+  "phone": "+14809686493",
+  "website": "http://www.mojoyogurt.com/",
+  "placeId": "ChIJq3vqPlQIK4cRVECzWm-uD2U",
+  "googleRating": 4,
+  "googleReviewCount": 338,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d20a5dc36c7b9f163e",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

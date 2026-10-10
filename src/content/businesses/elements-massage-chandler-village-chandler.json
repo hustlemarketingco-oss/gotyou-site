@@ -1,0 +1,39 @@
+{
+  "slug": "elements-massage-chandler-village-chandler",
+  "name": "Elements Massage Chandler Village",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Massage",
+    "Beauty salon",
+    "Spa"
+  ],
+  "address": "3431 W Frye Rd Ste 6",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.295801,
+  "lng": -111.90089689999999,
+  "phone": "+14809174880",
+  "website": "https://elementsmassage.com/chandler-village",
+  "placeId": "ChIJ_20CEtcAK4cRdyiO4ST4nYg",
+  "googleRating": 4.6,
+  "googleReviewCount": 418,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a6dfad05b29b452aa5d",
+  "seededAt": "2026-06-22T18:09:49Z",
+  "updatedAt": "2026-06-22T18:09:49Z",
+  "source": "groundgame"
+}

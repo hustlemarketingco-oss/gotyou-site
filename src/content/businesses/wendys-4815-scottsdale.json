@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-4815-scottsdale",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "4815 N Pima Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5071857,
+  "lng": -111.8910554,
+  "phone": "+14809451445",
+  "website": "https://locations.wendys.com/united-states/az/scottsdale/4815-n-pima-road",
+  "placeId": "ChIJVzy1CkUKK4cRL-etjFfoajs",
+  "googleRating": 3.8,
+  "googleReviewCount": 1066,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 12:00 AM",
+    "tue": "6:30 AM - 12:00 AM",
+    "wed": "6:30 AM - 12:00 AM",
+    "thu": "6:30 AM - 12:00 AM",
+    "fri": "6:30 AM - 12:00 AM",
+    "sat": "6:30 AM - 12:00 AM",
+    "sun": "6:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dcd2e62391cb9b86506",
+  "seededAt": "2026-06-12T14:55:09Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

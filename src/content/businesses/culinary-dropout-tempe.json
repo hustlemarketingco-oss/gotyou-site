@@ -1,0 +1,43 @@
+{
+  "slug": "culinary-dropout-tempe",
+  "name": "Culinary Dropout",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Brunch restaurant",
+    "Hamburger restaurant",
+    "Bar",
+    "Live music venue",
+    "Food store",
+    "Event venue"
+  ],
+  "address": "149 S Farmer Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4286913,
+  "lng": -111.9440252,
+  "phone": "+14802401601",
+  "website": "https://www.culinarydropout.com/locations/tempe-az/",
+  "placeId": "ChIJR1oNBSkJK4cRQS7VirCYfGU",
+  "googleRating": 4.4,
+  "googleReviewCount": 8868,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397b2afa8c18622aa39613",
+  "seededAt": "2026-06-22T18:12:58Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

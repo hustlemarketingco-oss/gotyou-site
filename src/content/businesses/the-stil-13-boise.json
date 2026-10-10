@@ -1,0 +1,39 @@
+{
+  "slug": "the-stil-13-boise",
+  "name": "The STIL",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "13 S Latah St Suite 101",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83705",
+  "lat": 43.6040856,
+  "lng": -116.22890489999999,
+  "phone": "+12089927046",
+  "website": "http://www.ilovethestil.com/",
+  "placeId": "ChIJi7ira2b5rlQRBEEqXr3vJaM",
+  "googleRating": 4.8,
+  "googleReviewCount": 247,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 9:30 PM",
+    "tue": "12:00 PM - 9:30 PM",
+    "wed": "12:00 PM - 9:30 PM",
+    "thu": "12:00 PM - 9:30 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 9:30 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694260064e6d155a5c0477cc",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

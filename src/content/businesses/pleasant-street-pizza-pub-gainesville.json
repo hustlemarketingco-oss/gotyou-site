@@ -1,0 +1,36 @@
+{
+  "slug": "pleasant-street-pizza-pub-gainesville",
+  "name": "Pleasant Street Pizza Pub",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "603 NW 6th St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.6565641,
+  "lng": -82.3303354,
+  "phone": "+13525055777",
+  "website": "https://order.toasttab.com/online/tbd-munecas-new-concept-603-northwest-6th-street",
+  "placeId": "ChIJQ2F6FACj6IgRtnk4dFPKFDc",
+  "googleRating": 4.8,
+  "googleReviewCount": 98,
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f5b9fcd320b049fa9",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

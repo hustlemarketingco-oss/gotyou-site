@@ -1,0 +1,38 @@
+{
+  "slug": "barros-pizza-8940-scottsdale",
+  "name": "Barro's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Italian restaurant"
+  ],
+  "address": "8940 E Indian Bend Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.540252599999995,
+  "lng": -111.88949749999999,
+  "phone": "+14803026555",
+  "website": "https://barrospizza.com/",
+  "placeId": "ChIJFXuifpMKK4cRpDs_OSNZ8XE",
+  "googleRating": 4.3,
+  "googleReviewCount": 950,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276555da1ab08ece12f698",
+  "seededAt": "2026-06-09T00:59:01Z",
+  "updatedAt": "2026-06-12T22:03:06Z",
+  "source": "groundgame"
+}

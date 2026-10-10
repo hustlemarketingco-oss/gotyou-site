@@ -1,0 +1,35 @@
+{
+  "slug": "bella-maries-pizzeria-and-restaurant-st-george",
+  "name": "Bella Marie's Pizzeria and Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "757 N Bluff St",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "phone": "+14356283336",
+  "website": "https://bellamariespizzeria.com/",
+  "placeId": "ChIJJ-VOkBpFyoAR1_okPTe98X4",
+  "googleRating": 4.1,
+  "googleReviewCount": 939,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dcbc5553584e372858",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

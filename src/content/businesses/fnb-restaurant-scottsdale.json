@@ -1,0 +1,51 @@
+{
+  "slug": "fnb-restaurant-scottsdale",
+  "name": "FnB Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Fine dining restaurant",
+    "Gastropub"
+  ],
+  "address": "7125 E 5th Ave #31",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14802844777",
+  "priceRange": "$50–100",
+  "description": "Gastropub offering refined, farm-to-table New American fare & local wines in intimate environs.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Organic dishes",
+    "Vegan options",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/FnBScottsdale"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e912dca9839df97724c",
+  "seededAt": "2026-06-06T15:36:49Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "manhattan-pizza-gainesville",
+  "name": "Manhattan Pizza Gainesville",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "13841 Heathcote Blvd Unit 100",
+  "city": "Gainesville",
+  "state": "VA",
+  "zip": "20155",
+  "lat": 38.8086876,
+  "lng": -77.6106879,
+  "phone": "+15716369900",
+  "website": "https://manhattanpizza.com/locations/gainesville/",
+  "placeId": "ChIJC9mXjydntokRp8nlcnJPeKI",
+  "googleRating": 4.6,
+  "googleReviewCount": 296,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69603430062176921ec26395",
+  "seededAt": "2026-01-08T22:48:16Z",
+  "updatedAt": "2026-01-08T22:48:16Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "pizza-hut-4970-chandler",
+  "name": "Pizza Hut",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Pizza takeout"
+  ],
+  "address": "4970 S Gilbert Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85249",
+  "phone": "+14808837815",
+  "priceRange": "$10–20",
+  "description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/PizzaHut"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26458ccdbffed2c1c13431",
+  "seededAt": "2026-06-08T04:31:08Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

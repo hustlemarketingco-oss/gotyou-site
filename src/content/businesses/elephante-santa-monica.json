@@ -1,0 +1,36 @@
+{
+  "slug": "elephante-santa-monica",
+  "name": "Élephante",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1332 2nd St Rooftop",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90401",
+  "lat": 34.0152447,
+  "lng": -118.4979996,
+  "phone": "+14243202384",
+  "website": "https://www.elephanterestaurants.com/",
+  "placeId": "ChIJ0YbI98-kwoARR9xzsPQ28cE",
+  "googleRating": 4.3,
+  "googleReviewCount": 3055,
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "9:00 AM - 1:00 AM",
+    "sat": "9:00 AM - 1:00 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50de2806a01b3f7199f",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

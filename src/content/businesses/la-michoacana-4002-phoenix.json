@@ -1,0 +1,37 @@
+{
+  "slug": "la-michoacana-4002-phoenix",
+  "name": "La Michoacana Phoenix",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4002 N 67th Ave #8",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85033",
+  "lat": 33.4928635,
+  "lng": -112.2041651,
+  "phone": "+16232470210",
+  "placeId": "ChIJ8SAdG7MVK4cRUPNxBhwN0B4",
+  "googleRating": 4.2,
+  "googleReviewCount": 226,
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c18e74265450565fd7a",
+  "seededAt": "2026-06-22T19:25:12Z",
+  "updatedAt": "2026-06-22T19:25:13Z",
+  "source": "groundgame"
+}

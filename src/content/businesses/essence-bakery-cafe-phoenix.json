@@ -1,0 +1,43 @@
+{
+  "slug": "essence-bakery-cafe-phoenix",
+  "name": "Essence Bakery Cafe",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Restaurant"
+  ],
+  "address": "3830 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "phone": "+16022964958",
+  "priceRange": "$10–20",
+  "description": "Local cafe chain serving breakfast, sandwiches, pot pies, macarons & more in a relaxed atmosphere.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/EssenceBakery"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443d412d01591526c593e",
+  "seededAt": "2026-06-06T15:59:16Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

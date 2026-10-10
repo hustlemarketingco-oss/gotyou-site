@@ -1,0 +1,37 @@
+{
+  "slug": "og-taco-shop-tempe",
+  "name": "OG Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "15 E 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241835,
+  "lng": -111.93939499999999,
+  "phone": "+14802689224",
+  "website": "https://www.facebook.com/pg/OGTACOSHOP",
+  "placeId": "ChIJu4qbJdgIK4cR-73dthCUcaA",
+  "googleRating": 4,
+  "googleReviewCount": 172,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319dd9472223beaa4b5c9e",
+  "seededAt": "2026-06-16T19:02:49Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

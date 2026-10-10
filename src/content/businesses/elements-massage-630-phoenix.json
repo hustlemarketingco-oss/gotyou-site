@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-630-phoenix",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "630 E Bell Rd #102",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.6419183,
+  "lng": -112.06592099999999,
+  "phone": "+16024121619",
+  "website": "https://elementsmassage.com/moon-valley",
+  "placeId": "ChIJt5MErD5uK4cRDZmWEEBBzVQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 456,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a7d4dcd4a4101c7cf43",
+  "seededAt": "2026-06-22T18:10:05Z",
+  "updatedAt": "2026-06-22T18:10:06Z",
+  "source": "groundgame"
+}

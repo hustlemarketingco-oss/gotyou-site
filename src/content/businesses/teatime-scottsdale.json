@@ -1,0 +1,44 @@
+{
+  "slug": "teatime-scottsdale",
+  "name": "TeaTime Scottsdale",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea store",
+  "secondaryCategories": [
+    "Tea house",
+    "Event venue",
+    "Food store"
+  ],
+  "address": "7051 E 5th Ave C",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4976008,
+  "lng": -111.92909979999999,
+  "phone": "+14806868503",
+  "website": "https://teatimeaz.com/",
+  "placeId": "ChIJuUmMCJYLK4cRm10bQIoEcTk",
+  "googleRating": 4.7,
+  "googleReviewCount": 211,
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27658011a2fb6da48a6a93",
+  "seededAt": "2026-06-09T00:59:44Z",
+  "updatedAt": "2026-08-03T18:11:06Z",
+  "source": "groundgame"
+}

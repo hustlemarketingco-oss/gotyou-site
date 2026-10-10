@@ -1,0 +1,46 @@
+{
+  "slug": "frosted-bakehouse-phoenix",
+  "name": "Frosted Bakehouse",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cake shop",
+    "Coffee shop",
+    "Cookie shop",
+    "Cupcake shop"
+  ],
+  "address": "5033 E Elliot Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "phone": "+14802197210",
+  "priceRange": "$10–20",
+  "description": "Located in Phoenix, Frosted Bakehouse is a bakery & cake shop with coffee, takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/frostedbakehouseaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2453466fb978e366ae0887",
+  "seededAt": "2026-06-06T17:05:10Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

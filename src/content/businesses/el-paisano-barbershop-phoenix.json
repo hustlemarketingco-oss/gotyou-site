@@ -1,0 +1,35 @@
+{
+  "slug": "el-paisano-barbershop-phoenix",
+  "name": "El Paisano Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair care"
+  ],
+  "address": "3319 W Van Buren St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85009",
+  "lat": 33.4511932,
+  "lng": -112.1313455,
+  "phone": "+16023202195",
+  "placeId": "ChIJKci7efITK4cR6UaJJMgxXC0",
+  "googleRating": 4.5,
+  "googleReviewCount": 123,
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 5:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a358f7bb7db846cc6c8eef1",
+  "seededAt": "2026-06-19T18:50:35Z",
+  "updatedAt": "2026-06-19T18:50:35Z",
+  "source": "groundgame"
+}

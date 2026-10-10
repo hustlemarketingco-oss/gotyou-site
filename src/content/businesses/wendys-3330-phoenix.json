@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-3330-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "3330 W Bethany Home Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85017",
+  "lat": 33.5245211,
+  "lng": -112.13211629999999,
+  "phone": "+16028410209",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/3330-w-bethany-home-rd",
+  "placeId": "ChIJET62-bFsK4cRHnMpjLeAh2A",
+  "googleRating": 3.7,
+  "googleReviewCount": 1227,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 12:00 AM",
+    "tue": "6:30 AM - 12:00 AM",
+    "wed": "6:30 AM - 12:00 AM",
+    "thu": "6:30 AM - 12:00 AM",
+    "fri": "6:30 AM - 12:00 AM",
+    "sat": "6:30 AM - 12:00 AM",
+    "sun": "6:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dcd302a63f64a158e16",
+  "seededAt": "2026-06-12T14:55:09Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

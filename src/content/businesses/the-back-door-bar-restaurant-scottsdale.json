@@ -1,0 +1,53 @@
+{
+  "slug": "the-back-door-bar-restaurant-scottsdale",
+  "name": "The Back Door Bar & Restaurant",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar & grill",
+  "secondaryCategories": [
+    "Bar",
+    "Cocktail bar"
+  ],
+  "address": "7330 E Main St Suite 105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4933198,
+  "lng": -111.9238462,
+  "phone": "+14803067320",
+  "website": "https://www.thebackdoorbar.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=9879783937048370826",
+  "googleCid": "9879783937048370826",
+  "placeId": "ChIJFXa1vskLK4cRit5gOSULHIk",
+  "googleRating": 4,
+  "googleReviewCount": 78,
+  "description": "Located in Scottsdale, The Back Door Bar & Restaurant is a bar & grill & bar with alcohol & beer, dine-in.",
+  "amenities": [
+    "Outdoor seating",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Pets: Outside"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM",
+    "mon": "4:00 PM - 11:00 PM",
+    "tue": "4:00 PM - 11:00 PM",
+    "wed": "4:00 PM - 11:00 PM",
+    "thu": "4:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ac48b1b6e1e024b0646",
+  "seededAt": "2026-06-06T15:20:36Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

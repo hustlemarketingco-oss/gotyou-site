@@ -1,0 +1,48 @@
+{
+  "slug": "huss-brewing-tempe-taproom-tempe",
+  "name": "Huss Brewing Tempe Taproom",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Brewpub"
+  ],
+  "address": "1520 W Mineral Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3567619,
+  "lng": -111.9651336,
+  "phone": "+16022755049",
+  "website": "https://www.hussbrewing.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7353937957174912184",
+  "googleCid": "7353937957174912184",
+  "placeId": "ChIJQxnjr8IFK4cRuCSs9ZtvDmY",
+  "googleRating": 4.7,
+  "googleReviewCount": 242,
+  "description": "Craft brewery offering a range of beers (porter to lager) & serving 20+ styles in an airy taproom.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "3:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 7:00 PM",
+    "mon": "3:00 PM - 8:00 PM",
+    "tue": "3:00 PM - 8:00 PM",
+    "wed": "3:00 PM - 8:00 PM",
+    "thu": "3:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2437991e461e6400d6c53e",
+  "seededAt": "2026-06-06T15:07:05Z",
+  "updatedAt": "2026-06-06T15:07:05Z",
+  "source": "groundgame"
+}

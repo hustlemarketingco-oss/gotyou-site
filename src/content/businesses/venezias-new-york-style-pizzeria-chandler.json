@@ -1,0 +1,40 @@
+{
+  "slug": "venezias-new-york-style-pizzeria-chandler",
+  "name": "Venezia's New York Style Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1245 S Price Rd Unit #3",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85286",
+  "lat": 33.2875059,
+  "lng": -111.8903309,
+  "phone": "+14804475555",
+  "website": "https://www.venezias.com/location/chandler/",
+  "placeId": "ChIJZXF3V6wBK4cR0eQUyETIYEc",
+  "googleRating": 4.3,
+  "googleReviewCount": 651,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d597a052f1d09596503",
+  "seededAt": "2026-06-12T14:53:13Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

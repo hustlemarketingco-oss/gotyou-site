@@ -1,0 +1,37 @@
+{
+  "slug": "second-east-2nd-east-cedar-city",
+  "name": "Second East - (2nd East)",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "686 Canyon Ranch Dr",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84721",
+  "lat": 37.7250729,
+  "lng": -113.0482973,
+  "phone": "+14357080233",
+  "website": "https://secondeast.org/",
+  "placeId": "ChIJa74htXFhtYARoOm51I7fiOM",
+  "googleRating": 4.3,
+  "googleReviewCount": 494,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f186bf6f424e9e54c3",
+  "seededAt": "2025-12-17T18:39:45Z",
+  "updatedAt": "2025-12-17T18:39:45Z",
+  "source": "groundgame"
+}

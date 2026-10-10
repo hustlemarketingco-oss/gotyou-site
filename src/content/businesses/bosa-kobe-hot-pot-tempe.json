@@ -1,0 +1,37 @@
+{
+  "slug": "bosa-kobe-hot-pot-tempe",
+  "name": "BoSa Kobe Hot Pot",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "414 W University Dr #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422205100000006,
+  "lng": -111.9455059,
+  "phone": "+14805669999",
+  "website": "http://www.bosakobehotpots.com/",
+  "placeId": "ChIJEcDFIgAJK4cRmPD08aLYATo",
+  "googleRating": 4.1,
+  "googleReviewCount": 144,
+  "priceRange": "$",
+  "hours": {
+    "mon": "4:00 PM - 10:00 PM",
+    "tue": "4:00 PM - 10:00 PM",
+    "wed": "4:00 PM - 10:00 PM",
+    "thu": "4:00 PM - 10:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec70fa03df20a763305e",
+  "seededAt": "2026-06-17T18:50:24Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

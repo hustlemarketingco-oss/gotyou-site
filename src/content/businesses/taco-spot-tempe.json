@@ -1,0 +1,44 @@
+{
+  "slug": "taco-spot-tempe",
+  "name": "Taco Spot - Tempe",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "528 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.40758280000001,
+  "lng": -111.94712399999999,
+  "phone": "+14805904382",
+  "website": "https://tacospotaz.order.online/store/the-taco-spot-broadway-30918684",
+  "placeId": "ChIJfxV3uhAJK4cRiGq00zpsvuY",
+  "googleRating": 4.8,
+  "googleReviewCount": 982,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Cash",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438c7d9d91fd1fa0759f4",
+  "seededAt": "2026-06-18T18:28:23Z",
+  "updatedAt": "2026-07-23T19:19:25Z",
+  "source": "groundgame"
+}

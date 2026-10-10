@@ -1,0 +1,43 @@
+{
+  "slug": "udupi-cafe-cary",
+  "name": "Udupi Cafe",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Vegetarian restaurant",
+    "Buffet restaurant",
+    "Brunch restaurant",
+    "Catering service",
+    "South indian restaurant",
+    "Food delivery"
+  ],
+  "address": "590 E Chatham St 112 & 114",
+  "city": "Cary",
+  "state": "NC",
+  "zip": "27511",
+  "lat": 35.7907653,
+  "lng": -78.76858419999999,
+  "phone": "+19194650898",
+  "website": "https://udupicafenc.com/",
+  "placeId": "ChIJTxuzk5fzrIkRWTJbjBWk0YQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 1309,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:30 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:30 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:30 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:30 AM - 3:00 PM, 5:00 PM - 9:30 PM",
+    "sat": "11:30 AM - 9:30 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad205d72c8fba8ca6a9ba",
+  "seededAt": "2026-06-23T18:35:49Z",
+  "updatedAt": "2026-06-23T18:35:49Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "smoothie-king-4757-phoenix",
+  "name": "Smoothie King",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "4757 E Greenway Rd Ste 105",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6240722,
+  "lng": -111.9783387,
+  "phone": "+16234446166",
+  "website": "https://locations.smoothieking.com/ll/us/az/phoenix/4757-e-greenway-rd-ste-105/",
+  "placeId": "ChIJ4wi5gxZzK4cRHSfbN3FUCXQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 149,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc8edcf4f0803a1fe67e",
+  "seededAt": "2026-06-16T22:22:06Z",
+  "updatedAt": "2026-06-16T22:22:07Z",
+  "source": "groundgame"
+}

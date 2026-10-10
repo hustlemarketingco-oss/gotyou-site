@@ -1,0 +1,37 @@
+{
+  "slug": "sam-luca-italian-bistro-mesa",
+  "name": "Sam & Luca Italian Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Bistro"
+  ],
+  "address": "1959 S Power Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.3799224,
+  "lng": -111.687266,
+  "phone": "+14806596716",
+  "website": "https://samandlucaaz.com/",
+  "placeId": "ChIJIX3EpBCvK4cR-KPkvPWzCSg",
+  "googleRating": 4.5,
+  "googleReviewCount": 847,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "3:00 PM - 9:30 PM",
+    "sat": "3:00 PM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2d1037cfaac9e2cd412",
+  "seededAt": "2026-06-10T17:45:53Z",
+  "updatedAt": "2026-06-10T17:45:57Z",
+  "source": "groundgame"
+}

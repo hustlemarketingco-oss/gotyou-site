@@ -1,0 +1,40 @@
+{
+  "slug": "hello-sugar-fashion-square-brazilian-wax-sugar-salon-scottsdale",
+  "name": "Hello Sugar | Fashion Square - Brazilian Wax & Sugar Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Massage",
+    "Tanning studio",
+    "Beauty salon",
+    "Hair care",
+    "Spa"
+  ],
+  "address": "7135 E Camelback Rd Unit 151",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5015129,
+  "lng": -111.92845740000001,
+  "phone": "+16234697821",
+  "website": "https://www.hellosugar.salon/az-scottsdale-oldtown",
+  "placeId": "ChIJAXNrF7wLK4cRIRhGFIQyU80",
+  "googleRating": 4.8,
+  "googleReviewCount": 719,
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a6761a6c76fe927487f3668",
+  "seededAt": "2026-07-27T13:48:22Z",
+  "updatedAt": "2026-07-27T13:48:23Z",
+  "source": "groundgame"
+}

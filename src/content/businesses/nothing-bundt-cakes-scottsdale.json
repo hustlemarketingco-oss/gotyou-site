@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-scottsdale",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "17025 N Scottsdale Rd Ste 110",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6402061,
+  "lng": -111.9245577,
+  "phone": "+14805028900",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/scottsdale/bakery-5.html",
+  "placeId": "ChIJJbT08iB0K4cR3hu9syjh2QA",
+  "googleRating": 4,
+  "googleReviewCount": 246,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11c67b174810d8ff8462",
+  "seededAt": "2026-06-23T04:55:34Z",
+  "updatedAt": "2026-06-23T04:55:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-1730-phoenix",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1730 W Happy Valley Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7132453,
+  "lng": -112.0973416,
+  "phone": "+16232480187",
+  "website": "https://www.eatmesquite.com/",
+  "placeId": "ChIJnzc-qB9lK4cR1Wp3fpkDtPg",
+  "googleRating": 4.3,
+  "googleReviewCount": 601,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9f64b0dfe235283782f",
+  "seededAt": "2026-06-17T17:31:34Z",
+  "updatedAt": "2026-06-17T17:31:34Z",
+  "source": "groundgame"
+}

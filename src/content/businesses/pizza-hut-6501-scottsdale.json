@@ -1,0 +1,42 @@
+{
+  "slug": "pizza-hut-6501-scottsdale",
+  "name": "Pizza Hut",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Pizza takeout"
+  ],
+  "address": "6501 E Greenway Pkwy Ste. 108",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "phone": "+14809059393",
+  "priceRange": "$10–20",
+  "description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/PizzaHut"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244081e1f9678acac89df6",
+  "seededAt": "2026-06-06T15:45:05Z",
+  "updatedAt": "2026-06-12T22:05:49Z",
+  "source": "groundgame"
+}

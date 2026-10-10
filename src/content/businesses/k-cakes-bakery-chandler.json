@@ -1,0 +1,52 @@
+{
+  "slug": "k-cakes-bakery-chandler",
+  "name": "K-Cakes Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cake shop"
+  ],
+  "address": "4202 E Coconino Pl",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85249",
+  "lat": 33.2437764,
+  "lng": -111.768942,
+  "phone": "+14803707468",
+  "website": "https://chandlercustomcake.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8579436629231475637",
+  "googleCid": "8579436629231475637",
+  "placeId": "ChIJn_FMbRCrK4cRtRtRkihIEHc",
+  "googleRating": 4.9,
+  "googleReviewCount": 460,
+  "priceRange": "$100+",
+  "description": "Located in Chandler, K-Cakes Bakery is a bakery & cake shop with takeout & delivery. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM",
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2453993e9f699101c19295",
+  "seededAt": "2026-06-06T17:06:33Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

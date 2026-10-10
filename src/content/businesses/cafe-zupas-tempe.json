@@ -1,0 +1,39 @@
+{
+  "slug": "cafe-zupas-tempe",
+  "name": "Cafe Zupas",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Health food restaurant"
+  ],
+  "address": "105 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216522,
+  "lng": -111.9414971,
+  "phone": "+14808701888",
+  "website": "https://cafezupas.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1773930621913936364",
+  "googleCid": "1773930621913936364",
+  "placeId": "ChIJMWdtXl4JK4cR7DFef4BEnhg",
+  "googleRating": 4.8,
+  "googleReviewCount": 146,
+  "description": "Counter-serve local chain serving hearty soups, innovative salads & diverse sandwiches.",
+  "hours": {
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed",
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24376daa3be3108304b929",
+  "seededAt": "2026-06-06T15:06:21Z",
+  "updatedAt": "2026-08-04T19:32:07Z",
+  "source": "groundgame"
+}

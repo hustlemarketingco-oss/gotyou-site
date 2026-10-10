@@ -1,0 +1,36 @@
+{
+  "slug": "la-botana-st-george",
+  "name": "La Botana",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "916 E St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1095165,
+  "lng": -113.5637601,
+  "phone": "+14356744101",
+  "placeId": "ChIJiar1AC9byoARbbSQ8ookhh0",
+  "googleRating": 4.3,
+  "googleReviewCount": 608,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e63626129d825890fa2bd",
+  "seededAt": "2026-01-19T17:01:22Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

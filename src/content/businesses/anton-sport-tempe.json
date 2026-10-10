@@ -1,0 +1,36 @@
+{
+  "slug": "anton-sport-tempe",
+  "name": "Anton Sport",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Service"
+  ],
+  "address": "905 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4393232,
+  "lng": -111.9257468,
+  "phone": "+14807313144",
+  "website": "http://www.antonsport.com/",
+  "placeId": "ChIJ0UxkJhgJK4cRgaju_KWgMGs",
+  "googleRating": 4.5,
+  "googleReviewCount": 61,
+  "hours": {
+    "mon": "8:30 AM - 5:00 PM",
+    "tue": "8:30 AM - 5:00 PM",
+    "wed": "8:30 AM - 5:00 PM",
+    "thu": "8:30 AM - 5:00 PM",
+    "fri": "8:30 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3433a4a21b8e3a97a73a80",
+  "seededAt": "2026-06-18T18:06:28Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

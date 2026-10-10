@@ -1,0 +1,36 @@
+{
+  "slug": "en-boba-tea-glendale",
+  "name": "EN Boba & Tea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "6036 N 67th Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.525388299999996,
+  "lng": -112.2035945,
+  "website": "https://www.instagram.com/enbobatea",
+  "placeId": "ChIJO8Qqu8JqK4cRwnyAB4Nk0Fs",
+  "googleRating": 3.8,
+  "googleReviewCount": 240,
+  "priceRange": "$",
+  "hours": {
+    "mon": "2:00 PM - 10:00 PM",
+    "tue": "2:00 PM - 10:00 PM",
+    "wed": "2:00 PM - 10:00 PM",
+    "thu": "2:00 PM - 10:00 PM",
+    "fri": "1:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb68ba0c82b7c2106c8f",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-06-07T14:24:17Z",
+  "source": "groundgame"
+}

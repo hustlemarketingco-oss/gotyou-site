@@ -1,0 +1,38 @@
+{
+  "slug": "stellas-ice-cream-south-meridian",
+  "name": "Stella's Ice Cream - South Meridian",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "3135 E Overland Rd STE 105",
+  "city": "Meridian",
+  "state": "ID",
+  "zip": "83642",
+  "lat": 43.5899308,
+  "lng": -116.35517539999998,
+  "phone": "+12089957905",
+  "website": "http://stellasicecream.com/",
+  "placeId": "ChIJr4gkCN5RrlQR2OGUvE-ALjM",
+  "googleRating": 4.8,
+  "googleReviewCount": 135,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942600652a3fcb43f59165c",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

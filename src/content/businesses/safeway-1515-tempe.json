@@ -1,0 +1,63 @@
+{
+  "slug": "safeway-1515-tempe",
+  "name": "Safeway",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Bakery",
+    "Butcher shop",
+    "Deli",
+    "E-commerce service",
+    "Florist",
+    "Grocery delivery service",
+    "Organic food store",
+    "Produce market"
+  ],
+  "address": "1515 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3482464,
+  "lng": -111.9136731,
+  "phone": "+14807551844",
+  "website": "https://local.safeway.com/safeway/az/tempe/1515-e-elliot-rd.html",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2897593589767393829",
+  "googleCid": "2897593589767393829",
+  "placeId": "ChIJC0wf41YGK4cRJdKIjQRSNig",
+  "googleRating": 4.3,
+  "googleReviewCount": 1125,
+  "priceRange": "$$",
+  "description": "Longtime supermarket chain carrying brand-name & house-label groceries, plus a deli, bakery & more.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/122880034460785"
+  ],
+  "hours": {
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM",
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439974c4a97437b4e9715",
+  "seededAt": "2026-06-06T15:15:35Z",
+  "updatedAt": "2026-06-06T15:15:35Z",
+  "source": "groundgame"
+}

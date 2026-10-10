@@ -1,0 +1,40 @@
+{
+  "slug": "chick-fil-a-819-phoenix",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "819 N 7th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85007",
+  "lat": 33.457945599999995,
+  "lng": -112.082246,
+  "phone": "+16024121280",
+  "website": "https://www.chick-fil-a.com/locations/az/7th-ave-roosevelt",
+  "placeId": "ChIJYeqcs38TK4cRLMpt5EM0wcg",
+  "googleRating": 4.5,
+  "googleReviewCount": 773,
+  "hours": {
+    "mon": "6:30 AM - 10:00 PM",
+    "tue": "6:30 AM - 10:00 PM",
+    "wed": "6:30 AM - 10:00 PM",
+    "thu": "6:30 AM - 10:00 PM",
+    "fri": "6:30 AM - 10:00 PM",
+    "sat": "6:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b19b77dc20eeada539e",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

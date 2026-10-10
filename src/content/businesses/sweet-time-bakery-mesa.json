@@ -1,0 +1,42 @@
+{
+  "slug": "sweet-time-bakery-mesa",
+  "name": "Sweet Time Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "66 S Dobson Rd #136",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.412649,
+  "lng": -111.8758742,
+  "phone": "+14802876069",
+  "placeId": "ChIJscGd7kQJK4cRNkQZaVLgCsc",
+  "googleRating": 4.2,
+  "googleReviewCount": 37,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Google Pay",
+    "Cash"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fcdfc540794cdd32344e2",
+  "seededAt": "2026-07-21T19:52:28Z",
+  "updatedAt": "2026-07-21T19:54:13Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-mesa",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1958 E Brown Rd #102",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85203",
+  "lat": 33.437526,
+  "lng": -111.78862099999999,
+  "phone": "+14807333809",
+  "website": "https://www.zoyogurt.com/",
+  "placeId": "ChIJQb93eUGmK4cRrDMtC3QO7aY",
+  "googleRating": 4.2,
+  "googleReviewCount": 219,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c26148867a9713bce1c12",
+  "seededAt": "2026-06-12T15:30:28Z",
+  "updatedAt": "2026-06-12T15:30:29Z",
+  "source": "groundgame"
+}

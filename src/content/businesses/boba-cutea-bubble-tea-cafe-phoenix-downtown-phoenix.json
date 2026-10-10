@@ -1,0 +1,37 @@
+{
+  "slug": "boba-cutea-bubble-tea-cafe-phoenix-downtown-phoenix",
+  "name": "Boba Cutea Bubble Tea Cafe - Phoenix downtown",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "555 N Central Ave Suite 104",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4537628,
+  "lng": -112.073629,
+  "phone": "+16026124122",
+  "website": "http://www.bobacucue.com/",
+  "placeId": "ChIJ7VefKFITK4cR-cha1ATS-eE",
+  "googleRating": 4.7,
+  "googleReviewCount": 329,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 6:00 PM",
+    "tue": "12:00 PM - 6:00 PM",
+    "wed": "12:00 PM - 6:00 PM",
+    "thu": "12:00 PM - 6:00 PM",
+    "fri": "12:00 PM - 6:00 PM",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb680f965dc82fb630b5",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

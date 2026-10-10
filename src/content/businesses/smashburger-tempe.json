@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-tempe",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Chicken restaurant",
+    "Fast food restaurant",
+    "American restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1155",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4340902,
+  "lng": -111.9019455,
+  "phone": "+14808943469",
+  "website": "https://smashburger.com/locations/us/az/tempe/2000-e-rio-salado-pkwy",
+  "placeId": "ChIJq3vqPlQIK4cRRo0-u7ReC80",
+  "googleRating": 4.3,
+  "googleReviewCount": 986,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cb07accb076f5a87a69",
+  "seededAt": "2026-06-19T17:30:24Z",
+  "updatedAt": "2026-06-19T17:30:25Z",
+  "source": "groundgame"
+}

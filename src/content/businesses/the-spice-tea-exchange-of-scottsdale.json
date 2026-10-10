@@ -1,0 +1,47 @@
+{
+  "slug": "the-spice-tea-exchange-of-scottsdale",
+  "name": "The Spice & Tea Exchange of Scottsdale",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea store",
+  "secondaryCategories": [
+    "Spice store"
+  ],
+  "address": "7236 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4932329,
+  "lng": -111.9251937,
+  "phone": "+14806873818",
+  "website": "https://www.spiceandtea.com/spicestorepage/store/front/id/121",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14387786270377856034",
+  "googleCid": "14387786270377856034",
+  "placeId": "ChIJ21Dh7v0LK4cRIkwdFmKvq8c",
+  "googleRating": 4.8,
+  "googleReviewCount": 117,
+  "description": "Retailer selling a wide range of spices & exotic teas, plus olive oils, extracts & more.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 5:00 PM",
+    "mon": "11:00 AM - 5:00 PM",
+    "tue": "11:00 AM - 5:00 PM",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c16aea4b0dfec665263",
+  "seededAt": "2026-06-06T15:26:14Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

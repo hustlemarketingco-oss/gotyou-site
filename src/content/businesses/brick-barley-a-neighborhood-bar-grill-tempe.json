@@ -1,0 +1,50 @@
+{
+  "slug": "brick-barley-a-neighborhood-bar-grill-tempe",
+  "name": "Brick & Barley - A Neighborhood Bar & Grill",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar and grill",
+  "secondaryCategories": [
+    "Dog cafe",
+    "Sports bar",
+    "Hamburger restaurant",
+    "Cocktail bar",
+    "Bar",
+    "American restaurant",
+    "Sports club",
+    "Association or organization"
+  ],
+  "address": "201 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377812,
+  "lng": -111.93709,
+  "phone": "+14807309800",
+  "website": "http://brickandbarleyaz.com/",
+  "placeId": "ChIJC2HElhsGK4cRJ02PzmjaDu4",
+  "googleRating": 4.3,
+  "googleReviewCount": 1088,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 2:00 AM",
+    "tue": "11:00 AM - 2:00 AM",
+    "wed": "11:00 AM - 2:00 AM",
+    "thu": "11:00 AM - 2:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1ca77cdc2bcb0290ee34",
+  "seededAt": "2026-06-12T14:50:15Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

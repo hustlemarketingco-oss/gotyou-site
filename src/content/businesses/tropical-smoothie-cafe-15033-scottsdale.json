@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-15033-scottsdale",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "15033 N Thompson Peak Pkwy Suite 105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.622517,
+  "lng": -111.87344499999999,
+  "phone": "+14808785588",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/scottsdale/15033-north-thompson-peak-parkway?y_source=1_MjAzODUzMzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJM3hykid1K4cREURB-ekGem8",
+  "googleRating": 3.4,
+  "googleReviewCount": 89,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27547a5ff74a8191e31fd5",
+  "seededAt": "2026-06-08T23:47:06Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

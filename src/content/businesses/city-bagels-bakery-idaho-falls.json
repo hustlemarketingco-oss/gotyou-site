@@ -1,0 +1,27 @@
+{
+  "slug": "city-bagels-bakery-idaho-falls",
+  "name": "City Bagels & Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "3100 Channing Way",
+  "city": "Idaho Falls",
+  "state": "ID",
+  "zip": "83404",
+  "lat": 43.469942499999995,
+  "lng": -111.99217829999999,
+  "website": "https://www.citybagel.us",
+  "placeId": "ChIJgb6-CQBfVFMRZIhoXY947Rg",
+  "sameAs": [
+    "https://www.facebook.com/citybagelsidaho"
+  ],
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69418745adeac86b5e258a2e",
+  "seededAt": "2025-12-16T16:22:29Z",
+  "updatedAt": "2026-09-22T15:30:38Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "jimmy-johns-mesa",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "68 E Main St",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.415436899999996,
+  "lng": -111.829335,
+  "phone": "+14806495555",
+  "website": "https://locations.jimmyjohns.com/az/mesa/sandwiches-1997.html&y_source=1_MjAyNDA4NTI1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJZ8_eOsOnK4cRbpOpabnNfMc",
+  "googleRating": 3.5,
+  "googleReviewCount": 483,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a35791b3ed6e7a10bc936fe",
+  "seededAt": "2026-06-19T17:15:07Z",
+  "updatedAt": "2026-06-19T17:15:07Z",
+  "source": "groundgame"
+}

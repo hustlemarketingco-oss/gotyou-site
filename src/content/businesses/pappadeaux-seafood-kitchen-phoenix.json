@@ -1,0 +1,37 @@
+{
+  "slug": "pappadeaux-seafood-kitchen-phoenix",
+  "name": "Pappadeaux Seafood Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "11051 N Black Cyn Hwy",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.587818999999996,
+  "lng": -112.1158724,
+  "phone": "+16023313434",
+  "website": "https://pappadeaux.com/",
+  "placeId": "ChIJ8Wnq1T1sK4cRc7lhSOUMCrs",
+  "googleRating": 4.6,
+  "googleReviewCount": 12267,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6c017370f1fa59fa483",
+  "seededAt": "2026-07-02T19:06:40Z",
+  "updatedAt": "2026-07-02T19:06:40Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "creations-boutique-chandler",
+  "name": "Creations Boutique",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "3111 W Chandler Blvd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.302416799999996,
+  "lng": -111.89980489999999,
+  "phone": "+16025108183",
+  "website": "https://www.creations24.com/",
+  "placeId": "ChIJa6LaLgABK4cRA__kiprfai8",
+  "googleRating": 2.9,
+  "googleReviewCount": 7,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435a5e260dbc066ff3a01",
+  "seededAt": "2026-06-18T18:15:01Z",
+  "updatedAt": "2026-06-18T18:15:02Z",
+  "source": "groundgame"
+}

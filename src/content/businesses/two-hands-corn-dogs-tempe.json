@@ -1,0 +1,37 @@
+{
+  "slug": "two-hands-corn-dogs-tempe",
+  "name": "Two Hands Corn Dogs",
+  "category": "Fast Food",
+  "googleCategory": "Hot dog restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "1015 S Rural Rd #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4176169,
+  "lng": -111.9260683,
+  "phone": "+14805973642",
+  "website": "http://www.twohandsus.com/",
+  "placeId": "ChIJc5RdZnMJK4cRXyzF-TW8ueU",
+  "googleRating": 4.7,
+  "googleReviewCount": 306,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29bcf8372d1ad410f734ce",
+  "seededAt": "2026-06-10T19:37:28Z",
+  "updatedAt": "2026-07-02T20:59:39Z",
+  "source": "groundgame"
+}

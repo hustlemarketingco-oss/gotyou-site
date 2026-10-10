@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-mesa",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "6555 E Southern Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.3901168,
+  "lng": -111.689566,
+  "phone": "+14808301095",
+  "website": "https://www.tillys.com/store/?StoreID=0047",
+  "placeId": "ChIJ5YCYw8mvK4cRWU7YROoC4fE",
+  "googleRating": 4.1,
+  "googleReviewCount": 29,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34386af0ca680db81eae88",
+  "seededAt": "2026-06-18T18:26:50Z",
+  "updatedAt": "2026-06-18T18:26:51Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "crave-cookies-st-george",
+  "name": "Crave Cookies",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1091 N Bluff St Unit 1302",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1275871,
+  "lng": -113.60232959999999,
+  "phone": "+14352447677",
+  "website": "https://cravecookies.com/",
+  "placeId": "ChIJXXoRZwVFyoARKFrdd7qurPI",
+  "googleRating": 4.8,
+  "googleReviewCount": 58,
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8947f79638acfa3cd46",
+  "seededAt": "2025-12-17T18:38:12Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

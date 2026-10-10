@@ -1,0 +1,39 @@
+{
+  "slug": "los-reyes-de-la-torta-tempe",
+  "name": "Los Reyes De La Torta",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Breakfast restaurant",
+    "Burrito restaurant"
+  ],
+  "address": "1528 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932991,
+  "lng": -111.9136367,
+  "phone": "+14804911314",
+  "website": "https://losreyesaz.com/locations/tempe",
+  "placeId": "ChIJG7LHvvoIK4cRQexXKlH6uGs",
+  "googleRating": 4.4,
+  "googleReviewCount": 2028,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "Closed",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5541a0265084808dc9873d",
+  "seededAt": "2026-07-13T19:50:56Z",
+  "updatedAt": "2026-07-13T19:54:32Z",
+  "source": "groundgame"
+}

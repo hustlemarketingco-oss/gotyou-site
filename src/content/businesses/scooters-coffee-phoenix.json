@@ -1,0 +1,40 @@
+{
+  "slug": "scooters-coffee-phoenix",
+  "name": "Scooter's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee stand",
+    "Brunch restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "635 W Deer Valley Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.6834268,
+  "lng": -112.08243569999999,
+  "phone": "+18777191288",
+  "website": "https://scooterscoffee.com/",
+  "placeId": "ChIJOYztib5vK4cRkHDJ4kn2o3w",
+  "googleRating": 3.8,
+  "googleReviewCount": 128,
+  "hours": {
+    "mon": "5:00 AM - 7:00 PM",
+    "tue": "5:00 AM - 7:00 PM",
+    "wed": "5:00 AM - 7:00 PM",
+    "thu": "5:00 AM - 7:00 PM",
+    "fri": "5:00 AM - 7:00 PM",
+    "sat": "6:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3caa30c5172e23d899bba8",
+  "seededAt": "2026-06-25T04:10:24Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

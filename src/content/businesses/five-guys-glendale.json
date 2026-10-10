@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-glendale",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "9425 W Glendale Ave Ste 100",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85305",
+  "lat": 33.536877,
+  "lng": -112.2614718,
+  "phone": "+16232152939",
+  "website": "https://restaurants.fiveguys.com/9425-w-glendale-ave",
+  "placeId": "ChIJt-VdJBtBK4cRTDMaL3_oen8",
+  "googleRating": 4,
+  "googleReviewCount": 311,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c24a585b05ca7e91e40",
+  "seededAt": "2026-06-16T17:47:16Z",
+  "updatedAt": "2026-06-16T17:47:17Z",
+  "source": "groundgame"
+}

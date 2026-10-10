@@ -1,0 +1,40 @@
+{
+  "slug": "old-town-tavern-scottsdale",
+  "name": "Old Town Tavern",
+  "category": "Bars & Pubs",
+  "googleCategory": "Pub",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar",
+    "Live music venue",
+    "Event venue"
+  ],
+  "address": "7330 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4932485,
+  "lng": -111.92385859999999,
+  "phone": "+14803067320",
+  "website": "http://www.oldtowntavernaz.com/",
+  "placeId": "ChIJ_zb9YL8LK4cRsNszhhMLVuM",
+  "googleRating": 4.5,
+  "googleReviewCount": 1205,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c468d90556338a1e2891b",
+  "seededAt": "2026-06-12T17:49:01Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

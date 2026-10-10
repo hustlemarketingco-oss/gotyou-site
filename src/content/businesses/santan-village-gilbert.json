@@ -1,0 +1,35 @@
+{
+  "slug": "santan-village-gilbert",
+  "name": "SanTan Village",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Clothing store",
+    "Restaurant"
+  ],
+  "address": "2218 E Williams Field Rd Suite 235",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "phone": "+14802829500",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Paid street parking",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SanTanVillage"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b35fec4291ba9e9226c",
+  "seededAt": "2026-06-08T04:55:17Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

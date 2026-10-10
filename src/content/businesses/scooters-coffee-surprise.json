@@ -1,0 +1,40 @@
+{
+  "slug": "scooters-coffee-surprise",
+  "name": "Scooter's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee stand",
+    "Breakfast restaurant",
+    "Cafe",
+    "Brunch restaurant",
+    "Food store"
+  ],
+  "address": "12675 W Bell Rd",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85378",
+  "lat": 33.638117799999996,
+  "lng": -112.3330551,
+  "phone": "+16233285812",
+  "website": "https://scooterscoffee.com/",
+  "placeId": "ChIJzxLfcVhDK4cRNRhQwaUxZNY",
+  "googleRating": 4.2,
+  "googleReviewCount": 446,
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 8:00 PM",
+    "sun": "6:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3caa3067cd1578ce04ff85",
+  "seededAt": "2026-06-25T04:10:24Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "whole-foods-market-tempe",
+  "name": "Whole Foods Market",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Bakery",
+    "Deli",
+    "Fresh food market",
+    "Health food store",
+    "Natural goods store",
+    "Organic food store",
+    "Produce market",
+    "Supermarket"
+  ],
+  "address": "750 S Ash Ave Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "phone": "+14804561400",
+  "description": "Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/wholefoodsmarket"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439323b48faaf571f927a",
+  "seededAt": "2026-06-06T15:13:54Z",
+  "updatedAt": "2026-06-09T01:21:13Z",
+  "source": "groundgame"
+}

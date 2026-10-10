@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-1230-phoenix",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "1230 N 51st Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85043",
+  "lat": 33.4618411,
+  "lng": -112.1696509,
+  "phone": "+16023521766",
+  "website": "https://restaurants.ihop.com/en-us/az/phoenix/breakfast-1230-n-51st-ave-1505",
+  "placeId": "ChIJL3wdtV0UK4cRVUtqGK8TVp8",
+  "googleRating": 3.8,
+  "googleReviewCount": 3995,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddeb3682863a99cd5821",
+  "seededAt": "2026-06-17T17:48:27Z",
+  "updatedAt": "2026-06-17T17:48:27Z",
+  "source": "groundgame"
+}

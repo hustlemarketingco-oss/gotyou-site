@@ -1,0 +1,43 @@
+{
+  "slug": "rubios-coastal-grill-chandler",
+  "name": "Rubio's Coastal Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Seafood restaurant",
+    "Burrito restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "5055 W Ray Rd #3",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.319462,
+  "lng": -111.92884699999999,
+  "phone": "+14807530633",
+  "website": "https://www.rubios.com/restaurant-locations/arizona/chandler-west-ray-rd",
+  "placeId": "ChIJA2xgkL8GK4cRqvQB6S2aRY8",
+  "googleRating": 4.2,
+  "googleReviewCount": 611,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39744874eab4366c2f1a1a",
+  "seededAt": "2026-06-22T17:43:36Z",
+  "updatedAt": "2026-06-22T17:43:37Z",
+  "source": "groundgame"
+}

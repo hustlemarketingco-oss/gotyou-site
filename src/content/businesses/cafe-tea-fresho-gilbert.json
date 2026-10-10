@@ -1,0 +1,44 @@
+{
+  "slug": "cafe-tea-fresho-gilbert",
+  "name": "Cafe Tea Fresho",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Tea house"
+  ],
+  "address": "2473 S Higley Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "priceRange": "$1–10",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/teafresho.brew"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2649233f8a49e6afa986f6",
+  "seededAt": "2026-06-08T04:46:27Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "aunt-chiladas-tempe",
+  "name": "Aunt Chilada's Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wedding venue",
+    "Event venue"
+  ],
+  "address": "2019 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377719899999995,
+  "lng": -111.9709549,
+  "phone": "+16024316470",
+  "website": "https://www.auntchiladastempe.com/",
+  "placeId": "ChIJ850iWF8PK4cRGUCmypLfO6w",
+  "googleRating": 4,
+  "googleReviewCount": 2566,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a281266dcfc4126dde4a2a0",
+  "seededAt": "2026-06-09T13:17:26Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

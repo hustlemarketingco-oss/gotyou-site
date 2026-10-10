@@ -1,0 +1,48 @@
+{
+  "slug": "puff-smoke-shop-scottsdale",
+  "name": "Puff Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Smoke shop",
+  "secondaryCategories": [
+    "Cigar shop",
+    "Tobacco shop",
+    "Vaporizer store"
+  ],
+  "address": "3370 Hayden Rd #126",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4871826,
+  "lng": -111.9101846,
+  "phone": "+14802645601",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1987404898794759361",
+  "googleCid": "1987404898794759361",
+  "placeId": "ChIJwTpziNULK4cRwWSIyTmulBs",
+  "googleRating": 4.9,
+  "googleReviewCount": 72,
+  "description": "Located in Scottsdale, Puff Smoke Shop is a smoke shop & cigar shop.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM",
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c434efe2a1dff3bda94",
+  "seededAt": "2026-06-06T15:26:59Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

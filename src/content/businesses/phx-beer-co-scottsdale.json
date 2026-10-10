@@ -1,0 +1,53 @@
+{
+  "slug": "phx-beer-co-scottsdale",
+  "name": "PHX Beer Co.",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "8300 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.557723,
+  "lng": -111.8999068,
+  "phone": "+16022755049",
+  "website": "https://www.phxbeerco.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16431186957578617839",
+  "googleCid": "16431186957578617839",
+  "placeId": "ChIJKVlqC3ILK4cR70OBVHtNB-Q",
+  "googleRating": 4.3,
+  "googleReviewCount": 426,
+  "description": "Located in Scottsdale, PHX Beer Co. is a brewery & american restaurant with alcohol & beer, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "11:30 AM - 8:30 PM",
+    "sat": "11:30 AM - 8:30 PM",
+    "sun": "11:30 AM - 8:30 PM",
+    "mon": "11:30 AM - 8:30 PM",
+    "tue": "11:30 AM - 8:30 PM",
+    "wed": "11:30 AM - 8:30 PM",
+    "thu": "11:30 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243aea8374a038a923f8b5",
+  "seededAt": "2026-06-06T15:21:14Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

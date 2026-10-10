@@ -1,0 +1,38 @@
+{
+  "slug": "soda-jerk-co-milkshake-bar-phoenix",
+  "name": "Soda Jerk Co. Milkshake Bar",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "5350 E High St #109",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.6762339,
+  "lng": -111.9654516,
+  "phone": "+14805767778",
+  "website": "http://sodajerkco.com/",
+  "placeId": "ChIJeegeMX1xK4cRH2LZ6Kg7Xo8",
+  "googleRating": 4.7,
+  "googleReviewCount": 558,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766009b4b944fd3fffbb6",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

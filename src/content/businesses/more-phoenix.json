@@ -1,0 +1,36 @@
+{
+  "slug": "more-phoenix",
+  "name": "&MORE",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "340 N 3rd St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.452142900000005,
+  "lng": -112.07044359999999,
+  "placeId": "ChIJcbU4aWUTK4cRMur2hoLlxbo",
+  "googleRating": 4.2,
+  "googleReviewCount": 6,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "6:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5b6f474d4e262fab59",
+  "seededAt": "2026-08-31T04:04:43Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

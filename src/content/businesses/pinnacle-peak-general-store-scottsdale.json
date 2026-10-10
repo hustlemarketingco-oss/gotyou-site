@@ -1,0 +1,51 @@
+{
+  "slug": "pinnacle-peak-general-store-scottsdale",
+  "name": "Pinnacle Peak General Store",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Gas station"
+  ],
+  "address": "8711 E Pinnacle Peak Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6980944,
+  "lng": -111.8932131,
+  "phone": "+14809911822",
+  "website": "http://www.pinnaclepeakgeneralstore.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6418865876373978941",
+  "googleCid": "6418865876373978941",
+  "placeId": "ChIJ75en0K93K4cRPb8lhoFkFFk",
+  "googleRating": 4.3,
+  "googleReviewCount": 231,
+  "description": "Located in Scottsdale, Pinnacle Peak General Store is a breakfast restaurant & gas station with diesel gas & propane exchange.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/pinnaclepeakgeneralstore"
+  ],
+  "hours": {
+    "fri": "5:00 AM - 7:00 PM",
+    "sat": "6:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 5:00 PM",
+    "mon": "5:00 AM - 7:00 PM",
+    "tue": "5:00 AM - 7:00 PM",
+    "wed": "5:00 AM - 7:00 PM",
+    "thu": "5:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ed05bd911ce072b5bff",
+  "seededAt": "2026-06-06T15:37:52Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

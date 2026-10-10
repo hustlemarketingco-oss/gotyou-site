@@ -1,0 +1,45 @@
+{
+  "slug": "loco-patron-scottsdale",
+  "name": "Loco Patron",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Sports bar",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "4228 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.497783,
+  "lng": -111.926385,
+  "phone": "+14808740033",
+  "website": "https://www.locopatron.com/",
+  "placeId": "ChIJ4Ytldr4LK4cRg1GJhKBkvxo",
+  "googleRating": 4.2,
+  "googleReviewCount": 1994,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275632eaaa3c2c588dc48b",
+  "seededAt": "2026-06-08T23:54:26Z",
+  "updatedAt": "2026-06-30T19:22:51Z",
+  "source": "groundgame"
+}

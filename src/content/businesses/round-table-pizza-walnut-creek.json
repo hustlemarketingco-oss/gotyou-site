@@ -1,0 +1,41 @@
+{
+  "slug": "round-table-pizza-walnut-creek",
+  "name": "Round Table Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "1776 N Broadway",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "zip": "94596",
+  "lat": 37.9038076,
+  "lng": -122.06095089999998,
+  "phone": "+19259457878",
+  "website": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "placeId": "ChIJibMqiJVhhYARdYpnQv4_lUU",
+  "googleRating": 4.3,
+  "googleReviewCount": 117,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429daa0be80911e81d9f",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

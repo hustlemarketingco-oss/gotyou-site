@@ -1,0 +1,41 @@
+{
+  "slug": "daylight-donuts-and-creamery-st-george",
+  "name": "Daylight Donuts and Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "435 N Bluff St",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1157306,
+  "lng": -113.5970167,
+  "phone": "+14354290601",
+  "website": "https://daylightdonutsstgeorge.com/",
+  "placeId": "ChIJzVvUUJVEyoARRuclIdoYgik",
+  "googleRating": 4.4,
+  "googleReviewCount": 359,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c0ba7c8dfce6074f470",
+  "seededAt": "2025-12-16T15:34:35Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

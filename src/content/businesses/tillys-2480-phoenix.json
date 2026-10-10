@@ -1,0 +1,38 @@
+{
+  "slug": "tillys-2480-phoenix",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "2480 W Happy Valley Rd Ste 1211",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7152899,
+  "lng": -112.1125156,
+  "phone": "+14806905331",
+  "website": "https://www.tillys.com/store/?StoreID=0298",
+  "placeId": "ChIJF8ZiXK9lK4cRRcdJH5khP-k",
+  "googleRating": 3.4,
+  "googleReviewCount": 7,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438771bbca82665eff84f",
+  "seededAt": "2026-06-18T18:27:03Z",
+  "updatedAt": "2026-06-18T18:27:04Z",
+  "source": "groundgame"
+}

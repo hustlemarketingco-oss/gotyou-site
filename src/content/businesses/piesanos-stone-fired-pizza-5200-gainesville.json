@@ -1,0 +1,39 @@
+{
+  "slug": "piesanos-stone-fired-pizza-5200-gainesville",
+  "name": "Piesanos Stone Fired Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "5200 NW 43rd St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32608",
+  "lat": 29.701589300000002,
+  "lng": -82.3904446,
+  "phone": "+13523717437",
+  "website": "http://piesanostogo.com/",
+  "placeId": "ChIJF7Axkyy76IgR7xw3BdfYANk",
+  "googleRating": 4.6,
+  "googleReviewCount": 1239,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f8621a0e735cfa981",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

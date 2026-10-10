@@ -1,0 +1,52 @@
+{
+  "slug": "pretty-please-lounge-scottsdale",
+  "name": "Pretty Please Lounge",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Night club",
+    "Dance club",
+    "Lounge bar"
+  ],
+  "address": "4426 N Saddlebag Trail",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5016097,
+  "lng": -111.9223644,
+  "phone": "+14806219252",
+  "website": "https://www.instagram.com/prettypleaseaz/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15927549728933881714",
+  "googleCid": "15927549728933881714",
+  "placeId": "ChIJjwINfrsLK4cRcid5NxcGCt0",
+  "googleRating": 3.1,
+  "googleReviewCount": 84,
+  "priceRange": "$20–30",
+  "description": "Intimate nightspot offering plush couches, mirrors & dark lighting, plus DJs spinning dance tunes.",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Trendy",
+    "Paid parking garage",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 PM - 2:00 AM",
+    "sat": "10:00 PM - 2:00 AM",
+    "sun": "9:00 PM - 1:00 AM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b65be731b265acd637b",
+  "seededAt": "2026-06-06T15:23:17Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

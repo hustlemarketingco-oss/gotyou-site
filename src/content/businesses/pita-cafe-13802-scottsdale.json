@@ -1,0 +1,36 @@
+{
+  "slug": "pita-cafe-13802-scottsdale",
+  "name": "Pita Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Greek restaurant"
+  ],
+  "address": "13802 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6145455,
+  "lng": -111.9267593,
+  "phone": "+14805997783",
+  "website": "https://www.pitacafeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=102589803302624533",
+  "googleCid": "102589803302624533",
+  "placeId": "ChIJgw4JYv51K4cRFR1u7-F4bAE",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "description": "Located in Scottsdale, Pita Cafe is a mediterranean restaurant & greek restaurant with takeout & delivery.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Takeout",
+    "Dine-in"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243f6a7dfe595713080ebf",
+  "seededAt": "2026-06-06T15:40:26Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

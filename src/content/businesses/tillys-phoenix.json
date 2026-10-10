@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-phoenix",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "21001 N Tatum Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.6784523,
+  "lng": -111.97225089999999,
+  "phone": "+14805636413",
+  "website": "https://www.tillys.com/store/?StoreID=0145",
+  "placeId": "ChIJ4fj9N95wK4cRnzhwuf1QjP4",
+  "googleRating": 4.1,
+  "googleReviewCount": 39,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343871cc8ff9bbec67af0d",
+  "seededAt": "2026-06-18T18:26:57Z",
+  "updatedAt": "2026-06-18T18:26:58Z",
+  "source": "groundgame"
+}

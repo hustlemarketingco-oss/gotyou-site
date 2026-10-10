@@ -1,0 +1,42 @@
+{
+  "slug": "uptown-cheapskate-mesa-riverview-mesa",
+  "name": "Uptown Cheapskate Mesa Riverview",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Discount store"
+  ],
+  "address": "1726 W Rio Salado Pkwy #3",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4302063,
+  "lng": -111.86861119999999,
+  "phone": "+14804495588",
+  "website": "https://www.uptowncheapskate.com/location/mesa-riverview/",
+  "placeId": "ChIJBwULCYsJK4cRZPhyWK8yYg0",
+  "googleRating": 4.6,
+  "googleReviewCount": 58,
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Google Pay",
+    "Cash"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39850d7f84d00847d593cf",
+  "seededAt": "2026-06-22T18:55:09Z",
+  "updatedAt": "2026-07-29T19:56:31Z",
+  "source": "groundgame"
+}

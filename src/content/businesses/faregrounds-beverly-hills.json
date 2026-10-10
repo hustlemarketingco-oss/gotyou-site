@@ -1,0 +1,37 @@
+{
+  "slug": "faregrounds-beverly-hills",
+  "name": "Faregrounds - Beverly Hills",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "459 N Roxbury Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.068156699999996,
+  "lng": -118.40715180000001,
+  "phone": "+13103928004",
+  "website": "http://www.faregrounds.co/",
+  "placeId": "ChIJ6fH0Dba9woARp24Mk63W4d0",
+  "googleRating": 4.5,
+  "googleReviewCount": 129,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abfdd35e1db5901ac9f",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "breakfast-club-2-phoenix",
+  "name": "Breakfast Club",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Brunch restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2 E Jefferson St #22-213",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.447559999999996,
+  "lng": -112.073259,
+  "phone": "+16023547284",
+  "website": "http://breakfastclub.us/",
+  "placeId": "ChIJXTk-uiESK4cRf2yW8nQ2hiM",
+  "googleRating": 4.4,
+  "googleReviewCount": 1533,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a345320b0a4d174521c2b6a",
+  "seededAt": "2026-06-18T20:20:48Z",
+  "updatedAt": "2026-06-18T20:20:48Z",
+  "source": "groundgame"
+}

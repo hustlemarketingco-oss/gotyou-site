@@ -1,0 +1,49 @@
+{
+  "slug": "iced-up-glendale",
+  "name": "Iced Up",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Ice cream shop"
+  ],
+  "address": "4341 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6379254,
+  "lng": -112.1533375,
+  "phone": "+12677522113",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10161279983030742067",
+  "googleCid": "10161279983030742067",
+  "placeId": "ChIJbfpNAUwTK4cRM6zVy04eBI0",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "priceRange": "$",
+  "description": "Located in Glendale, Iced Up is a dessert shop & candy store with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "Closed",
+    "mon": "Closed",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24438b8010f92d1ad2ad50",
+  "seededAt": "2026-06-06T15:58:03Z",
+  "updatedAt": "2026-06-06T15:58:03Z",
+  "source": "groundgame"
+}

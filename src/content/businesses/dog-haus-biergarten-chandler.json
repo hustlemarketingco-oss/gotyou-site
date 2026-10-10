@@ -1,0 +1,39 @@
+{
+  "slug": "dog-haus-biergarten-chandler",
+  "name": "Dog Haus Biergarten",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog restaurant",
+    "Breakfast restaurant"
+  ],
+  "address": "2780 W Chandler Blvd Ste 8",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.3066065,
+  "lng": -111.89102020000001,
+  "phone": "+14806216603",
+  "website": "https://chandler.doghaus.com/",
+  "placeId": "ChIJAbmK0dQBK4cRyIE1f5idsO4",
+  "googleRating": 4.7,
+  "googleReviewCount": 659,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 10:30 PM",
+    "tue": "7:00 AM - 10:30 PM",
+    "wed": "7:00 AM - 10:30 PM",
+    "thu": "7:00 AM - 10:30 PM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "7:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a457a3178fa50f4d15db4e8",
+  "seededAt": "2026-07-01T20:36:01Z",
+  "updatedAt": "2026-07-01T20:36:01Z",
+  "source": "groundgame"
+}

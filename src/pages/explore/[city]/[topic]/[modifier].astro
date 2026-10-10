@@ -46,13 +46,13 @@ const notes = mod.note ? items.map(mod.note) : undefined;
   faqs={faqs}
   breadcrumbs={[
     { name: 'Directory', href: '/businesses/' },
-    { name: city, href: cityPath(city) },
-    { name: topic.label, href: topicPath(city, topic) },
-    { name: isDeals ? 'Deals' : 'Late night', href: topicPath(city, topic, mod.slug) },
+    { name: city, href: cityPath(city, state) },
+    { name: topic.label, href: topicPath(city, state, topic) },
+    { name: isDeals ? 'Deals' : 'Late night', href: topicPath(city, state, topic, mod.slug) },
   ]}
   related={[
-    { title: `${topic.label} in ${city}`, links: [{ href: topicPath(city, topic), label: `All ${lc(topic.label)} (ranked)`, count: topicCount }, ...otherMods.map((m) => ({ href: topicPath(city, topic, m.mod.slug), label: m.mod.title(topic, city), count: m.items.length }))] },
-    { title: isDeals ? `More deals in ${city}` : `More late-night food in ${city}`, links: siblingDeals.map((t) => ({ href: topicPath(city, t, mod.slug), label: mod.title(t, city) })) },
+    { title: `${topic.label} in ${city}`, links: [{ href: topicPath(city, state, topic), label: `All ${lc(topic.label)} (ranked)`, count: topicCount }, ...otherMods.map((m) => ({ href: topicPath(city, state, topic, m.mod.slug), label: m.mod.title(topic, city), count: m.items.length }))] },
+    { title: isDeals ? `More deals in ${city}` : `More late-night food in ${city}`, links: siblingDeals.map((t) => ({ href: topicPath(city, state, t, mod.slug), label: mod.title(t, city) })) },
   ]}
 >
   {isDeals && (

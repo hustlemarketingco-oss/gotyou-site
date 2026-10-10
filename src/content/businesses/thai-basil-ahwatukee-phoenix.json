@@ -1,0 +1,37 @@
+{
+  "slug": "thai-basil-ahwatukee-phoenix",
+  "name": "Thai Basil Ahwatukee",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4221 E Chandler Blvd #106",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85048",
+  "lat": 33.304901699999995,
+  "lng": -111.9924447,
+  "phone": "+14807046013",
+  "website": "https://www.orderthaibasilahwatukee.com/",
+  "placeId": "ChIJq-dG8nMFK4cRHsM_qlo0z7A",
+  "googleRating": 4.2,
+  "googleReviewCount": 351,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ebc82b8926be6fabfdcd",
+  "seededAt": "2026-06-17T18:47:36Z",
+  "updatedAt": "2026-06-17T18:47:36Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "shape-up-dixie-st-george",
+  "name": "Shape Up Dixie",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Gym",
+    "Sports activity location"
+  ],
+  "address": "121 N 500 E",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1103449,
+  "lng": -113.5730514,
+  "phone": "+14357733105",
+  "website": "https://www.facebook.com/ShapeUpDixie/",
+  "placeId": "ChIJbQQDHdJFyoARQ1sQNBMiGyM",
+  "googleRating": 4.6,
+  "googleReviewCount": 23,
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4c809f986a60167a23",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

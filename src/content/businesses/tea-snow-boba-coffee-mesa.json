@@ -1,0 +1,48 @@
+{
+  "slug": "tea-snow-boba-coffee-mesa",
+  "name": "Tea Snow Boba & Coffee",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Tea house",
+    "Coffee shop",
+    "Dessert shop",
+    "Cafe",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "66 S Dobson Rd #150",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.413385399999996,
+  "lng": -111.8757507,
+  "phone": "+14808342303",
+  "website": "http://teasnow.com/",
+  "placeId": "ChIJr6SnORQIK4cRkNZsWr7MQdQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 724,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4573259cc0ebae46e8f7b6",
+  "seededAt": "2026-07-01T20:05:57Z",
+  "updatedAt": "2026-07-21T20:02:53Z",
+  "source": "groundgame"
+}

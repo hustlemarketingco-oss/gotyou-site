@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-chandler-az-ocotillo-chandler",
+  "name": "HOTWORX - Chandler, AZ - Ocotillo",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Sauna",
+    "Public bath",
+    "Fitness center",
+    "Gym",
+    "Spa",
+    "Sports activity location"
+  ],
+  "address": "2040 S Alma School Rd Ste 8",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85286",
+  "lat": 33.274780199999995,
+  "lng": -111.8597259,
+  "phone": "+14802071187",
+  "website": "https://www.hotworx.net/studio/chandler-ocotillo",
+  "placeId": "ChIJ2SP4hUsBK4cRTIBHNQujgLo",
+  "googleRating": 4.4,
+  "googleReviewCount": 46,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc27e8401a8ed19b7c7d",
+  "seededAt": "2026-10-07T21:39:51Z",
+  "updatedAt": "2026-10-07T21:39:51Z",
+  "source": "groundgame"
+}

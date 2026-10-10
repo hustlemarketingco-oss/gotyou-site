@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-5000-tempe",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3833062,
+  "lng": -111.9647408,
+  "phone": "+14808313864",
+  "website": "https://www.tillys.com/store/?StoreID=0050",
+  "placeId": "ChIJA0lE4VkPK4cRWsqPwwf9Bt0",
+  "googleRating": 3.3,
+  "googleReviewCount": 26,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34385934ee2c09ed5ea9cb",
+  "seededAt": "2026-06-18T18:26:33Z",
+  "updatedAt": "2026-06-18T18:26:34Z",
+  "source": "groundgame"
+}

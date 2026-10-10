@@ -1,0 +1,37 @@
+{
+  "slug": "the-kickin-crab-chandler-az-chandler",
+  "name": "The Kickin' Crab Chandler, AZ",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "1840 W Chandler Blvd Ste 5",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.307471299999996,
+  "lng": -111.872532,
+  "phone": "+14806666868",
+  "website": "https://thekickincrab.com/",
+  "placeId": "ChIJo7X7t8QBK4cRptEp0Dnv0HU",
+  "googleRating": 4.7,
+  "googleReviewCount": 624,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34b50b3d80c2b32d580637",
+  "seededAt": "2026-06-19T03:18:35Z",
+  "updatedAt": "2026-06-19T03:18:35Z",
+  "source": "groundgame"
+}

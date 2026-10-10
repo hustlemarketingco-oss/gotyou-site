@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-140-chandler",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "140 N Arizona Ave Ste 104",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.3049657,
+  "lng": -111.84180540000001,
+  "phone": "+14802573449",
+  "website": "https://eatatovereasy.com/locations/chandler-downtown/",
+  "placeId": "ChIJUf8I6vKrK4cRl99fyODD2lI",
+  "googleRating": 4.6,
+  "googleReviewCount": 1464,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3039f949b9ba22ad92d70e",
+  "seededAt": "2026-06-15T17:44:25Z",
+  "updatedAt": "2026-06-15T17:44:26Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "taco-n-ganas-mesa",
+  "name": "Taco N Ganas",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "67 N Dobson Rd Ste 101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.416983699999996,
+  "lng": -111.8739555,
+  "phone": "+14809695153",
+  "placeId": "ChIJ23k8yVIJK4cRDT9NNLCpUlE",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438cf04902dc50e25bc27",
+  "seededAt": "2026-06-18T18:28:31Z",
+  "updatedAt": "2026-07-08T16:34:36Z",
+  "source": "groundgame"
+}

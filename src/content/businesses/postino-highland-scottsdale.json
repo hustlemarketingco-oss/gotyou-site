@@ -1,0 +1,47 @@
+{
+  "slug": "postino-highland-scottsdale",
+  "name": "Postino Highland",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "4821 N Scottsdale Rd Ste 109",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.506904,
+  "lng": -111.92568399999999,
+  "phone": "+16024284444",
+  "website": "https://www.postino.com/locations/postino-highland",
+  "placeId": "ChIJUcI8UqILK4cRkaWAEDcwrws",
+  "googleRating": 4.7,
+  "googleReviewCount": 1829,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a271548508df12c830677b6",
+  "seededAt": "2026-06-08T19:17:28Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "baskin-robbins-tempe",
+  "name": "Baskin-Robbins",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Cake shop",
+    "Dessert shop"
+  ],
+  "address": "1715 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3633235,
+  "lng": -111.9126179,
+  "phone": "+14808395154",
+  "website": "https://locations.baskinrobbins.com/az/tempe/1715-e-guadalupe-rd",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11772800718375667090",
+  "googleCid": "11772800718375667090",
+  "placeId": "ChIJ-_UoEEkGK4cRksU-3uBjYaM",
+  "googleRating": 4.2,
+  "googleReviewCount": 229,
+  "priceRange": "$",
+  "description": "Ice cream parlor chain known for its many ice cream flavors & sundaes, plus cakes, drinks & other treats.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM",
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24363827eb3dfea403be89",
+  "seededAt": "2026-06-06T15:01:12Z",
+  "updatedAt": "2026-06-06T15:05:52Z",
+  "source": "groundgame"
+}

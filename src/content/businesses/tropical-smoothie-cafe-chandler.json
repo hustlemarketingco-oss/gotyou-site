@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-chandler",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Fast food restaurant",
+    "Breakfast restaurant",
+    "Cafe"
+  ],
+  "address": "1155 W Ocotillo Rd Unit 3",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.246581,
+  "lng": -111.866608,
+  "phone": "+14806593285",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/chandler/1155-w.-ocotilla-road?y_source=1_MTA5MDM2OTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJcyH5JA0AK4cRUMo9r16pD5M",
+  "googleRating": 4.3,
+  "googleReviewCount": 224,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:15 AM - 8:45 PM",
+    "tue": "6:15 AM - 8:45 PM",
+    "wed": "6:15 AM - 8:45 PM",
+    "thu": "6:15 AM - 8:45 PM",
+    "fri": "6:15 AM - 8:45 PM",
+    "sat": "7:15 AM - 8:45 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4c2c78674db9c0766d98c9",
+  "seededAt": "2026-07-06T22:30:16Z",
+  "updatedAt": "2026-07-06T22:30:16Z",
+  "source": "groundgame"
+}

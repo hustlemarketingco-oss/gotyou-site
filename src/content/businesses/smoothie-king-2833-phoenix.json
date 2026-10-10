@@ -1,0 +1,41 @@
+{
+  "slug": "smoothie-king-2833-phoenix",
+  "name": "Smoothie King",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Acai shop",
+    "Brazilian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "2833 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.479749,
+  "lng": -112.073252,
+  "phone": "+16022186655",
+  "website": "https://locations.smoothieking.com/ll/us/az/phoenix/2833-n-central-ave/",
+  "placeId": "ChIJTZWCo10SK4cRfiXI2VQ8DWs",
+  "googleRating": 4.3,
+  "googleReviewCount": 360,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc8b25659d32480513ec",
+  "seededAt": "2026-06-16T22:22:03Z",
+  "updatedAt": "2026-06-16T22:22:04Z",
+  "source": "groundgame"
+}

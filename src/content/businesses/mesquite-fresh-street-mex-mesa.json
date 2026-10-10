@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-mesa",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1222 S Crismon Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.3928259,
+  "lng": -111.61585489999999,
+  "phone": "+14806870478",
+  "website": "https://www.eatmesquite.com/",
+  "placeId": "ChIJL9HLZ4SxK4cREERNGIc95E4",
+  "googleRating": 4.2,
+  "googleReviewCount": 711,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9f2a7a545864dae074f",
+  "seededAt": "2026-06-17T17:31:30Z",
+  "updatedAt": "2026-06-17T17:31:31Z",
+  "source": "groundgame"
+}

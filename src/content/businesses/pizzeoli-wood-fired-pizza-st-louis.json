@@ -1,0 +1,37 @@
+{
+  "slug": "pizzeoli-wood-fired-pizza-st-louis",
+  "name": "Pizzeoli Wood Fired Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1928 S 12th St",
+  "city": "St. Louis",
+  "state": "MO",
+  "zip": "63104",
+  "lat": 38.6087609,
+  "lng": -90.2090561,
+  "phone": "+13144491111",
+  "website": "http://www.pizzeoli.com/",
+  "placeId": "ChIJ3QfjXJ6z2IcRangKO3r3jZ4",
+  "googleRating": 4.7,
+  "googleReviewCount": 1140,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:30 PM",
+    "tue": "4:00 PM - 9:30 PM",
+    "wed": "4:00 PM - 9:30 PM",
+    "thu": "4:00 PM - 9:30 PM",
+    "fri": "4:00 PM - 9:30 PM",
+    "sat": "4:00 PM - 9:30 PM",
+    "sun": "4:00 PM - 9:30 PM"
+  },
+  "timezone": "America/Chicago",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69b43f13fc9783c84d9868b9",
+  "seededAt": "2026-03-13T16:45:07Z",
+  "updatedAt": "2026-03-13T16:45:07Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "in-n-out-burger-washington",
+  "name": "In-N-Out Burger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Diner",
+    "American restaurant"
+  ],
+  "address": "832 W Telegraph St",
+  "city": "Washington",
+  "state": "UT",
+  "zip": "84780",
+  "lat": 37.127777,
+  "lng": -113.5231157,
+  "phone": "+18007861000",
+  "website": "https://locations.in-n-out.com/215",
+  "placeId": "ChIJ75TccZZs7IAR9TId_ttLOKs",
+  "googleRating": 4.6,
+  "googleReviewCount": 8497,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 1:00 AM",
+    "tue": "10:30 AM - 1:00 AM",
+    "wed": "10:30 AM - 1:00 AM",
+    "thu": "10:30 AM - 1:00 AM",
+    "fri": "10:30 AM - 1:30 AM",
+    "sat": "10:30 AM - 1:30 AM",
+    "sun": "10:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b47744ff86e377d1fba",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2025-12-16T15:31:19Z",
+  "source": "groundgame"
+}

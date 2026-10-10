@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-1949-phoenix",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "1949 E Camelback Rd #142",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.5075287,
+  "lng": -112.040875,
+  "phone": "+16029004935",
+  "website": "https://elementsmassage.com/phoenix-camelback",
+  "placeId": "ChIJ0yqFFGQNK4cRL2EvBm_MEbM",
+  "googleRating": 4.4,
+  "googleReviewCount": 428,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a727e807170d541fef5",
+  "seededAt": "2026-06-22T18:09:54Z",
+  "updatedAt": "2026-06-22T18:09:54Z",
+  "source": "groundgame"
+}

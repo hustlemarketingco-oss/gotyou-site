@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-surprise",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "13749 N Litchfield Rd Suite 118",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85379",
+  "lat": 33.608702,
+  "lng": -112.357298,
+  "phone": "+16235846240",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/surprise/13749-n-litchfield-road?y_source=1_MTA5MDM2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJA2cEIMxFK4cRamV8IL8l2nE",
+  "googleRating": 3.6,
+  "googleReviewCount": 417,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27548bee1be6cd9643cce1",
+  "seededAt": "2026-06-08T23:47:23Z",
+  "updatedAt": "2026-06-08T23:47:23Z",
+  "source": "groundgame"
+}

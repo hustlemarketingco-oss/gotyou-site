@@ -1,0 +1,38 @@
+{
+  "slug": "breakfast-club-phoenix",
+  "name": "Breakfast Club",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Brunch restaurant"
+  ],
+  "address": "2502 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.5104317,
+  "lng": -112.0262496,
+  "phone": "+16026613443",
+  "website": "http://www.breakfastclub.us/",
+  "placeId": "ChIJLyqKSLQNK4cReMPAGT5gcis",
+  "googleRating": 4.4,
+  "googleReviewCount": 657,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34531f6570a2ab01f4c07f",
+  "seededAt": "2026-06-18T20:20:47Z",
+  "updatedAt": "2026-06-18T20:20:47Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "the-wylder-boise",
+  "name": "The Wylder",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "501 W Broad St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.6114417,
+  "lng": -116.2025075,
+  "phone": "+12082093837",
+  "website": "https://www.thewylderboise.com/",
+  "placeId": "ChIJT6SpWfr4rlQRH6xZRJ4RR34",
+  "googleRating": 4.7,
+  "googleReviewCount": 1700,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.instagram.com/the_wylder/"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b5830308c1c4e4278b0",
+  "seededAt": "2026-01-16T01:58:48Z",
+  "updatedAt": "2026-01-16T01:59:40Z",
+  "source": "groundgame"
+}

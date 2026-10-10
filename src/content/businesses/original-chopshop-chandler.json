@@ -1,0 +1,37 @@
+{
+  "slug": "original-chopshop-chandler",
+  "name": "Original ChopShop",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Salad shop"
+  ],
+  "address": "35 W Boston St",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.3020853,
+  "lng": -111.8420005,
+  "phone": "+14804260216",
+  "website": "https://originalchopshop.com/menu/",
+  "placeId": "ChIJuUdqqBGqK4cRjVcWMEcep-k",
+  "googleRating": 4.5,
+  "googleReviewCount": 1605,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ffc81ad9fbf9a24986fe5",
+  "seededAt": "2026-06-27T16:38:25Z",
+  "updatedAt": "2026-06-27T16:38:26Z",
+  "source": "groundgame"
+}

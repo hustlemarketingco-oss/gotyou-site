@@ -1,0 +1,36 @@
+{
+  "slug": "sourdough-co-scottsdale",
+  "name": "Sourdough & Co.",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7908 E Chaparral Rd #104",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.5105593,
+  "lng": -111.9113078,
+  "phone": "+14802845747",
+  "website": "https://sourdoughandco.com/arizona-scottsdale-e-charparral-dr",
+  "placeId": "ChIJTeDtFU0LK4cRtPuoOpDajoY",
+  "googleRating": 4.4,
+  "googleReviewCount": 58,
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27538c3e0c640e1a3e7af7",
+  "seededAt": "2026-06-08T23:43:08Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-phoenix",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Gift shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2510 W Happy Valley Rd Unit 1250",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7151152,
+  "lng": -112.1140384,
+  "phone": "+16235182138",
+  "website": "https://www.rmcf.com/",
+  "placeId": "ChIJG5KecL5lK4cRu49jDP2kMiQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 87,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34513a7a18858c2355a05b",
+  "seededAt": "2026-06-18T20:12:42Z",
+  "updatedAt": "2026-06-18T20:12:43Z",
+  "source": "groundgame"
+}

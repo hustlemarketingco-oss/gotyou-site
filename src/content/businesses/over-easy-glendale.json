@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-glendale",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "6728 W Deer Valley Rd E101",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85310",
+  "lat": 33.6834349,
+  "lng": -112.20379899999999,
+  "phone": "+16234404300",
+  "website": "https://eatatovereasy.com/locations/glendale/",
+  "placeId": "ChIJn6ziVn9nK4cRJKJoU2Z7hhA",
+  "googleRating": 4.4,
+  "googleReviewCount": 450,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303a01d5c18765d84fc1fc",
+  "seededAt": "2026-06-15T17:44:33Z",
+  "updatedAt": "2026-06-15T17:44:35Z",
+  "source": "groundgame"
+}

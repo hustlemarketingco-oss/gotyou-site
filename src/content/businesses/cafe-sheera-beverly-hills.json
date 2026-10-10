@@ -1,0 +1,38 @@
+{
+  "slug": "cafe-sheera-beverly-hills",
+  "name": "Café Sheera",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "443 N Bedford Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.068561100000004,
+  "lng": -118.40586449999998,
+  "phone": "+13108609345",
+  "website": "http://sheerasweets.com/",
+  "placeId": "ChIJXRM1b9O9woARssud71Dc1tE",
+  "googleRating": 4.3,
+  "googleReviewCount": 216,
+  "hours": {
+    "mon": "8:30 AM - 5:00 PM",
+    "tue": "8:30 AM - 5:00 PM",
+    "wed": "8:30 AM - 5:00 PM",
+    "thu": "8:30 AM - 7:00 PM",
+    "fri": "8:30 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1ac0471551451cae129c",
+  "seededAt": "2026-02-12T18:24:00Z",
+  "updatedAt": "2026-02-12T18:24:00Z",
+  "source": "groundgame"
+}

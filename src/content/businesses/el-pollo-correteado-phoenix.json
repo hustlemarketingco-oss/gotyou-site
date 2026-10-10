@@ -1,0 +1,33 @@
+{
+  "slug": "el-pollo-correteado-phoenix",
+  "name": "El Pollo Correteado",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1602 E Jefferson St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4475889,
+  "lng": -112.047378,
+  "phone": "+16022534624",
+  "website": "http://www.elpollocorreteado.com/",
+  "placeId": "ChIJWd1gHwAOK4cRX5PkapNDYHE",
+  "googleRating": 4.6,
+  "googleReviewCount": 512,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d8396aaca13eb03c91515",
+  "seededAt": "2026-06-25T19:37:58Z",
+  "updatedAt": "2026-06-25T19:37:58Z",
+  "source": "groundgame"
+}

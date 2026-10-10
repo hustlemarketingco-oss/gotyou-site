@@ -1,0 +1,38 @@
+{
+  "slug": "milo-olive-santa-monica",
+  "name": "Milo & Olive",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Food store"
+  ],
+  "address": "2723 Wilshire Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90403",
+  "lat": 34.0375511,
+  "lng": -118.4760646,
+  "phone": "+13104536776",
+  "website": "http://www.miloandolive.com/",
+  "placeId": "ChIJM5FYc0-7woARcsHdGgoXyTU",
+  "googleRating": 4.4,
+  "googleReviewCount": 1607,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50d29ee0747fcf08000",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

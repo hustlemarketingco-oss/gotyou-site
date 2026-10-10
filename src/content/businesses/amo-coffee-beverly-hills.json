@@ -1,0 +1,27 @@
+{
+  "slug": "amo-coffee-beverly-hills",
+  "name": "Amo Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "262 S Beverly Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90212",
+  "lat": 34.062733200000004,
+  "lng": -118.3988713,
+  "website": "https://amobeverlyhills.com/",
+  "placeId": "ChIJizRnCTS7woARUwtEo6ZGavI",
+  "googleRating": 4.6,
+  "googleReviewCount": 24,
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abfdf1c9038cee8104d",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-08-19T00:08:00Z",
+  "source": "groundgame"
+}

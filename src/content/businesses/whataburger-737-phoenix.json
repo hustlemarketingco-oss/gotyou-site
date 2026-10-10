@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-737-phoenix",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "737 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4654738,
+  "lng": -112.06355819999999,
+  "phone": "+16022522443",
+  "website": "https://locations.whataburger.com/az/phoenix/737-e-mcdowell-rd.html/",
+  "placeId": "ChIJGxctERMSK4cR3GFN1Yb2DvU",
+  "googleRating": 4.2,
+  "googleReviewCount": 3981,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d69315382cd537d7de4",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

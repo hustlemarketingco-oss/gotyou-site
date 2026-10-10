@@ -1,0 +1,42 @@
+{
+  "slug": "prince-street-pizza-tempe",
+  "name": "Prince Street Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "680 S Mill Ave #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.423946799999996,
+  "lng": -111.94018679999999,
+  "phone": "+14803893951",
+  "website": "https://locations.princestreetpizza.com/tempe",
+  "placeId": "ChIJOdQmKAAJK4cRt-820aE1dmA",
+  "googleRating": 4.4,
+  "googleReviewCount": 429,
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 3:00 AM",
+    "sat": "11:00 AM - 3:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63d1d364453625b35300",
+  "seededAt": "2026-06-12T19:53:53Z",
+  "updatedAt": "2026-09-22T23:42:40Z",
+  "source": "groundgame"
+}

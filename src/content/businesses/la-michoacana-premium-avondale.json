@@ -1,0 +1,41 @@
+{
+  "slug": "la-michoacana-premium-avondale",
+  "name": "La Michoacana Premium Avondale",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Snack bar",
+    "Confectionery",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "10345 W McDowell Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.464100900000005,
+  "lng": -112.2847582,
+  "phone": "+16232481397",
+  "website": "https://lamichoacana-avondale.com/",
+  "placeId": "ChIJuQ3n5A4_K4cRPgZMYB8DolY",
+  "googleRating": 4.4,
+  "googleReviewCount": 191,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398d3b6e8d9748b75d8b2a",
+  "seededAt": "2026-06-22T19:30:03Z",
+  "updatedAt": "2026-06-22T19:30:04Z",
+  "source": "groundgame"
+}

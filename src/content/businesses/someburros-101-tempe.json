@@ -1,0 +1,43 @@
+{
+  "slug": "someburros-101-tempe",
+  "name": "Someburros",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "101 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377488,
+  "lng": -111.93898600000001,
+  "phone": "+14808398226",
+  "website": "http://someburros.com/",
+  "placeId": "ChIJE6uCbxsGK4cR5odFKiEylvc",
+  "googleRating": 4.4,
+  "googleReviewCount": 2448,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Google Pay",
+    "Cash",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a359a5987b09754b7df271f",
+  "seededAt": "2026-06-19T19:36:57Z",
+  "updatedAt": "2026-07-23T20:00:14Z",
+  "source": "groundgame"
+}

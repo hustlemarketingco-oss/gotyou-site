@@ -1,0 +1,43 @@
+{
+  "slug": "noodles-and-company-peoria",
+  "name": "Noodles and Company",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Salad shop",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store",
+    "Soup restaurant"
+  ],
+  "address": "7541 W Bell Rd",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.6376693,
+  "lng": -112.22143849999999,
+  "phone": "+16239799477",
+  "website": "https://locations.noodles.com/az/peoria/7541-west-bell-road",
+  "placeId": "ChIJ03Wf2jBoK4cR1E0qy_iASCA",
+  "googleRating": 4,
+  "googleReviewCount": 744,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ad65a72fae69f91082a",
+  "seededAt": "2026-06-18T17:28:54Z",
+  "updatedAt": "2026-06-18T17:28:55Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "joes-ny-pizza-scottsdale",
+  "name": "Joe's NY Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7321 E Shoeman Ln",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5005716,
+  "lng": -111.92331,
+  "phone": "+14809475637",
+  "website": "http://joesnyp.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3008454983171939211",
+  "googleCid": "3008454983171939211",
+  "placeId": "ChIJE2IcogYLK4cRi5u3It4twCk",
+  "googleRating": 4.2,
+  "googleReviewCount": 386,
+  "priceRange": "$$",
+  "description": "Located in Scottsdale, Joe's NY Pizza is a casual, quiet pizza restaurant with alcohol & beer, takeout & delivery.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/Joes-Ny-Pizza-151571264915603"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e63ef5c81475bff0163",
+  "seededAt": "2026-06-06T15:36:03Z",
+  "updatedAt": "2026-07-08T23:47:42Z",
+  "source": "groundgame"
+}

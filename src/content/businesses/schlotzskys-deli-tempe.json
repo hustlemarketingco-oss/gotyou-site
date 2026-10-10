@@ -1,0 +1,43 @@
+{
+  "slug": "schlotzskys-deli-tempe",
+  "name": "Schlotzsky's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1401 W Southern Ave Suite #500",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392371,
+  "lng": -111.9611589,
+  "phone": "+14809667672",
+  "website": "https://locations.schlotzskys.com/az/tempe/1401-west-southern-ave",
+  "placeId": "ChIJi9lGU04PK4cRIuo6Z4yaYQQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 1085,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4961e5d0bfad275f0306a5",
+  "seededAt": "2026-07-04T19:41:25Z",
+  "updatedAt": "2026-07-27T18:57:17Z",
+  "source": "groundgame"
+}

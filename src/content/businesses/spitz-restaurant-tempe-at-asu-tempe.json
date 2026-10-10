@@ -1,0 +1,42 @@
+{
+  "slug": "spitz-restaurant-tempe-at-asu-tempe",
+  "name": "Spitz Restaurant - Tempe At ASU",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Greek restaurant",
+    "Gyro restaurant",
+    "Restaurant",
+    "Vegan restaurant"
+  ],
+  "address": "681 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4141431,
+  "lng": -111.9288908,
+  "phone": "+14805900161",
+  "website": "https://spitz-restaurant.com/mediterranean-food-tempe-asu-bar-restaurant/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2384953224312833457",
+  "googleCid": "2384953224312833457",
+  "placeId": "ChIJBQ34LAwJK4cRscUWTVIOGSE",
+  "googleRating": 4.8,
+  "googleReviewCount": 2807,
+  "description": "Located in Tempe, Spitz Restaurant - Tempe At ASU is a mediterranean restaurant & greek restaurant.",
+  "hours": {
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 1:00 AM",
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2437813dee87013593ba40",
+  "seededAt": "2026-06-06T15:06:41Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

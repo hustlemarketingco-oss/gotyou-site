@@ -1,0 +1,61 @@
+{
+  "slug": "strad-pizza-scottsdale",
+  "name": "Strad Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Caterer"
+  ],
+  "address": "13802 N Scottsdale Rd Suite 165",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6128091,
+  "lng": -111.9264968,
+  "phone": "+14806027577",
+  "website": "https://stradpizza.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3628417951819138939",
+  "googleCid": "3628417951819138939",
+  "placeId": "ChIJxWc9GgB1K4cRe4fUKue6WjI",
+  "googleRating": 4.4,
+  "googleReviewCount": 503,
+  "priceRange": "$1–10",
+  "description": "Located in Scottsdale, Strad Pizza is a casual pizza restaurant & caterer with comfort food & quick bite, takeout & delivery.",
+  "amenities": [
+    "Outdoor seating",
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/stradpizza"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM",
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440419e7c69686bf5f7dd",
+  "seededAt": "2026-06-06T15:44:01Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "lola-coffee-phoenix",
+  "name": "Lola Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1001 N 3rd Ave #6",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.4587994,
+  "lng": -112.07740340000001,
+  "phone": "+16022522265",
+  "website": "https://lolacoffeebarphx.com/",
+  "placeId": "ChIJTZaB_zsSK4cRrBPj8vQ4DMc",
+  "googleRating": 4.6,
+  "googleReviewCount": 1025,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 6:00 PM",
+    "tue": "6:30 AM - 6:00 PM",
+    "wed": "6:30 AM - 6:00 PM",
+    "thu": "6:30 AM - 6:00 PM",
+    "fri": "6:30 AM - 6:00 PM",
+    "sat": "6:30 AM - 6:00 PM",
+    "sun": "6:30 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5c2ed2fafef96b4dfd",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

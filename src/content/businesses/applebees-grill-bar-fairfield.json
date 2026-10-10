@@ -1,0 +1,42 @@
+{
+  "slug": "applebees-grill-bar-fairfield",
+  "name": "Applebee's Grill + Bar",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Steak house",
+    "Hamburger restaurant",
+    "Bar and grill",
+    "Diner",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "1350 Travis Blvd #Z - 5",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2606343,
+  "lng": -122.05547290000001,
+  "phone": "+17073990796",
+  "website": "https://restaurants.applebees.com/en-us/ca/fairfield/1350-travis-blvd-z-5-76066",
+  "placeId": "ChIJy4De8yYUhYARearg0NTI348",
+  "googleRating": 3.8,
+  "googleReviewCount": 1011,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472ebb8dde2a5eee5005",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "windsor-chandler",
+  "name": "Windsor",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Jewelry store"
+  ],
+  "address": "3111 W Chandler Blvd #2040",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3016242,
+  "lng": -111.8987847,
+  "phone": "+18884954957",
+  "website": "https://www.windsorstore.com/pages/az-chandler-chandler-fashion-center",
+  "placeId": "ChIJX9uDc9QAK4cR73XKsg_kfDo",
+  "googleRating": 3.9,
+  "googleReviewCount": 146,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a330371bf97b8f445de",
+  "seededAt": "2026-06-08T23:03:15Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

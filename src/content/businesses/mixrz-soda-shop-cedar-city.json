@@ -1,0 +1,35 @@
+{
+  "slug": "mixrz-soda-shop-cedar-city",
+  "name": "Mixrz Soda Shop",
+  "category": "Shopping",
+  "googleCategory": "Point of interest",
+  "secondaryCategories": [
+    "Establishment"
+  ],
+  "address": "975 W 200 N",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.6804151,
+  "lng": -113.0758218,
+  "website": "http://mixrzsodashop.com/",
+  "placeId": "ChIJIX8-nA1htYAR9t0BYhRpNWc",
+  "googleRating": 4,
+  "googleReviewCount": 108,
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f07468c94c1efbd3d8",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

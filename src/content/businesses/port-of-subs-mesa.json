@@ -1,0 +1,39 @@
+{
+  "slug": "port-of-subs-mesa",
+  "name": "Port of Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Deli",
+    "Fast food restaurant",
+    "Food store"
+  ],
+  "address": "1316 S Sossaman Rd #102",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.391079,
+  "lng": -111.66902499999999,
+  "phone": "+14805885122",
+  "website": "http://order.portofsubs.com/menu/port-subs-277",
+  "placeId": "ChIJo1YhlBWvK4cR6OsNU7RiV0g",
+  "googleRating": 4.8,
+  "googleReviewCount": 52,
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 7:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a28b9b19f60aa4459a5b2e3",
+  "seededAt": "2026-06-10T01:11:13Z",
+  "updatedAt": "2026-06-10T01:11:13Z",
+  "source": "groundgame"
+}

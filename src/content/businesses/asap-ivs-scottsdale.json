@@ -1,0 +1,36 @@
+{
+  "slug": "asap-ivs-scottsdale",
+  "name": "ASAP IVs",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa",
+  "address": "7172 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493390999999995,
+  "lng": -111.926797,
+  "phone": "+16194311714",
+  "website": "https://www.asapivs.com/",
+  "placeId": "ChIJ5xrctNKU8gIR9F6IGHNqrnM",
+  "googleRating": 5,
+  "googleReviewCount": 3595,
+  "amenities": [
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31b251eea4bf0ee246248e",
+  "seededAt": "2026-06-16T20:30:09Z",
+  "updatedAt": "2026-06-29T14:03:28Z",
+  "source": "groundgame"
+}

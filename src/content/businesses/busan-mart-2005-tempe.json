@@ -1,0 +1,38 @@
+{
+  "slug": "busan-mart-2005-tempe",
+  "name": "Busan Mart",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Asian grocery store",
+    "Grocery store",
+    "Food store"
+  ],
+  "address": "2005 E Apache Blvd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4141628,
+  "lng": -111.900106,
+  "phone": "+16233877898",
+  "website": "https://www.busanmart.us/",
+  "placeId": "ChIJYbdyiCEJK4cRuZo33DRmKdA",
+  "googleRating": 4.7,
+  "googleReviewCount": 161,
+  "hours": {
+    "mon": "9:00 AM - 10:30 PM",
+    "tue": "9:00 AM - 10:30 PM",
+    "wed": "9:00 AM - 10:30 PM",
+    "thu": "9:00 AM - 10:30 PM",
+    "fri": "9:00 AM - 10:30 PM",
+    "sat": "9:00 AM - 10:30 PM",
+    "sun": "9:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a552a97d3daf0f216f4bf05",
+  "seededAt": "2026-07-13T18:12:39Z",
+  "updatedAt": "2026-07-13T18:13:14Z",
+  "source": "groundgame"
+}

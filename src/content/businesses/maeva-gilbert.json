@@ -1,0 +1,49 @@
+{
+  "slug": "maeva-gilbert",
+  "name": "MAEVA",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Coffee shop",
+    "Fine dining restaurant"
+  ],
+  "address": "50 W Vaughn Ave Suite 107",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+16027373302",
+  "priceRange": "$20–70",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Organic dishes",
+    "Vegan options",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://facebook.com/meetatmaeva"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2646736e2c621e95fd113b",
+  "seededAt": "2026-06-08T04:34:59Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

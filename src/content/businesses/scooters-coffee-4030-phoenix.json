@@ -1,0 +1,40 @@
+{
+  "slug": "scooters-coffee-4030-phoenix",
+  "name": "Scooter's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee stand",
+    "Brunch restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "4030 N 7th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.4939134,
+  "lng": -112.0837213,
+  "phone": "+16023686012",
+  "website": "https://scooterscoffee.com/",
+  "placeId": "ChIJO8_oxiQTK4cRB9EIIteh0AU",
+  "googleRating": 4.4,
+  "googleReviewCount": 308,
+  "hours": {
+    "mon": "5:30 AM - 7:00 PM",
+    "tue": "5:30 AM - 7:00 PM",
+    "wed": "5:30 AM - 7:00 PM",
+    "thu": "5:30 AM - 7:00 PM",
+    "fri": "5:30 AM - 7:00 PM",
+    "sat": "6:00 AM - 7:00 PM",
+    "sun": "6:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3caa30e931b0e9125713b3",
+  "seededAt": "2026-06-25T04:10:24Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

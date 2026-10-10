@@ -1,0 +1,45 @@
+{
+  "slug": "master-taco-tempe",
+  "name": "Master Taco Tempe",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Taco restaurant",
+    "Breakfast restaurant"
+  ],
+  "address": "1537 W Broadway Rd #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4071502,
+  "lng": -111.9654255,
+  "phone": "+14805974700",
+  "website": "https://mastertacotempe.com/",
+  "placeId": "ChIJn3iT4UkPK4cRio5L9E5XAiw",
+  "googleRating": 4.2,
+  "googleReviewCount": 420,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b09a0e5952e856770824",
+  "seededAt": "2026-07-02T18:40:26Z",
+  "updatedAt": "2026-08-05T19:57:22Z",
+  "source": "groundgame"
+}

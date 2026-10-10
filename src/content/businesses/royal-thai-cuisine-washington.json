@@ -1,0 +1,37 @@
+{
+  "slug": "royal-thai-cuisine-washington",
+  "name": "Royal Thai Cuisine",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Asian restaurant"
+  ],
+  "address": "568 W Telegraph St #1",
+  "city": "Washington",
+  "state": "UT",
+  "zip": "84780",
+  "lat": 37.13002170000001,
+  "lng": -113.5194949,
+  "phone": "+14352519393",
+  "website": "http://www.royalthaicuisine.net/",
+  "placeId": "ChIJpe1KJ6JbyoARvBSRZZJIYmo",
+  "googleRating": 4.6,
+  "googleReviewCount": 1095,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "tue": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "wed": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "thu": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "fri": "11:00 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+    "sat": "11:00 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8710ac0680e05c2c400",
+  "seededAt": "2025-12-17T18:37:37Z",
+  "updatedAt": "2025-12-17T18:37:37Z",
+  "source": "groundgame"
+}

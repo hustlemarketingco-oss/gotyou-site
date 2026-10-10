@@ -1,0 +1,53 @@
+{
+  "slug": "add-on-smoothies-phoenix",
+  "name": "Add On Smoothies",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Health and beauty shop",
+    "Restaurant"
+  ],
+  "address": "1145 E Washington St #200",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4480748,
+  "lng": -112.0568716,
+  "phone": "+18002176181",
+  "website": "https://www.addonsmoothies.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16278797258517059520",
+  "googleCid": "16278797258517059520",
+  "placeId": "ChIJqbu3Bw0XK4cRwBeDnNvn6eE",
+  "googleRating": 5,
+  "googleReviewCount": 342,
+  "priceRange": "$10–20",
+  "description": "Located in Phoenix, Add On Smoothies is a casual, trendy juice shop & health and beauty shop with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/addonsmoothies"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440aa0d15673a1e8feb3d",
+  "seededAt": "2026-06-06T15:45:46Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

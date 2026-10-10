@@ -1,0 +1,37 @@
+{
+  "slug": "terra-mia-pizzeria-tustin",
+  "name": "Terra Mia Pizzeria Tustin",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1641 Edinger Ave #101",
+  "city": "Tustin",
+  "state": "CA",
+  "zip": "92780",
+  "lat": 33.7212116,
+  "lng": -117.82608049999999,
+  "phone": "+17148523157",
+  "website": "http://terramiapizza.com/",
+  "placeId": "ChIJHejFKjXb3IAR86EOxKniOt4",
+  "googleRating": 4.6,
+  "googleReviewCount": 348,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80fa8d6672e9514080e",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

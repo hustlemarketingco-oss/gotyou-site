@@ -1,0 +1,36 @@
+{
+  "slug": "bisbee-breakfast-club-gilbert",
+  "name": "Bisbee Breakfast Club",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3605 S Gilbert Rd #103",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.2847337,
+  "lng": -111.7890852,
+  "phone": "+14806568400",
+  "website": "https://www.bisbeebreakfastclub.com/",
+  "placeId": "ChIJCYkONoCrK4cR2c5SUDHxgDU",
+  "googleRating": 4.4,
+  "googleReviewCount": 161,
+  "hours": {
+    "mon": "6:00 AM - 2:05 PM",
+    "tue": "6:00 AM - 2:05 PM",
+    "wed": "6:00 AM - 2:05 PM",
+    "thu": "6:00 AM - 2:05 PM",
+    "fri": "6:00 AM - 2:05 PM",
+    "sat": "6:00 AM - 2:05 PM",
+    "sun": "6:00 AM - 2:05 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34532450211f247000aaa7",
+  "seededAt": "2026-06-18T20:20:52Z",
+  "updatedAt": "2026-06-18T20:20:53Z",
+  "source": "groundgame"
+}

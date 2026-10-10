@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-6535-phoenix",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Catering service",
+    "Food delivery",
+    "Chicken restaurant"
+  ],
+  "address": "6535 W Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85033",
+  "lat": 33.4944226,
+  "lng": -112.20082869999999,
+  "phone": "+16238460702",
+  "website": "https://restaurants.elpolloloco.com/az/phoenix/6535-w-indian-school-rd",
+  "placeId": "ChIJU-x0YSUVK4cR6Baok2Tt_WA",
+  "googleRating": 4,
+  "googleReviewCount": 1249,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83a3dc9dc2400b34137e",
+  "seededAt": "2026-06-25T19:38:11Z",
+  "updatedAt": "2026-06-25T19:38:12Z",
+  "source": "groundgame"
+}

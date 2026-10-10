@@ -1,0 +1,37 @@
+{
+  "slug": "el-pollo-correteado-mesa",
+  "name": "El Pollo Correteado",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant"
+  ],
+  "address": "120 S Alma School Rd #101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.412479,
+  "lng": -111.8572062,
+  "phone": "+14805974938",
+  "website": "https://www.elpollocorreteado.com/",
+  "placeId": "ChIJc7bWKfanK4cRVn5m-6suu-A",
+  "googleRating": 4.3,
+  "googleReviewCount": 331,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d838944e2848b129a7962",
+  "seededAt": "2026-06-25T19:37:45Z",
+  "updatedAt": "2026-06-25T19:37:46Z",
+  "source": "groundgame"
+}

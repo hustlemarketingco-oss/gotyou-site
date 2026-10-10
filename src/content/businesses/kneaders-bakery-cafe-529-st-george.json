@@ -1,0 +1,37 @@
+{
+  "slug": "kneaders-bakery-cafe-529-st-george",
+  "name": "Kneaders Bakery & Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "529 S Mall Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0994478,
+  "lng": -113.53616629999999,
+  "phone": "+14357671963",
+  "website": "https://www.kneaders.com/",
+  "placeId": "ChIJ6Sy2Qa9byoARI0jzak9-DAk",
+  "googleRating": 3.7,
+  "googleReviewCount": 888,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f895ce1e7ed466c48e19",
+  "seededAt": "2025-12-17T18:38:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

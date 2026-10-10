@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-queen-creek",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "24921 S Ellsworth Rd Ste 150",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2219772,
+  "lng": -111.63320789999999,
+  "phone": "+16236960007",
+  "website": "https://locations.ikessandwich.com/az/queencreek/513/",
+  "placeId": "ChIJFQb1KN1NKocRJLolDIgiCi4",
+  "googleRating": 4,
+  "googleReviewCount": 286,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a9923303a71a6c0c976",
+  "seededAt": "2026-06-16T18:48:57Z",
+  "updatedAt": "2026-06-16T18:48:57Z",
+  "source": "groundgame"
+}

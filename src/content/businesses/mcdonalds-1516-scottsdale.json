@@ -1,0 +1,49 @@
+{
+  "slug": "mcdonalds-1516-scottsdale",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1516 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "phone": "+14809473946",
+  "priceRange": "$10–20",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/McDonalds"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e5a08f670ab69f700d6",
+  "seededAt": "2026-06-06T15:35:54Z",
+  "updatedAt": "2026-06-12T22:05:59Z",
+  "source": "groundgame"
+}

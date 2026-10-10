@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-1641-phoenix",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1641 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.508655499999996,
+  "lng": -112.0456947,
+  "phone": "+16022657291",
+  "website": "https://locations.einsteinbros.com/us/az/phoenix/1641-e-camelback-rd?y_source=1_OTA0OTY1NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ8QsYlGENK4cRHbBUbsQKWHA",
+  "googleRating": 4.1,
+  "googleReviewCount": 528,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 PM",
+    "tue": "5:00 AM - 2:00 PM",
+    "wed": "5:00 AM - 2:00 PM",
+    "thu": "5:00 AM - 2:00 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994c130f3203f3e028027",
+  "seededAt": "2026-06-10T16:45:53Z",
+  "updatedAt": "2026-07-06T18:38:41Z",
+  "source": "groundgame"
+}

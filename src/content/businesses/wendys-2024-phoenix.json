@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-2024-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "2024 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.50961220000001,
+  "lng": -112.0375201,
+  "phone": "+16029551299",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/2024-east-camelback-road",
+  "placeId": "ChIJNzMvdGYNK4cRkxoSCmrBmyk",
+  "googleRating": 3.9,
+  "googleReviewCount": 1826,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 1:00 AM",
+    "tue": "6:30 AM - 1:00 AM",
+    "wed": "6:30 AM - 1:00 AM",
+    "thu": "6:30 AM - 1:00 AM",
+    "fri": "6:30 AM - 1:00 AM",
+    "sat": "6:30 AM - 1:00 AM",
+    "sun": "6:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dce00ccd30a60de9c16",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "bosa-donuts-19641-scottsdale",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "19641 N Scottsdale Rd #115",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6666727,
+  "lng": -111.92467889999999,
+  "phone": "+14809999595",
+  "placeId": "ChIJOZCPewB3K4cRhiVLZL_6rFg",
+  "googleRating": 4.4,
+  "googleReviewCount": 24,
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "6:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec844ed4907e453696be",
+  "seededAt": "2026-06-17T18:50:44Z",
+  "updatedAt": "2026-06-17T18:50:45Z",
+  "source": "groundgame"
+}

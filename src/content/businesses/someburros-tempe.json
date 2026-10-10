@@ -1,0 +1,37 @@
+{
+  "slug": "someburros-tempe",
+  "name": "Someburros",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1314 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4139263,
+  "lng": -111.92669839999999,
+  "phone": "+14804468226",
+  "website": "http://www.someburros.com/",
+  "placeId": "ChIJIWU2vukIK4cRVbtrchI5OvU",
+  "googleRating": 4.3,
+  "googleReviewCount": 1127,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a359a5735489160cb6c0465",
+  "seededAt": "2026-06-19T19:36:55Z",
+  "updatedAt": "2026-10-09T22:44:48Z",
+  "source": "groundgame"
+}

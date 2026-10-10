@@ -1,0 +1,39 @@
+{
+  "slug": "einstein-bros-bagels-gcu-campus-phoenix",
+  "name": "Einstein Bros. Bagels - GCU Campus",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "3300 W Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85017",
+  "lat": 33.513248,
+  "lng": -112.12999900000001,
+  "phone": "+14806328196",
+  "website": "https://locations.einsteinbros.com/us/az/phoenix/3300-w.-camelback-rd.?y_source=1_OTA0OTg1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ177-4U0TK4cRPWhlhT-Rqkc",
+  "googleRating": 3.8,
+  "googleReviewCount": 142,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994d218a830d2b8f31840",
+  "seededAt": "2026-06-10T16:46:10Z",
+  "updatedAt": "2026-06-10T16:46:12Z",
+  "source": "groundgame"
+}

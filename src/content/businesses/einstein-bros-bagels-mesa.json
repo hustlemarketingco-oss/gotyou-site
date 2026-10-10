@@ -1,0 +1,42 @@
+{
+  "slug": "einstein-bros-bagels-mesa",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1229 E McKellips Rd #105",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85203",
+  "lat": 33.4505011,
+  "lng": -111.8029622,
+  "phone": "+14808000031",
+  "website": "https://locations.einsteinbros.com/us/az/mesa/1229-e-mckellips-rd?y_source=1_MTA4Mjk1MzcxMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJZagDGYmnK4cRKS1ZS-R7J1U",
+  "googleRating": 4.6,
+  "googleReviewCount": 173,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994c3d9952a33e59d977d",
+  "seededAt": "2026-06-10T16:45:55Z",
+  "updatedAt": "2026-06-10T16:45:56Z",
+  "source": "groundgame"
+}

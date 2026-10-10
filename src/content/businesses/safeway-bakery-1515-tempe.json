@@ -1,0 +1,51 @@
+{
+  "slug": "safeway-bakery-1515-tempe",
+  "name": "Safeway Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "1515 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3481721,
+  "lng": -111.9136162,
+  "phone": "+14807551844",
+  "website": "https://local.safeway.com/safeway/az/tempe/1515-e-elliot-rd.html",
+  "googleMapsUrl": "https://www.google.com/maps?cid=5550641266755395988",
+  "googleCid": "5550641266755395988",
+  "placeId": "ChIJZS-RqlcGK4cRlGGU1NLWB00",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "priceRange": "$$",
+  "description": "Located in Tempe, Safeway Bakery is a bakery with coffee, takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/122880034460785"
+  ],
+  "hours": {
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 8:00 PM",
+    "sun": "6:00 AM - 8:00 PM",
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439c96238084151f859f2",
+  "seededAt": "2026-06-06T15:16:25Z",
+  "updatedAt": "2026-06-06T15:16:25Z",
+  "source": "groundgame"
+}

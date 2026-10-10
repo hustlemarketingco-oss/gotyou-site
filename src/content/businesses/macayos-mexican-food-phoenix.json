@@ -1,0 +1,41 @@
+{
+  "slug": "macayos-mexican-food-phoenix",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Latin american restaurant",
+    "Food delivery",
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "12637 S 48th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3318599,
+  "lng": -111.98046319999999,
+  "phone": "+14805985101",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJ38aIPUsEK4cRmTIV3QxMzfU",
+  "googleRating": 4.1,
+  "googleReviewCount": 2134,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4714242404f57bd709277a",
+  "seededAt": "2026-07-03T01:45:08Z",
+  "updatedAt": "2026-07-03T01:45:08Z",
+  "source": "groundgame"
+}

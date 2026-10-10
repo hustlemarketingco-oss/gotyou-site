@@ -1,0 +1,42 @@
+{
+  "slug": "chada-thai-az-scottsdale",
+  "name": "Chada Thai AZ",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Tea house",
+    "Food delivery",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "2765 N Scottsdale Rd Ste 107",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4787422,
+  "lng": -111.9252096,
+  "phone": "+14809453182",
+  "website": "https://www.chadathaiaz.com/",
+  "placeId": "ChIJEyBhS3ELK4cRf7J1-2NaoPE",
+  "googleRating": 4.4,
+  "googleReviewCount": 241,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 2:30 PM, 4:30 PM - 8:30 PM",
+    "wed": "11:00 AM - 2:30 PM, 4:30 PM - 8:30 PM",
+    "thu": "11:00 AM - 2:30 PM, 4:30 PM - 8:30 PM",
+    "fri": "11:00 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "sat": "4:30 PM - 9:00 PM",
+    "sun": "4:30 PM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29926351434393ea6c0ee7",
+  "seededAt": "2026-06-10T16:35:47Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

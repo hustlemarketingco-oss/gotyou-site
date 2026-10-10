@@ -60,6 +60,9 @@ export default defineConfig({
                      // server rendering individually via `export const prerender = false`.
   adapter: cloudflare({
     imageService: 'compile',
+    // Node prerenders ~8x faster than workerd here (~13 vs ~100 ms a page); with ~6k listings the workerd build ran past
+    // Cloudflare's 20-minute build limit. Only /api/claim runs on Workers at request time.
+    prerenderEnvironment: 'node',
     platformProxy: { enabled: true },
   }),
 });

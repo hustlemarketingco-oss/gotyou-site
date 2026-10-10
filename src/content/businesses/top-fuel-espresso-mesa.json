@@ -1,0 +1,37 @@
+{
+  "slug": "top-fuel-espresso-mesa",
+  "name": "Top Fuel Espresso",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1520 S Dobson Rd Ste 220",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.387516,
+  "lng": -111.87744599999999,
+  "phone": "+14805992749",
+  "placeId": "ChIJ0yuMdksHK4cR8bdR6kQcx2U",
+  "googleRating": 4.6,
+  "googleReviewCount": 31,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34209452bb54af5a3a8d6a",
+  "seededAt": "2026-06-18T16:45:08Z",
+  "updatedAt": "2026-06-18T16:45:08Z",
+  "source": "groundgame"
+}

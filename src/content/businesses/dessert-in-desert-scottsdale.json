@@ -1,0 +1,38 @@
+{
+  "slug": "dessert-in-desert-scottsdale",
+  "name": "Dessert in Desert",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "18511 N Scottsdale Rd ste105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.652305399999996,
+  "lng": -111.9245665,
+  "phone": "+14805977351",
+  "website": "http://dessertindesert.com/",
+  "placeId": "ChIJdehAiTZ3K4cRc9XG0kX6ORk",
+  "googleRating": 4.8,
+  "googleReviewCount": 529,
+  "hours": {
+    "mon": "Closed",
+    "tue": "2:00 PM - 9:00 PM",
+    "wed": "2:00 PM - 9:00 PM",
+    "thu": "2:00 PM - 9:00 PM",
+    "fri": "1:00 PM - 9:00 PM",
+    "sat": "1:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765eadb3b1526945374c9",
+  "seededAt": "2026-06-09T01:01:30Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "infusion-coffee-tea-crafters-phoenix",
+  "name": "Infusion Coffee & Tea Crafters",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "13212 N Cave Creek Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.6063792,
+  "lng": -112.0368311,
+  "phone": "+14805902027",
+  "website": "https://www.infusioncoffeetea.com/",
+  "placeId": "ChIJb2dSpAxzK4cRMlG1owfBESo",
+  "googleRating": 4.7,
+  "googleReviewCount": 127,
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:30 AM - 5:00 PM",
+    "sun": "7:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a55383e32675f6b74ec3c30",
+  "seededAt": "2026-07-13T19:10:54Z",
+  "updatedAt": "2026-07-13T19:10:55Z",
+  "source": "groundgame"
+}

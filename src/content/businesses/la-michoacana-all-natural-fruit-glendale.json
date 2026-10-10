@@ -1,0 +1,36 @@
+{
+  "slug": "la-michoacana-all-natural-fruit-glendale",
+  "name": "La Michoacana - All Natural Fruit",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "6645 W Bell Rd #105",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6371533,
+  "lng": -112.2000542,
+  "placeId": "ChIJuS2t0TNpK4cRN_SNHs_oFro",
+  "googleRating": 4.8,
+  "googleReviewCount": 22,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398d387f495979bcd7f983",
+  "seededAt": "2026-06-22T19:30:00Z",
+  "updatedAt": "2026-06-22T19:30:00Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "one-stop-nutrition-tempe",
+  "name": "One Stop Nutrition",
+  "category": "Restaurant",
+  "googleCategory": "Food store",
+  "address": "2101 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061075,
+  "lng": -111.9258632,
+  "phone": "+14805906329",
+  "website": "https://www.onestopnutrition.com/",
+  "placeId": "ChIJV8HK6bgJK4cRfnqRXUomPZw",
+  "googleRating": 2.7,
+  "googleReviewCount": 10,
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Credit card",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3eca5cda9b6db4cfc05367",
+  "seededAt": "2026-06-26T18:52:12Z",
+  "updatedAt": "2026-07-21T18:12:12Z",
+  "source": "groundgame"
+}

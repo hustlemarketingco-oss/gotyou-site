@@ -1,0 +1,37 @@
+{
+  "slug": "fry-bread-house-phoenix",
+  "name": "Fry Bread House",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4545 N 7th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.5036974,
+  "lng": -112.0822328,
+  "phone": "+16023512345",
+  "website": "https://www.azfrybreadhouse.com/",
+  "placeId": "ChIJ641PXOUSK4cRJmJJUOd6CvQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 4258,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2a1492d57a85d668e34abd",
+  "seededAt": "2026-06-11T01:51:14Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

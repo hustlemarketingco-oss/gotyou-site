@@ -1,0 +1,43 @@
+{
+  "slug": "proteinhouse-arcadia-phoenix",
+  "name": "ProteinHouse Arcadia",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Juice shop",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Coffee shop",
+    "Diner",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3141 E Indian School Rd #111",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.4937398,
+  "lng": -112.01355389999999,
+  "phone": "+16023545400",
+  "website": "https://www.protein-house.com/location/proteinhouse-arcadia-az/",
+  "placeId": "ChIJSZw0QKYNK4cRXXpORzHHpPs",
+  "googleRating": 4.3,
+  "googleReviewCount": 858,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e31dd519a653991dbe07",
+  "seededAt": "2026-06-17T18:10:37Z",
+  "updatedAt": "2026-06-17T18:10:37Z",
+  "source": "groundgame"
+}

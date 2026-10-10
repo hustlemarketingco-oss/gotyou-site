@@ -1,0 +1,35 @@
+{
+  "slug": "target-grocery-phoenix",
+  "name": "Target Grocery",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Supermarket"
+  ],
+  "address": "4515 E Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "phone": "+16029521797",
+  "priceRange": "$$",
+  "description": "Located in Phoenix, Target Grocery is a grocery store & supermarket with bakery & pharmacy, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/target"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24431f249a830c96f87325",
+  "seededAt": "2026-06-06T15:56:15Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

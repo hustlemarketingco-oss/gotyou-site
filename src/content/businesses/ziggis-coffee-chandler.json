@@ -1,0 +1,40 @@
+{
+  "slug": "ziggis-coffee-chandler",
+  "name": "Ziggi's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Internet cafe",
+    "Cafe",
+    "Breakfast restaurant",
+    "Food store"
+  ],
+  "address": "4044 S Arizona Ave",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.246513199999995,
+  "lng": -111.84360509999999,
+  "phone": "+14805976418",
+  "website": "https://www.ziggiscoffee.com/",
+  "placeId": "ChIJEfoXmpirK4cREo6oRx__e44",
+  "googleRating": 4.5,
+  "googleReviewCount": 123,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 5:00 PM",
+    "tue": "6:00 AM - 5:00 PM",
+    "wed": "6:00 AM - 5:00 PM",
+    "thu": "6:00 AM - 5:00 PM",
+    "fri": "6:00 AM - 5:00 PM",
+    "sat": "6:00 AM - 5:00 PM",
+    "sun": "6:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32edda366e52d696352be2",
+  "seededAt": "2026-06-17T18:56:26Z",
+  "updatedAt": "2026-06-17T18:56:26Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "farm-and-craft-scottsdale",
+  "name": "Farm and Craft Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Breakfast restaurant",
+    "Vegetarian restaurant",
+    "Brunch restaurant",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "4302 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4986789,
+  "lng": -111.92641309999999,
+  "phone": "+14805688980",
+  "website": "https://ilovefarmandcraft.com/",
+  "placeId": "ChIJLZzvxL0LK4cRJfRkgAdfUTY",
+  "googleRating": 4.2,
+  "googleReviewCount": 1869,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27535e6c3f79ec90d8d67c",
+  "seededAt": "2026-06-08T23:42:22Z",
+  "updatedAt": "2026-06-22T17:45:34Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "the-crepe-club-scottsdale",
+  "name": "The Crêpe Club",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Creperie",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Ice cream shop",
+    "Juice shop"
+  ],
+  "address": "7014 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5035824,
+  "lng": -111.9294274,
+  "phone": "+16022926921",
+  "website": "http://www.thecrepeclub.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15987321745191716012",
+  "googleCid": "15987321745191716012",
+  "placeId": "ChIJtV3riAoLK4cRrMQHPGxg3t0",
+  "googleRating": 4.1,
+  "googleReviewCount": 233,
+  "priceRange": "$",
+  "description": "Located in Scottsdale, The Crêpe Club is a creperie & coffee shop with coffee & comfort food, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d8df9bb2823339a3ef7",
+  "seededAt": "2026-06-06T15:32:29Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

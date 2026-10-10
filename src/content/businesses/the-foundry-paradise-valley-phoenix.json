@@ -1,0 +1,40 @@
+{
+  "slug": "the-foundry-paradise-valley-phoenix",
+  "name": "The Foundry Paradise Valley",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym",
+    "Sports school",
+    "Sports complex",
+    "Sports activity location"
+  ],
+  "address": "13637 N Tatum Blvd Ste 12",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.610613799999996,
+  "lng": -111.97641259999999,
+  "phone": "+16029716999",
+  "website": "https://thefoundryyoga.com/paradisevalley",
+  "placeId": "ChIJt5Of8L9zK4cRYg1bK8DcQ-g",
+  "googleRating": 4.9,
+  "googleReviewCount": 266,
+  "hours": {
+    "mon": "5:30 AM - 7:30 PM",
+    "tue": "5:30 AM - 7:30 PM",
+    "wed": "5:30 AM - 7:30 PM",
+    "thu": "5:30 AM - 7:30 PM",
+    "fri": "5:30 AM - 7:30 PM",
+    "sat": "7:30 AM - 2:30 PM",
+    "sun": "7:00 AM - 1:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397e67dcd7691d7edd4584",
+  "seededAt": "2026-06-22T18:26:47Z",
+  "updatedAt": "2026-06-22T18:26:47Z",
+  "source": "groundgame"
+}

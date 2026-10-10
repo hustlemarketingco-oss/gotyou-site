@@ -1,0 +1,39 @@
+{
+  "slug": "hl-concepts-restaurant-group-scottsdale",
+  "name": "HL Concepts - Restaurant Group",
+  "category": "Restaurant",
+  "googleCategory": "Association / organization",
+  "address": "15425 N Greenway Hayden Loop a400",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6259715,
+  "lng": -111.919371,
+  "website": "http://hlconcepts.net/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17606824047572143336",
+  "googleCid": "17606824047572143336",
+  "placeId": "ChIJHWGGn4V1K4cR6MxXsi8BWPQ",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "description": "Located in Scottsdale, HL Concepts - Restaurant Group is a association / organization.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed",
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243f4014e7de8b0bcd11a1",
+  "seededAt": "2026-06-06T15:39:44Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

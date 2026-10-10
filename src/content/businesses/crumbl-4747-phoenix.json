@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-4747-phoenix",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4747 E Bell Rd Ste 9",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6400213,
+  "lng": -111.97819229999999,
+  "phone": "+16026070937",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/tatum",
+  "placeId": "ChIJ89ZHtlpxK4cRuNU9oq1Sdqg",
+  "googleRating": 4.6,
+  "googleReviewCount": 1941,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 12:00 AM",
+    "sat": "8:00 AM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a676110edfb8798bdbf2c80",
+  "seededAt": "2026-07-27T13:45:52Z",
+  "updatedAt": "2026-07-27T13:45:53Z",
+  "source": "groundgame"
+}

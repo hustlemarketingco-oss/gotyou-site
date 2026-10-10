@@ -1,0 +1,35 @@
+{
+  "slug": "aimars-mexican-food-st-george",
+  "name": "Aimar’s Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "20 N Main St Ste 108",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.108793,
+  "lng": -113.58298479999999,
+  "phone": "+14352754993",
+  "placeId": "ChIJYYMFx9xFyoARD4irKa-aIeo",
+  "googleRating": 5,
+  "googleReviewCount": 83,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361f312351ef5ceca97",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "stellas-ice-cream-state-street-boise",
+  "name": "Stella’s Ice Cream - State Street",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4740 W State St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83703",
+  "lat": 43.6492017,
+  "lng": -116.2477601,
+  "phone": "+12085767941",
+  "website": "http://www.stellasicecream.com/",
+  "placeId": "ChIJfwc5OtL_rlQRXRvCQ4KjLDc",
+  "googleRating": 4.7,
+  "googleReviewCount": 210,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "2:00 PM - 10:00 PM",
+    "tue": "2:00 PM - 10:00 PM",
+    "wed": "2:00 PM - 10:00 PM",
+    "thu": "2:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694260064467032ffd37a286",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

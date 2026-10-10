@@ -1,0 +1,37 @@
+{
+  "slug": "brunos-italian-restaurant-santa-monica",
+  "name": "Bruno's Italian Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "1652 Ocean Ave",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90401",
+  "lat": 34.0102836,
+  "lng": -118.49391320000001,
+  "phone": "+13103955589",
+  "website": "https://brunossantamonica.com/",
+  "placeId": "ChIJ6Wb2ytakwoARca3kyLcmQbE",
+  "googleRating": 4.5,
+  "googleReviewCount": 1328,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:30 PM",
+    "sat": "12:00 PM - 9:30 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50c85060bb69c5fd0e8",
+  "seededAt": "2026-02-10T21:37:16Z",
+  "updatedAt": "2026-02-10T21:37:16Z",
+  "source": "groundgame"
+}

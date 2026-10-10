@@ -1,0 +1,36 @@
+{
+  "slug": "batch-cookie-shop-gilbert",
+  "name": "Batch Cookie Shop",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert restaurant",
+    "Dessert shop"
+  ],
+  "address": "1495 N Higley Rd Ste 107",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14808186454",
+  "priceRange": "$1–10",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/batchcookieshop"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b1158ad21204466511b",
+  "seededAt": "2026-06-08T04:54:41Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "black-moon-pastries-pizza-garden-city",
+  "name": "Black Moon Pastries & Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Coffee shop",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3709 W Chinden Blvd",
+  "city": "Garden City",
+  "state": "ID",
+  "zip": "83714",
+  "lat": 43.6249882,
+  "lng": -116.24311910000002,
+  "website": "https://heyblackmoon.com/",
+  "placeId": "ChIJ99PGPTr5rlQR7Vh5DwQC6n4",
+  "googleRating": 4.8,
+  "googleReviewCount": 301,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:30 PM",
+    "sat": "8:00 AM - 9:30 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b5404cd476697cb2753",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

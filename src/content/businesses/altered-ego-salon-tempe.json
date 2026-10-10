@@ -1,0 +1,36 @@
+{
+  "slug": "altered-ego-salon-tempe",
+  "name": "Altered Ego Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Hair care"
+  ],
+  "address": "107 E Baseline Rd a6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377873799999996,
+  "lng": -111.93851529999999,
+  "phone": "+14808311910",
+  "website": "http://www.alteredegosalon.com/",
+  "placeId": "ChIJ_XQgYxsGK4cRLpss-ub80IY",
+  "googleRating": 4.6,
+  "googleReviewCount": 417,
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31b13f142be8045d29e529",
+  "seededAt": "2026-06-16T20:25:35Z",
+  "updatedAt": "2026-06-16T20:25:36Z",
+  "source": "groundgame"
+}

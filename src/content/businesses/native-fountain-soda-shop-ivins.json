@@ -1,0 +1,30 @@
+{
+  "slug": "native-fountain-soda-shop-ivins",
+  "name": "Native Fountain Soda Shop",
+  "category": "Shopping",
+  "address": "5861 W Old Hwy 91 Unit B",
+  "city": "Ivins",
+  "state": "UT",
+  "zip": "84738",
+  "lat": 37.1822099,
+  "lng": -113.7252374,
+  "placeId": "ChIJVW2Do9NByoARbD9Zzqw2pmE",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b6a2d62b58d1452176e",
+  "seededAt": "2025-12-16T15:31:54Z",
+  "updatedAt": "2025-12-16T15:31:54Z",
+  "source": "groundgame"
+}

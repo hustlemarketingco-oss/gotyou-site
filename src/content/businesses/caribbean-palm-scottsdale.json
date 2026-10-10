@@ -1,0 +1,43 @@
+{
+  "slug": "caribbean-palm-scottsdale",
+  "name": "Caribbean Palm Scottsdale",
+  "category": "Mexican & Latin",
+  "googleCategory": "Caribbean restaurant",
+  "secondaryCategories": [
+    "Bar and grill",
+    "Seafood restaurant",
+    "Soul food restaurant",
+    "Meal takeaway",
+    "Chicken restaurant",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "2515 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4748466,
+  "lng": -111.9253835,
+  "phone": "+14809474343",
+  "website": "https://caribbeanpalmacottsdaleaz.com/",
+  "placeId": "ChIJ79o2Bl4JK4cRBdkJr67G52M",
+  "googleRating": 4.3,
+  "googleReviewCount": 484,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "2:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32eb36c04078b85f5dfe1a",
+  "seededAt": "2026-06-17T18:45:10Z",
+  "updatedAt": "2026-06-30T20:46:48Z",
+  "source": "groundgame"
+}

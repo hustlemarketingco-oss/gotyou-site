@@ -1,0 +1,41 @@
+{
+  "slug": "hungry-howies-pizza-tempe",
+  "name": "Hungry Howie's Pizza Tempe",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1045 E Lemon St Ste B",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4161137,
+  "lng": -111.9222431,
+  "phone": "+14808047500",
+  "website": "http://www.4tempepizza.com/",
+  "placeId": "ChIJK8b_Ku8IK4cRszL89bjzUts",
+  "googleRating": 3.9,
+  "googleReviewCount": 1100,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 3:00 AM",
+    "tue": "10:00 AM - 3:00 AM",
+    "wed": "10:00 AM - 3:00 AM",
+    "thu": "10:00 AM - 3:00 AM",
+    "fri": "10:00 AM - 4:00 AM",
+    "sat": "10:00 AM - 4:00 AM",
+    "sun": "10:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63d78f28ea76dd7f3f43",
+  "seededAt": "2026-06-12T19:53:59Z",
+  "updatedAt": "2026-07-23T20:37:03Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "smoothie-king-phoenix",
+  "name": "Smoothie King",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Acai shop",
+    "Brazilian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "5549 E Indian School Rd Ste 101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.488626,
+  "lng": -111.96144199999999,
+  "phone": "+14808596000",
+  "website": "https://locations.smoothieking.com/ll/us/az/phoenix/5549-e-indian-school-rd/",
+  "placeId": "ChIJTTuKmGYNK4cRDqy-VebL_fk",
+  "googleRating": 4.3,
+  "googleReviewCount": 203,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc8a3cfb418d82cf8203",
+  "seededAt": "2026-06-16T22:22:02Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

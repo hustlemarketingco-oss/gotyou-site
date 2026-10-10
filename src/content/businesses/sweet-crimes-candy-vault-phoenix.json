@@ -1,0 +1,42 @@
+{
+  "slug": "sweet-crimes-candy-vault-phoenix",
+  "name": "Sweet Crimes Candy Vault",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Cookie shop",
+    "Dessert shop"
+  ],
+  "address": "114 W Adams St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.4494949,
+  "lng": -112.0754424,
+  "phone": "+14802279370",
+  "website": "http://sweetcrimescandyvault.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10149294990341412730",
+  "googleCid": "10149294990341412730",
+  "placeId": "ChIJJ0pIPYwTK4cRepfzOwWK2Yw",
+  "googleRating": 4.7,
+  "googleReviewCount": 84,
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b24ad88b630fea71623",
+  "seededAt": "2026-06-08T04:55:00Z",
+  "updatedAt": "2026-06-08T04:55:00Z",
+  "source": "groundgame"
+}

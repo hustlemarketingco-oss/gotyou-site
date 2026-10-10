@@ -1,0 +1,45 @@
+{
+  "slug": "phoenix-beach-volleyball-rto-sullivans-scottsdale",
+  "name": "Phoenix Beach Volleyball @ RTO Sullivans",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Sports club"
+  ],
+  "address": "7887 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4787114,
+  "lng": -111.9113633,
+  "phone": "+14802492242",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17183906750989366516",
+  "googleCid": "17183906750989366516",
+  "placeId": "ChIJxSiXegILK4cR9HQoUiWAee4",
+  "googleRating": 4,
+  "googleReviewCount": 10,
+  "description": "Located in Scottsdale, Phoenix Beach Volleyball @ RTO Sullivans is a bar & sports club.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 12:00 AM",
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b9b6002e6d5f27f449a",
+  "seededAt": "2026-06-06T15:24:11Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

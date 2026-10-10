@@ -1,0 +1,43 @@
+{
+  "slug": "walmart-bakery-gilbert",
+  "name": "Walmart Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Bagel shop",
+    "Cake shop",
+    "Chocolate shop",
+    "Cookie shop",
+    "Cupcake shop",
+    "Dessert shop",
+    "Pastry shop"
+  ],
+  "address": "2501 S Market St",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3048028,
+  "lng": -111.7409163,
+  "phone": "+14802246905",
+  "website": "https://www.walmart.com/store/5186-gilbert-az/bakery/?veh=seo_loc",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14102411092793468291",
+  "googleCid": "14102411092793468291",
+  "placeId": "ChIJV-VE-WisK4cRg6V7zivUtcM",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b455f5884fa30335b51",
+  "seededAt": "2026-06-08T04:55:33Z",
+  "updatedAt": "2026-06-08T04:55:33Z",
+  "source": "groundgame"
+}

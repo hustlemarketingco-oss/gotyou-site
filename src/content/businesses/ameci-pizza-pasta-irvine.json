@@ -1,0 +1,40 @@
+{
+  "slug": "ameci-pizza-pasta-irvine",
+  "name": "Ameci Pizza & Pasta",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant",
+    "Food store"
+  ],
+  "address": "18068 Culver Dr",
+  "city": "Irvine",
+  "state": "CA",
+  "zip": "92612",
+  "lat": 33.663886999999995,
+  "lng": -117.825841,
+  "phone": "+19498571900",
+  "website": "https://www.amecipizzaoc.com/",
+  "placeId": "ChIJsSjCCdnd3IAR_YMK33xls54",
+  "googleRating": 4,
+  "googleReviewCount": 155,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:45 PM",
+    "tue": "10:00 AM - 9:45 PM",
+    "wed": "10:00 AM - 9:45 PM",
+    "thu": "10:00 AM - 9:45 PM",
+    "fri": "10:00 AM - 9:45 PM",
+    "sat": "10:00 AM - 9:45 PM",
+    "sun": "10:00 AM - 9:45 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80f197282238fd7d7af",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

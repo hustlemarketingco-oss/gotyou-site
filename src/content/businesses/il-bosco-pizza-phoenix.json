@@ -1,0 +1,37 @@
+{
+  "slug": "il-bosco-pizza-phoenix",
+  "name": "IL Bosco Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "918 N 5th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4583641,
+  "lng": -112.06773419999999,
+  "phone": "+16026122470",
+  "website": "http://www.ilboscopizza.com/",
+  "placeId": "ChIJV6hfCt0TK4cRqBg16nPGbz4",
+  "googleRating": 4.6,
+  "googleReviewCount": 463,
+  "priceRange": "$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb19e170b17a5c096273",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

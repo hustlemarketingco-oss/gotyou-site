@@ -1,0 +1,39 @@
+{
+  "slug": "the-sandwich-spot-glendale",
+  "name": "The Sandwich Spot (Glendale)",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Catering service",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "17045 N 59th Ave #106",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6405826,
+  "lng": -112.1859301,
+  "phone": "+14805507681",
+  "website": "https://sandwichspotphoenix.com/",
+  "placeId": "ChIJd7_Md2hpK4cRR_Dd3rsvjR0",
+  "googleRating": 4.8,
+  "googleReviewCount": 83,
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275397b53a2f7b636f916d",
+  "seededAt": "2026-06-08T23:43:19Z",
+  "updatedAt": "2026-06-08T23:43:20Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "schlotzskys-deli-goodyear",
+  "name": "Schlotzsky's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "395 N Litchfield Rd",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85338",
+  "lat": 33.4514862,
+  "lng": -112.357563,
+  "phone": "+16239252009",
+  "website": "https://locations.schlotzskys.com/az/goodyear/395-n-litchfield-rd",
+  "placeId": "ChIJSVEb1sE4K4cRTcMLEECoCoY",
+  "googleRating": 3.9,
+  "googleReviewCount": 832,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4961ec2f72205721086c76",
+  "seededAt": "2026-07-04T19:41:32Z",
+  "updatedAt": "2026-07-04T19:41:33Z",
+  "source": "groundgame"
+}

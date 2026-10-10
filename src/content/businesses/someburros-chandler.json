@@ -1,0 +1,37 @@
+{
+  "slug": "someburros-chandler",
+  "name": "Someburros",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3461 W Frye Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.297362,
+  "lng": -111.899935,
+  "phone": "+14807268226",
+  "website": "http://www.someburros.com/",
+  "placeId": "ChIJdyt65dYAK4cR9Ig1QW2-qZo",
+  "googleRating": 4.3,
+  "googleReviewCount": 1449,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a359a5d2b2cbf42f6b02b18",
+  "seededAt": "2026-06-19T19:37:01Z",
+  "updatedAt": "2026-06-19T19:37:01Z",
+  "source": "groundgame"
+}

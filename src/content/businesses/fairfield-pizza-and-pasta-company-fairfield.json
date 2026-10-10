@@ -1,0 +1,36 @@
+{
+  "slug": "fairfield-pizza-and-pasta-company-fairfield",
+  "name": "Fairfield Pizza and Pasta Company",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "680a Nilles Rd A",
+  "city": "Fairfield",
+  "state": "OH",
+  "zip": "45014",
+  "lat": 39.338136,
+  "lng": -84.558058,
+  "phone": "+15138292200",
+  "placeId": "ChIJu9SIRfNIQIgRIxceXgYotd8",
+  "googleRating": 4.1,
+  "googleReviewCount": 591,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee7d7b248feaf1a56f",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

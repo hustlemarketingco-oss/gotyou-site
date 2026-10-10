@@ -1,0 +1,38 @@
+{
+  "slug": "rush-bowls-scottsdale",
+  "name": "Rush Bowls",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Brunch restaurant"
+  ],
+  "address": "8776 E Shea Blvd Ste #102",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.5827352,
+  "lng": -111.89227880000001,
+  "phone": "+14802077613",
+  "website": "https://rushbowls.com/scottsdale",
+  "placeId": "ChIJHWZV2Sd1K4cRjmELfMvJ_GI",
+  "googleRating": 4.5,
+  "googleReviewCount": 4,
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c65a9f4026883547a2b43",
+  "seededAt": "2026-06-12T20:01:45Z",
+  "updatedAt": "2026-07-03T21:29:06Z",
+  "source": "groundgame"
+}

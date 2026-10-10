@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-scottsdale",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "6204 N Scottsdale Rd Suite 103",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.529227399999996,
+  "lng": -111.9276012,
+  "phone": "+14804011400",
+  "website": "https://elementsmassage.com/scottsdale-lincoln",
+  "placeId": "ChIJf8rOpxQLK4cRJjRMIsxf9yo",
+  "googleRating": 4.3,
+  "googleReviewCount": 240,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a68ae2fd58b5af1ebab",
+  "seededAt": "2026-06-22T18:09:44Z",
+  "updatedAt": "2026-06-22T18:09:45Z",
+  "source": "groundgame"
+}

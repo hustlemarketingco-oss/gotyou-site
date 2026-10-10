@@ -1,0 +1,41 @@
+{
+  "slug": "jersey-mikes-subs-phoenix",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "3075 W Dove Valley Rd Ste 400",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7833675,
+  "lng": -112.1236759,
+  "phone": "+14802077847",
+  "website": "https://www.jerseymikes.com/9097/phoenix-az",
+  "placeId": "ChIJqXzBxaljK4cR-n7n539Viz8",
+  "googleRating": 4.4,
+  "googleReviewCount": 22,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f9a7d645a049b6add7cd",
+  "seededAt": "2026-07-12T20:31:35Z",
+  "updatedAt": "2026-07-12T20:38:36Z",
+  "source": "groundgame"
+}

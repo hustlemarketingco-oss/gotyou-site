@@ -1,0 +1,37 @@
+{
+  "slug": "nellos-pizza-mesa",
+  "name": "Nello's Pizza Mesa",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2950 S Alma School Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.360741,
+  "lng": -111.85942899999999,
+  "phone": "+14808205995",
+  "website": "http://nellospizzamesa.com/",
+  "placeId": "ChIJSyiC0oAHK4cRbxWA-qgwXxA",
+  "googleRating": 4.6,
+  "googleReviewCount": 2138,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4e907cc6ed25b970060ef0",
+  "seededAt": "2026-07-08T18:01:32Z",
+  "updatedAt": "2026-07-08T18:01:32Z",
+  "source": "groundgame"
+}

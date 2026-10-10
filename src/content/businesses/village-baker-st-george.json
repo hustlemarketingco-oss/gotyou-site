@@ -1,0 +1,32 @@
+{
+  "slug": "village-baker-st-george",
+  "name": "Village Baker",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1472 George Washington Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "phone": "+14352568017",
+  "website": "https://villagebakerfood.com/",
+  "placeId": "ChIJX3I0Kn1byoARCmh6peM_M3Y",
+  "googleRating": 4.7,
+  "googleReviewCount": 520,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dc08309864d9bd8990",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

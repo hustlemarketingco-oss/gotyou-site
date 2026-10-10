@@ -1,0 +1,41 @@
+{
+  "slug": "camelback-protein-scottsdale",
+  "name": "Camelback Protein",
+  "category": "Restaurant",
+  "googleCategory": "Health food store",
+  "address": "2950 Hayden Rd Suite B",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4812586,
+  "lng": -111.9098057,
+  "phone": "+16025528742",
+  "website": "https://www.facebook.com/Scottsdalewellnessclub/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15428151161808920764",
+  "googleCid": "15428151161808920764",
+  "placeId": "ChIJS6ux3NMLK4cRvKCmZL3NG9Y",
+  "description": "Located in Scottsdale, Camelback Protein is a health food store.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 1:00 PM",
+    "sun": "Closed",
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243baf53155b7ed4307ac9",
+  "seededAt": "2026-06-06T15:24:31Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

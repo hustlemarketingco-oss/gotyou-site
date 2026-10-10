@@ -1,0 +1,36 @@
+{
+  "slug": "the-hole-in-the-wall-cafe-beverly-hills",
+  "name": "The Hole in The Wall Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "8900 Wilshire Blvd #101",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90211",
+  "lat": 34.0667195,
+  "lng": -118.38596659999997,
+  "phone": "+14242743636",
+  "placeId": "ChIJN6Zqg6C5woARhksGqaruIp4",
+  "googleRating": 4.8,
+  "googleReviewCount": 16,
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abfdb97fe51a61bf33e",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

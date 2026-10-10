@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-litchfield-park",
+  "name": "Firehouse Subs Litchfield Park",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "5122 N Dysart Rd Ste. 600",
+  "city": "Litchfield Park",
+  "state": "AZ",
+  "zip": "85340",
+  "lat": 33.510754,
+  "lng": -112.34146,
+  "phone": "+14805917650",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJdf3T4ddHK4cRR4BMhlCcYkE",
+  "googleRating": 4.4,
+  "googleReviewCount": 435,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afa6e059bfd49b4ecba",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-06-12T14:43:06Z",
+  "source": "groundgame"
+}

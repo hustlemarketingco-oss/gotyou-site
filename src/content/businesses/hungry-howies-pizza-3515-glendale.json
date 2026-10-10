@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-3515-glendale",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3515 W Union Hills Dr Ste 115",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6537793,
+  "lng": -112.13594979999999,
+  "phone": "+16028432727",
+  "website": "https://www.hungryhowies.com/stores/az/glendale/3515-w-union-hills-dr-ste-115",
+  "placeId": "ChIJoZZ3Zy5vK4cRtkG1iZsy9wI",
+  "googleRating": 3.7,
+  "googleReviewCount": 317,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cba30ee285f28545a420",
+  "seededAt": "2026-06-16T22:18:11Z",
+  "updatedAt": "2026-06-16T22:18:12Z",
+  "source": "groundgame"
+}

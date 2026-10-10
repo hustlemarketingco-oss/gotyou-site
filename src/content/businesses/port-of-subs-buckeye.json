@@ -1,0 +1,39 @@
+{
+  "slug": "port-of-subs-buckeye",
+  "name": "Port of Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Food store"
+  ],
+  "address": "840 N Verrado Way #104",
+  "city": "Buckeye",
+  "state": "AZ",
+  "zip": "85326",
+  "lat": 33.456724699999995,
+  "lng": -112.5047543,
+  "phone": "+14802077083",
+  "website": "https://portofsubs.com/locations/az/buckeye/281",
+  "placeId": "ChIJCxaIL1JJK4cRl0PGD60oxdc",
+  "googleRating": 4,
+  "googleReviewCount": 26,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a28b9b4471c390fc2c792db",
+  "seededAt": "2026-06-10T01:11:16Z",
+  "updatedAt": "2026-06-10T01:11:16Z",
+  "source": "groundgame"
+}

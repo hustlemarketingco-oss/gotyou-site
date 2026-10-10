@@ -1,0 +1,39 @@
+{
+  "slug": "lou-malnatis-pizzeria-scottsdale",
+  "name": "Lou Malnati's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "17787 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6507788,
+  "lng": -111.92457499999999,
+  "phone": "+14806813400",
+  "website": "https://www.loumalnatis.com/arizona-scottsdale",
+  "placeId": "ChIJa_K5RU53K4cRCxt0wmAofx4",
+  "googleRating": 4.4,
+  "googleReviewCount": 2306,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276555eb112d583773c9ef",
+  "seededAt": "2026-06-09T00:59:01Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

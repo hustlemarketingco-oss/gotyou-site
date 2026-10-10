@@ -1,0 +1,41 @@
+{
+  "slug": "sushi-brokers-arcadia-phoenix",
+  "name": "Sushi Brokers Arcadia",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Sushi restaurant",
+    "Bar and grill",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "4419 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4945656,
+  "lng": -111.9858452,
+  "phone": "+14805155000",
+  "website": "https://sushibrokers.com/",
+  "placeId": "ChIJbVuU91oMK4cRTGOU3Wy67K8",
+  "googleRating": 4.4,
+  "googleReviewCount": 990,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738c4ccbbe9b398a95281",
+  "seededAt": "2026-06-08T21:48:52Z",
+  "updatedAt": "2026-06-08T21:49:28Z",
+  "source": "groundgame"
+}

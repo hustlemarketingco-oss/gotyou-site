@@ -1,0 +1,56 @@
+{
+  "slug": "yogurt-jungle-maricopa",
+  "name": "Yogurt Jungle",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "21101 N John Wayne Pkwy #105",
+  "city": "Maricopa",
+  "state": "AZ",
+  "zip": "85139",
+  "lat": 33.07,
+  "lng": -112.0447222,
+  "phone": "+15204239597",
+  "website": "http://www.yogurtjunglemaricopa.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2801550694282327431",
+  "googleCid": "2801550694282327431",
+  "placeId": "ChIJmblZQmLtKocRh3XyYIMb4SY",
+  "googleRating": 4.6,
+  "googleReviewCount": 381,
+  "priceRange": "$",
+  "description": "Located in Maricopa, Yogurt Jungle is a frozen yogurt shop & dessert shop with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/Yogurt-Jungle-Maricopa-106884479409164"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM",
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440e86a5c91fb9b7c9a07",
+  "seededAt": "2026-06-06T15:46:48Z",
+  "updatedAt": "2026-06-06T15:53:58Z",
+  "source": "groundgame"
+}

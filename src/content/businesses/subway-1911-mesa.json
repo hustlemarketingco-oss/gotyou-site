@@ -1,0 +1,40 @@
+{
+  "slug": "subway-1911-mesa",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1911 W Main St Suite 1",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.414105,
+  "lng": -111.8721135,
+  "phone": "+14809641901",
+  "website": "https://restaurants.subway.com/united-states/az/mesa/1911-west-main-st&y_source=1_MTQ5MTUwNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ0Z2HlBYIK4cRJsKWQxhBLxM",
+  "googleRating": 3.9,
+  "googleReviewCount": 348,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d8056dce48a884f4bb630",
+  "seededAt": "2026-06-25T19:24:06Z",
+  "updatedAt": "2026-06-25T19:24:06Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mountain-mikes-pizza-phoenix",
+  "name": "Mountain Mike's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Buffet restaurant",
+    "Family restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1775 N 99th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85037",
+  "lat": 33.466504799999996,
+  "lng": -112.2706688,
+  "phone": "+16232811000",
+  "website": "https://www.mountainmikespizza.com/locations/phoenix-n-99th-ave/",
+  "placeId": "ChIJVzp_meU_K4cRJn4op0x3vqE",
+  "googleRating": 3.9,
+  "googleReviewCount": 54,
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a396f6adb5c4ada3ae4a629",
+  "seededAt": "2026-06-22T17:22:50Z",
+  "updatedAt": "2026-06-22T17:22:50Z",
+  "source": "groundgame"
+}

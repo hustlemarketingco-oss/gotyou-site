@@ -1,0 +1,33 @@
+{
+  "slug": "fiiz-drinks-2339-st-george",
+  "name": "FiiZ Drinks",
+  "category": "Restaurant",
+  "address": "2339 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.068450999999996,
+  "lng": -113.549955,
+  "phone": "+14356564349",
+  "website": "http://fiizdrinks.com/",
+  "placeId": "ChIJ85Qo76FayoARWN4EZLv-oEI",
+  "googleRating": 4.6,
+  "googleReviewCount": 570,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b69118062b6da69c504",
+  "seededAt": "2025-12-16T15:31:53Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

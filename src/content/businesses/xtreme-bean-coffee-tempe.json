@@ -1,0 +1,44 @@
+{
+  "slug": "xtreme-bean-coffee-tempe",
+  "name": "Xtreme Bean Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1707 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392634,
+  "lng": -111.911068,
+  "phone": "+14808200333",
+  "website": "https://xtremebean.co/",
+  "placeId": "ChIJ0zah3YMIK4cRroWCsxKKvSo",
+  "googleRating": 4.4,
+  "googleReviewCount": 1373,
+  "priceRange": "$",
+  "amenities": [
+    "Apple Pay",
+    "Cash",
+    "Credit card",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4e9964169dadccbd411e9c",
+  "seededAt": "2026-07-08T18:39:32Z",
+  "updatedAt": "2026-07-27T20:29:42Z",
+  "source": "groundgame"
+}

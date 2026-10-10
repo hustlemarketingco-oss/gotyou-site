@@ -1,0 +1,39 @@
+{
+  "slug": "la-michoacana-al-natural-glendale",
+  "name": "La Michoacana Al Natural",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "6612 W Olive Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85302",
+  "lat": 33.5677795,
+  "lng": -112.201319,
+  "phone": "+14083943399",
+  "website": "https://www.alnaturalaz.com/",
+  "placeId": "ChIJuQb2YK9rK4cRxuzoIZ19ycE",
+  "googleRating": 3.9,
+  "googleReviewCount": 92,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c1d5b3c83dc2a328670",
+  "seededAt": "2026-06-22T19:25:17Z",
+  "updatedAt": "2026-06-22T19:25:17Z",
+  "source": "groundgame"
+}

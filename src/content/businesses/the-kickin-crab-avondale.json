@@ -1,0 +1,32 @@
+{
+  "slug": "the-kickin-crab-avondale",
+  "name": "The Kickin’ Crab Avondale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1035 N Avondale Blvd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85323",
+  "lat": 33.457900699999996,
+  "lng": -112.30614489999999,
+  "phone": "+16238888686",
+  "placeId": "ChIJYfhOWwA_K4cRrCi7WJsag4g",
+  "googleRating": 4.2,
+  "googleReviewCount": 38,
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34b50c6f949b9d801be639",
+  "seededAt": "2026-06-19T03:18:36Z",
+  "updatedAt": "2026-06-19T03:18:37Z",
+  "source": "groundgame"
+}

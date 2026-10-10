@@ -1,0 +1,32 @@
+{
+  "slug": "pop-drinks-san-tan-valley",
+  "name": "Pop Drinks",
+  "category": "Restaurant",
+  "address": "35979 N Gary Rd #101",
+  "city": "San Tan Valley",
+  "state": "AZ",
+  "zip": "85143",
+  "lat": 33.2060138,
+  "lng": -111.5818209,
+  "phone": "+14805720810",
+  "website": "https://ilovepopdrinks.com/",
+  "placeId": "ChIJ10oYKexNKocRRCYc_jy7dlg",
+  "googleRating": 4.3,
+  "googleReviewCount": 82,
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27660075302dea40e0b121",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-06-09T01:01:52Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "jimmy-johns-681-tempe",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "681 E Apache Blvd Ste. 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414463999999995,
+  "lng": -111.92889919999999,
+  "phone": "+14805901549",
+  "website": "https://locations.jimmyjohns.com/az/tempe/sandwiches-4052.html&y_source=1_MjAyNDA4NDk2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ9WCPYsIIK4cR5WEByaRpEyA",
+  "googleRating": 3.5,
+  "googleReviewCount": 168,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357914bca1b06e78c9369e",
+  "seededAt": "2026-06-19T17:15:00Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

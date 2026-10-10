@@ -1,0 +1,43 @@
+{
+  "slug": "jimmy-joes-pizzeria-serious-slices-mesa",
+  "name": "Jimmy & Joe's Pizzeria Serious Slices",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Dessert shop",
+    "Pasta shop",
+    "Salad shop",
+    "Sandwich shop"
+  ],
+  "address": "4984 S Power Rd Suite 103",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.325528,
+  "lng": -111.6879181,
+  "phone": "+14808128000",
+  "website": "http://jimmyandjoes.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=481144358538094552",
+  "googleCid": "481144358538094552",
+  "placeId": "ChIJPZdyIOWtK4cR2KdYsD5erQY",
+  "googleRating": 4,
+  "googleReviewCount": 95,
+  "priceRange": "$10–20",
+  "description": "Family-run pizzeria preparing quick slices & 24-in. pies in a spare, counter-serve space.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2645b6dbb5392388390a89",
+  "seededAt": "2026-06-08T04:31:50Z",
+  "updatedAt": "2026-06-08T04:31:50Z",
+  "source": "groundgame"
+}

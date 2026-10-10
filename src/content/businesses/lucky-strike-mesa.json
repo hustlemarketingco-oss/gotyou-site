@@ -1,0 +1,43 @@
+{
+  "slug": "lucky-strike-mesa",
+  "name": "Lucky Strike Mesa",
+  "category": "Fun & Activities",
+  "googleCategory": "Bowling alley",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar and grill",
+    "Sporting goods store",
+    "Bar",
+    "Video arcade",
+    "Sports complex",
+    "Event venue",
+    "Sports activity location"
+  ],
+  "address": "1754 W Southern Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.394321399999995,
+  "lng": -111.8696396,
+  "phone": "+14808340588",
+  "website": "https://www.luckystrikeent.com/location/lucky-strike-mesa",
+  "placeId": "ChIJaZimJeMHK4cR3e150inmRe4",
+  "googleRating": 4.3,
+  "googleReviewCount": 1531,
+  "hours": {
+    "mon": "2:00 PM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "4:00 PM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d4f95ee2965327d72f8b",
+  "seededAt": "2026-06-17T17:10:17Z",
+  "updatedAt": "2026-06-17T17:10:18Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "wood-ash-rye-st-george",
+  "name": "Wood Ash Rye",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Fine dining restaurant",
+    "Night club",
+    "Bar"
+  ],
+  "address": "25 W St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.109672499999995,
+  "lng": -113.5837554,
+  "phone": "+14355225020",
+  "website": "http://www.woodashrye.com/",
+  "placeId": "ChIJa5PLkc9EyoAR975V79jfREw",
+  "googleRating": 4.3,
+  "googleReviewCount": 905,
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b18d9993a5bb2a1b7ee",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

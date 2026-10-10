@@ -1,0 +1,39 @@
+{
+  "slug": "guss-new-york-pizza-tempe",
+  "name": "Gus's New York Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "829 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4212791,
+  "lng": -111.9258086,
+  "phone": "+14808293995",
+  "website": "http://gusnewyorkpizza.com/",
+  "placeId": "ChIJT4ZZ-uYIK4cR1GhsC7H14F4",
+  "googleRating": 4,
+  "googleReviewCount": 2508,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63d308f2ed83fbf39240",
+  "seededAt": "2026-06-12T19:53:55Z",
+  "updatedAt": "2026-07-28T18:25:34Z",
+  "source": "groundgame"
+}

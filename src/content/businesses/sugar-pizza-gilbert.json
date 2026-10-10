@@ -1,0 +1,33 @@
+{
+  "slug": "sugar-pizza-gilbert",
+  "name": "Sugar Pizza",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "644 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.361797,
+  "lng": -111.7898897,
+  "phone": "+19529525911",
+  "website": "https://sugar.pizza/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14955064011829270630",
+  "googleCid": "14955064011829270630",
+  "placeId": "ChIJAR7qKyapK4cRZthPwnsPi88",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "amenities": [
+    "Curbside pickup",
+    "Takeout"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/sugarpizza"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264acce5a64e40938ec75d",
+  "seededAt": "2026-06-08T04:53:32Z",
+  "updatedAt": "2026-06-08T04:53:32Z",
+  "source": "groundgame"
+}

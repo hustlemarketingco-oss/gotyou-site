@@ -1,0 +1,40 @@
+{
+  "slug": "simply-shroom-cafe-scottsdale",
+  "name": "Simply Shroom Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Tea store",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7077 E 5th Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.497985299999996,
+  "lng": -111.92867249999999,
+  "phone": "+14802758126",
+  "website": "https://www.simplyshroom.com/",
+  "placeId": "ChIJnXNDFyYLK4cRijXQQ0DzRYI",
+  "googleRating": 4.6,
+  "googleReviewCount": 140,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 3:00 PM",
+    "tue": "8:00 AM - 3:00 PM",
+    "wed": "8:00 AM - 3:00 PM",
+    "thu": "8:00 AM - 3:00 PM",
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c3181abc0ef333172033d",
+  "seededAt": "2026-06-12T16:19:13Z",
+  "updatedAt": "2026-08-03T18:11:55Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "saltfire-brewery-co-taphouse-tempe",
+  "name": "SaltFire Brewery Co Taphouse",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Bar and grill",
+    "Pizza restaurant",
+    "Pub",
+    "Catering service",
+    "Brewery",
+    "Bar",
+    "Event venue"
+  ],
+  "address": "530 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407619499999996,
+  "lng": -111.9475708,
+  "phone": "+14809219431",
+  "website": "https://saltfirebrewingtaphouse.com/",
+  "placeId": "ChIJ1ReU7csIK4cRY7u9rIUDjx0",
+  "googleRating": 4.4,
+  "googleReviewCount": 2282,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Cash",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 1:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397b32ee1a07c9b9d0bc11",
+  "seededAt": "2026-06-22T18:13:06Z",
+  "updatedAt": "2026-07-23T19:21:54Z",
+  "source": "groundgame"
+}

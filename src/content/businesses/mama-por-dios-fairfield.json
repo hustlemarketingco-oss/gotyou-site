@@ -1,0 +1,36 @@
+{
+  "slug": "mama-por-dios-fairfield",
+  "name": "Mama Por Dios",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "1740 Travis Blvd",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2587032,
+  "lng": -122.06003779999999,
+  "phone": "+17079202309",
+  "website": "https://www.mamapordios.com/",
+  "placeId": "ChIJlfLgpIIVhYARUQkayqfxz1M",
+  "googleRating": 3.9,
+  "googleReviewCount": 317,
+  "hours": {
+    "mon": "5:00 PM - 10:00 PM",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "5:00 PM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472ec168140ba86c7623",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

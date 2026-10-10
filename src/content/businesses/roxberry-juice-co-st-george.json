@@ -1,0 +1,33 @@
+{
+  "slug": "roxberry-juice-co-st-george",
+  "name": "Roxberry Juice Co. St. George",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1537 S River Rd Unit 1",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.08265,
+  "lng": -113.5540219,
+  "phone": "+14352154073",
+  "website": "https://www.roxberryjuice.com/",
+  "placeId": "ChIJ1WozslNbyoARMj2XLaus_S0",
+  "googleRating": 4.7,
+  "googleReviewCount": 32,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4c73c0665906fe59ce",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "silver-silo-bakery-espresso-cedar-city",
+  "name": "Silver Silo Bakery & Espresso",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "777 Cross Hollow Rd",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.6649368,
+  "lng": -113.1055328,
+  "phone": "+14357017667",
+  "website": "http://www.silversilobakeryandespresso.com/",
+  "placeId": "ChIJafwO0JpjtYARdMywP-BGtnc",
+  "googleRating": 4.7,
+  "googleReviewCount": 923,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:30 AM - 7:00 PM",
+    "tue": "5:30 AM - 7:00 PM",
+    "wed": "5:30 AM - 7:00 PM",
+    "thu": "5:30 AM - 7:00 PM",
+    "fri": "5:30 AM - 7:00 PM",
+    "sat": "6:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f1337c7aecf6f3f96e",
+  "seededAt": "2025-12-17T18:39:45Z",
+  "updatedAt": "2025-12-17T18:39:45Z",
+  "source": "groundgame"
+}

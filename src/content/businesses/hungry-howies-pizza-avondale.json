@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-avondale",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Chicken wings restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "12725 W Indian School Rd Ste B102",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.492861,
+  "lng": -112.33297400000001,
+  "phone": "+16235351827",
+  "website": "https://www.hungryhowies.com/stores/az/avondale/12725-w-indian-school-rd-b102",
+  "placeId": "ChIJ-3nWu7JAK4cRad0Fm3blrrI",
+  "googleRating": 4,
+  "googleReviewCount": 401,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cbae09fdc786996039ab",
+  "seededAt": "2026-06-16T22:18:22Z",
+  "updatedAt": "2026-06-16T22:18:22Z",
+  "source": "groundgame"
+}

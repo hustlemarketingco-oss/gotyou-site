@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-15255-scottsdale",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "15255 N 64th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6247311,
+  "lng": -111.9426325,
+  "phone": "+14809910304",
+  "website": "https://restaurants.elpolloloco.com/az/scottsdale/15255-n-64th-street",
+  "placeId": "ChIJZWJeRQ50K4cRY_HULRMWN7o",
+  "googleRating": 4.1,
+  "googleReviewCount": 502,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:30 AM - 9:00 PM",
+    "tue": "9:30 AM - 9:00 PM",
+    "wed": "9:30 AM - 9:00 PM",
+    "thu": "9:30 AM - 9:00 PM",
+    "fri": "9:30 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3dd59ed1c581a000fb4a6e",
+  "seededAt": "2026-06-26T01:27:58Z",
+  "updatedAt": "2026-06-26T01:27:58Z",
+  "source": "groundgame"
+}

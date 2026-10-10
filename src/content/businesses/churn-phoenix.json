@@ -1,0 +1,42 @@
+{
+  "slug": "churn-phoenix",
+  "name": "Churn",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "5223 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85012",
+  "lat": 33.5135467,
+  "lng": -112.0733942,
+  "phone": "+16022798024",
+  "website": "https://churnaz.com/",
+  "placeId": "ChIJU8mrOscSK4cRYiyQ1qfa308",
+  "googleRating": 4.7,
+  "googleReviewCount": 1495,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4ed41addad5b0c8a3e",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

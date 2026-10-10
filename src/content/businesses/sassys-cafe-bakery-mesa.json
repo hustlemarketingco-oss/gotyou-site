@@ -1,0 +1,43 @@
+{
+  "slug": "sassys-cafe-bakery-mesa",
+  "name": "Sassy's Cafe & Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cake shop",
+    "Caterer",
+    "Cupcake shop",
+    "Pastry shop"
+  ],
+  "address": "4210 E Main St",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85205",
+  "phone": "+18667998109",
+  "priceRange": "$10–20",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/105265179590989"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264c0e13ab5e6d3d67f6ab",
+  "seededAt": "2026-06-08T04:58:54Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

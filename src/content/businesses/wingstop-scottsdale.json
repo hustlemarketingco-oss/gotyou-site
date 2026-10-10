@@ -1,0 +1,45 @@
+{
+  "slug": "wingstop-scottsdale",
+  "name": "Wingstop",
+  "category": "Fast Food",
+  "googleCategory": "Chicken wings restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Restaurant"
+  ],
+  "address": "7730 E McDowell Rd #109",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "phone": "+16028518815",
+  "priceRange": "$10–20",
+  "description": "Casual counter-serve chain serving a variety of chicken wings & sides.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/Wingstop"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ef7af3312d8d8c6283b",
+  "seededAt": "2026-06-06T15:38:31Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

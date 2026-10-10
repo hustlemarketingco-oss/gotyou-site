@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-3211-phoenix",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3211 E Baseline Rd Suite A",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.377488,
+  "lng": -112.0118648,
+  "phone": "+16023620201",
+  "website": "https://locations.einsteinbros.com/us/az/phoenix/3211-east-baseline-road?y_source=1_MjAyMTA1NDg4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ5ewCuT4PK4cRm7uBtD9w3po",
+  "googleRating": 4.5,
+  "googleReviewCount": 69,
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994c99aa52e2ee1cef64e",
+  "seededAt": "2026-06-10T16:46:01Z",
+  "updatedAt": "2026-06-12T22:06:08Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "the-smoked-taco-st-george",
+  "name": "The Smoked Taco",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Barbecue restaurant"
+  ],
+  "address": "471 E St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.110075099999996,
+  "lng": -113.57317560000001,
+  "phone": "+14352874600",
+  "website": "https://thesmokedtaco.com/",
+  "placeId": "ChIJs9QabbxFyoAR2HBTkDS2RwU",
+  "googleRating": 4.6,
+  "googleReviewCount": 651,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e636168adfb5ede5a0708",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

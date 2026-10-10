@@ -1,0 +1,41 @@
+{
+  "slug": "kuka-sushi-izakaya-tempe",
+  "name": "Kuka Sushi & Izakaya",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese izakaya restaurant",
+    "Ramen restaurant",
+    "Yakitori restaurant",
+    "Bar",
+    "Japanese restaurant"
+  ],
+  "address": "1221 E Apache Blvd Suite103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4145961,
+  "lng": -111.9193594,
+  "phone": "+14803064386",
+  "website": "http://kukasushi.com/",
+  "placeId": "ChIJzYZ61uIJK4cRtItvjQKWXGk",
+  "googleRating": 4.4,
+  "googleReviewCount": 727,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 9:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738c6e7917f424e93c825",
+  "seededAt": "2026-06-08T21:48:54Z",
+  "updatedAt": "2026-06-12T22:05:48Z",
+  "source": "groundgame"
+}

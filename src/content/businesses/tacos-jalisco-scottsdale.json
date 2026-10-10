@@ -1,0 +1,61 @@
+{
+  "slug": "tacos-jalisco-scottsdale",
+  "name": "Tacos Jalisco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "3060 N 68th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4832861,
+  "lng": -111.9351667,
+  "phone": "+14809419095",
+  "website": "http://tacosjaliscoscottsdale.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11956267177490797321",
+  "googleCid": "11956267177490797321",
+  "placeId": "ChIJ--CMKe8LK4cRCVMAoqYx7aU",
+  "googleRating": 4.4,
+  "googleReviewCount": 1766,
+  "priceRange": "$10–20",
+  "description": "Unassuming counter-serve restaurant doling out Mexican street eats & combo plates.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/tacosjaliscoscottsdale"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM",
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243cdc291ec7d58bedfec0",
+  "seededAt": "2026-06-06T15:29:32Z",
+  "updatedAt": "2026-07-14T16:17:58Z",
+  "source": "groundgame"
+}

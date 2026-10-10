@@ -1,0 +1,37 @@
+{
+  "slug": "americana-pizza-vista-boise",
+  "name": "Americana Pizza Vista",
+  "category": "Fast Food",
+  "googleCategory": "Meal takeaway",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "1504 S Vista Ave",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83705",
+  "lat": 43.5908127,
+  "lng": -116.21338159999999,
+  "phone": "+12083446749",
+  "website": "https://www.slicesofamericana.com/",
+  "placeId": "ChIJb-twagD5rlQRfej5hjmHLyU",
+  "googleRating": 4.8,
+  "googleReviewCount": 41,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b5403b6b74554b75389",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

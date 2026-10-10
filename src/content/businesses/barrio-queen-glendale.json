@@ -1,0 +1,37 @@
+{
+  "slug": "barrio-queen-glendale",
+  "name": "Barrio Queen",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7640 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6387158,
+  "lng": -112.22356389999999,
+  "phone": "+16022878226",
+  "website": "https://www.barrioqueen.com/",
+  "placeId": "ChIJPWQondtpK4cRHdFS14WrU2M",
+  "googleRating": 4.2,
+  "googleReviewCount": 1925,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3456ee91f45d79fca217ba",
+  "seededAt": "2026-06-18T20:37:02Z",
+  "updatedAt": "2026-06-18T20:37:03Z",
+  "source": "groundgame"
+}

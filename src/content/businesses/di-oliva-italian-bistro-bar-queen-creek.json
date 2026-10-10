@@ -1,0 +1,35 @@
+{
+  "slug": "di-oliva-italian-bistro-bar-queen-creek",
+  "name": "Di Oliva Italian Bistro & Bar",
+  "category": "Restaurant",
+  "googleCategory": "Bistro",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "25062 S Meridian Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2204105,
+  "lng": -111.5829172,
+  "website": "https://www.queencreekolivemill.com/pages/di-oliva",
+  "placeId": "ChIJsQfOfSRNKocR-XKDT9kpnwU",
+  "googleRating": 4.7,
+  "googleReviewCount": 18,
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 9:00 PM",
+    "sat": "4:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2dba09ee0c96d91a277",
+  "seededAt": "2026-06-10T17:46:03Z",
+  "updatedAt": "2026-06-10T17:46:03Z",
+  "source": "groundgame"
+}

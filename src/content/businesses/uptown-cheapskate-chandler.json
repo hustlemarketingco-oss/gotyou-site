@@ -1,0 +1,37 @@
+{
+  "slug": "uptown-cheapskate-chandler",
+  "name": "Uptown Cheapskate Chandler",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Discount store",
+    "Clothing store"
+  ],
+  "address": "3454 W Chandler Blvd #18",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3076235,
+  "lng": -111.89984559999999,
+  "phone": "+14807860043",
+  "website": "https://uptowncheapskate.com/location/chandler",
+  "placeId": "ChIJ6Y_S2SoHK4cRGhmdojCwmOk",
+  "googleRating": 4.5,
+  "googleReviewCount": 1055,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397f895ca373fac4e3b96d",
+  "seededAt": "2026-06-22T18:31:37Z",
+  "updatedAt": "2026-06-22T18:31:38Z",
+  "source": "groundgame"
+}

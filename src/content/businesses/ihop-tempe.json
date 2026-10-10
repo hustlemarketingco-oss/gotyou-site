@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-tempe",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "705 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.423476799999996,
+  "lng": -111.9258366,
+  "phone": "+14803036585",
+  "website": "https://restaurants.ihop.com/en-us/az/tempe/breakfast-705-s-rural-ave-3388",
+  "placeId": "ChIJWU-P0-AIK4cRpuUQzwdT3N0",
+  "googleRating": 4,
+  "googleReviewCount": 2972,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddcd70b8b3ac7a3f8b17",
+  "seededAt": "2026-06-17T17:47:57Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

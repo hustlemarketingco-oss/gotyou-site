@@ -1,0 +1,37 @@
+{
+  "slug": "jimmy-johns-glendale",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5826 W Olive Ave Ste B108",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85302",
+  "lat": 33.569043,
+  "lng": -112.1846149,
+  "phone": "+16232138477",
+  "website": "https://locations.jimmyjohns.com/az/glendale/sandwiches-3962.html&y_source=1_MjAyNDA4NDA3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ17kTEXZrK4cRiQ4DcDhSVbI",
+  "googleRating": 3.9,
+  "googleReviewCount": 296,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a35792aa68f5cc0b14fd293",
+  "seededAt": "2026-06-19T17:15:22Z",
+  "updatedAt": "2026-06-19T17:15:23Z",
+  "source": "groundgame"
+}

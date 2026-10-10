@@ -1,0 +1,36 @@
+{
+  "slug": "burrito-express-5202-gilbert",
+  "name": "BURRITO EXPRESS",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant"
+  ],
+  "address": "5202 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.379999999999995,
+  "lng": -111.7216667,
+  "website": "http://www.theburritoexpress.com/",
+  "placeId": "ChIJ1-nXlv2uK4cRB7F4g0_qiqg",
+  "googleRating": 4.2,
+  "googleReviewCount": 1454,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 3:00 PM",
+    "tue": "6:00 AM - 3:00 PM",
+    "wed": "6:00 AM - 3:00 PM",
+    "thu": "6:00 AM - 3:00 PM",
+    "fri": "6:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a307e7d04b7e08fb7bae",
+  "seededAt": "2026-06-22T21:03:03Z",
+  "updatedAt": "2026-06-22T21:03:06Z",
+  "source": "groundgame"
+}

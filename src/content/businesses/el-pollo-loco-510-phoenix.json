@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-510-phoenix",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "510 E Bell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.6406859,
+  "lng": -112.067664,
+  "phone": "+16025488513",
+  "website": "https://restaurants.elpolloloco.com/az/phoenix/510-e-bell-rd",
+  "placeId": "ChIJY0hf6D5uK4cRlLf-ts1Lv3c",
+  "googleRating": 4.2,
+  "googleReviewCount": 1168,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83a1fcf00e35a144f7ac",
+  "seededAt": "2026-06-25T19:38:09Z",
+  "updatedAt": "2026-06-25T19:38:10Z",
+  "source": "groundgame"
+}

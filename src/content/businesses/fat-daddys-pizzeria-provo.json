@@ -43,11 +43,12 @@
     "sun": "4:00 PM - 8:00 PM"
   },
   "timezone": "America/Denver",
-  "claimStatus": "unclaimed",
+  "claimStatus": "claimed",
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "description": "Fat Daddy's Pizzeria is a downtown Provo pizza spot on West Center Street that also delivers. It's open for lunch and dinner and has more than 2,300 reviews with a 4.6-star average.",
-  "enrichedAt": "2026-10-04T18:45:49Z"
+  "enrichedAt": "2026-10-04T18:45:49Z",
+  "groundgameId": "6940fa17b3f0dc0fc1112e1d"
 }

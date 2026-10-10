@@ -1,0 +1,37 @@
+{
+  "slug": "rocket-fizz-scottsdale",
+  "name": "Rocket Fizz",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Candy store",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7101 E Stetson Dr",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4986384,
+  "lng": -111.9280409,
+  "phone": "+14806254937",
+  "website": "https://rocketfizz.com/",
+  "placeId": "ChIJp_IXilELK4cRyCk-ljiy_LA",
+  "googleRating": 4.3,
+  "googleReviewCount": 13,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276600dcb9c14da199a5e1",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

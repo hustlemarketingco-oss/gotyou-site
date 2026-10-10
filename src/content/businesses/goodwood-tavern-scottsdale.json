@@ -1,0 +1,40 @@
+{
+  "slug": "goodwood-tavern-scottsdale",
+  "name": "Goodwood Tavern",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar and grill",
+    "Pub",
+    "Bar"
+  ],
+  "address": "7330 E Stetson Dr",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.499764299999995,
+  "lng": -111.9230753,
+  "phone": "+14809902388",
+  "website": "http://goodwoodtavern.com/",
+  "placeId": "ChIJ9UM6DbwLK4cRgazmO8AXKYw",
+  "googleRating": 4.2,
+  "googleReviewCount": 760,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "3:00 PM - 2:00 AM",
+    "tue": "3:00 PM - 2:00 AM",
+    "wed": "3:00 PM - 2:00 AM",
+    "thu": "3:00 PM - 2:00 AM",
+    "fri": "3:00 PM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a43c3a7badc7f76a97f9db7",
+  "seededAt": "2026-06-30T13:24:55Z",
+  "updatedAt": "2026-06-30T13:29:27Z",
+  "source": "groundgame"
+}

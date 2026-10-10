@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-park-san-tan-chandler",
+  "name": "Firehouse Subs Park San Tan",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "3245 W Ray Rd #1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.319810000000004,
+  "lng": -111.89707,
+  "phone": "+14807268200",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJFblLRiQHK4cRR8czoC-5PVs",
+  "googleRating": 4.2,
+  "googleReviewCount": 632,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afacc588c6d0fc2fc66",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

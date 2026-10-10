@@ -1,0 +1,42 @@
+{
+  "slug": "bei-sushi-bar-asian-cuisine-scottsdale",
+  "name": "Bei Sushi, Bar, Asian Cuisine",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Fusion restaurant",
+    "Bar and grill",
+    "Bar",
+    "Japanese restaurant"
+  ],
+  "address": "2200 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.47215630000001,
+  "lng": -111.92649519999999,
+  "phone": "+14804716609",
+  "website": "http://beisushi.com/",
+  "placeId": "ChIJ6wPLNUJ0K4cRvt9tBDIDB7U",
+  "googleRating": 4.5,
+  "googleReviewCount": 1018,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:30 PM",
+    "tue": "11:00 AM - 10:30 PM",
+    "wed": "11:00 AM - 10:30 PM",
+    "thu": "11:00 AM - 10:30 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "12:00 PM - 12:00 AM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738c08b09b9568afa3386",
+  "seededAt": "2026-06-08T21:48:48Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

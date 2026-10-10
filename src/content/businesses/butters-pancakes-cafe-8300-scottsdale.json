@@ -1,0 +1,40 @@
+{
+  "slug": "butters-pancakes-cafe-8300-scottsdale",
+  "name": "Butters Pancakes & Café",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Cafe",
+    "American restaurant"
+  ],
+  "address": "8300 Hayden Rd f104",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5571559,
+  "lng": -111.8989754,
+  "phone": "+14806294333",
+  "website": "http://butterscafe.com/",
+  "placeId": "ChIJ-zuhuNYKK4cR4_x6LHwES7A",
+  "googleRating": 4.7,
+  "googleReviewCount": 4470,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:30 PM",
+    "tue": "6:30 AM - 2:30 PM",
+    "wed": "6:30 AM - 2:30 PM",
+    "thu": "6:30 AM - 2:30 PM",
+    "fri": "6:30 AM - 2:30 PM",
+    "sat": "6:30 AM - 2:30 PM",
+    "sun": "6:30 AM - 2:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276616ba325ef6a65cba4a",
+  "seededAt": "2026-06-09T01:02:14Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "mariscos-el-wicho-tempe",
+  "name": "Mariscos El Wicho",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Mexican restaurant"
+  ],
+  "address": "930 W Broadway Rd suit 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4077218,
+  "lng": -111.9530977,
+  "phone": "+16233323425",
+  "website": "https://mariscoselwicho.com/",
+  "placeId": "ChIJ2xXRkWATK4cRu5aaI4ZxGtw",
+  "googleRating": 4.7,
+  "googleReviewCount": 297,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 7:30 PM",
+    "tue": "10:00 AM - 7:30 PM",
+    "wed": "10:00 AM - 7:30 PM",
+    "thu": "10:00 AM - 7:30 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a57cfb70204f257533449c2",
+  "seededAt": "2026-07-15T18:21:43Z",
+  "updatedAt": "2026-07-30T18:20:01Z",
+  "source": "groundgame"
+}

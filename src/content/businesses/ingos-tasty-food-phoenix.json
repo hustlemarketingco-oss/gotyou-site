@@ -1,0 +1,42 @@
+{
+  "slug": "ingos-tasty-food-phoenix",
+  "name": "Ingo’s Tasty Food",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Sandwich shop",
+    "Hamburger restaurant",
+    "Cocktail bar",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "4502 N 40th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.5027208,
+  "lng": -111.9956342,
+  "phone": "+16027952884",
+  "website": "https://ingostastyfood.com/",
+  "placeId": "ChIJCZl5FuMMK4cRCPlnCbwUd9k",
+  "googleRating": 4.6,
+  "googleReviewCount": 1168,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3052e52cb90a8369279e59",
+  "seededAt": "2026-06-15T19:30:45Z",
+  "updatedAt": "2026-06-23T03:44:08Z",
+  "source": "groundgame"
+}

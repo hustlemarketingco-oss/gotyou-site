@@ -1,0 +1,43 @@
+{
+  "slug": "cold-stone-creamery-scottsdale",
+  "name": "Cold Stone Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Cake shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "9210 East Vía de Ventura Ste 103",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5540472,
+  "lng": -111.88176159999999,
+  "phone": "+14804346071",
+  "website": "https://www.coldstonecreamery.com/stores/24255",
+  "placeId": "ChIJ_0hBwQkLK4cRJcCWOG0pGX0",
+  "googleRating": 4.4,
+  "googleReviewCount": 13,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c2685cbaa5d89d0994690",
+  "seededAt": "2026-06-12T15:32:21Z",
+  "updatedAt": "2026-06-12T22:03:24Z",
+  "source": "groundgame"
+}

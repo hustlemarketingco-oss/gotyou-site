@@ -1,0 +1,39 @@
+{
+  "slug": "el-pollo-correteado-restaurant-phoenix",
+  "name": "El Pollo Correteado Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Latin american restaurant",
+    "Mexican restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "2904 W McDowell Rd #2",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85009",
+  "lat": 33.466088299999996,
+  "lng": -112.1216092,
+  "phone": "+16022782381",
+  "website": "http://elpollocorreteado.com/",
+  "placeId": "ChIJDUCcnJcTK4cRe6sfl1Z_X2A",
+  "googleRating": 4.5,
+  "googleReviewCount": 1262,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d839d0a73084dda543b9a",
+  "seededAt": "2026-06-25T19:38:05Z",
+  "updatedAt": "2026-06-25T19:38:06Z",
+  "source": "groundgame"
+}

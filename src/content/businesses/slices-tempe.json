@@ -1,0 +1,44 @@
+{
+  "slug": "slices-tempe",
+  "name": "Slices",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Italian restaurant"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4335291,
+  "lng": -111.9019388,
+  "phone": "+14809662021",
+  "website": "https://slicestempemarketplace.com/home",
+  "placeId": "ChIJq3vqPlQIK4cRPNF9QUv2qdo",
+  "googleRating": 4.3,
+  "googleReviewCount": 442,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63da8dc75e4cc043f93f",
+  "seededAt": "2026-06-12T19:54:02Z",
+  "updatedAt": "2026-07-10T18:48:09Z",
+  "source": "groundgame"
+}

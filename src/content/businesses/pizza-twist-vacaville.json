@@ -1,0 +1,37 @@
+{
+  "slug": "pizza-twist-vacaville",
+  "name": "Pizza Twist",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "140 Nut Tree Pkwy",
+  "city": "Vacaville",
+  "state": "CA",
+  "zip": "95687",
+  "lat": 38.367286199999995,
+  "lng": -121.95946069999998,
+  "phone": "+17073051777",
+  "website": "https://www.pizzatwist.com/locations/best-pizza-in-vacaville-ca",
+  "placeId": "ChIJ082LMa09hYARxcB9P0XGGgM",
+  "googleRating": 4.4,
+  "googleReviewCount": 314,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee01c90eff4adfd318",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

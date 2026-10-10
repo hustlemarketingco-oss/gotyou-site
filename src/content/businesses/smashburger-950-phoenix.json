@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-950-phoenix",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "950 E Bell Rd #130",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.641022,
+  "lng": -112.0601642,
+  "phone": "+14803789060",
+  "website": "https://smashburger.com/",
+  "placeId": "ChIJxbxhJj1uK4cRu2Y_5n6JiyU",
+  "googleRating": 3.8,
+  "googleReviewCount": 988,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cc164c560b3377e1524",
+  "seededAt": "2026-06-19T17:30:41Z",
+  "updatedAt": "2026-06-19T17:30:42Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "red-bench-pizza-boise",
+  "name": "Red Bench Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pub",
+    "Wine bar",
+    "Bar",
+    "Italian restaurant"
+  ],
+  "address": "1204 S Vista Ave",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83705",
+  "lat": 43.5931929,
+  "lng": -116.21326429999999,
+  "phone": "+12083446600",
+  "website": "https://redbenchpizza.com/",
+  "placeId": "ChIJwbYKn2X4rlQRpiaIovTMS1E",
+  "googleRating": 4.6,
+  "googleReviewCount": 1042,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b4f85115a5d474167a1",
+  "seededAt": "2026-01-16T01:58:39Z",
+  "updatedAt": "2026-01-16T01:58:39Z",
+  "source": "groundgame"
+}

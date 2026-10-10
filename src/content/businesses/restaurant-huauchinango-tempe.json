@@ -1,0 +1,36 @@
+{
+  "slug": "restaurant-huauchinango-tempe",
+  "name": "Restaurant Huauchinango",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "805 S Farmer Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216073,
+  "lng": -111.943868,
+  "phone": "+14802338669",
+  "placeId": "ChIJ5YCwg78JK4cRcSJcPhUDtkA",
+  "googleRating": 4.8,
+  "googleReviewCount": 150,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a74d8df39a978670ccdcb0a",
+  "seededAt": "2026-08-06T18:56:31Z",
+  "updatedAt": "2026-08-06T18:59:51Z",
+  "source": "groundgame"
+}

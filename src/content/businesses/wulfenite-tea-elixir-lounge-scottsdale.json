@@ -1,0 +1,58 @@
+{
+  "slug": "wulfenite-tea-elixir-lounge-scottsdale",
+  "name": "Wulfenite Tea & Elixir Lounge",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "secondaryCategories": [
+    "Açaí shop",
+    "Coffee shop",
+    "Lounge bar",
+    "Juice shop"
+  ],
+  "address": "6990 E Shea Blvd # 107",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.5828896,
+  "lng": -111.9306258,
+  "website": "https://wulfenitekava.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11060260855121035105",
+  "googleCid": "11060260855121035105",
+  "placeId": "ChIJaWZkjph1K4cRYb-l4KXwfZk",
+  "googleRating": 4.8,
+  "googleReviewCount": 326,
+  "priceRange": "$10–20",
+  "description": "Located in Scottsdale, Wulfenite Tea & Elixir Lounge is a casual, cozy tea house & açaí shop with takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/wulfeniteteaandelixir"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 5:00 PM",
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c127e558243a277b480",
+  "seededAt": "2026-06-06T15:26:10Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "sweet-rolled-tacos-st-george",
+  "name": "Sweet Rolled Tacos",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "250 Red Cliffs Dr #6",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1128394,
+  "lng": -113.5533566,
+  "phone": "+14353594880",
+  "placeId": "ChIJr1gSextbyoAR17i-OZfS_mg",
+  "googleRating": 4.3,
+  "googleReviewCount": 590,
+  "hours": {
+    "mon": "1:00 PM - 10:00 PM",
+    "tue": "1:00 PM - 10:00 PM",
+    "wed": "1:00 PM - 10:00 PM",
+    "thu": "1:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 9:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8dfd8a5bb8c52c2ffbf",
+  "seededAt": "2025-12-17T18:39:27Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "mountain-mikes-pizza-mesa",
+  "name": "Mountain Mike's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Buffet restaurant",
+    "Family restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "849 N Dobson Rd suite 112",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4333236,
+  "lng": -111.86898850000001,
+  "phone": "+14809924131",
+  "website": "https://www.mountainmikespizza.com/locations/mesa-n-dobson/",
+  "placeId": "ChIJa9bQD4kJK4cRAutOhML9ENc",
+  "googleRating": 4.3,
+  "googleReviewCount": 607,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a396f64d3a0dbc7b56539c8",
+  "seededAt": "2026-06-22T17:22:44Z",
+  "updatedAt": "2026-07-29T20:09:27Z",
+  "source": "groundgame"
+}

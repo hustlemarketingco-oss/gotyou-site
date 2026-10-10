@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-scottsdale",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "7014-590 E Camelback Rd Suite 562",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5041321,
+  "lng": -111.9294185,
+  "phone": "+14809451928",
+  "website": "https://restaurants.fiveguys.com/7014-590-east-camelback-road",
+  "placeId": "ChIJT3YIDbgLK4cR_gJGs4WyDuU",
+  "googleRating": 4.1,
+  "googleReviewCount": 530,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27664751fbad44b0a50db7",
+  "seededAt": "2026-06-09T01:03:03Z",
+  "updatedAt": "2026-06-12T22:04:05Z",
+  "source": "groundgame"
+}

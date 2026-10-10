@@ -1,0 +1,37 @@
+{
+  "slug": "fat-tuesday-tempe",
+  "name": "Fat Tuesday",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Cocktail bar"
+  ],
+  "address": "680 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.423811799999996,
+  "lng": -111.9402827,
+  "phone": "+14809673917",
+  "website": "http://www.fattuesdayaz.com/",
+  "placeId": "ChIJMeEFK9gIK4cRiSa6pZJfIFs",
+  "googleRating": 4.2,
+  "googleReviewCount": 1397,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 2:00 AM",
+    "tue": "11:00 AM - 2:00 AM",
+    "wed": "11:00 AM - 2:00 AM",
+    "thu": "11:00 AM - 2:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397b2ea15d1e0bc265f93e",
+  "seededAt": "2026-06-22T18:13:02Z",
+  "updatedAt": "2026-07-07T20:30:40Z",
+  "source": "groundgame"
+}

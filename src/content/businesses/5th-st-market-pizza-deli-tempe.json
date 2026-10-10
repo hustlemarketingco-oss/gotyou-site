@@ -1,0 +1,40 @@
+{
+  "slug": "5th-st-market-pizza-deli-tempe",
+  "name": "5th St Market Pizza & Deli",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Liquor store",
+    "Sandwich shop",
+    "Market",
+    "Food store"
+  ],
+  "address": "200 E 5th St Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4256825,
+  "lng": -111.93680719999999,
+  "phone": "+14805904578",
+  "website": "https://5thstmarkettempe.com/",
+  "placeId": "ChIJfUDSRpQJK4cR6mV5oldVlpQ",
+  "googleRating": 3.2,
+  "googleReviewCount": 30,
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "8:00 AM - 12:00 AM",
+    "sun": "8:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63cfe2f3bbaa06cd77f6",
+  "seededAt": "2026-06-12T19:53:51Z",
+  "updatedAt": "2026-06-26T20:38:45Z",
+  "source": "groundgame"
+}

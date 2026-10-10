@@ -1,0 +1,49 @@
+{
+  "slug": "mcdonalds-scottsdale",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "4830 E Bell Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "phone": "+16024938224",
+  "priceRange": "$10–20",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/McDonalds"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c0bce3713e5f5e35eaa",
+  "seededAt": "2026-06-06T15:26:03Z",
+  "updatedAt": "2026-06-12T22:06:00Z",
+  "source": "groundgame"
+}

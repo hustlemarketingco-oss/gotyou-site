@@ -1,0 +1,38 @@
+{
+  "slug": "blue-bottle-coffee-beverly-hills",
+  "name": "Blue Bottle Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "132 S Beverly Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90212",
+  "lat": 34.065835,
+  "lng": -118.3987908,
+  "phone": "+15106613510",
+  "website": "https://bluebottlecoffee.com/us/eng/southern-california-cafes",
+  "placeId": "ChIJp-vSTPm7woARBtBbStLcqsI",
+  "googleRating": 4.5,
+  "googleReviewCount": 378,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 5:00 PM",
+    "tue": "6:00 AM - 5:00 PM",
+    "wed": "6:00 AM - 5:00 PM",
+    "thu": "6:00 AM - 5:00 PM",
+    "fri": "6:00 AM - 5:00 PM",
+    "sat": "6:30 AM - 5:00 PM",
+    "sun": "6:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1ac0119ebde3c8f7a3d9",
+  "seededAt": "2026-02-12T18:24:00Z",
+  "updatedAt": "2026-02-12T18:24:00Z",
+  "source": "groundgame"
+}

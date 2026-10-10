@@ -1,0 +1,40 @@
+{
+  "slug": "paiks-noodle-hongkong-banjum0410-mesa",
+  "name": "Paik's Noodle(Hongkong Banjum0410)",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1135 S Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3943531,
+  "lng": -111.87285059999999,
+  "phone": "+14804640410",
+  "website": "https://hongkongbanjum.menu11.com/mesa/order",
+  "placeId": "ChIJxbG7RuIHK4cRHu5Q0kJgjq0",
+  "googleRating": 4,
+  "googleReviewCount": 94,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 7:30 PM",
+    "tue": "10:30 AM - 7:30 PM",
+    "wed": "10:30 AM - 7:30 PM",
+    "thu": "10:30 AM - 7:30 PM",
+    "fri": "10:30 AM - 7:30 PM",
+    "sat": "10:30 AM - 7:30 PM",
+    "sun": "10:30 AM - 7:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fbfdcd2c2a9ac2aef3b61",
+  "seededAt": "2026-07-21T18:52:12Z",
+  "updatedAt": "2026-08-06T19:58:52Z",
+  "source": "groundgame"
+}

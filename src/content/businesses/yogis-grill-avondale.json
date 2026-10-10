@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-avondale",
+  "name": "Yogis Grill - Avondale",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant"
+  ],
+  "address": "10220 W McDowell Rd #110",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4663155,
+  "lng": -112.28007729999999,
+  "phone": "+16239368282",
+  "website": "https://yogisgrill.com/stores/6-avondale/",
+  "placeId": "ChIJB9r_VaM_K4cR-06nKREyfhc",
+  "googleRating": 3.7,
+  "googleReviewCount": 607,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ca998a1bcb148e7bee7a5",
+  "seededAt": "2026-06-25T04:07:52Z",
+  "updatedAt": "2026-06-25T04:07:52Z",
+  "source": "groundgame"
+}

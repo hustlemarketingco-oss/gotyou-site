@@ -1,0 +1,37 @@
+{
+  "slug": "la-casa-de-juana-phoenix",
+  "name": "La Casa De Juana",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3941 E Chandler Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85048",
+  "lat": 33.303807,
+  "lng": -111.9998933,
+  "phone": "+14806269295",
+  "website": "http://juanasrestaurant.com/",
+  "placeId": "ChIJqUXwyJMFK4cRvivZOB23NsI",
+  "googleRating": 4.3,
+  "googleReviewCount": 514,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fbf50efdd153ca4105233",
+  "seededAt": "2026-07-21T18:49:52Z",
+  "updatedAt": "2026-07-21T18:49:52Z",
+  "source": "groundgame"
+}

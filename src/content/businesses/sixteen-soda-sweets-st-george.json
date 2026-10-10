@@ -1,0 +1,30 @@
+{
+  "slug": "sixteen-soda-sweets-st-george",
+  "name": "Sixteen Soda & Sweets",
+  "category": "Restaurant",
+  "address": "1770 Red Cliffs Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1153423,
+  "lng": -113.5453392,
+  "placeId": "ChIJc79JQABbyoARdIo5Is4lF-A",
+  "googleRating": 4.3,
+  "googleReviewCount": 67,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b6aaa232c21a34af890",
+  "seededAt": "2025-12-16T15:31:54Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

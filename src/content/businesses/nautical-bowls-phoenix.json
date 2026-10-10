@@ -1,0 +1,37 @@
+{
+  "slug": "nautical-bowls-phoenix",
+  "name": "Nautical Bowls",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Brazilian restaurant"
+  ],
+  "address": "21001 N Tatum Blvd Ste 80-1660",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.6793384,
+  "lng": -111.9753939,
+  "phone": "+14808257338",
+  "website": "https://nauticalbowls.com/store/phoenix-1-az/",
+  "placeId": "ChIJ2dGyWlVxK4cR7rthQx8we6I",
+  "googleRating": 4.9,
+  "googleReviewCount": 432,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303e1970eefd164adcf16e",
+  "seededAt": "2026-06-15T18:02:01Z",
+  "updatedAt": "2026-06-15T18:02:02Z",
+  "source": "groundgame"
+}

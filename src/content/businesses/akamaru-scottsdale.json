@@ -1,0 +1,36 @@
+{
+  "slug": "akamaru-scottsdale",
+  "name": "Akamaru Scottsdale",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Japanese izakaya restaurant"
+  ],
+  "address": "15689 Hayden Rd #126",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.628107299999996,
+  "lng": -111.89157259999999,
+  "phone": "+14808186163",
+  "website": "https://www.akamaruscottsdale.com/",
+  "placeId": "ChIJzwH8IZp1K4cRZG3jZx2Kpd8",
+  "googleRating": 4.8,
+  "googleReviewCount": 116,
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:30 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 9:30 PM",
+    "sun": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d7842dd161e03d0b96",
+  "seededAt": "2026-06-09T01:05:27Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

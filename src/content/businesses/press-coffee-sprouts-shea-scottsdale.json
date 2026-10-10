@@ -1,0 +1,39 @@
+{
+  "slug": "press-coffee-sprouts-shea-scottsdale",
+  "name": "Press Coffee - Sprouts Shea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee roastery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "9301 E Shea Blvd Ste 132",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.58148,
+  "lng": -111.88072,
+  "phone": "+14802145106",
+  "website": "https://presscoffee.com/pages/sprouts-shea",
+  "placeId": "ChIJecN7mTp1K4cR2wgNDdKbbCE",
+  "googleRating": 4.3,
+  "googleReviewCount": 14,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9280fb713a2998efb0a",
+  "seededAt": "2026-06-10T19:21:12Z",
+  "updatedAt": "2026-06-10T19:21:13Z",
+  "source": "groundgame"
+}

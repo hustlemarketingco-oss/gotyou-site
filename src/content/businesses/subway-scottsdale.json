@@ -1,0 +1,49 @@
+{
+  "slug": "subway-scottsdale",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout restaurant",
+    "Restaurant"
+  ],
+  "address": "1495 Hayden Rd STE 6",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "phone": "+14803064531",
+  "priceRange": "$10–20",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Healthy options",
+    "Quick bite",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/subway"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243fcd9086096025e23e51",
+  "seededAt": "2026-06-06T15:42:05Z",
+  "updatedAt": "2026-06-12T22:05:54Z",
+  "source": "groundgame"
+}

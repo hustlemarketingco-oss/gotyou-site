@@ -1,0 +1,36 @@
+{
+  "slug": "princess-mediterranean-market-and-deli-mesa",
+  "name": "Princess Mediterranean Market and Deli",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "2620 W Broadway Rd #10",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.408291399999996,
+  "lng": -111.8877503,
+  "phone": "+14808941499",
+  "website": "https://www.princessmarket.com/",
+  "placeId": "ChIJTeYswFkJK4cRel7GI2tnq6w",
+  "googleRating": 4.6,
+  "googleReviewCount": 25,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1cfc43f647727fc873dd",
+  "seededAt": "2026-06-12T14:51:40Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "pizza-900-wood-fired-pizzeria-laguna-hills",
+  "name": "Pizza 900 Wood fired Pizzeria",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "23020 Lake Forest Dr # 170",
+  "city": "Laguna Hills",
+  "state": "CA",
+  "zip": "92653",
+  "lat": 33.6284645,
+  "lng": -117.72543999999999,
+  "phone": "+19493289988",
+  "website": "http://www.pizza900.com/",
+  "placeId": "ChIJY0D7NWXo3IARVBl1RhXH1NE",
+  "googleRating": 4.7,
+  "googleReviewCount": 998,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80f0ef3543bc1d38199",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

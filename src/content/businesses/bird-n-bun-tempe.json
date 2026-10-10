@@ -1,0 +1,42 @@
+{
+  "slug": "bird-n-bun-tempe",
+  "name": "Bird-N-Bun",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1537 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4073214,
+  "lng": -111.9655293,
+  "website": "http://www.birdnbun.com/",
+  "placeId": "ChIJ2TqNmfcPK4cRrUpn2csFE-A",
+  "googleRating": 2.2,
+  "googleReviewCount": 10,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Google Pay",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a67a66e352f098ea9dd375d",
+  "seededAt": "2026-07-27T18:41:50Z",
+  "updatedAt": "2026-07-27T18:42:43Z",
+  "source": "groundgame"
+}

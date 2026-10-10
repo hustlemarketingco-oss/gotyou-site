@@ -1,0 +1,38 @@
+{
+  "slug": "peter-piper-pizza-245-phoenix",
+  "name": "Peter Piper Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Video arcade"
+  ],
+  "address": "245 E Bell Rd #55",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.6374615,
+  "lng": -112.07195689999999,
+  "phone": "+16028630977",
+  "website": "https://locations.peterpiperpizza.com/az/phoenix/245-e-bell-road",
+  "placeId": "ChIJd9J-Yj9uK4cRzIElYFG17JM",
+  "googleRating": 4.1,
+  "googleReviewCount": 1661,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ed4fba1f4926c366835c6",
+  "seededAt": "2026-06-26T19:37:31Z",
+  "updatedAt": "2026-06-26T19:37:32Z",
+  "source": "groundgame"
+}

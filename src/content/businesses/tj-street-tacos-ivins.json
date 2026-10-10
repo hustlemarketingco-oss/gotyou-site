@@ -1,0 +1,36 @@
+{
+  "slug": "tj-street-tacos-ivins",
+  "name": "Tj Street Tacos",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "Snow Canyon Pkwy",
+  "city": "Ivins",
+  "state": "UT",
+  "zip": "84738",
+  "lat": 37.1606272,
+  "lng": -113.6450874,
+  "phone": "+14352196650",
+  "website": "https://www.facebook.com/profile.php?id=100089536263262",
+  "placeId": "ChIJz9sAWYtDyoARiUugBop0F0E",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "hours": {
+    "mon": "9:00 AM - 2:00 PM",
+    "tue": "9:00 AM - 2:00 PM",
+    "wed": "9:00 AM - 2:00 PM",
+    "thu": "9:00 AM - 2:00 PM",
+    "fri": "9:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361126a1b32cbf12773",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-01-19T17:01:21Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "mod-pizza-chandler",
+  "name": "MOD Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "3977 S Arizona Ave Ste 4",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2480994,
+  "lng": -111.84069509999999,
+  "phone": "+16022832819",
+  "website": "https://locations.modpizza.com/usa/az/chandler/3977-s-arizona-ave",
+  "placeId": "ChIJAe0BGJGqK4cRsw5UiFER-Os",
+  "googleRating": 4.3,
+  "googleReviewCount": 486,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342d170d5591be268c0a3c",
+  "seededAt": "2026-06-18T17:38:31Z",
+  "updatedAt": "2026-06-18T17:38:32Z",
+  "source": "groundgame"
+}

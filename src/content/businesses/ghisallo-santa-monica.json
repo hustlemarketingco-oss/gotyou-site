@@ -1,0 +1,37 @@
+{
+  "slug": "ghisallo-santa-monica",
+  "name": "Ghisallo",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1622 Ocean Park Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90405",
+  "lat": 34.011668,
+  "lng": -118.46781680000001,
+  "phone": "+13103994060",
+  "website": "https://www.ghisallo.la/",
+  "placeId": "ChIJ8Q-vp7m7woARy0JPBCMyo9I",
+  "googleRating": 4.3,
+  "googleReviewCount": 319,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 9:30 PM",
+    "tue": "12:00 PM - 9:30 PM",
+    "wed": "12:00 PM - 9:30 PM",
+    "thu": "12:00 PM - 9:30 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50dcd34fe4a8c71818e",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "proteinhouse-tempe",
+  "name": "ProteinHouse",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "947 S Mill Ave #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4197847,
+  "lng": -111.93972199999999,
+  "phone": "+14808080023",
+  "website": "https://www.protein-house.com/location/proteinhouse-tempe-az/",
+  "placeId": "ChIJiZcqpJ4JK4cR8OCJu6XkCwQ",
+  "googleRating": 4,
+  "googleReviewCount": 15,
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e31cabf34edd98a9ef9a",
+  "seededAt": "2026-06-17T18:10:36Z",
+  "updatedAt": "2026-06-30T21:41:17Z",
+  "source": "groundgame"
+}

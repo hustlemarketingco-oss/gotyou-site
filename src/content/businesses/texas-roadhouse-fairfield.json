@@ -1,0 +1,37 @@
+{
+  "slug": "texas-roadhouse-fairfield",
+  "name": "Texas Roadhouse",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "3333 N Texas St",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2897526,
+  "lng": -122.03488089999998,
+  "phone": "+17074227623",
+  "website": "https://www.texasroadhouse.com/locations/california/fairfield",
+  "placeId": "ChIJT60_MF4WhYARg5-gmG8RsPA",
+  "googleRating": 4.3,
+  "googleReviewCount": 6349,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472efae3f291523bc4ed",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

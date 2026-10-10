@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-scottsdale",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Chicken restaurant",
+    "Food store",
+    "American restaurant"
+  ],
+  "address": "2805 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.479101899999996,
+  "lng": -111.9257861,
+  "phone": "+14806598080",
+  "website": "https://smashburger.com/locations/us/az/scottsdale/2805-n-scottsdale-rd",
+  "placeId": "ChIJ2UtKr90LK4cR0_zmo7DurJ8",
+  "googleRating": 4.3,
+  "googleReviewCount": 1165,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276647288becf9eb67011a",
+  "seededAt": "2026-06-09T01:03:03Z",
+  "updatedAt": "2026-06-26T21:25:40Z",
+  "source": "groundgame"
+}

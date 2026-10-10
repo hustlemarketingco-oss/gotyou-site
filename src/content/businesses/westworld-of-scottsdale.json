@@ -1,0 +1,37 @@
+{
+  "slug": "westworld-of-scottsdale",
+  "name": "WestWorld of Scottsdale",
+  "category": "Fun & Activities",
+  "googleCategory": "Event venue",
+  "secondaryCategories": [
+    "Convention center",
+    "Sports activity location"
+  ],
+  "address": "16601 N Pima Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6326517,
+  "lng": -111.87746680000001,
+  "phone": "+14803126802",
+  "website": "http://www.westworldaz.com/",
+  "placeId": "ChIJDYyOuO11K4cRcLuoawo2xPM",
+  "googleRating": 4.6,
+  "googleReviewCount": 5414,
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3320996297df650903f066",
+  "seededAt": "2026-06-17T22:32:57Z",
+  "updatedAt": "2026-06-17T22:32:58Z",
+  "source": "groundgame"
+}

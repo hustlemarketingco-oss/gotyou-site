@@ -1,0 +1,39 @@
+{
+  "slug": "pier-88-boiling-seafood-bar-avondale",
+  "name": "Pier 88 Boiling Seafood & Bar Avondale",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Cajun restaurant",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "10040 W McDowell Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4655369,
+  "lng": -112.2766363,
+  "phone": "+16237424512",
+  "website": "https://www.pier88seafood.com/",
+  "placeId": "ChIJETDxzeY_K4cReATS_Z7WYjw",
+  "googleRating": 4.5,
+  "googleReviewCount": 1484,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 10:00 PM",
+    "tue": "11:30 AM - 10:00 PM",
+    "wed": "11:30 AM - 10:00 PM",
+    "thu": "11:30 AM - 10:00 PM",
+    "fri": "11:30 AM - 11:00 PM",
+    "sat": "11:30 AM - 11:00 PM",
+    "sun": "11:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6c3329704945d365b66",
+  "seededAt": "2026-07-02T19:06:43Z",
+  "updatedAt": "2026-07-02T19:06:43Z",
+  "source": "groundgame"
+}

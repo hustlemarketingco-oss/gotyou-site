@@ -1,0 +1,37 @@
+{
+  "slug": "peppers-cantina-st-george",
+  "name": "Peppers Cantina",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "144 W Brigham Rd STE 2",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0613086,
+  "lng": -113.5857082,
+  "phone": "+14356284660",
+  "website": "http://pepperscantina.com/",
+  "placeId": "ChIJ-5IN6llFyoARbTACKNyGKMs",
+  "googleRating": 4.1,
+  "googleReviewCount": 1546,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361c0f083f80566942b",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

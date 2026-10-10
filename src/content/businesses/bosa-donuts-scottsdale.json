@@ -1,0 +1,44 @@
+{
+  "slug": "bosa-donuts-scottsdale",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Food store"
+  ],
+  "address": "7444 E McDowell Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.466181,
+  "lng": -111.9198699,
+  "phone": "+14809901398",
+  "website": "http://bosadonutsaz.com/",
+  "placeId": "ChIJk0UKZGQJK4cRkPh1IACzbBc",
+  "googleRating": 4.4,
+  "googleReviewCount": 859,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec764afe7e1474e4215a",
+  "seededAt": "2026-06-17T18:50:30Z",
+  "updatedAt": "2026-08-03T17:01:39Z",
+  "source": "groundgame"
+}

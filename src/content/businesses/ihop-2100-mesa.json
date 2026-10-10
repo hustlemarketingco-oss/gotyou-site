@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-2100-mesa",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Diner",
+    "Family restaurant",
+    "Brunch restaurant",
+    "American restaurant"
+  ],
+  "address": "2100 S Power Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85208",
+  "lat": 33.377380699999996,
+  "lng": -111.68838389999999,
+  "phone": "+14803255966",
+  "website": "https://restaurants.ihop.com/en-us/az/mesa/breakfast-2100-s-power-rd-1523",
+  "placeId": "ChIJ8WWyljeuK4cRoiHU7cF1DLA",
+  "googleRating": 4,
+  "googleReviewCount": 2421,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32dde872c6a167a5d7d952",
+  "seededAt": "2026-06-17T17:48:24Z",
+  "updatedAt": "2026-06-17T17:48:25Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "the-stockyards-steakhouse-phoenix",
+  "name": "The Stockyards Steakhouse",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "5009 E Washington St UNIT 115",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "phone": "+16022737378",
+  "priceRange": "$40–100",
+  "description": "Storied steakhouse presenting a beef-heavy menu in Wild West-inspired, saloonlike quarters.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/StockyardsAz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24445b1fd3b0be803580de",
+  "seededAt": "2026-06-06T16:01:31Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

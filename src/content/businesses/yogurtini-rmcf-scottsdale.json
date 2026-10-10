@@ -1,0 +1,40 @@
+{
+  "slug": "yogurtini-rmcf-scottsdale",
+  "name": "Yogurtini-Rmcf-Scottsdale",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "13610 N Scottsdale Rd STE 24",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.610391299999996,
+  "lng": -111.9276318,
+  "phone": "+14806633097",
+  "website": "http://www.yogurtini-rmcf-scottsdale.com/",
+  "placeId": "ChIJI_HDy0J0K4cRKiBsQADZkQs",
+  "googleRating": 4.5,
+  "googleReviewCount": 164,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d21c3437685e9bdec7",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "us-egg-brunch-cocktails-phoenix",
+  "name": "US Egg Brunch + Cocktails",
+  "category": "Restaurant",
+  "googleCategory": "Brunch restaurant",
+  "secondaryCategories": [
+    "Salad shop",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "2957 W Bell Rd Suite 101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85053",
+  "lat": 33.6394498,
+  "lng": -112.1232359,
+  "phone": "+16028431249",
+  "website": "https://www.usegg.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "placeId": "ChIJ66djXQFvK4cR3bcOoXyQD48",
+  "googleRating": 4.4,
+  "googleReviewCount": 2652,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:30 PM",
+    "tue": "6:30 AM - 2:30 PM",
+    "wed": "6:30 AM - 2:30 PM",
+    "thu": "6:30 AM - 2:30 PM",
+    "fri": "6:30 AM - 2:30 PM",
+    "sat": "6:30 AM - 2:30 PM",
+    "sun": "6:30 AM - 2:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1cb759d7e8df4585f0c4",
+  "seededAt": "2026-06-12T14:50:31Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

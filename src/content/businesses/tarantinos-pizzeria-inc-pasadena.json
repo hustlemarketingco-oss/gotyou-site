@@ -1,0 +1,37 @@
+{
+  "slug": "tarantinos-pizzeria-inc-pasadena",
+  "name": "Tarantino's Pizzeria Inc",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "784 E Green St",
+  "city": "Pasadena",
+  "state": "CA",
+  "zip": "91101",
+  "lat": 34.144261799999995,
+  "lng": -118.13423270000001,
+  "phone": "+16267967836",
+  "website": "https://www.tarantinos-pizzeria.com/",
+  "placeId": "ChIJdWOvcl3DwoARDy1LFFx5KSs",
+  "googleRating": 4.6,
+  "googleReviewCount": 619,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "5:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d45e5d811d461b6f8a",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2026-09-22T15:30:38Z",
+  "source": "groundgame"
+}

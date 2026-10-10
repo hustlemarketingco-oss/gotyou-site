@@ -1,0 +1,51 @@
+{
+  "slug": "smokin-cactus-scottsdale",
+  "name": "Smokin Cactus",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Cigar shop",
+    "Smoke shop",
+    "Soft drinks shop",
+    "Souvenir store"
+  ],
+  "address": "7240 E Main St # B2",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4933556,
+  "lng": -111.9249092,
+  "phone": "+14803009305",
+  "googleMapsUrl": "https://www.google.com/maps?cid=231186221755452083",
+  "googleCid": "231186221755452083",
+  "placeId": "ChIJW8q7vF4LK4cRs8qy0KRWNQM",
+  "googleRating": 4.6,
+  "googleReviewCount": 11,
+  "description": "Located in Scottsdale, Smokin Cactus is a convenience store & cigar shop. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 5:00 PM",
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c5eaea4b0dfec6652db",
+  "seededAt": "2026-06-06T15:27:26Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

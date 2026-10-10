@@ -1,0 +1,38 @@
+{
+  "slug": "habit-burger-grill-st-george",
+  "name": "Habit Burger & Grill",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "15 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.106733399999996,
+  "lng": -113.5547612,
+  "phone": "+14356733345",
+  "website": "https://order.habitburger.com/store/81/category",
+  "placeId": "ChIJy_v2KyFbyoARfThu8CpY3ZQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 1159,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "10:30 AM - 9:30 PM",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b471b4504bc728aecd0",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

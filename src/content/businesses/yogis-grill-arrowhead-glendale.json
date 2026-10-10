@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-arrowhead-glendale",
+  "name": "Yogis Grill Arrowhead",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7280 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6387159,
+  "lng": -112.2149635,
+  "phone": "+16233342540",
+  "website": "https://yogisgrill.com/",
+  "placeId": "ChIJSf2mh_FpK4cR4FFUoiWj2P8",
+  "googleRating": 3.2,
+  "googleReviewCount": 68,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ca997c263d32d0f0323b8",
+  "seededAt": "2026-06-25T04:07:51Z",
+  "updatedAt": "2026-06-25T04:07:51Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "hi-life-smoke-vapor-shop-scottsdale",
+  "name": "Hi-Life Smoke & Vapor Shop",
+  "category": "Shopping",
+  "googleCategory": "Smoke shop",
+  "secondaryCategories": [
+    "Convenience store",
+    "Glassware store",
+    "Hookah store",
+    "Tobacco shop",
+    "Vaporizer store"
+  ],
+  "address": "7302 E 6th Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4991367,
+  "lng": -111.9238788,
+  "phone": "+14809472562",
+  "website": "http://www.hilifesmokeshop.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15880339252980264381",
+  "googleCid": "15880339252980264381",
+  "placeId": "ChIJU3TYF7wLK4cRva2UtmlMYtw",
+  "googleRating": 4.9,
+  "googleReviewCount": 668,
+  "description": "Tobacco shop offering cigars, hookahs, electronic cigarettes & more.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/p/Hi-Life-Smoke-Shop-100071266907657"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM",
+    "mon": "9:00 AM - 12:00 AM",
+    "tue": "9:00 AM - 12:00 AM",
+    "wed": "9:00 AM - 12:00 AM",
+    "thu": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c4f50315ba1d61b7b42",
+  "seededAt": "2026-06-06T15:27:11Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

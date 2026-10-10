@@ -1,0 +1,36 @@
+{
+  "slug": "mercado-y-carniceria-cuernavaca-scottsdale",
+  "name": "Mercado Y Carniceria Cuernavaca",
+  "category": "Shopping",
+  "googleCategory": "Butcher shop",
+  "secondaryCategories": [
+    "Mexican grocery store",
+    "Restaurant"
+  ],
+  "address": "2931 N 68th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.481444,
+  "lng": -111.93448,
+  "phone": "+14804235552",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2457709970682730218",
+  "googleCid": "2457709970682730218",
+  "placeId": "ChIJp03aTO8LK4cR6tZ6YzKKGyI",
+  "googleRating": 4.6,
+  "googleReviewCount": 154,
+  "description": "Market for Latin groceries & ingredients, with a butcher counter & prepared foods.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440141947f434a6558938",
+  "seededAt": "2026-06-06T15:43:16Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "manuels-mexican-restaurant-cantina-scottsdale",
+  "name": "Manuel's Mexican Restaurant & Cantina | Scottsdale",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "8809 E Mountain View Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.575029799999996,
+  "lng": -111.888244,
+  "phone": "+14806611587",
+  "website": "https://manuelsaz.com/",
+  "placeId": "ChIJ0wFQDTp1K4cRucyoFb4zhe0",
+  "googleRating": 4.3,
+  "googleReviewCount": 1723,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766f19d5fda9a5082747a",
+  "seededAt": "2026-06-09T01:05:53Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

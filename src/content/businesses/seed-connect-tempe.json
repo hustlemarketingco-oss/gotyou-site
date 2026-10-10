@@ -1,0 +1,47 @@
+{
+  "slug": "seed-connect-tempe",
+  "name": "Seed Connect",
+  "category": "Shopping",
+  "googleCategory": "Cannabis store",
+  "secondaryCategories": [
+    "Seed supplier"
+  ],
+  "address": "3030 S Rural Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3960346,
+  "lng": -111.9266256,
+  "phone": "+16023189728",
+  "website": "https://theseedconnect.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6220552580276265352",
+  "googleCid": "6220552580276265352",
+  "placeId": "ChIJ3R9TrasJK4cRiKEBJp3XU1Y",
+  "googleRating": 4.7,
+  "googleReviewCount": 872,
+  "description": "Located in Tempe, Seed Connect is a cannabis store & seed supplier. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "9:00 AM - 4:00 PM",
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24399ab0b2a7818c4e6adc",
+  "seededAt": "2026-06-06T15:15:38Z",
+  "updatedAt": "2026-06-06T15:15:38Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "mountain-mikes-pizza-suisun-city",
+  "name": "Mountain Mike's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery",
+    "Buffet restaurant"
+  ],
+  "address": "173 Sunset Ave",
+  "city": "Suisun City",
+  "state": "CA",
+  "zip": "94585",
+  "lat": 38.245515,
+  "lng": -122.01997999999999,
+  "phone": "+17073999895",
+  "website": "https://www.mountainmikespizza.com/locations/suisun-city-sunset/",
+  "placeId": "ChIJ5cnER6MVhYARsFQhg0l_wFI",
+  "googleRating": 3.9,
+  "googleReviewCount": 326,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646eebd68f75fee0067da",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

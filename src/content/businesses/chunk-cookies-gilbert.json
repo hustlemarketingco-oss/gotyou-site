@@ -1,0 +1,43 @@
+{
+  "slug": "chunk-cookies-gilbert",
+  "name": "Chunk Cookies",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cookie shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4331 E Baseline Rd Suite 106",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3778094,
+  "lng": -111.7408627,
+  "phone": "+14805347141",
+  "website": "https://www.chunkcookies.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1841510955111730245",
+  "googleCid": "1841510955111730245",
+  "placeId": "ChIJmd7t_7qvK4cRRcxs-XRcjhk",
+  "googleRating": 4.7,
+  "googleReviewCount": 525,
+  "priceRange": "$",
+  "description": "Located in Gilbert, Chunk Cookies is a cookie shop & restaurant with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2453494a03c2f5f95eb939",
+  "seededAt": "2026-06-06T17:05:13Z",
+  "updatedAt": "2026-06-08T04:52:36Z",
+  "source": "groundgame"
+}

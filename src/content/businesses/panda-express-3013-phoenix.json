@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-3013-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3013 W Agua Fria Fwy C1-a",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.6666366,
+  "lng": -112.12382450000001,
+  "phone": "+16237801633",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/528",
+  "placeId": "ChIJmXO6Ij9vK4cRsxPHuP0xqCQ",
+  "googleRating": 3.8,
+  "googleReviewCount": 736,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:30 AM - 11:00 PM",
+    "sun": "9:30 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997b2c3a7caed79e235bb",
+  "seededAt": "2026-06-10T16:58:26Z",
+  "updatedAt": "2026-06-12T22:07:16Z",
+  "source": "groundgame"
+}

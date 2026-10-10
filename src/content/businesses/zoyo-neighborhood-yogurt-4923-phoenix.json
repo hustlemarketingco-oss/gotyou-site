@@ -1,0 +1,38 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-4923-phoenix",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4923 E Chandler Blvd #301",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85048",
+  "lat": 33.3047391,
+  "lng": -111.9776723,
+  "phone": "+14807537607",
+  "website": "https://www.zoyogurt.com/home",
+  "placeId": "ChIJWeUO52wEK4cRs-P_scmELTE",
+  "googleRating": 4.4,
+  "googleReviewCount": 145,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c26189e3821f368374321",
+  "seededAt": "2026-06-12T15:30:32Z",
+  "updatedAt": "2026-06-12T15:30:32Z",
+  "source": "groundgame"
+}

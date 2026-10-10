@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-16900-phoenix",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "16900 N Tatum Blvd Ste 100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.63930190000001,
+  "lng": -111.9782858,
+  "phone": "+16029711004",
+  "website": "https://restaurants.fiveguys.com/16900-tatum-blvd",
+  "placeId": "ChIJw7yT7KNzK4cRuP_LC2OHUWY",
+  "googleRating": 4.2,
+  "googleReviewCount": 587,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c2181f53765e29a2ae5",
+  "seededAt": "2026-06-16T17:47:13Z",
+  "updatedAt": "2026-06-16T17:47:14Z",
+  "source": "groundgame"
+}

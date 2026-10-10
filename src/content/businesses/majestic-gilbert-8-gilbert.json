@@ -1,0 +1,41 @@
+{
+  "slug": "majestic-gilbert-8-gilbert",
+  "name": "Majestic Gilbert 8",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Movie theater"
+  ],
+  "address": "5478 S Power Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.317108,
+  "lng": -111.688454,
+  "phone": "+16232332824",
+  "website": "https://www.majestictheatersaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2838100999916635207",
+  "googleCid": "2838100999916635207",
+  "placeId": "ChIJudk1BH6tK4cRR0S2kNL1Yic",
+  "googleRating": 4.4,
+  "googleReviewCount": 1036,
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26476fbeb81424397c8d42",
+  "seededAt": "2026-06-08T04:39:11Z",
+  "updatedAt": "2026-06-08T04:39:11Z",
+  "source": "groundgame"
+}

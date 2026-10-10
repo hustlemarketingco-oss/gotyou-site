@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-3010-phoenix",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "3010 S 99th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85353",
+  "lat": 33.419087999999995,
+  "lng": -112.272953,
+  "phone": "+16232481769",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/phoenix/3010-s-99th-ave?y_source=1_MTc3Mzk2NjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJL8lK0yo_K4cRtEXyE8zI3t8",
+  "googleRating": 3.1,
+  "googleReviewCount": 151,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27548611a2fb6da48a610f",
+  "seededAt": "2026-06-08T23:47:18Z",
+  "updatedAt": "2026-06-08T23:47:18Z",
+  "source": "groundgame"
+}

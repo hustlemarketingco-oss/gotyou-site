@@ -1,0 +1,39 @@
+{
+  "slug": "la-michoacana-al-natural-phoenix",
+  "name": "La Michoacana Al Natural",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2738 W Van Buren St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85009",
+  "lat": 33.4513082,
+  "lng": -112.11918329999999,
+  "phone": "+14803943399",
+  "website": "https://www.alnaturalaz.com/",
+  "placeId": "ChIJwS0gcioTK4cRtPbadUOS2Bg",
+  "googleRating": 4.3,
+  "googleReviewCount": 238,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c131d88f06f1fb02ee0",
+  "seededAt": "2026-06-22T19:25:07Z",
+  "updatedAt": "2026-06-22T19:25:07Z",
+  "source": "groundgame"
+}

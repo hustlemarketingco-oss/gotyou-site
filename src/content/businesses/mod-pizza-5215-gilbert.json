@@ -1,0 +1,37 @@
+{
+  "slug": "mod-pizza-5215-gilbert",
+  "name": "MOD Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5215 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.378757799999995,
+  "lng": -111.7210942,
+  "phone": "+14806608917",
+  "website": "https://locations.modpizza.com/usa/az/gilbert/5215-e-baseline-rd",
+  "placeId": "ChIJXcawSK2vK4cRaG6osOOaWDQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 510,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342d1478087fab86c2ed67",
+  "seededAt": "2026-06-18T17:38:28Z",
+  "updatedAt": "2026-06-18T17:38:28Z",
+  "source": "groundgame"
+}

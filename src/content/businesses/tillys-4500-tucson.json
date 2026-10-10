@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-4500-tucson",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "4500 N Oracle Rd",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85705",
+  "lat": 32.28830080000001,
+  "lng": -110.97419049999999,
+  "phone": "+15202933803",
+  "website": "https://www.tillys.com/store/?StoreID=0074",
+  "placeId": "ChIJ5TR-Sr5z1oYRKSYnjv7ennw",
+  "googleRating": 3.8,
+  "googleReviewCount": 18,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a344fcc2048388c66175ffe",
+  "seededAt": "2026-06-18T20:06:36Z",
+  "updatedAt": "2026-06-18T20:06:37Z",
+  "source": "groundgame"
+}

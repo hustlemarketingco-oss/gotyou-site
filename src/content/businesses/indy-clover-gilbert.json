@@ -1,0 +1,36 @@
+{
+  "slug": "indy-clover-gilbert",
+  "name": "Indy Clover Gilbert",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Discount store"
+  ],
+  "address": "1307 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3786406,
+  "lng": -111.8049239,
+  "phone": "+16029213723",
+  "website": "http://www.indyclover.com/",
+  "placeId": "ChIJJd8sptipK4cRitpUUl510SU",
+  "googleRating": 4.6,
+  "googleReviewCount": 208,
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a60f3062e6c6fc9c519a",
+  "seededAt": "2026-06-22T21:15:59Z",
+  "updatedAt": "2026-06-22T21:16:00Z",
+  "source": "groundgame"
+}

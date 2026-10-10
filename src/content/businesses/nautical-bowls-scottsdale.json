@@ -1,0 +1,37 @@
+{
+  "slug": "nautical-bowls-scottsdale",
+  "name": "Nautical Bowls",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Brazilian restaurant"
+  ],
+  "address": "18529 N Scottsdale Rd #128",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6529905,
+  "lng": -111.9246649,
+  "phone": "+14806870258",
+  "website": "https://nauticalbowls.com/store/scottsdale-az/",
+  "placeId": "ChIJFzyMO8N3K4cRDO_O2YvbxRQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 857,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276593dc3c65bfb663f654",
+  "seededAt": "2026-06-09T01:00:03Z",
+  "updatedAt": "2026-07-04T02:06:20Z",
+  "source": "groundgame"
+}

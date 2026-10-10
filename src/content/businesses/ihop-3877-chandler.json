@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-3877-chandler",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Diner",
+    "Family restaurant",
+    "Brunch restaurant",
+    "American restaurant"
+  ],
+  "address": "3877 S Arizona Ave",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2496411,
+  "lng": -111.8399937,
+  "phone": "+14805688994",
+  "website": "https://restaurants.ihop.com/en-us/az/chandler/breakfast-3877-s.-arizona-ave-3387",
+  "placeId": "ChIJE3YNpb2qK4cRvPljL8cWwX8",
+  "googleRating": 4.1,
+  "googleReviewCount": 1887,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32dde28519e4c1d4a2cbb9",
+  "seededAt": "2026-06-17T17:48:18Z",
+  "updatedAt": "2026-06-17T17:48:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "petes-fish-chips-tempe",
+  "name": "Pete's Fish & Chips",
+  "category": "Restaurant",
+  "googleCategory": "Fish and chips restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "1017 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414453,
+  "lng": -111.9237208,
+  "phone": "+14809686265",
+  "website": "http://www.petesfishandchips.com/",
+  "placeId": "ChIJQzeKQOkIK4cRtYsvC60I5b4",
+  "googleRating": 4.1,
+  "googleReviewCount": 1637,
+  "priceRange": "$",
+  "amenities": [
+    "Cash"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 8:30 PM",
+    "tue": "10:30 AM - 8:30 PM",
+    "wed": "10:30 AM - 8:30 PM",
+    "thu": "10:30 AM - 8:30 PM",
+    "fri": "10:30 AM - 8:30 PM",
+    "sat": "10:30 AM - 8:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cac9c5a724ad29f73a1a4",
+  "seededAt": "2026-06-25T04:20:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

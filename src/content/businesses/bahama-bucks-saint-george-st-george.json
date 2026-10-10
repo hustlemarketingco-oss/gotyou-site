@@ -1,0 +1,41 @@
+{
+  "slug": "bahama-bucks-saint-george-st-george",
+  "name": "Bahama Buck's - Saint George",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Dessert restaurant",
+    "Ice cream shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2091 E Riverside Dr Ste A",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.100017799999996,
+  "lng": -113.5378298,
+  "phone": "+14359220004",
+  "website": "https://bahamabucks.com/shop/saint-george/",
+  "placeId": "ChIJWRm2_J5byoARnzLZCTmk9z8",
+  "googleRating": 4.6,
+  "googleReviewCount": 481,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8e0643a31f4f946e509",
+  "seededAt": "2025-12-17T18:39:28Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

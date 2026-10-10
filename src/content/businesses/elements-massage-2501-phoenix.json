@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-2501-phoenix",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "2501 W Happy Valley Rd Ste 32-1060",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7086703,
+  "lng": -112.1143221,
+  "phone": "+16234442402",
+  "website": "https://elementsmassage.com/happy-valley",
+  "placeId": "ChIJYzUAt5dlK4cR7OtkZSTndp4",
+  "googleRating": 4.7,
+  "googleReviewCount": 332,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a8117369feef5b8b37d",
+  "seededAt": "2026-06-22T18:10:09Z",
+  "updatedAt": "2026-06-22T18:10:10Z",
+  "source": "groundgame"
+}

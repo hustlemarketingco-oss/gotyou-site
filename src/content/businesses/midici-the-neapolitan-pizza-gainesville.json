@@ -1,0 +1,39 @@
+{
+  "slug": "midici-the-neapolitan-pizza-gainesville",
+  "name": "MidiCi The Neapolitan Pizza - Gainesville",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Italian restaurant",
+    "Bar"
+  ],
+  "address": "4949 Celebration Pointe Ave #100",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32608",
+  "lat": 29.624378399999994,
+  "lng": -82.3959713,
+  "phone": "+13523783030",
+  "website": "https://www.midicigainesville.com/",
+  "placeId": "ChIJf1N4zvO96IgRuLwGEOBHWuE",
+  "googleRating": 4.4,
+  "googleReviewCount": 882,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "2:00 PM - 9:30 PM",
+    "wed": "2:00 PM - 9:30 PM",
+    "thu": "2:00 PM - 9:30 PM",
+    "fri": "12:00 PM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342fd4123de8a7da8962",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

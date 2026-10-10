@@ -1,0 +1,31 @@
+{
+  "slug": "earth-sugar-tempe",
+  "name": "Earth Sugar",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "1375 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4215468,
+  "lng": -111.9159656,
+  "googleMapsUrl": "https://www.google.com/maps?cid=14031553090369258218",
+  "googleCid": "14031553090369258218",
+  "placeId": "ChIJFZ5ibSoJK4cR6oJ-fjEXusI",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "description": "Located in Tempe, Earth Sugar is a bakery.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439bcba0815e01e379de8",
+  "seededAt": "2026-06-06T15:16:12Z",
+  "updatedAt": "2026-06-06T15:16:12Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "scooters-coffee-drive-thru-phoenix",
+  "name": "SCOOTER'S COFFEE DRIVE-THRU",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee stand",
+    "Brunch restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1526 W Bell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85023",
+  "lat": 33.640601,
+  "lng": -112.0922878,
+  "website": "https://www.scooterscoffee.com/",
+  "placeId": "ChIJI3XOQQBvK4cRhtbDDvyYUl0",
+  "googleRating": 4.3,
+  "googleReviewCount": 36,
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3caa3077a34449b42fa6ee",
+  "seededAt": "2026-06-25T04:10:24Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

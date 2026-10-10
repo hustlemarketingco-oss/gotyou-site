@@ -1,0 +1,37 @@
+{
+  "slug": "mod-pizza-mesa",
+  "name": "MOD Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3130 N Recker Rd Suite 101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85215",
+  "lat": 33.4723456,
+  "lng": -111.70171619999999,
+  "phone": "+14802101615",
+  "website": "https://locations.modpizza.com/usa/az/mesa/3130-n-recker-rd.",
+  "placeId": "ChIJvd1h1NmlK4cRcJwBC6t9hnw",
+  "googleRating": 4.4,
+  "googleReviewCount": 831,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342d16d64ff70dba35f9b4",
+  "seededAt": "2026-06-18T17:38:30Z",
+  "updatedAt": "2026-06-18T17:38:30Z",
+  "source": "groundgame"
+}

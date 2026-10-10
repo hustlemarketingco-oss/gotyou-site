@@ -1,0 +1,40 @@
+{
+  "slug": "dutch-bros-coffee-st-george",
+  "name": "Dutch Bros Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Tea house",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1382 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0854898,
+  "lng": -113.55646279999999,
+  "phone": "+18778992767",
+  "website": "https://www.dutchbros.com/locations/ut/st.-george/1382-s.-river-rd.?y_source=1_MTg1NjI3MzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJyQgoFmFbyoAR4_1tRxn1ycg",
+  "googleRating": 4.6,
+  "googleReviewCount": 590,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 11:00 PM",
+    "sat": "5:00 AM - 11:00 PM",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7d3abf62e6862c2d1c",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

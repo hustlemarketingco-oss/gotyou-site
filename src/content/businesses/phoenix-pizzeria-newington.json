@@ -1,0 +1,36 @@
+{
+  "slug": "phoenix-pizzeria-newington",
+  "name": "Phoenix Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "Starbucks’s Plaza, 995 Main St",
+  "city": "Newington",
+  "state": "CT",
+  "zip": "06111",
+  "lat": 41.698336399999995,
+  "lng": -72.7244462,
+  "phone": "+18606662500",
+  "website": "http://phoenixpizzeriact.com/",
+  "placeId": "ChIJ3Z_Wrk2z54kRaQtzkywSRks",
+  "googleRating": 4.8,
+  "googleReviewCount": 193,
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb19000c243edbafa374",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-06-07T14:24:48Z",
+  "source": "groundgame"
+}

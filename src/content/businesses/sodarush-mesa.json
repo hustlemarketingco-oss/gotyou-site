@@ -1,0 +1,50 @@
+{
+  "slug": "sodarush-mesa",
+  "name": "SodaRush!",
+  "category": "Shopping",
+  "googleCategory": "Soft drinks shop",
+  "secondaryCategories": [
+    "Cookie shop",
+    "Dessert shop",
+    "Ice cream shop"
+  ],
+  "address": "9265 E Baseline Rd UNIT 104",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.3785567,
+  "lng": -111.6331034,
+  "phone": "+14809866180",
+  "website": "https://sodarush.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11006895382475915282",
+  "googleCid": "11006895382475915282",
+  "placeId": "ChIJm983-byxK4cREkBdiAhZwJg",
+  "googleRating": 4.5,
+  "googleReviewCount": 469,
+  "priceRange": "$1–10",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/sodarushaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b1f5e48cf3f9bceb44f",
+  "seededAt": "2026-06-08T04:54:55Z",
+  "updatedAt": "2026-06-08T04:54:55Z",
+  "source": "groundgame"
+}

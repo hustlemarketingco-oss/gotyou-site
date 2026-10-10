@@ -1,0 +1,42 @@
+{
+  "slug": "natural-grocers-1625-gilbert",
+  "name": "Natural Grocers",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Greengrocer",
+    "Health food store",
+    "Natural goods store",
+    "Organic food store",
+    "Organic shop",
+    "Produce market",
+    "Supermarket",
+    "Vitamin & supplements store"
+  ],
+  "address": "1625 E Williams Field Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "phone": "+14809179000",
+  "description": "Retail chain focused on natural & organic groceries, supplements & household products.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/NaturalGrocers"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26489a34c6df47ecadb598",
+  "seededAt": "2026-06-08T04:44:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

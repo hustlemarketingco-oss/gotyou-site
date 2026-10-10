@@ -1,0 +1,43 @@
+{
+  "slug": "original-hoagie-shop-tempe",
+  "name": "Original Hoagie Shop",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1335 W University Dr #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4212545,
+  "lng": -111.96030689999999,
+  "phone": "+14809687409",
+  "website": "https://originalhoagieshop.com/",
+  "placeId": "ChIJeUdT2ikPK4cRlONabooMBXs",
+  "googleRating": 4.7,
+  "googleReviewCount": 723,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Google Pay",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fe16cbfdd73fa19084b6b",
+  "seededAt": "2026-07-09T17:59:08Z",
+  "updatedAt": "2026-08-06T18:42:14Z",
+  "source": "groundgame"
+}

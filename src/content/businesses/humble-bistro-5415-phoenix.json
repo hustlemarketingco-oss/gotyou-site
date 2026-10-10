@@ -1,0 +1,37 @@
+{
+  "slug": "humble-bistro-5415-phoenix",
+  "name": "Humble Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5415 E High St #127",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.6754384,
+  "lng": -111.96421930000001,
+  "phone": "+14805022121",
+  "website": "https://www.humblebistro.com/",
+  "placeId": "ChIJsd7kRBJxK4cRprs2dXJZXLk",
+  "googleRating": 4.5,
+  "googleReviewCount": 1083,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2cf7af87c0f40f787b7",
+  "seededAt": "2026-06-10T17:45:51Z",
+  "updatedAt": "2026-06-10T17:45:52Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-7000-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery"
+  ],
+  "address": "7000 N 16th St #100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.538681499999996,
+  "lng": -112.0483861,
+  "phone": "+16022169418",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/447",
+  "placeId": "ChIJxYAR_FVtK4cRZ54RoOqfpqE",
+  "googleRating": 3.6,
+  "googleReviewCount": 757,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:30 PM",
+    "tue": "9:00 AM - 10:30 PM",
+    "wed": "9:00 AM - 10:30 PM",
+    "thu": "9:00 AM - 10:30 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997a3f3368df21f3334f0",
+  "seededAt": "2026-06-10T16:58:11Z",
+  "updatedAt": "2026-06-12T22:07:58Z",
+  "source": "groundgame"
+}

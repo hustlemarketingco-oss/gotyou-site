@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-602-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "602 E Greenway Pkwy",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.638101999999996,
+  "lng": -112.0660492,
+  "phone": "+16025481511",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/602-e-greenway-parkway",
+  "placeId": "ChIJtUrNDj5uK4cRz7KuGzl8ufI",
+  "googleRating": 3.8,
+  "googleReviewCount": 1492,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 2:30 AM",
+    "tue": "6:30 AM - 2:30 AM",
+    "wed": "6:30 AM - 2:30 AM",
+    "thu": "6:30 AM - 2:30 AM",
+    "fri": "6:30 AM - 2:30 AM",
+    "sat": "6:30 AM - 2:30 AM",
+    "sun": "6:30 AM - 2:30 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dce5969533763c61294",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

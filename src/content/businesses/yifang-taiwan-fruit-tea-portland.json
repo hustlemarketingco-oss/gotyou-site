@@ -1,0 +1,39 @@
+{
+  "slug": "yifang-taiwan-fruit-tea-portland",
+  "name": "Yifang Taiwan Fruit Tea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Tea house",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "8136 SE Foster Rd #240",
+  "city": "Portland",
+  "state": "OR",
+  "zip": "97206",
+  "lat": 45.482527499999996,
+  "lng": -122.57947200000001,
+  "phone": "+19718672912",
+  "website": "https://www.yifangpdx.com/",
+  "placeId": "ChIJE1IF9h6hlVQRxySPGVOcHaQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 167,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "claimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3056df064571e8929b601c",
+  "seededAt": "2026-06-15T19:47:43Z",
+  "updatedAt": "2026-06-22T14:38:53Z",
+  "source": "groundgame"
+}

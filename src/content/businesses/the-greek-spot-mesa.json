@@ -1,0 +1,32 @@
+{
+  "slug": "the-greek-spot-mesa",
+  "name": "The Greek Spot",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "2824 N Power Rd #102",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85215",
+  "lat": 33.466828299999996,
+  "lng": -111.6857792,
+  "phone": "+16028284142",
+  "placeId": "ChIJf25gZoalK4cREmtSaol-TVY",
+  "googleRating": 4.8,
+  "googleReviewCount": 99,
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c3708d0f13eefa88a65",
+  "seededAt": "2026-06-22T19:25:43Z",
+  "updatedAt": "2026-06-22T19:25:44Z",
+  "source": "groundgame"
+}

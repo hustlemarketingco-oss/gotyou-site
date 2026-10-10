@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-chandler",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "7375 W Chandler Blvd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3048336,
+  "lng": -111.96822449999999,
+  "phone": "+14809403707",
+  "website": "https://locations.whataburger.com/az/chandler/7375-w-chandler-blvd.html/",
+  "placeId": "ChIJwQZfvxEEK4cRPV8rQ0YQKxE",
+  "googleRating": 4.1,
+  "googleReviewCount": 3527,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d6952155d379a56cac6",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

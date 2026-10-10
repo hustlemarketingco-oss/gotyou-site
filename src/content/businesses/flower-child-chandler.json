@@ -1,0 +1,42 @@
+{
+  "slug": "flower-child-chandler",
+  "name": "Flower Child",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Catering service",
+    "Vegetarian restaurant",
+    "Salad shop",
+    "Food delivery",
+    "Family restaurant"
+  ],
+  "address": "7131 W Ray Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3183132,
+  "lng": -111.96712079999999,
+  "phone": "+16028340070",
+  "website": "https://www.iamaflowerchild.com/locations/flower-child-chandler-az/",
+  "placeId": "ChIJR68VNS8FK4cR6yzefV6R6IQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 560,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4bfa8719160af4637ac68b",
+  "seededAt": "2026-07-06T18:57:11Z",
+  "updatedAt": "2026-07-06T18:57:11Z",
+  "source": "groundgame"
+}

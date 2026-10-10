@@ -1,0 +1,43 @@
+{
+  "slug": "snow-loco-phoenix",
+  "name": "Snow Loco",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "address": "314 N 48th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4516041,
+  "lng": -111.978818,
+  "phone": "+16022755974",
+  "googleMapsUrl": "https://www.google.com/maps?cid=18408971703042309475",
+  "googleCid": "18408971703042309475",
+  "placeId": "ChIJR7OgM2wPK4cRY_0NoDrOef8",
+  "googleRating": 4.8,
+  "googleReviewCount": 22,
+  "description": "Located in Phoenix, Snow Loco is a dessert shop with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed",
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24434ae6e9b24db7660c84",
+  "seededAt": "2026-06-06T15:56:58Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "kasai-scottsdale-japanese-steakhouse-scottsdale",
+  "name": "Kasai Scottsdale - Japanese Steakhouse",
+  "category": "Restaurant",
+  "googleCategory": "Family restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Japanese restaurant",
+    "Bar"
+  ],
+  "address": "14344 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.616503,
+  "lng": -111.926299,
+  "phone": "+14806071114",
+  "website": "http://kasaiteppan.com/",
+  "placeId": "ChIJhbPQl0F0K4cRk06XoBeY7No",
+  "googleRating": 4.5,
+  "googleReviewCount": 1970,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "3:00 PM - 10:00 PM",
+    "sun": "3:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d925bda9f90b7cdde0",
+  "seededAt": "2026-06-09T01:05:29Z",
+  "updatedAt": "2026-06-09T01:18:13Z",
+  "source": "groundgame"
+}

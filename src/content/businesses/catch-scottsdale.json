@@ -1,0 +1,40 @@
+{
+  "slug": "catch-scottsdale",
+  "name": "Catch",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "7014 E Camelback Rd #612",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14809190084",
+  "priceRange": "$100+",
+  "description": "Located in Scottsdale, Catch is a trendy, upscale restaurant with alcohol & beer, dine-in. Popular for dinner & solo dining.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Vegan options",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/catch"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e7472197eb4c86fe22c",
+  "seededAt": "2026-06-06T15:36:20Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

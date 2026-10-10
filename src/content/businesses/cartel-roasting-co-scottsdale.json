@@ -1,0 +1,43 @@
+{
+  "slug": "cartel-roasting-co-scottsdale",
+  "name": "Cartel Roasting Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee roastery",
+    "Pastry shop",
+    "Cafe",
+    "Dessert shop",
+    "Confectionery",
+    "Wholesaler",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "7124 E 5th Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.498390199999996,
+  "lng": -111.92763520000001,
+  "website": "http://cartelroasting.co/",
+  "placeId": "ChIJl6BC5b0LK4cReZ3BUpdR6Cc",
+  "googleRating": 4.3,
+  "googleReviewCount": 1041,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656bba325ef6a65cb9ef",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

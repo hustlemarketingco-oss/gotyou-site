@@ -1,0 +1,43 @@
+{
+  "slug": "tacos-calafia-tempe",
+  "name": "Tacos Calafia",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "414 S Mill Ave Suite 115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426353,
+  "lng": -111.94021,
+  "phone": "+14806407593",
+  "website": "https://bit.ly/3DT8c1T",
+  "placeId": "ChIJV5nIAokJK4cRAyvfoCkY7V8",
+  "googleRating": 4.6,
+  "googleReviewCount": 696,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 11:00 PM",
+    "thu": "8:00 AM - 12:30 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438c38a858f5f7f4dd018",
+  "seededAt": "2026-06-18T18:28:19Z",
+  "updatedAt": "2026-07-21T21:34:04Z",
+  "source": "groundgame"
+}

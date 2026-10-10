@@ -1,0 +1,27 @@
+{
+  "slug": "blaze-pizza-ammon",
+  "name": "Blaze Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2698 East Sunnyside Road",
+  "city": "Ammon",
+  "state": "ID",
+  "zip": "83406",
+  "lat": 43.4673107,
+  "lng": -111.9809657,
+  "website": "https://locations.blazepizza.com/id/ammon/2698-e-sunnyside-rd",
+  "placeId": "ChIJ9VYmp95fVFMR0XWDuqUjolI",
+  "googleRating": 4.1,
+  "googleReviewCount": 370,
+  "priceRange": "$",
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6941872228cb576ca516f198",
+  "seededAt": "2025-12-16T16:21:54Z",
+  "updatedAt": "2026-09-22T15:30:29Z",
+  "source": "groundgame"
+}

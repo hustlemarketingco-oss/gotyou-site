@@ -1,0 +1,37 @@
+{
+  "slug": "blue-sushi-sake-grill-surprise",
+  "name": "Blue Sushi Sake Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "13442 N Prasada Pkwy",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85388",
+  "lat": 33.606515699999996,
+  "lng": -112.4141803,
+  "phone": "+16232672583",
+  "website": "https://www.bluesushisakegrill.com/",
+  "placeId": "ChIJW1y-oLFFK4cRlAlKeJaxuJM",
+  "googleRating": 4.4,
+  "googleReviewCount": 415,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1e4b259e076fea31ef83",
+  "seededAt": "2026-06-12T14:57:15Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "just-sports-chandler",
+  "name": "Just Sports",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "secondaryCategories": [
+    "Sporting goods store",
+    "Clothing store"
+  ],
+  "address": "3111 W Chandler Blvd #2336",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.302123,
+  "lng": -111.9001969,
+  "phone": "+14808559444",
+  "website": "http://shopjustsports.com/",
+  "placeId": "ChIJvbDfLdMAK4cRJUPVgR6bg-g",
+  "googleRating": 3.6,
+  "googleReviewCount": 91,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343862e42dfcaf69422256",
+  "seededAt": "2026-06-18T18:26:42Z",
+  "updatedAt": "2026-06-18T18:26:43Z",
+  "source": "groundgame"
+}

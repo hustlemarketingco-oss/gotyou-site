@@ -1,0 +1,39 @@
+{
+  "slug": "salt-straw-gilbert",
+  "name": "Salt & Straw",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop"
+  ],
+  "address": "3150 E Ray Rd #178",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "phone": "+16232567552",
+  "priceRange": "$$",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Trendy",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SaltandStraw"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264a15fac53e8af3ab4ab8",
+  "seededAt": "2026-06-08T04:50:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

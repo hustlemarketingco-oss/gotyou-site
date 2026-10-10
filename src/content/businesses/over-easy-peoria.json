@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-peoria",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "25738 N Lake Pleasant Pkwy #101",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7168644,
+  "lng": -112.27165839999999,
+  "phone": "+14806875273",
+  "website": "https://eatatovereasy.com/locations/peoria/",
+  "placeId": "ChIJCyG-bdRdK4cRMdfZZd2vOtw",
+  "googleRating": 4.3,
+  "googleReviewCount": 464,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303a0867a5ab0df354bf06",
+  "seededAt": "2026-06-15T17:44:40Z",
+  "updatedAt": "2026-06-15T17:44:41Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "the-thread-cafecito-eastlake-phoenix",
+  "name": "The Thread CAFECITO Eastlake",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1514 E Van Buren St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4516329,
+  "lng": -112.0483357,
+  "phone": "+14802693371",
+  "website": "https://www.thethreadphx.com/",
+  "placeId": "ChIJBZ93uj0TK4cRsJtUO_oOLWc",
+  "googleRating": 5,
+  "googleReviewCount": 17,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5cfef84d70283b7957",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

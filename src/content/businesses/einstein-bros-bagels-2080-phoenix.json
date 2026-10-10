@@ -1,0 +1,40 @@
+{
+  "slug": "einstein-bros-bagels-2080-phoenix",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2080 W Northern Ave #120",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85021",
+  "lat": 33.5535946,
+  "lng": -112.1036422,
+  "phone": "+16029731556",
+  "website": "https://locations.einsteinbros.com/us/az/phoenix/2080-w.-northern-ave?y_source=1_OTA0OTczNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJL4809-RsK4cR5kKx4jXfen4",
+  "googleRating": 3.8,
+  "googleReviewCount": 712,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994d08921b8917deb5890",
+  "seededAt": "2026-06-10T16:46:08Z",
+  "updatedAt": "2026-07-06T18:38:41Z",
+  "source": "groundgame"
+}

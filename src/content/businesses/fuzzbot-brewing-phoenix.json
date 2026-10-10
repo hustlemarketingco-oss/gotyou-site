@@ -1,0 +1,36 @@
+{
+  "slug": "fuzzbot-brewing-phoenix",
+  "name": "Fuzzbot Brewing",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Manufacturer"
+  ],
+  "address": "5030 E Ray Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3217554,
+  "lng": -111.9757703,
+  "phone": "+12695984868",
+  "website": "https://fuzzbotbrewing.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=13418972803947560809",
+  "googleCid": "13418972803947560809",
+  "placeId": "ChIJAydqtTsFK4cRaf_rHavEObo",
+  "googleRating": 5,
+  "googleReviewCount": 31,
+  "description": "Located in Phoenix, Fuzzbot Brewing is a brewery with alcohol & beer.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24412823f86f3ff8f83cee",
+  "seededAt": "2026-06-06T15:47:52Z",
+  "updatedAt": "2026-06-08T04:36:57Z",
+  "source": "groundgame"
+}

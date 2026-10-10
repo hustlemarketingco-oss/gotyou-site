@@ -1,0 +1,57 @@
+{
+  "slug": "pistoleros-parrilla-scottsdale",
+  "name": "Pistoleros Parrilla",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Mexican restaurant"
+  ],
+  "address": "4333 N Civic Center Plaza",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4993948,
+  "lng": -111.9211525,
+  "phone": "+14809330093",
+  "website": "https://pistolerosaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8122335786488087218",
+  "googleCid": "8122335786488087218",
+  "placeId": "ChIJbwlnEQALK4cRssIQJF1VuHA",
+  "googleRating": 4.5,
+  "googleReviewCount": 59,
+  "priceRange": "$30–80",
+  "description": "Located in Scottsdale, Pistoleros Parrilla is a casual steak house & mexican restaurant with alcohol & beer, takeout & delivery.",
+  "amenities": [
+    "Outdoor seating",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/pistolerosparrilla"
+  ],
+  "hours": {
+    "fri": "4:00 PM - 1:00 AM",
+    "sat": "4:00 PM - 1:00 AM",
+    "sun": "4:00 PM - 12:00 AM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "4:00 PM - 12:00 AM",
+    "thu": "4:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ea13dffaf97388e9aeb",
+  "seededAt": "2026-06-06T15:37:05Z",
+  "updatedAt": "2026-06-30T13:19:58Z",
+  "source": "groundgame"
+}

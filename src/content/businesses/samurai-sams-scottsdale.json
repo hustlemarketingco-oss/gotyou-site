@@ -1,0 +1,37 @@
+{
+  "slug": "samurai-sams-scottsdale",
+  "name": "Samurai Sam's",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "10105 E Vía Linda Ste A - 104",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5730244,
+  "lng": -111.8634335,
+  "phone": "+14806143555",
+  "website": "https://www.samuraisams.net/stores/5025",
+  "placeId": "ChIJfVZdXFF1K4cRyEX1k89bH4s",
+  "googleRating": 4.5,
+  "googleReviewCount": 167,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:30 PM",
+    "tue": "10:00 AM - 8:30 PM",
+    "wed": "10:00 AM - 8:30 PM",
+    "thu": "10:00 AM - 8:30 PM",
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "10:00 AM - 8:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd8300cecf67fa8fade9b",
+  "seededAt": "2026-07-09T17:19:44Z",
+  "updatedAt": "2026-07-09T17:19:44Z",
+  "source": "groundgame"
+}

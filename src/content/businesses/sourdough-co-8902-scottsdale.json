@@ -1,0 +1,37 @@
+{
+  "slug": "sourdough-co-8902-scottsdale",
+  "name": "Sourdough & Co.",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "8902 E Vía Linda #110",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.570111,
+  "lng": -111.88923039999999,
+  "phone": "+16029196365",
+  "website": "https://sourdoughandco.com/arizona-scottsdale3",
+  "placeId": "ChIJWQg-j-Z1K4cR3_0VF-58N5Y",
+  "googleRating": 4.7,
+  "googleReviewCount": 168,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 7:00 PM",
+    "tue": "10:30 AM - 7:00 PM",
+    "wed": "10:30 AM - 7:00 PM",
+    "thu": "10:30 AM - 7:00 PM",
+    "fri": "10:30 AM - 7:00 PM",
+    "sat": "10:30 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276535c1a56e6b808bbdc4",
+  "seededAt": "2026-06-09T00:58:29Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

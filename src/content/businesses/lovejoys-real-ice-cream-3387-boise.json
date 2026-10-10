@@ -1,0 +1,42 @@
+{
+  "slug": "lovejoys-real-ice-cream-3387-boise",
+  "name": "Lovejoy's Real Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "3387 N Five Mile Rd",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83713",
+  "lat": 43.6352975,
+  "lng": -116.31522070000001,
+  "phone": "+19862833335",
+  "website": "https://lovejoysicecream.com/",
+  "placeId": "ChIJdZOEXr5VrlQRSR-c8HJMpSQ",
+  "googleRating": 5,
+  "googleReviewCount": 40,
+  "sameAs": [
+    "https://www.facebook.com/lovejoysicecream",
+    "https://www.instagram.com/lovejoysicecream"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694260062ecc8c3e0bffad62",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:48:01Z",
+  "source": "groundgame"
+}

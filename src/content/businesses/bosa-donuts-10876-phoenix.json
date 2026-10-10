@@ -1,0 +1,38 @@
+{
+  "slug": "bosa-donuts-10876-phoenix",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Food store"
+  ],
+  "address": "10876 N 32nd St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "lat": 33.584921699999995,
+  "lng": -112.01347439999999,
+  "phone": "+16025695556",
+  "website": "http://bosadonutsaz.com/",
+  "placeId": "ChIJb3HbNFhyK4cRu3x4X10wJfs",
+  "googleRating": 4.5,
+  "googleReviewCount": 636,
+  "priceRange": "$",
+  "hours": {
+    "mon": "4:00 AM - 10:00 PM",
+    "tue": "4:00 AM - 10:00 PM",
+    "wed": "4:00 AM - 10:00 PM",
+    "thu": "4:00 AM - 10:00 PM",
+    "fri": "4:00 AM - 10:00 PM",
+    "sat": "4:00 AM - 10:00 PM",
+    "sun": "4:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec7f7fb8a40c43411bc3",
+  "seededAt": "2026-06-17T18:50:39Z",
+  "updatedAt": "2026-06-17T18:50:40Z",
+  "source": "groundgame"
+}

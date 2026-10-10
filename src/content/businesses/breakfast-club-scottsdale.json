@@ -1,0 +1,41 @@
+{
+  "slug": "breakfast-club-scottsdale",
+  "name": "Breakfast Club",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "4400 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.500036099999996,
+  "lng": -111.92633,
+  "phone": "+14802222582",
+  "website": "http://www.breakfastclub.us/",
+  "placeId": "ChIJJ6Bhp70LK4cRe8Hs1vcBIsk",
+  "googleRating": 4.5,
+  "googleReviewCount": 2887,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276615ebf0f0f9ae52238c",
+  "seededAt": "2026-06-09T01:02:13Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "wienerschnitzel-1380-tempe",
+  "name": "Wienerschnitzel",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1380 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.350694,
+  "lng": -111.9603154,
+  "phone": "+16023207917",
+  "website": "https://www.wienerschnitzel.com/location/921-west-elliot-road-south-priest-drive-1380-west-elliot-road-tempe-az-85284/",
+  "placeId": "ChIJb00lHwAFK4cRPWXDZrlAO3E",
+  "googleRating": 4.8,
+  "googleReviewCount": 44,
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5535c9f28c1f942a04c7cc",
+  "seededAt": "2026-07-13T19:00:25Z",
+  "updatedAt": "2026-07-13T19:00:26Z",
+  "source": "groundgame"
+}

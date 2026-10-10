@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-queen-creek",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "21536 Ellsworth Lp Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.252857,
+  "lng": -111.6403526,
+  "phone": "+14808887913",
+  "website": "https://www.tillys.com/store/?StoreID=0083",
+  "placeId": "ChIJdVzg5jhNKocRL5wEACAcZ28",
+  "googleRating": 3.4,
+  "googleReviewCount": 69,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343874d282dce47015e8a2",
+  "seededAt": "2026-06-18T18:27:00Z",
+  "updatedAt": "2026-06-18T18:27:00Z",
+  "source": "groundgame"
+}

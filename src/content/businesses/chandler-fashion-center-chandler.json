@@ -1,0 +1,36 @@
+{
+  "slug": "chandler-fashion-center-chandler",
+  "name": "Chandler Fashion Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "3111 W Chandler Blvd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3014708,
+  "lng": -111.89849849999999,
+  "phone": "+14808128488",
+  "website": "https://www.shopchandlerfashioncenter.com/",
+  "placeId": "ChIJzevPCdQAK4cRrnHMjFt_NOs",
+  "googleRating": 4.5,
+  "googleReviewCount": 18836,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438668b03b1cc118cab61",
+  "seededAt": "2026-06-18T18:26:46Z",
+  "updatedAt": "2026-06-18T18:26:47Z",
+  "source": "groundgame"
+}

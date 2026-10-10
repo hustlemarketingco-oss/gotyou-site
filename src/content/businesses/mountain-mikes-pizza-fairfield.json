@@ -1,0 +1,40 @@
+{
+  "slug": "mountain-mikes-pizza-fairfield",
+  "name": "Mountain Mike's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Buffet restaurant",
+    "Meal takeaway"
+  ],
+  "address": "1819 N Texas St #1",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2627455,
+  "lng": -122.03559219999998,
+  "phone": "+17074226000",
+  "website": "https://www.mountainmikespizza.com/locations/fairfield-north-texas/",
+  "placeId": "ChIJsWp0qtMVhYARa1OxxxMM4uU",
+  "googleRating": 4,
+  "googleReviewCount": 200,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee7920f5d2daf86dc5",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

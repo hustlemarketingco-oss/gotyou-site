@@ -1,0 +1,37 @@
+{
+  "slug": "scuola-pizza-gainesville",
+  "name": "Scuola Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5240 NW 34th Blvd",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32605",
+  "lat": 29.702581199999994,
+  "lng": -82.36635509999999,
+  "phone": "+13524514122",
+  "website": "http://www.scuolapizzagainesville.com/",
+  "placeId": "ChIJ_SylwUGl6IgRAbTS9Bwc86I",
+  "googleRating": 4.7,
+  "googleReviewCount": 850,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f8621a0e735cfa980",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

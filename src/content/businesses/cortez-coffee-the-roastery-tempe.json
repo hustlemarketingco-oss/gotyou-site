@@ -1,0 +1,37 @@
+{
+  "slug": "cortez-coffee-the-roastery-tempe",
+  "name": "Cortez Coffee - The Roastery",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee roastery",
+  "secondaryCategories": [
+    "Wholesaler",
+    "Food store"
+  ],
+  "address": "1030 E Vista Del Cerro Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4104444,
+  "lng": -111.92276419999999,
+  "phone": "+14809688333",
+  "website": "http://www.cortezcoffee.com/",
+  "placeId": "ChIJ6U3ze-sIK4cRi3sifGYtPvI",
+  "googleRating": 4.8,
+  "googleReviewCount": 133,
+  "hours": {
+    "mon": "10:00 AM - 4:00 PM",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a50043536220d2f0b2fdda3",
+  "seededAt": "2026-07-09T20:27:33Z",
+  "updatedAt": "2026-07-09T20:46:16Z",
+  "source": "groundgame"
+}

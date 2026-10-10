@@ -1,0 +1,36 @@
+{
+  "slug": "hana-hou-kitchen-utah-st-george",
+  "name": "Hana Hou Kitchen Utah",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "2190 S 1400 E",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0708458,
+  "lng": -113.554705,
+  "phone": "+14356274405",
+  "website": "https://www.instagram.com/hanahou_kitchen/",
+  "placeId": "ChIJ3zAbOAxbyoARaVij7uHLeqI",
+  "googleRating": 4.8,
+  "googleReviewCount": 129,
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f832108f8aabb7c0d098",
+  "seededAt": "2025-12-17T18:36:34Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

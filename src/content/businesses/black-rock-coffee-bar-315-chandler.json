@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-315-chandler",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "315 S Arizona Ave",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.2984254,
+  "lng": -111.8412572,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/arizona-ave-frye",
+  "placeId": "ChIJQ1AXzWCrK4cRgFSWZilt35w",
+  "googleRating": 4.3,
+  "googleReviewCount": 352,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725586d6a04947bf1ef2",
+  "seededAt": "2026-07-10T22:29:41Z",
+  "updatedAt": "2026-07-10T22:29:41Z",
+  "source": "groundgame"
+}

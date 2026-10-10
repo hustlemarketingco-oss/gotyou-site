@@ -1,0 +1,43 @@
+{
+  "slug": "digbys-market-st-george",
+  "name": "Digby's Market",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Deli",
+    "Butcher shop",
+    "Bakery",
+    "Ice cream shop",
+    "Market",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1955 Snow Canyon Pkwy",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.142432899999996,
+  "lng": -113.6233492,
+  "phone": "+14353105810",
+  "website": "https://www.digbysmarket.com/",
+  "placeId": "ChIJYQAfhblDyoARenkoZl_RUNE",
+  "googleRating": 4.6,
+  "googleReviewCount": 325,
+  "hours": {
+    "mon": "7:00 AM - 11:00 PM",
+    "tue": "7:00 AM - 11:00 PM",
+    "wed": "7:00 AM - 11:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c0bfad5d830197dd056",
+  "seededAt": "2025-12-16T15:34:35Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "lucky-strike-old-town-scottsdale",
+  "name": "Lucky Strike Old Town",
+  "category": "Fun & Activities",
+  "googleCategory": "Bowling alley",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar and grill",
+    "Sporting goods store",
+    "Bar",
+    "Video arcade",
+    "Sports complex",
+    "Event venue",
+    "Sports activity location"
+  ],
+  "address": "7300 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.480919799999995,
+  "lng": -111.9247711,
+  "phone": "+14809465308",
+  "website": "https://www.luckystrikeent.com/location/lucky-strike-old-town",
+  "placeId": "ChIJj1RN7twLK4cRionHtJm2TVA",
+  "googleRating": 4.3,
+  "googleReviewCount": 1012,
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "2:00 PM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d4f599962ed905765f91",
+  "seededAt": "2026-06-17T17:10:13Z",
+  "updatedAt": "2026-06-26T19:11:06Z",
+  "source": "groundgame"
+}

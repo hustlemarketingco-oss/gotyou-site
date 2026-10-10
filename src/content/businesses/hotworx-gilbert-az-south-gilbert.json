@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-gilbert-az-south-gilbert",
+  "name": "HOTWORX - Gilbert, AZ - South",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sauna",
+    "Gym",
+    "Spa",
+    "Public bath",
+    "Sports activity location"
+  ],
+  "address": "7131 S Val Vista Dr Unit 1 (Suite 101- 102",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85298",
+  "lat": 33.22044230000001,
+  "lng": -111.7539187,
+  "phone": "+16028984468",
+  "website": "https://www.hotworx.net/studio/gilbert-south",
+  "placeId": "ChIJ81xsVv9TKocRjlwUbLu-49Q",
+  "googleRating": 4.7,
+  "googleReviewCount": 70,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc2b2b2f955d5f65c9ff",
+  "seededAt": "2026-10-07T21:39:55Z",
+  "updatedAt": "2026-10-07T21:39:55Z",
+  "source": "groundgame"
+}

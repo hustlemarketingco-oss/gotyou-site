@@ -1,0 +1,39 @@
+{
+  "slug": "onyx-ice-cream-phoenix",
+  "name": "ONYX Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Cafe",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "5813 N 7th St #102",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.5220881,
+  "lng": -112.0646905,
+  "website": "https://www.onyxicecream.com/",
+  "placeId": "ChIJc_Apsd0TK4cRpmiXJsGdAAA",
+  "googleRating": 4.8,
+  "googleReviewCount": 254,
+  "hours": {
+    "mon": "Closed",
+    "tue": "1:00 PM - 9:00 PM",
+    "wed": "1:00 PM - 9:00 PM",
+    "thu": "1:00 PM - 9:00 PM",
+    "fri": "1:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4ecb6f13f679809c3d",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

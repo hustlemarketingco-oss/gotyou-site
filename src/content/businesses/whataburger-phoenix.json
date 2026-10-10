@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-phoenix",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "2460 W Bethany Home Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.5252279,
+  "lng": -112.1114831,
+  "phone": "+16023478667",
+  "website": "https://locations.whataburger.com/az/phoenix/2460-w-bethany-home-rd.html/",
+  "placeId": "ChIJcV-CXMxsK4cROmFl2Nv7y4s",
+  "googleRating": 4.2,
+  "googleReviewCount": 3856,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d695bf403a043db3168",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "mo-berries-ice-cream-voted-1-boise",
+  "name": "Mo Berries Ice Cream - Voted #1",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "8249 W Overland Rd",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83709",
+  "lat": 43.5896396,
+  "lng": -116.2847748,
+  "phone": "+12083531730",
+  "placeId": "ChIJa-cRagBXrlQRLlM2u3KHnWw",
+  "googleRating": 4.8,
+  "googleReviewCount": 428,
+  "hours": {
+    "mon": "12:00 PM - 10:30 PM",
+    "tue": "12:00 PM - 10:30 PM",
+    "wed": "12:00 PM - 10:30 PM",
+    "thu": "12:00 PM - 10:30 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "3:00 PM - 9:30 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694260062f99fa1109096981",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

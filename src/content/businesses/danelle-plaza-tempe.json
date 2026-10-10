@@ -1,0 +1,34 @@
+{
+  "slug": "danelle-plaza-tempe",
+  "name": "Danelle Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Business center"
+  ],
+  "address": "3400 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3920787,
+  "lng": -111.9408483,
+  "placeId": "ChIJ-UYdl68IK4cRP-bXDO5X5DI",
+  "googleRating": 4.2,
+  "googleReviewCount": 870,
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a72311462f6b91f2a16b869",
+  "seededAt": "2026-08-04T18:36:04Z",
+  "updatedAt": "2026-08-04T18:39:06Z",
+  "source": "groundgame"
+}

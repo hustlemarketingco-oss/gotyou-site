@@ -1,0 +1,61 @@
+{
+  "slug": "arena-sports-grill-scottsdale",
+  "name": "Arena Sports Grill",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "6245 E Bell Rd Ste 101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6396648,
+  "lng": -111.944943,
+  "phone": "+14809480008",
+  "website": "http://arenasportsgrills.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8899780980916562243",
+  "googleCid": "8899780980916562243",
+  "placeId": "ChIJgVMuual2K4cRQylPKqZfgns",
+  "googleRating": 4.2,
+  "googleReviewCount": 594,
+  "priceRange": "$20–30",
+  "description": "Laid-back sports bar with HDTVs, an extensive menu of hearty fare, off-track betting, pool & games.",
+  "amenities": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/105028326197710"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM",
+    "mon": "11:00 AM - 2:00 AM",
+    "tue": "11:00 AM - 2:00 AM",
+    "wed": "11:00 AM - 2:00 AM",
+    "thu": "11:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b84b273af8412eeb441",
+  "seededAt": "2026-06-06T15:23:48Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

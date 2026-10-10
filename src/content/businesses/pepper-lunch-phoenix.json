@@ -1,0 +1,33 @@
+{
+  "slug": "pepper-lunch-phoenix",
+  "name": "Pepper Lunch",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "2945 W Dove Valley Rd #400",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7825073,
+  "lng": -112.1224445,
+  "phone": "+16023549052",
+  "website": "https://www.pepperlunchrestaurants.com/",
+  "placeId": "ChIJ7SCAwztjK4cRvdgAppK2JUQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 153,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39f63171599b5668ec4e79",
+  "seededAt": "2026-06-23T02:57:53Z",
+  "updatedAt": "2026-07-12T20:52:50Z",
+  "source": "groundgame"
+}

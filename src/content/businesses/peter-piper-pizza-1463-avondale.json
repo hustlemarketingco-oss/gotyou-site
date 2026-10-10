@@ -1,0 +1,38 @@
+{
+  "slug": "peter-piper-pizza-1463-avondale",
+  "name": "Peter Piper Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Video arcade"
+  ],
+  "address": "1463 N Dysart Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85323",
+  "lat": 33.4531871,
+  "lng": -112.34028959999999,
+  "phone": "+16238820020",
+  "website": "https://locations.peterpiperpizza.com/az/avondale/1463-n-dysart-rd",
+  "placeId": "ChIJe-a_Wsk4K4cRw1owAF40hHw",
+  "googleRating": 4,
+  "googleReviewCount": 1686,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ed5089461055f7e3b04b3",
+  "seededAt": "2026-06-26T19:37:44Z",
+  "updatedAt": "2026-06-26T19:37:44Z",
+  "source": "groundgame"
+}

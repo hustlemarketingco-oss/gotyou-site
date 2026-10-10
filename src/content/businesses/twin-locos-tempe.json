@@ -1,0 +1,32 @@
+{
+  "slug": "twin-locos-tempe",
+  "name": "Twin Locos",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "3224 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3943861,
+  "lng": -111.94118519999999,
+  "phone": "+14802195485",
+  "placeId": "ChIJSzksvvkJK4cRDyFcmDsCvgk",
+  "googleRating": 4.3,
+  "googleReviewCount": 115,
+  "hours": {
+    "mon": "11:00 AM - 4:00 AM",
+    "tue": "11:00 AM - 4:00 AM",
+    "wed": "11:00 AM - 4:00 AM",
+    "thu": "11:00 AM - 4:00 AM",
+    "fri": "11:00 AM - 4:00 AM",
+    "sat": "11:00 AM - 4:00 AM",
+    "sun": "11:00 AM - 4:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398bee08763f37f4e13f92",
+  "seededAt": "2026-06-22T19:24:30Z",
+  "updatedAt": "2026-08-06T19:20:41Z",
+  "source": "groundgame"
+}

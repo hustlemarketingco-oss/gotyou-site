@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-scottsdale-pima-crossing-scottsdale",
+  "name": "HOTWORX - Scottsdale - Pima Crossing",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sauna",
+    "Gym",
+    "Spa",
+    "Public bath",
+    "Sports activity location"
+  ],
+  "address": "8660 E Shea Blvd #164",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.584738200000004,
+  "lng": -111.89418200000001,
+  "phone": "+14803066728",
+  "website": "https://www.hotworx.net/studio/scottsdale-pimacrossing",
+  "placeId": "ChIJS7EhPQl1K4cRTvrvDlwUw1U",
+  "googleRating": 4.9,
+  "googleReviewCount": 95,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc27713e806087c375de",
+  "seededAt": "2026-10-07T21:39:51Z",
+  "updatedAt": "2026-10-07T21:39:52Z",
+  "source": "groundgame"
+}

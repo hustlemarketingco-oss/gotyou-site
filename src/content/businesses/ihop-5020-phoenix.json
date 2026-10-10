@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-5020-phoenix",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Diner",
+    "Family restaurant",
+    "Brunch restaurant",
+    "American restaurant"
+  ],
+  "address": "5020 E Ray Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3204839,
+  "lng": -111.9753234,
+  "phone": "+14805980887",
+  "website": "https://restaurants.ihop.com/en-us/az/phoenix/breakfast-5020-e-ray-rd-1508",
+  "placeId": "ChIJLUjlhTgEK4cRZ60rBGh6fTg",
+  "googleRating": 4,
+  "googleReviewCount": 3324,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddd7628b542da9fc22a9",
+  "seededAt": "2026-06-17T17:48:07Z",
+  "updatedAt": "2026-06-17T17:48:08Z",
+  "source": "groundgame"
+}

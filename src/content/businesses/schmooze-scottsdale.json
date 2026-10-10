@@ -1,0 +1,46 @@
+{
+  "slug": "schmooze-scottsdale",
+  "name": "Schmooze",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Cocktail bar",
+    "Breakfast restaurant",
+    "Event venue",
+    "Bar"
+  ],
+  "address": "4222 N Marshall Way",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4972291,
+  "lng": -111.929333,
+  "phone": "+14806136536",
+  "website": "http://schmoozescottsdale.com/",
+  "placeId": "ChIJdepE4pULK4cRNfqvIzBP42E",
+  "googleRating": 4.3,
+  "googleReviewCount": 865,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "7:30 AM - 3:00 PM",
+    "tue": "7:30 AM - 3:00 PM",
+    "wed": "7:30 AM - 3:00 PM",
+    "thu": "7:30 AM - 3:00 PM",
+    "fri": "7:30 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b3677b96fbb331ce1",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

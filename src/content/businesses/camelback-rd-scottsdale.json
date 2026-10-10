@@ -1,0 +1,29 @@
+{
+  "slug": "camelback-rd-scottsdale",
+  "name": "Camelback rd",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "8900 E Chaparral Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.5103642,
+  "lng": -111.8891835,
+  "googleMapsUrl": "https://www.google.com/maps?cid=1938702123412685875",
+  "googleCid": "1938702123412685875",
+  "placeId": "ChIJRYjofgALK4cRMwRPP0-n5xo",
+  "description": "Located in Scottsdale, Camelback rd is a bakery.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243db820ff3987d4e15550",
+  "seededAt": "2026-06-06T15:33:12Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

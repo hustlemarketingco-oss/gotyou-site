@@ -1,0 +1,42 @@
+{
+  "slug": "flower-child-100-phoenix",
+  "name": "Flower Child",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Catering service",
+    "Vegetarian restaurant",
+    "Salad shop",
+    "Food delivery",
+    "Family restaurant"
+  ],
+  "address": "100 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85012",
+  "lat": 33.509631999999996,
+  "lng": -112.072069,
+  "phone": "+14802120180",
+  "website": "https://www.iamaflowerchild.com/locations/phoenix-az-uptown/",
+  "placeId": "ChIJh4cIDcASK4cRd_00wwvindQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 1678,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4bfa898b49a56e28099774",
+  "seededAt": "2026-07-06T18:57:13Z",
+  "updatedAt": "2026-07-06T18:57:17Z",
+  "source": "groundgame"
+}

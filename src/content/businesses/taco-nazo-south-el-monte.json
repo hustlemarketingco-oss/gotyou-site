@@ -1,0 +1,37 @@
+{
+  "slug": "taco-nazo-south-el-monte",
+  "name": "Taco Nazo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "9516 Garvey Ave",
+  "city": "South El Monte",
+  "state": "CA",
+  "zip": "91733",
+  "lat": 34.062479599999996,
+  "lng": -118.0623468,
+  "phone": "+16264425671",
+  "website": "http://www.taconazo.com/",
+  "placeId": "ChIJqbuM4oXQwoARl94v4F-nv4o",
+  "googleRating": 4.5,
+  "googleReviewCount": 2146,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d484e75f49c9a00f009",
+  "seededAt": "2026-06-12T14:52:56Z",
+  "updatedAt": "2026-06-12T14:52:56Z",
+  "source": "groundgame"
+}

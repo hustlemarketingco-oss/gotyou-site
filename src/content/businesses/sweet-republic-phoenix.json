@@ -1,0 +1,39 @@
+{
+  "slug": "sweet-republic-phoenix",
+  "name": "Sweet Republic",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "6054 N 16th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.5251111,
+  "lng": -112.0481455,
+  "phone": "+14806738128",
+  "website": "http://sweetrepublic.com/",
+  "placeId": "ChIJK-itJagSK4cR4Dtr_tHqxJY",
+  "googleRating": 4.6,
+  "googleReviewCount": 1090,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4de006cbede884ca3e",
+  "seededAt": "2026-06-07T01:37:17Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

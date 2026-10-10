@@ -1,0 +1,36 @@
+{
+  "slug": "revibeu-wellness-spa-tempe",
+  "name": "ReVibeU Wellness Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Spa"
+  ],
+  "address": "725 S Rural Rd Ste 220",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4228927,
+  "lng": -111.92578379999999,
+  "phone": "+14804424578",
+  "website": "https://revibeu.com/",
+  "placeId": "ChIJd8aqx3oJK4cRgKdXSSpuLI8",
+  "googleRating": 4.8,
+  "googleReviewCount": 389,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4428c3ad83cb113577a669",
+  "seededAt": "2026-06-30T20:36:19Z",
+  "updatedAt": "2026-07-12T00:27:37Z",
+  "source": "groundgame"
+}

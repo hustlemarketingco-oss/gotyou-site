@@ -1,0 +1,40 @@
+{
+  "slug": "the-last-bowl-tempe",
+  "name": "The Last Bowl",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Açaí shop",
+    "Breakfast restaurant",
+    "Coffee shop"
+  ],
+  "address": "7720 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348132,
+  "lng": -111.9653234,
+  "phone": "+14807440158",
+  "website": "https://www.thelastbowl.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14772378063356754789",
+  "googleCid": "14772378063356754789",
+  "placeId": "ChIJ11tAQL8FK4cRZfsmypQHAs0",
+  "googleRating": 3.7,
+  "googleReviewCount": 6,
+  "priceRange": "$10–20",
+  "description": "Located in Tempe, The Last Bowl is a cafe & açaí shop with coffee, takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Coffee"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2435f9eb6cbe060a214f9a",
+  "seededAt": "2026-06-06T15:00:09Z",
+  "updatedAt": "2026-06-06T15:04:48Z",
+  "source": "groundgame"
+}

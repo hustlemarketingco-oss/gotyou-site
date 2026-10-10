@@ -43,10 +43,11 @@
     "sun": "8:00 AM - 6:00 PM"
   },
   "timezone": "America/Denver",
-  "claimStatus": "unclaimed",
+  "claimStatus": "claimed",
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
-  "enrichedAt": "2026-10-04T18:45:49Z"
+  "enrichedAt": "2026-10-04T18:45:49Z",
+  "groundgameId": "6940fa1e2ed534d96e98bbb1"
 }

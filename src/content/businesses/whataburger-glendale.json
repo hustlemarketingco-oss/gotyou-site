@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-glendale",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "4280 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.639776499999996,
+  "lng": -112.1512164,
+  "phone": "+16025470186",
+  "website": "https://locations.whataburger.com/az/glendale/4280-w-bell-rd.html/",
+  "placeId": "ChIJMUuAqClpK4cRZ25GlHOqLU0",
+  "googleRating": 4.1,
+  "googleReviewCount": 2956,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d6915029647cecb55f5",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-06-12T14:53:29Z",
+  "source": "groundgame"
+}

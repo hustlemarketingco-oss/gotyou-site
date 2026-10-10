@@ -1,0 +1,37 @@
+{
+  "slug": "fox-cigar-scottsdale",
+  "name": "Fox Cigar",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Cigar shop"
+  ],
+  "address": "7443 E 6th Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14802145011",
+  "description": "Located in Scottsdale, Fox Cigar is a bar & cigar shop.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/foxcigarbar"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b1a775ad861ce4cc6fb",
+  "seededAt": "2026-06-06T15:22:02Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

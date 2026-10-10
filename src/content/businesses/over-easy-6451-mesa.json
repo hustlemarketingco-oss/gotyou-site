@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-6451-mesa",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "6451 E Southern Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.393421,
+  "lng": -111.69231850000001,
+  "phone": "+14803066204",
+  "website": "https://eatatovereasy.com/locations/mesa-southern/",
+  "placeId": "ChIJWYP0WravK4cRUizJmhNN4l0",
+  "googleRating": 4.4,
+  "googleReviewCount": 1808,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3039fdce211e624bacae29",
+  "seededAt": "2026-06-15T17:44:29Z",
+  "updatedAt": "2026-06-15T17:44:29Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "cenarios-pizza-of-fairfield",
+  "name": "Cenario's Pizza of Fairfield",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "1955 W Texas St #9",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2487694,
+  "lng": -122.0642998,
+  "phone": "+17074251000",
+  "website": "https://www.cenariospizza.com/",
+  "placeId": "ChIJgTdnThYUhYARnL2DURnH-Os",
+  "googleRating": 4.4,
+  "googleReviewCount": 328,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646eefe3e3c3cac9fb39e",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

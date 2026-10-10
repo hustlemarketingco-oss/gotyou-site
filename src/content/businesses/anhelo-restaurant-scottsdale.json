@@ -1,0 +1,44 @@
+{
+  "slug": "anhelo-restaurant-scottsdale",
+  "name": "Anhelo Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Fine dining restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7007 E 1st Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+16025967745",
+  "priceRange": "$100+",
+  "description": "Sophisticated eatery presenting contemporary American dinners & weekend brunches.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Quiet",
+    "Romantic",
+    "Trendy",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Organic dishes",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/anhelorestaurant"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243edec1b329ddfc484425",
+  "seededAt": "2026-06-06T15:38:06Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

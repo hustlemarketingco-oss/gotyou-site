@@ -1,0 +1,43 @@
+{
+  "slug": "hodori-mesa",
+  "name": "Hodori",
+  "category": "Asian & Pacific",
+  "googleCategory": "Korean restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1116 S Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.394760999999995,
+  "lng": -111.875431,
+  "phone": "+14806687979",
+  "website": "http://hodoriaz.com/",
+  "placeId": "ChIJY-k17uEHK4cRte5CWoxIzxU",
+  "googleRating": 4.5,
+  "googleReviewCount": 1196,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "Closed",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fc5f7cc3efd102af3b87e",
+  "seededAt": "2026-07-21T19:18:15Z",
+  "updatedAt": "2026-07-21T19:20:26Z",
+  "source": "groundgame"
+}

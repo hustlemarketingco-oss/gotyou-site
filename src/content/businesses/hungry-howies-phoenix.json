@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-phoenix",
+  "name": "Hungry Howies",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3320 W Bethany Home Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85017",
+  "lat": 33.524584,
+  "lng": -112.13110599999999,
+  "phone": "+14806495999",
+  "website": "https://www.hungryhowies.com/stores/az/phoenix/3320-w-bethany-home-rd",
+  "placeId": "ChIJoXKE-7FsK4cRCVgplDnREYw",
+  "googleRating": 3.7,
+  "googleReviewCount": 263,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cb9e9d6588035489e894",
+  "seededAt": "2026-06-16T22:18:06Z",
+  "updatedAt": "2026-06-16T22:18:06Z",
+  "source": "groundgame"
+}

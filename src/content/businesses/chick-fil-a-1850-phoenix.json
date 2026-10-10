@@ -1,0 +1,41 @@
+{
+  "slug": "chick-fil-a-1850-phoenix",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "1850 W Bethany Home Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.524316,
+  "lng": -112.09950500000001,
+  "phone": "+16026541850",
+  "website": "https://www.chick-fil-a.com/locations/az/bethany-home",
+  "placeId": "ChIJH0CeU3ptK4cRva-q-AQ9nTk",
+  "googleRating": 4.1,
+  "googleReviewCount": 1489,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b19d6c343e23270d519",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

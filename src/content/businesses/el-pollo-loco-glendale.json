@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-glendale",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "4302 W Cactus Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85304",
+  "lat": 33.5966916,
+  "lng": -112.15164,
+  "phone": "+14805352102",
+  "website": "https://restaurants.elpolloloco.com/az/glendale/4302-w-cactus-rd",
+  "placeId": "ChIJdd_xqf1rK4cRJUmWke9WSrM",
+  "googleRating": 3.9,
+  "googleReviewCount": 1075,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83a58cd0e39431a2a4ab",
+  "seededAt": "2026-06-25T19:38:13Z",
+  "updatedAt": "2026-06-25T19:38:14Z",
+  "source": "groundgame"
+}

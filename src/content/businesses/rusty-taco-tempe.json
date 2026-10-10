@@ -1,0 +1,38 @@
+{
+  "slug": "rusty-taco-tempe",
+  "name": "Rusty Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "707 S Forest Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4228885,
+  "lng": -111.9363747,
+  "phone": "+14809552955",
+  "website": "https://rustytaco.com/locations/az/tempe/707-s-forest-ave",
+  "placeId": "ChIJERXs7sEJK4cRCQXQx8JDw58",
+  "googleRating": 4.6,
+  "googleReviewCount": 588,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31ad2dbf464074f6538a9b",
+  "seededAt": "2026-06-16T20:08:13Z",
+  "updatedAt": "2026-08-04T18:43:54Z",
+  "source": "groundgame"
+}

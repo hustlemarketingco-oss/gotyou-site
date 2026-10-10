@@ -1,0 +1,40 @@
+{
+  "slug": "hash-kitchen-chandler",
+  "name": "Hash Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Brunch restaurant",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "2855 W Ray Rd #4",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.3199294,
+  "lng": -111.8902909,
+  "phone": "+14809094270",
+  "website": "http://hashkitchen.com/",
+  "placeId": "ChIJvfeVkDwHK4cRwHifFSp4CGo",
+  "googleRating": 4.5,
+  "googleReviewCount": 3825,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c7176d99563fc4beb62",
+  "seededAt": "2026-06-23T05:41:05Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

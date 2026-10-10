@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-21001-phoenix",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "21001 N Tatum Blvd Ste Z-1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.6739725,
+  "lng": -111.9716292,
+  "phone": "+14807719537",
+  "website": "https://locations.massageenvy.com/arizona/phoenix/21001-n-tatum-boulevard.html",
+  "placeId": "ChIJ4fj9N95wK4cREKKjgrrWhtw",
+  "googleRating": 4.7,
+  "googleReviewCount": 421,
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e63e091f37343a13d07a",
+  "seededAt": "2026-06-17T18:23:58Z",
+  "updatedAt": "2026-06-17T18:23:58Z",
+  "source": "groundgame"
+}

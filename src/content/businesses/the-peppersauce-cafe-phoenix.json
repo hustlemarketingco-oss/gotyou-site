@@ -1,0 +1,37 @@
+{
+  "slug": "the-peppersauce-cafe-phoenix",
+  "name": "The Peppersauce Cafe",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3937 E Anne St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.4125442,
+  "lng": -111.99605559999999,
+  "phone": "+16024386602",
+  "website": "http://www.peppersaucecafe.com/",
+  "placeId": "ChIJNTKeDwEPK4cRAD4ckVwQ02Q",
+  "googleRating": 4.7,
+  "googleReviewCount": 1484,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1cd3215b3ec6aac31c98",
+  "seededAt": "2026-06-12T14:50:59Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

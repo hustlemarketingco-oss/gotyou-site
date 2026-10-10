@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-10250-scottsdale",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "10250 N 90th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.580028999999996,
+  "lng": -111.886989,
+  "phone": "+14804511796",
+  "website": "https://locations.einsteinbros.com/us/az/scottsdale/10250-n-90th-st?y_source=1_OTA0OTUyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ7VrEVzl1K4cRqzMKPKuWvxY",
+  "googleRating": 4,
+  "googleReviewCount": 297,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 PM",
+    "tue": "5:00 AM - 2:00 PM",
+    "wed": "5:00 AM - 2:00 PM",
+    "thu": "5:00 AM - 2:00 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994c58ba5fd65f6c47cf3",
+  "seededAt": "2026-06-10T16:45:57Z",
+  "updatedAt": "2026-06-12T22:06:05Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "press-coffee-scottsdale-quarter-scottsdale",
+  "name": "Press Coffee - Scottsdale Quarter",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "Quarter Mall, Building F, 15257 N Scottsdale Rd Ste 160",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.624918699999995,
+  "lng": -111.923525,
+  "phone": "+14807189762",
+  "website": "https://presscoffee.com/pages/location-scottsdale-quarter",
+  "placeId": "ChIJnb7bVT50K4cR_oHsyxFPY50",
+  "googleRating": 4.4,
+  "googleReviewCount": 782,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 7:00 PM",
+    "tue": "6:30 AM - 7:00 PM",
+    "wed": "6:30 AM - 7:00 PM",
+    "thu": "6:30 AM - 7:00 PM",
+    "fri": "6:30 AM - 7:00 PM",
+    "sat": "6:30 AM - 7:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b0c747dbb668bf624",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-07-01T22:18:22Z",
+  "source": "groundgame"
+}

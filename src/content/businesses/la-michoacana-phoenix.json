@@ -1,0 +1,39 @@
+{
+  "slug": "la-michoacana-phoenix",
+  "name": "La Michoacana",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "3413 N 7th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.488639,
+  "lng": -112.08237009999999,
+  "phone": "+14803265055",
+  "website": "https://www.alnaturalaz.com/",
+  "placeId": "ChIJ73GJ-pcTK4cRnETQEfYtFls",
+  "googleRating": 4.7,
+  "googleReviewCount": 93,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c11c204d2a5d8401771",
+  "seededAt": "2026-06-22T19:25:05Z",
+  "updatedAt": "2026-06-22T19:25:05Z",
+  "source": "groundgame"
+}

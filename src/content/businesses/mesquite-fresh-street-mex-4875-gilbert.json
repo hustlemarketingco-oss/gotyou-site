@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-4875-gilbert",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4875 S Val Vista Dr",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85298",
+  "lat": 33.2615893,
+  "lng": -111.7549126,
+  "phone": "+14802488284",
+  "website": "https://www.eatmesquite.com/",
+  "placeId": "ChIJqaz8B3atK4cRzBbb9IJvOJI",
+  "googleRating": 4.3,
+  "googleReviewCount": 200,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "6:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9ee76172aff4f62644a",
+  "seededAt": "2026-06-17T17:31:26Z",
+  "updatedAt": "2026-06-17T17:31:26Z",
+  "source": "groundgame"
+}

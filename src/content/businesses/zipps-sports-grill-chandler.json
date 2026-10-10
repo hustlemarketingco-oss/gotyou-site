@@ -1,0 +1,43 @@
+{
+  "slug": "zipps-sports-grill-chandler",
+  "name": "Zipps Sports Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Chicken restaurant",
+    "Sports bar",
+    "Pizza restaurant",
+    "Diner",
+    "Family restaurant",
+    "Bar and grill",
+    "Bar"
+  ],
+  "address": "4060 S Arizona Ave",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2461062,
+  "lng": -111.84180780000001,
+  "phone": "+14803981776",
+  "website": "https://www.zippssportsgrills.com/locations/ocotillo/",
+  "placeId": "ChIJI3z8gruqK4cRxq-26wqR3q0",
+  "googleRating": 4,
+  "googleReviewCount": 1273,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31904a74f16eb42b46069e",
+  "seededAt": "2026-06-16T18:04:58Z",
+  "updatedAt": "2026-06-16T18:04:59Z",
+  "source": "groundgame"
+}

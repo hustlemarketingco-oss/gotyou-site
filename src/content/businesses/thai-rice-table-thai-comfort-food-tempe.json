@@ -1,0 +1,42 @@
+{
+  "slug": "thai-rice-table-thai-comfort-food-tempe",
+  "name": "Thai Rice Table Thai Comfort Food",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "825 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216606,
+  "lng": -111.9511767,
+  "phone": "+16233223393",
+  "website": "http://www.ricetableaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4603956159793923787",
+  "googleCid": "4603956159793923787",
+  "placeId": "ChIJsS5HOxIJK4cRywb9CbyJ5D8",
+  "googleRating": 4.9,
+  "googleReviewCount": 339,
+  "description": "Located in Tempe, Thai Rice Table Thai Comfort Food is a restaurant.",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 9:30 PM",
+    "sat": "10:00 AM - 9:30 PM",
+    "sun": "10:00 AM - 9:30 PM",
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243772ad92730844998cd1",
+  "seededAt": "2026-06-06T15:06:26Z",
+  "updatedAt": "2026-07-15T19:01:31Z",
+  "source": "groundgame"
+}

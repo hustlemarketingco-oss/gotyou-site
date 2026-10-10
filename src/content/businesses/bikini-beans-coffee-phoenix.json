@@ -1,0 +1,37 @@
+{
+  "slug": "bikini-beans-coffee-phoenix",
+  "name": "Bikini Beans Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3155 E Bell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6402013,
+  "lng": -112.01449769999999,
+  "website": "https://bikinibeanscoffee.com/",
+  "placeId": "ChIJhf0ibI1xK4cRR76R3bVgMSw",
+  "googleRating": 4.4,
+  "googleReviewCount": 248,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "5:00 AM - 10:00 PM",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342270aa4f32784a2ba508",
+  "seededAt": "2026-06-18T16:53:04Z",
+  "updatedAt": "2026-06-18T16:53:04Z",
+  "source": "groundgame"
+}

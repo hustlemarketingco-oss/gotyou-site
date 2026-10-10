@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-cave-creek",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "29455 N Cave Creek Rd Ste 114",
+  "city": "Cave Creek",
+  "state": "AZ",
+  "zip": "85331",
+  "lat": 33.7518524,
+  "lng": -111.9911041,
+  "phone": "+14805887882",
+  "website": "https://elementsmassage.com/cave-creek",
+  "placeId": "ChIJi1NceVF6K4cRe58lRsDCLPQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 221,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a7f6cbba3c65fd152cf",
+  "seededAt": "2026-06-22T18:10:07Z",
+  "updatedAt": "2026-06-22T18:10:08Z",
+  "source": "groundgame"
+}

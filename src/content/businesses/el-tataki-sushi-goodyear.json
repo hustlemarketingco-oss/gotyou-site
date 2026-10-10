@@ -1,0 +1,40 @@
+{
+  "slug": "el-tataki-sushi-goodyear",
+  "name": "El Tataki Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Fusion restaurant",
+    "Asian restaurant",
+    "Meal takeaway",
+    "Japanese restaurant"
+  ],
+  "address": "790 N Estrella Pkwy Ste D & E",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85338",
+  "lat": 33.4557102,
+  "lng": -112.3930711,
+  "phone": "+16232486696",
+  "website": "https://eltatakisushi.com/",
+  "placeId": "ChIJxUV_0KQ5K4cRyzZuVcw7bPI",
+  "googleRating": 4,
+  "googleReviewCount": 315,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5543f9c4df16b748d0d22a",
+  "seededAt": "2026-07-13T20:00:57Z",
+  "updatedAt": "2026-07-13T20:00:58Z",
+  "source": "groundgame"
+}

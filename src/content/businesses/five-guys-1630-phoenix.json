@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-1630-phoenix",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Fast food restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "1630 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.51041190000001,
+  "lng": -112.04689859999999,
+  "phone": "+14806646098",
+  "website": "https://restaurants.fiveguys.com/1630-e-camelback-rd",
+  "placeId": "ChIJc-vjOdkNK4cRluwtROmZsmw",
+  "googleRating": 3.8,
+  "googleReviewCount": 66,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c1688de3fdcf3b778eb",
+  "seededAt": "2026-06-16T17:47:02Z",
+  "updatedAt": "2026-06-16T17:47:02Z",
+  "source": "groundgame"
+}

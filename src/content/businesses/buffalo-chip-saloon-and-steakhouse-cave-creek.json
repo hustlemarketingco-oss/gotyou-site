@@ -1,0 +1,40 @@
+{
+  "slug": "buffalo-chip-saloon-and-steakhouse-cave-creek",
+  "name": "Buffalo Chip Saloon and Steakhouse",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Live music venue",
+    "American restaurant",
+    "Event venue"
+  ],
+  "address": "6823 E Cave Creek Rd",
+  "city": "Cave Creek",
+  "state": "AZ",
+  "zip": "85331",
+  "lat": 33.830735499999996,
+  "lng": -111.93415619999999,
+  "phone": "+14804889118",
+  "website": "http://www.buffalochipsaloon.com/",
+  "placeId": "ChIJRWhzAZZ-K4cRb8-1PwcqhtQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 4586,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3320a191b4e05ced79615c",
+  "seededAt": "2026-06-17T22:33:05Z",
+  "updatedAt": "2026-06-17T22:33:05Z",
+  "source": "groundgame"
+}

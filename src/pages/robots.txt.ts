@@ -11,7 +11,7 @@ export const GET: APIRoute = ({ site }) => {
         'User-agent: *',
         'Allow: /',
         'Disallow: /api/',
-        'Disallow: /businesses/*/claim/',
+        'Disallow: /claim/',
         '',
         ...AI_BOTS.flatMap((bot) => [`User-agent: ${bot}`, 'Allow: /', '']),
         `Sitemap: ${new URL('/sitemap-index.xml', site).href}`,

@@ -40,11 +40,12 @@
     "sun": "Closed"
   },
   "timezone": "America/Denver",
-  "claimStatus": "unclaimed",
+  "claimStatus": "claimed",
   "checkinCount": 0,
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "description": "The Twisted Cow is an ice cream shop on North University Avenue in downtown Provo. It's an evening spot, open from 4 PM to 10 PM and until midnight on weekends.",
-  "enrichedAt": "2026-10-04T18:45:49Z"
+  "enrichedAt": "2026-10-04T18:45:49Z",
+  "groundgameId": "6940fa1f2fda29a3bf86e6f9"
 }

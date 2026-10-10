@@ -1,0 +1,37 @@
+{
+  "slug": "burrito-express-744-tempe",
+  "name": "BURRITO EXPRESS",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "744 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496945,
+  "lng": -111.94875590000001,
+  "phone": "+14806373805",
+  "website": "http://www.theburritoexpress.com/",
+  "placeId": "ChIJeUw3v2cHK4cRAZLlieTi1G8",
+  "googleRating": 4.3,
+  "googleReviewCount": 69,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a2fdd7ec2268b83b8ff1",
+  "seededAt": "2026-06-22T21:02:53Z",
+  "updatedAt": "2026-07-06T21:34:48Z",
+  "source": "groundgame"
+}

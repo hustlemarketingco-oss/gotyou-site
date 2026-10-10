@@ -1,0 +1,39 @@
+{
+  "slug": "sprouts-express-phoenix",
+  "name": "Sprouts Express",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Fresh food market",
+    "Fruit and vegetable store",
+    "Health food store",
+    "Organic food store",
+    "Produce market",
+    "Supermarket"
+  ],
+  "address": "5455 E High St Ste 107",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "phone": "+16026823200",
+  "description": "Specialty chain offering a range of natural & organic grocery items, including own-brand goods.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Checks",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SproutsFarmersMarket"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24431dbdc15f8eafc3cc68",
+  "seededAt": "2026-06-06T15:56:13Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

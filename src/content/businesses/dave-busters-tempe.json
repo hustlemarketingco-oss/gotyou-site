@@ -1,0 +1,40 @@
+{
+  "slug": "dave-busters-tempe",
+  "name": "Dave & Buster's Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Video arcade",
+    "Amusement center",
+    "Bar and grill",
+    "Bar"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1100",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.433132,
+  "lng": -111.904287,
+  "phone": "+14802818456",
+  "website": "https://www.daveandbusters.com/us/en/about/locations/tempe",
+  "placeId": "ChIJtevbq6oJK4cRDKw4xznet7M",
+  "googleRating": 4.3,
+  "googleReviewCount": 6793,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 1:00 AM",
+    "thu": "10:00 AM - 1:00 AM",
+    "fri": "10:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a514b949bf1983a521b1c8b",
+  "seededAt": "2026-07-10T19:44:20Z",
+  "updatedAt": "2026-07-10T19:44:20Z",
+  "source": "groundgame"
+}

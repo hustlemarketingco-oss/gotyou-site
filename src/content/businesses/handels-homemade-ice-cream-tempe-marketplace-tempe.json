@@ -1,0 +1,39 @@
+{
+  "slug": "handels-homemade-ice-cream-tempe-marketplace-tempe",
+  "name": "Handel's Homemade Ice Cream- Tempe Marketplace",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1062",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4328901,
+  "lng": -111.9049384,
+  "phone": "+14808943262",
+  "website": "https://handelsicecream.com/store/tempe/",
+  "placeId": "ChIJC9hqffwJK4cRiEgXQLaeM6c",
+  "googleRating": 4.2,
+  "googleReviewCount": 103,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ac4ee541040ecd8d203",
+  "seededAt": "2026-06-18T17:28:36Z",
+  "updatedAt": "2026-06-18T17:28:36Z",
+  "source": "groundgame"
+}

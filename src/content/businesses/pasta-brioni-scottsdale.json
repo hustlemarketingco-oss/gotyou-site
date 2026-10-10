@@ -1,0 +1,48 @@
+{
+  "slug": "pasta-brioni-scottsdale",
+  "name": "Pasta Brioni",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Pizza delivery",
+    "Pizza restaurant",
+    "Bar and grill",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway",
+    "Cocktail bar"
+  ],
+  "address": "4416 N Miller Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.500479399999996,
+  "lng": -111.9185682,
+  "phone": "+14809940028",
+  "website": "https://www.pastabrioni.com/",
+  "placeId": "ChIJ05yLOboLK4cRCEifzyGYmhY",
+  "googleRating": 4.6,
+  "googleReviewCount": 1092,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 2:00 PM, 4:30 PM - 9:00 PM",
+    "tue": "11:30 AM - 2:00 PM, 4:30 PM - 9:00 PM",
+    "wed": "11:30 AM - 2:00 PM, 4:30 PM - 9:00 PM",
+    "thu": "11:30 AM - 2:00 PM, 4:30 PM - 9:00 PM",
+    "fri": "11:30 AM - 2:00 PM, 4:30 PM - 10:00 PM",
+    "sat": "4:30 PM - 10:00 PM",
+    "sun": "4:30 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276630f91a92d9ebd77307",
+  "seededAt": "2026-06-09T01:02:40Z",
+  "updatedAt": "2026-06-28T03:36:44Z",
+  "source": "groundgame"
+}

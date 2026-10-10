@@ -1,0 +1,37 @@
+{
+  "slug": "triple-beam-pizza-santa-monica",
+  "name": "Triple Beam Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2905 Main St",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90405",
+  "lat": 33.9995152,
+  "lng": -118.4807523,
+  "phone": "+13105794775",
+  "website": "https://www.triplebeampizza.com/",
+  "placeId": "ChIJS7jCcgC7woARgMzTh6AGejM",
+  "googleRating": 4.2,
+  "googleReviewCount": 77,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 9:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50c65a3bacc3f7184c1",
+  "seededAt": "2026-02-10T21:37:16Z",
+  "updatedAt": "2026-02-10T21:37:16Z",
+  "source": "groundgame"
+}

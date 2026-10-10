@@ -1,0 +1,42 @@
+{
+  "slug": "river-rock-roasting-company-la-verkin",
+  "name": "River Rock Roasting Company",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Hamburger restaurant",
+    "Coffee shop",
+    "Cafe",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "394 S State St",
+  "city": "La Verkin",
+  "state": "UT",
+  "zip": "84745",
+  "lat": 37.1945238,
+  "lng": -113.27600199999999,
+  "phone": "+14356357625",
+  "website": "http://www.riverrockroasters.com/",
+  "placeId": "ChIJAw1Ve1DxyoARAUOmpTh3PQQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 6121,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 8:00 PM",
+    "tue": "6:30 AM - 8:00 PM",
+    "wed": "6:30 AM - 8:00 PM",
+    "thu": "6:30 AM - 8:00 PM",
+    "fri": "6:30 AM - 9:00 PM",
+    "sat": "6:30 AM - 9:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7d4e2f70b14e681b36",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2025-12-16T15:32:13Z",
+  "source": "groundgame"
+}

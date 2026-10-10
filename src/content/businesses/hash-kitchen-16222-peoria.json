@@ -1,0 +1,43 @@
+{
+  "slug": "hash-kitchen-16222-peoria",
+  "name": "Hash Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Diner",
+    "Brunch restaurant",
+    "Catering service",
+    "Cafe",
+    "Meal takeaway",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "16222 N 83rd Ave",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.635294699999996,
+  "lng": -112.23453629999999,
+  "phone": "+16233524990",
+  "website": "http://hashkitchen.com/",
+  "placeId": "ChIJFfheStZpK4cRw8GiKefLj8I",
+  "googleRating": 4.6,
+  "googleReviewCount": 1877,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c7284b5324e918ec0d5",
+  "seededAt": "2026-06-23T05:41:06Z",
+  "updatedAt": "2026-06-23T05:41:06Z",
+  "source": "groundgame"
+}

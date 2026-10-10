@@ -1,0 +1,43 @@
+{
+  "slug": "rubios-coastal-grill-phoenix",
+  "name": "Rubio's Coastal Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Seafood restaurant",
+    "Burrito restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "4340 E Indian School Rd Ste 1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.49518,
+  "lng": -111.98832999999999,
+  "phone": "+16025081732",
+  "website": "https://www.rubios.com/restaurant-locations/arizona/phoenix-indian-school-rd",
+  "placeId": "ChIJYQtsnlAMK4cRrRtyBSxQ0Us",
+  "googleRating": 4.3,
+  "googleReviewCount": 650,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39744772ebc28e7b9881c5",
+  "seededAt": "2026-06-22T17:43:35Z",
+  "updatedAt": "2026-06-22T17:43:35Z",
+  "source": "groundgame"
+}

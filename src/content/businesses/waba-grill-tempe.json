@@ -1,0 +1,48 @@
+{
+  "slug": "waba-grill-tempe",
+  "name": "WaBa Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian fusion restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Fusion restaurant",
+    "Vegetarian restaurant",
+    "Fast food restaurant",
+    "Korean restaurant",
+    "Meal takeaway"
+  ],
+  "address": "555 N Scottsdale Rd Unit 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4343256,
+  "lng": -111.92539819999999,
+  "phone": "+14809125333",
+  "website": "https://locations.wabagrill.com/ll/us/az/tempe/555-n-scottsdale-rd/",
+  "placeId": "ChIJl4MYKhkJK4cR79miA8NcN0U",
+  "googleRating": 3.6,
+  "googleReviewCount": 340,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435f4c071c0a45d9233f9",
+  "seededAt": "2026-06-18T18:16:20Z",
+  "updatedAt": "2026-09-14T22:16:13Z",
+  "source": "groundgame"
+}

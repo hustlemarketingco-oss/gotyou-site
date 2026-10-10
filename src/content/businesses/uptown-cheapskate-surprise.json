@@ -1,0 +1,39 @@
+{
+  "slug": "uptown-cheapskate-surprise",
+  "name": "Uptown Cheapskate Surprise",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Shoe store",
+    "Womens clothing store",
+    "Discount store",
+    "Clothing store"
+  ],
+  "address": "13856 W Waddell Rd #106",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85379",
+  "lat": 33.610736599999996,
+  "lng": -112.35816319999999,
+  "phone": "+16237480419",
+  "website": "https://www.uptowncheapskate.com/location/surprise/",
+  "placeId": "ChIJR8OTPk5FK4cRo5JMWNS37fk",
+  "googleRating": 4.6,
+  "googleReviewCount": 107,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397f8fbcc77a632601c387",
+  "seededAt": "2026-06-22T18:31:43Z",
+  "updatedAt": "2026-06-22T18:31:43Z",
+  "source": "groundgame"
+}

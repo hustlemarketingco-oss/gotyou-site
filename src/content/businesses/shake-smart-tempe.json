@@ -1,0 +1,37 @@
+{
+  "slug": "shake-smart-tempe",
+  "name": "Shake Smart",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Brazilian restaurant"
+  ],
+  "address": "500 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4158184,
+  "lng": -111.93233079999999,
+  "phone": "+15122228915",
+  "website": "http://www.shakesmart.com/",
+  "placeId": "ChIJxWYpx-MJK4cR0NA64FVek_o",
+  "googleRating": 4.5,
+  "googleReviewCount": 79,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a6a6fec30ab09dd6147ff82",
+  "seededAt": "2026-07-29T21:26:04Z",
+  "updatedAt": "2026-07-29T22:31:56Z",
+  "source": "groundgame"
+}

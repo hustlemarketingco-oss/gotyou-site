@@ -1,0 +1,39 @@
+{
+  "slug": "idaho-pizza-company-5150-boise",
+  "name": "Idaho Pizza Company",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "5150 W Overland Rd",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83705",
+  "lat": 43.590084999999995,
+  "lng": -116.24621300000001,
+  "phone": "+12083435455",
+  "website": "http://www.idahopizzacompany.com/",
+  "placeId": "ChIJ88sb5tZXrlQRKTaflOSUAtw",
+  "googleRating": 4.4,
+  "googleReviewCount": 1601,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b4fc1400c0422f422db",
+  "seededAt": "2026-01-16T01:58:39Z",
+  "updatedAt": "2026-01-16T01:58:39Z",
+  "source": "groundgame"
+}

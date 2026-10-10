@@ -1,0 +1,42 @@
+{
+  "slug": "portillos-tempe",
+  "name": "Portillo's Tempe",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Takeout restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "65 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4297611,
+  "lng": -111.908645,
+  "phone": "+14809677988",
+  "website": "https://www.portillos.com/locations/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10851330165496169259",
+  "googleCid": "10851330165496169259",
+  "placeId": "ChIJo5WgRP4IK4cRK0Ph7kqrl5Y",
+  "googleRating": 4.5,
+  "googleReviewCount": 9676,
+  "description": "Chicago-born chain for hot dogs, Italian beef sandwiches & more, plus beer & wine, in retro digs.",
+  "hours": {
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:30 PM",
+    "mon": "10:00 AM - 10:30 PM",
+    "tue": "10:00 AM - 10:30 PM",
+    "wed": "10:00 AM - 10:30 PM",
+    "thu": "10:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24364d43710cf0fe781dc3",
+  "seededAt": "2026-06-06T15:01:33Z",
+  "updatedAt": "2026-07-13T23:28:54Z",
+  "source": "groundgame"
+}

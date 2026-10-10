@@ -1,0 +1,36 @@
+{
+  "slug": "beauty-and-body-by-olivia-tempe",
+  "name": "Beauty and body by Olivia",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "2016 E Wildermuth Ave unit 1088",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4139514,
+  "lng": -111.8998044,
+  "phone": "+13032103271",
+  "website": "https://beautyandbodybyolivia.shop/",
+  "placeId": "ChIJPTOdLlprK4cRdZBB2IuBcoo",
+  "googleRating": 5,
+  "googleReviewCount": 26,
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a346d756c159cf7e8e196a8",
+  "seededAt": "2026-06-18T22:13:09Z",
+  "updatedAt": "2026-07-23T19:03:39Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "pasadena-pizza-co-pasadena",
+  "name": "Pasadena Pizza Co.",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Italian restaurant",
+    "Food store",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "336 Allen Ave",
+  "city": "Pasadena",
+  "state": "CA",
+  "zip": "91107",
+  "lat": 34.151407899999995,
+  "lng": -118.1125033,
+  "phone": "+16267939020",
+  "website": "https://pasadenapizzacomenu.com/",
+  "placeId": "ChIJlwVzqVLDwoARfMhAGM7CsIY",
+  "googleRating": 4.5,
+  "googleReviewCount": 352,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d43e7fd5829279dfce",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2026-09-22T15:30:38Z",
+  "source": "groundgame"
+}

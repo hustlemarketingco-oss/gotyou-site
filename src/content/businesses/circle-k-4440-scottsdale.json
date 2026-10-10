@@ -1,0 +1,51 @@
+{
+  "slug": "circle-k-4440-scottsdale",
+  "name": "Circle K",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Atm",
+    "Coffee shop"
+  ],
+  "address": "4440 N Miller Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5016653,
+  "lng": -111.9178536,
+  "phone": "+14809459174",
+  "website": "https://www.circlek.com/store-locator/US/scottsdale/4440-n-miller-rd/2700127",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6751165591333059174",
+  "googleCid": "6751165591333059174",
+  "placeId": "ChIJqzkKZ7oLK4cRZjo_C1b1sF0",
+  "googleRating": 3.4,
+  "googleReviewCount": 148,
+  "priceRange": "$",
+  "description": "Located in Scottsdale, Circle K is a convenience store & atm.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours",
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d46e0a8f938c778280d",
+  "seededAt": "2026-06-06T15:31:18Z",
+  "updatedAt": "2026-06-25T21:24:30Z",
+  "source": "groundgame"
+}

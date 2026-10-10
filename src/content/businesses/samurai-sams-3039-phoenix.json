@@ -1,0 +1,37 @@
+{
+  "slug": "samurai-sams-3039-phoenix",
+  "name": "Samurai Sam's",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3039 W Peoria Ave Ste 103",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.5814017,
+  "lng": -112.1252102,
+  "phone": "+16029972342",
+  "website": "https://www.samuraisams.net/stores/5017",
+  "placeId": "ChIJN_S8B2MYnlQRPgNvSBct6Rw",
+  "googleRating": 4.2,
+  "googleReviewCount": 521,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd83271932077884fa7b5",
+  "seededAt": "2026-07-09T17:19:46Z",
+  "updatedAt": "2026-07-09T17:19:46Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "ingos-tasty-food-7087-phoenix",
+  "name": "Ingo's Tasty Food",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Cocktail bar",
+    "Bar",
+    "Cafe",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "7087 E Mayo Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.654992,
+  "lng": -111.927667,
+  "phone": "+14808638850",
+  "website": "https://ingostastyfood.com/",
+  "placeId": "ChIJv4byRzZ3K4cRePxf8sQ87IU",
+  "googleRating": 4.5,
+  "googleReviewCount": 239,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3052ea0d2ef2574312f470",
+  "seededAt": "2026-06-15T19:30:50Z",
+  "updatedAt": "2026-06-23T03:44:08Z",
+  "source": "groundgame"
+}

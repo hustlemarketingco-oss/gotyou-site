@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-chandler",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "935 W Elliot Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.3493703,
+  "lng": -111.8565325,
+  "phone": "+14809170140",
+  "website": "https://restaurants.ihop.com/en-us/az/chandler/breakfast-935-w-elliott-rd-1509",
+  "placeId": "ChIJQXotINapK4cRl2CsgVtCgnc",
+  "googleRating": 3.8,
+  "googleReviewCount": 3269,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddd4f2212b311fb1226a",
+  "seededAt": "2026-06-17T17:48:04Z",
+  "updatedAt": "2026-06-17T17:48:04Z",
+  "source": "groundgame"
+}

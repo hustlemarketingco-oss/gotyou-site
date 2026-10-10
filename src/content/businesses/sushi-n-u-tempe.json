@@ -1,0 +1,36 @@
+{
+  "slug": "sushi-n-u-tempe",
+  "name": "Sushi n U",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "780 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495883,
+  "lng": -111.94978049999999,
+  "phone": "+14808381767",
+  "website": "http://sushinu.net/",
+  "placeId": "ChIJofRAwM4HK4cRufLtnBteXdE",
+  "googleRating": 4.6,
+  "googleReviewCount": 330,
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4c17500705caeebad951ca",
+  "seededAt": "2026-07-06T21:00:00Z",
+  "updatedAt": "2026-07-06T21:00:00Z",
+  "source": "groundgame"
+}

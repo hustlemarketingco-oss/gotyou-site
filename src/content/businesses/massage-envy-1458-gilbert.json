@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-1458-gilbert",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "1458 N Higley Rd #103",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.376742,
+  "lng": -111.72285,
+  "phone": "+14808323689",
+  "website": "https://locations.massageenvy.com/arizona/gilbert/1458-n-higley-road.html",
+  "placeId": "ChIJfd7z9PyuK4cRUXtJe5PunS4",
+  "googleRating": 4.7,
+  "googleReviewCount": 498,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e63c21e93af03396f9bd",
+  "seededAt": "2026-06-17T18:23:56Z",
+  "updatedAt": "2026-06-17T18:23:57Z",
+  "source": "groundgame"
+}

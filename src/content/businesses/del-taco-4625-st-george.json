@@ -1,0 +1,40 @@
+{
+  "slug": "del-taco-4625-st-george",
+  "name": "Del Taco",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Hamburger restaurant",
+    "Mexican restaurant",
+    "American restaurant",
+    "Meal takeaway"
+  ],
+  "address": "4625 S Pioneer Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.02885,
+  "lng": -113.60568599999999,
+  "phone": "+14352154422",
+  "website": "https://locations.deltaco.com/us/ut/st-george/4625-s-pioneer-rd",
+  "placeId": "ChIJKZCrRQBPyoARZ4h5IEgPC5c",
+  "googleRating": 4,
+  "googleReviewCount": 50,
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e63620a9c683ce5aeb962",
+  "seededAt": "2026-01-19T17:01:22Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "the-parlor-pizzeria-phoenix",
+  "name": "The Parlor Pizzeria",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "1916 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.509605,
+  "lng": -112.040452,
+  "phone": "+16022482480",
+  "website": "http://www.theparlor.us/",
+  "placeId": "ChIJ4aUavWYNK4cRoSKFImkq9Bg",
+  "googleRating": 4.7,
+  "googleReviewCount": 2318,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb195b38c4aa64ad30c1",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

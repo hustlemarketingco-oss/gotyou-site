@@ -1,0 +1,39 @@
+{
+  "slug": "handels-homemade-ice-cream-scottsdale",
+  "name": "Handel's Homemade Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "31309 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85266",
+  "lat": 33.7683086,
+  "lng": -111.92423470000001,
+  "phone": "+14803612517",
+  "website": "https://handelsicecream.com/store/cave-creek/",
+  "placeId": "ChIJ6RMTSWh5K4cRyWn9nh9rVEk",
+  "googleRating": 4.5,
+  "googleReviewCount": 80,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342acdaec0924c90df2bab",
+  "seededAt": "2026-06-18T17:28:45Z",
+  "updatedAt": "2026-06-18T17:28:46Z",
+  "source": "groundgame"
+}

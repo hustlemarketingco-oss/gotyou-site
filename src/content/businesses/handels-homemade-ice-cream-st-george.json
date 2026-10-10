@@ -1,0 +1,39 @@
+{
+  "slug": "handels-homemade-ice-cream-st-george",
+  "name": "Handel's Homemade Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1543 S River Rd Unit 1",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0827088,
+  "lng": -113.55359949999999,
+  "phone": "+14352568895",
+  "website": "https://handelsicecream.com/stgeorge",
+  "placeId": "ChIJmetXgihFyoARNFIXJDyVk6w",
+  "googleRating": 4.7,
+  "googleReviewCount": 751,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "1:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f895131558e01d712554",
+  "seededAt": "2025-12-17T18:38:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

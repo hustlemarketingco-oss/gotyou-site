@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-scottsdale",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "8950 E Mountain View Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5755322,
+  "lng": -111.8863981,
+  "phone": "+14806618998",
+  "website": "https://restaurants.ihop.com/en-us/az/scottsdale/breakfast-8950-e-mountain-view-rd-1521",
+  "placeId": "ChIJeSCrHTp1K4cRVsvT00PMPnc",
+  "googleRating": 4.1,
+  "googleReviewCount": 1519,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32dddd2ca45e70ef1f085f",
+  "seededAt": "2026-06-17T17:48:13Z",
+  "updatedAt": "2026-06-17T17:48:13Z",
+  "source": "groundgame"
+}

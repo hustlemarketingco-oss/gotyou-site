@@ -1,0 +1,43 @@
+{
+  "slug": "one-handsome-bastard-distillery-scottsdale",
+  "name": "One Handsome Bastard Distillery",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar and grill",
+  "secondaryCategories": [
+    "Bar",
+    "Manufacturer"
+  ],
+  "address": "7042 E Indian School Rd Suite 100",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.495228499999996,
+  "lng": -111.92921679999999,
+  "phone": "+14809461062",
+  "website": "http://onehandsomebastard.com/",
+  "placeId": "ChIJ7eV9hJYLK4cRkGEbtEPEPZY",
+  "googleRating": 4.8,
+  "googleReviewCount": 183,
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "Closed",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c37027399f40487f462ec",
+  "seededAt": "2026-06-12T16:42:42Z",
+  "updatedAt": "2026-06-29T21:09:01Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-flower-shop-phoenix",
+  "name": "The Flower Shop - Phoenix",
+  "category": "Shopping",
+  "address": "3155 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4655583,
+  "lng": -112.0131828,
+  "phone": "+14805005054",
+  "website": "https://theflowershopusa.com/phoenix",
+  "placeId": "ChIJ__8vtNoNK4cRHc2UDi7dVTI",
+  "googleRating": 4.4,
+  "googleReviewCount": 1301,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ed526a7af1144ffe26e37",
+  "seededAt": "2026-06-26T19:38:14Z",
+  "updatedAt": "2026-06-26T19:38:15Z",
+  "source": "groundgame"
+}

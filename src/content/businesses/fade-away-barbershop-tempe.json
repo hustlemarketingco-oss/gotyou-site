@@ -1,0 +1,35 @@
+{
+  "slug": "fade-away-barbershop-tempe",
+  "name": "Fade-away barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair care"
+  ],
+  "address": "1648 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4483337,
+  "lng": -111.9269866,
+  "phone": "+14804552664",
+  "placeId": "ChIJtxnLFBUJK4cRUvOWYfOKFhs",
+  "googleRating": 4.4,
+  "googleReviewCount": 69,
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 3:00 PM",
+    "wed": "11:00 AM - 4:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39b84d63fe21a205e5691c",
+  "seededAt": "2026-06-22T22:33:49Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

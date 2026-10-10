@@ -1,0 +1,40 @@
+{
+  "slug": "milkshake-factory-chandler-ocotillo-chandler",
+  "name": "MilkShake Factory Chandler Ocotillo",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Chocolate shop",
+    "Candy store",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4955 S Alma School Rd Suite# 4955-13",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.235321899999995,
+  "lng": -111.85751219999999,
+  "phone": "+14803866323",
+  "website": "https://www.milkshakefactory.com/locations/chandler-ocotillo/",
+  "placeId": "ChIJRdDFRMQBK4cR9mGftdWwmzk",
+  "googleRating": 4.7,
+  "googleReviewCount": 210,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad36efe6191be3efd58fd",
+  "seededAt": "2026-06-23T18:41:50Z",
+  "updatedAt": "2026-06-23T18:41:51Z",
+  "source": "groundgame"
+}

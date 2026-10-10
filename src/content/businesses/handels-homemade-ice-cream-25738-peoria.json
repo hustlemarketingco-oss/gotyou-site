@@ -1,0 +1,40 @@
+{
+  "slug": "handels-homemade-ice-cream-25738-peoria",
+  "name": "Handel's Homemade Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "25738 N Lake Pleasant Pkwy #110",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7175997,
+  "lng": -112.27167759999999,
+  "phone": "+14802032722",
+  "website": "https://www.handelsicecream.com/store/lake-pleasant",
+  "placeId": "ChIJgWPU9TpdK4cRF2a0Lcw9Al4",
+  "googleRating": 4.5,
+  "googleReviewCount": 255,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ad30fb888771f483b25",
+  "seededAt": "2026-06-18T17:28:51Z",
+  "updatedAt": "2026-06-18T17:28:51Z",
+  "source": "groundgame"
+}

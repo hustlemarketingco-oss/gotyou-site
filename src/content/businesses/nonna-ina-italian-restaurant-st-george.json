@@ -1,0 +1,33 @@
+{
+  "slug": "nonna-ina-italian-restaurant-st-george",
+  "name": "Nonna Ina Italian Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "address": "567 S Valley View Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.0981346,
+  "lng": -113.6187313,
+  "phone": "+14353013838",
+  "placeId": "ChIJMwNkEQBFyoARwwLt6mWjoBM",
+  "googleRating": 4.5,
+  "googleReviewCount": 133,
+  "priceRange": "$",
+  "hours": {
+    "mon": "4:30 PM - 9:00 PM",
+    "tue": "11:30 AM - 1:30 PM, 4:30 PM - 9:00 PM",
+    "wed": "11:30 AM - 1:30 PM, 4:30 PM - 9:00 PM",
+    "thu": "11:30 AM - 1:30 PM, 4:30 PM - 9:00 PM",
+    "fri": "11:30 AM - 1:30 PM, 4:30 PM - 9:30 PM",
+    "sat": "11:30 AM - 1:30 PM, 4:30 PM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b18c0f0cf4161d021d0",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

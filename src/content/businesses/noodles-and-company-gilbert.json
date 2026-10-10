@@ -1,0 +1,43 @@
+{
+  "slug": "noodles-and-company-gilbert",
+  "name": "Noodles and Company",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Salad shop",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store",
+    "Soup restaurant"
+  ],
+  "address": "2975 S Market St",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.297363,
+  "lng": -111.747581,
+  "phone": "+14809630255",
+  "website": "https://locations.noodles.com/az/gilbert/2975-south-market-street",
+  "placeId": "ChIJhfpa8WSsK4cR34ySgprCDEg",
+  "googleRating": 3.9,
+  "googleReviewCount": 744,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ad344414e11328e78b2",
+  "seededAt": "2026-06-18T17:28:51Z",
+  "updatedAt": "2026-06-18T17:28:51Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "the-bar-dove-valley-phoenix",
+  "name": "The Bar Dove Valley",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "2965 W Dove Valley Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.782506,
+  "lng": -112.1229089,
+  "phone": "+16234014141",
+  "website": "https://thebarphx.com/",
+  "placeId": "ChIJZ-AbOgBjK4cR6L4hABq59EE",
+  "googleRating": 4.3,
+  "googleReviewCount": 46,
+  "hours": {
+    "mon": "11:00 AM - 2:00 AM",
+    "tue": "11:00 AM - 2:00 AM",
+    "wed": "11:00 AM - 2:00 AM",
+    "thu": "11:00 AM - 2:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53fed3614b03cba4045922",
+  "seededAt": "2026-07-12T20:53:39Z",
+  "updatedAt": "2026-07-12T20:56:28Z",
+  "source": "groundgame"
+}

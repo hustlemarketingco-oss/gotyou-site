@@ -1,0 +1,46 @@
+{
+  "slug": "taco-bell-3601-gilbert",
+  "name": "Taco Bell",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Lunch restaurant",
+    "Takeout restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-mex restaurant"
+  ],
+  "address": "3601 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14808920341",
+  "priceRange": "$10–20",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/tacobell"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2644904db79f3d780e4153",
+  "seededAt": "2026-06-08T04:26:56Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

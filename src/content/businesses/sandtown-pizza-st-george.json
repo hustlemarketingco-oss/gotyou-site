@@ -1,0 +1,35 @@
+{
+  "slug": "sandtown-pizza-st-george",
+  "name": "Sandtown Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "195 South Bluff Street",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "phone": "+14359220545",
+  "website": "https://www.sandtownpizza.com/",
+  "placeId": "ChIJc1YOcgBFyoARnmhsEqj2YUY",
+  "googleRating": 4.6,
+  "googleReviewCount": 304,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "claimed",
+  "checkinCount": 0,
+  "groundgameId": "693fb6ad22ee8792d5e84fb1",
+  "seededAt": "2025-12-15T07:20:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

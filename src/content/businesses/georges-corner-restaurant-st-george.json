@@ -1,0 +1,38 @@
+{
+  "slug": "georges-corner-restaurant-st-george",
+  "name": "George's Corner Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Pub",
+    "Bar"
+  ],
+  "address": "2 W St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1101229,
+  "lng": -113.58354039999999,
+  "phone": "+14352167311",
+  "website": "http://georgescornerrestaurant.com/",
+  "placeId": "ChIJQ6bimM9EyoARkP86Y1Mr4HY",
+  "googleRating": 4.4,
+  "googleReviewCount": 4337,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b1875cd54e6bf83cfa6",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "jesters-billiards-gilbert",
+  "name": "Jester's Billiards",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Pool hall"
+  ],
+  "address": "1515 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14809261314",
+  "priceRange": "$",
+  "description": "This sizable, unfussy watering hole features many pool tables, foosball, darts & league play.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/Jesters-Billiards-133192246711029"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26457a44561183a5670a95",
+  "seededAt": "2026-06-08T04:30:50Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

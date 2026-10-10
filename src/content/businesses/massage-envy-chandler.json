@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-chandler",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "2510 W Chandler Blvd Suit 7",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.3065311,
+  "lng": -111.8855643,
+  "phone": "+14805319184",
+  "website": "https://locations.massageenvy.com/arizona/chandler/2510-west-chandler-blvd.html",
+  "placeId": "ChIJiztMDcsAK4cRP87K_O6QVKo",
+  "googleRating": 4.6,
+  "googleReviewCount": 688,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e63aabc3c0a63f178b73",
+  "seededAt": "2026-06-17T18:23:54Z",
+  "updatedAt": "2026-06-17T18:23:55Z",
+  "source": "groundgame"
+}

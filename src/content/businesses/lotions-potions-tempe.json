@@ -1,0 +1,36 @@
+{
+  "slug": "lotions-potions-tempe",
+  "name": "Lotions & Potions",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "420 S Mill Ave #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4257168,
+  "lng": -111.94023569999999,
+  "phone": "+14809684652",
+  "website": "http://www.lotionsandpotions.com/",
+  "placeId": "ChIJmyAj_9cIK4cRHB8eDd-KGYw",
+  "googleRating": 4.4,
+  "googleReviewCount": 94,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ebecd63ef3ad7001dc8e6",
+  "seededAt": "2026-06-26T18:02:53Z",
+  "updatedAt": "2026-06-26T18:03:40Z",
+  "source": "groundgame"
+}

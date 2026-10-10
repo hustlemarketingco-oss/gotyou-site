@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-glendale",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "6800 N 95th Ave #990",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85305",
+  "lat": 33.5332274,
+  "lng": -112.2669578,
+  "phone": "+16233378321",
+  "website": "https://www.tillys.com/store/?StoreID=0225",
+  "placeId": "ChIJ41W640pAK4cRtSmqjLOLSIw",
+  "googleRating": 4.3,
+  "googleReviewCount": 41,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343875f00310922531462a",
+  "seededAt": "2026-06-18T18:27:01Z",
+  "updatedAt": "2026-06-18T18:27:02Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "la-prieta-linda-st-george",
+  "name": "LA PRIETA LINDA",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "795 E 700 S",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.0966726,
+  "lng": -113.5667804,
+  "phone": "+14356569146",
+  "website": "https://www.laprietalinda.com/",
+  "placeId": "ChIJIfzEHwBbyoAR3UE-B_tfpgg",
+  "googleRating": 4.6,
+  "googleReviewCount": 37,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361aa246acdf87904de",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

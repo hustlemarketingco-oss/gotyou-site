@@ -1,0 +1,33 @@
+{
+  "slug": "ajs-fine-foods-phoenix",
+  "name": "AJ's Fine Foods",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "address": "4430 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "phone": "+16025220956",
+  "description": "Gourmet chain with butcher & seafood counters, baked goods & coffees, cheese & market-fresh produce.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/AJsFineFoods"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24432f9ed5a8a212e0e2bd",
+  "seededAt": "2026-06-06T15:56:31Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

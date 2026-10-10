@@ -1,0 +1,41 @@
+{
+  "slug": "chick-fil-a-4105-phoenix",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "4105 N 44th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.495170699999996,
+  "lng": -111.98593179999999,
+  "phone": "+16028404566",
+  "website": "https://www.chick-fil-a.com/locations/az/arcadia",
+  "placeId": "ChIJW62GWVoMK4cR0GTFCoR-1Bk",
+  "googleRating": 4.4,
+  "googleReviewCount": 2604,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b197d243e7561dbfad9",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

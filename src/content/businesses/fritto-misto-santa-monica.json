@@ -1,0 +1,37 @@
+{
+  "slug": "fritto-misto-santa-monica",
+  "name": "Fritto Misto",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "620 Santa Monica Blvd #A",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90401",
+  "lat": 34.0184134,
+  "lng": -118.49238629999999,
+  "phone": "+13104582829",
+  "website": "http://thefrittomisto.com/?y_source=1_MzA2MjAwOTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJx6ZUb9KkwoARLyJiDBVzvyI",
+  "googleRating": 4.6,
+  "googleReviewCount": 1879,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 9:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 9:30 PM",
+    "sat": "11:30 AM - 9:30 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50d9fe9aff736306023",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

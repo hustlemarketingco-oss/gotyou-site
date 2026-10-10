@@ -1,0 +1,33 @@
+{
+  "slug": "creations-boutique-gilbert",
+  "name": "Creations Boutique",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "2218 E Williams Field Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3107999,
+  "lng": -111.7433985,
+  "phone": "+16238879195",
+  "website": "https://www.shopsantanvillage.com/Directory/Details/858208",
+  "placeId": "ChIJ4RyGaz-tK4cRJ7qfcu02tFc",
+  "googleRating": 3.3,
+  "googleReviewCount": 23,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435ab99b96ffa1922fb8b",
+  "seededAt": "2026-06-18T18:15:07Z",
+  "updatedAt": "2026-06-18T18:15:08Z",
+  "source": "groundgame"
+}

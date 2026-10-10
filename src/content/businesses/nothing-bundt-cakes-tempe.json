@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-tempe",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "2010 E Rio Salado Pkwy #120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4323003,
+  "lng": -111.9031267,
+  "phone": "+14809340375",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/tempe/bakery-916.html",
+  "placeId": "ChIJSXA75cQJK4cR2YqfRq6xFjY",
+  "googleRating": 3.8,
+  "googleReviewCount": 36,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34420f305195d8d97a6373",
+  "seededAt": "2026-06-18T19:07:59Z",
+  "updatedAt": "2026-08-06T20:09:55Z",
+  "source": "groundgame"
+}

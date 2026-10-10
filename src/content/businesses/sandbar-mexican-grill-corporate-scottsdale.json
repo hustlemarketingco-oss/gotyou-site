@@ -1,0 +1,41 @@
+{
+  "slug": "sandbar-mexican-grill-corporate-scottsdale",
+  "name": "Sandbar Mexican Grill Corporate",
+  "category": "Mexican & Latin",
+  "googleCategory": "Corporate office",
+  "address": "7340 E Indian Plaza",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5015451,
+  "lng": -111.9228825,
+  "phone": "+14809701112",
+  "website": "http://sandbaraz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15180467242310407139",
+  "googleCid": "15180467242310407139",
+  "placeId": "ChIJ9aWlhbwLK4cR45Nd_obaq9I",
+  "googleRating": 1.6,
+  "googleReviewCount": 5,
+  "description": "Quirky, colorful, beach-themed Mexican restaurant & bar with classic bites & dancing.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM",
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244026149c77ae65b0d440",
+  "seededAt": "2026-06-06T15:43:34Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

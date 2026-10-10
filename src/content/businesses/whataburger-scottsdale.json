@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-scottsdale",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "7134 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4806429,
+  "lng": -111.92807549999999,
+  "phone": "+16232393416",
+  "website": "https://locations.whataburger.com/az/scottsdale/7134-e-thomas-rd.html/",
+  "placeId": "ChIJrytR0WULK4cRIilstQDLCDA",
+  "googleRating": 4,
+  "googleReviewCount": 1059,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276647f490f8abd03043f1",
+  "seededAt": "2026-06-09T01:03:03Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

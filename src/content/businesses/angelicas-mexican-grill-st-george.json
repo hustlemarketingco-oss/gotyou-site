@@ -1,0 +1,37 @@
+{
+  "slug": "angelicas-mexican-grill-st-george",
+  "name": "Angelica's Mexican Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "101 E E St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1103513,
+  "lng": -113.5808928,
+  "phone": "+14356284399",
+  "website": "http://www.angelicasmexicangrill.com/",
+  "placeId": "ChIJH8ojoMVEyoARXTeUE8FW5BE",
+  "googleRating": 4.5,
+  "googleReviewCount": 2869,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361002f166248f6d461",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

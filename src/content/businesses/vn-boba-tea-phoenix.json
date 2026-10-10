@@ -1,0 +1,38 @@
+{
+  "slug": "vn-boba-tea-phoenix",
+  "name": "VN Boba Tea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Vietnamese restaurant",
+    "Tea house"
+  ],
+  "address": "10720 W Indian School Rd #79",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85037",
+  "lat": 33.4939945,
+  "lng": -112.29217810000002,
+  "phone": "+17608965691",
+  "website": "https://www.skiplinow.com/shop/970572a",
+  "placeId": "ChIJ0XaZgjJBK4cRA8ARi2dFCBQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 124,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb683f55573ffbb6bb34",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

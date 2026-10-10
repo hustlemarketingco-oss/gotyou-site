@@ -1,0 +1,38 @@
+{
+  "slug": "churroholic-tempe",
+  "name": "Churroholic",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Cafe"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4327018,
+  "lng": -111.9045027,
+  "phone": "+14809669338",
+  "website": "https://tempe.orderchurroholic.com/#/Home/ContactUs",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1670410823445743602",
+  "googleCid": "1670410823445743602",
+  "placeId": "ChIJB9pPl7kJK4cR8odzMMt9Lhc",
+  "googleRating": 3.7,
+  "googleReviewCount": 224,
+  "priceRange": "$1–10",
+  "description": "Located in Tempe, Churroholic is a restaurant & cafe with coffee, takeout & delivery.",
+  "amenities": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Coffee"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439a3a4addc9dc52a0658",
+  "seededAt": "2026-06-06T15:15:47Z",
+  "updatedAt": "2026-06-06T15:15:47Z",
+  "source": "groundgame"
+}

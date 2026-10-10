@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-3053-phoenix",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "3053 Agua Fria Fwy Ste 1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.666679,
+  "lng": -112.1246785,
+  "phone": "+16234404486",
+  "website": "https://www.jerseymikes.com/9070/phoenix-az",
+  "placeId": "ChIJsdCkT1FvK4cR8F7eJBCBxOI",
+  "googleRating": 3.2,
+  "googleReviewCount": 119,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f9a95bcaba87867d77a6",
+  "seededAt": "2026-07-12T20:31:37Z",
+  "updatedAt": "2026-07-12T20:31:38Z",
+  "source": "groundgame"
+}

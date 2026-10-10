@@ -1,0 +1,41 @@
+{
+  "slug": "theos-kitchen-to-go-tempe",
+  "name": "Theos Kitchen To Go",
+  "category": "Fast Food",
+  "googleCategory": "Takeout restaurant",
+  "address": "830 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4077959,
+  "lng": -111.9518896,
+  "website": "https://theoskitchentogo.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10670623617825885853",
+  "googleCid": "10670623617825885853",
+  "placeId": "ChIJ_-XRKu8JK4cRnc5nIKWrFZQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 369,
+  "description": "Located in Tempe, Theos Kitchen To Go is a takeout restaurant.",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM",
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24378713562b6b0a710231",
+  "seededAt": "2026-06-06T15:06:47Z",
+  "updatedAt": "2026-07-15T18:30:13Z",
+  "source": "groundgame"
+}

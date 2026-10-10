@@ -1,0 +1,38 @@
+{
+  "slug": "windsor-tempe",
+  "name": "Windsor",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Jewelry store"
+  ],
+  "address": "5000 S Arizona Mills Cir #302",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382485599999995,
+  "lng": -111.9644057,
+  "phone": "+18884954957",
+  "website": "https://www.windsorstore.com/pages/ar-rogers-pinnacle-hills-promenade",
+  "placeId": "ChIJA0lE4VkPK4cRnPnsch0O85A",
+  "googleRating": 3.7,
+  "googleReviewCount": 106,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a33472828e6a3d4c71e",
+  "seededAt": "2026-06-08T23:03:15Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

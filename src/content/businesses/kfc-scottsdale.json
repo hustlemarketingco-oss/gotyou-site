@@ -1,0 +1,37 @@
+{
+  "slug": "kfc-scottsdale",
+  "name": "KFC",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "8050 E Indian School Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.495223599999996,
+  "lng": -111.90684909999999,
+  "phone": "+14809416082",
+  "website": "https://locations.kfc.com/az/scottsdale/8050-e-indian-school-rd",
+  "placeId": "ChIJH3spvOsKK4cRPwUAL68qDlo",
+  "googleRating": 3,
+  "googleReviewCount": 763,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27666ca9f1e610eed779f9",
+  "seededAt": "2026-06-09T01:03:40Z",
+  "updatedAt": "2026-06-12T22:03:08Z",
+  "source": "groundgame"
+}

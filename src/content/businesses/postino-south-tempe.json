@@ -1,0 +1,40 @@
+{
+  "slug": "postino-south-tempe",
+  "name": "Postino South Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "8749 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335284,
+  "lng": -111.9278231,
+  "phone": "+16023252211",
+  "website": "https://www.postino.com/locations/postino-south-tempe",
+  "placeId": "ChIJecall_AHK4cROw58jczXBHg",
+  "googleRating": 4.6,
+  "googleReviewCount": 1454,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a00650da4172315956170",
+  "seededAt": "2026-06-23T03:41:25Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

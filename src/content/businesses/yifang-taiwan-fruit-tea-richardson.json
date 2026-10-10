@@ -1,0 +1,37 @@
+{
+  "slug": "yifang-taiwan-fruit-tea-richardson",
+  "name": "YiFang Taiwan Fruit Tea-Richardson",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Tea house"
+  ],
+  "address": "1386 E Belt Line Rd",
+  "city": "Richardson",
+  "state": "TX",
+  "zip": "75081",
+  "lat": 32.9435305,
+  "lng": -96.70067829999999,
+  "phone": "+12147580391",
+  "website": "https://www.yifangtx.com/",
+  "placeId": "ChIJGyxed4cfTIYRWNpblTGRr9g",
+  "googleRating": 4.9,
+  "googleReviewCount": 90,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Chicago",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3056dc36733e0a7ca0325c",
+  "seededAt": "2026-06-15T19:47:40Z",
+  "updatedAt": "2026-06-15T19:47:41Z",
+  "source": "groundgame"
+}

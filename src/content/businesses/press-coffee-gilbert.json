@@ -1,0 +1,39 @@
+{
+  "slug": "press-coffee-gilbert",
+  "name": "Press Coffee - Gilbert",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "355 E Germann Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.2770513,
+  "lng": -111.7832554,
+  "phone": "+14804667358",
+  "website": "https://presscoffee.com/pages/location-reserve",
+  "placeId": "ChIJB0NwQOKrK4cRnB3IgnUmyik",
+  "googleRating": 4.6,
+  "googleReviewCount": 226,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 4:00 PM",
+    "tue": "6:30 AM - 4:00 PM",
+    "wed": "6:30 AM - 4:00 PM",
+    "thu": "6:30 AM - 4:00 PM",
+    "fri": "6:30 AM - 4:00 PM",
+    "sat": "6:30 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b937f87a76a465f8422b",
+  "seededAt": "2026-06-10T19:21:27Z",
+  "updatedAt": "2026-06-10T19:21:28Z",
+  "source": "groundgame"
+}

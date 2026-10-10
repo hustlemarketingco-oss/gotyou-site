@@ -1,0 +1,39 @@
+{
+  "slug": "firehouse-subs-51-baseline-phoenix",
+  "name": "Firehouse Subs 51 Baseline",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "5225 W Baseline Rd #102, Laveen Village, AZ 85339",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85339",
+  "lat": 33.376965,
+  "lng": -112.17165,
+  "phone": "+16028010280",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJRWws5B4XK4cRoyrB9_3gEHg",
+  "googleRating": 4.2,
+  "googleReviewCount": 550,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afac16dd5854ab45d1d",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

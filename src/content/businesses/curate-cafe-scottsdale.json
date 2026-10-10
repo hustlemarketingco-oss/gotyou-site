@@ -1,0 +1,63 @@
+{
+  "slug": "curate-cafe-scottsdale",
+  "name": "Curate Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Restaurant"
+  ],
+  "address": "20851 N Scottsdale Rd suite 103",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6763816,
+  "lng": -111.9240467,
+  "phone": "+14809124023",
+  "website": "http://www.curatecafe.co/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=5026173353645606416",
+  "googleCid": "5026173353645606416",
+  "placeId": "ChIJh3LpkBR3K4cREIaUCwmOwEU",
+  "googleRating": 4.7,
+  "googleReviewCount": 117,
+  "priceRange": "$20–30",
+  "description": "Located in Scottsdale, Curate Cafe is a casual, cozy coffee shop & cafe with coffee & quick bite, takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/curate_cafe"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 2:30 PM",
+    "sat": "8:00 AM - 2:30 PM",
+    "sun": "Closed",
+    "mon": "Closed",
+    "tue": "8:00 AM - 2:30 PM",
+    "wed": "8:00 AM - 2:30 PM",
+    "thu": "8:00 AM - 2:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c84ffde3993252678be",
+  "seededAt": "2026-06-06T15:28:04Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

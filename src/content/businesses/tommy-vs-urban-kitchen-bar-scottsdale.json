@@ -1,0 +1,42 @@
+{
+  "slug": "tommy-vs-urban-kitchen-bar-scottsdale",
+  "name": "Tommy V's Urban Kitchen & Bar Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Steak house",
+    "Vegetarian restaurant",
+    "Seafood restaurant",
+    "Dessert restaurant",
+    "Bar"
+  ],
+  "address": "7303 E Indian School Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4946832,
+  "lng": -111.92425019999999,
+  "phone": "+14804272264",
+  "website": "http://www.tommyvscottsdale.com/",
+  "placeId": "ChIJTeBsF78LK4cRtu-lPzUGXRI",
+  "googleRating": 4.5,
+  "googleReviewCount": 922,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275351203e086690b98002",
+  "seededAt": "2026-06-08T23:42:09Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "valley-ice-cream-shop-llc-phoenix",
+  "name": "valley ice cream shop LLC",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2250 N 16th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4726668,
+  "lng": -112.0481992,
+  "phone": "+16232276220",
+  "website": "https://www.valleyicecreamshop.com/",
+  "placeId": "ChIJad4emC4TK4cRoUle6SoZvqc",
+  "googleRating": 4.9,
+  "googleReviewCount": 202,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e14b1508e260cfacd",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "wingstop-555-tempe",
+  "name": "Wingstop",
+  "category": "Fast Food",
+  "googleCategory": "Chicken wings restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "555 N Scottsdale Rd Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4343208,
+  "lng": -111.925432,
+  "phone": "+14809299464",
+  "website": "https://www.wingstop.com/location/wingstop-615-tempe-az-85281/menu?y_source=1_NTUyMDc3NTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJr8jwKhkJK4cRSz0mgCVjEbo",
+  "googleRating": 3.2,
+  "googleReviewCount": 453,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 1:00 AM",
+    "tue": "10:30 AM - 1:00 AM",
+    "wed": "10:30 AM - 1:00 AM",
+    "thu": "10:30 AM - 1:00 AM",
+    "fri": "10:30 AM - 1:00 AM",
+    "sat": "10:30 AM - 1:00 AM",
+    "sun": "10:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4e91c7872b8a0c2cdcd392",
+  "seededAt": "2026-07-08T18:07:03Z",
+  "updatedAt": "2026-09-14T22:13:12Z",
+  "source": "groundgame"
+}

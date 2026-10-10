@@ -1,0 +1,40 @@
+{
+  "slug": "brat-haus-scottsdale",
+  "name": "Brat Haus",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Beer garden",
+    "Catering service",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "3622 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4901705,
+  "lng": -111.9263268,
+  "phone": "+14809474006",
+  "website": "https://www.brathausaz.com/",
+  "placeId": "ChIJDdcJTcALK4cRtG1eLkgiSu0",
+  "googleRating": 4.5,
+  "googleReviewCount": 1609,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a299e471781259ef15ea0c1",
+  "seededAt": "2026-06-10T17:26:31Z",
+  "updatedAt": "2026-06-30T18:14:55Z",
+  "source": "groundgame"
+}

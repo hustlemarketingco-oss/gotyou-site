@@ -1,0 +1,40 @@
+{
+  "slug": "gilbert-convenient-mart-gilbert",
+  "name": "Gilbert Convenient Mart",
+  "category": "Shopping",
+  "googleCategory": "Liquor store",
+  "secondaryCategories": [
+    "Smart shop"
+  ],
+  "address": "118 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3523357,
+  "lng": -111.7900113,
+  "phone": "+14809264478",
+  "website": "https://www.facebook.com/gcm.liquor.3/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3154196620133106856",
+  "googleCid": "3154196620133106856",
+  "placeId": "ChIJ3fCDoBapK4cRqITFRh31xSs",
+  "googleRating": 4.4,
+  "googleReviewCount": 535,
+  "description": "No-frills, family-run liquor store offering craft beers, wine & spirits plus kegs.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26468ede810350b0f5a518",
+  "seededAt": "2026-06-08T04:35:26Z",
+  "updatedAt": "2026-06-08T04:35:26Z",
+  "source": "groundgame"
+}

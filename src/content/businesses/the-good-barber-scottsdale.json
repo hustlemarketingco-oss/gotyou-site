@@ -1,0 +1,36 @@
+{
+  "slug": "the-good-barber-scottsdale",
+  "name": "The Good Barber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair care"
+  ],
+  "address": "2334 N Scottsdale Rd a126",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.474057,
+  "lng": -111.9270081,
+  "phone": "+14805771935",
+  "website": "https://thegoodbarbershop.com/",
+  "placeId": "ChIJx23AN94LK4cRuiYG4Pf-WCI",
+  "googleRating": 4.8,
+  "googleReviewCount": 197,
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e88dc0014a4e0717bfea",
+  "seededAt": "2026-06-17T18:33:49Z",
+  "updatedAt": "2026-06-17T18:35:26Z",
+  "source": "groundgame"
+}

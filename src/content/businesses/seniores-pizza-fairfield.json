@@ -1,0 +1,37 @@
+{
+  "slug": "seniores-pizza-fairfield",
+  "name": "Seniore's Pizza - Fairfield",
+  "category": "Fast Food",
+  "googleCategory": "Meal delivery",
+  "secondaryCategories": [
+    "Food delivery"
+  ],
+  "address": "1345 Oliver Rd",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94534",
+  "lat": 38.256752,
+  "lng": -122.06831989999999,
+  "phone": "+17073894794",
+  "website": "http://seniorespizza.com/fairfield",
+  "placeId": "ChIJ_Ven-iLXmoARR78OKp6E4fE",
+  "googleRating": 4.7,
+  "googleReviewCount": 50,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee5a9d465acc9224c5",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

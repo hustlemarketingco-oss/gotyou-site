@@ -1,0 +1,38 @@
+{
+  "slug": "alfred-coffee-beverly-hills",
+  "name": "Alfred Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "490 N Beverly Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.071636999999996,
+  "lng": -118.40336699999999,
+  "phone": "+14243466200",
+  "website": "https://alfred.la/",
+  "placeId": "ChIJBSfiNAa8woARDhaDIdQPV0E",
+  "googleRating": 4,
+  "googleReviewCount": 538,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 6:00 PM",
+    "tue": "6:30 AM - 6:00 PM",
+    "wed": "6:30 AM - 6:00 PM",
+    "thu": "6:30 AM - 6:00 PM",
+    "fri": "6:30 AM - 6:00 PM",
+    "sat": "6:30 AM - 6:00 PM",
+    "sun": "6:30 AM - 6:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abf0fded65397ec215b",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

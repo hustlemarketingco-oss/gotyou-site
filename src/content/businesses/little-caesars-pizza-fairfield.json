@@ -1,0 +1,40 @@
+{
+  "slug": "little-caesars-pizza-fairfield",
+  "name": "Little Caesars Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "100 E Tabor Ave",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.265736,
+  "lng": -122.03353999999999,
+  "phone": "+17074223100",
+  "website": "https://littlecaesars.com/en-us/store/3945",
+  "placeId": "ChIJM8Uz9tMVhYARrleMcwuDBLw",
+  "googleRating": 3.7,
+  "googleReviewCount": 501,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee6a235ccadc9c64b3",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

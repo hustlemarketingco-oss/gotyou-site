@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-3121-phoenix",
+  "name": "Yogis Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3121 W Peoria Ave #105",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.5813756,
+  "lng": -112.12650769999999,
+  "phone": "+16232427071",
+  "website": "http://yogisgrill.com/",
+  "placeId": "ChIJX3sqwmxsK4cRVWhQbLCrck4",
+  "googleRating": 3.7,
+  "googleReviewCount": 507,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ca9979fb510719f7920c1",
+  "seededAt": "2026-06-25T04:07:51Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

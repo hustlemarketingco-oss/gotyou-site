@@ -1,0 +1,34 @@
+{
+  "slug": "air-guitar-gilbert",
+  "name": "Air Guitar",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Grocery store"
+  ],
+  "address": "1566 S Higley Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "phone": "+14804982200",
+  "amenities": [
+    "Curbside pickup",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/airguitar4life"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b3d3c0193a3c868dbbe",
+  "seededAt": "2026-06-08T04:55:25Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

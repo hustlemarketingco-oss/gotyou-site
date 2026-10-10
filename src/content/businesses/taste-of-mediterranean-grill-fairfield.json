@@ -1,0 +1,37 @@
+{
+  "slug": "taste-of-mediterranean-grill-fairfield",
+  "name": "Taste of Mediterranean Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "662 Parker Rd",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2732045,
+  "lng": -121.95934989999999,
+  "phone": "+17079293555",
+  "website": "https://www.thetasteofthemediterraneangrill.com/",
+  "placeId": "ChIJLVogcTvhmoAR7UcuVA30yZ4",
+  "googleRating": 4.8,
+  "googleReviewCount": 61,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 7:00 PM",
+    "tue": "10:30 AM - 7:00 PM",
+    "wed": "10:30 AM - 7:00 PM",
+    "thu": "10:30 AM - 7:00 PM",
+    "fri": "10:30 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472ee582f7360423d7b3",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

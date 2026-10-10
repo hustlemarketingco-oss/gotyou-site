@@ -1,0 +1,43 @@
+{
+  "slug": "humble-bistro-phoenix",
+  "name": "Humble Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Pizza restaurant",
+    "Cocktail bar",
+    "Wine bar",
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "222 E Jefferson St Suite 110",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4469704,
+  "lng": -112.07064140000001,
+  "phone": "+14805009966",
+  "website": "https://www.humblebistro.com/",
+  "placeId": "ChIJe0NybgATK4cRYeMBm3tP0Xc",
+  "googleRating": 4.9,
+  "googleReviewCount": 225,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2cb87caa475b2e05bd7",
+  "seededAt": "2026-06-10T17:45:47Z",
+  "updatedAt": "2026-06-10T17:45:48Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "gus-ny-pizza-phoenix",
+  "name": "Gus' NY Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7611 W Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85033",
+  "lat": 33.4765285,
+  "lng": -112.2230874,
+  "phone": "+16238494877",
+  "website": "https://www.gusnypizzaaz.com/",
+  "placeId": "ChIJrQlZiWgVK4cROqdlwdXP3_k",
+  "googleRating": 3.7,
+  "googleReviewCount": 174,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e2d3e429184e613fdf0a",
+  "seededAt": "2026-06-17T18:09:23Z",
+  "updatedAt": "2026-06-17T18:09:24Z",
+  "source": "groundgame"
+}

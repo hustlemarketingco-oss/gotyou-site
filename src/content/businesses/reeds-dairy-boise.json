@@ -1,0 +1,39 @@
+{
+  "slug": "reeds-dairy-boise",
+  "name": "Reed's Dairy Boise",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "10785 W Lake Hazel Rd",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83709",
+  "lat": 43.5458509,
+  "lng": -116.3161159,
+  "phone": "+12083624142",
+  "website": "http://www.reedsdairy.com/",
+  "placeId": "ChIJy2-_J2ZRrlQR1HMcSA4f1y4",
+  "googleRating": 4.8,
+  "googleReviewCount": 522,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942600683e3b93b99877b60",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

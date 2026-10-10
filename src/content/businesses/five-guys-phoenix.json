@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-phoenix",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog stand",
+    "Hot dog restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "2641 N 44th St Ste 100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.478094299999995,
+  "lng": -111.9864175,
+  "phone": "+16029560444",
+  "website": "https://restaurants.fiveguys.com/2641-n-44th-street",
+  "placeId": "ChIJI2DDuDkMK4cR245Udt3Txls",
+  "googleRating": 4.2,
+  "googleReviewCount": 1168,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c129bffcd3df69fb85f",
+  "seededAt": "2026-06-16T17:46:58Z",
+  "updatedAt": "2026-06-16T17:46:58Z",
+  "source": "groundgame"
+}

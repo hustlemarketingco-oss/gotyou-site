@@ -1,0 +1,42 @@
+{
+  "slug": "cartel-roasting-co-21001-phoenix",
+  "name": "Cartel Roasting Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Pastry shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Coffee roastery",
+    "Cafe",
+    "Wholesaler",
+    "Food store"
+  ],
+  "address": "21001 N Tatum Blvd Ste 20",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.675998,
+  "lng": -111.97187,
+  "website": "https://cartelroasting.co/",
+  "placeId": "ChIJLwXaAlVxK4cRfrSO1C5yZuA",
+  "googleRating": 3.8,
+  "googleReviewCount": 112,
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f93ce0730e2bbf504ef",
+  "seededAt": "2026-06-18T17:49:07Z",
+  "updatedAt": "2026-06-18T17:49:08Z",
+  "source": "groundgame"
+}

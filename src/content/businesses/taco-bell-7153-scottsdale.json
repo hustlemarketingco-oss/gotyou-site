@@ -1,0 +1,47 @@
+{
+  "slug": "taco-bell-7153-scottsdale",
+  "name": "Taco Bell",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Lunch restaurant",
+    "Takeout restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Tex-mex restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "7153 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14809474463",
+  "priceRange": "$10–20",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/tacobell"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24400ecd5d79d5b7acf081",
+  "seededAt": "2026-06-06T15:43:10Z",
+  "updatedAt": "2026-06-12T22:06:00Z",
+  "source": "groundgame"
+}

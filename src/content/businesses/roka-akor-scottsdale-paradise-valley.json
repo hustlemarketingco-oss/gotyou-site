@@ -1,0 +1,39 @@
+{
+  "slug": "roka-akor-scottsdale-paradise-valley",
+  "name": "Roka Akor - Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Seafood restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "7299 N Scottsdale Rd",
+  "city": "Paradise Valley",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.5426992,
+  "lng": -111.92510519999999,
+  "phone": "+14803068800",
+  "website": "https://rokaakor.com/scottsdale/",
+  "placeId": "ChIJqY0omh4LK4cRG-HPJlY6qo4",
+  "googleRating": 4.6,
+  "googleReviewCount": 1273,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d736d8e1b33c51bbbc",
+  "seededAt": "2026-06-09T01:05:27Z",
+  "updatedAt": "2026-06-09T01:05:27Z",
+  "source": "groundgame"
+}

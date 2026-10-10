@@ -1,0 +1,51 @@
+{
+  "slug": "baseline-pub-tempe",
+  "name": "Baseline Pub",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "1825 E Baseline Rd # 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3779816,
+  "lng": -111.9062775,
+  "phone": "+14808385883",
+  "googleMapsUrl": "https://www.google.com/maps?cid=13357115899315327383",
+  "googleCid": "13357115899315327383",
+  "placeId": "ChIJmW6iljIGK4cRl5FpMiQCXrk",
+  "googleRating": 4.4,
+  "googleReviewCount": 374,
+  "priceRange": "$20–30",
+  "description": "Baseline Pub is a Tempe casual, cozy sports bar & bar known for alcohol & beer, dine-in. A favorite among good for groups diners.",
+  "amenities": [
+    "Outdoor seating",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM",
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2438cee09cab7e1913bf1f",
+  "seededAt": "2026-06-06T15:12:14Z",
+  "updatedAt": "2026-06-06T15:12:14Z",
+  "source": "groundgame"
+}

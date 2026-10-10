@@ -1,0 +1,32 @@
+{
+  "slug": "bosa-donuts-tolleson",
+  "name": "BoSa Donuts",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "355 N 99th Ave #1",
+  "city": "Tolleson",
+  "state": "AZ",
+  "zip": "85353",
+  "lat": 33.450582700000005,
+  "lng": -112.27205320000002,
+  "phone": "+16028776666",
+  "placeId": "ChIJLXJKVWg_K4cRVhufzgMhN8g",
+  "googleRating": 4.5,
+  "googleReviewCount": 39,
+  "hours": {
+    "mon": "4:00 AM - 10:00 PM",
+    "tue": "4:00 AM - 10:00 PM",
+    "wed": "4:00 AM - 10:00 PM",
+    "thu": "4:00 AM - 10:00 PM",
+    "fri": "4:00 AM - 10:00 PM",
+    "sat": "4:00 AM - 10:00 PM",
+    "sun": "4:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec860d15e46a81cac827",
+  "seededAt": "2026-06-17T18:50:46Z",
+  "updatedAt": "2026-06-17T18:50:46Z",
+  "source": "groundgame"
+}

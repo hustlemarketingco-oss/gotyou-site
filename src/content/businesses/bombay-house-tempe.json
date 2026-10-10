@@ -1,0 +1,43 @@
+{
+  "slug": "bombay-house-tempe",
+  "name": "Bombay House",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "secondaryCategories": [
+    "Biryani restaurant",
+    "Indian takeaway",
+    "Momo restaurant",
+    "Punjabi restaurant",
+    "South indian restaurant"
+  ],
+  "address": "1801 E Baseline Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3774336,
+  "lng": -111.9085606,
+  "phone": "+14807302555",
+  "website": "http://www.bombayhousetempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1874860215228940102",
+  "googleCid": "1874860215228940102",
+  "placeId": "ChIJVXufXVQHK4cRRr87rG7XBBo",
+  "googleRating": 4.7,
+  "googleReviewCount": 490,
+  "description": "Located in Tempe, Bombay House is a indian restaurant & biryani restaurant.",
+  "hours": {
+    "fri": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "sat": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "sun": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "mon": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "tue": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "wed": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "thu": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243779b43d6a515a349d72",
+  "seededAt": "2026-06-06T15:06:33Z",
+  "updatedAt": "2026-07-10T19:08:57Z",
+  "source": "groundgame"
+}

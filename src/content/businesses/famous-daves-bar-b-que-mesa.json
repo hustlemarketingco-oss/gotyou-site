@@ -1,0 +1,39 @@
+{
+  "slug": "famous-daves-bar-b-que-mesa",
+  "name": "Famous Dave's Bar-B-Que",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "1011 N Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.435553999999996,
+  "lng": -111.869057,
+  "phone": "+14806151444",
+  "website": "https://www.famousdaves.com/Mesa",
+  "placeId": "ChIJX3x9cTIIK4cRzaVbny9IKRM",
+  "googleRating": 4.3,
+  "googleReviewCount": 3776,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d906a51d7170882a71258",
+  "seededAt": "2026-06-25T20:32:42Z",
+  "updatedAt": "2026-06-25T21:24:30Z",
+  "source": "groundgame"
+}

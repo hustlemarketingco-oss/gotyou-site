@@ -1,0 +1,38 @@
+{
+  "slug": "pier-49-pizza-st-george",
+  "name": "Pier 49 Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Italian restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1066 S Bluff St a",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "phone": "+14356561745",
+  "website": "http://www.pier49.com/",
+  "placeId": "ChIJaymRnyVFyoARov5qqHK8m00",
+  "googleRating": 4.3,
+  "googleReviewCount": 386,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dc1f65cc8b247640bb",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

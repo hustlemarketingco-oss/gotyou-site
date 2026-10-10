@@ -1,0 +1,40 @@
+{
+  "slug": "riot-house-scottsdale",
+  "name": "Riot House Scottsdale",
+  "category": "Bars & Pubs",
+  "googleCategory": "Night club",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar",
+    "Sports club",
+    "Association or organization"
+  ],
+  "address": "4425 N Saddlebag Trail",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5014232,
+  "lng": -111.9220218,
+  "phone": "+14809355910",
+  "website": "https://riothouse.com/",
+  "placeId": "ChIJU29M3W0LK4cR56Sx6eyvNo8",
+  "googleRating": 3.4,
+  "googleReviewCount": 663,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "8:00 PM - 2:00 AM",
+    "fri": "8:00 PM - 2:00 AM",
+    "sat": "8:00 PM - 2:00 AM",
+    "sun": "8:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01ecc39fdc1c2eb1be9f",
+  "seededAt": "2026-06-23T03:47:56Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

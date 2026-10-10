@@ -1,0 +1,29 @@
+{
+  "slug": "dominos-pizza-ammon",
+  "name": "Domino's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "1675 Market Way",
+  "city": "Ammon",
+  "state": "ID",
+  "zip": "83406",
+  "lat": 43.482400899999995,
+  "lng": -111.9662833,
+  "website": "https://www.dominos.com/en/",
+  "placeId": "ChIJOdhXsOdeVFMRbWBogvwLNso",
+  "googleRating": 3.9,
+  "googleReviewCount": 444,
+  "priceRange": "$",
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69418724514c33c0cb77bd03",
+  "seededAt": "2025-12-16T16:21:56Z",
+  "updatedAt": "2026-09-22T15:30:29Z",
+  "source": "groundgame"
+}

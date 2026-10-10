@@ -1,0 +1,39 @@
+{
+  "slug": "guss-new-york-pizza-bar-goodyear",
+  "name": "Gus's New York Pizza & Bar",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Italian restaurant",
+    "Bar"
+  ],
+  "address": "13824 W McDowell Rd #100",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.4654506,
+  "lng": -112.3567436,
+  "phone": "+16239354488",
+  "website": "https://www.gussnewyorkpizzabarmenu.com/",
+  "placeId": "ChIJ-TultKI4K4cRvgqDbRXG6Z8",
+  "googleRating": 3.9,
+  "googleReviewCount": 1197,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:30 PM",
+    "tue": "11:00 AM - 11:30 PM",
+    "wed": "11:00 AM - 11:30 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e2d81a35361dd5dd0276",
+  "seededAt": "2026-06-17T18:09:28Z",
+  "updatedAt": "2026-06-17T18:09:28Z",
+  "source": "groundgame"
+}

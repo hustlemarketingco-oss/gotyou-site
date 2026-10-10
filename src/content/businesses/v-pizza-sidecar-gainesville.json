@@ -1,0 +1,36 @@
+{
+  "slug": "v-pizza-sidecar-gainesville",
+  "name": "V Pizza + Sidecar",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "115 SE 1st St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32601",
+  "lat": 29.650658999999997,
+  "lng": -82.323682,
+  "phone": "+13528887533",
+  "placeId": "ChIJ6wLb1oyj6IgRlRqzMPGjte4",
+  "googleRating": 4.5,
+  "googleReviewCount": 1305,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f8dfc982c23ea07e8",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

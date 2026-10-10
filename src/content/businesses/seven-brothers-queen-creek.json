@@ -1,0 +1,37 @@
+{
+  "slug": "seven-brothers-queen-creek",
+  "name": "Seven Brothers - Queen Creek",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "24750 S Ellsworth Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.223805899999995,
+  "lng": -111.63513379999999,
+  "phone": "+14808472365",
+  "website": "https://www.sevenbrothersburgers.com/",
+  "placeId": "ChIJIZIn7Y9NKocRkBfBiNm4MRk",
+  "googleRating": 4.7,
+  "googleReviewCount": 1407,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01f760474add32dd8ae2",
+  "seededAt": "2026-06-23T03:48:07Z",
+  "updatedAt": "2026-06-23T03:48:07Z",
+  "source": "groundgame"
+}

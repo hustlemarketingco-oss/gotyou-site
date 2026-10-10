@@ -1,0 +1,41 @@
+{
+  "slug": "continental-golf-club-scottsdale",
+  "name": "Continental Golf Club",
+  "category": "Fun & Activities",
+  "googleCategory": "Golf course",
+  "secondaryCategories": [
+    "Sports coaching",
+    "Sports school",
+    "Athletic field",
+    "Sports activity location",
+    "Sports club",
+    "Association or organization"
+  ],
+  "address": "7920 E Osborn Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4878396,
+  "lng": -111.9116311,
+  "phone": "+14809411047",
+  "website": "https://www.continentalgc.com/",
+  "placeId": "ChIJyxSfQ8kLK4cRxsZLArmJFw8",
+  "googleRating": 4,
+  "googleReviewCount": 508,
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e30a7a0a0f6a2c329cf5",
+  "seededAt": "2026-06-17T18:10:18Z",
+  "updatedAt": "2026-06-17T18:10:19Z",
+  "source": "groundgame"
+}

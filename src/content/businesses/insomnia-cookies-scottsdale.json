@@ -1,0 +1,45 @@
+{
+  "slug": "insomnia-cookies-scottsdale",
+  "name": "Insomnia Cookies",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Cookie shop",
+    "Ice cream shop"
+  ],
+  "address": "4417 N Saddlebag Trail",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5010772,
+  "lng": -111.9219638,
+  "phone": "+14807164940",
+  "website": "https://insomniacookies.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11764144213584672466",
+  "googleCid": "11764144213584672466",
+  "placeId": "ChIJH72MMkcLK4cR0nYuSdWiQqM",
+  "googleRating": 4.7,
+  "googleReviewCount": 61,
+  "description": "Bakery chain known for warm cookies, ice cream & late-night deliveries.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 3:00 AM",
+    "sat": "12:00 PM - 3:00 AM",
+    "sun": "12:00 PM - 1:00 AM",
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c47cd9f1d7b2736b616",
+  "seededAt": "2026-06-06T15:27:03Z",
+  "updatedAt": "2026-07-01T18:43:03Z",
+  "source": "groundgame"
+}

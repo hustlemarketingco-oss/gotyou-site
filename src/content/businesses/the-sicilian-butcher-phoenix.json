@@ -1,0 +1,39 @@
+{
+  "slug": "the-sicilian-butcher-phoenix",
+  "name": "The Sicilian Butcher",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "15530 N Tatum Blvd #160",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6274638,
+  "lng": -111.97842519999999,
+  "phone": "+16027755140",
+  "website": "https://locations.thesicilianbutcher.com/az/phoenix/phoenix/",
+  "placeId": "ChIJB4zxet5zK4cRKcW11mOVujk",
+  "googleRating": 4.6,
+  "googleReviewCount": 6264,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c7208dc2bdccbb8589b",
+  "seededAt": "2026-06-23T05:41:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "albertsons-bakery-scottsdale",
+  "name": "Albertsons Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "2785 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4790309,
+  "lng": -111.9241425,
+  "googleMapsUrl": "https://www.google.com/maps?cid=13704491173592177050",
+  "googleCid": "13704491173592177050",
+  "placeId": "ChIJa2voJQALK4cRmhlw5RwiML4",
+  "googleRating": 4,
+  "googleReviewCount": 1,
+  "description": "Located in Scottsdale, Albertsons Bakery is a bakery with coffee.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243dafae0acf759d6393ca",
+  "seededAt": "2026-06-06T15:33:03Z",
+  "updatedAt": "2026-06-10T16:44:39Z",
+  "source": "groundgame"
+}

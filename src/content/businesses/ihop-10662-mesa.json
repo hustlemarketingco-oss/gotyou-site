@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-10662-mesa",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "10662 E Southern Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.393915899999996,
+  "lng": -111.6004426,
+  "phone": "+14803547781",
+  "website": "https://restaurants.ihop.com/en-us/az/mesa/breakfast-10662-e.-southern-ave-3082",
+  "placeId": "ChIJ138pXwexK4cRUnrbO-3yphs",
+  "googleRating": 4,
+  "googleReviewCount": 4029,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddef8c9d6dcbb5db7c84",
+  "seededAt": "2026-06-17T17:48:31Z",
+  "updatedAt": "2026-06-17T17:48:31Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "el-jefe-tacos-sushi-phoenix",
+  "name": "El Jefe Tacos & Sushi",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "4923 E Chandler Blvd Ste 300",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85048",
+  "lat": 33.304851299999996,
+  "lng": -111.977791,
+  "phone": "+14809038226",
+  "website": "https://www.eljefetacos.com/",
+  "placeId": "ChIJb9ltRv8FK4cRedSgyAVqSjI",
+  "googleRating": 4,
+  "googleReviewCount": 247,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad7ffdba1162c7a0ea718",
+  "seededAt": "2026-06-23T19:01:19Z",
+  "updatedAt": "2026-06-23T19:01:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "wings-waffles-phoenix",
+  "name": "Wings & Waffles",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant"
+  ],
+  "address": "2836 E Indian School Rd A-1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.4956635,
+  "lng": -112.0200309,
+  "phone": "+16023545677",
+  "placeId": "ChIJLWp-Bf0NK4cR3y0kbU_OQFE",
+  "googleRating": 3.2,
+  "googleReviewCount": 187,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d332f9ed6a4d48f93d8",
+  "seededAt": "2026-06-12T14:52:35Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

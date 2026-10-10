@@ -1,0 +1,39 @@
+{
+  "slug": "famous-daves-bar-b-que-peoria",
+  "name": "Famous Dave's Bar-B-Que",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "16148 N 83rd Ave",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.633700999999995,
+  "lng": -112.23562299999999,
+  "phone": "+16239793706",
+  "website": "https://www.famousdaves.com/peoria-glendale",
+  "placeId": "ChIJWY4gryloK4cRqbHlqt77ly4",
+  "googleRating": 4.2,
+  "googleReviewCount": 3773,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d906e3c4692583c4a9050",
+  "seededAt": "2026-06-25T20:32:46Z",
+  "updatedAt": "2026-06-25T20:32:47Z",
+  "source": "groundgame"
+}

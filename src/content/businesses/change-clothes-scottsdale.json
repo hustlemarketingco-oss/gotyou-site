@@ -1,0 +1,38 @@
+{
+  "slug": "change-clothes-scottsdale",
+  "name": "Change Clothes",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "7164 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493319,
+  "lng": -111.92685000000002,
+  "phone": "+14804852122",
+  "website": "http://change--clothes.com/",
+  "placeId": "ChIJ0wWHjjQLK4cRs2GhBjfTin8",
+  "googleRating": 4.9,
+  "googleReviewCount": 59,
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3af5840cdd27a18ffc5f40",
+  "seededAt": "2026-06-23T21:07:16Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

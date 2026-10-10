@@ -1,0 +1,52 @@
+{
+  "slug": "del-taco-gilbert",
+  "name": "Del Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Hamburger restaurant",
+    "Takeout restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "5216 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14808071917",
+  "priceRange": "$10–20",
+  "description": "Fast-food chain for Mexican standards like tacos, burritos & quesadillas, plus breakfast.",
+  "amenities": [
+    "Outdoor seating",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/deltaco"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26445cb82800c1793a0611",
+  "seededAt": "2026-06-08T04:26:04Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

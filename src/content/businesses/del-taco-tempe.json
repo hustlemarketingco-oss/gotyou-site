@@ -1,0 +1,42 @@
+{
+  "slug": "del-taco-tempe",
+  "name": "Del Taco",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Taco restaurant",
+    "Mexican restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "1331 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.443799,
+  "lng": -111.926183,
+  "phone": "+14805903021",
+  "website": "https://locations.deltaco.com/us/az/tempe/1331-n-scottsdale-rd",
+  "placeId": "ChIJUYQjzDsJK4cRQZqdqjNUd6I",
+  "googleRating": 3.6,
+  "googleReviewCount": 612,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34268cd0a37f5c68ca1d04",
+  "seededAt": "2026-06-18T17:10:36Z",
+  "updatedAt": "2026-06-18T17:10:44Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "the-porch-flagstaff",
+  "name": "The Porch",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Sports bar",
+    "Brunch restaurant",
+    "Lounge bar",
+    "Night club",
+    "Family restaurant",
+    "Hamburger restaurant",
+    "Cocktail bar"
+  ],
+  "address": "360 W Forest Meadows St",
+  "city": "Flagstaff",
+  "state": "AZ",
+  "zip": "86001",
+  "lat": 35.1794693,
+  "lng": -111.6626565,
+  "phone": "+19287749112",
+  "website": "https://www.porchrestaurants.com/",
+  "placeId": "ChIJOYmNGrSPLYcR-tiuxBshso4",
+  "googleRating": 4.3,
+  "googleReviewCount": 255,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1c4f6a50da7f05e0be53",
+  "seededAt": "2026-06-12T14:48:47Z",
+  "updatedAt": "2026-06-12T14:48:47Z",
+  "source": "groundgame"
+}

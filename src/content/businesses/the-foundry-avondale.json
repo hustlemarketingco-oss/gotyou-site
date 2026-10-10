@@ -1,0 +1,40 @@
+{
+  "slug": "the-foundry-avondale",
+  "name": "The Foundry Avondale",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym",
+    "Sports school",
+    "Sports complex",
+    "Sports activity location"
+  ],
+  "address": "3145 N Dysart Rd Ste 106",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.481093099999995,
+  "lng": -112.3394964,
+  "phone": "+16235351257",
+  "website": "http://thefoundryyoga.com/avondale",
+  "placeId": "ChIJo6OS9rFAK4cRTNSgcKqEBAg",
+  "googleRating": 4.9,
+  "googleReviewCount": 266,
+  "hours": {
+    "mon": "5:30 AM - 8:00 PM",
+    "tue": "5:30 AM - 8:00 PM",
+    "wed": "5:30 AM - 8:00 PM",
+    "thu": "5:30 AM - 8:00 PM",
+    "fri": "5:30 AM - 8:00 PM",
+    "sat": "7:30 AM - 3:30 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397e6a2c15bc4537f4e8c5",
+  "seededAt": "2026-06-22T18:26:50Z",
+  "updatedAt": "2026-06-22T18:26:51Z",
+  "source": "groundgame"
+}

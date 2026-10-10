@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-goodyear",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "13233 W McDowell Rd",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.4637387,
+  "lng": -112.3438427,
+  "phone": "+16239359297",
+  "website": "https://restaurants.elpolloloco.com/az/goodyear/13233-w-mcdowell-rd",
+  "placeId": "ChIJ1UAq67A4K4cRf5yCCnvfNF0",
+  "googleRating": 4.1,
+  "googleReviewCount": 1272,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83a9046524f0ccf6984c",
+  "seededAt": "2026-06-25T19:38:17Z",
+  "updatedAt": "2026-06-25T19:38:17Z",
+  "source": "groundgame"
+}

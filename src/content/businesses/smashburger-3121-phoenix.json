@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-3121-phoenix",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Chicken restaurant",
+    "Fast food restaurant",
+    "American restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "3121 W Peoria Ave Ste 108",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.581378799999996,
+  "lng": -112.1268026,
+  "phone": "+16028880567",
+  "website": "https://smashburger.com/locations/us/az/phoenix/3121-w-peoria-ave",
+  "placeId": "ChIJxVvVw2xsK4cRmsXC_BRXMaE",
+  "googleRating": 4.2,
+  "googleReviewCount": 1630,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cbfd2c4e6410ede688c",
+  "seededAt": "2026-06-19T17:30:39Z",
+  "updatedAt": "2026-06-19T17:30:40Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-1919-mesa",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1919 S Gilbert Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.3801013,
+  "lng": -111.78774879999999,
+  "phone": "+14805399501",
+  "website": "https://locations.einsteinbros.com/us/az/mesa/1919-s-gilbert-rd?y_source=1_OTA0OTcwNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ26tFfeioK4cR2az8jbTYZ5A",
+  "googleRating": 4,
+  "googleReviewCount": 664,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 PM",
+    "tue": "5:00 AM - 2:00 PM",
+    "wed": "5:00 AM - 2:00 PM",
+    "thu": "5:00 AM - 2:00 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994cba1ca740d7097f003",
+  "seededAt": "2026-06-10T16:46:03Z",
+  "updatedAt": "2026-06-10T16:46:04Z",
+  "source": "groundgame"
+}

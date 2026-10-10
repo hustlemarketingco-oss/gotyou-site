@@ -2,7 +2,7 @@
 // /explore/<city>/<topic>/<modifier>/ ("Pizza Deals in Provo", "Late-Night Sushi in Provo").
 // Every page is a filter over real listing data and only exists with at least MIN_LISTINGS matches,
 // so each one has a distinct, useful list rather than a thin doorway page.
-import { MIN_CATEGORY_LISTINGS, hoursFacts, popularity, slugify, type Biz } from './profile-content';
+import { MIN_CATEGORY_LISTINGS, citySlug, hoursFacts, isFood, popularity, slugify, type Biz } from './profile-content';
 
 export const MIN_LISTINGS = MIN_CATEGORY_LISTINGS;
 
@@ -30,7 +30,7 @@ const C = (label: string, short: string, slug: string, re: RegExp, cuisine: stri
   label,
   short,
   cuisine,
-  match: (b) => re.test(cats(b)) || (!!byName && byName.test(b.name)),
+  match: (b) => isFood(b) && (re.test(cats(b)) || (!!byName && byName.test(b.name))),
 });
 export const CUISINES: Topic[] = [
   C('Pizza Places', 'pizza', 'pizza', /pizza/, 'Pizza', /pizz/i),
@@ -73,6 +73,9 @@ const CATEGORY_LABELS: Record<string, [string, string]> = {
   'Mexican & Latin': ['Mexican & Latin Restaurants', 'Mexican and Latin food'],
   'Asian & Pacific': ['Asian & Pacific Restaurants', 'Asian and Pacific food'],
   'Bars & Pubs': ['Bars & Pubs', 'bars and pubs'],
+  Shopping: ['Shops', 'shops'],
+  'Health & Beauty': ['Health & Beauty Spots', 'health and beauty'],
+  'Fun & Activities': ['Things to Do', 'things to do'],
 };
 export const CATEGORIES: Topic[] = Object.entries(CATEGORY_LABELS).map(([cat, [label, short]]) => ({
   slug: slugify(cat),
@@ -91,7 +94,7 @@ const latestNote = (b: Biz) => {
   return d && h.latest !== null ? `Open until ${clockOf(b)(h.latest)}${h.sameEveryDay ? ' daily' : ` (${d.name})`}` : undefined;
 };
 export const isLateNight = (b: Biz) => (hoursFacts(b).latest ?? 0) >= 23 * 60;
-export const FEATURES: Topic[] = [
+const FOOD_FEATURES: Topic[] = [
   { slug: 'late-night', kind: 'feature', label: 'Late-Night Food Spots', short: 'late-night food', match: isLateNight, note: latestNote },
   { slug: 'open-24-hours', kind: 'feature', label: '24-Hour Restaurants', short: 'food open 24 hours', match: (b) => hoursFacts(b).days.some((d) => d.ranges?.some((r) => r[0] === 0 && r[1] >= 1440)), note: (b) => (hoursFacts(b).always ? 'Open 24 hours, every day' : 'Open 24 hours on some days') },
   { slug: 'open-early', kind: 'feature', label: 'Spots Open Early', short: 'early-morning food and coffee', match: (b) => (hoursFacts(b).earliest ?? 9999) <= 7 * 60, note: (b) => `Opens ${clockOf(b)(hoursFacts(b).earliest!)}` },
@@ -100,6 +103,8 @@ export const FEATURES: Topic[] = [
   { slug: 'top-rated', kind: 'feature', label: 'Top-Rated Restaurants', short: 'top-rated food', match: (b) => (b.googleRating ?? 0) >= 4.6 && (b.googleReviewCount ?? 0) >= 250, note: (b) => `${b.googleRating?.toFixed(1)}★ from ${b.googleReviewCount?.toLocaleString()} reviews` },
   { slug: 'hidden-gems', kind: 'feature', label: 'Hidden Gems', short: 'hidden gems', match: (b) => (b.googleRating ?? 0) >= 4.7 && (b.googleReviewCount ?? 0) >= 20 && (b.googleReviewCount ?? 0) < 400, note: (b) => `${b.googleRating?.toFixed(1)}★ · only ${b.googleReviewCount} reviews` },
 ];
+
+export const FEATURES: Topic[] = FOOD_FEATURES.map((t) => ({ ...t, match: (b: Biz) => isFood(b) && t.match(b) }));
 
 export const ALL_TOPICS: Topic[] = (() => {
   const seen = new Set<string>();
@@ -125,8 +130,8 @@ export const MODIFIERS: Modifier[] = [
 
 export const rank = (items: Biz[]) => [...items].sort((a, b) => popularity(b) - popularity(a));
 
-export const topicPath = (city: string, t: Topic | string, mod?: string) =>
-  `/explore/${slugify(city)}/${typeof t === 'string' ? t : t.slug}/${mod ? `${mod}/` : ''}`;
+export const topicPath = (city: string, state: string, t: Topic | string, mod?: string) =>
+  `/explore/${citySlug(city, state)}/${typeof t === 'string' ? t : t.slug}/${mod ? `${mod}/` : ''}`;
 
 /** All topic pages that exist for a city (≥ MIN_LISTINGS matches). */
 export function topicsForCity(items: Biz[]) {

@@ -1,0 +1,37 @@
+{
+  "slug": "firehouse-subs-happy-valley-towne-court-phoenix",
+  "name": "Firehouse Subs Happy Valley Towne Court",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2005 W Happy Valley Rd Ste 140",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7123403,
+  "lng": -112.1024502,
+  "phone": "+14803762612",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJVQkWiz5lK4cRiyDXmhLTGSs",
+  "googleRating": 4,
+  "googleReviewCount": 132,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afafc6ba9cc75e33131",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

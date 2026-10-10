@@ -1,0 +1,42 @@
+{
+  "slug": "pieology-pizzeria-walnut",
+  "name": "Pieology Pizzeria Walnut",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Meal takeaway",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "505 N Grand Ave Suite E",
+  "city": "Walnut",
+  "state": "CA",
+  "zip": "91789",
+  "lat": 34.0273434,
+  "lng": -117.83671149999998,
+  "phone": "+19095943988",
+  "website": "https://pieology.com/pizza-near-me/?rest_id=8006",
+  "placeId": "ChIJI2-dffQrw4ARn4juZhbYX1A",
+  "googleRating": 4.2,
+  "googleReviewCount": 500,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "10:30 AM - 9:30 PM",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429da2a5541161f050fe",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

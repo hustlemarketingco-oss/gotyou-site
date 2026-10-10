@@ -1,0 +1,39 @@
+{
+  "slug": "the-yard-milkshake-bar-phoenix",
+  "name": "The Yard Milkshake Bar",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "50 W Jefferson St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4473018,
+  "lng": -112.07408850000002,
+  "phone": "+16022964473",
+  "website": "https://www.theyardmilkshakebar.com/phoenix-az-menu-1",
+  "placeId": "ChIJu0IxJlYTK4cRBvUsmDi53g4",
+  "googleRating": 4.3,
+  "googleReviewCount": 1032,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e4bfce3d669beb0f7",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

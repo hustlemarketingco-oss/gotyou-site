@@ -1,0 +1,41 @@
+{
+  "slug": "dillards-scottsdale",
+  "name": "Dillard's",
+  "category": "Shopping",
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Cosmetics store",
+    "Womens clothing store",
+    "Shoe store",
+    "Clothing store",
+    "Home goods store"
+  ],
+  "address": "6900 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5048684,
+  "lng": -111.9334839,
+  "phone": "+14809495869",
+  "website": "https://www.dillards.com/stores/arizona/scottsdale-fashion-square-scottsdale/0902",
+  "placeId": "ChIJHYYL0JkLK4cRt-XUY9MCLlE",
+  "googleRating": 4.4,
+  "googleReviewCount": 1666,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34385e1f9f84d7088de50d",
+  "seededAt": "2026-06-18T18:26:38Z",
+  "updatedAt": "2026-06-25T22:13:07Z",
+  "source": "groundgame"
+}

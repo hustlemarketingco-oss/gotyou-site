@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-1150-mesa",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "1150 N Higley Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85205",
+  "lat": 33.43682580000001,
+  "lng": -111.72015069999999,
+  "phone": "+14809813398",
+  "website": "https://restaurants.ihop.com/en-us/az/mesa/breakfast-1150-n-higley-rd-1512",
+  "placeId": "ChIJocOpfpulK4cRcTDkzoSxuhc",
+  "googleRating": 4.2,
+  "googleReviewCount": 2662,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddde8d0904c0257ca734",
+  "seededAt": "2026-06-17T17:48:14Z",
+  "updatedAt": "2026-06-17T17:48:15Z",
+  "source": "groundgame"
+}

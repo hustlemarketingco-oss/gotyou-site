@@ -1,0 +1,42 @@
+{
+  "slug": "smoothie-king-5720-tucson",
+  "name": "Smoothie King",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Acai shop",
+    "Fast food restaurant",
+    "Brazilian restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Breakfast restaurant"
+  ],
+  "address": "5720 E Broadway Blvd",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85711",
+  "lat": 32.221174,
+  "lng": -110.86987029999999,
+  "phone": "+15203722677",
+  "website": "https://locations.smoothieking.com/ll/us/az/tucson/5720-e-broadway-blvd/",
+  "placeId": "ChIJWez29xFv1oYR4KX4ZUcoz6U",
+  "googleRating": 4.1,
+  "googleReviewCount": 255,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc9d369422c73ad005cc",
+  "seededAt": "2026-06-16T22:22:21Z",
+  "updatedAt": "2026-06-16T22:22:21Z",
+  "source": "groundgame"
+}

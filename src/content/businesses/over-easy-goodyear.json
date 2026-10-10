@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-goodyear",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "1845 N Globe Dr Ste 104",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.4676693,
+  "lng": -112.3831501,
+  "phone": "+14805505029",
+  "website": "https://eatatovereasy.com/locations/goodyear-civic-square/",
+  "placeId": "ChIJvRXyZwA5K4cRbXkV1tNCyGw",
+  "googleRating": 4.5,
+  "googleReviewCount": 630,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303a05f792ef50f250b72a",
+  "seededAt": "2026-06-15T17:44:37Z",
+  "updatedAt": "2026-06-15T17:44:38Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "northwood-pizza-irvine",
+  "name": "Northwood Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "4900 Irvine Blvd Suite 105",
+  "city": "Irvine",
+  "state": "CA",
+  "zip": "92620",
+  "lat": 33.7115641,
+  "lng": -117.7599052,
+  "phone": "+17148382111",
+  "website": "http://www.northwoodpizza.com/",
+  "placeId": "ChIJj2pvtsHc3IARLI5Usq756zU",
+  "googleRating": 4.3,
+  "googleReviewCount": 227,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80f2e0300276dc1040d",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

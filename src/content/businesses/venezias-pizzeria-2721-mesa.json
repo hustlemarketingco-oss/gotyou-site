@@ -1,0 +1,40 @@
+{
+  "slug": "venezias-pizzeria-2721-mesa",
+  "name": "Venezia's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "2721 S Ellsworth Rd Unit 107",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.3656378,
+  "lng": -111.6352002,
+  "phone": "+14803801111",
+  "website": "https://venezias.com/location/east-mesa/",
+  "placeId": "ChIJ2Zhh7JGxK4cRmueR-Miips4",
+  "googleRating": 4.4,
+  "googleReviewCount": 2058,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d59175acd0da9410a59",
+  "seededAt": "2026-06-12T14:53:13Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

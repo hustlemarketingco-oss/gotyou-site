@@ -1,0 +1,37 @@
+{
+  "slug": "rock-n-pies-santa-monica",
+  "name": "Rock N Pies",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1120 Wilshire Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90401",
+  "lat": 34.0247879,
+  "lng": -118.49103699999999,
+  "phone": "+13103102883",
+  "website": "http://rocknpiespizza.com/",
+  "placeId": "ChIJGYEVOcqkwoARwnimDdW1BWU",
+  "googleRating": 4.4,
+  "googleReviewCount": 393,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "5:00 PM - 12:00 AM",
+    "tue": "1:00 PM - 12:00 AM",
+    "wed": "1:00 PM - 12:00 AM",
+    "thu": "1:00 PM - 12:00 AM",
+    "fri": "1:00 PM - 12:00 AM",
+    "sat": "5:00 PM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50dc4d1d3db7a400af0",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

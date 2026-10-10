@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-surprise",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "13730 N Sarival Ave",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85388",
+  "lat": 33.6091524,
+  "lng": -112.41021289999999,
+  "phone": "+14803510975",
+  "website": "https://locations.whataburger.com/az/surprise/13730-n-sarival-ave.html/",
+  "placeId": "ChIJLQbUFblFK4cRg_g-xqtw-lM",
+  "googleRating": 3.9,
+  "googleReviewCount": 1205,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d692320d74d0316932a",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

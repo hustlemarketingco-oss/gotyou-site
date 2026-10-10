@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-tempe",
+  "name": "Yogis Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "Tempe Marketplace, 2000 E Rio Salado Pkwy #1146",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4341643,
+  "lng": -111.90218139999999,
+  "phone": "+14809212110",
+  "website": "https://yogisgrill.com/default.asp",
+  "placeId": "ChIJ58LQUFUIK4cRidI1Sejv0ds",
+  "googleRating": 4.1,
+  "googleReviewCount": 755,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971a407812baf320c0b35",
+  "seededAt": "2026-06-22T17:32:20Z",
+  "updatedAt": "2026-06-30T01:45:40Z",
+  "source": "groundgame"
+}

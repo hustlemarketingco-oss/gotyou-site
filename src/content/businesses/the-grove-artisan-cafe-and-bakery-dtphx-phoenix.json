@@ -1,0 +1,37 @@
+{
+  "slug": "the-grove-artisan-cafe-and-bakery-dtphx-phoenix",
+  "name": "The Grove Artisan Cafe and Bakery - DTPHX",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "101 N 1st Ave Ste 108",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.449472199999995,
+  "lng": -112.07466099999999,
+  "website": "https://thegrovehighstreet.com/downtown-phx",
+  "placeId": "ChIJzVDFVwATK4cRXbg5I5KsiR0",
+  "googleRating": 4.3,
+  "googleReviewCount": 14,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5bd1f19c4533b627dc",
+  "seededAt": "2026-08-31T04:04:43Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

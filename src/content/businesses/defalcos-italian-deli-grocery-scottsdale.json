@@ -1,0 +1,44 @@
+{
+  "slug": "defalcos-italian-deli-grocery-scottsdale",
+  "name": "DeFalco's Italian Deli & Grocery",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "2334 N Scottsdale Rd a133",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4740646,
+  "lng": -111.92657969999999,
+  "phone": "+14809908660",
+  "website": "https://defalcosdeli.com/",
+  "placeId": "ChIJGe5sNt4LK4cRnOj3jroBsgU",
+  "googleRating": 4.6,
+  "googleReviewCount": 4555,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/DefalcosItalianEatery"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27538afcd3c58b390fe183",
+  "seededAt": "2026-06-08T23:43:06Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

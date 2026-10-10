@@ -1,0 +1,40 @@
+{
+  "slug": "the-lemonade-patio-glendale",
+  "name": "The Lemonade Patio",
+  "category": "Shopping",
+  "googleCategory": "Soft drinks shop",
+  "address": "6018 W Glendale Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.5386572,
+  "lng": -112.1898575,
+  "phone": "+14805245074",
+  "googleMapsUrl": "https://www.google.com/maps?cid=12883783268056755594",
+  "googleCid": "12883783268056755594",
+  "placeId": "ChIJLenBqSxrK4cRiu2k_55kzLI",
+  "googleRating": 4.3,
+  "googleReviewCount": 6,
+  "description": "Located in Glendale, The Lemonade Patio is a soft drinks shop.",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 5:45 PM",
+    "sat": "10:00 AM - 5:45 PM",
+    "sun": "Closed",
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:45 PM",
+    "wed": "10:00 AM - 5:30 PM",
+    "thu": "10:00 AM - 5:45 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2442f7c438739da55c2865",
+  "seededAt": "2026-06-06T15:55:35Z",
+  "updatedAt": "2026-06-06T15:55:35Z",
+  "source": "groundgame"
+}

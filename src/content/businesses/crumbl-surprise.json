@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-surprise",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "13983 W Waddell Rd Ste 100",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85379",
+  "lat": 33.608679099999996,
+  "lng": -112.36102249999999,
+  "phone": "+16232461774",
+  "website": "https://crumblcookies.com/stores/az/surprise",
+  "placeId": "ChIJdSqEcT5FK4cRCoGtUqQhEDM",
+  "googleRating": 4.7,
+  "googleReviewCount": 1975,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a67611db482c70108999cca",
+  "seededAt": "2026-07-27T13:46:05Z",
+  "updatedAt": "2026-07-27T13:46:06Z",
+  "source": "groundgame"
+}

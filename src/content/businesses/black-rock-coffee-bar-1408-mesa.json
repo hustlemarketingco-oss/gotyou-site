@@ -1,0 +1,41 @@
+{
+  "slug": "black-rock-coffee-bar-1408-mesa",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Bagel shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "1408 S Higley Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.3899718,
+  "lng": -111.7198342,
+  "phone": "+18338435776",
+  "website": "https://br.coffee/locations/hampton-higley",
+  "placeId": "ChIJ0flgdwavK4cRdUIY-CEAhFQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 1225,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 5:00 PM",
+    "tue": "5:00 AM - 5:00 PM",
+    "wed": "5:00 AM - 5:00 PM",
+    "thu": "5:00 AM - 5:00 PM",
+    "fri": "5:00 AM - 5:00 PM",
+    "sat": "5:00 AM - 5:00 PM",
+    "sun": "5:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725cf85e08b6917d8c97",
+  "seededAt": "2026-07-10T22:29:48Z",
+  "updatedAt": "2026-07-10T22:29:49Z",
+  "source": "groundgame"
+}

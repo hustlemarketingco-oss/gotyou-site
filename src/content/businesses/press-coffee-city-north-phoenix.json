@@ -1,0 +1,34 @@
+{
+  "slug": "press-coffee-city-north-phoenix",
+  "name": "Press Coffee - City North",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "20555 N 56th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.673656699999995,
+  "lng": -111.95997059999999,
+  "website": "https://presscoffee.com/",
+  "placeId": "ChIJo7fzDDRxK4cR5N1VA-UyFLQ",
+  "hours": {
+    "mon": "6:30 AM - 4:00 PM",
+    "tue": "6:30 AM - 4:00 PM",
+    "wed": "6:30 AM - 4:00 PM",
+    "thu": "6:30 AM - 4:00 PM",
+    "fri": "6:30 AM - 4:00 PM",
+    "sat": "6:30 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b931d67c7b0cdd7c77d1",
+  "seededAt": "2026-06-10T19:21:21Z",
+  "updatedAt": "2026-06-10T19:21:22Z",
+  "source": "groundgame"
+}

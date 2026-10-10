@@ -1,0 +1,37 @@
+{
+  "slug": "rosatis-pizza-chandler",
+  "name": "Rosati's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1050 E Ray Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.322663999999996,
+  "lng": -111.8229278,
+  "phone": "+14804015555",
+  "website": "https://myrosatis.com/chandlerray/",
+  "placeId": "ChIJY2kLDdOpK4cRlcg0Jvww0Ds",
+  "googleRating": 3.9,
+  "googleReviewCount": 471,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a41e15c5254ab45ce1dd57a",
+  "seededAt": "2026-06-29T03:07:08Z",
+  "updatedAt": "2026-06-29T03:07:09Z",
+  "source": "groundgame"
+}

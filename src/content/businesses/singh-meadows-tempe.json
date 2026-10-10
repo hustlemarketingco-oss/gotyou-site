@@ -1,0 +1,53 @@
+{
+  "slug": "singh-meadows-tempe",
+  "name": "Singh Meadows",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Farmers' market",
+    "Produce market"
+  ],
+  "address": "1490 E Weber Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4442915,
+  "lng": -111.9141076,
+  "phone": "+14802257199",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16833619358236996104",
+  "googleCid": "16833619358236996104",
+  "placeId": "ChIJMWnoUg4JK4cRCPLaM54Hnek",
+  "googleRating": 4.7,
+  "googleReviewCount": 568,
+  "priceRange": "$$",
+  "description": "Market & cafe featuring produce, locally made items & light eats, such as tacos & baked goods.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Pets: Inside"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439232e7a1bd3ac1084a6",
+  "seededAt": "2026-06-06T15:13:39Z",
+  "updatedAt": "2026-06-06T15:13:39Z",
+  "source": "groundgame"
+}

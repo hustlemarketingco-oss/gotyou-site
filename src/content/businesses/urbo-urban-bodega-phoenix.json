@@ -1,0 +1,40 @@
+{
+  "slug": "urbo-urban-bodega-phoenix",
+  "name": "URBO | Urban Bodega",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Convenience store",
+    "Cafe",
+    "Liquor store",
+    "Food store"
+  ],
+  "address": "603 W Fillmore St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.4545601,
+  "lng": -112.0818106,
+  "phone": "+16022375903",
+  "website": "http://shopurbo.com/",
+  "placeId": "ChIJXUku6ToSK4cRlpRXALRP540",
+  "googleRating": 4.8,
+  "googleReviewCount": 58,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 11:00 PM",
+    "tue": "8:00 AM - 11:00 PM",
+    "wed": "8:00 AM - 11:00 PM",
+    "thu": "8:00 AM - 11:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5c5a16806279bc4f09",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

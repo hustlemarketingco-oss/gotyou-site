@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-mesa",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "949 N Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4339927,
+  "lng": -111.86579139999999,
+  "phone": "+14806681073",
+  "website": "https://restaurants.elpolloloco.com/az/mesa/949-n-dobson-rd",
+  "placeId": "ChIJ1U5VfC4IK4cRNsM9SL6c0dE",
+  "googleRating": 4.1,
+  "googleReviewCount": 1001,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d838736510e92cbe0b1d7",
+  "seededAt": "2026-06-25T19:37:43Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

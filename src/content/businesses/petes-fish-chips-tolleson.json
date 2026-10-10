@@ -1,0 +1,38 @@
+{
+  "slug": "petes-fish-chips-tolleson",
+  "name": "Pete's Fish & Chips",
+  "category": "Restaurant",
+  "googleCategory": "Fish and chips restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "9309 W Van Buren St",
+  "city": "Tolleson",
+  "state": "AZ",
+  "zip": "85353",
+  "lat": 33.4501223,
+  "lng": -112.2603626,
+  "phone": "+16239363111",
+  "website": "http://www.petesfishandchips.com/",
+  "placeId": "ChIJiXyxFTU-K4cRb6CCMJLZldo",
+  "googleRating": 4.3,
+  "googleReviewCount": 3013,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:30 PM",
+    "tue": "10:00 AM - 10:30 PM",
+    "wed": "10:00 AM - 10:30 PM",
+    "thu": "10:00 AM - 10:30 PM",
+    "fri": "10:00 AM - 10:30 PM",
+    "sat": "10:00 AM - 10:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cac9ca55a6477e46bd321",
+  "seededAt": "2026-06-25T04:20:44Z",
+  "updatedAt": "2026-06-25T04:20:44Z",
+  "source": "groundgame"
+}

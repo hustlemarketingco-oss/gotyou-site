@@ -1,0 +1,32 @@
+{
+  "slug": "swig-20300-phoenix",
+  "name": "Swig",
+  "category": "Restaurant",
+  "address": "20300 N Cave Creek Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85024",
+  "lat": 33.6707191,
+  "lng": -112.0315036,
+  "phone": "+16237454175",
+  "website": "https://swig.com/findaswig/cave-creek-rd",
+  "placeId": "ChIJlQUaVABxK4cR79VeOxNUcjo",
+  "googleRating": 4.7,
+  "googleReviewCount": 254,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276600c89978238eb76112",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

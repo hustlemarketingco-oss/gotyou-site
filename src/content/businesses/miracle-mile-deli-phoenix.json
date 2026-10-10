@@ -1,0 +1,49 @@
+{
+  "slug": "miracle-mile-deli-phoenix",
+  "name": "Miracle Mile Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "American restaurant",
+    "Catering food and drink supplier",
+    "Caterer",
+    "Jewish restaurant",
+    "Lunch restaurant",
+    "Takeout restaurant",
+    "Mobile caterer",
+    "Restaurant"
+  ],
+  "address": "4433 N 16th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "phone": "+16027760992",
+  "priceRange": "$10–20",
+  "description": "Spacious shopping-mall offshoot of a long-running NYC-style deli known for pastrami sandwiches.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/miraclemiledeli"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a245235e4451bdf2cb43f9a",
+  "seededAt": "2026-06-06T17:00:37Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

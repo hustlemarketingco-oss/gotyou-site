@@ -1,0 +1,33 @@
+{
+  "slug": "sodalicious-gilbert",
+  "name": "Sodalicious",
+  "category": "Shopping",
+  "googleCategory": "Soft drinks shop",
+  "address": "1245 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+13855052279",
+  "priceRange": "$1–10",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SodaliciousUtah"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26477202d401a28cd81b05",
+  "seededAt": "2026-06-08T04:39:14Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

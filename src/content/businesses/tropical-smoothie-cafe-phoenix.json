@@ -1,0 +1,37 @@
+{
+  "slug": "tropical-smoothie-cafe-phoenix",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Juice shop"
+  ],
+  "address": "4750 S 48th St Suite 109",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.404135,
+  "lng": -111.97892859999999,
+  "phone": "+14805862949",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/phoenix/4750-south-48th-st?y_source=1_OTMxMjcyOTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ07D--kIPK4cRkr0fbtpTTB4",
+  "googleRating": 3,
+  "googleReviewCount": 103,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2754762cec967a17d03fa9",
+  "seededAt": "2026-06-08T23:47:02Z",
+  "updatedAt": "2026-06-08T23:47:03Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "taco-nazo-bellflower",
+  "name": "Taco Nazo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant"
+  ],
+  "address": "10326 Alondra Blvd",
+  "city": "Bellflower",
+  "state": "CA",
+  "zip": "90706",
+  "lat": 33.8885722,
+  "lng": -118.11440179999998,
+  "phone": "+15628663306",
+  "website": "http://taconazo.com/",
+  "placeId": "ChIJM1mYmaky3YARvjB4ImZ_fFc",
+  "googleRating": 4.7,
+  "googleReviewCount": 8118,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d48615b3cedba716389",
+  "seededAt": "2026-06-12T14:52:56Z",
+  "updatedAt": "2026-06-12T14:52:56Z",
+  "source": "groundgame"
+}

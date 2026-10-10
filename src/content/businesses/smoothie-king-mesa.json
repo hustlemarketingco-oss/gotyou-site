@@ -1,0 +1,41 @@
+{
+  "slug": "smoothie-king-mesa",
+  "name": "Smoothie King",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Acai shop",
+    "Brazilian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "1940 S Val Vista Dr #102",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.380014599999996,
+  "lng": -111.75459319999999,
+  "phone": "+14803078004",
+  "website": "https://locations.smoothieking.com/ll/us/az/mesa/1940-s-val-vista-drive-102-village-square-at-dana-park/",
+  "placeId": "ChIJ6xI8TSmvK4cRMFxM1LyQyEM",
+  "googleRating": 4.4,
+  "googleReviewCount": 227,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc92e846272c62821ce6",
+  "seededAt": "2026-06-16T22:22:10Z",
+  "updatedAt": "2026-06-16T22:22:11Z",
+  "source": "groundgame"
+}

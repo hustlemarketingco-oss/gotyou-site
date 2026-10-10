@@ -15,8 +15,10 @@ export const slugify = (s: string) =>
     .replace(/['’]/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '');
-export const cityPath = (city: string) => `/explore/${slugify(city)}/`;
-export const categoryPath = (city: string, category: string) => `/explore/${slugify(city)}/${slugify(category)}/`;
+// City slugs carry the state ("provo-ut") so same-named cities in different states never collide.
+export const citySlug = (city: string, state: string) => slugify(`${city} ${state}`);
+export const cityPath = (city: string, state: string) => `/explore/${citySlug(city, state)}/`;
+export const categoryPath = (city: string, state: string, category: string) => `/explore/${citySlug(city, state)}/${slugify(category)}/`;
 /** Minimum listings for a city+category page to exist (avoids thin pages). */
 export const MIN_CATEGORY_LISTINGS = 3;
 
@@ -30,7 +32,14 @@ export const CATEGORY_PLURAL: Record<string, string> = {
   'Mexican & Latin': 'Mexican & Latin Restaurants',
   'Asian & Pacific': 'Asian & Pacific Restaurants',
   'Bars & Pubs': 'Bars & Pubs',
+  Shopping: 'Shops',
+  'Health & Beauty': 'Health & Beauty Spots',
+  'Fun & Activities': 'Things to Do',
+  'Local Business': 'Local Businesses',
 };
+/** Buckets that aren't food or drink; restaurant-only topics and copy skip them. */
+export const NON_FOOD = new Set(['Shopping', 'Health & Beauty', 'Fun & Activities', 'Local Business']);
+export const isFood = (b: { category: string }) => !NON_FOOD.has(b.category);
 export const plural = (c: string) => CATEGORY_PLURAL[c] ?? `${c} Spots`;
 
 // ── helpers ──────────────────────────────────────────────────────────────
@@ -116,7 +125,7 @@ export function nearbyFacts(b: Biz, all: Biz[]) {
     .map((x) => ({ biz: x, mi: miles(b, x) }))
     .filter((x) => x.mi < 50)
     .sort((x, y) => x.mi - y.mi);
-  const cityPeers = others.filter((x) => x.city === b.city && x.category === b.category);
+  const cityPeers = others.filter((x) => x.city === b.city && x.state === b.state && x.category === b.category);
   const rankInCity =
     [...cityPeers, b].sort((x, y) => popularity(y) - popularity(x)).findIndex((x) => x.slug === b.slug) + 1;
   return {

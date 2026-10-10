@@ -1,0 +1,37 @@
+{
+  "slug": "samurai-sams-3013-phoenix",
+  "name": "Samurai Sam's",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3013 W Agua Fria Fwy Ste 1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.666638299999995,
+  "lng": -112.1235707,
+  "phone": "+16234444044",
+  "website": "https://www.samuraisams.net/stores/5016",
+  "placeId": "ChIJ8QTzFnPlM4gRnalQTkxeWaQ",
+  "googleRating": 3.8,
+  "googleReviewCount": 190,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd83364278b237be92096",
+  "seededAt": "2026-07-09T17:19:47Z",
+  "updatedAt": "2026-07-09T17:19:47Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "jobot-coffee-bar-phoenix",
+  "name": "Jobot Coffee & Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cocktail bar",
+    "Bar",
+    "Cafe",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "333 E Roosevelt St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4584535,
+  "lng": -112.06967759999999,
+  "phone": "+16024561452",
+  "website": "https://untappd.com/v/jobot-coffee-and-bar/5802628",
+  "placeId": "ChIJeVNB_RYSK4cRG9LYfAjHZDc",
+  "googleRating": 4.5,
+  "googleReviewCount": 1318,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e17f82245a1ca50cf",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

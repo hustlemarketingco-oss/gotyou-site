@@ -1,0 +1,39 @@
+{
+  "slug": "el-tataki-sushi-fusion-tempe",
+  "name": "El Tataki Sushi Fusion",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Fusion restaurant",
+    "Asian restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "1410 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393558299999995,
+  "lng": -111.91494089999999,
+  "phone": "+14809123009",
+  "website": "https://eltatakisushi.com/",
+  "placeId": "ChIJcXUTI-AJK4cRxlIygo8AKvg",
+  "googleRating": 4.4,
+  "googleReviewCount": 478,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5543f78e675137205ec03e",
+  "seededAt": "2026-07-13T20:00:55Z",
+  "updatedAt": "2026-07-13T20:02:58Z",
+  "source": "groundgame"
+}

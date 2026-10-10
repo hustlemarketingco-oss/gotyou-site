@@ -1,0 +1,47 @@
+{
+  "slug": "duck-and-decanter-phoenix",
+  "name": "Duck and Decanter",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "secondaryCategories": [
+    "Beer garden",
+    "Cheese shop",
+    "Coffee shop",
+    "Grocery store",
+    "Restaurant",
+    "Tea house",
+    "Wine bar"
+  ],
+  "address": "1651 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "phone": "+16022745429",
+  "priceRange": "$10–20",
+  "description": "Located in Phoenix, Duck and Decanter is a deli & beer garden with takeout & delivery. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/DuckandDecanter"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2442feea0ece71a74f012c",
+  "seededAt": "2026-06-06T15:55:42Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "venezia-bakery-tempe",
+  "name": "Venezia Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "1721 W 10th Pl",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4168965,
+  "lng": -111.9672123,
+  "phone": "+14809673730",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10975317957187524576",
+  "googleCid": "10975317957187524576",
+  "placeId": "ChIJNTL_jScPK4cR4NcgR4gpUJg",
+  "googleRating": 4.2,
+  "googleReviewCount": 5,
+  "description": "Located in Tempe, Venezia Bakery is a bakery with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed",
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439b46408898582bcb1a6",
+  "seededAt": "2026-06-06T15:16:04Z",
+  "updatedAt": "2026-06-06T15:16:04Z",
+  "source": "groundgame"
+}

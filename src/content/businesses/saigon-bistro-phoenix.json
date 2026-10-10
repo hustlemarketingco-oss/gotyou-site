@@ -1,0 +1,37 @@
+{
+  "slug": "saigon-bistro-phoenix",
+  "name": "Saigon Bistro",
+  "category": "Asian & Pacific",
+  "googleCategory": "Vietnamese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4747 E Bell Rd #19",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6402125,
+  "lng": -111.9784559,
+  "phone": "+16026124734",
+  "website": "https://saigonbistro.info/",
+  "placeId": "ChIJkS2C2xpxK4cR2Y1MH-uhC0Q",
+  "googleRating": 4.3,
+  "googleReviewCount": 221,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:30 PM",
+    "tue": "10:00 AM - 8:30 PM",
+    "wed": "10:00 AM - 8:30 PM",
+    "thu": "10:00 AM - 8:30 PM",
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "10:00 AM - 8:30 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c70758271b5f9a111cf",
+  "seededAt": "2026-06-23T05:41:04Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

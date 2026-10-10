@@ -1,0 +1,40 @@
+{
+  "slug": "board-brew-tempe",
+  "name": "Board & Brew - Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1015 S Rural Rd #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4175329,
+  "lng": -111.9259594,
+  "phone": "+14807812900",
+  "website": "https://boardandbrew.com/locations/#nearest-location",
+  "placeId": "ChIJAXVknywJK4cR-aIa4oTxr3I",
+  "googleRating": 4.9,
+  "googleReviewCount": 2970,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "10:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29ba5308aa2ac57c767e27",
+  "seededAt": "2026-06-10T19:26:11Z",
+  "updatedAt": "2026-07-06T19:14:09Z",
+  "source": "groundgame"
+}

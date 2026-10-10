@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-4929-glendale",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "4929 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.638728799999996,
+  "lng": -112.16724210000001,
+  "phone": "+16028432663",
+  "website": "https://www.freddys.com/location/glendale-bell-tower-az",
+  "placeId": "ChIJzXGH-R9pK4cRPzw_vSx1OPU",
+  "googleRating": 4.4,
+  "googleReviewCount": 2534,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b659da98c4c0334a9cf16",
+  "seededAt": "2026-06-12T01:49:17Z",
+  "updatedAt": "2026-06-12T01:49:17Z",
+  "source": "groundgame"
+}

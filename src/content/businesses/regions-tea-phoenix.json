@@ -1,0 +1,38 @@
+{
+  "slug": "regions-tea-phoenix",
+  "name": "Regions Tea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Tea house",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "914 E Camelback Rd #4B",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.509783899999995,
+  "lng": -112.0609322,
+  "phone": "+16022835344",
+  "website": "http://www.regionstea.net/",
+  "placeId": "ChIJCQtgO3gTK4cRG69mxERW-VI",
+  "googleRating": 4.8,
+  "googleReviewCount": 193,
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb6827eb3dfea4043eab",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

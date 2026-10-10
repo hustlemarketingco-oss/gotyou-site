@@ -1,0 +1,41 @@
+{
+  "slug": "aunt-bills-soul-food-cafe-ca-fairfield",
+  "name": "Aunt Bill's Soul Food Cafe CA",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "711 Madison St",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2498145,
+  "lng": -122.04621159999998,
+  "phone": "+17073894119",
+  "website": "https://auntbillsoulfoodca.com/",
+  "placeId": "ChIJL0v2DbsVhYARl_M3YTz-ZUY",
+  "googleRating": 4.7,
+  "googleReviewCount": 249,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.facebook.com/AuntBillsSoulFoodCafeCA",
+    "https://www.instagram.com/auntbillssoulfoodca/"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "12:00 PM - 7:30 PM",
+    "thu": "12:00 PM - 7:30 PM",
+    "fri": "12:00 PM - 7:30 PM",
+    "sat": "12:00 PM - 7:30 PM",
+    "sun": "12:00 PM - 7:30 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472e3fb352b72a2f62bd",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:56:26Z",
+  "source": "groundgame"
+}

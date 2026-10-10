@@ -1,0 +1,42 @@
+{
+  "slug": "cafe-feellove-st-george",
+  "name": "Cafe Feellove",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Breakfast restaurant",
+    "Dessert shop",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Coffee shop",
+    "Confectionery",
+    "Bakery"
+  ],
+  "address": "2 W St George Blvd Suite 38",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "phone": "+14359221639",
+  "website": "http://feellovecoffee.com/",
+  "placeId": "ChIJzfsIrlNFyoARBt1ycXgsd0I",
+  "googleRating": 4.7,
+  "googleReviewCount": 922,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 3:15 PM",
+    "tue": "7:00 AM - 3:15 PM",
+    "wed": "7:00 AM - 3:15 PM",
+    "thu": "7:00 AM - 3:15 PM",
+    "fri": "7:00 AM - 3:15 PM",
+    "sat": "7:00 AM - 3:15 PM",
+    "sun": "7:00 AM - 3:15 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dc15c8a9f4839927ce",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-2410-phoenix",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "2410 W Northern Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85021",
+  "lat": 33.553477,
+  "lng": -112.1102471,
+  "phone": "+16022428054",
+  "website": "https://restaurants.elpolloloco.com/az/phoenix/2410-w-northern-ave",
+  "placeId": "ChIJT0-6Mu5sK4cRNNf0pvoILWQ",
+  "googleRating": 4,
+  "googleReviewCount": 1821,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d839f563220572485202c",
+  "seededAt": "2026-06-25T19:38:07Z",
+  "updatedAt": "2026-06-25T19:38:08Z",
+  "source": "groundgame"
+}

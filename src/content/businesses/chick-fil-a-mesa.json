@@ -1,0 +1,41 @@
+{
+  "slug": "chick-fil-a-mesa",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "1664 S Stapley Dr",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.382939199999996,
+  "lng": -111.8064584,
+  "phone": "+14808929714",
+  "website": "https://www.chick-fil-a.com/locations/az/stapley-drive",
+  "placeId": "ChIJSTS3S_SoK4cR27AL6njV5Fk",
+  "googleRating": 4.4,
+  "googleReviewCount": 4727,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:45 AM - 11:00 PM",
+    "tue": "5:45 AM - 11:00 PM",
+    "wed": "5:45 AM - 11:00 PM",
+    "thu": "5:45 AM - 11:00 PM",
+    "fri": "5:45 AM - 12:00 AM",
+    "sat": "5:45 AM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b19dd7f790da89605c6",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

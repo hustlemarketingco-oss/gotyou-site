@@ -1,0 +1,40 @@
+{
+  "slug": "sushi-friend-phoenix",
+  "name": "Sushi Friend",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Meal takeaway",
+    "Hawaiian restaurant",
+    "American restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "8727 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.563596000000004,
+  "lng": -112.0735686,
+  "phone": "+16023451312",
+  "website": "https://yoursushifriend.com/",
+  "placeId": "ChIJBUOZndptK4cRLRZlDt3DgfM",
+  "googleRating": 4.9,
+  "googleReviewCount": 958,
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738ccace97e13c845323b",
+  "seededAt": "2026-06-08T21:49:00Z",
+  "updatedAt": "2026-06-08T21:49:01Z",
+  "source": "groundgame"
+}

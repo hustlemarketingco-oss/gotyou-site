@@ -1,0 +1,40 @@
+{
+  "slug": "cha-cha-matcha-beverly-hills",
+  "name": "Cha Cha Matcha (Beverly Hills)",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Tea house",
+    "Brunch restaurant",
+    "Coffee shop",
+    "Food store"
+  ],
+  "address": "475 N Beverly Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.0713605,
+  "lng": -118.40358399999998,
+  "website": "https://chachamatcha.com/",
+  "placeId": "ChIJCZ8zIgC9woARwggacJS8GRM",
+  "googleRating": 4.5,
+  "googleReviewCount": 127,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abfff7d519780dd8aca",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

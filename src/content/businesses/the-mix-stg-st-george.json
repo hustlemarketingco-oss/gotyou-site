@@ -1,0 +1,32 @@
+{
+  "slug": "the-mix-stg-st-george",
+  "name": "The Mix STG",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1812 W Sunset Blvd #8",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1234909,
+  "lng": -113.62219710000001,
+  "phone": "+14356685759",
+  "placeId": "ChIJZSaeiwxFyoAR8DLm4_CBJy8",
+  "googleRating": 4.9,
+  "googleReviewCount": 74,
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM, 4:00 PM - 6:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4c68bd70e2f0be4fb6",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

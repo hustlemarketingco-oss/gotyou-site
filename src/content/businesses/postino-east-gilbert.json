@@ -1,0 +1,40 @@
+{
+  "slug": "postino-east-gilbert",
+  "name": "Postino East",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "302 N Gilbert Rd Ste 102",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3551888,
+  "lng": -111.7899904,
+  "phone": "+14806326363",
+  "website": "https://www.postino.com/locations/postino-east",
+  "placeId": "ChIJkRkS4BapK4cRXCT8-SJxNDI",
+  "googleRating": 4.6,
+  "googleReviewCount": 4074,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a006783e5ad4fce9a0bd1",
+  "seededAt": "2026-06-23T03:41:27Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

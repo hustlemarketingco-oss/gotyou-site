@@ -1,0 +1,37 @@
+{
+  "slug": "samurai-sams-4731-phoenix",
+  "name": "Samurai Sam's",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4731 E Greenway Rd Ste 6",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6257132,
+  "lng": -111.97963329999999,
+  "phone": "+16024820323",
+  "website": "https://www.samuraisams.net/stores/5011",
+  "placeId": "ChIJW78ZLtxzK4cRtv96U9P0Wd4",
+  "googleRating": 4.5,
+  "googleReviewCount": 356,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd831a76e60943ff4353b",
+  "seededAt": "2026-07-09T17:19:45Z",
+  "updatedAt": "2026-07-09T17:19:45Z",
+  "source": "groundgame"
+}

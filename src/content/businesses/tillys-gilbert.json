@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-gilbert",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "3885 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.2795111,
+  "lng": -111.78611029999999,
+  "phone": "+14808214034",
+  "website": "https://www.tillys.com/store/?StoreID=0045",
+  "placeId": "ChIJZe8uEAurK4cRePiCMnYe4rk",
+  "googleRating": 3.7,
+  "googleReviewCount": 47,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343868b2aecee3e855eae1",
+  "seededAt": "2026-06-18T18:26:48Z",
+  "updatedAt": "2026-06-18T18:26:49Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "the-trough-mesa",
+  "name": "The Trough",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar and grill",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "9303 E Apache Trail",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85207",
+  "lat": 33.4147202,
+  "lng": -111.6296773,
+  "phone": "+14809861119",
+  "website": "https://thetroughbaraz.com/",
+  "placeId": "ChIJ0-cDy1ywK4cRT93SVTKcrew",
+  "googleRating": 4,
+  "googleReviewCount": 1408,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e35fadf84efec46bd950",
+  "seededAt": "2026-06-17T18:11:43Z",
+  "updatedAt": "2026-06-17T18:11:44Z",
+  "source": "groundgame"
+}

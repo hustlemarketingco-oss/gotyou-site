@@ -1,0 +1,39 @@
+{
+  "slug": "mr-pickles-sandwich-shop-scottsdale-az-14676-scottsdale",
+  "name": "Mr. Pickle's Sandwich Shop - Scottsdale, AZ",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Food store"
+  ],
+  "address": "14676 N Frank Lloyd Wright Blvd Suite 32",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6192063,
+  "lng": -111.8766746,
+  "phone": "+14806872394",
+  "website": "https://www.mrpickles.com/location/mr-pickles-scottsdale-az-horizon/",
+  "placeId": "ChIJCdf8Mdh1K4cRIY4IaM9uQJc",
+  "googleRating": 4.2,
+  "googleReviewCount": 165,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765368d78f0c0da7d814c",
+  "seededAt": "2026-06-09T00:58:30Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "rubios-coastal-grill-2970-chandler",
+  "name": "Rubio's Coastal Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Seafood restaurant",
+    "Burrito restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "2970 E Germann Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85286",
+  "lat": 33.278281,
+  "lng": -111.791236,
+  "phone": "+14808558484",
+  "website": "https://www.rubios.com/restaurant-locations/arizona/chandler-germann-rd",
+  "placeId": "ChIJUSSP4AurK4cRPqRPuhANUsA",
+  "googleRating": 4.2,
+  "googleReviewCount": 567,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39744cb09e24c26e5f42ef",
+  "seededAt": "2026-06-22T17:43:40Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

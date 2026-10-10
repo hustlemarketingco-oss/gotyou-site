@@ -1,0 +1,37 @@
+{
+  "slug": "via-della-slice-shop-phoenix",
+  "name": "Via Della Slice Shop",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "222 N 5th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.450964899999995,
+  "lng": -112.08042499999999,
+  "phone": "+16023416327",
+  "website": "http://viadellapizza.com/",
+  "placeId": "ChIJc_mv30kTK4cR2MI2RPYDc3M",
+  "googleRating": 4.7,
+  "googleReviewCount": 785,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb197556e92ecbc84cde",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

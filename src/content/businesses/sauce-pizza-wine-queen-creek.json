@@ -1,0 +1,37 @@
+{
+  "slug": "sauce-pizza-wine-queen-creek",
+  "name": "Sauce Pizza & Wine",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "20491 E Rittenhouse Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2587366,
+  "lng": -111.6427195,
+  "phone": "+14809024877",
+  "website": "http://www.saucepizzaandwine.com/locations/queen-creek-queen-creek-marketplace/",
+  "placeId": "ChIJEzlFHTpNKocR98gT-7qzCN0",
+  "googleRating": 4.1,
+  "googleReviewCount": 689,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9d0f5a46947d8d909d1",
+  "seededAt": "2026-06-10T19:24:00Z",
+  "updatedAt": "2026-06-10T19:24:01Z",
+  "source": "groundgame"
+}

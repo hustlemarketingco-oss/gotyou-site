@@ -1,0 +1,37 @@
+{
+  "slug": "casanova-pizzeria-boise",
+  "name": "Casanova Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2431 Fairview Ave",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.620422399999995,
+  "lng": -116.220799,
+  "phone": "+12089952662",
+  "website": "https://www.casanovapizzeria.com/",
+  "placeId": "ChIJtaV9n2X4rlQRVONX6vcucxA",
+  "googleRating": 4.7,
+  "googleReviewCount": 416,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b54b615f20c9d8df1cb",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

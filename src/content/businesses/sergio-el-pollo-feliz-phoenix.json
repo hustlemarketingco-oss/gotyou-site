@@ -1,0 +1,35 @@
+{
+  "slug": "sergio-el-pollo-feliz-phoenix",
+  "name": "Sergio El Pollo Feliz",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "6241 S 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.3891592,
+  "lng": -112.0641685,
+  "phone": "+14804308931",
+  "placeId": "ChIJiXVMyDsQK4cRb4jGrVzAip4",
+  "googleRating": 4.3,
+  "googleReviewCount": 138,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d8399667dff6602cba1e6",
+  "seededAt": "2026-06-25T19:38:01Z",
+  "updatedAt": "2026-06-25T19:38:02Z",
+  "source": "groundgame"
+}

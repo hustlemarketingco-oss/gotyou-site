@@ -1,0 +1,39 @@
+{
+  "slug": "tropical-smoothie-cafe-2965-phoenix",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "2965 W Dove Valley Rd Suite 200",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.782579999999996,
+  "lng": -112.1228,
+  "phone": "+16024161200",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/phoenix/2965-west-dove-valley-road?y_source=1_MjAxMjU4MDMxMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJORj-YRxjK4cRTmuNwwY42fg",
+  "googleRating": 4.8,
+  "googleReviewCount": 22,
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27548746297519171bbba8",
+  "seededAt": "2026-06-08T23:47:19Z",
+  "updatedAt": "2026-06-08T23:47:19Z",
+  "source": "groundgame"
+}

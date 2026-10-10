@@ -6,6 +6,15 @@ import { cityPath, categoryPath, plural } from '../../lib/profile-content';
 
 const all = await activeBusinesses();
 const cities = byCity(all);
+const STATE_NAMES: Record<string, string> = { AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California', CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware', DC: 'Washington, DC', FL: 'Florida', GA: 'Georgia', HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois', IN: 'Indiana', IA: 'Iowa', KS: 'Kansas', KY: 'Kentucky', LA: 'Louisiana', ME: 'Maine', MD: 'Maryland', MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota', MS: 'Mississippi', MO: 'Missouri', MT: 'Montana', NE: 'Nebraska', NV: 'Nevada', NH: 'New Hampshire', NJ: 'New Jersey', NM: 'New Mexico', NY: 'New York', NC: 'North Carolina', ND: 'North Dakota', OH: 'Ohio', OK: 'Oklahoma', OR: 'Oregon', PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina', SD: 'South Dakota', TN: 'Tennessee', TX: 'Texas', UT: 'Utah', VT: 'Vermont', VA: 'Virginia', WA: 'Washington', WV: 'West Virginia', WI: 'Wisconsin', WY: 'Wyoming' };
+// Cities grouped by state (largest first). Cities with a handful of listings get a compact link instead of a card.
+const CARD_MIN = 15;
+const states = [...new Set(cities.map((c) => c.state))]
+  .map((st) => {
+    const list = cities.filter((c) => c.state === st);
+    return { st, name: STATE_NAMES[st] ?? st, total: list.reduce((n, c) => n + c.items.length, 0), big: list.filter((c) => c.items.length >= CARD_MIN), small: list.filter((c) => c.items.length < CARD_MIN) };
+  })
+  .sort((a, b) => b.total - a.total);
 const site = Astro.site ?? Astro.url;
 const ld = {
   '@context': 'https://schema.org',
@@ -22,18 +31,36 @@ const ld = {
   <PageHero eyebrow="Explore" title="Local spots, <em>city by city.</em>" lede={`${all.length.toLocaleString()} local businesses across ${cities.length} cities, with hours, ratings and directions.`} />
 
   <section class="section">
-    <div class="container cities">
-      {cities.map((c) => (
-        <article class="card card--pad city reveal">
-          <h2><a href={cityPath(c.city)}>{c.city}, {c.state}</a></h2>
-          <p>{c.items.length} local {c.items.length === 1 ? 'spot' : 'spots'}</p>
-          <ul>
-            {categoriesIn(c.items).map((g) => (
-              <li>{g.hasPage ? <a href={categoryPath(c.city, g.category)}>{plural(g.category)}</a> : <span>{plural(g.category)}</span>} <small>{g.items.length}</small></li>
-            ))}
-          </ul>
-          <a href={cityPath(c.city)} class="link-arrow">Explore {c.city} <i class="ti ti-arrow-right"></i></a>
-        </article>
+    <div class="container">
+      <nav class="state-jump" aria-label="States">
+        {states.map((s) => <a href={`#${s.st.toLowerCase()}`}>{s.name} <small>{s.total.toLocaleString()}</small></a>)}
+      </nav>
+      {states.map((s) => (
+        <section class="state" id={s.st.toLowerCase()}>
+          <h2 class="h3 state-title">{s.name} <small>{s.total.toLocaleString()} spots</small></h2>
+          {s.big.length > 0 && (
+            <div class="cities">
+              {s.big.map((c) => (
+                <article class="card card--pad city">
+                  <h3><a href={cityPath(c.city, c.state)}>{c.city}, {c.state}</a></h3>
+                  <p>{c.items.length} local {c.items.length === 1 ? 'spot' : 'spots'}</p>
+                  <ul>
+                    {categoriesIn(c.items).slice(0, 6).map((g) => (
+                      <li>{g.hasPage ? <a href={categoryPath(c.city, c.state, g.category)}>{plural(g.category)}</a> : <span>{plural(g.category)}</span>} <small>{g.items.length}</small></li>
+                    ))}
+                  </ul>
+                  <a href={cityPath(c.city, c.state)} class="link-arrow">Explore {c.city} <i class="ti ti-arrow-right"></i></a>
+                </article>
+              ))}
+            </div>
+          )}
+          {s.small.length > 0 && (
+            <div class="small-cities">
+              {s.big.length > 0 && <h3>More in {s.name}</h3>}
+              <ul>{s.small.map((c) => <li><a href={cityPath(c.city, c.state)}>{c.city}</a> <small>{c.items.length}</small></li>)}</ul>
+            </div>
+          )}
+        </section>
       ))}
     </div>
   </section>
@@ -45,10 +72,62 @@ const ld = {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
   }
-  .city h2 {
-    font-size: 24px;
+  .state-jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 36px;
   }
-  .city h2 a:hover {
+  .state-jump a {
+    padding: 8px 14px;
+    border-radius: 100px;
+    background: var(--blue-50);
+    color: var(--blue);
+    font-weight: 600;
+    font-size: 14.5px;
+  }
+  .state-jump small {
+    color: var(--muted);
+    font-weight: 500;
+    margin-left: 4px;
+  }
+  .state {
+    margin-bottom: 48px;
+    scroll-margin-top: 90px;
+  }
+  .state-title {
+    margin-bottom: 18px;
+  }
+  .state-title small {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--muted);
+    margin-left: 8px;
+  }
+  .small-cities {
+    margin-top: 22px;
+  }
+  .small-cities h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .small-cities ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+  }
+  .small-cities a {
+    color: var(--blue);
+    font-weight: 500;
+  }
+  .small-cities small {
+    color: var(--muted);
+  }
+  .city h3 {
+    font-size: 22px;
+  }
+  .city h3 a:hover {
     color: var(--blue);
   }
   .city > p {

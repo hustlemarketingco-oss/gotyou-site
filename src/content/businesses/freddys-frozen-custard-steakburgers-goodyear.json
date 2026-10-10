@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-goodyear",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "1340 N Litchfield Rd",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.4614027,
+  "lng": -112.3588001,
+  "phone": "+16235472563",
+  "website": "https://www.freddys.com/location/goodyear-az",
+  "placeId": "ChIJWQUD5JU4K4cRlkOK3eRviI4",
+  "googleRating": 4.3,
+  "googleReviewCount": 1467,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b659e9cc0b03b8a2bc1ff",
+  "seededAt": "2026-06-12T01:49:18Z",
+  "updatedAt": "2026-06-12T01:49:19Z",
+  "source": "groundgame"
+}

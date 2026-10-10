@@ -1,0 +1,39 @@
+{
+  "slug": "gigi-gelati-st-george",
+  "name": "GIGI GELATI",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Italian restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1255 W Sunset Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1231095,
+  "lng": -113.6106755,
+  "phone": "+19173539700",
+  "placeId": "ChIJ_xYNpGhFyoARhCzubbru9n4",
+  "googleRating": 4.9,
+  "googleReviewCount": 86,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 12:00 AM",
+    "sat": "12:00 PM - 12:00 AM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8dfc64dc66413ee0a39",
+  "seededAt": "2025-12-17T18:39:27Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

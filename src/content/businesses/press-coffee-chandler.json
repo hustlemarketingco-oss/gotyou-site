@@ -1,0 +1,38 @@
+{
+  "slug": "press-coffee-chandler",
+  "name": "Press Coffee - Chandler",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1085 W Queen Creek Rd #4",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2612107,
+  "lng": -111.8604517,
+  "phone": "+14806996239",
+  "website": "https://presscoffee.com/",
+  "placeId": "ChIJuXq3l14AK4cRKfJAref8BSo",
+  "googleRating": 4.6,
+  "googleReviewCount": 483,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 4:00 PM",
+    "tue": "6:30 AM - 4:00 PM",
+    "wed": "6:30 AM - 4:00 PM",
+    "thu": "6:30 AM - 4:00 PM",
+    "fri": "6:30 AM - 4:00 PM",
+    "sat": "6:30 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9367a9e49fadb62395c",
+  "seededAt": "2026-06-10T19:21:26Z",
+  "updatedAt": "2026-06-10T19:21:26Z",
+  "source": "groundgame"
+}

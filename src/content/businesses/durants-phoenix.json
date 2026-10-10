@@ -1,0 +1,60 @@
+{
+  "slug": "durants-phoenix",
+  "name": "Durant's",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Fine dining restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "2611 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.477252,
+  "lng": -112.0734498,
+  "phone": "+16022645967",
+  "website": "https://www.durantsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1795104239706520601",
+  "googleCid": "1795104239706520601",
+  "placeId": "ChIJy5TnF10SK4cRGTyBjst96Rg",
+  "googleRating": 4.6,
+  "googleReviewCount": 2392,
+  "priceRange": "$100+",
+  "description": "Upscale, old-school chophouse serving steak, seafood & martinis in a vintage red-velvet setting.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/durantssteakhouse"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 10:00 PM",
+    "mon": "4:00 PM - 9:15 PM",
+    "tue": "4:00 PM - 9:15 PM",
+    "wed": "4:00 PM - 9:15 PM",
+    "thu": "4:00 PM - 9:15 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244461b6fef4fb247a4402",
+  "seededAt": "2026-06-06T16:01:37Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

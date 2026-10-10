@@ -1,0 +1,36 @@
+{
+  "slug": "luna-by-giada-scottsdale",
+  "name": "Luna By Giada",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Fine dining restaurant"
+  ],
+  "address": "4747 N Goldwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5055742,
+  "lng": -111.9293744,
+  "phone": "+14809146829",
+  "website": "https://www.lunabygiadascottsdale.com/",
+  "placeId": "ChIJkYQ9LCILK4cRwKmBAxF-Jhk",
+  "googleRating": 4.5,
+  "googleReviewCount": 821,
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 11:00 PM",
+    "sat": "3:00 PM - 11:00 PM",
+    "sun": "3:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766306cc40c6edd060b46",
+  "seededAt": "2026-06-09T01:02:40Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

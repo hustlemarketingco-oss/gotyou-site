@@ -1,0 +1,37 @@
+{
+  "slug": "la-michoacana-7333-phoenix",
+  "name": "La Michoacana",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7333 W Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85035",
+  "lat": 33.476999,
+  "lng": -112.21922610000001,
+  "phone": "+16232486490",
+  "placeId": "ChIJtRhkH58VK4cR1isMl1w6Yz4",
+  "googleRating": 3.7,
+  "googleReviewCount": 15,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398d336adb0ec61980ca49",
+  "seededAt": "2026-06-22T19:29:55Z",
+  "updatedAt": "2026-06-22T19:29:56Z",
+  "source": "groundgame"
+}

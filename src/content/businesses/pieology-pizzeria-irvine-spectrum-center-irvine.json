@@ -1,0 +1,42 @@
+{
+  "slug": "pieology-pizzeria-irvine-spectrum-center-irvine",
+  "name": "Pieology Pizzeria Irvine Spectrum Center",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Meal takeaway",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "713 Spectrum Center Dr",
+  "city": "Irvine",
+  "state": "CA",
+  "zip": "92618",
+  "lat": 33.650171199999996,
+  "lng": -117.74195580000001,
+  "phone": "+19499320218",
+  "website": "https://pieology.com/pizza-near-me/?rest_id=6002",
+  "placeId": "ChIJ0ximE_zn3IAR_Wk4LDQpVqw",
+  "googleRating": 4,
+  "googleReviewCount": 781,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 11:00 PM",
+    "tue": "10:30 AM - 11:00 PM",
+    "wed": "10:30 AM - 11:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80f9b2dec1a85237b24",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

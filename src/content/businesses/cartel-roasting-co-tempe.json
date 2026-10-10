@@ -1,0 +1,36 @@
+{
+  "slug": "cartel-roasting-co-tempe",
+  "name": "Cartel Roasting Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "851 Cady Mall",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.4208917,
+  "lng": -111.934581,
+  "website": "https://cartelroasting.co/",
+  "placeId": "ChIJC246qYYJK4cRgPHZWwEBhQk",
+  "googleRating": 3.9,
+  "googleReviewCount": 12,
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f81b6b8db9145eb4a12",
+  "seededAt": "2026-06-18T17:48:49Z",
+  "updatedAt": "2026-06-18T17:48:50Z",
+  "source": "groundgame"
+}

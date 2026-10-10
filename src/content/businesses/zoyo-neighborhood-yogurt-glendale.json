@@ -1,0 +1,38 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-glendale",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "6635 W Happy Valley Rd Ste A-105",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85310",
+  "lat": 33.7106735,
+  "lng": -112.2022504,
+  "phone": "+16232488165",
+  "website": "http://zoyogurt.com/",
+  "placeId": "ChIJj0wm7tRnK4cRGj-DKt-aKT8",
+  "googleRating": 4.1,
+  "googleReviewCount": 59,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c261fb8fffe683e8fd808",
+  "seededAt": "2026-06-12T15:30:39Z",
+  "updatedAt": "2026-06-12T15:30:39Z",
+  "source": "groundgame"
+}

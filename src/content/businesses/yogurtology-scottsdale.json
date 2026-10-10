@@ -1,0 +1,40 @@
+{
+  "slug": "yogurtology-scottsdale",
+  "name": "Yogurtology",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Candy store",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "15029 N Thompson Peak Pkwy",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.621646999999996,
+  "lng": -111.873161,
+  "phone": "+14804516900",
+  "website": "http://yogurtology.com/",
+  "placeId": "ChIJif1pJZF1K4cR6A5vWIRMpx0",
+  "googleRating": 4.3,
+  "googleReviewCount": 192,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d29976bfb5ddb5a92c",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

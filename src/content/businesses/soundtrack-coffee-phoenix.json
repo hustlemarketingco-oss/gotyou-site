@@ -1,0 +1,36 @@
+{
+  "slug": "soundtrack-coffee-phoenix",
+  "name": "Soundtrack Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "765 Grand Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85007",
+  "lat": 33.452905699999995,
+  "lng": -112.0849308,
+  "placeId": "ChIJjzvLWQATK4cRPJLTMS9BtKc",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "7:00 AM - 1:00 PM",
+    "thu": "7:00 AM - 1:00 PM",
+    "fri": "7:00 AM - 1:00 PM",
+    "sat": "7:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5bf77f634deac1e23e",
+  "seededAt": "2026-08-31T04:04:43Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

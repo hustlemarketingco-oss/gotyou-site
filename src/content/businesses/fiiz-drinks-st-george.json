@@ -1,0 +1,32 @@
+{
+  "slug": "fiiz-drinks-st-george",
+  "name": "FiiZ Drinks",
+  "category": "Restaurant",
+  "address": "1664 S Dixie Dr Suite M-102",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.0801739,
+  "lng": -113.6054905,
+  "phone": "+14352005586",
+  "website": "https://www.fiizdrinks.com/",
+  "placeId": "ChIJJzUb_YVFyoARI06fEGAoiwc",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b6927fffeb3a1af9f64",
+  "seededAt": "2025-12-16T15:31:53Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

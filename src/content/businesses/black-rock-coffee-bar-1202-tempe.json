@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-1202-tempe",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1202 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4077161,
+  "lng": -111.9571692,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/broadway-i10",
+  "placeId": "ChIJc9BLmBMPK4cRCjeATjAXwnI",
+  "googleRating": 4.3,
+  "googleReviewCount": 527,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725716ab4f930e30d7d9",
+  "seededAt": "2026-07-10T22:29:43Z",
+  "updatedAt": "2026-07-10T22:29:43Z",
+  "source": "groundgame"
+}

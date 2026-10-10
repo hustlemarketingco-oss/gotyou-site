@@ -1,0 +1,51 @@
+{
+  "slug": "palo-verde-lounge-scottsdale",
+  "name": "Palo Verde Lounge",
+  "category": "Bars & Pubs",
+  "googleCategory": "Lounge bar",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "9800 E Indian Bend Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85256",
+  "lat": 33.5403471,
+  "lng": -111.8694662,
+  "phone": "+14808507777",
+  "website": "https://www.talkingstickresort.com/phoenix-scottsdale-concerts-entertainment/palo-verde-lounge/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4160206689362542096",
+  "googleCid": "4160206689362542096",
+  "placeId": "ChIJ39byspAKK4cREH6oN_EFvDk",
+  "googleRating": 3.9,
+  "googleReviewCount": 16,
+  "description": "The Talking Stick Resort's chic, modern cocktail lounge offers views of the pool area.",
+  "amenities": [
+    "Outdoor seating",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 1:45 AM",
+    "sat": "10:00 AM - 1:45 AM",
+    "sun": "10:00 AM - 1:45 AM",
+    "mon": "10:00 AM - 1:45 AM",
+    "tue": "10:00 AM - 1:45 AM",
+    "wed": "10:00 AM - 1:45 AM",
+    "thu": "10:00 AM - 1:45 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ac995b7111f291de41b",
+  "seededAt": "2026-06-06T15:20:41Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

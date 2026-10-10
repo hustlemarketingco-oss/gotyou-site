@@ -1,0 +1,40 @@
+{
+  "slug": "hungry-howies-pizza-phoenix",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "4625 E Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.479622,
+  "lng": -111.98164799999999,
+  "phone": "+16028406100",
+  "website": "https://www.hungryhowies.com/stores/az/phoenix/4625-e-thomas-rd",
+  "placeId": "ChIJwy09zjgMK4cRK3jKCjuyLUE",
+  "googleRating": 4.1,
+  "googleReviewCount": 350,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cb973fae49bb8d74e1d3",
+  "seededAt": "2026-06-16T22:17:59Z",
+  "updatedAt": "2026-06-16T22:17:59Z",
+  "source": "groundgame"
+}

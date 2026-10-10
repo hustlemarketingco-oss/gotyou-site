@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-1036-mesa",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Food delivery",
+    "Fast food restaurant"
+  ],
+  "address": "1036 S Country Club Dr",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.3966703,
+  "lng": -111.84051679999999,
+  "phone": "+14806686073",
+  "website": "https://restaurants.elpolloloco.com/az/mesa/1036-s-country-club-dr",
+  "placeId": "ChIJMcGjtg6oK4cRVxQK05UuOHE",
+  "googleRating": 4,
+  "googleReviewCount": 1241,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d838be46aa2364155e5a8",
+  "seededAt": "2026-06-25T19:37:47Z",
+  "updatedAt": "2026-06-25T19:37:48Z",
+  "source": "groundgame"
+}

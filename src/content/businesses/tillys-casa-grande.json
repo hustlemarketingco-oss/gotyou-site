@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-casa-grande",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "1004 N Promenade Pkwy #138",
+  "city": "Casa Grande",
+  "state": "AZ",
+  "zip": "85194",
+  "lat": 32.884222099999995,
+  "lng": -111.681956,
+  "phone": "+15208361288",
+  "website": "https://www.tillys.com/store/?StoreID=0089",
+  "placeId": "ChIJCScvbs9nKocRHRlay4XPePs",
+  "googleRating": 3.4,
+  "googleReviewCount": 34,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34387d323fc30b3bbf7d93",
+  "seededAt": "2026-06-18T18:27:09Z",
+  "updatedAt": "2026-06-18T18:27:09Z",
+  "source": "groundgame"
+}

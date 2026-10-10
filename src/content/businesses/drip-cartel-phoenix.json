@@ -1,0 +1,32 @@
+{
+  "slug": "drip-cartel-phoenix",
+  "name": "Drip Cartel",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "4515 N 16th St Ste 109",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.502611699999996,
+  "lng": -112.0468787,
+  "website": "https://www.dripcartelaz.com/",
+  "placeId": "ChIJwxY64XINK4cRHphg3ydr3NQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 94,
+  "hours": {
+    "mon": "1:00 PM - 8:00 PM",
+    "tue": "1:00 PM - 8:00 PM",
+    "wed": "1:00 PM - 8:00 PM",
+    "thu": "1:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f8c7fa8ada9d3c58957",
+  "seededAt": "2026-06-18T17:49:00Z",
+  "updatedAt": "2026-06-18T17:49:00Z",
+  "source": "groundgame"
+}

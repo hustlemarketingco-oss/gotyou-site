@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-surprise",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "16860 W Waddell Rd Ste 112",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85388",
+  "lat": 33.610360899999996,
+  "lng": -112.42211429999999,
+  "phone": "+16232356907",
+  "website": "https://www.eatmesquite.com/",
+  "placeId": "ChIJQZKUmwtFK4cRD8_m2t12WcA",
+  "googleRating": 4.2,
+  "googleReviewCount": 788,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9f7ded6ca02f285ac92",
+  "seededAt": "2026-06-17T17:31:35Z",
+  "updatedAt": "2026-06-17T17:31:35Z",
+  "source": "groundgame"
+}

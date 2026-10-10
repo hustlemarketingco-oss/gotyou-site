@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-1645-phoenix",
+  "name": "Yogis Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1645 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.507669899999996,
+  "lng": -112.0457132,
+  "phone": "+16022643229",
+  "website": "http://yogisgrill.com/",
+  "placeId": "ChIJIej4xyESK4cRuwZTlA8HNjk",
+  "googleRating": 4.1,
+  "googleReviewCount": 605,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971b473fa31a832fa211e",
+  "seededAt": "2026-06-22T17:32:36Z",
+  "updatedAt": "2026-06-22T17:32:37Z",
+  "source": "groundgame"
+}

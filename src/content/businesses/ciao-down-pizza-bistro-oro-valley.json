@@ -1,0 +1,35 @@
+{
+  "slug": "ciao-down-pizza-bistro-oro-valley",
+  "name": "Ciao Down Pizza Bistro",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "10565 N Oracle Rd #111",
+  "city": "Oro Valley",
+  "state": "AZ",
+  "zip": "85737",
+  "lat": 32.3979364,
+  "lng": -110.9584419,
+  "website": "https://www.ciaodownpizza.com/",
+  "placeId": "ChIJKVG0ciIN1oYRZtPW4kvFSJc",
+  "googleRating": 4.4,
+  "googleReviewCount": 107,
+  "hours": {
+    "mon": "3:00 PM - 8:00 PM",
+    "tue": "3:00 PM - 8:00 PM",
+    "wed": "3:00 PM - 8:00 PM",
+    "thu": "3:00 PM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357bda9acf6243ab4bc884",
+  "seededAt": "2026-06-19T17:26:50Z",
+  "updatedAt": "2026-06-19T17:26:50Z",
+  "source": "groundgame"
+}

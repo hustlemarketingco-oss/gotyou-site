@@ -1,0 +1,40 @@
+{
+  "slug": "mammas-brick-oven-pizza-pasta-south-pasadena",
+  "name": "Mamma's Brick Oven Pizza & Pasta",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant",
+    "Bar"
+  ],
+  "address": "1007 Fair Oaks Ave",
+  "city": "South Pasadena",
+  "state": "CA",
+  "zip": "91030",
+  "lat": 34.1144973,
+  "lng": -118.15071400000001,
+  "phone": "+16267991344",
+  "website": "http://mammasbrickoven.com/index.html",
+  "placeId": "ChIJlx6uYY7EwoARjhdtZVCzzCA",
+  "googleRating": 4.5,
+  "googleReviewCount": 1112,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d479f8130be28c33ca",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2025-12-17T02:09:24Z",
+  "source": "groundgame"
+}

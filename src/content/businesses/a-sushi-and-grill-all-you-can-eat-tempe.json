@@ -1,0 +1,37 @@
+{
+  "slug": "a-sushi-and-grill-all-you-can-eat-tempe",
+  "name": "A SUSHI AND GRILL (ALL YOU CAN EAT)",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1807 E Baseline Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3773306,
+  "lng": -111.9075,
+  "phone": "+14808390288",
+  "website": "http://www.asushiandgrillayce.com/",
+  "placeId": "ChIJCWk-5XsHK4cRAOEqLfRFLAE",
+  "googleRating": 4.6,
+  "googleReviewCount": 789,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738c93cd985335a5ee038",
+  "seededAt": "2026-06-08T21:48:57Z",
+  "updatedAt": "2026-06-08T21:49:22Z",
+  "source": "groundgame"
+}

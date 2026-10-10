@@ -1,0 +1,37 @@
+{
+  "slug": "by-the-bucket-east-mesa",
+  "name": "By the Bucket - East Mesa",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "9903 E Baseline Rd Ste E-103",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.3787118,
+  "lng": -111.6211237,
+  "phone": "+14809863080",
+  "website": "https://www.bythebucketeastmesa.com/",
+  "placeId": "ChIJHeB5JHCxK4cR5SbWVVpNaj8",
+  "googleRating": 4.7,
+  "googleReviewCount": 341,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a331fc9658d61b7c486ee89",
+  "seededAt": "2026-06-17T22:29:29Z",
+  "updatedAt": "2026-06-17T22:29:30Z",
+  "source": "groundgame"
+}

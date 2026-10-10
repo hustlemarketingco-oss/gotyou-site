@@ -1,0 +1,36 @@
+{
+  "slug": "series-a-coffee-beverly-hills",
+  "name": "SERIES A COFFEE",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "8328 Wilshire Blvd",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90211",
+  "lat": 34.064172,
+  "lng": -118.3728339,
+  "phone": "+13232973703",
+  "placeId": "ChIJgQTNJvC5woARbvuTdYeqXT0",
+  "googleRating": 4.4,
+  "googleReviewCount": 200,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abf8c77a05fad1945ca",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

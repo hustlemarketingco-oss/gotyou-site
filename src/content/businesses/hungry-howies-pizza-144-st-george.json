@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-144-st-george",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Meal delivery",
+    "Chicken wings restaurant",
+    "Catering service",
+    "Food delivery",
+    "Meal takeaway",
+    "Fast food restaurant"
+  ],
+  "address": "144 W Brigham Rd STE 4",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.061043999999995,
+  "lng": -113.58593219999999,
+  "phone": "+14356560011",
+  "website": "https://www.hungryhowies.com/stores/ut/st-george/144-west-brigham-rd-unit-4",
+  "placeId": "ChIJ-5IN6llFyoARGhUt5rHHBrc",
+  "googleRating": 3.9,
+  "googleReviewCount": 248,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69c55cb594966013c69ba239",
+  "seededAt": "2026-03-26T16:20:05Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

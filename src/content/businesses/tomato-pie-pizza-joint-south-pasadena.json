@@ -1,0 +1,37 @@
+{
+  "slug": "tomato-pie-pizza-joint-south-pasadena",
+  "name": "Tomato Pie Pizza Joint (South Pasadena)",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "1130 Mission St",
+  "city": "South Pasadena",
+  "state": "CA",
+  "zip": "91030",
+  "lat": 34.115906599999995,
+  "lng": -118.15378020000001,
+  "phone": "+16263990459",
+  "website": "http://www.tomatopiepizzajoint.com/",
+  "placeId": "ChIJXbR5_YvEwoAR4Md5T35YnIw",
+  "googleRating": 4.6,
+  "googleReviewCount": 528,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d4c85a9933ecf6fd9b",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2025-12-17T02:09:24Z",
+  "source": "groundgame"
+}

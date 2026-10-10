@@ -1,0 +1,37 @@
+{
+  "slug": "wendys-7530-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant"
+  ],
+  "address": "7530 W Lower Buckeye Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85043",
+  "lat": 33.423445,
+  "lng": -112.22312289999999,
+  "phone": "+16232496520",
+  "website": "https://locations.wendys.com/",
+  "placeId": "ChIJN44zvGsVK4cR3AujXQPqnuM",
+  "googleRating": 2.2,
+  "googleReviewCount": 273,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 12:00 AM",
+    "tue": "6:30 AM - 12:00 AM",
+    "wed": "6:30 AM - 12:00 AM",
+    "thu": "6:30 AM - 12:00 AM",
+    "fri": "6:30 AM - 1:00 AM",
+    "sat": "6:30 AM - 1:00 AM",
+    "sun": "6:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dce0f8969d199830606",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

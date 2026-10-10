@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-tempe",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "555 N Scottsdale Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.434325199999996,
+  "lng": -111.9255012,
+  "phone": "+14809666453",
+  "website": "https://www.jerseymikes.com/9002/tempe-az",
+  "placeId": "ChIJr8jwKhkJK4cRUTkYzHhqrJQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 264,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3436ae3fa670afc7a8b0a2",
+  "seededAt": "2026-06-18T18:19:26Z",
+  "updatedAt": "2026-07-10T18:54:00Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "chickenhug-tempe",
+  "name": "ChickenHug",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "2070 E Apache Blvd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.41507680000001,
+  "lng": -111.89731160000001,
+  "phone": "+16027751484",
+  "website": "https://chickenhug.com/",
+  "placeId": "ChIJFTfM3XMJK4cRgdxB48twKGE",
+  "googleRating": 4.9,
+  "googleReviewCount": 446,
+  "sameAs": [
+    "https://www.instagram.com/chickenhug/"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cacdce7b829c8e2c0235a",
+  "seededAt": "2026-06-25T04:21:48Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

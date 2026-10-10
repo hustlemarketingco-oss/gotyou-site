@@ -1,0 +1,38 @@
+{
+  "slug": "petes-fish-chips-4121-phoenix",
+  "name": "Pete's Fish & Chips",
+  "category": "Restaurant",
+  "googleCategory": "Fish and chips restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "4121 N 44th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4957209,
+  "lng": -111.98661279999999,
+  "phone": "+16028400630",
+  "website": "http://www.petesfishandchips.com/",
+  "placeId": "ChIJi3Tba1oMK4cRz1oDBTWC0EE",
+  "googleRating": 4.3,
+  "googleReviewCount": 2104,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:30 AM - 10:30 PM",
+    "tue": "9:30 AM - 10:30 PM",
+    "wed": "9:30 AM - 10:30 PM",
+    "thu": "9:30 AM - 10:30 PM",
+    "fri": "9:30 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cac9c11450a5e3f9b7d94",
+  "seededAt": "2026-06-25T04:20:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "the-burger-bar-phoenix",
+  "name": "The Burger Bar, Phoenix",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "4750 S 48th St Suite 107",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.4041943,
+  "lng": -111.9790302,
+  "phone": "+14802473070",
+  "website": "https://www.toasttab.com/local/order/the-burger-bar-phoenix-4750-south-48th-street-107",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14002659854994113609",
+  "googleCid": "14002659854994113609",
+  "placeId": "ChIJ89Yt_QkPK4cRSQSM5_JwU8I",
+  "googleRating": 4.7,
+  "googleReviewCount": 39,
+  "description": "Located in Phoenix, The Burger Bar, Phoenix is a restaurant.",
+  "hours": {
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed",
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440f24a2dfa3343eb9165",
+  "seededAt": "2026-06-06T15:46:58Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

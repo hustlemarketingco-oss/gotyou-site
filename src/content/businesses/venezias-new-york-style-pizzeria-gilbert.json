@@ -1,0 +1,40 @@
+{
+  "slug": "venezias-new-york-style-pizzeria-gilbert",
+  "name": "Venezia's New York Style Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "744 W Ray Rd #101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.321669199999995,
+  "lng": -111.80566909999999,
+  "phone": "+14807863200",
+  "website": "https://www.venezias.com/location/gilbert/",
+  "placeId": "ChIJUfHrmNWrK4cRNWM8p_hGAKQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 2128,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d5962dfd49c54036a46",
+  "seededAt": "2026-06-12T14:53:13Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-cave-creek",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "29455 N Cave Creek Rd Suite 124",
+  "city": "Cave Creek",
+  "state": "AZ",
+  "zip": "85331",
+  "lat": 33.7519987,
+  "lng": -111.9910222,
+  "phone": "+14805506604",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/cave-creek/29455-n-cave-creek-road?y_source=1_MTA0NDcyNzk3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJnfPdtxJ7K4cRYVVbjRdnFT0",
+  "googleRating": 4.6,
+  "googleReviewCount": 32,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275481e0c6e31dc349a3ec",
+  "seededAt": "2026-06-08T23:47:13Z",
+  "updatedAt": "2026-06-08T23:47:14Z",
+  "source": "groundgame"
+}

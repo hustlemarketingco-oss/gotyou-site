@@ -1,0 +1,37 @@
+{
+  "slug": "oh-taco-sandusky",
+  "name": "OH Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "223 W Water St",
+  "city": "Sandusky",
+  "state": "OH",
+  "zip": "44870",
+  "lat": 41.4571129,
+  "lng": -82.7136974,
+  "phone": "+18443732223",
+  "website": "http://www.oh-taco.com/",
+  "placeId": "ChIJv5j_ZOdFOogR02I04VeBBEQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 480,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319ba64f5668fcb686448c",
+  "seededAt": "2026-06-16T18:53:26Z",
+  "updatedAt": "2026-06-16T18:53:27Z",
+  "source": "groundgame"
+}

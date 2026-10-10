@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-avondale",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "9915 W McDowell Rd Ste 101",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.463912,
+  "lng": -112.27302809999999,
+  "phone": "+16239363020",
+  "website": "https://smashburger.com/locations/us/az/avondale/9915-w-mcdowell-rd",
+  "placeId": "ChIJK8PNRbs_K4cRTnBQwS5wcEg",
+  "googleRating": 3.9,
+  "googleReviewCount": 1460,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cc50f44ff0ed2d13735",
+  "seededAt": "2026-06-19T17:30:45Z",
+  "updatedAt": "2026-06-19T17:30:46Z",
+  "source": "groundgame"
+}

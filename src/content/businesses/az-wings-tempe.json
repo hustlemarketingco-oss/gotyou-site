@@ -1,0 +1,34 @@
+{
+  "slug": "az-wings-tempe",
+  "name": "AZ Wings",
+  "category": "Fast Food",
+  "googleCategory": "Chicken wings restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "1804 E Southern Ave # 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3933059,
+  "lng": -111.9080495,
+  "phone": "+14806562422",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17115055416290060366",
+  "googleCid": "17115055416290060366",
+  "placeId": "ChIJe2pnI4EIK4cRTigYvzjkhO0",
+  "googleRating": 4.3,
+  "googleReviewCount": 372,
+  "priceRange": "$",
+  "description": "Counter-serve spot in a strip mall offering chicken wings in creative flavors to eat in or take out.",
+  "amenities": [
+    "Takeout"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243a30ab27836f42268fed",
+  "seededAt": "2026-06-06T15:18:08Z",
+  "updatedAt": "2026-06-06T15:18:08Z",
+  "source": "groundgame"
+}

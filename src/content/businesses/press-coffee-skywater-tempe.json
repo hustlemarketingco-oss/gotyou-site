@@ -1,0 +1,39 @@
+{
+  "slug": "press-coffee-skywater-tempe",
+  "name": "Press Coffee - Skywater",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "601 W Rio Salado Pkwy #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430320699999996,
+  "lng": -111.94857789999999,
+  "phone": "+14807941107",
+  "website": "https://presscoffee.com/pages/location-skywater",
+  "placeId": "ChIJUVsCciwJK4cR2rwFk4Mht4Y",
+  "googleRating": 4.5,
+  "googleReviewCount": 393,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 4:00 PM",
+    "tue": "6:30 AM - 4:00 PM",
+    "wed": "6:30 AM - 4:00 PM",
+    "thu": "6:30 AM - 4:00 PM",
+    "fri": "6:30 AM - 4:00 PM",
+    "sat": "6:30 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b92509f51f14a0fbf9a8",
+  "seededAt": "2026-06-10T19:21:09Z",
+  "updatedAt": "2026-08-04T20:16:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-4050-chandler",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "4050 S Alma School Rd #1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2461168,
+  "lng": -111.8661023,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/alma-school",
+  "placeId": "ChIJ654UGw0AK4cR8mLj4Zjo4a8",
+  "googleRating": 4.6,
+  "googleReviewCount": 941,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725a2f8c7231c92f5b31",
+  "seededAt": "2026-07-10T22:29:46Z",
+  "updatedAt": "2026-07-10T22:29:46Z",
+  "source": "groundgame"
+}

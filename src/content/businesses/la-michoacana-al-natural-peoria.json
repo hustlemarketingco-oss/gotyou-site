@@ -1,0 +1,39 @@
+{
+  "slug": "la-michoacana-al-natural-peoria",
+  "name": "La Michoacana Al Natural",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "8987 W Olive Ave Unit 130",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85345",
+  "lat": 33.5655165,
+  "lng": -112.25290749999999,
+  "phone": "+16024998083",
+  "website": "https://www.alnaturalaz.com/",
+  "placeId": "ChIJfyRG17JBK4cRF9lJtuqR8O4",
+  "googleRating": 4.2,
+  "googleReviewCount": 77,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398d39d49aad594677ca32",
+  "seededAt": "2026-06-22T19:30:01Z",
+  "updatedAt": "2026-06-22T19:30:02Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "little-joes-gilbert",
+  "name": "Little Joe’s",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Market",
+    "Italian grocery store"
+  ],
+  "address": "81 S McQueen Rd #105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3483848,
+  "lng": -111.8235758,
+  "phone": "+14805044072",
+  "website": "http://www.littlejoesaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6714455352048915848",
+  "googleCid": "6714455352048915848",
+  "placeId": "ChIJsZokAACpK4cRiJUYZ5GJLl0",
+  "googleRating": 4.7,
+  "googleReviewCount": 203,
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26450640fe95aff48be286",
+  "seededAt": "2026-06-08T04:28:54Z",
+  "updatedAt": "2026-06-08T04:28:54Z",
+  "source": "groundgame"
+}

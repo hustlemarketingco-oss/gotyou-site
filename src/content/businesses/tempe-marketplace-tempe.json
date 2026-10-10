@@ -1,0 +1,33 @@
+{
+  "slug": "tempe-marketplace-tempe",
+  "name": "Tempe Marketplace",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4340695,
+  "lng": -111.9012791,
+  "phone": "+14809669338",
+  "website": "http://www.tempemarketplace.com/",
+  "placeId": "ChIJz3KubQsJK4cRGVoEHV1TLeo",
+  "googleRating": 4.6,
+  "googleReviewCount": 22087,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3580520e529cc6aaf2a9d9",
+  "seededAt": "2026-06-19T17:45:54Z",
+  "updatedAt": "2026-06-26T16:00:30Z",
+  "source": "groundgame"
+}

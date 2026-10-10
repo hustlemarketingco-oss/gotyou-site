@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-12440-phoenix",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "12440 N Tatum Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6006322,
+  "lng": -111.9801512,
+  "phone": "+14805258106",
+  "website": "https://locations.whataburger.com/az/phoenix/12440-n-tatum-blvd.html/",
+  "placeId": "ChIJZwwrzA1zK4cR8Qz8gUxqmbQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 863,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d698ad1d90972a89bc2",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

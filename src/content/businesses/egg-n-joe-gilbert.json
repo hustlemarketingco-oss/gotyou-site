@@ -1,0 +1,50 @@
+{
+  "slug": "egg-n-joe-gilbert",
+  "name": "Egg N' Joe",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Brunch restaurant",
+    "Family restaurant",
+    "Lunch restaurant"
+  ],
+  "address": "3131 S Market St #101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "phone": "+14806253709",
+  "priceRange": "$10–20",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Organic dishes",
+    "Quick bite",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/eggnjoe"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264a1b3989437b57fd7d26",
+  "seededAt": "2026-06-08T04:50:35Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

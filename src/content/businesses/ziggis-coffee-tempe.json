@@ -1,0 +1,46 @@
+{
+  "slug": "ziggis-coffee-tempe",
+  "name": "Ziggi's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Internet cafe",
+    "Cafe",
+    "Breakfast restaurant",
+    "Food store"
+  ],
+  "address": "1135 E Apache Blvd Ste #113",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4144328,
+  "lng": -111.92073979999999,
+  "phone": "+14808016414",
+  "website": "https://www.ziggiscoffee.com/",
+  "placeId": "ChIJ-952-H4JK4cRG8uDnRgOJqs",
+  "googleRating": 4.6,
+  "googleReviewCount": 116,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Credit card",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32edd5bc2a38be37d70a58",
+  "seededAt": "2026-06-17T18:56:21Z",
+  "updatedAt": "2026-10-07T21:50:45Z",
+  "source": "groundgame"
+}

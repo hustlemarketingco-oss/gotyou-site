@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-4241-a-phoenix",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "4241-A W Thunderbird Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85053",
+  "lat": 33.610336,
+  "lng": -112.14933699999999,
+  "phone": "+16029353542",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/phoenix/4241-a-west-thunderbird-road?y_source=1_NDU2MjQ5MjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJLcxi2mRpK4cRpeXUP9i5g58",
+  "googleRating": 3.6,
+  "googleReviewCount": 92,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275480f126d41f6176b9b3",
+  "seededAt": "2026-06-08T23:47:12Z",
+  "updatedAt": "2026-06-08T23:47:13Z",
+  "source": "groundgame"
+}

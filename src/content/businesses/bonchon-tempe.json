@@ -1,0 +1,42 @@
+{
+  "slug": "bonchon-tempe",
+  "name": "Bonchon Tempe",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian fusion restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Fusion restaurant",
+    "Asian restaurant",
+    "Chicken wings restaurant",
+    "Korean restaurant",
+    "Meal takeaway"
+  ],
+  "address": "780 W Elliot Rd Suite 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495883,
+  "lng": -111.94978049999999,
+  "phone": "+14803619282",
+  "website": "https://restaurants.bonchon.com/locations/az/tempe/780-w-elliot-rd-suite-101",
+  "placeId": "ChIJWSsxUrwHK4cR4DYrDif6K4I",
+  "googleRating": 4.1,
+  "googleReviewCount": 1047,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a47e99ca60d58607e4b4ecb",
+  "seededAt": "2026-07-03T16:55:56Z",
+  "updatedAt": "2026-07-03T16:55:56Z",
+  "source": "groundgame"
+}

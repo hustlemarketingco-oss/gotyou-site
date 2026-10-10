@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-2050-mesa",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "2050 W Guadalupe Rd #6",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.364744,
+  "lng": -111.87806499999999,
+  "phone": "+14808319111",
+  "website": "https://www.hungryhowies.com/stores/az/mesa/2050-w-guadalupe-6",
+  "placeId": "ChIJreIImJcHK4cR3VMB-28fYRE",
+  "googleRating": 3.6,
+  "googleReviewCount": 281,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cb9bc276f9ab6c3a83ea",
+  "seededAt": "2026-06-16T22:18:03Z",
+  "updatedAt": "2026-06-16T22:18:04Z",
+  "source": "groundgame"
+}

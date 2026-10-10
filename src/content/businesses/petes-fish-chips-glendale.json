@@ -1,0 +1,38 @@
+{
+  "slug": "petes-fish-chips-glendale",
+  "name": "Pete's Fish & Chips",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Fish and chips restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "5516 W Glendale Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.5387427,
+  "lng": -112.17837039999999,
+  "phone": "+16239376001",
+  "website": "http://www.petesfishandchips.com/",
+  "placeId": "ChIJ1_LChhBrK4cRO0GJu1pjkSY",
+  "googleRating": 4.2,
+  "googleReviewCount": 4168,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:30 PM",
+    "tue": "10:00 AM - 10:30 PM",
+    "wed": "10:00 AM - 10:30 PM",
+    "thu": "10:00 AM - 10:30 PM",
+    "fri": "10:00 AM - 10:30 PM",
+    "sat": "10:00 AM - 10:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cac9c7fd42ca0e3224a9c",
+  "seededAt": "2026-06-25T04:20:44Z",
+  "updatedAt": "2026-06-25T04:20:44Z",
+  "source": "groundgame"
+}

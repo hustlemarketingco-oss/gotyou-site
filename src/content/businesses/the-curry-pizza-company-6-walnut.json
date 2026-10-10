@@ -1,0 +1,41 @@
+{
+  "slug": "the-curry-pizza-company-6-walnut",
+  "name": "The Curry Pizza Company #6",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery"
+  ],
+  "address": "376 S Lemon Ave",
+  "city": "Walnut",
+  "state": "CA",
+  "zip": "91789",
+  "lat": 34.0110252,
+  "lng": -117.85940259999998,
+  "phone": "+19099785065",
+  "website": "https://currypizza.com/",
+  "placeId": "ChIJ-2P5xK0rw4ARA5FRL8ASYvg",
+  "googleRating": 4.5,
+  "googleReviewCount": 178,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429d6c5ab1de36e2ef23",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

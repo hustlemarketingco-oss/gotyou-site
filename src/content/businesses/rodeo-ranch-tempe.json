@@ -1,0 +1,52 @@
+{
+  "slug": "rodeo-ranch-tempe",
+  "name": "Rodeo Ranch",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Night club"
+  ],
+  "address": "501 S Mill Ave #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4253302,
+  "lng": -111.9398269,
+  "phone": "+14805348620",
+  "website": "http://www.therodeoranch.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=9341970516727836716",
+  "googleCid": "9341970516727836716",
+  "placeId": "ChIJByQOhScJK4cRLDC8Z7BYpYE",
+  "googleRating": 3.6,
+  "googleReviewCount": 145,
+  "description": "Lively bar & nightclub featuring a mechanical bull, live DJ, dancing, games, beers & bottle service.",
+  "amenities": [
+    "Outdoor seating",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "8:00 PM - 2:00 AM",
+    "sat": "8:00 PM - 2:00 AM",
+    "sun": "9:00 PM - 2:00 AM",
+    "mon": "9:00 PM - 2:00 AM",
+    "tue": "9:00 PM - 2:00 AM",
+    "wed": "9:00 PM - 2:00 AM",
+    "thu": "9:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2438983a236808d4a73be1",
+  "seededAt": "2026-06-06T15:11:20Z",
+  "updatedAt": "2026-06-06T15:11:20Z",
+  "source": "groundgame"
+}

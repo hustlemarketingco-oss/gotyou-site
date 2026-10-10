@@ -1,0 +1,37 @@
+{
+  "slug": "royal-thai-cuisine-express-st-george",
+  "name": "Royal Thai Cuisine Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "922 E Brigham Rd Suite 2B",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0531578,
+  "lng": -113.5648422,
+  "phone": "+14358793717",
+  "website": "http://royalthaicuisineexpress.com/",
+  "placeId": "ChIJKYTik_VRyoARySJBkkeW5g8",
+  "googleRating": 4.8,
+  "googleReviewCount": 307,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "tue": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "wed": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "thu": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "fri": "11:00 AM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "sat": "12:00 PM - 3:00 PM, 4:30 PM - 8:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8716aeae8485a3760c6",
+  "seededAt": "2025-12-17T18:37:37Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

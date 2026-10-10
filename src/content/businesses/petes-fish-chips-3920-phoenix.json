@@ -1,0 +1,38 @@
+{
+  "slug": "petes-fish-chips-3920-phoenix",
+  "name": "Pete's Fish & Chips",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Fish and chips restaurant"
+  ],
+  "address": "3920 S Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.4108063,
+  "lng": -112.073633,
+  "phone": "+16022681828",
+  "website": "http://www.petesfishandchips.com/",
+  "placeId": "ChIJkRWPmbcRK4cR2rFLHGn7Cvc",
+  "googleRating": 4.5,
+  "googleReviewCount": 2060,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cac9c8c56c2c9a9d97603",
+  "seededAt": "2026-06-25T04:20:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

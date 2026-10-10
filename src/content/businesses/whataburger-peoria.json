@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-peoria",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "8922 W Bell Rd",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.6385485,
+  "lng": -112.2511675,
+  "phone": "+16239333998",
+  "website": "https://locations.whataburger.com/az/peoria/8922-w-bell-rd.html/",
+  "placeId": "ChIJR4Msu5BCK4cRNktmskq7RIw",
+  "googleRating": 4.1,
+  "googleReviewCount": 4016,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d69b0c0c2bd38da6eff",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-06-12T14:53:29Z",
+  "source": "groundgame"
+}

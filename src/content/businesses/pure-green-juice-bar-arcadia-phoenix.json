@@ -1,0 +1,49 @@
+{
+  "slug": "pure-green-juice-bar-arcadia-phoenix",
+  "name": "Pure Green - Juice Bar Arcadia",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Acai shop",
+    "Brazilian restaurant",
+    "Meal takeaway",
+    "Grocery store",
+    "Food store"
+  ],
+  "address": "4730 E Indian School Rd #124",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4955396,
+  "lng": -111.9797407,
+  "phone": "+16026123558",
+  "website": "https://puregreenfranchise.com/arizona/arcadia",
+  "placeId": "ChIJIfvQxVoNK4cRSemsW9fr1-c",
+  "googleRating": 4.9,
+  "googleReviewCount": 436,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.facebook.com/PGArcadia",
+    "https://www.instagram.com/puregreenarcadia",
+    "https://twitter.com/thepuregreen"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "claimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276593ab365411d54e1476",
+  "seededAt": "2026-06-09T01:00:03Z",
+  "updatedAt": "2026-07-27T16:50:37Z",
+  "source": "groundgame"
+}

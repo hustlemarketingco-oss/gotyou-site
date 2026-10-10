@@ -1,0 +1,38 @@
+{
+  "slug": "the-lunch-bag-scottsdale",
+  "name": "The Lunch Bag",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "8989 E Vía Linda #116",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5683718,
+  "lng": -111.8880164,
+  "phone": "+14808606659",
+  "website": "http://thelunchbagaz.com/",
+  "placeId": "ChIJu66M3DN1K4cR0AEPMxDdUwA",
+  "googleRating": 4.6,
+  "googleReviewCount": 151,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 2:00 PM",
+    "tue": "10:30 AM - 2:00 PM",
+    "wed": "10:30 AM - 2:00 PM",
+    "thu": "10:30 AM - 2:00 PM",
+    "fri": "10:30 AM - 2:00 PM",
+    "sat": "10:30 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765351a6ea8fdfff6a2d9",
+  "seededAt": "2026-06-09T00:58:29Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

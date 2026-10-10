@@ -1,0 +1,38 @@
+{
+  "slug": "splash-drinks-treats-225-st-george",
+  "name": "Splash Drinks & Treats",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "225 S 700 E",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1039518,
+  "lng": -113.56569929999999,
+  "phone": "+14356527676",
+  "website": "https://www.fabuloussplash.com/",
+  "placeId": "ChIJx0NAme9byoARp4L6VZP1xsY",
+  "googleRating": 4.8,
+  "googleReviewCount": 23,
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b696b481ff684c9f91c",
+  "seededAt": "2025-12-16T15:31:53Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

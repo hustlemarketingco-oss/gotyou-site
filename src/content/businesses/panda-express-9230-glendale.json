@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-9230-glendale",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "9230 W Northern Ave Unit 101",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85305",
+  "lat": 33.5522931,
+  "lng": -112.25791489999999,
+  "phone": "+16238729873",
+  "website": "https://www.pandaexpress.com/locations/az/glendale/812",
+  "placeId": "ChIJwcQ8x8ZBK4cRSaJTY-iCSC4",
+  "googleRating": 3.5,
+  "googleReviewCount": 1042,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:30 AM - 11:00 PM",
+    "tue": "8:30 AM - 11:00 PM",
+    "wed": "8:30 AM - 11:00 PM",
+    "thu": "8:30 AM - 11:00 PM",
+    "fri": "8:30 AM - 11:30 PM",
+    "sat": "8:30 AM - 11:30 PM",
+    "sun": "8:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997b4b95a135ec75f286a",
+  "seededAt": "2026-06-10T16:58:28Z",
+  "updatedAt": "2026-06-10T16:58:28Z",
+  "source": "groundgame"
+}

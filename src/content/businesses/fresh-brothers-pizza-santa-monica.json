@@ -1,0 +1,39 @@
+{
+  "slug": "fresh-brothers-pizza-santa-monica",
+  "name": "Fresh Brothers Pizza Santa Monica",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "1447 Lincoln Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90401",
+  "lat": 34.0185768,
+  "lng": -118.4896998,
+  "phone": "+13106566888",
+  "website": "https://www.freshbrothers.com/locations/santa-monica/",
+  "placeId": "ChIJ57P5pM2kwoARzhgT997mwIA",
+  "googleRating": 4.2,
+  "googleReviewCount": 278,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50d671d2388b6a05ec3",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

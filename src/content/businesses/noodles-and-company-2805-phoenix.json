@@ -1,0 +1,43 @@
+{
+  "slug": "noodles-and-company-2805-phoenix",
+  "name": "Noodles and Company",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Salad shop",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store",
+    "Soup restaurant"
+  ],
+  "address": "2805 W Agua Fria Fwy",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.6676085,
+  "lng": -112.12066639999999,
+  "phone": "+16235870767",
+  "website": "https://locations.noodles.com/az/phoenix/2805-west-agua-fria-freeway",
+  "placeId": "ChIJYbKKxj9vK4cR0QboxfADYyo",
+  "googleRating": 3.8,
+  "googleReviewCount": 689,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ad41bb0d91d73e4aded",
+  "seededAt": "2026-06-18T17:28:52Z",
+  "updatedAt": "2026-06-18T17:28:53Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "sweet-repeats-childrens-resale-boutique-tucson",
+  "name": "Sweet Repeats Children's Resale Boutique",
+  "category": "Shopping",
+  "googleCategory": "Toy store",
+  "secondaryCategories": [
+    "Child care agency",
+    "Shoe store",
+    "Book store",
+    "Furniture store",
+    "Thrift store",
+    "Discount store",
+    "Clothing store",
+    "Home improvement store"
+  ],
+  "address": "7936 N Oracle Rd",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85704",
+  "lat": 32.3508346,
+  "lng": -110.9733089,
+  "phone": "+15202190675",
+  "website": "http://www.sweetrepeatstucson.com/",
+  "placeId": "ChIJCRzBpUpz1oYRfxs2yME5-RI",
+  "googleRating": 4,
+  "googleReviewCount": 104,
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3adb42f8a1d46228e2a30d",
+  "seededAt": "2026-06-23T19:15:14Z",
+  "updatedAt": "2026-06-23T19:15:14Z",
+  "source": "groundgame"
+}

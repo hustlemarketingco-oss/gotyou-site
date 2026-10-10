@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-7014-scottsdale",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "7014 E Camelback Rd #569",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5036188,
+  "lng": -111.9294673,
+  "phone": "+14804235526",
+  "website": "https://www.pandaexpress.com/locations/az/scottsdale/144",
+  "placeId": "ChIJP_K_-pcLK4cREqccsJOxHH0",
+  "googleRating": 3.2,
+  "googleReviewCount": 127,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:30 AM - 8:00 PM",
+    "tue": "9:30 AM - 8:00 PM",
+    "wed": "9:30 AM - 8:00 PM",
+    "thu": "9:30 AM - 8:00 PM",
+    "fri": "9:30 AM - 9:00 PM",
+    "sat": "9:30 AM - 9:00 PM",
+    "sun": "9:30 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29978e8400c19d6b8d070b",
+  "seededAt": "2026-06-10T16:57:50Z",
+  "updatedAt": "2026-06-12T22:08:06Z",
+  "source": "groundgame"
+}

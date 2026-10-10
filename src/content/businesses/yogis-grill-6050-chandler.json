@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-6050-chandler",
+  "name": "Yogis Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant"
+  ],
+  "address": "6050 W Chandler Blvd #3",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.305852,
+  "lng": -111.94636299999999,
+  "phone": "+14807854855",
+  "website": "http://www.yogisgrill.net/",
+  "placeId": "ChIJL3ZoxagGK4cRDQhQFW2usmQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 395,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:30 PM",
+    "tue": "10:00 AM - 8:30 PM",
+    "wed": "10:00 AM - 8:30 PM",
+    "thu": "10:00 AM - 8:30 PM",
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971adf1cc71b809c9cd12",
+  "seededAt": "2026-06-22T17:32:29Z",
+  "updatedAt": "2026-06-22T17:32:29Z",
+  "source": "groundgame"
+}

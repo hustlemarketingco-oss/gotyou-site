@@ -1,0 +1,33 @@
+{
+  "slug": "swig-peoria",
+  "name": "Swig",
+  "category": "Restaurant",
+  "address": "8320 W Cactus Rd",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85381",
+  "lat": 33.595866,
+  "lng": -112.238287,
+  "phone": "+16232502125",
+  "website": "https://swig.com/findaswig/peoria",
+  "placeId": "ChIJqzeiRTdpK4cRWxPu7WwyoNA",
+  "googleRating": 4.3,
+  "googleReviewCount": 448,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766008d78f0c0da7d81c3",
+  "seededAt": "2026-06-09T01:01:52Z",
+  "updatedAt": "2026-06-23T05:40:59Z",
+  "source": "groundgame"
+}

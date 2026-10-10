@@ -1,0 +1,40 @@
+{
+  "slug": "toms-bbq-chandler",
+  "name": "Tom's BBQ - Chandler",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Gift shop",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "2820 S Alma School Rd #6",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85286",
+  "lat": 33.2648321,
+  "lng": -111.8591694,
+  "phone": "+14808122733",
+  "website": "http://tomsbbq.com/",
+  "placeId": "ChIJ-1OLz3gAK4cRkp5PXd3-JlU",
+  "googleRating": 4.1,
+  "googleReviewCount": 502,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1c866d3546710d262ecb",
+  "seededAt": "2026-06-12T14:49:42Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

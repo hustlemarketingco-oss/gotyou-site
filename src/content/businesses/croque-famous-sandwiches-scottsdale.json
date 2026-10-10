@@ -1,0 +1,43 @@
+{
+  "slug": "croque-famous-sandwiches-scottsdale",
+  "name": "Croque Famous Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Korean barbecue restaurant",
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Fusion restaurant",
+    "Deli",
+    "Korean restaurant",
+    "Food store"
+  ],
+  "address": "13610 N Scottsdale Rd #25",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6103993,
+  "lng": -111.927591,
+  "phone": "+14806071285",
+  "website": "https://croquescottsdale.com/",
+  "placeId": "ChIJ8VWBs0J0K4cRQs_DGSQyk5g",
+  "googleRating": 4.7,
+  "googleReviewCount": 222,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765357134ad509edfd44d",
+  "seededAt": "2026-06-09T00:58:29Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

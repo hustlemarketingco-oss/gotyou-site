@@ -1,0 +1,37 @@
+{
+  "slug": "churros-don-lencho-phoenix",
+  "name": "Churros don Lencho",
+  "category": "Restaurant",
+  "googleCategory": "Food producer",
+  "address": "7836 W Lower Buckeye Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85043",
+  "lat": 33.4234549,
+  "lng": -112.2286232,
+  "googleMapsUrl": "https://www.google.com/maps?cid=6642597732806461086",
+  "googleCid": "6642597732806461086",
+  "placeId": "ChIJhVJZiCcVK4cRnoa-qXE_L1w",
+  "googleRating": 3.7,
+  "googleReviewCount": 11,
+  "description": "Located in Phoenix, Churros don Lencho is a food producer.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "fri": "6:00 PM - 11:00 PM",
+    "sat": "6:00 PM - 11:00 PM",
+    "sun": "6:00 PM - 10:00 PM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "6:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443b5cefb8a88a3dfc4d4",
+  "seededAt": "2026-06-06T15:58:45Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "olga-brow-studio-scottsdale",
+  "name": "Olga Brow Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Hair care",
+    "Massage",
+    "Beauty salon",
+    "Spa"
+  ],
+  "address": "7411 E 6th Ave #101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4987253,
+  "lng": -111.92080759999999,
+  "phone": "+14807255056",
+  "website": "http://olgabrowstudio.com/",
+  "placeId": "ChIJUcI8UqILK4cRyxge0r-qvLg",
+  "googleRating": 4.9,
+  "googleReviewCount": 728,
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ae05ef59e3a8247887fa7",
+  "seededAt": "2026-06-23T19:37:02Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

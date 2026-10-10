@@ -1,0 +1,44 @@
+{
+  "slug": "the-buffalo-spot-tempe",
+  "name": "The Buffalo Spot - Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Chicken wings restaurant"
+  ],
+  "address": "1537 W Broadway Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4071813,
+  "lng": -111.9656851,
+  "phone": "+14805341533",
+  "website": "https://www.thebuffalospot.com/location/the-buffalo-spot-tempe/",
+  "placeId": "ChIJhauEQjoPK4cRwBLCdBEaku0",
+  "googleRating": 3.8,
+  "googleReviewCount": 892,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a67a5c0bb290347aa2852fc",
+  "seededAt": "2026-07-27T18:38:56Z",
+  "updatedAt": "2026-08-05T19:58:19Z",
+  "source": "groundgame"
+}

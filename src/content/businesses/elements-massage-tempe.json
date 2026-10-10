@@ -1,0 +1,36 @@
+{
+  "slug": "elements-massage-tempe",
+  "name": "Elements Massage - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage"
+  ],
+  "address": "5116 S Rural Rd #125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3799813,
+  "lng": -111.9297261,
+  "phone": "+14803970701",
+  "website": "http://www.elementsmassage.com/tempe",
+  "placeId": "ChIJJ2xqnxgGK4cRkCZWEnxI9P4",
+  "googleRating": 4.6,
+  "googleReviewCount": 287,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a661091f73e7dc2dcb6",
+  "seededAt": "2026-06-22T18:09:42Z",
+  "updatedAt": "2026-06-22T18:09:43Z",
+  "source": "groundgame"
+}

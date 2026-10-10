@@ -1,0 +1,43 @@
+{
+  "slug": "red-canyon-cafe-scottsdale",
+  "name": "Red Canyon Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7240 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4933974,
+  "lng": -111.92501390000001,
+  "phone": "+14802007082",
+  "website": "http://redcanyoncafeaz.com/",
+  "placeId": "ChIJHYtNer8LK4cRQCD5z5cUHmM",
+  "googleRating": 4.7,
+  "googleReviewCount": 286,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "Closed",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c4e3737dee704f240adeb",
+  "seededAt": "2026-06-12T18:21:43Z",
+  "updatedAt": "2026-08-03T17:58:58Z",
+  "source": "groundgame"
+}

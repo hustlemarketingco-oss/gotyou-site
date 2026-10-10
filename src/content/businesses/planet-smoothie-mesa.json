@@ -1,0 +1,39 @@
+{
+  "slug": "planet-smoothie-mesa",
+  "name": "Planet Smoothie",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Health food restaurant"
+  ],
+  "address": "444 W Main St",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "phone": "+14809640104",
+  "priceRange": "$1–10",
+  "description": "Sleek chain for custom smoothies made with yogurt, sherbet & nutrition-oriented add-ins.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/planetsmoothie"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440b39b256789259c4232",
+  "seededAt": "2026-06-06T15:45:55Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

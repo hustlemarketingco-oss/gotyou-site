@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-peoria",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "24640 N Lake Pleasant Pkwy",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7075701,
+  "lng": -112.27411830000001,
+  "phone": "+16238252996",
+  "website": "https://www.tillys.com/store/?StoreID=0084",
+  "placeId": "ChIJsWbGMKZdK4cRVtw54Ahd1NE",
+  "googleRating": 3.6,
+  "googleReviewCount": 31,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34387bbd2a9ce54d216797",
+  "seededAt": "2026-06-18T18:27:07Z",
+  "updatedAt": "2026-06-18T18:27:08Z",
+  "source": "groundgame"
+}

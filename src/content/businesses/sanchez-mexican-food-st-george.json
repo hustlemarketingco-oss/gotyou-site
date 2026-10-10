@@ -1,0 +1,37 @@
+{
+  "slug": "sanchez-mexican-food-st-george",
+  "name": "Sanchez Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1418 W Sunset Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.123684499999996,
+  "lng": -113.61388649999999,
+  "phone": "+14356289087",
+  "website": "http://www.sanchezmexicanfood.com/",
+  "placeId": "ChIJ4auQ2oVEyoARi0ynXhznADM",
+  "googleRating": 4.6,
+  "googleReviewCount": 836,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e636160b703aed7a8a320",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

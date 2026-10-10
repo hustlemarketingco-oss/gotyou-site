@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-phoenix",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1743 E Camelback Rd Suite A-2",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.5086648,
+  "lng": -112.0438468,
+  "phone": "+14805008008",
+  "website": "https://locations.ikessandwich.com/az/phoenix/612/",
+  "placeId": "ChIJqW_G2_INK4cRuomUPODgo_E",
+  "googleRating": 4,
+  "googleReviewCount": 148,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2893523d124d1540240d90",
+  "seededAt": "2026-06-09T22:27:30Z",
+  "updatedAt": "2026-06-12T22:04:16Z",
+  "source": "groundgame"
+}

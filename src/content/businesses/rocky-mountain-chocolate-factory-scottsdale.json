@@ -1,0 +1,42 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-scottsdale",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Gift shop",
+    "Candy store",
+    "Chocolate factory",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7014 Camelback Rd Ste 2200",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5033968,
+  "lng": -111.9291355,
+  "phone": "+14809701707",
+  "website": "https://www.rmcf.com/pages/store-locator",
+  "placeId": "ChIJpye1-5cLK4cRvUdPbUrgO4c",
+  "googleRating": 4.3,
+  "googleReviewCount": 49,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a345133c201196f0c14c294",
+  "seededAt": "2026-06-18T20:12:35Z",
+  "updatedAt": "2026-06-18T20:12:36Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "fuji-vis-pizza-pasadena",
+  "name": "Fuji & Vi's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "950 E Colorado Blvd #203",
+  "city": "Pasadena",
+  "state": "CA",
+  "zip": "91106",
+  "lat": 34.1457487,
+  "lng": -118.13065239999997,
+  "phone": "+16263455231",
+  "website": "http://fvpizza.com/",
+  "placeId": "ChIJP34U07_DwoAR85NyWPCdaLw",
+  "googleRating": 4.8,
+  "googleReviewCount": 188,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "3:00 PM - 8:00 PM",
+    "wed": "3:00 PM - 8:00 PM",
+    "thu": "3:00 PM - 8:00 PM",
+    "fri": "11:30 AM - 8:00 PM",
+    "sat": "11:30 AM - 8:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d49cdead776e61f77c",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2026-09-22T15:30:38Z",
+  "source": "groundgame"
+}

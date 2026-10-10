@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-mesa",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "323 E Brown Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4343612,
+  "lng": -111.82410899999999,
+  "phone": "+14806497999",
+  "website": "https://www.hungryhowies.com/stores/az/mesa/323-e-brown-rd-suite-207",
+  "placeId": "ChIJ5-ZBV3SnK4cRp-ga403KXSc",
+  "googleRating": 3.8,
+  "googleReviewCount": 239,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cb98a120997d9abd7b7c",
+  "seededAt": "2026-06-16T22:18:00Z",
+  "updatedAt": "2026-06-16T22:18:01Z",
+  "source": "groundgame"
+}

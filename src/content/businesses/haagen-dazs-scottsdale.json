@@ -1,0 +1,36 @@
+{
+  "slug": "haagen-dazs-scottsdale",
+  "name": "Häagen-Dazs",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "4020 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14805977064",
+  "priceRange": "$$",
+  "description": "Counter-service chain offering scoops of ice cream & sorbet plus sundaes, shakes & smoothies.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/HaagenDazsUS"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243a6023970188105feb6f",
+  "seededAt": "2026-06-06T15:18:56Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

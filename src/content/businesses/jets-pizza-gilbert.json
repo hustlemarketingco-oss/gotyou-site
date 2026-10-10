@@ -1,0 +1,40 @@
+{
+  "slug": "jets-pizza-gilbert",
+  "name": "Jet's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Pizza takeout"
+  ],
+  "address": "1458 N Higley Rd STE 101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14806744400",
+  "priceRange": "$10–20",
+  "description": "Counter-serve chain offering Detroit-style pizza with flavored crusts, plus wings & subs.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/JetsPizza"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2644cfafdd54dd40292322",
+  "seededAt": "2026-06-08T04:27:59Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

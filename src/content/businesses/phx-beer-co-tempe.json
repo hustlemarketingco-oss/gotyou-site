@@ -1,0 +1,53 @@
+{
+  "slug": "phx-beer-co-tempe",
+  "name": "PHX Beer Co.",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "1520 W Mineral Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3568521,
+  "lng": -111.9648248,
+  "phone": "+16022755049",
+  "website": "https://www.phxbeerco.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=119970887258830271",
+  "googleCid": "119970887258830271",
+  "placeId": "ChIJUXXpRHEOK4cRv3Vz5uI4qgE",
+  "googleRating": 4.4,
+  "googleReviewCount": 230,
+  "priceRange": "$",
+  "description": "Microbrewery in an old warehouse with tours & tastings, plus a no-frills taproom serving pizza.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "3:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 7:00 PM",
+    "mon": "3:00 PM - 8:00 PM",
+    "tue": "3:00 PM - 8:00 PM",
+    "wed": "3:00 PM - 8:00 PM",
+    "thu": "3:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24379f4646a6c6395e69ab",
+  "seededAt": "2026-06-06T15:07:11Z",
+  "updatedAt": "2026-06-06T15:07:11Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "fatcats-gilbert",
+  "name": "FatCats Gilbert",
+  "category": "Fun & Activities",
+  "googleCategory": "Video arcade",
+  "secondaryCategories": [
+    "Amusement center",
+    "Dinner theater",
+    "Miniature golf course",
+    "Movie theater",
+    "Bowling alley"
+  ],
+  "address": "4321 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14804983325",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/FatCatsFun"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2645cdfc2e3edd84476027",
+  "seededAt": "2026-06-08T04:32:13Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "la-locanda-italian-bistro-scottsdale",
+  "name": "La Locanda Italian Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3915 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4929305,
+  "lng": -111.92587619999999,
+  "phone": "+14803933606",
+  "website": "https://www.lalocandaaz.com/",
+  "placeId": "ChIJZ0sa_K0LK4cR61GfAKOEaAc",
+  "googleRating": 4.2,
+  "googleReviewCount": 224,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2c5cfdda58f25fd2f70",
+  "seededAt": "2026-06-10T17:45:41Z",
+  "updatedAt": "2026-07-02T20:51:00Z",
+  "source": "groundgame"
+}

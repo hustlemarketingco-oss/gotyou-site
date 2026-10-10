@@ -1,0 +1,43 @@
+{
+  "slug": "moxies-scottsdale-restaurant-scottsdale",
+  "name": "Moxies Scottsdale Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Brunch restaurant",
+    "Steak house",
+    "Family restaurant",
+    "Bar and grill",
+    "Cocktail bar",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "7014 E Camelback Rd Unit B120",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.503406399999996,
+  "lng": -111.927585,
+  "phone": "+16026132356",
+  "website": "https://moxies.com/restaurants/scottsdale",
+  "placeId": "ChIJR99YFRALK4cRaoEgMMuCrck",
+  "googleRating": 4.6,
+  "googleReviewCount": 936,
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2753652689b16c3d22b22d",
+  "seededAt": "2026-06-08T23:42:29Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "jimmy-johns-phoenix",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "4740 S 48th St #107",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.404674199999995,
+  "lng": -111.9791831,
+  "phone": "+16024371800",
+  "website": "https://locations.jimmyjohns.com/az/phoenix/sandwiches-4063.html&y_source=1_MjAzNDczNDc3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJxcRH9hYPK4cR-pkaWDzSk-w",
+  "googleRating": 3.6,
+  "googleReviewCount": 363,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a35791d6cd90c60a18e4498",
+  "seededAt": "2026-06-19T17:15:09Z",
+  "updatedAt": "2026-06-19T17:15:09Z",
+  "source": "groundgame"
+}

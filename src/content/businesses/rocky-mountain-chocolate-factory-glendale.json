@@ -1,0 +1,40 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-glendale",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7700 W Arrowhead Towne Center #102",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6420149,
+  "lng": -112.2265675,
+  "phone": "+16239790677",
+  "website": "http://www.rmcf.com/",
+  "placeId": "ChIJa-IURyVoK4cRk44M4tgiVRU",
+  "googleRating": 4.1,
+  "googleReviewCount": 78,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34513c9af7c456efd1303f",
+  "seededAt": "2026-06-18T20:12:44Z",
+  "updatedAt": "2026-06-18T20:12:45Z",
+  "source": "groundgame"
+}

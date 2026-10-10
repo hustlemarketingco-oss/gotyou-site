@@ -1,0 +1,41 @@
+{
+  "slug": "evo-old-town-scottsdale",
+  "name": "EVO Old Town Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar and grill",
+    "Lounge bar",
+    "Bar",
+    "Night club"
+  ],
+  "address": "4175 N Goldwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4965821,
+  "lng": -111.9300123,
+  "phone": "+14802659814",
+  "website": "https://www.evoscottsdale.com/",
+  "placeId": "ChIJp6P03pULK4cR6rnS2gZRykc",
+  "googleRating": 4.4,
+  "googleReviewCount": 1646,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 2:00 AM",
+    "tue": "4:00 PM - 2:00 AM",
+    "wed": "4:00 PM - 2:00 AM",
+    "thu": "4:00 PM - 2:00 AM",
+    "fri": "4:00 PM - 2:00 AM",
+    "sat": "4:00 PM - 2:00 AM",
+    "sun": "4:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2753586eaf4b67bfb47209",
+  "seededAt": "2026-06-08T23:42:16Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

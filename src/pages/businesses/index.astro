@@ -17,6 +17,7 @@ const searchIndex = allBusinesses.map((b) => ({
   category: b.data.category,
   googleCategory: b.data.googleCategory ?? b.data.category,
   city: b.data.city,
+  state: b.data.state,
   address: b.data.address,
   claimStatus: b.data.claimStatus,
   rating: b.data.googleRating ?? 0,
@@ -25,8 +26,9 @@ const searchIndex = allBusinesses.map((b) => ({
   photo: sizedPhoto(b.data.photoUrl, 640, 420) ?? '',
 }));
 
-const cities = [...new Set(allBusinesses.map((b) => b.data.city))].sort();
-const cityGroups = byCity(allBusinesses.map((b) => b.data));
+const cities = [...new Set(allBusinesses.map((b) => `${b.data.city}, ${b.data.state}`))].sort();
+const allCities = byCity(allBusinesses.map((b) => b.data));
+const cityGroups = allCities.slice(0, 24);
 ---
 
 <BaseLayout
@@ -69,15 +71,16 @@ const cityGroups = byCity(allBusinesses.map((b) => b.data));
       <div class="browse-grid">
         {cityGroups.map((c) => (
           <div>
-            <a href={cityPath(c.city)} class="city-link">{c.city} <small>{c.items.length}</small></a>
+            <a href={cityPath(c.city, c.state)} class="city-link">{c.city}, {c.state} <small>{c.items.length}</small></a>
             <ul>
-              {categoriesIn(c.items).filter((g) => g.hasPage).map((g) => (
-                <li><a href={categoryPath(c.city, g.category)}>{plural(g.category)}</a></li>
+              {categoriesIn(c.items).filter((g) => g.hasPage).slice(0, 5).map((g) => (
+                <li><a href={categoryPath(c.city, c.state, g.category)}>{plural(g.category)}</a></li>
               ))}
             </ul>
           </div>
         ))}
       </div>
+      <p class="all-cities"><a href="/explore/">All {allCities.length} cities <i class="ti ti-arrow-right"></i></a></p>
     </div>
   </section>
 
@@ -198,6 +201,13 @@ const cityGroups = byCity(allBusinesses.map((b) => b.data));
   .browse h2 {
     font-size: 24px;
     margin-bottom: 18px;
+  }
+  .all-cities {
+    margin-top: 28px;
+    font-weight: 600;
+  }
+  .all-cities a {
+    color: var(--blue);
   }
   .browse-grid {
     display: grid;

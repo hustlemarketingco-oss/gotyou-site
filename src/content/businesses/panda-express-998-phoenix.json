@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-998-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "998 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.4950952,
+  "lng": -112.06128869999999,
+  "phone": "+16022796688",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/1928",
+  "placeId": "ChIJJWEmSI8SK4cR8lVBC7ZAzW0",
+  "googleRating": 3.7,
+  "googleReviewCount": 2500,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 12:30 AM",
+    "tue": "8:00 AM - 12:30 AM",
+    "wed": "8:00 AM - 12:30 AM",
+    "thu": "8:00 AM - 12:30 AM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997a1f2927bdd851f423c",
+  "seededAt": "2026-06-10T16:58:09Z",
+  "updatedAt": "2026-06-12T22:07:59Z",
+  "source": "groundgame"
+}

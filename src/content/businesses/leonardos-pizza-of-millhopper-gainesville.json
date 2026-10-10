@@ -1,0 +1,37 @@
+{
+  "slug": "leonardos-pizza-of-millhopper-gainesville",
+  "name": "Leonardo's Pizza of Millhopper",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "4131 NW 16th Blvd",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32605",
+  "lat": 29.673191900000003,
+  "lng": -82.3881016,
+  "phone": "+13523762001",
+  "website": "https://www.leonardosmillhopper.com/",
+  "placeId": "ChIJiToRba2k6IgRmDoNIKonDVw",
+  "googleRating": 4.6,
+  "googleReviewCount": 914,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 7:30 PM",
+    "tue": "11:00 AM - 7:30 PM",
+    "wed": "11:00 AM - 7:30 PM",
+    "thu": "11:00 AM - 7:30 PM",
+    "fri": "11:00 AM - 8:30 PM",
+    "sat": "11:00 AM - 8:30 PM",
+    "sun": "11:00 AM - 7:30 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f305730cdcf65616b",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

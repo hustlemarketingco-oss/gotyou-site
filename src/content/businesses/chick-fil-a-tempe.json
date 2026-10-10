@@ -1,0 +1,40 @@
+{
+  "slug": "chick-fil-a-tempe",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "1160 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.422399399999996,
+  "lng": -111.91991279999999,
+  "phone": "+14808340573",
+  "website": "https://www.chick-fil-a.com/locations/az/university-at-dorsey",
+  "placeId": "ChIJDzA_-_YJK4cRxXRVb2NLx2w",
+  "googleRating": 4,
+  "googleReviewCount": 57,
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b19ae813508adaae344",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

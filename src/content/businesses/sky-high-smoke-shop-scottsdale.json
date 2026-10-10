@@ -1,0 +1,50 @@
+{
+  "slug": "sky-high-smoke-shop-scottsdale",
+  "name": "Sky High Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Tobacco shop",
+  "secondaryCategories": [
+    "Cigar shop",
+    "Vaporizer store"
+  ],
+  "address": "8134 E Indian School Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4952643,
+  "lng": -111.9051829,
+  "phone": "+14803068478",
+  "website": "https://shopskyhigh.com/old-town/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=18425685776139701154",
+  "googleCid": "18425685776139701154",
+  "placeId": "ChIJsbJLpsALK4cRokvGBZcvtf8",
+  "googleRating": 4.4,
+  "googleReviewCount": 241,
+  "description": "Located in Scottsdale, Sky High Smoke Shop is a tobacco shop & cigar shop. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 1:00 AM",
+    "mon": "8:00 AM - 1:00 AM",
+    "tue": "8:00 AM - 1:00 AM",
+    "wed": "8:00 AM - 1:00 AM",
+    "thu": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c5cdb147fc0ce1d3887",
+  "seededAt": "2026-06-06T15:27:24Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "hot-n-juicy-crawfish-glendale",
+  "name": "Hot N Juicy Crawfish",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "6751 N Sunset Blvd Ste E101",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85305",
+  "lat": 33.5342637,
+  "lng": -112.26161599999999,
+  "phone": "+16238722984",
+  "website": "http://www.hotnjuicycrawfish.com/",
+  "placeId": "ChIJLWqEeDVAK4cR9AEMx7xIhjc",
+  "googleRating": 3.9,
+  "googleReviewCount": 2650,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "11:30 AM - 11:00 PM",
+    "sun": "11:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6c465fdd3e7729c1bea",
+  "seededAt": "2026-07-02T19:06:44Z",
+  "updatedAt": "2026-07-02T19:06:45Z",
+  "source": "groundgame"
+}

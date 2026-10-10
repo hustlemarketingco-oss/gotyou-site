@@ -1,0 +1,42 @@
+{
+  "slug": "taco-bell-9059-scottsdale",
+  "name": "Taco Bell",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "9059 E Indian Bend Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "phone": "+14805961260",
+  "priceRange": "$10–20",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/tacobell"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244013acd57b1f30c51ddb",
+  "seededAt": "2026-06-06T15:43:15Z",
+  "updatedAt": "2026-06-12T22:06:00Z",
+  "source": "groundgame"
+}

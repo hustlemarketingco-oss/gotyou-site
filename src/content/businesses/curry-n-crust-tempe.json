@@ -1,0 +1,45 @@
+{
+  "slug": "curry-n-crust-tempe",
+  "name": "Curry N Crust",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Indian restaurant",
+    "Italian restaurant"
+  ],
+  "address": "555 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.434387199999996,
+  "lng": -111.9255771,
+  "phone": "+14805823086",
+  "website": "https://curryncrustaz.com/",
+  "placeId": "ChIJrxQbLT4JK4cRcnn9QhIIerY",
+  "googleRating": 4.4,
+  "googleReviewCount": 313,
+  "priceRange": "$$",
+  "amenities": [
+    "Google Pay",
+    "Cash",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "9:30 AM - 12:00 AM",
+    "tue": "9:30 AM - 12:00 AM",
+    "wed": "9:30 AM - 12:00 AM",
+    "thu": "9:30 AM - 12:00 AM",
+    "fri": "9:30 AM - 12:00 AM",
+    "sat": "9:30 AM - 12:00 AM",
+    "sun": "9:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63d829334b7b39a9982f",
+  "seededAt": "2026-06-12T19:54:00Z",
+  "updatedAt": "2026-09-14T22:10:01Z",
+  "source": "groundgame"
+}

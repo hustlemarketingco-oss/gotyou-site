@@ -1,0 +1,40 @@
+{
+  "slug": "pizza-guys-vacaville",
+  "name": "Pizza Guys",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Vegetarian restaurant",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "1110 Marshall Rd E",
+  "city": "Vacaville",
+  "state": "CA",
+  "zip": "95687",
+  "lat": 38.3467481,
+  "lng": -121.97310129999998,
+  "phone": "+17074521200",
+  "website": "http://117.pizzaguys.com/",
+  "placeId": "ChIJ8TeMy0E9hYARedeDQ-ElljQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 189,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646eef00ffcc51da35de4",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

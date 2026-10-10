@@ -1,0 +1,40 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-peoria",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "9918 W Happy Valley Rd",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.711601,
+  "lng": -112.27291969999999,
+  "phone": "+16235661400",
+  "website": "https://www.rmcf.com/",
+  "placeId": "ChIJk0DIlKVdK4cRaNfo2pJ0JzI",
+  "googleRating": 4.1,
+  "googleReviewCount": 17,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34513e9d26633357a8786a",
+  "seededAt": "2026-06-18T20:12:46Z",
+  "updatedAt": "2026-06-18T20:12:46Z",
+  "source": "groundgame"
+}

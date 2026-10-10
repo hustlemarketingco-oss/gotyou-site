@@ -1,0 +1,39 @@
+{
+  "slug": "the-pizza-press-irvine",
+  "name": "The Pizza Press",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Meal takeaway",
+    "Food delivery"
+  ],
+  "address": "4610 Barranca Pkwy",
+  "city": "Irvine",
+  "state": "CA",
+  "zip": "92604",
+  "lat": 33.6775775,
+  "lng": -117.79986960000001,
+  "phone": "+19497751421",
+  "website": "https://www.thepizzapress.com/location/irvine-ca/",
+  "placeId": "ChIJdT3u6wnd3IARQDEZRpX_0nY",
+  "googleRating": 4,
+  "googleReviewCount": 294,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80fb8a05dd670064a99",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

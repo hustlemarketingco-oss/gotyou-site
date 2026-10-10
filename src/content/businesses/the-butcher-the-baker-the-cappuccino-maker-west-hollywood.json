@@ -1,0 +1,42 @@
+{
+  "slug": "the-butcher-the-baker-the-cappuccino-maker-west-hollywood",
+  "name": "The Butcher, The Baker, The Cappuccino Maker",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Bakery",
+    "Brunch restaurant",
+    "Cafe",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "8653 Sunset Blvd",
+  "city": "West Hollywood",
+  "state": "CA",
+  "zip": "90069",
+  "lat": 34.0921328,
+  "lng": -118.38058029999999,
+  "phone": "+13103606900",
+  "website": "https://www.bbcmcafe.com/",
+  "placeId": "ChIJOd2I0Ly-woAR_hEFYtqTFiQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 3329,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1ac09050cfc24e970522",
+  "seededAt": "2026-02-12T18:24:00Z",
+  "updatedAt": "2026-02-12T18:24:00Z",
+  "source": "groundgame"
+}

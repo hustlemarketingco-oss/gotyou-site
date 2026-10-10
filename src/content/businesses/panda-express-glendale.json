@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-glendale",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "4309 W Bethany Home Rd SPACE 1181",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.522704499999996,
+  "lng": -112.1520334,
+  "phone": "+16234358882",
+  "website": "https://www.pandaexpress.com/locations/az/glendale/865",
+  "placeId": "ChIJE_VUYFBrK4cRWMIeDK9s6Pg",
+  "googleRating": 3.7,
+  "googleReviewCount": 1870,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 11:30 PM",
+    "tue": "9:00 AM - 11:30 PM",
+    "wed": "9:00 AM - 11:30 PM",
+    "thu": "9:00 AM - 11:30 PM",
+    "fri": "9:00 AM - 11:30 PM",
+    "sat": "9:00 AM - 11:30 PM",
+    "sun": "9:00 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997aa5f118d4dff94c9bf",
+  "seededAt": "2026-06-10T16:58:18Z",
+  "updatedAt": "2026-06-10T16:58:19Z",
+  "source": "groundgame"
+}

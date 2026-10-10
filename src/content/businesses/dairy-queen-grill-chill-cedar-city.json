@@ -1,0 +1,40 @@
+{
+  "slug": "dairy-queen-grill-chill-cedar-city",
+  "name": "Dairy Queen Grill & Chill",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1102 W 200 N",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.6814768,
+  "lng": -113.0777264,
+  "phone": "+14352332037",
+  "website": "https://www.dairyqueen.com/en-us/locations/ut/cedar-city/1102-w-200-n/13353/&y_source=1_ODk5Nzk3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJmXcKdZlhtYARbgKJva4Y2h0",
+  "googleRating": 4.2,
+  "googleReviewCount": 695,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:30 PM",
+    "sat": "10:30 AM - 10:30 PM",
+    "sun": "11:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f0d8a5bb8c52c2ffc8",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

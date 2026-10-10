@@ -1,0 +1,36 @@
+{
+  "slug": "eldorado-park-scottsdale",
+  "name": "Eldorado Park",
+  "category": "Fun & Activities",
+  "googleCategory": "Tourist attraction",
+  "secondaryCategories": [
+    "Park"
+  ],
+  "address": "2311 N Miller Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.467058,
+  "lng": -111.9146375,
+  "phone": "+14803122483",
+  "website": "http://www.scottsdaleaz.gov/parks/eldorado-park",
+  "placeId": "ChIJg_zQ0HwJK4cRZs2E5Kruxdg",
+  "googleRating": 4.6,
+  "googleReviewCount": 2423,
+  "hours": {
+    "mon": "6:00 AM - 10:30 PM",
+    "tue": "6:00 AM - 10:30 PM",
+    "wed": "6:00 AM - 10:30 PM",
+    "thu": "6:00 AM - 10:30 PM",
+    "fri": "6:00 AM - 10:30 PM",
+    "sat": "6:00 AM - 10:30 PM",
+    "sun": "6:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39794c3043162f0cd54934",
+  "seededAt": "2026-06-22T18:05:00Z",
+  "updatedAt": "2026-06-22T18:05:01Z",
+  "source": "groundgame"
+}

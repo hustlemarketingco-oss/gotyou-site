@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-gilbert",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2425 S Gilbert Rd #101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3059273,
+  "lng": -111.7890872,
+  "phone": "+14806873303",
+  "website": "https://www.eatmesquite.com/",
+  "placeId": "ChIJo6btr4WrK4cRAgJwYqNTghE",
+  "googleRating": 4.3,
+  "googleReviewCount": 404,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9ece4466011be20c342",
+  "seededAt": "2026-06-17T17:31:24Z",
+  "updatedAt": "2026-06-17T17:31:25Z",
+  "source": "groundgame"
+}

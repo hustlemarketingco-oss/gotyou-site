@@ -1,0 +1,41 @@
+{
+  "slug": "postino-arcadia-phoenix",
+  "name": "Postino Arcadia",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "3939 E Campbell Ave Ste 100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.5021572,
+  "lng": -111.996314,
+  "phone": "+16028523939",
+  "website": "https://www.postino.com/locations/postino-arcadia",
+  "placeId": "ChIJ5fTXDP8MK4cRjIKzek6L6NM",
+  "googleRating": 4.6,
+  "googleReviewCount": 1358,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a00662d7a6694edb24936",
+  "seededAt": "2026-06-23T03:41:26Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

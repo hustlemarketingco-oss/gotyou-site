@@ -1,0 +1,41 @@
+{
+  "slug": "bosa-donuts-3722-phoenix",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3722 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4954596,
+  "lng": -112.00109599999999,
+  "phone": "+16029555575",
+  "website": "http://bosadonutsaz.com/locations/",
+  "placeId": "ChIJc39QQ6sNK4cRzj1rkZTNMIA",
+  "googleRating": 4.4,
+  "googleReviewCount": 1287,
+  "priceRange": "$",
+  "hours": {
+    "mon": "4:00 AM - 12:00 AM",
+    "tue": "4:00 AM - 12:00 AM",
+    "wed": "4:00 AM - 12:00 AM",
+    "thu": "4:00 AM - 12:00 AM",
+    "fri": "4:00 AM - 12:00 AM",
+    "sat": "4:00 AM - 12:00 AM",
+    "sun": "4:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb68837dcbef4784e3b6",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

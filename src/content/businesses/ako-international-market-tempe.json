@@ -1,0 +1,42 @@
+{
+  "slug": "ako-international-market-tempe",
+  "name": "Ako International Market",
+  "category": "Restaurant",
+  "googleCategory": "Health food store",
+  "secondaryCategories": [
+    "Jewelry store",
+    "Supermarket",
+    "Market",
+    "Clothing store",
+    "Home goods store",
+    "Grocery store",
+    "Food store"
+  ],
+  "address": "1400 S McClintock Dr #14",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4131898,
+  "lng": -111.9096649,
+  "phone": "+14803179000",
+  "website": "http://akointernationalmarket.com/",
+  "placeId": "ChIJAwyhYfQIK4cRLArSbUt7-t8",
+  "googleRating": 4.6,
+  "googleReviewCount": 196,
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a72311796bbe6a5599da83e",
+  "seededAt": "2026-08-04T18:36:07Z",
+  "updatedAt": "2026-08-04T18:36:08Z",
+  "source": "groundgame"
+}

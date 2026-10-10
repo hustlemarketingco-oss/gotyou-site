@@ -1,0 +1,62 @@
+{
+  "slug": "tavern-grille-scottsdale",
+  "name": "Tavern Grille Scottsdale",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Bar",
+    "Bar & grill"
+  ],
+  "address": "8880 E Vía Linda",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5692394,
+  "lng": -111.8902434,
+  "phone": "+14806145254",
+  "website": "http://www.taverngrillescottsdale.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=5736393336457586493",
+  "googleCid": "5736393336457586493",
+  "placeId": "ChIJ86AodjF1K4cRPed4x1jDm08",
+  "googleRating": 4.5,
+  "googleReviewCount": 1412,
+  "priceRange": "$20–30",
+  "description": "Lively sports bar with a hunting lodge vibe & a sizable menu of American comfort food.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/taverngrillescottsdale"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM",
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b7a0790eda30bf174bc",
+  "seededAt": "2026-06-06T15:23:38Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

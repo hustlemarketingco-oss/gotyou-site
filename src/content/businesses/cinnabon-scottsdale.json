@@ -1,0 +1,37 @@
+{
+  "slug": "cinnabon-scottsdale",
+  "name": "Cinnabon",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "7014 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.503947499999995,
+  "lng": -111.9280498,
+  "phone": "+14809416900",
+  "website": "https://locations.cinnabon.com/az/scottsdale/7014-e-camelback-road",
+  "placeId": "ChIJy8FKHJgLK4cRjGpW_ZJlU7Y",
+  "googleRating": 3.4,
+  "googleReviewCount": 38,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27670ddf62953e0a5a5ee6",
+  "seededAt": "2026-06-09T01:06:21Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

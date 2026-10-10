@@ -1,0 +1,37 @@
+{
+  "slug": "pizza-to-the-rescue-phoenix",
+  "name": "Pizza To The Rescue",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2601 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.4945159,
+  "lng": -112.0257465,
+  "phone": "+16023144832",
+  "website": "https://pizzatotherescuephx.com/",
+  "placeId": "ChIJRYGi2fcNK4cRysk0qTKhXgE",
+  "googleRating": 4.9,
+  "googleReviewCount": 2012,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb1923106c110f6d3344",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

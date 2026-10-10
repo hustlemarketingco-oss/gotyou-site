@@ -1,0 +1,40 @@
+{
+  "slug": "bee-sweet-st-george",
+  "name": "Bee Sweet",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Dessert shop",
+    "Confectionery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2 W St George Blvd #46",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.110459999999996,
+  "lng": -113.5841147,
+  "phone": "+14356802288",
+  "website": "http://beesweetutah.com/",
+  "placeId": "ChIJGSN0zO1FyoARHpjBg-Nzw24",
+  "googleRating": 4.5,
+  "googleReviewCount": 137,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "3:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7da6f9c4a7b63458ab",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

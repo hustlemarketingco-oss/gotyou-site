@@ -1,0 +1,37 @@
+{
+  "slug": "vaqueros-carne-asada-tempe",
+  "name": "Vaqueros Carne Asada",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Latin american restaurant"
+  ],
+  "address": "2602 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393145,
+  "lng": -111.97623399999999,
+  "phone": "+16024546478",
+  "website": "http://vaquerosinc.com/",
+  "placeId": "ChIJH6mtB2oPK4cRdVcvrQ3rrKE",
+  "googleRating": 4.1,
+  "googleReviewCount": 1456,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 AM",
+    "tue": "5:00 AM - 2:00 AM",
+    "wed": "5:00 AM - 2:00 AM",
+    "thu": "5:00 AM - 2:00 AM",
+    "fri": "5:00 AM - 4:00 AM",
+    "sat": "5:00 AM - 4:00 AM",
+    "sun": "5:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d0b1a001b81bc264f10",
+  "seededAt": "2026-06-12T14:51:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

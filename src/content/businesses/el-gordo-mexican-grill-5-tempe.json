@@ -1,0 +1,37 @@
+{
+  "slug": "el-gordo-mexican-grill-5-tempe",
+  "name": "El Gordo Mexican Grill #5",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1795 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421568,
+  "lng": -111.909537,
+  "phone": "+14802397029",
+  "website": "https://elgordomexicangrill.com/",
+  "placeId": "ChIJB19HtrMJK4cRvHhzUIAyNHI",
+  "googleRating": 4.1,
+  "googleReviewCount": 338,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 10:45 PM",
+    "tue": "6:00 AM - 10:45 PM",
+    "wed": "6:00 AM - 10:45 PM",
+    "thu": "6:00 AM - 10:45 PM",
+    "fri": "6:00 AM - 10:45 PM",
+    "sat": "6:00 AM - 10:45 PM",
+    "sun": "7:00 AM - 10:20 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5142ab990e7bc5bf72ee7f",
+  "seededAt": "2026-07-10T19:06:19Z",
+  "updatedAt": "2026-07-13T19:02:54Z",
+  "source": "groundgame"
+}

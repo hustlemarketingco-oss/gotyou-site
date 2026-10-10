@@ -1,0 +1,39 @@
+{
+  "slug": "the-sugar-cookie-st-george",
+  "name": "The Sugar Cookie",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "180 S River Rd STE 105",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1050505,
+  "lng": -113.55654899999999,
+  "phone": "+14356743456",
+  "website": "http://thesugarcookieutah.com/",
+  "placeId": "ChIJ0bViBSdbyoARTnz1P-7DrcY",
+  "googleRating": 4.5,
+  "googleReviewCount": 204,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f89465107130139b0abc",
+  "seededAt": "2025-12-17T18:38:12Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

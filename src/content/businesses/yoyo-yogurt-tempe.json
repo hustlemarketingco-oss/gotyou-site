@@ -1,0 +1,50 @@
+{
+  "slug": "yoyo-yogurt-tempe",
+  "name": "Yoyo Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Frozen yogurt shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Ice cream shop"
+  ],
+  "address": "5000 S Arizona Mills Cir #125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.385155,
+  "lng": -111.963748,
+  "phone": "+14804158442",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3327071497229861055",
+  "googleCid": "3327071497229861055",
+  "placeId": "ChIJA0lE4VkPK4cRv4C2LuYhLC4",
+  "googleRating": 3.5,
+  "googleReviewCount": 90,
+  "priceRange": "$",
+  "description": "Located in Tempe, Yoyo Yogurt is a frozen yogurt shop & dessert shop with takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM",
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24364aafc68fd23f42fdad",
+  "seededAt": "2026-06-06T15:01:30Z",
+  "updatedAt": "2026-06-06T15:06:11Z",
+  "source": "groundgame"
+}

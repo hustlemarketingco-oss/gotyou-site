@@ -1,0 +1,39 @@
+{
+  "slug": "junn-all-you-can-eat-sushi-tempe",
+  "name": "Junn All You Can Eat Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Meal takeaway",
+    "Japanese restaurant"
+  ],
+  "address": "1320 E Broadway Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4083138,
+  "lng": -111.9172346,
+  "phone": "+14806596114",
+  "website": "https://www.junnsushi.com/",
+  "placeId": "ChIJR8SfOekJK4cRx7JfG8l8gno",
+  "googleRating": 4.3,
+  "googleReviewCount": 2219,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dbf913c3a264e81b18a",
+  "seededAt": "2026-06-12T14:54:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "krispy-kreme-6626-mesa",
+  "name": "Krispy Kreme",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Dessert shop",
+    "Fast food restaurant"
+  ],
+  "address": "6626 E Superstition Springs Blvd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "phone": "+14803253663",
+  "priceRange": "$10–20",
+  "description": "Longtime chain serving a variety of donut flavors & shapes, plus coffee & frozen drinks.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/krispykreme"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b921b224acef75b707a",
+  "seededAt": "2026-06-08T04:56:50Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

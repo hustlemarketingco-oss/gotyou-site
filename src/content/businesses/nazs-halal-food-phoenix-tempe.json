@@ -1,0 +1,36 @@
+{
+  "slug": "nazs-halal-food-phoenix-tempe",
+  "name": "Naz's Halal Food - Phoenix",
+  "category": "Restaurant",
+  "googleCategory": "Halal restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "960 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4226436,
+  "lng": -111.95121669999999,
+  "phone": "+15205400017",
+  "website": "https://nazshalal.com/",
+  "placeId": "ChIJQQQp7FgJK4cRJlElVp5S4pk",
+  "googleRating": 4.7,
+  "googleReviewCount": 157,
+  "hours": {
+    "mon": "10:30 AM - 2:00 AM",
+    "tue": "10:30 AM - 2:00 AM",
+    "wed": "10:30 AM - 2:00 AM",
+    "thu": "10:30 AM - 2:00 AM",
+    "fri": "10:30 AM - 4:00 AM",
+    "sat": "10:30 AM - 4:00 AM",
+    "sun": "10:30 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4d4458a351b1a69d3b12c7",
+  "seededAt": "2026-07-07T18:24:24Z",
+  "updatedAt": "2026-08-05T22:04:00Z",
+  "source": "groundgame"
+}

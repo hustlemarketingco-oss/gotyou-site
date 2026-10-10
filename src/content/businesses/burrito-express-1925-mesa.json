@@ -1,0 +1,35 @@
+{
+  "slug": "burrito-express-1925-mesa",
+  "name": "Burrito Express",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1925 E Brown Rd #8",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85203",
+  "lat": 33.4365265,
+  "lng": -111.7893993,
+  "website": "https://www.theburritoexpress.com/",
+  "placeId": "ChIJmVt3KgCnK4cRnmsLS3-QVX4",
+  "googleRating": 4.1,
+  "googleReviewCount": 28,
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a3015850df194ed1fecf",
+  "seededAt": "2026-06-22T21:02:57Z",
+  "updatedAt": "2026-06-22T21:02:58Z",
+  "source": "groundgame"
+}

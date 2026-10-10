@@ -1,0 +1,36 @@
+{
+  "slug": "creations-boutique-scottsdale",
+  "name": "Creations Boutique",
+  "category": "Shopping",
+  "googleCategory": "Womens clothing store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "7014 E Camelback Rd Unit 2264",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5021986,
+  "lng": -111.9296985,
+  "phone": "+16028985493",
+  "website": "https://www.shopcreations24.com/",
+  "placeId": "ChIJ2_qKBgALK4cR_wu_M3yyZw4",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343599c1c76b31a95e8c33",
+  "seededAt": "2026-06-18T18:14:49Z",
+  "updatedAt": "2026-06-23T13:06:01Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "whataburger-avondale",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "1625 N 107th Ave",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.465064,
+  "lng": -112.289386,
+  "phone": "+14808651209",
+  "website": "https://locations.whataburger.com/az/avondale/1625-north-107th-avenue.html/",
+  "placeId": "ChIJF20OPQA_K4cRX0HV0EZoOLw",
+  "googleRating": 3.7,
+  "googleReviewCount": 118,
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d69c3c0865204133a26",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-06-12T14:53:29Z",
+  "source": "groundgame"
+}

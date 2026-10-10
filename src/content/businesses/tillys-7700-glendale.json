@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-7700-glendale",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "7700 W Arrowhead Loop Rd Town Center",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6417389,
+  "lng": -112.22526909999999,
+  "phone": "+16239799031",
+  "website": "https://www.tillys.com/store/?StoreID=0048",
+  "placeId": "ChIJi6Z42DpoK4cRJ7MTcyyPKb4",
+  "googleRating": 4.3,
+  "googleReviewCount": 39,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343879a8c16ba0be87a085",
+  "seededAt": "2026-06-18T18:27:05Z",
+  "updatedAt": "2026-06-18T18:27:06Z",
+  "source": "groundgame"
+}

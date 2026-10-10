@@ -1,0 +1,38 @@
+{
+  "slug": "top-cup-coffee-house-gilbert",
+  "name": "Top Cup Coffee House",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7115 S Val Vista Dr",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85298",
+  "lat": 33.220817499999995,
+  "lng": -111.7549667,
+  "phone": "+14807291375",
+  "website": "http://topcup.coffee/",
+  "placeId": "ChIJjwJgaeCtK4cRzSIbO1Qqz_I",
+  "googleRating": 4.3,
+  "googleReviewCount": 437,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a6a73ee9a89e96f3535b9c4",
+  "seededAt": "2026-07-29T21:43:10Z",
+  "updatedAt": "2026-07-29T21:43:13Z",
+  "source": "groundgame"
+}

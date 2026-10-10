@@ -1,0 +1,33 @@
+{
+  "slug": "el-herradero-western-wear-phoenix",
+  "name": "El Herradero Western Wear",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "4344 W Indian School Rd Apt 33",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85031",
+  "lat": 33.4958868,
+  "lng": -112.1538971,
+  "phone": "+16232479144",
+  "website": "https://www.elherraderophoenix.com/",
+  "placeId": "ChIJn4VFXgETK4cRBCyaI9Ti4uA",
+  "googleRating": 4.2,
+  "googleReviewCount": 101,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d0b79a3fd0962c83a12",
+  "seededAt": "2026-06-12T14:51:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

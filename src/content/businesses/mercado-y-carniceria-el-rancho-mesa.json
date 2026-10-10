@@ -1,0 +1,37 @@
+{
+  "slug": "mercado-y-carniceria-el-rancho-mesa",
+  "name": "Mercado Y Carniceria El Rancho",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Supermarket",
+    "Food store"
+  ],
+  "address": "330 S Gilbert Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.4094528,
+  "lng": -111.7890172,
+  "phone": "+14806449794",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17776498422588972667",
+  "googleCid": "17776498422588972667",
+  "placeId": "ChIJA1BiU56oK4cRex61pCHPsvY",
+  "googleRating": 4.4,
+  "googleReviewCount": 532,
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264418f2ea02f556ea19a0",
+  "seededAt": "2026-06-08T04:24:56Z",
+  "updatedAt": "2026-06-08T04:25:56Z",
+  "source": "groundgame"
+}

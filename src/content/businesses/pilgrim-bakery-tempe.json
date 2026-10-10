@@ -1,0 +1,38 @@
+{
+  "slug": "pilgrim-bakery-tempe",
+  "name": "Pilgrim Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "2209 W 1st St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4281839,
+  "lng": -111.9728834,
+  "phone": "+16029206803",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4730794280009384850",
+  "googleCid": "4730794280009384850",
+  "placeId": "ChIJsdhS_twOK4cRksNoNVUop0E",
+  "description": "Located in Tempe, Pilgrim Bakery is a bakery with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "fri": "7:30 AM - 5:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "12:00 PM - 2:00 PM",
+    "mon": "7:30 AM - 5:00 PM",
+    "tue": "7:30 AM - 5:00 PM",
+    "wed": "7:30 AM - 5:00 PM",
+    "thu": "7:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439bd7340725845aff031",
+  "seededAt": "2026-06-06T15:16:13Z",
+  "updatedAt": "2026-06-06T15:16:13Z",
+  "source": "groundgame"
+}

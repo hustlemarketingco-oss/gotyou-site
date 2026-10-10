@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-3448-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3448 W Peoria Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.582375500000005,
+  "lng": -112.1336465,
+  "phone": "+16029932262",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/2916",
+  "placeId": "ChIJX0lxlzJtK4cRaCnNLNxt1Fk",
+  "googleRating": 3.7,
+  "googleReviewCount": 1697,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:30 AM - 11:00 PM",
+    "tue": "8:30 AM - 11:00 PM",
+    "wed": "8:30 AM - 11:00 PM",
+    "thu": "8:30 AM - 11:00 PM",
+    "fri": "8:30 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997af335ac1c0bcb6675b",
+  "seededAt": "2026-06-10T16:58:23Z",
+  "updatedAt": "2026-06-12T22:07:17Z",
+  "source": "groundgame"
+}

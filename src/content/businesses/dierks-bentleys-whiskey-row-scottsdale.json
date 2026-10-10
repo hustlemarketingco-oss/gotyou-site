@@ -1,0 +1,43 @@
+{
+  "slug": "dierks-bentleys-whiskey-row-scottsdale",
+  "name": "Dierks Bentley's Whiskey Row",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Sports bar",
+    "Night club",
+    "Live music venue",
+    "American restaurant",
+    "Event venue",
+    "Sports club",
+    "Association or organization"
+  ],
+  "address": "4420 N Saddlebag Trail",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5010506,
+  "lng": -111.9223809,
+  "phone": "+14809454200",
+  "website": "https://dierkswhiskeyrow.com/scottsdale-az/vip-bottle-service/",
+  "placeId": "ChIJx5-Of7wLK4cRhbzcpk-JrRE",
+  "googleRating": 3.8,
+  "googleReviewCount": 1488,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "5:00 PM - 12:00 AM",
+    "thu": "5:00 PM - 2:00 AM",
+    "fri": "4:00 PM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01e8728272f95969bbf4",
+  "seededAt": "2026-06-23T03:47:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

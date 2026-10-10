@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-4728-phoenix",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "4728 E Ray Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3202091,
+  "lng": -111.982276,
+  "phone": "+14808936141",
+  "website": "https://restaurants.elpolloloco.com/az/phoenix/4728-e-ray-rd",
+  "placeId": "ChIJ3fXC2EUEK4cRo1NIsd3_VZ4",
+  "googleRating": 4,
+  "googleReviewCount": 976,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3dd5997b7cc16b223fe904",
+  "seededAt": "2026-06-26T01:27:53Z",
+  "updatedAt": "2026-06-26T01:27:54Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "milk-and-honey-store-tempe",
+  "name": "MILK AND HONEY Store",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Liquor store",
+    "Food store"
+  ],
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424182699999996,
+  "lng": -111.9418096,
+  "phone": "+14802076868",
+  "website": "http://milkandhoneytempe.com/",
+  "placeId": "ChIJec1mvtcIK4cRueh2JZZ4_rg",
+  "googleRating": 4,
+  "googleReviewCount": 44,
+  "hours": {
+    "mon": "6:00 AM - 2:00 AM",
+    "tue": "6:00 AM - 2:00 AM",
+    "wed": "6:00 AM - 2:00 AM",
+    "thu": "6:00 AM - 2:00 AM",
+    "fri": "6:00 AM - 2:00 AM",
+    "sat": "7:00 AM - 2:00 AM",
+    "sun": "7:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397b2cbaefc35b4a76d202",
+  "seededAt": "2026-06-22T18:13:00Z",
+  "updatedAt": "2026-06-22T18:13:00Z",
+  "source": "groundgame"
+}

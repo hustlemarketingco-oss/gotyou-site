@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-peoria",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Chicken wings restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "8345 W Thunderbird Rd #110",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85381",
+  "lat": 33.6083876,
+  "lng": -112.2383751,
+  "phone": "+16237732777",
+  "website": "https://www.hungryhowies.com/stores/az/peoria/8345-w-thunderbird-110",
+  "placeId": "ChIJr2EhYN9pK4cR61MqR7nqtyk",
+  "googleRating": 4.3,
+  "googleReviewCount": 212,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "10:30 AM - 12:00 AM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cbac226a104d858b64f3",
+  "seededAt": "2026-06-16T22:18:20Z",
+  "updatedAt": "2026-06-16T22:18:21Z",
+  "source": "groundgame"
+}

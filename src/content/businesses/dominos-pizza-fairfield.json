@@ -1,0 +1,39 @@
+{
+  "slug": "dominos-pizza-fairfield",
+  "name": "Domino's Pizza",
+  "category": "Fast Food",
+  "googleCategory": "Meal delivery",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Food delivery",
+    "Pizza restaurant"
+  ],
+  "address": "3083 Travis Blvd",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94534",
+  "lat": 38.2576605,
+  "lng": -122.06692989999999,
+  "phone": "+17074254456",
+  "website": "https://www.dominos.com/en/",
+  "placeId": "ChIJtdIQfx4UhYARmnH1XN_4LnU",
+  "googleRating": 3.2,
+  "googleReviewCount": 529,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 1:00 AM",
+    "tue": "10:30 AM - 1:00 AM",
+    "wed": "10:30 AM - 1:00 AM",
+    "thu": "10:30 AM - 1:00 AM",
+    "fri": "10:30 AM - 1:00 AM",
+    "sat": "10:30 AM - 1:00 AM",
+    "sun": "10:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646eeb38be10d8dc3d5f4",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

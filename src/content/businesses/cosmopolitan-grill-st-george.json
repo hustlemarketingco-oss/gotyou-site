@@ -1,0 +1,33 @@
+{
+  "slug": "cosmopolitan-grill-st-george",
+  "name": "Cosmopolitan Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1091 N Bluff St STE 1400",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.127651199999995,
+  "lng": -113.6023292,
+  "phone": "+14355252550",
+  "website": "https://thecosmopolitangrill.com/",
+  "placeId": "ChIJ61jdoC1FyoAR5zman9aGGOQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 46,
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b1817901b989c3666f8",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

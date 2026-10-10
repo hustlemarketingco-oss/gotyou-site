@@ -1,0 +1,37 @@
+{
+  "slug": "caffe-boa-tempe",
+  "name": "Caffe Boa TEMPE",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "398 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426698099999996,
+  "lng": -111.94037200000001,
+  "phone": "+14809689112",
+  "website": "http://www.cafeboa.com/#about",
+  "placeId": "ChIJSa0ZCCgJK4cRLCU_WuZ5axU",
+  "googleRating": 4.4,
+  "googleReviewCount": 1409,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31c12e7768440de8d582e7",
+  "seededAt": "2026-06-16T21:33:34Z",
+  "updatedAt": "2026-06-16T21:33:51Z",
+  "source": "groundgame"
+}

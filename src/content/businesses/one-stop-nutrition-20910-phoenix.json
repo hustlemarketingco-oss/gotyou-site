@@ -1,0 +1,47 @@
+{
+  "slug": "one-stop-nutrition-20910-phoenix",
+  "name": "One Stop Nutrition",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Vitamin & supplements store"
+  ],
+  "address": "20910 N Tatum Blvd #100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.674785,
+  "lng": -111.9801047,
+  "phone": "+14805718001",
+  "website": "http://onestopnutrition.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7112554359883018886",
+  "googleCid": "7112554359883018886",
+  "placeId": "ChIJ-XwvNuBwK4cRhrJ7ooHetGI",
+  "googleRating": 4.7,
+  "googleReviewCount": 161,
+  "description": "Located in Phoenix, One Stop Nutrition is a juice shop & vitamin & supplements store.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 5:00 PM",
+    "mon": "7:00 AM - 8:30 PM",
+    "tue": "7:00 AM - 8:30 PM",
+    "wed": "7:00 AM - 8:30 PM",
+    "thu": "7:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2442edab5e0f2ad7e7fd97",
+  "seededAt": "2026-06-06T15:55:25Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

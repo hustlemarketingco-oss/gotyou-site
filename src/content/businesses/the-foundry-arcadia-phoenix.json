@@ -1,0 +1,40 @@
+{
+  "slug": "the-foundry-arcadia-phoenix",
+  "name": "The Foundry Arcadia",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym",
+    "Sports school",
+    "Sports complex",
+    "Sports activity location"
+  ],
+  "address": "4730 E Indian School Rd #207a",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.494909,
+  "lng": -111.979804,
+  "phone": "+16026750842",
+  "website": "https://thefoundryyoga.com/",
+  "placeId": "ChIJ0Yiq-bcLK4cRVSv2tw-33cM",
+  "googleRating": 4.8,
+  "googleReviewCount": 154,
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397e5e014d7cf03c657472",
+  "seededAt": "2026-06-22T18:26:38Z",
+  "updatedAt": "2026-06-22T18:26:38Z",
+  "source": "groundgame"
+}

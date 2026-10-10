@@ -1,0 +1,42 @@
+{
+  "slug": "sip-zen-gilbert",
+  "name": "Sip & Zen",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Coffee shop"
+  ],
+  "address": "1521 E Elliot Rd #104",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.349814,
+  "lng": -111.7574836,
+  "phone": "+14803316466",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8159857360511798001",
+  "googleCid": "8159857360511798001",
+  "placeId": "ChIJC7_C8YqvK4cR8YopXwmjPXE",
+  "googleRating": 5,
+  "googleReviewCount": 15,
+  "priceRange": "$1–10",
+  "amenities": [
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2647b9a67f292d97e6c493",
+  "seededAt": "2026-06-08T04:40:25Z",
+  "updatedAt": "2026-06-08T04:40:25Z",
+  "source": "groundgame"
+}

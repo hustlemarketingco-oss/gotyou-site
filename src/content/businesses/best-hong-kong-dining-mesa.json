@@ -1,0 +1,43 @@
+{
+  "slug": "best-hong-kong-dining-mesa",
+  "name": "Best Hong Kong Dining",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1116 S Dobson Rd #123",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3944068,
+  "lng": -111.87584389999999,
+  "phone": "+14806558262",
+  "website": "http://www.besthongkongdining.com/",
+  "placeId": "ChIJY-k17uEHK4cREh4MWXEz4So",
+  "googleRating": 4.2,
+  "googleReviewCount": 590,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fc7a9ba15f2ebc76253ab",
+  "seededAt": "2026-07-21T19:25:29Z",
+  "updatedAt": "2026-07-21T19:28:10Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "zu-izakaya-tempe",
+  "name": "Zu Izakaya - Tempe",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese izakaya restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Sushi restaurant",
+    "Fusion restaurant",
+    "Bar",
+    "Japanese restaurant"
+  ],
+  "address": "2210 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4532653,
+  "lng": -111.9268584,
+  "phone": "+14806254372",
+  "website": "http://zuizakaya.com/",
+  "placeId": "ChIJU56aQmoJK4cRdLNeJo8bf2Q",
+  "googleRating": 4.4,
+  "googleReviewCount": 1054,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 12:00 AM",
+    "tue": "4:00 PM - 12:00 AM",
+    "wed": "4:00 PM - 12:00 AM",
+    "thu": "4:00 PM - 12:00 AM",
+    "fri": "4:00 PM - 12:00 AM",
+    "sat": "4:00 PM - 12:00 AM",
+    "sun": "4:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4560b12d32aca38daff299",
+  "seededAt": "2026-07-01T18:47:13Z",
+  "updatedAt": "2026-07-01T18:47:14Z",
+  "source": "groundgame"
+}

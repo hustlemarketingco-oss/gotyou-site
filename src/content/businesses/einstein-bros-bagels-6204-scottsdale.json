@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-6204-scottsdale",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "6204 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.529156199999996,
+  "lng": -111.9275898,
+  "phone": "+14809510078",
+  "website": "https://locations.einsteinbros.com/us/az/scottsdale/6204-n-scottsdale-rd?y_source=1_OTA1MDAyNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJb_eTcxMLK4cRoHilMNP8ScQ",
+  "googleRating": 4,
+  "googleReviewCount": 176,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:30 AM - 2:00 PM",
+    "tue": "5:30 AM - 2:00 PM",
+    "wed": "5:30 AM - 2:00 PM",
+    "thu": "5:30 AM - 2:00 PM",
+    "fri": "5:30 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994b9967ebfd448435ea2",
+  "seededAt": "2026-06-10T16:45:45Z",
+  "updatedAt": "2026-06-12T22:06:07Z",
+  "source": "groundgame"
+}

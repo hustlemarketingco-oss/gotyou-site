@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-st-george",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "969 N 3050 E Building E",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1255606,
+  "lng": -113.52262359999999,
+  "phone": "+14356278250",
+  "website": "https://www.freddys.com/",
+  "placeId": "ChIJ09qy06BbyoARjsKYOGXYO2g",
+  "googleRating": 4.4,
+  "googleReviewCount": 2097,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b47809f986a60167815",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

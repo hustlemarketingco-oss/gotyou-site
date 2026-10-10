@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-mesa",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1335 S Alma School Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.3896948,
+  "lng": -111.85681199999999,
+  "phone": "+16029001283",
+  "website": "https://locations.ikessandwich.com/az/mesa/538/",
+  "placeId": "ChIJi5pyp2ipK4cR1AYDFXYgYiI",
+  "googleRating": 4.5,
+  "googleReviewCount": 150,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 7:00 PM",
+    "tue": "10:30 AM - 7:00 PM",
+    "wed": "10:30 AM - 7:00 PM",
+    "thu": "10:30 AM - 7:00 PM",
+    "fri": "10:30 AM - 7:00 PM",
+    "sat": "10:30 AM - 7:00 PM",
+    "sun": "10:30 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a8f3167ee9af008bab7",
+  "seededAt": "2026-06-16T18:48:47Z",
+  "updatedAt": "2026-06-16T18:48:47Z",
+  "source": "groundgame"
+}

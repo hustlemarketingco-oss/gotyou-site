@@ -1,0 +1,40 @@
+{
+  "slug": "grimaldis-pizzeria-15147-scottsdale",
+  "name": "Grimaldi's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Family restaurant",
+    "Bar",
+    "Italian restaurant"
+  ],
+  "address": "15147 N Scottsdale Rd Suite H-135",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6237427,
+  "lng": -111.92362999999999,
+  "phone": "+14805964070",
+  "website": "https://www.grimaldispizzeria.com/locations/scottsdale-quarter/",
+  "placeId": "ChIJnb7bVT50K4cRJ7Vrr1rEAnA",
+  "googleRating": 4.3,
+  "googleReviewCount": 1297,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275150e70596d25a0ca9ce",
+  "seededAt": "2026-06-08T23:33:36Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

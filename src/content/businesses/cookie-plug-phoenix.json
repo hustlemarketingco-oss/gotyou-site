@@ -1,0 +1,31 @@
+{
+  "slug": "cookie-plug-phoenix",
+  "name": "Cookie Plug",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cake shop",
+    "Cookie shop",
+    "Dessert shop",
+    "Ice cream shop"
+  ],
+  "address": "4575 E Cactus Rd #135",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "priceRange": "$10–20",
+  "description": "Located in Phoenix, Cookie Plug is a bakery & cake shop.",
+  "amenities": [
+    "Free parking lot"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/cookie.plug"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443d5cb6f13f6798061fd",
+  "seededAt": "2026-06-06T15:59:17Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

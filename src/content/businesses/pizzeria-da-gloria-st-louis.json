@@ -1,0 +1,37 @@
+{
+  "slug": "pizzeria-da-gloria-st-louis",
+  "name": "Pizzeria da Gloria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2024 Marconi Ave",
+  "city": "St. Louis",
+  "state": "MO",
+  "zip": "63110",
+  "lat": 38.6159524,
+  "lng": -90.2726921,
+  "phone": "+13148333734",
+  "website": "http://www.pizzeriadagloria.com/",
+  "placeId": "ChIJrwooQyK12IcRG1s9OthU4Y0",
+  "googleRating": 4.7,
+  "googleReviewCount": 578,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+    "sat": "12:00 PM - 9:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Chicago",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69b43f15f7ed6e3e35cc325d",
+  "seededAt": "2026-03-13T16:45:09Z",
+  "updatedAt": "2026-03-13T16:45:09Z",
+  "source": "groundgame"
+}

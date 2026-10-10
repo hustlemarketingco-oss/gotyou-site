@@ -1,0 +1,42 @@
+{
+  "slug": "ethiopian-famous-restaurant-tempe",
+  "name": "Ethiopian Famous Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Ethiopian restaurant",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Bar and grill",
+    "Mediterranean restaurant",
+    "Bar"
+  ],
+  "address": "933 E University Dr #112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4212707,
+  "lng": -111.9246646,
+  "phone": "+16024490055",
+  "website": "https://ethiopianfamousrestaurantaz.com/",
+  "placeId": "ChIJN9qYQgMJK4cRAkHc41JwMbk",
+  "googleRating": 4.7,
+  "googleReviewCount": 141,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "4:00 PM - 10:30 PM",
+    "wed": "4:00 PM - 10:30 PM",
+    "thu": "4:00 PM - 10:30 PM",
+    "fri": "3:00 PM - 10:30 PM",
+    "sat": "3:00 PM - 10:30 PM",
+    "sun": "4:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1cdc7dfb9f525bbc0648",
+  "seededAt": "2026-06-12T14:51:08Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

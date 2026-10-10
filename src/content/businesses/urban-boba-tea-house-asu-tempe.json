@@ -1,0 +1,40 @@
+{
+  "slug": "urban-boba-tea-house-asu-tempe",
+  "name": "Urban Boba Tea House - ASU Tempe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "address": "1015 S Rural Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.417300499999996,
+  "lng": -111.9259904,
+  "phone": "+14802642003",
+  "website": "http://urbanbobatempe.com/",
+  "placeId": "ChIJsTUqZegIK4cRRMA_READhfA",
+  "googleRating": 4.5,
+  "googleReviewCount": 386,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 8:30 PM",
+    "tue": "12:00 PM - 8:30 PM",
+    "wed": "12:00 PM - 8:30 PM",
+    "thu": "12:00 PM - 8:30 PM",
+    "fri": "12:00 PM - 8:30 PM",
+    "sat": "12:00 PM - 8:30 PM",
+    "sun": "12:00 PM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276580c11ebb1dc6671661",
+  "seededAt": "2026-06-09T00:59:44Z",
+  "updatedAt": "2026-07-16T19:11:30Z",
+  "source": "groundgame"
+}

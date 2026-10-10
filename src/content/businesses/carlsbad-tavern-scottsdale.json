@@ -1,0 +1,40 @@
+{
+  "slug": "carlsbad-tavern-scottsdale",
+  "name": "Carlsbad Tavern",
+  "category": "Restaurant",
+  "googleCategory": "Southwestern us restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Mexican restaurant",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "3313 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4867085,
+  "lng": -111.90846359999999,
+  "phone": "+14809708164",
+  "website": "http://carlsbadtavern.com/",
+  "placeId": "ChIJoYtJls0LK4cRUrTZU3mxPVo",
+  "googleRating": 4.5,
+  "googleReviewCount": 3366,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766f12a39befba4e98e27",
+  "seededAt": "2026-06-09T01:05:53Z",
+  "updatedAt": "2026-07-01T20:29:09Z",
+  "source": "groundgame"
+}

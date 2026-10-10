@@ -1,0 +1,37 @@
+{
+  "slug": "mod-pizza-830-gilbert",
+  "name": "MOD Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "830 W Warner Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.336095799999995,
+  "lng": -111.807634,
+  "phone": "+16023135666",
+  "website": "https://locations.modpizza.com/usa/az/gilbert/830-w-warner-rd",
+  "placeId": "ChIJUREbSnapK4cRq_3m4tGwkUI",
+  "googleRating": 4.4,
+  "googleReviewCount": 790,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a41e15a9df06c93970b81f7",
+  "seededAt": "2026-06-29T03:07:06Z",
+  "updatedAt": "2026-06-29T03:07:06Z",
+  "source": "groundgame"
+}

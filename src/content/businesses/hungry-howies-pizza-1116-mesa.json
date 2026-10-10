@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-1116-mesa",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1116 S Crismon Rd #101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85208",
+  "lat": 33.3949095,
+  "lng": -111.6161941,
+  "phone": "+14803800500",
+  "website": "https://www.hungryhowies.com/stores/az/mesa/1116-s-crismon-rd-101",
+  "placeId": "ChIJa3-DKgexK4cRKTZKSXGgHlM",
+  "googleRating": 3.7,
+  "googleReviewCount": 469,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "10:30 AM - 12:00 AM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cbabd74e50236af9c634",
+  "seededAt": "2026-06-16T22:18:19Z",
+  "updatedAt": "2026-06-16T22:18:19Z",
+  "source": "groundgame"
+}

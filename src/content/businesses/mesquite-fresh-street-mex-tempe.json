@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-tempe",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "505 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4251759,
+  "lng": -111.9397118,
+  "phone": "+14805507052",
+  "website": "https://www.eatmesquite.com/",
+  "placeId": "ChIJrx3o4QcJK4cRFKKp5cjEabk",
+  "googleRating": 4.4,
+  "googleReviewCount": 624,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 2:35 AM",
+    "tue": "7:00 AM - 2:35 AM",
+    "wed": "7:00 AM - 2:35 AM",
+    "thu": "7:00 AM - 2:35 AM",
+    "fri": "7:00 AM - 2:35 AM",
+    "sat": "10:00 AM - 2:35 AM",
+    "sun": "10:00 AM - 2:35 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9e2dfcf6be4f51f1d93",
+  "seededAt": "2026-06-17T17:31:14Z",
+  "updatedAt": "2026-06-26T18:25:31Z",
+  "source": "groundgame"
+}

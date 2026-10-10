@@ -1,0 +1,37 @@
+{
+  "slug": "oreganos-scottsdale",
+  "name": "Oregano's",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3102 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4832809,
+  "lng": -111.9267332,
+  "phone": "+14809701860",
+  "website": "https://oreganos.com/",
+  "placeId": "ChIJGw0gTcALK4cRDJzdIREHudY",
+  "googleRating": 4.5,
+  "googleReviewCount": 2721,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276555a1a5643f23bf40db",
+  "seededAt": "2026-06-09T00:59:01Z",
+  "updatedAt": "2026-08-14T13:19:11Z",
+  "source": "groundgame"
+}

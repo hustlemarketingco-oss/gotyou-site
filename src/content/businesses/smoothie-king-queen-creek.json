@@ -1,0 +1,42 @@
+{
+  "slug": "smoothie-king-queen-creek",
+  "name": "Smoothie King",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Acai shop",
+    "Brazilian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "20008 S Ellsworth Rd #104",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2669521,
+  "lng": -111.63530410000001,
+  "phone": "+14805507298",
+  "website": "https://locations.smoothieking.com/ll/us/az/queen-creek/20008-s-ellsworth-rd-104/",
+  "placeId": "ChIJA7MJYipNKocRC1UWWQ3yrSI",
+  "googleRating": 4.8,
+  "googleReviewCount": 138,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc99f2e0586c6c28b27e",
+  "seededAt": "2026-06-16T22:22:17Z",
+  "updatedAt": "2026-06-16T22:22:17Z",
+  "source": "groundgame"
+}

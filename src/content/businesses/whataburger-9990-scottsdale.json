@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-9990-scottsdale",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "9990 N 90th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5770926,
+  "lng": -111.8863249,
+  "phone": "+14807679281",
+  "website": "https://locations.whataburger.com/az/scottsdale/9990-n-90th-st.html/",
+  "placeId": "ChIJi74ugjl1K4cRbcRT64MJlfY",
+  "googleRating": 4.1,
+  "googleReviewCount": 1442,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276647bbc4414928f1b412",
+  "seededAt": "2026-06-09T01:03:03Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

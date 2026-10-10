@@ -1,0 +1,35 @@
+{
+  "slug": "los-munchies-hot-dogs-tacos-gilbert",
+  "name": "Los Munchies Hot Dogs & Tacos",
+  "category": "Fast Food",
+  "googleCategory": "Hot dog restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "792 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3639202,
+  "lng": -111.7905777,
+  "googleMapsUrl": "https://www.google.com/maps?cid=15528170890650653041",
+  "googleCid": "15528170890650653041",
+  "placeId": "ChIJ6ZJUjWmpK4cRcRHLPCclf9c",
+  "googleRating": 4.9,
+  "googleReviewCount": 65,
+  "priceRange": "$",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Free parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "temporarilyClosed": true,
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2644669821f21b7faa0689",
+  "seededAt": "2026-06-08T04:26:14Z",
+  "updatedAt": "2026-06-08T04:28:14Z",
+  "source": "groundgame"
+}

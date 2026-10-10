@@ -1,0 +1,37 @@
+{
+  "slug": "mikas-greek-phoenix",
+  "name": "MIKA'S GREEK",
+  "category": "Restaurant",
+  "googleCategory": "Greek restaurant",
+  "secondaryCategories": [
+    "Mediterranean restaurant"
+  ],
+  "address": "503 W Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.4799854,
+  "lng": -112.0807456,
+  "phone": "+16022796452",
+  "website": "http://mikasgreek.com/",
+  "placeId": "ChIJeYAngVkSK4cRaM9d4JuHj2Q",
+  "googleRating": 4.4,
+  "googleReviewCount": 475,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c31ea4a279c1368f86d",
+  "seededAt": "2026-06-22T19:25:37Z",
+  "updatedAt": "2026-06-22T19:25:38Z",
+  "source": "groundgame"
+}

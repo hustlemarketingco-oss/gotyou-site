@@ -1,0 +1,41 @@
+{
+  "slug": "raising-canes-chicken-fingers-tempe",
+  "name": "Raising Cane's Chicken Fingers",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Chicken restaurant",
+    "Southern restaurant (us)"
+  ],
+  "address": "960 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4224328,
+  "lng": -111.9243857,
+  "phone": "+14806963497",
+  "website": "https://www.raisingcanes.com/locations",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1803420742494418769",
+  "googleCid": "1803420742494418769",
+  "placeId": "ChIJl10kwuYIK4cRUXfzQJwJBxk",
+  "googleRating": 4.5,
+  "googleReviewCount": 3435,
+  "description": "Fast-food chain specializing in fried chicken fingers, crinkle-cut fries & Texas toast.",
+  "hours": {
+    "fri": "9:00 AM - 3:00 AM",
+    "sat": "9:00 AM - 3:00 AM",
+    "sun": "9:00 AM - 2:00 AM",
+    "mon": "9:00 AM - 2:00 AM",
+    "tue": "9:00 AM - 2:00 AM",
+    "wed": "9:00 AM - 2:00 AM",
+    "thu": "9:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24376ea266cc393fa0fafd",
+  "seededAt": "2026-06-06T15:06:22Z",
+  "updatedAt": "2026-06-06T15:06:22Z",
+  "source": "groundgame"
+}

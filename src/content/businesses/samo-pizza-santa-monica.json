@@ -1,0 +1,42 @@
+{
+  "slug": "samo-pizza-santa-monica",
+  "name": "SaMo Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Sandwich shop",
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "1711 Pico Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90405",
+  "lat": 34.0182443,
+  "lng": -118.4725666,
+  "phone": "+13103920092",
+  "website": "https://samopizzaca.com/",
+  "placeId": "ChIJqZPnpyW7woARX2EWBa_kFrk",
+  "googleRating": 4.8,
+  "googleReviewCount": 846,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 AM - 4:00 AM, 9:30 AM - 11:45 PM",
+    "tue": "12:00 AM - 3:00 AM, 9:30 AM - 11:45 PM",
+    "wed": "12:00 AM - 12:30 AM, 9:30 AM - 11:45 PM",
+    "thu": "12:00 AM - 3:00 AM, 9:30 AM - 11:45 PM",
+    "fri": "12:00 AM - 4:00 AM, 9:30 AM - 11:45 PM",
+    "sat": "12:00 AM - 5:00 AM, 9:30 AM - 11:45 PM",
+    "sun": "12:00 AM - 5:00 AM, 9:30 AM - 11:45 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50d6f08a480594ced5a",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "barjo-mesa",
+  "name": "BARJO",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2655 W Guadalupe Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3624554,
+  "lng": -111.89146199999999,
+  "website": "http://www.barjo-eat.com/",
+  "placeId": "ChIJdxBaab8HK4cRB2xbWUYJRso",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a280e2143f1a175c08ad02f",
+  "seededAt": "2026-06-09T12:59:13Z",
+  "updatedAt": "2026-06-09T12:59:13Z",
+  "source": "groundgame"
+}

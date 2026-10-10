@@ -1,0 +1,45 @@
+{
+  "slug": "fourtillfour-cafe-scottsdale",
+  "name": "Fourtillfour Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store",
+    "Association or organization"
+  ],
+  "address": "7105 E 1st Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493757099999996,
+  "lng": -111.9281013,
+  "phone": "+16028883583",
+  "website": "https://fourtillfour.com/pages/cafe-scottsdale",
+  "placeId": "ChIJaRaK3r8LK4cRMS2pbjGFGM4",
+  "googleRating": 4.7,
+  "googleReviewCount": 583,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b16ff977bb5dddf46",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-08-03T17:42:54Z",
+  "source": "groundgame"
+}

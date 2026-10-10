@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-8752-scottsdale",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "8752 E Shea Blvd Ste #C-3B",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.5834701,
+  "lng": -111.8928548,
+  "phone": "+14804701372",
+  "website": "https://locations.massageenvy.com/arizona/scottsdale/8752-east-shea-blvd.html",
+  "placeId": "ChIJ1SKOOj11K4cR1F4Lvw8Xtic",
+  "googleRating": 4.8,
+  "googleReviewCount": 247,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e6310f3840d784115c56",
+  "seededAt": "2026-06-17T18:23:45Z",
+  "updatedAt": "2026-06-17T18:23:46Z",
+  "source": "groundgame"
+}

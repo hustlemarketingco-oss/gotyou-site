@@ -1,0 +1,37 @@
+{
+  "slug": "cien-motorsports-prescott",
+  "name": "Cien MotorSports",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Auto parts store",
+    "Car repair"
+  ],
+  "address": "102 Cory Ave",
+  "city": "Prescott",
+  "state": "AZ",
+  "zip": "86303",
+  "lat": 34.5421301,
+  "lng": -112.4851386,
+  "phone": "+19284453980",
+  "website": "https://www.cienmotorsports.com/",
+  "placeId": "ChIJWUvobC8pLYcRZ8QfHmD4VMg",
+  "googleRating": 4.8,
+  "googleReviewCount": 135,
+  "hours": {
+    "mon": "7:30 AM - 5:00 PM",
+    "tue": "7:30 AM - 5:00 PM",
+    "wed": "7:30 AM - 5:00 PM",
+    "thu": "7:30 AM - 5:00 PM",
+    "fri": "7:30 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27563ec4adb8439939ff23",
+  "seededAt": "2026-06-08T23:54:38Z",
+  "updatedAt": "2026-06-08T23:54:39Z",
+  "source": "groundgame"
+}

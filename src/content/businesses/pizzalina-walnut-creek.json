@@ -1,0 +1,37 @@
+{
+  "slug": "pizzalina-walnut-creek",
+  "name": "Pizzalina",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2064 Treat Blvd Suite B",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "zip": "94598",
+  "lat": 37.9298161,
+  "lng": -122.0399312,
+  "phone": "+19255461064",
+  "website": "https://www.pizzalina.com/walnut-creek",
+  "placeId": "ChIJ89njaABhhYARl_7_NHZBb5s",
+  "googleRating": 4.3,
+  "googleReviewCount": 96,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 8:30 PM",
+    "tue": "11:30 AM - 8:30 PM",
+    "wed": "11:30 AM - 8:30 PM",
+    "thu": "11:30 AM - 8:30 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "11:30 AM - 8:30 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429d1337a75c724fd663",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

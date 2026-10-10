@@ -1,0 +1,37 @@
+{
+  "slug": "peppinos-pizza-gainesville",
+  "name": "Peppino's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3731 W University Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32607",
+  "lat": 29.651348399999996,
+  "lng": -82.37952340000001,
+  "phone": "+13525546078",
+  "website": "https://peppinostogo.com/",
+  "placeId": "ChIJj6jT9Kyj6IgRZQSLsoJLaeA",
+  "googleRating": 4.7,
+  "googleReviewCount": 447,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f9d7a3f595652bb78",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

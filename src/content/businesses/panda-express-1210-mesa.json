@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-1210-mesa",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1210 E Southern Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.393858099999996,
+  "lng": -111.804854,
+  "phone": "+14806492598",
+  "website": "https://www.pandaexpress.com/locations/az/mesa/2426",
+  "placeId": "ChIJL27zFImoK4cRsYqB5Pa5KcE",
+  "googleRating": 3.7,
+  "googleReviewCount": 1691,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 12:00 AM",
+    "tue": "9:00 AM - 12:00 AM",
+    "wed": "9:00 AM - 12:00 AM",
+    "thu": "9:00 AM - 12:00 AM",
+    "fri": "9:00 AM - 12:30 AM",
+    "sat": "9:00 AM - 12:30 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997a5695a2d0fc8922f19",
+  "seededAt": "2026-06-10T16:58:13Z",
+  "updatedAt": "2026-06-10T16:58:13Z",
+  "source": "groundgame"
+}

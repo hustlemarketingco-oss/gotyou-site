@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-peoria",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Sandwich shop",
+    "Cafe",
+    "Fast food restaurant"
+  ],
+  "address": "25738 N Lake Pleasant Pkwy Suite 102",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.716880499999995,
+  "lng": -112.27169599999999,
+  "phone": "+14802192134",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/peoria/25738-north-lake-pleasant-parkway?y_source=1_MTA0NDcyNzk3Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJq295bcFdK4cRRV7LczvPw58",
+  "googleRating": 4.5,
+  "googleReviewCount": 33,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27548a9e191b5b4bba4687",
+  "seededAt": "2026-06-08T23:47:22Z",
+  "updatedAt": "2026-06-08T23:47:22Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "cookie-crumb-scottsdale",
+  "name": "Cookie & Crumb",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cookie shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Dessert shop"
+  ],
+  "address": "38843 N Boulder View Dr",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85262",
+  "lat": 33.8387553,
+  "lng": -111.8393939,
+  "phone": "+16027406706",
+  "website": "https://www.cookiesaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10648817882893772038",
+  "googleCid": "10648817882893772038",
+  "placeId": "ChIJV5sqCi2BK4cRBuW103EzyJM",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "description": "Located in Scottsdale, Cookie & Crumb is a cookie shop & bakery with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d2bc607f5f886cd3442",
+  "seededAt": "2026-06-06T15:30:51Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

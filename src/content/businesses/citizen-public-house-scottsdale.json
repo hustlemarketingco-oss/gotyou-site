@@ -1,0 +1,40 @@
+{
+  "slug": "citizen-public-house-scottsdale",
+  "name": "Citizen Public House",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Pub",
+    "Gastropub",
+    "Bar"
+  ],
+  "address": "7111 E 5th Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.498008299999995,
+  "lng": -111.9278528,
+  "phone": "+14803984208",
+  "website": "http://www.citizenpublichouse.com/",
+  "placeId": "ChIJd8bB-70LK4cRXycL1yo22UY",
+  "googleRating": 4.6,
+  "googleReviewCount": 1748,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "4:00 PM - 10:00 PM",
+    "tue": "4:00 PM - 10:00 PM",
+    "wed": "4:00 PM - 10:00 PM",
+    "thu": "4:00 PM - 10:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27535945b00951ca82ffaa",
+  "seededAt": "2026-06-08T23:42:17Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

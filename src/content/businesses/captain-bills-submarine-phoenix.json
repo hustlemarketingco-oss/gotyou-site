@@ -1,0 +1,37 @@
+{
+  "slug": "captain-bills-submarine-phoenix",
+  "name": "Captain Bill's Submarine",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "10645 N 35th Ave A",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.5837064,
+  "lng": -112.13367579999999,
+  "phone": "+16029935290",
+  "website": "https://www.captainbillssubmarine.com/",
+  "placeId": "ChIJS0YFGw1sK4cRwgnzZX10AXI",
+  "googleRating": 4.6,
+  "googleReviewCount": 1398,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275396e28231ccae4345aa",
+  "seededAt": "2026-06-08T23:43:18Z",
+  "updatedAt": "2026-06-08T23:43:18Z",
+  "source": "groundgame"
+}

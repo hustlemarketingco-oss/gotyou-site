@@ -1,0 +1,37 @@
+{
+  "slug": "the-scookie-bar-phoenix",
+  "name": "The Scookie Bar",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "901 N 1st St UNIT 100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.457871,
+  "lng": -112.0722035,
+  "phone": "+16029992789",
+  "website": "https://www.scookiebar.com/",
+  "placeId": "ChIJIU-c0bcPK4cRG7x8IWrn33Y",
+  "googleRating": 4.8,
+  "googleReviewCount": 105,
+  "hours": {
+    "mon": "Closed",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "5:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e08a733e39a7739f1",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

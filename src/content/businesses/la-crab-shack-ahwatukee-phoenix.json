@@ -1,0 +1,42 @@
+{
+  "slug": "la-crab-shack-ahwatukee-phoenix",
+  "name": "LA Crab Shack (Ahwatukee)",
+  "category": "Restaurant",
+  "googleCategory": "Cajun restaurant",
+  "secondaryCategories": [
+    "Oyster bar restaurant",
+    "Cocktail bar",
+    "Fusion restaurant",
+    "Fish and chips restaurant",
+    "Seafood restaurant",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "4803 E Ray Rd Ste 103",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3188931,
+  "lng": -111.98007869999999,
+  "phone": "+14809168668",
+  "website": "https://www.thelacrabshack.com/",
+  "placeId": "ChIJgwqu4ekFK4cRJBuzXgZtFsQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 101,
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6bac73e8f4c1ac22f3b",
+  "seededAt": "2026-07-02T19:06:34Z",
+  "updatedAt": "2026-07-02T19:06:34Z",
+  "source": "groundgame"
+}

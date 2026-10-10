@@ -1,0 +1,36 @@
+{
+  "slug": "la-michoacana-all-natural-phoenix",
+  "name": "La Michoacana - All Natural",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2211 W Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.508868899999996,
+  "lng": -112.10667149999999,
+  "phone": "+16022834212",
+  "placeId": "ChIJz561zyQTK4cRnnvmEJOm5FU",
+  "googleRating": 3.2,
+  "googleReviewCount": 114,
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c1464bc3121a901a397",
+  "seededAt": "2026-06-22T19:25:08Z",
+  "updatedAt": "2026-06-22T19:25:09Z",
+  "source": "groundgame"
+}

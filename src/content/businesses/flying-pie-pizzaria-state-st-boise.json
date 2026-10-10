@@ -1,0 +1,37 @@
+{
+  "slug": "flying-pie-pizzaria-state-st-boise",
+  "name": "Flying Pie Pizzaria-State St.",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4320 W State St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83703",
+  "lat": 43.645530699999995,
+  "lng": -116.24269859999998,
+  "phone": "+12083840000",
+  "website": "https://www.flyingpie.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "placeId": "ChIJ31JzqTv_rlQRMY3zIE-s54U",
+  "googleRating": 4.4,
+  "googleReviewCount": 1110,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b54931a2967beb59c6c",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

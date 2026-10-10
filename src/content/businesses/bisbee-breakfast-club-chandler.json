@@ -1,0 +1,37 @@
+{
+  "slug": "bisbee-breakfast-club-chandler",
+  "name": "Bisbee Breakfast Club Chandler",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant"
+  ],
+  "address": "940 N 54th St Ste 100",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3188527,
+  "lng": -111.9702743,
+  "phone": "+14805907907",
+  "website": "http://bisbeebreakfastclub.com/",
+  "placeId": "ChIJXYlXLPUFK4cRGs5bIOCaF-8",
+  "googleRating": 4.4,
+  "googleReviewCount": 634,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 2:05 PM",
+    "tue": "6:00 AM - 2:05 PM",
+    "wed": "6:00 AM - 2:05 PM",
+    "thu": "6:00 AM - 2:05 PM",
+    "fri": "6:00 AM - 2:05 PM",
+    "sat": "6:00 AM - 2:05 PM",
+    "sun": "6:00 AM - 2:05 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34532383f8353fd51f14ad",
+  "seededAt": "2026-06-18T20:20:51Z",
+  "updatedAt": "2026-06-18T20:20:51Z",
+  "source": "groundgame"
+}

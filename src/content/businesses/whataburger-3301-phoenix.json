@@ -1,0 +1,40 @@
+{
+  "slug": "whataburger-3301-phoenix",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "3301 W Peoria Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.5814075,
+  "lng": -112.1318245,
+  "phone": "+14806744946",
+  "website": "https://locations.whataburger.com/az/phoenix/3301-west-peoria-avenue.html/",
+  "placeId": "ChIJ4ertuI1tK4cRScpZ4m56rzo",
+  "googleRating": 3.8,
+  "googleReviewCount": 348,
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d694fb25b38d65d926c",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

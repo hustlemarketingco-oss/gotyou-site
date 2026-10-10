@@ -1,0 +1,41 @@
+{
+  "slug": "feta-cowboy-tempe",
+  "name": "Feta Cowboy",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Takeout restaurant",
+    "Restaurant",
+    "Tex-mex restaurant"
+  ],
+  "address": "1840 E Warner Rd Suite 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3354719,
+  "lng": -111.9106612,
+  "phone": "+16023545566",
+  "website": "https://fetacowboy.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=12749882683579537037",
+  "googleCid": "12749882683579537037",
+  "placeId": "ChIJZw_hEAAHK4cRjZapur-u8LA",
+  "googleRating": 4.6,
+  "googleReviewCount": 309,
+  "description": "Located in Tempe, Feta Cowboy is a mediterranean restaurant & takeout restaurant.",
+  "hours": {
+    "fri": "10:45 AM - 9:00 PM",
+    "sat": "10:45 AM - 9:00 PM",
+    "sun": "10:45 AM - 9:00 PM",
+    "mon": "10:45 AM - 9:00 PM",
+    "tue": "10:45 AM - 9:00 PM",
+    "wed": "10:45 AM - 9:00 PM",
+    "thu": "10:45 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2437822d3e1ba0b91ce685",
+  "seededAt": "2026-06-06T15:06:42Z",
+  "updatedAt": "2026-06-06T15:06:42Z",
+  "source": "groundgame"
+}

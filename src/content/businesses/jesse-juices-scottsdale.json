@@ -1,0 +1,32 @@
+{
+  "slug": "jesse-juices-scottsdale",
+  "name": "Jesse Juices",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "address": "3954 N Brown Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4936855,
+  "lng": -111.9247356,
+  "googleMapsUrl": "https://www.google.com/maps?cid=5096773101459221870",
+  "googleCid": "5096773101459221870",
+  "placeId": "ChIJS8afVxwLK4cRbi0-xSFgu0Y",
+  "description": "Located in Scottsdale, Jesse Juices is a casual juice shop with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c294efc3de7ac77b017",
+  "seededAt": "2026-06-06T15:26:33Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

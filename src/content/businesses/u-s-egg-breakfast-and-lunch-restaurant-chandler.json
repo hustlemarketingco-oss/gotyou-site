@@ -1,0 +1,41 @@
+{
+  "slug": "u-s-egg-breakfast-and-lunch-restaurant-chandler",
+  "name": "U.S. Egg Breakfast and Lunch Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Brunch restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Salad shop",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "5840 W Chandler Blvd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.3059984,
+  "lng": -111.94302689999999,
+  "phone": "+14807050868",
+  "website": "https://www.usegg.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "placeId": "ChIJ29azq68GK4cRuAmlwz7xfIc",
+  "googleRating": 4.5,
+  "googleReviewCount": 2427,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:30 PM",
+    "tue": "6:30 AM - 2:30 PM",
+    "wed": "6:30 AM - 2:30 PM",
+    "thu": "6:30 AM - 2:30 PM",
+    "fri": "6:30 AM - 2:30 PM",
+    "sat": "6:30 AM - 2:30 PM",
+    "sun": "6:30 AM - 2:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1cb782dfecb17c489650",
+  "seededAt": "2026-06-12T14:50:31Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

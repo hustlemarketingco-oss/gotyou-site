@@ -1,0 +1,52 @@
+{
+  "slug": "egg-n-joe-scottsdale",
+  "name": "Egg N' Joe",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "Lunch restaurant",
+    "Restaurant"
+  ],
+  "address": "23271 N Scottsdale Rd A101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "phone": "+14802659968",
+  "priceRange": "$10–20",
+  "description": "Member of a local group of breakfast & lunch cafes & coffee shops with casual, modern decor.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Organic dishes",
+    "Quick bite",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/eggnjoe"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ec8a55170b9cb9a9a29",
+  "seededAt": "2026-06-06T15:37:44Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

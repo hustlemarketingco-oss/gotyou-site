@@ -1,0 +1,40 @@
+{
+  "slug": "creative-tea-room-scottsdale",
+  "name": "Creative Tea Room",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "address": "16580 N 92nd St #104",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6364405,
+  "lng": -111.8829779,
+  "phone": "+16023583921",
+  "website": "http://creativetearoom.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3486963710263651781",
+  "googleCid": "3486963710263651781",
+  "placeId": "ChIJHbX_Cqh1K4cRxW3xDgUvZDA",
+  "googleRating": 4.6,
+  "googleReviewCount": 16,
+  "priceRange": "$",
+  "description": "Located in Scottsdale, Creative Tea Room is a tea house with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/creativetearoomaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c203af5630212c72de1",
+  "seededAt": "2026-06-06T15:26:24Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

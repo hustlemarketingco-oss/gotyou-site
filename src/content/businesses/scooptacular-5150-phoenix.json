@@ -1,0 +1,39 @@
+{
+  "slug": "scooptacular-5150-phoenix",
+  "name": "Scooptacular",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "5150 W Baseline Rd, Laveen Village, AZ 85339",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85339",
+  "lat": 33.3779733,
+  "lng": -112.1708268,
+  "phone": "+16022370254",
+  "website": "http://www.scooptacular.net/",
+  "placeId": "ChIJaZSTLRkXK4cRvneIHvHTFYI",
+  "googleRating": 4.8,
+  "googleReviewCount": 600,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e3f55573ffbb6bb25",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

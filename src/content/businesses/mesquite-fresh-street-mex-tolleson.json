@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-tolleson",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "445 N 99th Ave",
+  "city": "Tolleson",
+  "state": "AZ",
+  "zip": "85353",
+  "lat": 33.4520313,
+  "lng": -112.27191130000001,
+  "phone": "+14804273248",
+  "website": "https://eatmesquite.com/",
+  "placeId": "ChIJ0b5VlWo_K4cR1qqxSdyr1fU",
+  "googleRating": 4.2,
+  "googleReviewCount": 194,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9f494893f425326e533",
+  "seededAt": "2026-06-17T17:31:32Z",
+  "updatedAt": "2026-06-17T17:31:32Z",
+  "source": "groundgame"
+}

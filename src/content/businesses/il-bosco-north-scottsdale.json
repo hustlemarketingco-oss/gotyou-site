@@ -1,0 +1,36 @@
+{
+  "slug": "il-bosco-north-scottsdale",
+  "name": "Il Bosco - North Scottsdale",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "11108 N Frank Lloyd Wright Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85259",
+  "lat": 33.5866403,
+  "lng": -111.83642119999999,
+  "phone": "+14809521027",
+  "website": "https://www.ilboscopizza.com/",
+  "placeId": "ChIJxbV3U-yfK4cReuP8xY2uFKI",
+  "googleRating": 4.4,
+  "googleReviewCount": 63,
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 9:00 PM",
+    "sat": "4:00 PM - 9:00 PM",
+    "sun": "4:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276556a7ba89444e789b9d",
+  "seededAt": "2026-06-09T00:59:02Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

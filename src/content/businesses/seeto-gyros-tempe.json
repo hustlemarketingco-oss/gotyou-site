@@ -1,0 +1,44 @@
+{
+  "slug": "seeto-gyros-tempe",
+  "name": "Seeto Gyros",
+  "category": "Restaurant",
+  "googleCategory": "Greek restaurant",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Mediterranean restaurant"
+  ],
+  "address": "818 W Broadway Rd 101 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078138,
+  "lng": -111.9509513,
+  "phone": "+14803875573",
+  "website": "https://www.seetogyrosaz.com/",
+  "placeId": "ChIJtxR1HNUJK4cRWpORaeLtFKQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 347,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Google Pay",
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c2ab37625746e9e7f1a",
+  "seededAt": "2026-06-22T19:25:30Z",
+  "updatedAt": "2026-07-29T20:13:45Z",
+  "source": "groundgame"
+}

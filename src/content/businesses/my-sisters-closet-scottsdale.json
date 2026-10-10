@@ -1,0 +1,36 @@
+{
+  "slug": "my-sisters-closet-scottsdale",
+  "name": "My Sister's Closet",
+  "category": "Shopping",
+  "googleCategory": "Womens clothing store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "6204 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.5296774,
+  "lng": -111.9274452,
+  "phone": "+14804434575",
+  "website": "https://www.mysisterscloset.com/",
+  "placeId": "ChIJb_eTcxMLK4cRyboPVMxga2Q",
+  "googleRating": 3.6,
+  "googleReviewCount": 406,
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3314cb36d9728127215cd4",
+  "seededAt": "2026-06-17T21:42:35Z",
+  "updatedAt": "2026-06-17T21:42:36Z",
+  "source": "groundgame"
+}

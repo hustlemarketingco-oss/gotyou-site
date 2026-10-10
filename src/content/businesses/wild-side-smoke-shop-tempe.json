@@ -1,0 +1,46 @@
+{
+  "slug": "wild-side-smoke-shop-tempe",
+  "name": "Wild Side Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Smoke shop",
+  "secondaryCategories": [
+    "Vaporizer store"
+  ],
+  "address": "405 W University Dr Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4214672,
+  "lng": -111.945216,
+  "phone": "+14809661477",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3557048071469280531",
+  "googleCid": "3557048071469280531",
+  "placeId": "ChIJM-VmJwYJK4cREy3q_F8sXTE",
+  "googleRating": 4.3,
+  "googleReviewCount": 86,
+  "description": "Located in Tempe, Wild Side Smoke Shop is a smoke shop & vaporizer store.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 12:00 AM",
+    "sat": "8:00 AM - 12:00 AM",
+    "sun": "8:00 AM - 12:00 AM",
+    "mon": "8:00 AM - 12:00 AM",
+    "tue": "8:00 AM - 12:00 AM",
+    "wed": "8:00 AM - 12:00 AM",
+    "thu": "8:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243930e93e02d906aff94e",
+  "seededAt": "2026-06-06T15:13:52Z",
+  "updatedAt": "2026-07-28T19:21:29Z",
+  "source": "groundgame"
+}

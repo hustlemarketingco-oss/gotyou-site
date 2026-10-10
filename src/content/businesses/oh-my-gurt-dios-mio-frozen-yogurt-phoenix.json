@@ -1,0 +1,37 @@
+{
+  "slug": "oh-my-gurt-dios-mio-frozen-yogurt-phoenix",
+  "name": "Oh My Gurt! Dios Mio Frozen Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1344 W McKinley St #104",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85007",
+  "lat": 33.4572176,
+  "lng": -112.0910748,
+  "phone": "+16025980948",
+  "website": "https://www.ohmygurt.com/",
+  "placeId": "ChIJT4evwugTK4cRkafZxnglWlI",
+  "googleRating": 5,
+  "googleReviewCount": 48,
+  "hours": {
+    "mon": "Closed",
+    "tue": "5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "5:00 PM - 9:00 PM",
+    "fri": "5:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d2bbd679a38dda86d9",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

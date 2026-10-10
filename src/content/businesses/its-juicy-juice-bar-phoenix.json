@@ -1,0 +1,39 @@
+{
+  "slug": "its-juicy-juice-bar-phoenix",
+  "name": "It's Juicy! Juice Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Açaí shop",
+    "Health food store"
+  ],
+  "address": "2020 W Baseline Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85041",
+  "lat": 33.3789416,
+  "lng": -112.1018036,
+  "phone": "+14802746466",
+  "website": "http://www.itsjuicyliving.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=9683062817103099619",
+  "googleCid": "9683062817103099619",
+  "placeId": "ChIJMxU8S8wXK4cR4zY5P1QmYYY",
+  "googleRating": 4.8,
+  "googleReviewCount": 93,
+  "priceRange": "$1–10",
+  "description": "Located in Phoenix, It's Juicy! Juice Bar is a juice shop & açaí shop with takeout & delivery.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a245341cd5d79d5b7ad00b9",
+  "seededAt": "2026-06-06T17:05:05Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

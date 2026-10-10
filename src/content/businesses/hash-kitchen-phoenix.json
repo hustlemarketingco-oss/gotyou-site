@@ -1,0 +1,41 @@
+{
+  "slug": "hash-kitchen-phoenix",
+  "name": "Hash Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Brunch restaurant",
+    "Meal takeaway",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "4315 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.494667899999996,
+  "lng": -111.9888833,
+  "phone": "+16026125580",
+  "website": "http://hashkitchen.com/",
+  "placeId": "ChIJ44Q0mDQNK4cR8gdeHJVXVlM",
+  "googleRating": 4.5,
+  "googleReviewCount": 2162,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c700c37c38d108bc75a",
+  "seededAt": "2026-06-23T05:41:04Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

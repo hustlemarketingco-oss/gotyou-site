@@ -1,0 +1,39 @@
+{
+  "slug": "limon-urban-kitchen-phoenix",
+  "name": "LIMóN Urban Kitchen",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "2750 W Dove Valley Rd STE 190 190",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7859827,
+  "lng": -112.1184298,
+  "phone": "+16234667500",
+  "website": "https://limonurbankitchen.com/",
+  "placeId": "ChIJBxGdrvJjK4cR8ST9fEmZzIQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 1185,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f75383544727822099ee",
+  "seededAt": "2026-07-12T20:21:39Z",
+  "updatedAt": "2026-07-12T20:21:39Z",
+  "source": "groundgame"
+}

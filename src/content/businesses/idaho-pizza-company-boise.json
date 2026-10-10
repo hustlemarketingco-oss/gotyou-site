@@ -1,0 +1,37 @@
+{
+  "slug": "idaho-pizza-company-boise",
+  "name": "Idaho Pizza Company",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1677 S Broadway Ave",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83706",
+  "lat": 43.5924063,
+  "lng": -116.1938492,
+  "phone": "+12083431011",
+  "website": "http://www.idahopizzacompany.com/",
+  "placeId": "ChIJBSX4-EP4rlQR4zpi-jTNH7w",
+  "googleRating": 4.4,
+  "googleReviewCount": 1132,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b4f82cefde189456728",
+  "seededAt": "2026-01-16T01:58:39Z",
+  "updatedAt": "2026-01-16T01:58:39Z",
+  "source": "groundgame"
+}

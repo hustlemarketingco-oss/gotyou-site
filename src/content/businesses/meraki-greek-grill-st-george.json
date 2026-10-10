@@ -1,0 +1,33 @@
+{
+  "slug": "meraki-greek-grill-st-george",
+  "name": "Meráki Greek Grill",
+  "category": "Restaurant",
+  "googleCategory": "Greek restaurant",
+  "address": "473 S River Rd Suite 2",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1003694,
+  "lng": -113.5552209,
+  "phone": "+14352883993",
+  "website": "https://www.merakigreekgrill.com/",
+  "placeId": "ChIJA8ivrRlbyoARweUSfi-aHjs",
+  "googleRating": 4.7,
+  "googleReviewCount": 78,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b18b6a76587a2b6b203",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

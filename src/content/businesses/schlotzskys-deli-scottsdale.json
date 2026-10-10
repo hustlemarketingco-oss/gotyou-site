@@ -1,0 +1,37 @@
+{
+  "slug": "schlotzskys-deli-scottsdale",
+  "name": "Schlotzsky's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "10070 N 90th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5778153,
+  "lng": -111.8865776,
+  "phone": "+14806579449",
+  "website": "https://locations.schlotzskys.com/az/scottsdale/10070-n-90th-st",
+  "placeId": "ChIJR_jLeTl1K4cRlLAELCSEp6s",
+  "googleRating": 4.2,
+  "googleReviewCount": 510,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4961e81a1ab2aaef71cf3f",
+  "seededAt": "2026-07-04T19:41:28Z",
+  "updatedAt": "2026-07-04T19:41:28Z",
+  "source": "groundgame"
+}

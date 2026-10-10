@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-avondale",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "9945 W McDowell Rd #107",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4634365,
+  "lng": -112.2736061,
+  "phone": "+16232093939",
+  "website": "https://locations.massageenvy.com/arizona/avondale/9945-w-mcdowell-rd.html",
+  "placeId": "ChIJxVanULs_K4cRaaF1mJ1y7qY",
+  "googleRating": 4.7,
+  "googleReviewCount": 999,
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e645e429184e613fe2f8",
+  "seededAt": "2026-06-17T18:24:05Z",
+  "updatedAt": "2026-06-17T18:24:06Z",
+  "source": "groundgame"
+}

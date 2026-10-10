@@ -1,0 +1,38 @@
+{
+  "slug": "baseballism-scottsdale",
+  "name": "Baseballism",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Sportswear store",
+    "Sporting goods store"
+  ],
+  "address": "3961 N Brown Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4938387,
+  "lng": -111.92438969999999,
+  "phone": "+14809326545",
+  "website": "http://www.baseballism.com/",
+  "placeId": "ChIJN-DXbr8LK4cR5fbhaAuBRTw",
+  "googleRating": 4.9,
+  "googleReviewCount": 684,
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a28971a39f2db0724ce3b91",
+  "seededAt": "2026-06-09T22:43:38Z",
+  "updatedAt": "2026-06-25T21:24:30Z",
+  "source": "groundgame"
+}

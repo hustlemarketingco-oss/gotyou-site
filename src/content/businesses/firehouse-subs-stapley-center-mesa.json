@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-stapley-center-mesa",
+  "name": "Firehouse Subs Stapley Center",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "1616 S Stapley Dr Ste 101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.384842,
+  "lng": -111.80673999999999,
+  "phone": "+14804974005",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJ5cCkGvWoK4cRXU0WHrdcFrc",
+  "googleRating": 4.3,
+  "googleReviewCount": 669,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afab9ea0b84a218b537",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

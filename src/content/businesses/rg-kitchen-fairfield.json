@@ -1,0 +1,37 @@
+{
+  "slug": "rg-kitchen-fairfield",
+  "name": "RG Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "4437 Central Pl C1",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94534",
+  "lat": 38.2219682,
+  "lng": -122.12532439999998,
+  "phone": "+17077703288",
+  "website": "https://www.rgkitchens.com/",
+  "placeId": "ChIJJwsMNgAThYAR7sugDZ5TMdU",
+  "googleRating": 4.9,
+  "googleReviewCount": 212,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472e787c27a504737acd",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

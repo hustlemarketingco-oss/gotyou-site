@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-1-phoenix",
+  "name": "Yogi's Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "1 E Washington St #175",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4479158,
+  "lng": -112.0727826,
+  "phone": "+16022529644",
+  "website": "http://yogisgrill.com/",
+  "placeId": "ChIJfcIoviESK4cRC7p1Vii_AUQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 520,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971b84d537b24fd911e85",
+  "seededAt": "2026-06-22T17:32:40Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

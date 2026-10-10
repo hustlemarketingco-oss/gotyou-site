@@ -1,0 +1,41 @@
+{
+  "slug": "mvs-tacos-del-valle-gilbert",
+  "name": "MV's Tacos del Valle",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "343 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3565552,
+  "lng": -111.7893631,
+  "phone": "+14807212016",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14628069358954643792",
+  "googleCid": "14628069358954643792",
+  "placeId": "ChIJW9qeJACpK4cRUIFEQpRXAcs",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "amenities": [
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Quick bite"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2643b2222e3df2fc3e42dd",
+  "seededAt": "2026-06-08T04:23:14Z",
+  "updatedAt": "2026-06-08T04:26:27Z",
+  "source": "groundgame"
+}

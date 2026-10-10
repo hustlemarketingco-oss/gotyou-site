@@ -1,0 +1,36 @@
+{
+  "slug": "seven-brothers-gilbert",
+  "name": "Seven Brothers",
+  "category": "Restaurant",
+  "googleCategory": "Family restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2904 S Santan Village Pkwy #104",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.2968701,
+  "lng": -111.74355109999999,
+  "phone": "+14804368190",
+  "website": "https://www.sevenbrothersburgers.com/",
+  "placeId": "ChIJQyATWgCtK4cR9rYG_BEwnL4",
+  "googleRating": 4.8,
+  "googleReviewCount": 490,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01f6fd64054fa37385f9",
+  "seededAt": "2026-06-23T03:48:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

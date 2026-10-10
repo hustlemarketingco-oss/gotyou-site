@@ -1,0 +1,41 @@
+{
+  "slug": "doughbird-5600-phoenix",
+  "name": "Doughbird",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Family restaurant",
+    "Italian restaurant",
+    "Pizza restaurant",
+    "Bar"
+  ],
+  "address": "5600 N 7th St St #100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.51842630000001,
+  "lng": -112.0654187,
+  "phone": "+14807442803",
+  "website": "https://www.eatdoughbird.com/locations/phoenix-7th-st-az/",
+  "placeId": "ChIJNb55OosTK4cRlffBHgYr8sw",
+  "googleRating": 4.6,
+  "googleReviewCount": 392,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a7bd41faad1f89a6a53a65f",
+  "seededAt": "2026-08-12T02:02:07Z",
+  "updatedAt": "2026-08-12T02:02:08Z",
+  "source": "groundgame"
+}

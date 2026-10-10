@@ -1,0 +1,36 @@
+{
+  "slug": "irmitas-casita-mexican-restaurant-st-george",
+  "name": "Irmita's Casita Mexican Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "95 W 700 S",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.0960784,
+  "lng": -113.58522269999999,
+  "phone": "+14357039162",
+  "placeId": "ChIJU8--3SdFyoARTWzAq1evNUI",
+  "googleRating": 4.6,
+  "googleReviewCount": 2149,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361fdc30c445b1a3959",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

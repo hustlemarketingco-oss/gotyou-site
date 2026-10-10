@@ -1,0 +1,37 @@
+{
+  "slug": "el-patron-mexican-food-st-george",
+  "name": "El Patron Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "835 E St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.110166199999995,
+  "lng": -113.56547979999999,
+  "phone": "+14359220617",
+  "website": "http://www.elpatronrestsg.com/",
+  "placeId": "ChIJBRmMaTpFyoARyrdPCO9th4o",
+  "googleRating": 4.3,
+  "googleReviewCount": 403,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361086ea9c072bd7d9f",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

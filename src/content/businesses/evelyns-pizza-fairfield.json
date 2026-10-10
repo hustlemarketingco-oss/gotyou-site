@@ -1,0 +1,37 @@
+{
+  "slug": "evelyns-pizza-fairfield",
+  "name": "Evelyn's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "704 Texas St",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.249387,
+  "lng": -122.04218499999998,
+  "phone": "+17074219000",
+  "website": "http://www.evelynsbigitalianpizza.com/",
+  "placeId": "ChIJGUkY0TkUhYARIqoa-q8wiyI",
+  "googleRating": 4.3,
+  "googleReviewCount": 1381,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee0374d88a315c0e6a",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

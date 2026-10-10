@@ -1,0 +1,37 @@
+{
+  "slug": "kings-fish-house-tempe",
+  "name": "King's Fish House",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "35 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4323501,
+  "lng": -111.9060821,
+  "phone": "+14809669121",
+  "website": "https://www.kingsfishhouse.com/tempe",
+  "placeId": "ChIJrUWmIwAJK4cRtmZfCnBBFr8",
+  "googleRating": 4.3,
+  "googleReviewCount": 2351,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a344f65058ac42f3876cbf3",
+  "seededAt": "2026-06-18T20:04:53Z",
+  "updatedAt": "2026-06-18T20:04:54Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "uptown-cheapskate-scottsdale",
+  "name": "Uptown Cheapskate Scottsdale",
+  "category": "Shopping",
+  "googleCategory": "Womens clothing store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "8664 E Shea Blvd #153",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.5851304,
+  "lng": -111.893705,
+  "phone": "+14802642819",
+  "website": "https://uptowncheapskate.com/location/scottsdale",
+  "placeId": "ChIJ71SuQRh1K4cRcJhhoSK0sMw",
+  "googleRating": 3.8,
+  "googleReviewCount": 82,
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397f8bdf69fa60bf911862",
+  "seededAt": "2026-06-22T18:31:39Z",
+  "updatedAt": "2026-06-22T18:31:40Z",
+  "source": "groundgame"
+}

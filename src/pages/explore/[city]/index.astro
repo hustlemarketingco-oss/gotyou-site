@@ -3,13 +3,14 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import PageHero from '../../../components/PageHero.astro';
 import SpotList from '../../../components/SpotList.astro';
 import { activeBusinesses, byCity, categoriesIn, avgRating } from '../../../lib/explore';
-import { categoryPath, cityPath, hoursFacts, plural, lc } from '../../../lib/profile-content';
+import { categoryPath, cityPath, hoursFacts, isFood, plural, lc } from '../../../lib/profile-content';
 import { categoryIcon } from '../../../lib/business';
 import { topicsForCity, modifiersFor, topicPath } from '../../../lib/topics';
 
 export async function getStaticPaths() {
   const all = await activeBusinesses();
-  return byCity(all).map((c) => ({ params: { city: c.slug }, props: { group: c, others: byCity(all).filter((o) => o.slug !== c.slug) } }));
+  const cities = byCity(all);
+  return cities.map((c) => ({ params: { city: c.slug }, props: { group: c, others: cities.filter((o) => o.slug !== c.slug && o.state === c.state).slice(0, 12).map((o) => ({ city: o.city, state: o.state, items: { length: o.items.length } })) } }));
 }
 
 const { group, others } = Astro.props;
@@ -17,20 +18,21 @@ const { city, state, items } = group;
 const cats = categoriesIn(items);
 const topics = topicsForCity(items);
 const searches = topics.flatMap((t) => [
-  { href: topicPath(city, t.topic), label: t.topic.kind === 'feature' ? `${t.topic.label} in ${city}` : `Best ${lc(t.topic.label)} in ${city}` },
-  ...modifiersFor(t.topic, t.items).map((m) => ({ href: topicPath(city, t.topic, m.mod.slug), label: m.mod.title(t.topic, city) })),
+  { href: topicPath(city, state, t.topic), label: t.topic.kind === 'feature' ? `${t.topic.label} in ${city}` : `Best ${lc(t.topic.label)} in ${city}` },
+  ...modifiersFor(t.topic, t.items).map((m) => ({ href: topicPath(city, state, t.topic, m.mod.slug), label: m.mod.title(t.topic, city) })),
 ]);
 const avg = avgRating(items);
 const lateNight = items.filter((b) => (hoursFacts(b).latest ?? 0) >= 22 * 60).length;
 const top = items.slice(0, 20);
 const site = Astro.site ?? Astro.url;
-const url = new URL(cityPath(city), site).href;
+const url = new URL(cityPath(city, state), site).href;
 
 const intro = `GOTYOU lists ${items.length} local ${items.length === 1 ? 'business' : 'businesses'} in ${city}, ${state}${avg ? `, with an average Google rating of ${avg.toFixed(1)} stars` : ''}. The most popular right now are ${top.slice(0, 3).map((b) => b.name).join(', ')}${lateNight ? `, and ${lateNight} ${lateNight === 1 ? 'spot stays' : 'spots stay'} open until 10 PM or later` : ''}.`;
+const topFood = items.filter(isFood).slice(0, 5);
 const faqs = [
-  { q: `What are the best places to eat in ${city}, ${state}?`, a: `Based on Google ratings and review volume, top picks in ${city} include ${top.slice(0, 5).map((b) => `${b.name} (${b.googleRating?.toFixed(1) ?? '—'}★)`).join(', ')}.` },
+  ...(topFood.length ? [{ q: `What are the best places to eat in ${city}, ${state}?`, a: `Based on Google ratings and review volume, top picks in ${city} include ${topFood.map((b) => `${b.name} (${b.googleRating?.toFixed(1) ?? '—'}★)`).join(', ')}.` }] : []),
   ...(lateNight ? [{ q: `What’s open late in ${city}?`, a: `${lateNight} ${lateNight === 1 ? 'spot is' : 'spots are'} open until 10 PM or later, including ${items.filter((b) => (hoursFacts(b).latest ?? 0) >= 22 * 60).slice(0, 3).map((b) => b.name).join(', ')}.` }] : []),
-  { q: `How many restaurants and cafes in ${city} are on GOTYOU?`, a: `${items.length} — ${cats.map((c) => `${c.items.length} ${lc(plural(c.category))}`).join(', ')}.` },
+  { q: `How many local businesses in ${city} does GOTYOU list?`, a: `${items.length} — ${cats.map((c) => `${c.items.length} ${lc(plural(c.category))}`).join(', ')}.` },
 ];
 const ld = [
   { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
@@ -54,7 +56,7 @@ const ld = [
       <div>
         <h2 class="h3 sec-title">Top {Math.min(20, items.length)} in {city}</h2>
         <SpotList items={top} />
-        {items.length > top.length && <p class="more"><a href={`/businesses/?city=${encodeURIComponent(city)}`} class="link-arrow">See all {items.length} in {city} <i class="ti ti-arrow-right"></i></a></p>}
+        {items.length > top.length && <p class="more"><a href={`/businesses/?city=${encodeURIComponent(`${city}, ${state}`)}`} class="link-arrow">See all {items.length} in {city} <i class="ti ti-arrow-right"></i></a></p>}
 
         {searches.length > 0 && (
           <section class="searches">
@@ -73,7 +75,7 @@ const ld = [
           <h2>{city} by cuisine</h2>
           <ul>
             {topics.filter((t) => t.topic.kind === 'cuisine').map((t) => (
-              <li><i class="ti ti-tools-kitchen-2"></i><a href={topicPath(city, t.topic)}>{t.topic.label}</a><small>{t.items.length}</small></li>
+              <li><i class="ti ti-tools-kitchen-2"></i><a href={topicPath(city, state, t.topic)}>{t.topic.label}</a><small>{t.items.length}</small></li>
             ))}
           </ul>
         </div>
@@ -81,14 +83,14 @@ const ld = [
           <h2>Popular in {city}</h2>
           <ul>
             {topics.filter((t) => t.topic.kind !== 'cuisine').map((t) => (
-              <li><i class:list={['ti', t.topic.kind === 'category' ? categoryIcon(t.topic.label) : 'ti-star']}></i><a href={topicPath(city, t.topic)}>{t.topic.label}</a><small>{t.items.length}</small></li>
+              <li><i class:list={['ti', t.topic.kind === 'category' ? categoryIcon(t.topic.label) : 'ti-star']}></i><a href={topicPath(city, state, t.topic)}>{t.topic.label}</a><small>{t.items.length}</small></li>
             ))}
           </ul>
         </div>
         {others.length > 0 && (
           <div class="card card--pad side">
-            <h2>Nearby cities</h2>
-            <ul>{others.map((o) => <li><i class="ti ti-map-pin"></i><a href={cityPath(o.city)}>{o.city}</a><small>{o.items.length}</small></li>)}</ul>
+            <h2>More cities in {state}</h2>
+            <ul>{others.map((o) => <li><i class="ti ti-map-pin"></i><a href={cityPath(o.city, o.state)}>{o.city}</a><small>{o.items.length}</small></li>)}</ul>
           </div>
         )}
       </aside>

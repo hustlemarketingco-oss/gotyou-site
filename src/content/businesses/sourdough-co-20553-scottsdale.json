@@ -1,0 +1,37 @@
+{
+  "slug": "sourdough-co-20553-scottsdale",
+  "name": "Sourdough & Co. Scottsdale",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "20553 Hayden Rd Suite 110",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.672148799999995,
+  "lng": -111.905537,
+  "phone": "+14805636422",
+  "website": "https://sourdoughandco.com/arizona-scottsdale-1",
+  "placeId": "ChIJpbMJKWt3K4cRNDITNMdF70k",
+  "googleRating": 4.3,
+  "googleReviewCount": 140,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 7:00 PM",
+    "tue": "10:30 AM - 7:00 PM",
+    "wed": "10:30 AM - 7:00 PM",
+    "thu": "10:30 AM - 7:00 PM",
+    "fri": "10:30 AM - 7:00 PM",
+    "sat": "10:30 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27653577f3055adee407ab",
+  "seededAt": "2026-06-09T00:58:29Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "spa-nail-creations-mesa",
+  "name": "Spa & Nail Creations",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "1229 E McKellips Rd #106",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85203",
+  "lat": 33.4511616,
+  "lng": -111.8031101,
+  "phone": "+14808331772",
+  "website": "http://spaandnailcreationsmesa.com/",
+  "placeId": "ChIJUVIHAVamK4cRaRDb5E1j0QM",
+  "googleRating": 4.3,
+  "googleReviewCount": 805,
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34359cce547fff24a53d37",
+  "seededAt": "2026-06-18T18:14:52Z",
+  "updatedAt": "2026-06-18T18:14:54Z",
+  "source": "groundgame"
+}

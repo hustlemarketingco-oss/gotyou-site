@@ -1,0 +1,47 @@
+{
+  "slug": "refresh-gilbert",
+  "name": "Refresh",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Soft drinks shop"
+  ],
+  "address": "727 W Ray Rd B4",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3193408,
+  "lng": -111.8058302,
+  "website": "https://www.siprefresh.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8384861176976881895",
+  "googleCid": "8384861176976881895",
+  "placeId": "ChIJ39BTY06rK4cR57iryNACXXQ",
+  "googleRating": 5,
+  "googleReviewCount": 76,
+  "priceRange": "$1–10",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://instagram.com/siprefresh"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2648cfa398d0372ff3a5bf",
+  "seededAt": "2026-06-08T04:45:03Z",
+  "updatedAt": "2026-06-08T04:45:03Z",
+  "source": "groundgame"
+}

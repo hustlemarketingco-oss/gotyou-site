@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-1829-gilbert",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1829 E Williams Field Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3061431,
+  "lng": -111.7505898,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/san-tan",
+  "placeId": "ChIJ16Pu5ZatK4cRIMm5QDDjG_g",
+  "googleRating": 4.2,
+  "googleReviewCount": 350,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725bb95c9159f02f6819",
+  "seededAt": "2026-07-10T22:29:47Z",
+  "updatedAt": "2026-07-10T22:29:48Z",
+  "source": "groundgame"
+}

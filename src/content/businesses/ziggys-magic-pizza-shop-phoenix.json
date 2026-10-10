@@ -1,0 +1,37 @@
+{
+  "slug": "ziggys-magic-pizza-shop-phoenix",
+  "name": "Ziggys Magic Pizza Shop",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "401 W Van Buren St Suite B",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.4511428,
+  "lng": -112.07976409999999,
+  "phone": "+16023543004",
+  "website": "http://www.ziggyspizzaphx.com/",
+  "placeId": "ChIJHbB13dQTK4cRauBAXkcFlWM",
+  "googleRating": 4.5,
+  "googleReviewCount": 2209,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "12:00 PM - 2:00 AM",
+    "sat": "12:00 PM - 2:00 AM",
+    "sun": "12:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb19902c9434b39c82a6",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

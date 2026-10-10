@@ -1,0 +1,40 @@
+{
+  "slug": "el-hefe-scottsdale",
+  "name": "El Hefe Scottsdale",
+  "category": "Bars & Pubs",
+  "googleCategory": "Night club",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar",
+    "Sports club",
+    "Association or organization"
+  ],
+  "address": "4425 N Saddlebag Trail #101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5013278,
+  "lng": -111.9220194,
+  "phone": "+17028290251",
+  "website": "https://elhefe.com/",
+  "placeId": "ChIJ72lvgrsLK4cRHOcZ-Wd0DcQ",
+  "googleRating": 3.7,
+  "googleReviewCount": 883,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 PM - 2:00 AM",
+    "wed": "8:00 PM - 2:00 AM",
+    "thu": "8:00 PM - 2:00 AM",
+    "fri": "6:00 PM - 2:00 AM",
+    "sat": "2:00 PM - 2:00 AM",
+    "sun": "2:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01eb66b44e43c9846304",
+  "seededAt": "2026-06-23T03:47:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

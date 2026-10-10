@@ -1,0 +1,36 @@
+{
+  "slug": "crumbl-mesa",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cookie shop",
+  "secondaryCategories": [
+    "Dessert shop"
+  ],
+  "address": "1804 S Signal Butte Rd Ste 103",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "phone": "+16026612799",
+  "priceRange": "$$",
+  "description": "Located in Mesa, Crumbl is a cookie shop & dessert shop with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/crumblcookies"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24536550d3bda2e5e93cab",
+  "seededAt": "2026-06-06T17:05:41Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

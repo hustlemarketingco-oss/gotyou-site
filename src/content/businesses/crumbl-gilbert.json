@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-gilbert",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2743 S Market St Ste 105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3005126,
+  "lng": -111.7432654,
+  "phone": "+14806459555",
+  "website": "https://crumblcookies.com/stores/az/mesa-area/gilbert",
+  "placeId": "ChIJaWopi4itK4cRzetLqc4sWA8",
+  "googleRating": 4.7,
+  "googleReviewCount": 3071,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a67610e73fabbaedf25c7d4",
+  "seededAt": "2026-07-27T13:45:50Z",
+  "updatedAt": "2026-07-27T13:45:50Z",
+  "source": "groundgame"
+}

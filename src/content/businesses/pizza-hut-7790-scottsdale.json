@@ -1,0 +1,42 @@
+{
+  "slug": "pizza-hut-7790-scottsdale",
+  "name": "Pizza Hut",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Pizza takeout"
+  ],
+  "address": "7790 E McDowell Rd STE 102",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "phone": "+14809463145",
+  "priceRange": "$10–20",
+  "description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/PizzaHut"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244063fd541fd5085f3c43",
+  "seededAt": "2026-06-06T15:44:35Z",
+  "updatedAt": "2026-06-12T22:05:50Z",
+  "source": "groundgame"
+}

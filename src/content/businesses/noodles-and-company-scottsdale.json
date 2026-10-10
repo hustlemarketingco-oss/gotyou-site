@@ -1,0 +1,43 @@
+{
+  "slug": "noodles-and-company-scottsdale",
+  "name": "Noodles and Company",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Salad shop",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store",
+    "Soup restaurant"
+  ],
+  "address": "4902 E Shea Blvd #106",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.5830787,
+  "lng": -111.97658539999999,
+  "phone": "+14808087560",
+  "website": "https://locations.noodles.com/az/scottsdale/4902-east-shea-blvd",
+  "placeId": "ChIJUy_pfAVzK4cRNLpE8ge_lws",
+  "googleRating": 3.9,
+  "googleReviewCount": 137,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ace377ca6a7c40d5602",
+  "seededAt": "2026-06-18T17:28:46Z",
+  "updatedAt": "2026-06-18T17:28:50Z",
+  "source": "groundgame"
+}

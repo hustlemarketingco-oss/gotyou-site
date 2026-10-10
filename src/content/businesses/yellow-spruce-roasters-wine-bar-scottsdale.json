@@ -1,0 +1,41 @@
+{
+  "slug": "yellow-spruce-roasters-wine-bar-scottsdale",
+  "name": "Yellow Spruce Roasters & Wine Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Wine bar",
+    "Coffee roastery",
+    "Cocktail bar",
+    "Bar",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3902 N Brown Ave #101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4924398,
+  "lng": -111.9248112,
+  "phone": "+14805901935",
+  "website": "https://www.yellowspruceroasters.net/",
+  "placeId": "ChIJ5XYV42kLK4cRQTF4bNg8CBs",
+  "googleRating": 4.5,
+  "googleReviewCount": 202,
+  "hours": {
+    "mon": "6:00 AM - 7:00 PM",
+    "tue": "6:00 AM - 7:00 PM",
+    "wed": "6:00 AM - 7:00 PM",
+    "thu": "6:00 AM - 7:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "6:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656cb15f582f51c23bf3",
+  "seededAt": "2026-06-09T00:59:24Z",
+  "updatedAt": "2026-08-06T18:22:34Z",
+  "source": "groundgame"
+}

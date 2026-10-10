@@ -1,0 +1,37 @@
+{
+  "slug": "vitos-pizza-santa-monica",
+  "name": "Vito's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2455 Santa Monica Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90404",
+  "lat": 34.0326434,
+  "lng": -118.47552100000001,
+  "phone": "+13108845900",
+  "website": "http://www.vitossm.com/",
+  "placeId": "ChIJn5JcY0i7woAR0etz7gkE5ag",
+  "googleRating": 4.3,
+  "googleReviewCount": 729,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50ce0bb0e99126a29d7",
+  "seededAt": "2026-02-10T21:37:16Z",
+  "updatedAt": "2026-02-10T21:37:16Z",
+  "source": "groundgame"
+}

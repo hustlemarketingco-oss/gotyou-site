@@ -1,0 +1,44 @@
+{
+  "slug": "bosa-donuts-805-mesa",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Food store"
+  ],
+  "address": "805 N Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.430475699999995,
+  "lng": -111.8736804,
+  "phone": "+14806990066",
+  "website": "http://bosadonutsaz.com/locations/",
+  "placeId": "ChIJbSu7FUkHK4cRqRsVBoNvmRA",
+  "googleRating": 4.4,
+  "googleReviewCount": 697,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Google Pay",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "4:00 AM - 11:00 PM",
+    "tue": "4:00 AM - 11:00 PM",
+    "wed": "4:00 AM - 11:00 PM",
+    "thu": "4:00 AM - 11:00 PM",
+    "fri": "4:00 AM - 11:00 PM",
+    "sat": "4:00 AM - 11:00 PM",
+    "sun": "4:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec770e33e2edad28622c",
+  "seededAt": "2026-06-17T18:50:31Z",
+  "updatedAt": "2026-07-17T19:02:29Z",
+  "source": "groundgame"
+}

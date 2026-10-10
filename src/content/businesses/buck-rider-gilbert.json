@@ -1,0 +1,37 @@
+{
+  "slug": "buck-rider-gilbert",
+  "name": "Buck & Rider Gilbert",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3150 E Ray Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.322417,
+  "lng": -111.7243293,
+  "phone": "+14805369494",
+  "website": "https://www.buckandrider.com/gilbert/",
+  "placeId": "ChIJZfQ8hv-tK4cRWCCTK4w6aaU",
+  "googleRating": 4.7,
+  "googleReviewCount": 1740,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a0107fbf04f9b6a315857",
+  "seededAt": "2026-06-23T03:44:07Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

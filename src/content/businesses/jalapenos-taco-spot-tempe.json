@@ -1,0 +1,34 @@
+{
+  "slug": "jalapenos-taco-spot-tempe",
+  "name": "Jalapeno's Taco Spot",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1125 S Terrace Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4158012,
+  "lng": -111.9218753,
+  "placeId": "ChIJnQOGkLkJK4cRn-iOE9fZyLs",
+  "googleRating": 4.9,
+  "googleReviewCount": 86,
+  "hours": {
+    "mon": "Closed",
+    "tue": "3:00 PM - 12:00 AM",
+    "wed": "3:00 PM - 12:00 AM",
+    "thu": "3:00 PM - 12:00 AM",
+    "fri": "3:00 PM - 12:00 AM",
+    "sat": "3:00 PM - 12:00 AM",
+    "sun": "3:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438c6d282dce47015e8c8",
+  "seededAt": "2026-06-18T18:28:22Z",
+  "updatedAt": "2026-06-18T18:28:22Z",
+  "source": "groundgame"
+}

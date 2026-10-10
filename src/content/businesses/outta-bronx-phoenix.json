@@ -1,0 +1,37 @@
+{
+  "slug": "outta-bronx-phoenix",
+  "name": "Outta Bronx",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4105 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4653529,
+  "lng": -111.9926435,
+  "phone": "+16029005468",
+  "website": "https://www.outtabronxaz.com/",
+  "placeId": "ChIJRVoavy4MK4cRpRe1iG8QK7A",
+  "googleRating": 4.6,
+  "googleReviewCount": 1285,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2753904195e9b473ae32e4",
+  "seededAt": "2026-06-08T23:43:12Z",
+  "updatedAt": "2026-06-08T23:43:12Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "jimmy-johns-25101-peoria",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "25101 N Lake Pleasant Pkwy #1330",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7113976,
+  "lng": -112.27133769999999,
+  "phone": "+16235372233",
+  "website": "https://locations.jimmyjohns.com/az/peoria/sandwiches-1742.html&y_source=1_MjAyNDA4MzIwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJRfcCtKVdK4cRAX8HDBHzvj8",
+  "googleRating": 3.8,
+  "googleReviewCount": 297,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3579326c34f0ccaf4c26bf",
+  "seededAt": "2026-06-19T17:15:30Z",
+  "updatedAt": "2026-06-19T17:15:31Z",
+  "source": "groundgame"
+}

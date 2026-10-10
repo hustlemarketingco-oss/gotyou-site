@@ -1,0 +1,43 @@
+{
+  "slug": "indy-clover-tempe",
+  "name": "Indy Clover Tempe",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Discount store",
+    "Clothing store"
+  ],
+  "address": "937 E Broadway Rd Ste 4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4065854,
+  "lng": -111.92435530000002,
+  "phone": "+16028072046",
+  "website": "https://www.indyclover.com/location/tempe",
+  "placeId": "ChIJR3fhQ2IJK4cRUqfQhf96LE0",
+  "googleRating": 4.7,
+  "googleReviewCount": 63,
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Credit card",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a60cdcfe5e1113ca17ad",
+  "seededAt": "2026-06-22T21:15:56Z",
+  "updatedAt": "2026-07-20T18:23:45Z",
+  "source": "groundgame"
+}

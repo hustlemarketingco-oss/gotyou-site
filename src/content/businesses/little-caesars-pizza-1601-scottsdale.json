@@ -1,0 +1,53 @@
+{
+  "slug": "little-caesars-pizza-1601-scottsdale",
+  "name": "Little Caesars Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Pizza delivery",
+    "Pizza takeout"
+  ],
+  "address": "1601 N Beeline Hwy",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85256",
+  "lat": 33.466437,
+  "lng": -111.842439,
+  "phone": "+14802916584",
+  "website": "https://littlecaesars.com/en-us/store/11984",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6979631155867322549",
+  "googleCid": "6979631155867322549",
+  "placeId": "ChIJ_4uSrfqnK4cRtYi4fI6h3GA",
+  "googleRating": 4.3,
+  "googleReviewCount": 29,
+  "priceRange": "$10–20",
+  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Quick bite"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM",
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24407aa4bcb76425604f49",
+  "seededAt": "2026-06-06T15:44:58Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

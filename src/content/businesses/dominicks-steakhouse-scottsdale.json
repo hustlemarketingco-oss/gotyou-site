@@ -1,0 +1,51 @@
+{
+  "slug": "dominicks-steakhouse-scottsdale",
+  "name": "Dominick's Steakhouse",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Fine dining restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "15169 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "phone": "+14802727271",
+  "priceRange": "$100+",
+  "description": "High-end chophouse for steaks & seafood served in a chic setting with poolside dining on the roof.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/DominicksSteakhouse"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e996fe2d564cf0ab004",
+  "seededAt": "2026-06-06T15:36:57Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

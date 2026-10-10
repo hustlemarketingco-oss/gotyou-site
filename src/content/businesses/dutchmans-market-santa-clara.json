@@ -1,0 +1,41 @@
+{
+  "slug": "dutchmans-market-santa-clara",
+  "name": "Dutchman's Market",
+  "category": "Shopping",
+  "googleCategory": "Gas station",
+  "secondaryCategories": [
+    "Convenience store",
+    "Bakery",
+    "Wholesaler",
+    "Clothing store",
+    "Food store"
+  ],
+  "address": "2300 Santa Clara Dr",
+  "city": "Santa Clara",
+  "state": "UT",
+  "zip": "84765",
+  "lat": 37.1273656,
+  "lng": -113.6385701,
+  "phone": "+14356288482",
+  "website": "http://www.dutchmansut.com/",
+  "placeId": "ChIJq967BIpDyoARveog4mlz9bI",
+  "googleRating": 4.4,
+  "googleReviewCount": 112,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8945ae27441d38c75c5",
+  "seededAt": "2025-12-17T18:38:12Z",
+  "updatedAt": "2025-12-17T18:38:12Z",
+  "source": "groundgame"
+}

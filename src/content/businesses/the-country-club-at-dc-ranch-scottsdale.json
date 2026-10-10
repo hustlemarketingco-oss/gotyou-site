@@ -1,0 +1,42 @@
+{
+  "slug": "the-country-club-at-dc-ranch-scottsdale",
+  "name": "The Country Club at DC Ranch",
+  "category": "Fun & Activities",
+  "googleCategory": "Golf course",
+  "secondaryCategories": [
+    "Resort hotel",
+    "Hotel",
+    "Athletic field",
+    "Sports activity location",
+    "Lodging",
+    "Sports club",
+    "Association or organization"
+  ],
+  "address": "9290 E Thompson Peak Pkwy Unit 1",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6769564,
+  "lng": -111.8749766,
+  "phone": "+14803427200",
+  "website": "http://www.ccdcranch.com/",
+  "placeId": "ChIJI416qT52K4cRFIv6UCNe7vE",
+  "googleRating": 4.7,
+  "googleReviewCount": 231,
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01f0a0091ee3c3ba8d71",
+  "seededAt": "2026-06-23T03:48:00Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

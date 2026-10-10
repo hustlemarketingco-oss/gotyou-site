@@ -1,0 +1,37 @@
+{
+  "slug": "sushi-sen-scottsdale",
+  "name": "Sushi Sen Scottsdale",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant"
+  ],
+  "address": "7001 N Scottsdale Rd STE 154",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.539442199999996,
+  "lng": -111.9244908,
+  "phone": "+14804837000",
+  "website": "http://www.sushisenaz.com/",
+  "placeId": "ChIJV-nfnD4LK4cR_SsgamPVMGg",
+  "googleRating": 4.4,
+  "googleReviewCount": 751,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "tue": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "wed": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "thu": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "fri": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "sat": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM",
+    "sun": "11:30 AM - 2:30 PM, 4:30 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d7ead82c03d64150e0",
+  "seededAt": "2026-06-09T01:05:27Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

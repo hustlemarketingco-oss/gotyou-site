@@ -1,0 +1,39 @@
+{
+  "slug": "phoenix-flower-shops-phoenix",
+  "name": "Phoenix Flower Shops",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Gift shop",
+    "Farm",
+    "Wholesaler",
+    "Supplier"
+  ],
+  "address": "4921 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4650611,
+  "lng": -111.9753308,
+  "phone": "+16028401200",
+  "website": "https://www.phoenixflowershops.com/?srccode=gmb",
+  "placeId": "ChIJHZaRsxUMK4cRd9sRZA5pDIw",
+  "googleRating": 4.5,
+  "googleReviewCount": 183,
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ed521104d09ffbc5d71fd",
+  "seededAt": "2026-06-26T19:38:09Z",
+  "updatedAt": "2026-06-26T19:38:12Z",
+  "source": "groundgame"
+}

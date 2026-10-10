@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-275-phoenix",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "275 E Bell Rd Ste 102",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.6390241,
+  "lng": -112.07042729999999,
+  "phone": "+16028750177",
+  "website": "https://locations.massageenvy.com/arizona/phoenix/275-e-bell-rd.html",
+  "placeId": "ChIJTSeMQj9uK4cR1KHhLo50o40",
+  "googleRating": 4.6,
+  "googleReviewCount": 820,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e641608803854000ff09",
+  "seededAt": "2026-06-17T18:24:01Z",
+  "updatedAt": "2026-06-17T18:24:01Z",
+  "source": "groundgame"
+}

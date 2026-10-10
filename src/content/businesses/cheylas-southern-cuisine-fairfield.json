@@ -1,0 +1,36 @@
+{
+  "slug": "cheylas-southern-cuisine-fairfield",
+  "name": "Che'yla's Southern Cuisine",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1350 Travis Blvd suite 1510 a",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2608758,
+  "lng": -122.05484159999999,
+  "phone": "+17074273338",
+  "website": "http://cheylas.com/",
+  "placeId": "ChIJn0u6MuQNhYARabSZyK56jnA",
+  "googleRating": 4.5,
+  "googleReviewCount": 65,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472e7a7f8a5038b63406",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

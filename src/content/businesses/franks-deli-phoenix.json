@@ -1,0 +1,38 @@
+{
+  "slug": "franks-deli-phoenix",
+  "name": "Frank's Deli",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Market",
+    "Food store"
+  ],
+  "address": "2301 W Orange Dr",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.5119859,
+  "lng": -112.10859939999999,
+  "phone": "+16022428288",
+  "placeId": "ChIJcVNxoDoTK4cRYhDEn0btqmk",
+  "googleRating": 4.8,
+  "googleReviewCount": 1276,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275394c57e085e23b2ba6b",
+  "seededAt": "2026-06-08T23:43:16Z",
+  "updatedAt": "2026-06-08T23:43:17Z",
+  "source": "groundgame"
+}

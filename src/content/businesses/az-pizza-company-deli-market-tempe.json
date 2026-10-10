@@ -1,0 +1,49 @@
+{
+  "slug": "az-pizza-company-deli-market-tempe",
+  "name": "AZ PIZZA COMPANY DELI & MARKET",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "address": "400 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4299101,
+  "lng": -111.9331526,
+  "phone": "+16022108899",
+  "website": "https://azpizzacotempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2960710476536045768",
+  "googleCid": "2960710476536045768",
+  "placeId": "ChIJpezih8oJK4cRyGC17H2OFik",
+  "googleRating": 4,
+  "googleReviewCount": 33,
+  "priceRange": "$10–20",
+  "description": "Located in Tempe, AZ PIZZA COMPANY DELI & MARKET is a pizza delivery with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/azpizzacotempe"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed",
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243832a0d943129b9838fb",
+  "seededAt": "2026-06-06T15:09:38Z",
+  "updatedAt": "2026-06-06T15:09:38Z",
+  "source": "groundgame"
+}

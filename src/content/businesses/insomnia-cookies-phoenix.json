@@ -1,0 +1,37 @@
+{
+  "slug": "insomnia-cookies-phoenix",
+  "name": "Insomnia Cookies",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Cookie shop",
+    "Ice cream shop"
+  ],
+  "address": "CityScape",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4479917,
+  "lng": -112.0727617,
+  "phone": "+16028132200",
+  "website": "https://insomniacookies.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14490458279289383440",
+  "googleCid": "14490458279289383440",
+  "placeId": "ChIJW4lPbqgTK4cREGqpAQhzGMk",
+  "googleRating": 3.6,
+  "googleReviewCount": 143,
+  "priceRange": "$$",
+  "description": "Bakery chain known for warm cookies, ice cream & late-night deliveries.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4eab5e0f2ad7e864f8",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

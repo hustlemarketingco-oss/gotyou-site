@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-4501-phoenix",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "4501 E Cactus Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.5993034,
+  "lng": -111.987298,
+  "phone": "+16027651430",
+  "website": "https://restaurants.ihop.com/en-us/az/phoenix/breakfast-4501-e-cactus-rd-1516",
+  "placeId": "ChIJp7WjurpzK4cR13h5n6S7lII",
+  "googleRating": 3.9,
+  "googleReviewCount": 2625,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32dde0d4c0d0ca463ddbde",
+  "seededAt": "2026-06-17T17:48:16Z",
+  "updatedAt": "2026-06-17T17:48:17Z",
+  "source": "groundgame"
+}

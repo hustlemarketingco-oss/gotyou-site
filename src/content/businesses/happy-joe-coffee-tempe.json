@@ -1,0 +1,42 @@
+{
+  "slug": "happy-joe-coffee-tempe",
+  "name": "Happy Joe Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "213 E 7th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4229773,
+  "lng": -111.93640149999999,
+  "phone": "+14808434042",
+  "website": "http://www.happyjoecoffee.com/",
+  "placeId": "ChIJkRMCLwcJK4cRY9swl6-ZVRk",
+  "googleRating": 4.1,
+  "googleReviewCount": 107,
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Cash"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 3:30 PM",
+    "tue": "8:00 AM - 3:30 PM",
+    "wed": "8:00 AM - 3:30 PM",
+    "thu": "8:00 AM - 3:30 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 3:30 PM",
+    "sun": "8:00 AM - 3:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31abdf6059cbf8d4c2c8b5",
+  "seededAt": "2026-06-16T20:02:39Z",
+  "updatedAt": "2026-08-06T19:39:35Z",
+  "source": "groundgame"
+}

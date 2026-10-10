@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-phoenix",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "2415 E Baseline Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.377365,
+  "lng": -112.0295769,
+  "phone": "+16022687733",
+  "website": "https://smashburger.com/locations/us/az/phoenix/2415-e-baseline-rd",
+  "placeId": "ChIJ1QMH-e0PK4cRnWfLXmH5ITo",
+  "googleRating": 4.2,
+  "googleReviewCount": 997,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cb6207396c535c3ca81",
+  "seededAt": "2026-06-19T17:30:30Z",
+  "updatedAt": "2026-06-19T17:30:32Z",
+  "source": "groundgame"
+}

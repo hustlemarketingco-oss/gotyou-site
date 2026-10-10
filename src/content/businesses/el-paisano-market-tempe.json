@@ -1,0 +1,37 @@
+{
+  "slug": "el-paisano-market-tempe",
+  "name": "El Paisano Market",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Market"
+  ],
+  "address": "1035 E Lemon St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.416482699999996,
+  "lng": -111.9225461,
+  "phone": "+16027264940",
+  "website": "http://elpaisanotogo.com/",
+  "placeId": "ChIJzftOK-8IK4cRdadPJrbxpYU",
+  "googleRating": 4.4,
+  "googleReviewCount": 906,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 3:00 AM",
+    "tue": "8:00 AM - 3:00 AM",
+    "wed": "8:00 AM - 3:00 AM",
+    "thu": "8:00 AM - 4:00 AM",
+    "fri": "8:00 AM - 4:00 AM",
+    "sat": "8:00 AM - 4:00 AM",
+    "sun": "8:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a358f7982c5e799338d526d",
+  "seededAt": "2026-06-19T18:50:33Z",
+  "updatedAt": "2026-06-19T18:50:34Z",
+  "source": "groundgame"
+}

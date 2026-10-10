@@ -1,0 +1,39 @@
+{
+  "slug": "n-y-giant-pizza-boise",
+  "name": "N.Y. Giant Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "7709 W Overland Rd #140",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83709",
+  "lat": 43.588996099999996,
+  "lng": -116.2783433,
+  "phone": "+12083220014",
+  "website": "http://www.nygpboise.com/",
+  "placeId": "ChIJ5cwWU1JWrlQRyq2D4DQKeZo",
+  "googleRating": 4.4,
+  "googleReviewCount": 355,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b4fcefd8f20b329311d",
+  "seededAt": "2026-01-16T01:58:39Z",
+  "updatedAt": "2026-01-16T01:58:39Z",
+  "source": "groundgame"
+}

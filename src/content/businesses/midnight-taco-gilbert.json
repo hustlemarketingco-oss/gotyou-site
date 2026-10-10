@@ -1,0 +1,43 @@
+{
+  "slug": "midnight-taco-gilbert",
+  "name": "Midnight Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant"
+  ],
+  "address": "339 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3563448,
+  "lng": -111.7893682,
+  "phone": "+14804508680",
+  "website": "http://www.midnighttaco.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16685999850804809084",
+  "googleCid": "16685999850804809084",
+  "placeId": "ChIJVVVpExepK4cRfA1xRXWUkOc",
+  "googleRating": 4.3,
+  "googleReviewCount": 51,
+  "priceRange": "$10–20",
+  "amenities": [
+    "Outdoor seating",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Quick bite"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2643ed649a3cf9fff5689e",
+  "seededAt": "2026-06-08T04:24:13Z",
+  "updatedAt": "2026-06-08T04:26:09Z",
+  "source": "groundgame"
+}

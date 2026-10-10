@@ -1,0 +1,37 @@
+{
+  "slug": "seven-brothers-burgers-st-george-washington",
+  "name": "Seven Brothers Burgers - St. George",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "1560 Grapevine Crossing Rd Suite 2",
+  "city": "Washington",
+  "state": "UT",
+  "zip": "84780",
+  "lat": 37.144943,
+  "lng": -113.48368649999999,
+  "phone": "+14353198400",
+  "website": "https://sevenbrothersburgers.com/",
+  "placeId": "ChIJKxh48idbyoARtx3nTe_dfR0",
+  "googleRating": 4.9,
+  "googleReviewCount": 1487,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8597b4ff24394ec00dc",
+  "seededAt": "2025-12-17T18:37:13Z",
+  "updatedAt": "2025-12-17T18:37:13Z",
+  "source": "groundgame"
+}

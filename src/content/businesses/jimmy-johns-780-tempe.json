@@ -1,0 +1,37 @@
+{
+  "slug": "jimmy-johns-780-tempe",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "780 W Elliot Rd #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495881,
+  "lng": -111.9496856,
+  "phone": "+14803398888",
+  "website": "https://locations.jimmyjohns.com/az/tempe/sandwiches-1472.html&y_source=1_MjAyNDA4MzYxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ6bpuA9gFK4cRXmIr9iAdkzc",
+  "googleRating": 3.8,
+  "googleReviewCount": 221,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a35792014745ae87fe4a316",
+  "seededAt": "2026-06-19T17:15:12Z",
+  "updatedAt": "2026-06-19T17:15:13Z",
+  "source": "groundgame"
+}

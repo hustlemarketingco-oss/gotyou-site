@@ -1,0 +1,39 @@
+{
+  "slug": "dolce-italia-by-mekk-phoenix",
+  "name": "Dolce Italia by MEKK",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Pastry shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "800N N 2nd St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4567918,
+  "lng": -112.0716229,
+  "phone": "+14807974994",
+  "website": "https://dolce-italia-info.lovable.app/",
+  "placeId": "ChIJr2IhRv4RK4cROGI2VRnFbUM",
+  "googleRating": 4.9,
+  "googleReviewCount": 269,
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 3:00 AM",
+    "sat": "8:00 AM - 3:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4eb0a3df08a8567821",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

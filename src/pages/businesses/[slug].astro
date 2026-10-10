@@ -1,10 +1,14 @@
 ---
-import { getCollection } from 'astro:content';
+import { allBusinessData, activeInState } from '../../lib/explore';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ClaimSidebar from '../../components/ClaimSidebar.astro';
 import { DAYS, categoryIcon, formatPhone, sizedPhoto, to24hRanges, websiteHost } from '../../lib/business';
 import { profileContent, cityPath, categoryPath, plural, fmtMiles, MIN_CATEGORY_LISTINGS } from '../../lib/profile-content';
 import { cuisinesFor } from '../../lib/topics';
+import { slugify } from '../../lib/profile-content';
+import ogCards from '../../data/og-cards.json';
+
+const OG_CARDS = new Set<string>(ogCards);
 
 // This is the function that turns "businesses in the content collection"
 // into "real pages on the site." Every entry in src/content/businesses/
@@ -12,19 +16,18 @@ import { cuisinesFor } from '../../lib/topics';
 // script or by hand) and the next build produces a new URL with zero
 // additional code.
 export async function getStaticPaths() {
-  const businesses = await getCollection('businesses');
-  return businesses.map((b) => ({
-    params: { slug: b.data.slug },
-    props: { business: b.data, allBusinesses: businesses },
-  }));
+  // Only the slug goes through props: passing the whole collection to every page made each one
+  // serialize ~6k listings. Pages read the shared, cached collection instead.
+  return (await allBusinessData()).map((b) => ({ params: { slug: b.slug }, props: { slug: b.slug } }));
 }
 
-const { business: b, allBusinesses } = Astro.props;
+const b = (await allBusinessData()).find((x) => x.slug === Astro.props.slug)!;
+// Same-state listings are enough for "nearby" and city comparisons.
+const allData = await activeInState(b.state);
 
 // Nearby: same city, same category first, then best-rated.
-const nearby = allBusinesses
-  .map((x) => x.data)
-  .filter((x) => x.slug !== b.slug && x.city === b.city && !x.temporarilyClosed)
+const nearby = allData
+  .filter((x) => x.slug !== b.slug && x.city === b.city)
   .sort(
     (x, y) =>
       Number(y.category === b.category) - Number(x.category === b.category) ||
@@ -42,9 +45,8 @@ const directionsUrl =
     : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${b.name} ${fullAddress}`)}`;
 // Merchant-supplied photos (after claiming) win; the Google photo is only a temporary fallback.
 const heroPhoto = b.ownerPhotoUrl ?? sizedPhoto(b.photoUrl, 1600, 900);
-const allData = allBusinesses.map((x) => x.data).filter((x) => !x.temporarilyClosed);
 const content = profileContent(b, allData);
-const hasCategoryPage = allData.filter((x) => x.city === b.city && x.category === b.category).length >= MIN_CATEGORY_LISTINGS;
+const hasCategoryPage = allData.filter((x) => x.city === b.city && x.state === b.state && x.category === b.category).length >= MIN_CATEGORY_LISTINGS;
 const site = Astro.site ?? Astro.url;
 const pageUrl = new URL(`/businesses/${b.slug}/`, site).href;
 const updated = b.updatedAt ? new Date(b.updatedAt) : undefined;
@@ -74,7 +76,13 @@ const schemaType =
         ? 'BarOrPub'
         : ['Restaurant', 'Fast Food', 'Pizza', 'Mexican & Latin', 'Asian & Pacific'].includes(b.category)
           ? b.category === 'Fast Food' ? 'FastFoodRestaurant' : 'Restaurant'
-          : 'LocalBusiness';
+          : b.category === 'Shopping'
+            ? 'Store'
+            : b.category === 'Health & Beauty'
+              ? 'HealthAndBeautyBusiness'
+              : b.category === 'Fun & Activities'
+                ? 'EntertainmentBusiness'
+                : 'LocalBusiness';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': schemaType,
@@ -85,7 +93,7 @@ const jsonLd = {
   ...(b.phone && { telephone: b.phone }),
   ...(b.priceRange && { priceRange: b.priceRange }),
   // Entity links: the business's own site and its Google Maps listing identify it unambiguously.
-  ...((b.website || mapsUrl) && { sameAs: [b.website, mapsUrl].filter(Boolean) }),
+  ...((b.website || mapsUrl || b.sameAs.length) && { sameAs: [...new Set([b.website, mapsUrl, ...b.sameAs].filter(Boolean))] }),
   ...(mapsUrl && { hasMap: mapsUrl }),
   description: b.description || content.summary,
   ...(servesCuisine.length && { servesCuisine }),
@@ -114,8 +122,8 @@ const jsonLd = {
 };
 const breadcrumbs = [
   { name: 'Directory', url: new URL('/businesses/', site).href },
-  { name: b.city, url: new URL(cityPath(b.city), site).href },
-  ...(hasCategoryPage ? [{ name: `${plural(b.category)} in ${b.city}`, url: new URL(categoryPath(b.city, b.category), site).href }] : []),
+  { name: b.city, url: new URL(cityPath(b.city, b.state), site).href },
+  ...(hasCategoryPage ? [{ name: `${plural(b.category)} in ${b.city}`, url: new URL(categoryPath(b.city, b.state, b.category), site).href }] : []),
   { name: b.name, url: pageUrl },
 ];
 const pageLd = [
@@ -143,7 +151,7 @@ const pageLd = [
 ];
 ---
 
-<BaseLayout title={pageTitle} description={pageDescription.slice(0, 300)} ogImage={b.ownerPhotoUrl ?? `/og/businesses/${b.slug}.jpg`}>
+<BaseLayout title={pageTitle} description={pageDescription.slice(0, 300)} ogImage={b.ownerPhotoUrl ?? (OG_CARDS.has(b.slug) ? `/og/businesses/${b.slug}.jpg` : `/og/categories/${slugify(b.category)}.jpg`)}>
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(pageLd)} />
   <link slot="head" rel="alternate" type="application/json" href={`/businesses/${b.slug}.json`} title={`${b.name} — structured data`} />
@@ -154,8 +162,8 @@ const pageLd = [
     <div class="p-hero-inner">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="/businesses/">Directory</a><i class="ti ti-chevron-right"></i>
-        <a href={cityPath(b.city)}>{b.city}</a>
-        {hasCategoryPage && <><i class="ti ti-chevron-right"></i><a href={categoryPath(b.city, b.category)}>{plural(b.category)}</a></>}
+        <a href={cityPath(b.city, b.state)}>{b.city}</a>
+        {hasCategoryPage && <><i class="ti ti-chevron-right"></i><a href={categoryPath(b.city, b.state, b.category)}>{plural(b.category)}</a></>}
       </nav>
       <span class="cat-chip"><i class:list={['ti', icon]}></i>{b.googleCategory ?? b.category}</span>
       <h1>{b.name}</h1>
@@ -262,7 +270,7 @@ const pageLd = [
               <p>{f.a}</p>
             </details>
           ))}
-          {updatedLabel && <p class="fine">Listing details last updated {updatedLabel}. Own this business? <a href={`/businesses/${b.slug}/claim/`}>Claim it</a> to keep it accurate.</p>}
+          {updatedLabel && <p class="fine">Listing details last updated {updatedLabel}. Own this business? <a href={`/claim/?b=${b.slug}`}>Claim it</a> to keep it accurate.</p>}
         </section>
       </div>
 
@@ -278,7 +286,7 @@ const pageLd = [
         <div class="nearby-inner">
           <div class="nearby-head">
             <h2>More in {b.city}</h2>
-            <a href={hasCategoryPage ? categoryPath(b.city, b.category) : cityPath(b.city)} class="link">{hasCategoryPage ? `All ${plural(b.category).toLowerCase()} in ${b.city}` : `See all in ${b.city}`} <i class="ti ti-arrow-right"></i></a>
+            <a href={hasCategoryPage ? categoryPath(b.city, b.state, b.category) : cityPath(b.city, b.state)} class="link">{hasCategoryPage ? `All ${plural(b.category).toLowerCase()} in ${b.city}` : `See all in ${b.city}`} <i class="ti ti-arrow-right"></i></a>
           </div>
           <div class="nearby-grid">
             {nearby.map((n) => (

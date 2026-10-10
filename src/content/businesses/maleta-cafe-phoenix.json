@@ -1,0 +1,37 @@
+{
+  "slug": "maleta-cafe-phoenix",
+  "name": "Maleta Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "147 E Adams St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4491939,
+  "lng": -112.071669,
+  "website": "https://www.instagram.com/maleta.cafe?igsh=M3JseXc3MjJrNmZk",
+  "placeId": "ChIJcbk2Ly4TK4cRkXDLTD37Vh0",
+  "googleRating": 5,
+  "googleReviewCount": 42,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 3:00 PM",
+    "tue": "8:00 AM - 3:00 PM",
+    "wed": "8:00 AM - 3:00 PM",
+    "thu": "8:00 AM - 3:00 PM",
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5b9c8dd76a4a71c763",
+  "seededAt": "2026-08-31T04:04:43Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "la-gran-bota-phoenix",
+  "name": "La Gran Bota",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "3433 W Van Buren St # A",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85009",
+  "lat": 33.451049999999995,
+  "lng": -112.13354899999999,
+  "phone": "+16022786009",
+  "website": "https://granbota.com/",
+  "placeId": "ChIJo5ix-PITK4cRqETv-Ap5f8A",
+  "googleRating": 4.3,
+  "googleReviewCount": 123,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d0bc6f2cf935f4846e7",
+  "seededAt": "2026-06-12T14:51:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

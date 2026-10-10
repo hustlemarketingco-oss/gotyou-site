@@ -1,0 +1,43 @@
+{
+  "slug": "taco-boys-tempe",
+  "name": "Taco Boys",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1015 S Rural Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4172461,
+  "lng": -111.92607280000001,
+  "phone": "+14805975623",
+  "website": "https://tacoboys.shop/",
+  "placeId": "ChIJJ3p_v5UJK4cRRAIGBeVncN4",
+  "googleRating": 4.5,
+  "googleReviewCount": 1094,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b909f875da836a2f68ea",
+  "seededAt": "2026-06-10T19:20:41Z",
+  "updatedAt": "2026-06-29T20:29:07Z",
+  "source": "groundgame"
+}

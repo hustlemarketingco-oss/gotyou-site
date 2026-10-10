@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-7448-glendale",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "7448 W Glendale Ave #106",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85303",
+  "lat": 33.539079,
+  "lng": -112.21786300000001,
+  "phone": "+16234660383",
+  "website": "https://www.hungryhowies.com/stores/az/glendale/7448-w-glendale-ave-suite-106",
+  "placeId": "ChIJ2RHMfYxqK4cRiG6So0L1yMY",
+  "googleRating": 3.7,
+  "googleReviewCount": 272,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cba59540040ff3580b3a",
+  "seededAt": "2026-06-16T22:18:13Z",
+  "updatedAt": "2026-06-16T22:18:13Z",
+  "source": "groundgame"
+}

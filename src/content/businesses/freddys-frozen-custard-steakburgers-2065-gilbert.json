@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-2065-gilbert",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "2065 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3784213,
+  "lng": -111.7872393,
+  "phone": "+14806321736",
+  "website": "https://www.freddys.com/location/gilbert-north-az",
+  "placeId": "ChIJuzdZweeoK4cRzjQwtDpD4r4",
+  "googleRating": 4.1,
+  "googleReviewCount": 1322,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b65a35b3707e71600c1b1",
+  "seededAt": "2026-06-12T01:49:23Z",
+  "updatedAt": "2026-06-12T01:49:23Z",
+  "source": "groundgame"
+}

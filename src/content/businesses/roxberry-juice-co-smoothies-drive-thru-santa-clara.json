@@ -1,0 +1,41 @@
+{
+  "slug": "roxberry-juice-co-smoothies-drive-thru-santa-clara",
+  "name": "Roxberry Juice Co. Smoothies Drive Thru",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Dessert restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "3542 Pioneer Pkwy suite 101",
+  "city": "Santa Clara",
+  "state": "UT",
+  "zip": "84765",
+  "lat": 37.147763600000005,
+  "lng": -113.6605591,
+  "phone": "+14352881277",
+  "website": "http://www.roxberryjuice.com/",
+  "placeId": "ChIJERH9i5lEyoAR3sgm9bd6bAA",
+  "googleRating": 4.7,
+  "googleReviewCount": 681,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4cbc87fadf37f68dd5",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2025-12-16T15:35:40Z",
+  "source": "groundgame"
+}

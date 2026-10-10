@@ -1,0 +1,48 @@
+{
+  "slug": "burger-theory-phoenix",
+  "name": "Burger Theory Phoenix",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Breakfast restaurant",
+    "American restaurant"
+  ],
+  "address": "4401 E McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "phone": "+16023580924",
+  "priceRange": "$10–20",
+  "description": "Build-your-own burgers, bar food & craft beer are served in a bright dining room with a patio.",
+  "amenities": [
+    "Outdoor seating",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://facebook.com/BurgerTheoryPhx"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2452814646a6c6395e7c45",
+  "seededAt": "2026-06-06T17:01:53Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

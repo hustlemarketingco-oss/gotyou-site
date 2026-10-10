@@ -1,0 +1,37 @@
+{
+  "slug": "the-kickin-crab-mesa",
+  "name": "The Kickin' Crab Mesa",
+  "category": "Restaurant",
+  "googleCategory": "Cajun restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "28 S Dobson Rd #101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.413791599999996,
+  "lng": -111.87512819999999,
+  "phone": "+16236666868",
+  "website": "https://thekickincrab.com/",
+  "placeId": "ChIJxRQskSUJK4cRRWf0_IVNldc",
+  "googleRating": 4.9,
+  "googleReviewCount": 799,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34b50944ec40293a051d0e",
+  "seededAt": "2026-06-19T03:18:33Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

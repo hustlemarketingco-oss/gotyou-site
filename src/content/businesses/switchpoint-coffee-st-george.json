@@ -1,0 +1,33 @@
+{
+  "slug": "switchpoint-coffee-st-george",
+  "name": "Switchpoint Coffee",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "214 N 1000 E",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1120343,
+  "lng": -113.56116069999999,
+  "phone": "+14352882326",
+  "website": "https://switchpointcoffee.org/",
+  "placeId": "ChIJ8zw8op1byoARDHw3I0fSuDc",
+  "googleRating": 4.9,
+  "googleReviewCount": 97,
+  "hours": {
+    "mon": "8:00 AM - 3:00 PM",
+    "tue": "8:00 AM - 3:00 PM",
+    "wed": "8:00 AM - 3:00 PM",
+    "thu": "8:00 AM - 3:00 PM",
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7d6e770ec2164e12a9",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

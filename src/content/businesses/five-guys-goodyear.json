@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-goodyear",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog stand",
+    "Hot dog restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "1507 N Litchfield Rd Ste 102",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.462963,
+  "lng": -112.35757199999999,
+  "phone": "+16232349022",
+  "website": "https://restaurants.fiveguys.com/1507-n-litchfield-road",
+  "placeId": "ChIJNbb215c4K4cRqBNHf_EIzHI",
+  "googleRating": 4.3,
+  "googleReviewCount": 1605,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c2a8adeb5c5d0346e15",
+  "seededAt": "2026-06-16T17:47:22Z",
+  "updatedAt": "2026-06-16T17:47:22Z",
+  "source": "groundgame"
+}

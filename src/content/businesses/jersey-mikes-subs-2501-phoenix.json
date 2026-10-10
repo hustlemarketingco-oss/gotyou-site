@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-2501-phoenix",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "2501 W Happy Valley Rd Ste H-108",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.711510499999996,
+  "lng": -112.1113771,
+  "phone": "+16235826453",
+  "website": "https://www.jerseymikes.com/9008/phoenix-az",
+  "placeId": "ChIJC8_AqJZlK4cRdLjqwxIGmvM",
+  "googleRating": 3.8,
+  "googleReviewCount": 376,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f9a881e679619dc0ea00",
+  "seededAt": "2026-07-12T20:31:36Z",
+  "updatedAt": "2026-07-12T20:31:37Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-245-phoenix",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "245 E Bell Rd #9",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85022",
+  "lat": 33.6396722,
+  "lng": -112.07185129999999,
+  "phone": "+16028666930",
+  "website": "https://www.jerseymikes.com/9015/phoenix-az",
+  "placeId": "ChIJ11WDmEBuK4cR6gWYcx-roO8",
+  "googleRating": 3.6,
+  "googleReviewCount": 605,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f9aab344853f28453ce7",
+  "seededAt": "2026-07-12T20:31:38Z",
+  "updatedAt": "2026-07-12T20:31:40Z",
+  "source": "groundgame"
+}

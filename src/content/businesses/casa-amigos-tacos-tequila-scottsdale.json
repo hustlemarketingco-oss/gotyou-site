@@ -1,0 +1,39 @@
+{
+  "slug": "casa-amigos-tacos-tequila-scottsdale",
+  "name": "Casa Amigos Tacos + Tequila",
+  "category": "Bars & Pubs",
+  "googleCategory": "Night club",
+  "secondaryCategories": [
+    "Mexican restaurant",
+    "Sports bar",
+    "Bar"
+  ],
+  "address": "7320 E Indian Plaza",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5016706,
+  "lng": -111.9230516,
+  "phone": "+14803613440",
+  "website": "https://casaamigosaz.com/",
+  "placeId": "ChIJscnqg7wLK4cRWfXiYK9rax0",
+  "googleRating": 3.4,
+  "googleReviewCount": 497,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:45 PM - 2:00 AM",
+    "wed": "9:45 PM - 2:00 AM",
+    "thu": "9:45 PM - 2:00 AM",
+    "fri": "8:45 PM - 2:00 AM",
+    "sat": "7:45 PM - 2:00 AM",
+    "sun": "9:45 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4ee29c9905cef90521bd08",
+  "seededAt": "2026-07-08T23:51:56Z",
+  "updatedAt": "2026-07-08T23:51:56Z",
+  "source": "groundgame"
+}

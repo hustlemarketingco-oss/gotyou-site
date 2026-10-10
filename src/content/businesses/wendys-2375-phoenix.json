@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-2375-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "2375 E Baseline Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.377254199999996,
+  "lng": -112.0312958,
+  "phone": "+14803972108",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/2375-e-baseline-rd",
+  "placeId": "ChIJwxeGkfcPK4cR_gv7HneEha8",
+  "googleRating": 3.8,
+  "googleReviewCount": 937,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 AM",
+    "tue": "6:00 AM - 2:00 AM",
+    "wed": "6:00 AM - 2:00 AM",
+    "thu": "6:00 AM - 2:00 AM",
+    "fri": "6:00 AM - 2:00 AM",
+    "sat": "6:00 AM - 2:00 AM",
+    "sun": "6:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dcee24ec2f94e60274b",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "joes-italian-ice-tempe",
+  "name": "Joe's Italian Ice",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2019 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406621799999996,
+  "lng": -111.908705,
+  "phone": "+14809077077",
+  "website": "http://joesice.com/",
+  "placeId": "ChIJz35auIsIK4cRd1DnwDlu97U",
+  "googleRating": 4.7,
+  "googleReviewCount": 1755,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ee093eed9a227e42a0841",
+  "seededAt": "2026-06-26T20:26:59Z",
+  "updatedAt": "2026-07-22T20:05:43Z",
+  "source": "groundgame"
+}

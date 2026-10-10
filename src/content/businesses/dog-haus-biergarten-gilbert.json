@@ -1,0 +1,39 @@
+{
+  "slug": "dog-haus-biergarten-gilbert",
+  "name": "Dog Haus Biergarten",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog restaurant",
+    "Breakfast restaurant"
+  ],
+  "address": "2224 E Williams Field Rd #107",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3077934,
+  "lng": -111.74261209999999,
+  "phone": "+16025847156",
+  "website": "https://santanvillage.doghaus.com/",
+  "placeId": "ChIJN92iVdKtK4cRUZBYCNb1ubs",
+  "googleRating": 4.5,
+  "googleReviewCount": 1199,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 10:30 PM",
+    "tue": "7:00 AM - 10:30 PM",
+    "wed": "7:00 AM - 10:30 PM",
+    "thu": "7:00 AM - 10:30 PM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "7:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a457a33e63021fdd68ca9d3",
+  "seededAt": "2026-07-01T20:36:03Z",
+  "updatedAt": "2026-07-01T20:36:04Z",
+  "source": "groundgame"
+}

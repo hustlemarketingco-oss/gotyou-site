@@ -1,0 +1,46 @@
+{
+  "slug": "coffee-rush-gilbert",
+  "name": "Coffee Rush",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Restaurant"
+  ],
+  "address": "1555 N Gilbert Rd #107",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "priceRange": "$1–10",
+  "description": "Local coffeehouse chain serving blended drinks, tea & smoothies in a relaxed atmosphere.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/TheCoffeeRushChandler"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264837030cf10d76272815",
+  "seededAt": "2026-06-08T04:42:31Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

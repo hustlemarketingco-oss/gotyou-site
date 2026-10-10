@@ -1,0 +1,36 @@
+{
+  "slug": "saigon-bistro-camelback-phoenix",
+  "name": "Saigon Bistro Camelback",
+  "category": "Asian & Pacific",
+  "googleCategory": "Vietnamese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant"
+  ],
+  "address": "2211 W Camelback Rd #178",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.5083902,
+  "lng": -112.1070665,
+  "phone": "+14802879001",
+  "website": "http://www.saigonbistroaz.com/",
+  "placeId": "ChIJff0rdQATK4cRdVDLHydjsbw",
+  "googleRating": 4.7,
+  "googleReviewCount": 63,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c6f2da61d98549881a3",
+  "seededAt": "2026-06-23T05:41:03Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

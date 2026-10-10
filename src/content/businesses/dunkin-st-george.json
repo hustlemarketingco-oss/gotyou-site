@@ -1,0 +1,43 @@
+{
+  "slug": "dunkin-st-george",
+  "name": "Dunkin'",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Ice cream shop",
+    "Dessert shop",
+    "Cafe",
+    "Donut shop",
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "2557 S River Rd Unit 1",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0651608,
+  "lng": -113.5462141,
+  "phone": "+14353194446",
+  "website": "https://locations.dunkindonuts.com/en/ut/saint-george/2557-s.-river-rd/365723",
+  "placeId": "ChIJ3SHhJQBbyoAR4dZ5hjNMKa0",
+  "googleRating": 3.6,
+  "googleReviewCount": 122,
+  "hours": {
+    "mon": "5:30 AM - 9:00 PM",
+    "tue": "5:30 AM - 9:00 PM",
+    "wed": "5:30 AM - 9:00 PM",
+    "thu": "5:30 AM - 9:00 PM",
+    "fri": "5:30 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c0baa232c21a34af8b9",
+  "seededAt": "2025-12-16T15:34:35Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

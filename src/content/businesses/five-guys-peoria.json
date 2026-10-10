@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-peoria",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "7635 W Bell Rd",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.6375892,
+  "lng": -112.2229615,
+  "phone": "+16234866867",
+  "website": "https://restaurants.fiveguys.com/7635-west-bell-road",
+  "placeId": "ChIJ-ege8TBoK4cRTVh6TZ3D8QY",
+  "googleRating": 4.1,
+  "googleReviewCount": 856,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c277a465fb4328d76b1",
+  "seededAt": "2026-06-16T17:47:19Z",
+  "updatedAt": "2026-06-16T17:47:20Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "el-paisanos-restaurant-and-market-tempe",
+  "name": "El Paisanos Restaurant and Market",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "1100 E Apache Blvd #129",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4150604,
+  "lng": -111.92265809999999,
+  "phone": "+14805018865",
+  "placeId": "ChIJg7-0Aw8JK4cRBDhRSI73C_M",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "hours": {
+    "mon": "8:00 AM - 2:00 AM",
+    "tue": "8:00 AM - 2:00 AM",
+    "wed": "8:00 AM - 2:00 AM",
+    "thu": "8:00 AM - 2:00 AM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a358f734f68e2e1054c791d",
+  "seededAt": "2026-06-19T18:50:27Z",
+  "updatedAt": "2026-06-19T18:50:27Z",
+  "source": "groundgame"
+}

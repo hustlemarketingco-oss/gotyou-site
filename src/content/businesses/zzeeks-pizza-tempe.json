@@ -1,0 +1,37 @@
+{
+  "slug": "zzeeks-pizza-tempe",
+  "name": "Zzeeks Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Italian restaurant"
+  ],
+  "address": "1721 E Warner Rd c9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3334166,
+  "lng": -111.91341059999999,
+  "phone": "+14805917777",
+  "website": "https://zzeeks.com/",
+  "placeId": "ChIJUdP-M3QHK4cRbg9zpn_X5Ug",
+  "googleRating": 4.6,
+  "googleReviewCount": 238,
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a306c646cae6b74b0a4cb29",
+  "seededAt": "2026-06-15T21:19:32Z",
+  "updatedAt": "2026-06-15T21:19:33Z",
+  "source": "groundgame"
+}

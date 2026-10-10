@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-4910-phoenix",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4910 E Ray Rd #7",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3203405,
+  "lng": -111.9774149,
+  "phone": "+14808779677",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/ahwatukee",
+  "placeId": "ChIJ6fS-MbMFK4cRYnx3rRBfIrc",
+  "googleRating": 4.8,
+  "googleReviewCount": 2139,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a6761095bf6394ef829bd23",
+  "seededAt": "2026-07-27T13:45:45Z",
+  "updatedAt": "2026-07-27T13:45:46Z",
+  "source": "groundgame"
+}

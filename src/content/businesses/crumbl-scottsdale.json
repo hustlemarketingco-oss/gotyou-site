@@ -1,0 +1,39 @@
+{
+  "slug": "crumbl-scottsdale",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "7300 N Vía Paseo Del Sur Suite 106",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5434456,
+  "lng": -111.90683639999999,
+  "phone": "+16026759550",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/scottsdale",
+  "placeId": "ChIJ5yKmc4YLK4cRK3VngCk4nLI",
+  "googleRating": 4.8,
+  "googleReviewCount": 1333,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765aa05a65e5350b48372",
+  "seededAt": "2026-06-09T01:00:26Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

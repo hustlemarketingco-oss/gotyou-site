@@ -1,0 +1,37 @@
+{
+  "slug": "sol-mexican-cocina-scottsdale",
+  "name": "SOL Mexican Cocina",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "15323 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6255064,
+  "lng": -111.9242112,
+  "phone": "+14802456708",
+  "website": "https://solcocina.com/",
+  "placeId": "ChIJU9v5mT50K4cR-TpGxuXgKQM",
+  "googleRating": 4.3,
+  "googleReviewCount": 2215,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766f1e59d51b274572254",
+  "seededAt": "2026-06-09T01:05:53Z",
+  "updatedAt": "2026-08-22T20:34:34Z",
+  "source": "groundgame"
+}

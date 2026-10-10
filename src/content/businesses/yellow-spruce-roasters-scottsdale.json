@@ -1,0 +1,38 @@
+{
+  "slug": "yellow-spruce-roasters-scottsdale",
+  "name": "Yellow Spruce Roasters",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee roastery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3839 N Drinkwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.491971,
+  "lng": -111.9204515,
+  "phone": "+14805901935",
+  "website": "https://www.yellowspruceroasters.net/",
+  "placeId": "ChIJW68HxXYLK4cR-IddU_pAguE",
+  "googleRating": 4.3,
+  "googleReviewCount": 6,
+  "hours": {
+    "mon": "9:00 AM - 6:30 PM",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "10:00 AM - 5:30 PM",
+    "sat": "10:00 AM - 4:30 PM",
+    "sun": "1:00 PM - 4:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a28934e1a91120a0955b933",
+  "seededAt": "2026-06-09T22:27:26Z",
+  "updatedAt": "2026-06-09T22:28:37Z",
+  "source": "groundgame"
+}

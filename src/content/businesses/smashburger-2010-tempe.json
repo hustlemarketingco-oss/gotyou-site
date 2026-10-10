@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-2010-tempe",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "2010 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.349593899999995,
+  "lng": -111.9021173,
+  "phone": "+14804203635",
+  "website": "https://smashburger.com/",
+  "placeId": "ChIJVVCw9aoHK4cRlc193JEodz0",
+  "googleRating": 4.3,
+  "googleReviewCount": 1483,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cb4f44ea72e1207f373",
+  "seededAt": "2026-06-19T17:30:28Z",
+  "updatedAt": "2026-06-19T17:30:29Z",
+  "source": "groundgame"
+}

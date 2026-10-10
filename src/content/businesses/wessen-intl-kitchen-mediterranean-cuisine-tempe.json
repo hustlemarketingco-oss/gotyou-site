@@ -1,0 +1,47 @@
+{
+  "slug": "wessen-intl-kitchen-mediterranean-cuisine-tempe",
+  "name": "Wessen Int'l Kitchen - Mediterranean Cuisine",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Greek restaurant",
+    "Restaurant",
+    "Middle eastern restaurant"
+  ],
+  "address": "1946 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4225274,
+  "lng": -111.9031649,
+  "phone": "+16023449091",
+  "website": "http://wessen-kitchen.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17228798280335511918",
+  "googleCid": "17228798280335511918",
+  "placeId": "ChIJmahNHlgIK4cRblFC_sD8GO8",
+  "googleRating": 4.5,
+  "googleReviewCount": 284,
+  "description": "Easygoing, sparsely decorated eatery offering Middle Eastern & Mediterranean staples.",
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Google Pay",
+    "Credit card"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "Closed",
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2437847629042da5ce6db7",
+  "seededAt": "2026-06-06T15:06:44Z",
+  "updatedAt": "2026-08-05T19:14:18Z",
+  "source": "groundgame"
+}

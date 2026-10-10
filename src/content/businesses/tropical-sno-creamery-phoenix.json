@@ -1,0 +1,49 @@
+{
+  "slug": "tropical-sno-creamery-phoenix",
+  "name": "Tropical Sno & Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "1219 E Glendale Ave suite 16",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.537831,
+  "lng": -112.0551319,
+  "phone": "+16026000766",
+  "website": "https://www.tropicalsnophx.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4544630552223700547",
+  "googleCid": "4544630552223700547",
+  "placeId": "ChIJpcIc4LFtK4cRQ1aupGjFET8",
+  "googleRating": 5,
+  "googleReviewCount": 78,
+  "description": "Located in Phoenix, Tropical Sno & Creamery is a casual, quiet ice cream shop with takeout & delivery. Popular for solo dining.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Quiet",
+    "Trendy",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "sameAs": [
+    "https://instagram.com/tropicalsnophx"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM",
+    "mon": "11:30 AM - 9:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24434c2c366bded3dd86c6",
+  "seededAt": "2026-06-06T15:57:00Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

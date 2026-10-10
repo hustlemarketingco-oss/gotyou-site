@@ -1,0 +1,40 @@
+{
+  "slug": "daily-dose-rio-salado-tempe",
+  "name": "Daily Dose Rio Salado",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "96 S Rockford Dr #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4297113,
+  "lng": -111.8975256,
+  "phone": "+14805906937",
+  "website": "http://dailydosegrill.com/",
+  "placeId": "ChIJs_A7TJsJK4cR4Mrpe7sDKKI",
+  "googleRating": 4.4,
+  "googleReviewCount": 382,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 2:00 PM",
+    "tue": "8:00 AM - 2:00 PM",
+    "wed": "8:00 AM - 2:00 PM",
+    "thu": "8:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a42cacb0db56467f486f773",
+  "seededAt": "2026-06-29T19:43:07Z",
+  "updatedAt": "2026-06-29T19:43:08Z",
+  "source": "groundgame"
+}

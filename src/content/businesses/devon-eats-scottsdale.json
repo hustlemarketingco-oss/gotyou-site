@@ -1,0 +1,39 @@
+{
+  "slug": "devon-eats-scottsdale",
+  "name": "Devon Eats",
+  "category": "Restaurant",
+  "googleCategory": "Caterer",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Catering food and drink supplier",
+    "Italian restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "7625 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+13234139000",
+  "description": "Located in Scottsdale, Devon Eats is a caterer & breakfast restaurant with takeout & delivery.",
+  "amenities": [
+    "No-contact delivery",
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/devon"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d5cb2ef0407c95ca496",
+  "seededAt": "2026-06-06T15:31:40Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

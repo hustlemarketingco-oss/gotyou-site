@@ -1,0 +1,39 @@
+{
+  "slug": "shakes-cones-scottsdale",
+  "name": "Shakes & Cones",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7215 E 1st St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4920755,
+  "lng": -111.9257179,
+  "phone": "+14809450707",
+  "website": "http://www.shakesandcones.com/",
+  "placeId": "ChIJl2kfY8ALK4cRtRUy01OSjpE",
+  "googleRating": 4.5,
+  "googleReviewCount": 339,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 10:30 PM",
+    "sat": "12:00 PM - 10:30 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a0d6ad596600f93feb9",
+  "seededAt": "2026-06-08T23:02:37Z",
+  "updatedAt": "2026-07-01T21:10:09Z",
+  "source": "groundgame"
+}

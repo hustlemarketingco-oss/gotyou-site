@@ -1,0 +1,44 @@
+{
+  "slug": "paris-baguette-scottsdale",
+  "name": "Paris Baguette",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cafe",
+    "Cake shop",
+    "Coffee shop"
+  ],
+  "address": "16495 N Scottsdale Rd #5A-1",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "phone": "+15206130404",
+  "priceRange": "$10–20",
+  "description": "Located in Scottsdale, Paris Baguette is a bakery & cafe with coffee, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/parisbaguetteus"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243dadea0ece71a74efd6f",
+  "seededAt": "2026-06-06T15:33:01Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-chandler",
+  "name": "Yogi's Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "3235 W Ray Rd #5",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.319596,
+  "lng": -111.89774799999999,
+  "phone": "+14808555594",
+  "website": "http://www.yogisgrill.com/",
+  "placeId": "ChIJAz2WPCQHK4cRMQZ6Ito-HIo",
+  "googleRating": 4.1,
+  "googleReviewCount": 339,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971a810c8d247275d3d90",
+  "seededAt": "2026-06-22T17:32:24Z",
+  "updatedAt": "2026-06-22T17:32:24Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "786-degrees-pizza-pasadena",
+  "name": "786 Degrees Pizza - Pasadena",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1709 E Washington Blvd",
+  "city": "Pasadena",
+  "state": "CA",
+  "zip": "91104",
+  "lat": 34.169297799999995,
+  "lng": -118.11524349999999,
+  "phone": "+16264602786",
+  "website": "http://www.786degrees.com/",
+  "placeId": "ChIJwxEa8knDwoAREpqJ578uoRc",
+  "googleRating": 4.8,
+  "googleReviewCount": 411,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d4e4579f592cdc5d00",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2026-09-22T15:30:38Z",
+  "source": "groundgame"
+}

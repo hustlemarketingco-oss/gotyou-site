@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-875-gilbert",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "875 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.33397420000001,
+  "lng": -111.78953159999999,
+  "phone": "+18338435776",
+  "website": "https://br.coffee/locations/gilbert-warner",
+  "placeId": "ChIJe_OLZGOpK4cRo-IHfqes65I",
+  "googleRating": 4.3,
+  "googleReviewCount": 111,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5918add5db26683b10a1fd",
+  "seededAt": "2026-07-16T17:45:17Z",
+  "updatedAt": "2026-07-16T17:45:18Z",
+  "source": "groundgame"
+}

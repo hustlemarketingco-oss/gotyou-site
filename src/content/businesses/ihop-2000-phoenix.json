@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-2000-phoenix",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "2000 W Northern Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85021",
+  "lat": 33.5534259,
+  "lng": -112.10183769999999,
+  "phone": "+16029954044",
+  "website": "https://restaurants.ihop.com/en-us/az/phoenix/breakfast-2000-west-northern-ave-2100",
+  "placeId": "ChIJCTqXFdlsK4cRpaSDB10vNFA",
+  "googleRating": 3.9,
+  "googleReviewCount": 5390,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32dde693b9beeb2cde7198",
+  "seededAt": "2026-06-17T17:48:22Z",
+  "updatedAt": "2026-06-17T17:48:23Z",
+  "source": "groundgame"
+}

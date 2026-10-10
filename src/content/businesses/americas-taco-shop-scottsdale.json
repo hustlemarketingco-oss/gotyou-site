@@ -1,0 +1,47 @@
+{
+  "slug": "americas-taco-shop-scottsdale",
+  "name": "America's Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Burrito restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "7001 E 1st Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4937979,
+  "lng": -111.93018579999999,
+  "phone": "+14802787070",
+  "website": "https://www.americastacoshopcatering.com/",
+  "placeId": "ChIJX1gwEpULK4cRzTrZYzWBUnk",
+  "googleRating": 4.2,
+  "googleReviewCount": 539,
+  "priceRange": "$",
+  "amenities": [
+    "Apple Pay",
+    "Credit card",
+    "Cash",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29ab41cb0dec844db59481",
+  "seededAt": "2026-06-10T18:21:53Z",
+  "updatedAt": "2026-06-26T19:19:32Z",
+  "source": "groundgame"
+}

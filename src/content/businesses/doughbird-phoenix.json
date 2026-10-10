@@ -1,0 +1,41 @@
+{
+  "slug": "doughbird-phoenix",
+  "name": "Doughbird",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Chicken restaurant",
+    "Family restaurant",
+    "Italian restaurant",
+    "Bar"
+  ],
+  "address": "4385 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.494557500000006,
+  "lng": -111.98723299999999,
+  "phone": "+16023459161",
+  "website": "https://www.eatdoughbird.com/locations/phoenix-az/",
+  "placeId": "ChIJ69WkY1oMK4cRKt95vJaAkZI",
+  "googleRating": 4.5,
+  "googleReviewCount": 2627,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a7bd41eeca2e680ea135e7c",
+  "seededAt": "2026-08-12T02:02:06Z",
+  "updatedAt": "2026-08-12T02:02:07Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "infusion-coffee-tea-crafters-tempe",
+  "name": "Infusion Coffee & Tea Crafters",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Tea house",
+    "Food store"
+  ],
+  "address": "1300 E 8th St #100",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4194591,
+  "lng": -111.916872,
+  "phone": "+14809682533",
+  "website": "https://www.infusioncoffeetea.com/",
+  "placeId": "ChIJ81ed_u8IK4cRFnZ7IFx_PVk",
+  "googleRating": 4.7,
+  "googleReviewCount": 923,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a55383dc2dfd6198d11dccf",
+  "seededAt": "2026-07-13T19:10:53Z",
+  "updatedAt": "2026-08-06T17:41:57Z",
+  "source": "groundgame"
+}

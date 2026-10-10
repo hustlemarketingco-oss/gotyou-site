@@ -1,0 +1,42 @@
+{
+  "slug": "water-n-ice-store-phoenix",
+  "name": "Water N Ice Store",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "6823 N 35th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85017",
+  "lat": 33.5368016,
+  "lng": -112.1330191,
+  "googleMapsUrl": "https://www.google.com/maps?cid=7913462432433969471",
+  "googleCid": "7913462432433969471",
+  "placeId": "ChIJB6LuHaNsK4cRPxmgrCdE0m0",
+  "googleRating": 4.3,
+  "googleReviewCount": 27,
+  "description": "Located in Phoenix, Water N Ice Store is a casual ice cream shop with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "10:00 AM - 4:00 PM",
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244381ba7c7b001475d30a",
+  "seededAt": "2026-06-06T15:57:53Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

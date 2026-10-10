@@ -1,0 +1,41 @@
+{
+  "slug": "elements-massage-central-scottsdale",
+  "name": "Elements Massage - Central Scottsdale",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Skin care clinic",
+    "Massage spa",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "9343 E Shea Blvd #120",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.581500999999996,
+  "lng": -111.8796324,
+  "phone": "+14809413077",
+  "website": "https://elementsmassage.com/central-scottsdale",
+  "placeId": "ChIJ0355sEB1K4cRJbmplTIXzKM",
+  "googleRating": 4.7,
+  "googleReviewCount": 359,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a7003c56b3f795912c2",
+  "seededAt": "2026-06-22T18:09:52Z",
+  "updatedAt": "2026-06-22T18:09:53Z",
+  "source": "groundgame"
+}

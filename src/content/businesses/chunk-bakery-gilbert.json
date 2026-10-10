@@ -1,0 +1,30 @@
+{
+  "slug": "chunk-bakery-gilbert",
+  "name": "Chunk Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "4331 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3778212,
+  "lng": -111.7408591,
+  "googleMapsUrl": "https://www.google.com/maps?cid=325103494283244867",
+  "googleCid": "325103494283244867",
+  "placeId": "ChIJ5SjeUQCvK4cRQ7X90-f_ggQ",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264af2540c85f03c364525",
+  "seededAt": "2026-06-08T04:54:10Z",
+  "updatedAt": "2026-06-08T04:54:10Z",
+  "source": "groundgame"
+}

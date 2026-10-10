@@ -1,0 +1,37 @@
+{
+  "slug": "la-puglia-santa-monica",
+  "name": "LA Puglia",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1621 Wilshire Blvd",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90403",
+  "lat": 34.028887499999996,
+  "lng": -118.4865881,
+  "phone": "+14242295902",
+  "website": "https://lapuglia.us/",
+  "placeId": "ChIJ_25CDN-lwoARfYyTOgGJD_8",
+  "googleRating": 4.4,
+  "googleReviewCount": 474,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "5:00 PM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50dcd09866b49bb51b8",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

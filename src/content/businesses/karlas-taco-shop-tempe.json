@@ -1,0 +1,37 @@
+{
+  "slug": "karlas-taco-shop-tempe",
+  "name": "Karla’s Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1340 E Broadway Rd #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.408296,
+  "lng": -111.916015,
+  "phone": "+14809660535",
+  "website": "https://karlastacoshop.com/",
+  "placeId": "ChIJ3xQXYY0IK4cRFsieYzHsdgg",
+  "googleRating": 4.3,
+  "googleReviewCount": 1119,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:50 PM",
+    "tue": "6:00 AM - 9:50 PM",
+    "wed": "6:00 AM - 9:50 PM",
+    "thu": "6:00 AM - 9:50 PM",
+    "fri": "6:00 AM - 10:50 PM",
+    "sat": "6:00 AM - 9:50 PM",
+    "sun": "8:00 AM - 7:50 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438cabc55c16757d048d0",
+  "seededAt": "2026-06-18T18:28:26Z",
+  "updatedAt": "2026-07-09T19:43:58Z",
+  "source": "groundgame"
+}

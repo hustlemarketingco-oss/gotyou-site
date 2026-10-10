@@ -1,0 +1,41 @@
+{
+  "slug": "black-rock-coffee-bar-8670-scottsdale",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Bagel shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "8670 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4807998,
+  "lng": -111.8931168,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/pima-thomas",
+  "placeId": "ChIJF8d0kOILK4cRnaSQvnA4d1k",
+  "googleRating": 4.4,
+  "googleReviewCount": 738,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725a1cc267f5ed96cb8e",
+  "seededAt": "2026-07-10T22:29:46Z",
+  "updatedAt": "2026-07-10T22:29:47Z",
+  "source": "groundgame"
+}

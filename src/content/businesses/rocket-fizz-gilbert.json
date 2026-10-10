@@ -1,0 +1,41 @@
+{
+  "slug": "rocket-fizz-gilbert",
+  "name": "Rocket Fizz",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Candy store",
+  "secondaryCategories": [
+    "Chocolate shop",
+    "Dessert shop",
+    "Toy store",
+    "Gift shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "50 W Vaughn Ave #105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.356285,
+  "lng": -111.7907604,
+  "phone": "+14802196981",
+  "website": "http://rocketfizz.com/",
+  "placeId": "ChIJVT8JahepK4cRjD3yU6G12R8",
+  "googleRating": 4.5,
+  "googleReviewCount": 395,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3988ff91167be3b1fa80f2",
+  "seededAt": "2026-06-22T19:11:59Z",
+  "updatedAt": "2026-06-22T19:12:00Z",
+  "source": "groundgame"
+}

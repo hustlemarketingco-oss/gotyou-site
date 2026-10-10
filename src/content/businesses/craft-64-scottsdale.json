@@ -1,0 +1,42 @@
+{
+  "slug": "craft-64-scottsdale",
+  "name": "Craft 64 Scottsdale",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Brewery",
+    "Gastropub",
+    "Cocktail bar",
+    "Bar",
+    "Manufacturer"
+  ],
+  "address": "6922 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493318099999996,
+  "lng": -111.93166620000001,
+  "phone": "+14809460542",
+  "website": "https://www.craft64.com/",
+  "placeId": "ChIJX8jB45QLK4cRsAMfJOenUB8",
+  "googleRating": 4.6,
+  "googleReviewCount": 1607,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27535b72cb7bb66d5e696f",
+  "seededAt": "2026-06-08T23:42:19Z",
+  "updatedAt": "2026-06-22T20:03:17Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-phoenix-az-north-central-phoenix",
+  "name": "HOTWORX - Phoenix, AZ - North Central",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sauna",
+    "Gym",
+    "Spa",
+    "Public bath",
+    "Sports activity location"
+  ],
+  "address": "1221 E Northern Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5526726,
+  "lng": -112.0556247,
+  "phone": "+16026122448",
+  "website": "https://www.hotworx.net/studio/phoenix-northern",
+  "placeId": "ChIJ0QuQLXxtK4cR-X0xNc0379k",
+  "googleRating": 4.5,
+  "googleReviewCount": 16,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc29815c937b4b3d58b9",
+  "seededAt": "2026-10-07T21:39:53Z",
+  "updatedAt": "2026-10-07T21:39:53Z",
+  "source": "groundgame"
+}

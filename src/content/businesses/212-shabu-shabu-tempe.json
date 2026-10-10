@@ -1,0 +1,37 @@
+{
+  "slug": "212-shabu-shabu-tempe",
+  "name": "212 Shabu Shabu",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant"
+  ],
+  "address": "410 N Scottsdale Rd #109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.433583299999995,
+  "lng": -111.9274085,
+  "phone": "+14803664849",
+  "website": "https://212shabu.com/",
+  "placeId": "ChIJa99iYQAJK4cRdahUoqKeNGs",
+  "googleRating": 4.3,
+  "googleReviewCount": 12,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:30 PM - 8:30 PM",
+    "tue": "4:30 PM - 8:30 PM",
+    "wed": "4:30 PM - 8:30 PM",
+    "thu": "4:30 PM - 8:30 PM",
+    "fri": "4:30 PM - 8:30 PM",
+    "sat": "4:30 PM - 8:30 PM",
+    "sun": "4:30 PM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a676278be4f93ce759e2188",
+  "seededAt": "2026-07-27T13:51:52Z",
+  "updatedAt": "2026-09-23T23:19:31Z",
+  "source": "groundgame"
+}

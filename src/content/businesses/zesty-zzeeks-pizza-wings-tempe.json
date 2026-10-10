@@ -1,0 +1,43 @@
+{
+  "slug": "zesty-zzeeks-pizza-wings-tempe",
+  "name": "Zesty Zzeeks Pizza & Wings",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Family restaurant",
+    "Sandwich shop",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway",
+    "Italian restaurant"
+  ],
+  "address": "3139 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3944499,
+  "lng": -111.9385085,
+  "phone": "+14806859888",
+  "website": "https://zzeeks.com/",
+  "placeId": "ChIJ0xJYSqUIK4cRr1VkhmsgZDY",
+  "googleRating": 4.4,
+  "googleReviewCount": 816,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 11:00 PM",
+    "tue": "10:30 AM - 11:00 PM",
+    "wed": "10:30 AM - 11:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "10:30 AM - 12:00 AM",
+    "sun": "10:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a306c62c4a50a8b85d772c6",
+  "seededAt": "2026-06-15T21:19:30Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

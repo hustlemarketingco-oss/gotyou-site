@@ -1,0 +1,40 @@
+{
+  "slug": "tempe-eats-food-hall-bar-tempe",
+  "name": "Tempe Eats Food Hall & Bar",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food court"
+  ],
+  "address": "85 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3924468,
+  "lng": -111.9382382,
+  "phone": "+14809359455",
+  "website": "https://www.tempeeats.com/",
+  "placeId": "ChIJOeDvodgJK4cRiommicaYA_k",
+  "googleRating": 4.1,
+  "googleReviewCount": 655,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.instagram.com/tempeeats/"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:30 AM - 8:00 PM",
+    "wed": "11:30 AM - 8:00 PM",
+    "thu": "11:30 AM - 8:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ca96158574171a21d8ac5",
+  "seededAt": "2026-06-25T04:06:57Z",
+  "updatedAt": "2026-07-10T20:12:22Z",
+  "source": "groundgame"
+}

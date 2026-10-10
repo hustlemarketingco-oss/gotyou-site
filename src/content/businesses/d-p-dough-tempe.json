@@ -1,0 +1,40 @@
+{
+  "slug": "d-p-dough-tempe",
+  "name": "D.P. Dough - Tempe",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway",
+    "Italian restaurant"
+  ],
+  "address": "933 E University Dr #118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4211445,
+  "lng": -111.9251017,
+  "phone": "+14803736844",
+  "website": "https://www.dpdough.com/",
+  "placeId": "ChIJacSF-uYIK4cRVhKoVh-BZoY",
+  "googleRating": 4.3,
+  "googleReviewCount": 741,
+  "priceRange": "$",
+  "hours": {
+    "mon": "2:00 PM - 4:00 AM",
+    "tue": "2:00 PM - 4:00 AM",
+    "wed": "2:00 PM - 4:00 AM",
+    "thu": "2:00 PM - 4:00 AM",
+    "fri": "2:00 PM - 4:00 AM",
+    "sat": "2:00 PM - 4:00 AM",
+    "sun": "2:00 PM - 4:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63d570cc65e7607dc602",
+  "seededAt": "2026-06-12T19:53:57Z",
+  "updatedAt": "2026-06-30T00:08:05Z",
+  "source": "groundgame"
+}

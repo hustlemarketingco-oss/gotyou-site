@@ -1,0 +1,32 @@
+{
+  "slug": "sipsanity-st-george",
+  "name": "Sipsanity",
+  "category": "Restaurant",
+  "address": "922 E Brigham Rd bldg 3-c",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0534986,
+  "lng": -113.56515780000001,
+  "phone": "+14356273833",
+  "placeId": "ChIJuXSMVfBRyoARF1hCmzsIvAE",
+  "googleRating": 4.1,
+  "googleReviewCount": 17,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b6b408794dfe6d570e6",
+  "seededAt": "2025-12-16T15:31:55Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

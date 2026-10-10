@@ -1,0 +1,37 @@
+{
+  "slug": "shinbay-scottsdale",
+  "name": "ShinBay",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "3720 N Scottsdale Rd #201",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.49102500000001,
+  "lng": -111.926402,
+  "phone": "+14803611021",
+  "website": "http://www.shin-bay.com/",
+  "placeId": "ChIJaaBM6D4LK4cR8LSeKG5zLtM",
+  "googleRating": 4.7,
+  "googleReviewCount": 162,
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "5:45 PM - 10:00 PM",
+    "thu": "5:45 PM - 10:00 PM",
+    "fri": "5:45 PM - 10:00 PM",
+    "sat": "5:45 PM - 10:00 PM",
+    "sun": "5:45 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26f50acb10e037a2d183a9",
+  "seededAt": "2026-06-08T16:59:54Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

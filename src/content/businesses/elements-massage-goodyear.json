@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-goodyear",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "14175 W Indian School Rd #D5",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.485031899999996,
+  "lng": -112.3653794,
+  "phone": "+16232235950",
+  "website": "https://elementsmassage.com/goodyear",
+  "placeId": "ChIJy5iB72VHK4cRchGg4CDs61g",
+  "googleRating": 4.8,
+  "googleReviewCount": 503,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a86e5ca63b366c74141",
+  "seededAt": "2026-06-22T18:10:14Z",
+  "updatedAt": "2026-06-22T18:10:15Z",
+  "source": "groundgame"
+}

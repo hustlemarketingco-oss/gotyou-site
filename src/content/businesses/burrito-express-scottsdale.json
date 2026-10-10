@@ -1,0 +1,40 @@
+{
+  "slug": "burrito-express-scottsdale",
+  "name": "Burrito Express",
+  "category": "Restaurant",
+  "googleCategory": "Burrito restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Catering service",
+    "Mexican restaurant",
+    "Food delivery"
+  ],
+  "address": "9619 Hayden Rd #103",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5741997,
+  "lng": -111.904969,
+  "phone": "+14802195882",
+  "website": "http://www.theburritoexpress.com/",
+  "placeId": "ChIJ12kKhNh0K4cRrwyB6sdhirw",
+  "googleRating": 4.3,
+  "googleReviewCount": 410,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a3051542ba1e83486217",
+  "seededAt": "2026-06-22T21:03:01Z",
+  "updatedAt": "2026-06-22T21:03:01Z",
+  "source": "groundgame"
+}

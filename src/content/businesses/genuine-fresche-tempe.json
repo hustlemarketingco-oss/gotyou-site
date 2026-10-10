@@ -1,0 +1,45 @@
+{
+  "slug": "genuine-fresche-tempe",
+  "name": "Genuine Fresche - Tempe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Vegetarian restaurant",
+    "Brazilian restaurant"
+  ],
+  "address": "1726 E Southern Ave #3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941004,
+  "lng": -111.9107511,
+  "phone": "+14807303557",
+  "website": "http://genuinefresche.com/",
+  "placeId": "ChIJuUAw6YMIK4cR28YyoVhZAGQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 294,
+  "priceRange": "$",
+  "amenities": [
+    "Google Pay",
+    "Apple Pay",
+    "Cash",
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4ea13a5f6d49f630fa92ec",
+  "seededAt": "2026-07-08T19:12:58Z",
+  "updatedAt": "2026-07-27T20:06:29Z",
+  "source": "groundgame"
+}

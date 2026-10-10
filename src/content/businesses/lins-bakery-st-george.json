@@ -1,0 +1,36 @@
+{
+  "slug": "lins-bakery-st-george",
+  "name": "Lin's Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "2928 E Mall Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0942757,
+  "lng": -113.52420409999999,
+  "phone": "+14357736800",
+  "website": "https://www.linsgrocery.com/departments/bakery",
+  "placeId": "ChIJxYHWWl9ayoARxD08QNTtxaw",
+  "googleRating": 4.5,
+  "googleReviewCount": 30,
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c0cfaaac7ab6e94ace2",
+  "seededAt": "2025-12-16T15:34:36Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

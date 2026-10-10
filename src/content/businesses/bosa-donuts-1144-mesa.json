@@ -1,0 +1,41 @@
+{
+  "slug": "bosa-donuts-1144-mesa",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Cafe",
+    "Bakery",
+    "Juice shop",
+    "Food store"
+  ],
+  "address": "1144 S Country Club Dr",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.394112,
+  "lng": -111.840605,
+  "phone": "+14808446181",
+  "website": "http://bosadonutsaz.com/locations/",
+  "placeId": "ChIJFxcI8w6oK4cRe7sdGilZbjg",
+  "googleRating": 4.2,
+  "googleReviewCount": 1662,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec79b0dedaefc61d2fe6",
+  "seededAt": "2026-06-17T18:50:33Z",
+  "updatedAt": "2026-06-17T18:50:33Z",
+  "source": "groundgame"
+}

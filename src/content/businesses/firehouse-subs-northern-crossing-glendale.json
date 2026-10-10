@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-northern-crossing-glendale",
+  "name": "Firehouse Subs Northern Crossing",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "5803 W Northern Ave #100",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.552856,
+  "lng": -112.18374999999999,
+  "phone": "+16029047460",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJnctFhalrK4cRj7Tjdca9mkQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 950,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afa9c4e9a0f931ac192",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-06-12T14:43:06Z",
+  "source": "groundgame"
+}

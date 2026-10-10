@@ -1,0 +1,40 @@
+{
+  "slug": "press-coffee-sprouts-gainey-scottsdale",
+  "name": "Press Coffee - Sprouts Gainey",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Coffee stand",
+    "Coffee roastery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "8787 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.565688,
+  "lng": -111.9244892,
+  "phone": "+14802659090",
+  "website": "https://presscoffee.com/pages/sprouts-gainey",
+  "placeId": "ChIJrQrWddZ1K4cRhjzZGBf0CP4",
+  "googleRating": 4.1,
+  "googleReviewCount": 17,
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b924dd197ac1205d1577",
+  "seededAt": "2026-06-10T19:21:08Z",
+  "updatedAt": "2026-06-10T19:21:08Z",
+  "source": "groundgame"
+}

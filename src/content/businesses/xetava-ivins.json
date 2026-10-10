@@ -1,0 +1,39 @@
+{
+  "slug": "xetava-ivins",
+  "name": "Xetava",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Food store",
+    "Cafe"
+  ],
+  "address": "815 Coyote Gulch Ct",
+  "city": "Ivins",
+  "state": "UT",
+  "zip": "84738",
+  "lat": 37.1831508,
+  "lng": -113.70664959999999,
+  "phone": "+14356560165",
+  "website": "http://www.xetava.com/",
+  "placeId": "ChIJiYpuR9BByoARXHdsIilJBGc",
+  "googleRating": 4.6,
+  "googleReviewCount": 1001,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b189d23cd5107c8839c",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2025-12-16T15:30:32Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "zipps-sports-grill-1860-tempe",
+  "name": "Zipps Sports Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Bar and grill",
+    "Pizza restaurant",
+    "Diner",
+    "Hamburger restaurant",
+    "Family restaurant",
+    "Chicken wings restaurant",
+    "Sports bar",
+    "American restaurant"
+  ],
+  "address": "1860 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352341,
+  "lng": -111.9070782,
+  "phone": "+14807828877",
+  "website": "https://www.zippssportsgrills.com/locations/mcclintock/",
+  "placeId": "ChIJDVk6md4GK4cRQswcO-b0SZs",
+  "googleRating": 4.1,
+  "googleReviewCount": 1809,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319041ee97a438eacbe2e7",
+  "seededAt": "2026-06-16T18:04:49Z",
+  "updatedAt": "2026-06-16T18:04:49Z",
+  "source": "groundgame"
+}

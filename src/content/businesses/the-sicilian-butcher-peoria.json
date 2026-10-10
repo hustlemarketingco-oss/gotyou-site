@@ -1,0 +1,39 @@
+{
+  "slug": "the-sicilian-butcher-peoria",
+  "name": "The Sicilian Butcher",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "9780 W Northern Ave Ste 1100",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85345",
+  "lat": 33.551923599999995,
+  "lng": -112.2700763,
+  "phone": "+16234715771",
+  "website": "https://locations.thesicilianbutcher.com/az/peoria/peoria/",
+  "placeId": "ChIJh-XYi1RBK4cRY0jIIUTZf-c",
+  "googleRating": 4.7,
+  "googleReviewCount": 6814,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c73de7d611e0bfd714a",
+  "seededAt": "2026-06-23T05:41:07Z",
+  "updatedAt": "2026-06-23T05:41:07Z",
+  "source": "groundgame"
+}

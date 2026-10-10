@@ -1,0 +1,42 @@
+{
+  "slug": "dark-hall-coffee-phoenix",
+  "name": "Dark Hall Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cake shop",
+    "Bakery",
+    "Cafe",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "2243 N 12th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4727633,
+  "lng": -112.0561346,
+  "phone": "+16022775507",
+  "website": "http://darkhallcoffeephx.com/",
+  "placeId": "ChIJndzGmvcSK4cRPWLHMOJ7i60",
+  "googleRating": 4.6,
+  "googleReviewCount": 677,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb76efb4d786917ad6e1",
+  "seededAt": "2026-06-07T01:37:58Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

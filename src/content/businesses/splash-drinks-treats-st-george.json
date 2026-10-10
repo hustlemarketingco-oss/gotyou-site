@@ -1,0 +1,38 @@
+{
+  "slug": "splash-drinks-treats-st-george",
+  "name": "Splash Drinks & Treats",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Bakery",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "134 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.105807299999995,
+  "lng": -113.5561563,
+  "phone": "+14356524566",
+  "website": "https://www.fabuloussplash.com/",
+  "placeId": "ChIJz4pcOh9byoARWxgQNAbRO4g",
+  "googleRating": 3.8,
+  "googleReviewCount": 27,
+  "hours": {
+    "mon": "7:00 AM - 9:30 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b69744ff86e377d1fc5",
+  "seededAt": "2025-12-16T15:31:53Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

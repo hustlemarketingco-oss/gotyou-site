@@ -1,0 +1,40 @@
+{
+  "slug": "atlas-wines-scottsdale",
+  "name": "Atlas Wines",
+  "category": "Shopping",
+  "googleCategory": "Wine store",
+  "secondaryCategories": [
+    "Beer store",
+    "Wine bar"
+  ],
+  "address": "2515 N Scottsdale Rd #17",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "phone": "+14804239305",
+  "description": "Small, family-run shop with a diverse selection of wine, microbrews & spirits plus a small bar area.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/Atlas-Wines-110313860332580"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b52fcdf834e3f8bc382",
+  "seededAt": "2026-06-06T15:22:58Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

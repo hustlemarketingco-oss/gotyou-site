@@ -32,10 +32,10 @@ export const GET: APIRoute = async ({ site }) => {
     `- [All businesses](${u('/businesses/')})`,
     `- [Explore by city](${u('/explore/')})`,
     ...cities.flatMap((c) => [
-      `- [${c.city}, ${c.state}](${u(cityPath(c.city))}): ${c.items.length} businesses`,
+      `- [${c.city}, ${c.state}](${u(cityPath(c.city, c.state))}): ${c.items.length} businesses`,
       ...topicsForCity(c.items).flatMap((t) => [
-        `  - [${t.topic.kind === 'feature' ? t.topic.label : `Best ${t.topic.label}`} in ${c.city}](${u(topicPath(c.city, t.topic))}): ${t.items.length}`,
-        ...modifiersFor(t.topic, t.items).map((m) => `    - [${m.mod.title(t.topic, c.city)}](${u(topicPath(c.city, t.topic, m.mod.slug))})`),
+        `  - [${t.topic.kind === 'feature' ? t.topic.label : `Best ${t.topic.label}`} in ${c.city}](${u(topicPath(c.city, c.state, t.topic))}): ${t.items.length}`,
+        ...modifiersFor(t.topic, t.items).map((m) => `    - [${m.mod.title(t.topic, c.city)}](${u(topicPath(c.city, c.state, t.topic, m.mod.slug))})`),
       ]),
     ]),
     '',

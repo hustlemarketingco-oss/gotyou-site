@@ -1,0 +1,37 @@
+{
+  "slug": "cinnabon-tempe",
+  "name": "Cinnabon",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3829789,
+  "lng": -111.9648471,
+  "phone": "+14805880557",
+  "website": "https://locations.cinnabon.com/az/tempe/5000-s-arizona-mills-cir",
+  "placeId": "ChIJico65lkPK4cRJgr1I3U66H8",
+  "googleRating": 4.3,
+  "googleReviewCount": 169,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27670dde9a0a475db3b640",
+  "seededAt": "2026-06-09T01:06:21Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

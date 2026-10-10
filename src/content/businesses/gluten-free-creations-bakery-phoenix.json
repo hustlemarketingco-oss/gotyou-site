@@ -1,0 +1,37 @@
+{
+  "slug": "gluten-free-creations-bakery-phoenix",
+  "name": "Gluten Free Creations Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "10880 N 32nd St #39",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "lat": 33.5859179,
+  "lng": -112.013981,
+  "phone": "+16026807258",
+  "website": "http://www.glutenfreecreations.com/",
+  "placeId": "ChIJxWadSlhyK4cRZrD_gF0GtPE",
+  "googleRating": 4.7,
+  "googleReviewCount": 340,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435a982af1a06f541b9ef",
+  "seededAt": "2026-06-18T18:15:05Z",
+  "updatedAt": "2026-06-18T18:15:06Z",
+  "source": "groundgame"
+}

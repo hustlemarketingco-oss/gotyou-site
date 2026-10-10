@@ -1,0 +1,57 @@
+{
+  "slug": "bostons-bar-grille-tempe",
+  "name": "Boston's Bar & Grille",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Bar & grill",
+    "Bar"
+  ],
+  "address": "1730 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3505428,
+  "lng": -111.9120636,
+  "phone": "+14808310822",
+  "website": "https://www.bostonsbarngrille.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15463190156765212339",
+  "googleCid": "15463190156765212339",
+  "placeId": "ChIJzYZdxlYGK4cRs65OJIVJmNY",
+  "googleRating": 4.2,
+  "googleReviewCount": 502,
+  "priceRange": "$10–20",
+  "description": "Laid-back bar with American comfort food, sports on TV, off-track betting & karaoke nights.",
+  "amenities": [
+    "Outdoor seating",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/bostonsbarandgrille"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM",
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2438ca53155b7ed43078b7",
+  "seededAt": "2026-06-06T15:12:10Z",
+  "updatedAt": "2026-06-06T15:12:10Z",
+  "source": "groundgame"
+}

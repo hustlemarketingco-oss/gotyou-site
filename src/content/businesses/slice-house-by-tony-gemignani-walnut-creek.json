@@ -1,0 +1,41 @@
+{
+  "slug": "slice-house-by-tony-gemignani-walnut-creek",
+  "name": "Slice House by Tony Gemignani",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Vegetarian restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Italian restaurant",
+    "Meal takeaway"
+  ],
+  "address": "1500 Mt Diablo Blvd",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "zip": "94596",
+  "lat": 37.897532999999996,
+  "lng": -122.06037699999997,
+  "phone": "+19254488077",
+  "website": "https://slicehouse.com/",
+  "placeId": "ChIJ8aHl3MFhhYARQWglxkN5XHo",
+  "googleRating": 4.4,
+  "googleReviewCount": 657,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429da6229b3e143f23bc",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

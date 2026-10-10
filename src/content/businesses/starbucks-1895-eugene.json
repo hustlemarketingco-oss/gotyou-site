@@ -1,0 +1,31 @@
+{
+  "slug": "starbucks-1895-eugene",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Internet cafe",
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1895 Franklin Boulevard",
+  "city": "Eugene",
+  "state": "OR",
+  "zip": "97403",
+  "lat": 44.04586,
+  "lng": -123.06467999999998,
+  "phone": "+15415213052",
+  "website": "https://www.starbucks.com/store-locator/store/1014586/",
+  "placeId": "ChIJB0ChlyUewVQRj9eQODfQFww",
+  "googleRating": 4.1,
+  "googleReviewCount": 540,
+  "priceRange": "$$",
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "claimed",
+  "checkinCount": 0,
+  "groundgameId": "6941044de17ae7e1839737d3",
+  "seededAt": "2025-12-16T07:03:41Z",
+  "updatedAt": "2026-09-22T15:30:29Z",
+  "source": "groundgame"
+}

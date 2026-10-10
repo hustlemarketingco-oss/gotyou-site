@@ -1,0 +1,39 @@
+{
+  "slug": "hangover-hoagies-tempe",
+  "name": "Hangover Hoagies",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Sandwich shop"
+  ],
+  "address": "1212 E Apache Blvd # 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.415317,
+  "lng": -111.9202861,
+  "phone": "+14809686958",
+  "website": "http://hangoverhoagies.weebly.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3471108256556782542",
+  "googleCid": "3471108256556782542",
+  "placeId": "ChIJ76we8-4IK4cRzhP-kJHaKzA",
+  "googleRating": 4.6,
+  "googleReviewCount": 468,
+  "description": "Set inside a liquor store, this unpretentious counter serve offers a variety of hoagie sandwiches.",
+  "hours": {
+    "fri": "10:00 AM - 1:45 AM",
+    "sat": "10:00 AM - 1:45 AM",
+    "sun": "10:00 AM - 1:45 AM",
+    "mon": "10:00 AM - 1:45 AM",
+    "tue": "10:00 AM - 1:45 AM",
+    "wed": "10:00 AM - 1:45 AM",
+    "thu": "10:00 AM - 1:45 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24376d1850a30d252c8377",
+  "seededAt": "2026-06-06T15:06:21Z",
+  "updatedAt": "2026-06-12T22:05:54Z",
+  "source": "groundgame"
+}

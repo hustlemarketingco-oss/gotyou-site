@@ -1,0 +1,39 @@
+{
+  "slug": "long-wongs-phoenix",
+  "name": "Long Wong's",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Meal takeaway"
+  ],
+  "address": "2812 E Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.4807981,
+  "lng": -112.0208328,
+  "phone": "+16022245464",
+  "website": "https://www.longwongs28st.com/",
+  "placeId": "ChIJG16p1L0NK4cRBWziNodNczs",
+  "googleRating": 4.4,
+  "googleReviewCount": 3572,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d339871a1b746af3650",
+  "seededAt": "2026-06-12T14:52:35Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

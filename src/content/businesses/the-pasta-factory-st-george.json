@@ -1,0 +1,34 @@
+{
+  "slug": "the-pasta-factory-st-george",
+  "name": "The Pasta Factory",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant"
+  ],
+  "address": "2 W St George Blvd #8",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "phone": "+14356743753",
+  "website": "http://stgeorgepizzafactory.com/",
+  "placeId": "ChIJFfeinc9EyoARhQfiHq-xOqU",
+  "googleRating": 4.2,
+  "googleReviewCount": 599,
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dc2729396b5ffcc9bc",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

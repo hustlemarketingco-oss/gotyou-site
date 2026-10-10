@@ -1,0 +1,36 @@
+{
+  "slug": "jimmy-johns-cave-creek",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4935 E Carefree Hwy Suite 101 Suite 101",
+  "city": "Cave Creek",
+  "state": "AZ",
+  "zip": "85331",
+  "lat": 33.798457299999995,
+  "lng": -111.97421329999999,
+  "phone": "+14804372389",
+  "website": "https://locations.jimmyjohns.com/az/cavecreek/sandwiches-4461.html&y_source=1_MjAyNDA4NTE0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJu_IZTyF7K4cRhxBzPk5HRYE",
+  "googleRating": 4.1,
+  "googleReviewCount": 35,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a35792f584be37057f3e951",
+  "seededAt": "2026-06-19T17:15:27Z",
+  "updatedAt": "2026-06-19T17:15:27Z",
+  "source": "groundgame"
+}

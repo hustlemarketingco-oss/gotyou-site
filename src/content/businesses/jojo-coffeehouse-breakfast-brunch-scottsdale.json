@@ -1,0 +1,40 @@
+{
+  "slug": "jojo-coffeehouse-breakfast-brunch-scottsdale",
+  "name": "JoJo Coffeehouse Breakfast & Brunch",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Coffee shop",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3712 N Scottsdale Rd Suite 110",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4906907,
+  "lng": -111.9263989,
+  "phone": "+14809076100",
+  "website": "https://jojocoffeehouse.com/",
+  "placeId": "ChIJN40pNzwLK4cRgZeAwgRtxxU",
+  "googleRating": 4.3,
+  "googleReviewCount": 1874,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 1:00 PM",
+    "tue": "7:00 AM - 1:00 PM",
+    "wed": "7:00 AM - 1:00 PM",
+    "thu": "7:00 AM - 1:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b6dbab93bf183fa86",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

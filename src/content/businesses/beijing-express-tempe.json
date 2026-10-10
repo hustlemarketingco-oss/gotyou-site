@@ -1,0 +1,39 @@
+{
+  "slug": "beijing-express-tempe",
+  "name": "Beijing Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "219 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377805099999996,
+  "lng": -111.93645819999999,
+  "phone": "+14807552298",
+  "website": "https://www.beijing-express.com/",
+  "placeId": "ChIJN7PgkBsGK4cR0E_Esz_NV8M",
+  "googleRating": 4.4,
+  "googleReviewCount": 490,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3edfac61a69691981ac647",
+  "seededAt": "2026-06-26T20:23:08Z",
+  "updatedAt": "2026-09-14T02:59:10Z",
+  "source": "groundgame"
+}

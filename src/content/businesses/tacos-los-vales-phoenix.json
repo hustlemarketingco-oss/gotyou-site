@@ -1,0 +1,37 @@
+{
+  "slug": "tacos-los-vales-phoenix",
+  "name": "Tacos Los Vales",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Burrito restaurant"
+  ],
+  "address": "310 S 4th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4449056,
+  "lng": -112.0690662,
+  "phone": "+14803618290",
+  "website": "https://tacoslosvales.com/",
+  "placeId": "ChIJI6ZuWAATK4cR5AJyd-UCaOE",
+  "googleRating": 4.9,
+  "googleReviewCount": 637,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438d27c1a5bc6b8e73698",
+  "seededAt": "2026-06-18T18:28:34Z",
+  "updatedAt": "2026-06-18T18:28:34Z",
+  "source": "groundgame"
+}

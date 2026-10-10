@@ -1,0 +1,43 @@
+{
+  "slug": "tacos-y-huaraches-el-gordo-4-gilbert",
+  "name": "Tacos y Huaraches El Gordo #4",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1570 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3215649,
+  "lng": -111.7906775,
+  "phone": "+14806258433",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17601792529057170957",
+  "googleCid": "17601792529057170957",
+  "placeId": "ChIJkSkdwLarK4cRDcaTAAwhRvQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 46,
+  "priceRange": "$$",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Quick bite"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2643dade7f17899aa75ed9",
+  "seededAt": "2026-06-08T04:23:54Z",
+  "updatedAt": "2026-06-08T04:26:15Z",
+  "source": "groundgame"
+}

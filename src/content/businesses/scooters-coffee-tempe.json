@@ -1,0 +1,40 @@
+{
+  "slug": "scooters-coffee-tempe",
+  "name": "Scooter's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee stand",
+    "Brunch restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "640 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393356,
+  "lng": -111.929304,
+  "phone": "+16022840311",
+  "website": "https://scooterscoffee.com/",
+  "placeId": "ChIJTXd9JwAJK4cRnJ4F5VxdnyY",
+  "googleRating": 4.1,
+  "googleReviewCount": 59,
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3caa30d32a9a183bdab373",
+  "seededAt": "2026-06-25T04:10:24Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

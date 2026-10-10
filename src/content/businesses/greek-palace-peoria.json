@@ -1,0 +1,37 @@
+{
+  "slug": "greek-palace-peoria",
+  "name": "Greek Palace",
+  "category": "Restaurant",
+  "googleCategory": "Greek restaurant",
+  "secondaryCategories": [
+    "Gyro restaurant"
+  ],
+  "address": "10006 W Happy Valley Rd #1201",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7127845,
+  "lng": -112.2749937,
+  "phone": "+16235664027",
+  "website": "http://greekpalace.net/",
+  "placeId": "ChIJdyOH7KVdK4cRMRiSDgC7fHM",
+  "googleRating": 4.3,
+  "googleReviewCount": 791,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c39e3bfe7e0992c00fb",
+  "seededAt": "2026-06-22T19:25:45Z",
+  "updatedAt": "2026-06-22T19:25:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "il-bosco-pizza-scottsdale",
+  "name": "IL Bosco Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7120 E Becker Ln",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.583194999999996,
+  "lng": -111.9273537,
+  "phone": "+14803358680",
+  "website": "http://www.ilboscopizza.com/",
+  "placeId": "ChIJA8_Xpux0K4cRkiE4WzYVpMk",
+  "googleRating": 4.6,
+  "googleReviewCount": 561,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 9:00 PM",
+    "sat": "4:00 PM - 9:00 PM",
+    "sun": "4:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765560c18d517b25049a2",
+  "seededAt": "2026-06-09T00:59:02Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

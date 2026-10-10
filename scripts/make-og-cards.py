@@ -1,6 +1,12 @@
-"""Generate a branded 1200x630 share image per business: public/og/businesses/<slug>.jpg
+"""Generate branded 1200x630 share images.
 
-Used as og:image on profile pages (merchant photos override it once a listing is claimed).
+  public/og/businesses/<slug>.jpg   one per GOTYOU partner (claimStatus "claimed") and per Google-scraped
+                                    listing; partners are the ones who share their own page
+  public/og/categories/<slug>.jpg   one per display category, the fallback for every other listing
+  src/data/og-cards.json            the slugs that have their own card (read by the profile page)
+
+Per-listing cards for all ~6k CRM leads would add ~300 MB to the repo and push the site past Cloudflare's
+20k static-file limit, so they share the category card until they're claimed.
 Re-run after adding or refreshing listings:  python scripts/make-og-cards.py
 Requires Pillow (pip install pillow).
 """
@@ -69,6 +75,16 @@ def star(d, cx, cy, r, fill):
     d.polygon(pts, fill=fill)
 
 
+def slugify(s):
+    import re
+    return re.sub(r"[^a-z0-9]+", "-", s.lower().replace("&", "and").replace("'", "")).strip("-")
+
+
+def category_card(category, logo):
+    return card({"name": f"Local {category} spots", "category": category, "city": "Find them near you", "state": "",
+                 "googleCategory": "GOTYOU directory"}, logo)
+
+
 def card(b, logo):
     im = background()
     d = ImageDraw.Draw(im)
@@ -89,7 +105,7 @@ def card(b, logo):
         y += int(nf.size * 1.12)
     y += 18
     mf = font("Medium", 34)
-    meta = f"{b['city']}, {b['state']}"
+    meta = ", ".join(x for x in (b["city"], b["state"]) if x)
     d.text((x, y), meta, font=mf, fill=(235, 245, 255))
     if b.get("googleRating"):
         mx = x + d.textlength(meta + "   ", font=mf)
@@ -112,16 +128,28 @@ def main():
     logo = Image.open(ROOT / "public/images/brand/gotyou-logo-white.png").convert("RGBA")
     logo.thumbnail((150, 150))
     files = sorted((ROOT / "src/content/businesses").glob("*.json"))
-    keep = set()
+    keep, cats = set(), set()
     for f in files:
         b = json.loads(f.read_text(encoding="utf-8"))
+        cats.add(b["category"])
+        if b.get("claimStatus") != "claimed" and b.get("source") != "gmaps-scraper":
+            continue
         out = OUT / f"{b['slug']}.jpg"
-        card(b, logo).save(out, "JPEG", quality=74, optimize=True, progressive=True)
         keep.add(out.name)
+        if out.exists() and out.stat().st_mtime >= f.stat().st_mtime:
+            continue  # card is newer than the listing; skip the redraw
+        card(b, logo).save(out, "JPEG", quality=72, optimize=True, progressive=True)
     for old in OUT.glob("*.jpg"):
         if old.name not in keep:
             old.unlink()
-    print(f"wrote {len(keep)} cards -> {OUT}")
+    cat_dir = OUT.parent / "categories"
+    cat_dir.mkdir(parents=True, exist_ok=True)
+    for c in cats:
+        category_card(c, logo).save(cat_dir / f"{slugify(c)}.jpg", "JPEG", quality=72, optimize=True, progressive=True)
+    manifest = ROOT / "src" / "data" / "og-cards.json"
+    manifest.parent.mkdir(parents=True, exist_ok=True)
+    manifest.write_text(json.dumps(sorted(n[:-4] for n in keep)) + "\n", encoding="utf-8")
+    print(f"{len(keep)} listing cards in {OUT}, {len(cats)} category cards in {cat_dir}")
 
 
 if __name__ == "__main__":

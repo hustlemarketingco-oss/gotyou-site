@@ -1,0 +1,39 @@
+{
+  "slug": "cubbys-st-george",
+  "name": "Cubby's",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Sandwich shop",
+    "Breakfast restaurant"
+  ],
+  "address": "245 N Red Clfs Dr Unit 21",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.112933999999996,
+  "lng": -113.55513099999999,
+  "phone": "+14354292020",
+  "website": "https://www.cubbys.co/",
+  "placeId": "ChIJYQaNDeNbyoARnCzg8xx13Fw",
+  "googleRating": 4.4,
+  "googleReviewCount": 298,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f859752d1478ee6cf3b4",
+  "seededAt": "2025-12-17T18:37:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

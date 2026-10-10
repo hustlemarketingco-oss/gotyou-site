@@ -1,0 +1,49 @@
+{
+  "slug": "alibaba-hookah-lounge-cafe-tempe",
+  "name": "AliBaba Hookah Lounge & Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Hookah bar",
+    "Tobacco shop"
+  ],
+  "address": "933 E University Dr #110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4212089,
+  "lng": -111.9247778,
+  "phone": "+14805708261",
+  "googleMapsUrl": "https://www.google.com/maps?cid=14122477065138785736",
+  "googleCid": "14122477065138785736",
+  "placeId": "ChIJO-16-uYIK4cRyM0yEBEe_cM",
+  "googleRating": 4.5,
+  "googleReviewCount": 280,
+  "priceRange": "$20–30",
+  "description": "Located in Tempe, AliBaba Hookah Lounge & Cafe is a cafe & hookah bar with dine-in.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "2:00 PM - 4:00 AM",
+    "sat": "2:00 PM - 4:00 AM",
+    "sun": "2:00 PM - 4:00 AM",
+    "mon": "2:00 PM - 4:00 AM",
+    "tue": "2:00 PM - 4:00 AM",
+    "wed": "2:00 PM - 4:00 AM",
+    "thu": "2:00 PM - 4:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24391217f82245a1c9dd86",
+  "seededAt": "2026-06-06T15:13:22Z",
+  "updatedAt": "2026-07-06T18:27:55Z",
+  "source": "groundgame"
+}

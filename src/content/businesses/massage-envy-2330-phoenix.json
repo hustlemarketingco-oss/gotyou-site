@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-2330-phoenix",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "2330 W Happy Valley Rd #1021",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7141984,
+  "lng": -112.10945729999999,
+  "phone": "+16232409750",
+  "website": "https://locations.massageenvy.com/arizona/phoenix/2330-w-happy-valley-rd.html",
+  "placeId": "ChIJIWgQY71lK4cR__cMkeSjY3A",
+  "googleRating": 4.6,
+  "googleReviewCount": 523,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e6423fab7dea3d307d6b",
+  "seededAt": "2026-06-17T18:24:02Z",
+  "updatedAt": "2026-06-17T18:24:03Z",
+  "source": "groundgame"
+}

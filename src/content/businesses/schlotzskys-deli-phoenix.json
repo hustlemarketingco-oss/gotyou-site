@@ -1,0 +1,37 @@
+{
+  "slug": "schlotzskys-deli-phoenix",
+  "name": "Schlotzsky's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1520 W Bell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85023",
+  "lat": 33.6406092,
+  "lng": -112.0919004,
+  "phone": "+16024723500",
+  "website": "https://locations.schlotzskys.com/az/phoenix/1520-w-bell-road",
+  "placeId": "ChIJbVhlE15sK4cRB_570NcBPUc",
+  "googleRating": 4.2,
+  "googleReviewCount": 1089,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4961ebbd286ec8aad8d405",
+  "seededAt": "2026-07-04T19:41:31Z",
+  "updatedAt": "2026-07-04T19:41:31Z",
+  "source": "groundgame"
+}

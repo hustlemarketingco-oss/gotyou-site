@@ -1,0 +1,38 @@
+{
+  "slug": "the-vig-10199-scottsdale",
+  "name": "The Vig",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "10199 E Bell Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6395396,
+  "lng": -111.8617814,
+  "phone": "+14809352949",
+  "website": "https://www.thevig.us/mcdowell-mountain",
+  "placeId": "ChIJKYAFRPZ1K4cR21hdu5a_sXs",
+  "googleRating": 4.4,
+  "googleReviewCount": 1445,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a404f22c8a33cd4c4957228",
+  "seededAt": "2026-06-27T22:30:58Z",
+  "updatedAt": "2026-06-27T22:30:59Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "creations-boutique-scottsdale-quarter-scottsdale",
+  "name": "Creations Boutique Scottsdale Quarter",
+  "category": "Shopping",
+  "googleCategory": "Womens clothing store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "15323 N Scottsdale Rd Ste E115",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.625333,
+  "lng": -111.9239698,
+  "phone": "+14802729626",
+  "website": "http://creations24.com/",
+  "placeId": "ChIJl036Hft1K4cRBoSzbxptGFE",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3435ad5e3208c9014079f6",
+  "seededAt": "2026-06-18T18:15:09Z",
+  "updatedAt": "2026-06-18T18:15:10Z",
+  "source": "groundgame"
+}

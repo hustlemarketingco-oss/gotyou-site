@@ -1,0 +1,39 @@
+{
+  "slug": "over-easy-2965-phoenix",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "2965 W Dove Valley Rd #500",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7825936,
+  "lng": -112.123053,
+  "phone": "+14805976137",
+  "website": "https://eatatovereasy.com/locations/dove-valley-rd/",
+  "placeId": "ChIJoy_RVSdjK4cRiIymWf8sl5g",
+  "googleRating": 4.6,
+  "googleReviewCount": 148,
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303a070174359297563d33",
+  "seededAt": "2026-06-15T17:44:39Z",
+  "updatedAt": "2026-07-12T20:38:45Z",
+  "source": "groundgame"
+}

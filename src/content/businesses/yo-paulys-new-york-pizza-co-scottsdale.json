@@ -1,0 +1,37 @@
+{
+  "slug": "yo-paulys-new-york-pizza-co-scottsdale",
+  "name": "Yo Pauly's New York Pizza Co",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "8880 E Vía Linda",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5691529,
+  "lng": -111.88993800000001,
+  "phone": "+14804514400",
+  "website": "http://yopaulysnypc.com/",
+  "placeId": "ChIJ86AodjF1K4cR7fW_FWzgSsQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 1114,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276555b397bacc88adf8b4",
+  "seededAt": "2026-06-09T00:59:01Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

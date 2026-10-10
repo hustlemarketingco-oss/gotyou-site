@@ -1,0 +1,41 @@
+{
+  "slug": "hulas-modern-tiki-high-street-phoenix",
+  "name": "HULA'S Modern Tiki High Street",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Bar and grill",
+    "Hawaiian restaurant",
+    "Cocktail bar",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "5450 E High St #101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.6756842,
+  "lng": -111.96393069999999,
+  "phone": "+14805975808",
+  "website": "http://www.hulasmoderntiki.com/",
+  "placeId": "ChIJsRsNcxdxK4cRqCgM8P1YtpY",
+  "googleRating": 4.6,
+  "googleReviewCount": 710,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c5a870eefc2179b0e02e4",
+  "seededAt": "2026-06-12T19:14:15Z",
+  "updatedAt": "2026-06-12T19:14:15Z",
+  "source": "groundgame"
+}

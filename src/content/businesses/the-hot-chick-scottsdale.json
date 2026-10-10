@@ -1,0 +1,39 @@
+{
+  "slug": "the-hot-chick-scottsdale",
+  "name": "The Hot Chick",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "4363 N 75th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.500132199999996,
+  "lng": -111.9198053,
+  "phone": "+14805507507",
+  "website": "https://www.thehotchickaz.com/",
+  "placeId": "ChIJAROSE38LK4cRSQkxgYlUIWo",
+  "googleRating": 4.1,
+  "googleReviewCount": 598,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "3:00 PM - 12:00 AM",
+    "wed": "3:00 PM - 12:00 AM",
+    "thu": "3:00 PM - 2:00 AM",
+    "fri": "1:00 PM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a43c00951a27e4ce3293599",
+  "seededAt": "2026-06-30T13:09:29Z",
+  "updatedAt": "2026-07-08T23:37:02Z",
+  "source": "groundgame"
+}

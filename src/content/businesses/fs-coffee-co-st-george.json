@@ -1,0 +1,37 @@
+{
+  "slug": "fs-coffee-co-st-george",
+  "name": "FS Coffee Co",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "14 W Tabernacle St",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.108389599999995,
+  "lng": -113.5836851,
+  "phone": "+14359867777",
+  "website": "https://fscoffeecompany.com/",
+  "placeId": "ChIJ2S8oKudFyoARGYcVX4Lk6xA",
+  "googleRating": 4.5,
+  "googleReviewCount": 107,
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7d607f7202c6dcb12d",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

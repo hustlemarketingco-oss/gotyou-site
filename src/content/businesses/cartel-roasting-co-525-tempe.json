@@ -1,0 +1,36 @@
+{
+  "slug": "cartel-roasting-co-525-tempe",
+  "name": "Cartel Roasting Co",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "525 E Orange St.",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.4178206,
+  "lng": -111.93185659999999,
+  "website": "https://cartelroasting.co/locations/",
+  "placeId": "ChIJ1zWv7PUJK4cRQKXZ3vO4-O0",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f855b5f79908f26aeb9",
+  "seededAt": "2026-06-18T17:48:53Z",
+  "updatedAt": "2026-06-18T17:48:54Z",
+  "source": "groundgame"
+}

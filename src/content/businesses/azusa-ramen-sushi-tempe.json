@@ -1,0 +1,47 @@
+{
+  "slug": "azusa-ramen-sushi-tempe",
+  "name": "Azusa Ramen & Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Ramen restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Asian fusion restaurant",
+    "Fusion restaurant",
+    "Asian restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "3128 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3948754,
+  "lng": -111.9407708,
+  "phone": "+14805905641",
+  "website": "https://www.azusaramen.com/",
+  "placeId": "ChIJyftAYLAJK4cRmlmf7wdS3tg",
+  "googleRating": 4.6,
+  "googleReviewCount": 551,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Google Pay",
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:15 PM",
+    "tue": "11:00 AM - 8:15 PM",
+    "wed": "11:00 AM - 8:15 PM",
+    "thu": "11:00 AM - 8:15 PM",
+    "fri": "11:00 AM - 8:45 PM",
+    "sat": "11:00 AM - 8:45 PM",
+    "sun": "11:00 AM - 8:15 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4ea74ec3ecc75a30b26e57",
+  "seededAt": "2026-07-08T19:38:54Z",
+  "updatedAt": "2026-08-06T19:18:42Z",
+  "source": "groundgame"
+}

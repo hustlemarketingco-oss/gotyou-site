@@ -1,0 +1,41 @@
+{
+  "slug": "nothing-bundt-cakes-chandler",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "4040 S Arizona Ave Ste 13",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2465678,
+  "lng": -111.8425358,
+  "phone": "+14804704111",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/chandler/bakery-934.html",
+  "placeId": "ChIJmwO1FDurK4cRJfClj9FSRgI",
+  "googleRating": 4.9,
+  "googleReviewCount": 41,
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11cec65712ea517b34d5",
+  "seededAt": "2026-06-23T04:55:42Z",
+  "updatedAt": "2026-06-23T04:55:42Z",
+  "source": "groundgame"
+}

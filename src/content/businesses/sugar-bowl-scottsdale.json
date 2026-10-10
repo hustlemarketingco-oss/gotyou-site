@@ -1,0 +1,50 @@
+{
+  "slug": "sugar-bowl-scottsdale",
+  "name": "Sugar Bowl",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Dessert shop"
+  ],
+  "address": "4005 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4938465,
+  "lng": -111.925952,
+  "phone": "+14809460051",
+  "website": "https://sugarbowlscottsdale.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11352432528419602996",
+  "googleCid": "11352432528419602996",
+  "placeId": "ChIJkzsRmb8LK4cRNEIKoTzxi50",
+  "googleRating": 4.5,
+  "googleReviewCount": 4438,
+  "priceRange": "$",
+  "description": "Ice cream shop delivering shakes, malts & floats plus sandwiches & salads since 1958.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free street parking",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/sugarbowlaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243a5444a0d29be4783c3a",
+  "seededAt": "2026-06-06T15:18:44Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

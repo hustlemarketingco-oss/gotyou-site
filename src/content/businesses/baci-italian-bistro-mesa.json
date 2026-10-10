@@ -1,0 +1,37 @@
+{
+  "slug": "baci-italian-bistro-mesa",
+  "name": "Baci Italian Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "8830 E Germann Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.278118299999996,
+  "lng": -111.64296309999999,
+  "phone": "+14809881061",
+  "website": "http://www.baciitalianbistro.com/",
+  "placeId": "ChIJG_mMopitK4cRKwFaslrjyEo",
+  "googleRating": 4.5,
+  "googleReviewCount": 2297,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2d7f5398a7f281974c1",
+  "seededAt": "2026-06-10T17:45:59Z",
+  "updatedAt": "2026-06-10T17:46:00Z",
+  "source": "groundgame"
+}

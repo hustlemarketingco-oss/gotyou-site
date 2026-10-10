@@ -1,0 +1,41 @@
+{
+  "slug": "greenwood-brewing-phoenix",
+  "name": "Greenwood Brewing",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Manufacturer"
+  ],
+  "address": "922 N 5th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "phone": "+16028758577",
+  "placeId": "ChIJSUlyOL8TK4cRm-ZPCN0BcZk",
+  "googleRating": 4.8,
+  "googleReviewCount": 466,
+  "description": "Located in Phoenix, Greenwood Brewing is a brewery with alcohol & beer, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating",
+    "Free street parking",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/greenwoodbrewing"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2441254a7f53871b772669",
+  "seededAt": "2026-06-06T15:47:49Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

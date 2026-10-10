@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-scottsdale",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "7369 N Vía Paseo Del Sur",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.544244,
+  "lng": -111.9053007,
+  "phone": "+14805466710",
+  "website": "https://locations.ikessandwich.com/az/scottsdale/604/",
+  "placeId": "ChIJVfxrNjsLK4cRexBFpU9sVs8",
+  "googleRating": 4.1,
+  "googleReviewCount": 280,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276535676de3ac0b6b8947",
+  "seededAt": "2026-06-09T00:58:29Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

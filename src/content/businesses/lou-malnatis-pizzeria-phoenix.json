@@ -1,0 +1,43 @@
+{
+  "slug": "lou-malnatis-pizzeria-phoenix",
+  "name": "Lou Malnati's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza takeout",
+  "secondaryCategories": [
+    "Pizza delivery"
+  ],
+  "address": "3433 N 56th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "phone": "+16025518990",
+  "priceRange": "$20–30",
+  "description": "Family-owned local chain for Italian classics & Chicago-style, deep-dish pizzas with buttery crusts.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/loumalnatis"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2452a4b3ee3e34a1e8dcd0",
+  "seededAt": "2026-06-06T17:02:28Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

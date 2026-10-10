@@ -1,0 +1,43 @@
+{
+  "slug": "rubios-coastal-grill-6736-mesa",
+  "name": "Rubio's Coastal Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Family restaurant",
+    "Seafood restaurant",
+    "Catering service",
+    "Burrito restaurant",
+    "Meal takeaway",
+    "Food delivery"
+  ],
+  "address": "6736 E Baseline Rd #101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.379876900000006,
+  "lng": -111.68895780000001,
+  "phone": "+14808302247",
+  "website": "https://www.rubios.com/restaurant-locations/arizona/mesa-baseline-rd",
+  "placeId": "ChIJxVwiOTauK4cRFEY0mQmG6oE",
+  "googleRating": 4.6,
+  "googleReviewCount": 1139,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39744ae165f93b91f32c9a",
+  "seededAt": "2026-06-22T17:43:38Z",
+  "updatedAt": "2026-06-22T17:43:38Z",
+  "source": "groundgame"
+}

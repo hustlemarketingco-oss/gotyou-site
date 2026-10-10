@@ -1,0 +1,41 @@
+{
+  "slug": "taco-bell-st-george",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Vegetarian restaurant",
+    "Breakfast restaurant",
+    "Meal takeaway",
+    "American restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "610 E St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1095362,
+  "lng": -113.57007530000001,
+  "phone": "+14356734400",
+  "website": "https://locations.tacobell.com/ut/saint-george/610-east-st-george-blvd.html&y_source=1_NjE0Mjc5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ5b1ZdC1byoARQrfn72IekJY",
+  "googleRating": 3.7,
+  "googleReviewCount": 1412,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 AM",
+    "tue": "7:00 AM - 3:00 AM",
+    "wed": "7:00 AM - 3:00 AM",
+    "thu": "7:00 AM - 3:00 AM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "Open 24 hours",
+    "sun": "12:00 AM - 5:29 AM, 5:30 AM - 3:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b4783779a9f409c6a6f",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

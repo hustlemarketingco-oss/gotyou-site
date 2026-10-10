@@ -1,0 +1,52 @@
+{
+  "slug": "taco-bell-scottsdale",
+  "name": "Taco Bell",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Lunch restaurant",
+    "Takeout restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-mex restaurant"
+  ],
+  "address": "7901 E McDowell Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "phone": "+14805820911",
+  "priceRange": "$1–10",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/tacobell"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244008f956b054c123e670",
+  "seededAt": "2026-06-06T15:43:04Z",
+  "updatedAt": "2026-06-12T22:06:01Z",
+  "source": "groundgame"
+}

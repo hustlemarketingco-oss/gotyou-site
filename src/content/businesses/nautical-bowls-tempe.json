@@ -1,0 +1,37 @@
+{
+  "slug": "nautical-bowls-tempe",
+  "name": "Nautical Bowls",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Brazilian restaurant"
+  ],
+  "address": "690 S Novus Pl #185",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4236216,
+  "lng": -111.9276426,
+  "phone": "+14808588968",
+  "website": "https://nauticalbowls.com/store/tempe-az/",
+  "placeId": "ChIJpZM7KPwJK4cRnz53LHvpHnQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 249,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303e177c72a2954ddfa93c",
+  "seededAt": "2026-06-15T18:01:59Z",
+  "updatedAt": "2026-07-04T02:05:02Z",
+  "source": "groundgame"
+}

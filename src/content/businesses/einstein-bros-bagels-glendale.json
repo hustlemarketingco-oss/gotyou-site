@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-glendale",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "4304 W Bell Rd B",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.639749099999996,
+  "lng": -112.15250909999999,
+  "phone": "+16025470959",
+  "website": "https://locations.einsteinbros.com/us/az/phoenix/4304-w-bell-rd?y_source=1_OTA0OTkxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJJ6IBVChpK4cRYABg9ErvZNY",
+  "googleRating": 4.1,
+  "googleReviewCount": 735,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994d7c4e9cc4ea14fe738",
+  "seededAt": "2026-06-10T16:46:15Z",
+  "updatedAt": "2026-06-10T16:46:16Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-tempe-az-tempe-campus-tempe",
+  "name": "HOTWORX - Tempe, AZ - Tempe Campus",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Sauna",
+    "Public bath",
+    "Fitness center",
+    "Gym",
+    "Spa",
+    "Sports activity location"
+  ],
+  "address": "1135 E Apache Blvd Ste 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414315,
+  "lng": -111.92079299999999,
+  "phone": "+16026094328",
+  "website": "https://www.hotworx.net/studio/tempecampus",
+  "placeId": "ChIJM-MU2d0JK4cRtqvGsfyJE0k",
+  "googleRating": 4.3,
+  "googleReviewCount": 73,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc25cd163fb3bfb22b0e",
+  "seededAt": "2026-10-07T21:39:49Z",
+  "updatedAt": "2026-10-07T21:39:49Z",
+  "source": "groundgame"
+}

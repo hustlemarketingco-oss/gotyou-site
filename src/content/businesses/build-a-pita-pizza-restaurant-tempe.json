@@ -1,0 +1,52 @@
+{
+  "slug": "build-a-pita-pizza-restaurant-tempe",
+  "name": "Build-A-Pita & Pizza Restaurant - Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Family restaurant",
+    "Gyro restaurant",
+    "Halal restaurant",
+    "Lebanese restaurant",
+    "Pizza restaurant",
+    "Middle eastern restaurant",
+    "Shawarma restaurant"
+  ],
+  "address": "922 E Apache Blvd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4149656,
+  "lng": -111.9252745,
+  "phone": "+14808532973",
+  "website": "https://buildapita.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4863892571818758959",
+  "googleCid": "4863892571818758959",
+  "placeId": "ChIJ_7pyvNQJK4cRLxPrKIYEgEM",
+  "googleRating": 4.9,
+  "googleReviewCount": 476,
+  "description": "Located in Tempe, Build-A-Pita & Pizza Restaurant - Tempe is a mediterranean restaurant & caterer.",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 3:00 AM",
+    "sat": "11:00 AM - 3:00 AM",
+    "sun": "11:00 AM - 12:00 AM",
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2437843a757e388c8b0af4",
+  "seededAt": "2026-06-06T15:06:44Z",
+  "updatedAt": "2026-07-14T20:26:38Z",
+  "source": "groundgame"
+}

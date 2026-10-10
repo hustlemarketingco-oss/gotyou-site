@@ -1,0 +1,42 @@
+{
+  "slug": "experiment-coffee-and-pastry-tempe",
+  "name": "Experiment Coffee and Pastry",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Cafe",
+    "Pastry shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1135 W Geneva Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3944295,
+  "lng": -111.95550949999999,
+  "phone": "+14806531649",
+  "website": "http://www.experimentcoffeeandpastry.com/",
+  "placeId": "ChIJZUEUqn0PK4cRoFoba14YsN8",
+  "googleRating": 4.8,
+  "googleReviewCount": 339,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a6a688894784e2b50ac2224",
+  "seededAt": "2026-07-29T20:54:32Z",
+  "updatedAt": "2026-07-29T20:59:53Z",
+  "source": "groundgame"
+}

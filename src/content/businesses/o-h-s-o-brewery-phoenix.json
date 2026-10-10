@@ -1,0 +1,35 @@
+{
+  "slug": "o-h-s-o-brewery-phoenix",
+  "name": "O.H.S.O. Brewery",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Manufacturer"
+  ],
+  "address": "Terminal 4, 3400 Sky Hbr Blvd Gate B9",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4375694,
+  "lng": -111.9967128,
+  "website": "https://ohsobrewery.com/",
+  "placeId": "ChIJF60VfD8PK4cRemQzU1EnmRo",
+  "googleRating": 3.2,
+  "googleReviewCount": 106,
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29fc087f81e08893402d2f",
+  "seededAt": "2026-06-11T00:06:32Z",
+  "updatedAt": "2026-06-11T00:06:32Z",
+  "source": "groundgame"
+}

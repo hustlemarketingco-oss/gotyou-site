@@ -1,0 +1,43 @@
+{
+  "slug": "sweet-dees-bakeshop-scottsdale",
+  "name": "Sweet Dee’s Bakeshop",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Dessert restaurant",
+    "Coffee shop",
+    "Catering service",
+    "Food delivery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7350 E Stetson Dr c101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4997373,
+  "lng": -111.9219887,
+  "phone": "+14809946733",
+  "website": "https://www.sweetdees.com/",
+  "placeId": "ChIJYwGYSYcLK4cRUm-15EYSduU",
+  "googleRating": 4,
+  "googleReviewCount": 428,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "8:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765aac55a2c27d01f4cf8",
+  "seededAt": "2026-06-09T01:00:26Z",
+  "updatedAt": "2026-07-01T15:32:21Z",
+  "source": "groundgame"
+}

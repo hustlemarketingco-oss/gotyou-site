@@ -1,0 +1,42 @@
+{
+  "slug": "fatty-daddys-ice-cream-scottsdale",
+  "name": "Fatty Daddy's Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Tea house",
+    "Dessert shop",
+    "Confectionery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1608 N Miller Rd STE 5",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4663587,
+  "lng": -111.9179887,
+  "phone": "+14806346460",
+  "website": "http://fattydaddys.com/",
+  "placeId": "ChIJuWv2vmQJK4cRwSd9j63SEv8",
+  "googleRating": 4.3,
+  "googleReviewCount": 690,
+  "priceRange": "$",
+  "hours": {
+    "mon": "3:00 PM - 9:30 PM",
+    "tue": "3:00 PM - 9:30 PM",
+    "wed": "3:00 PM - 9:30 PM",
+    "thu": "3:00 PM - 9:30 PM",
+    "fri": "3:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765aab42d445b41756935",
+  "seededAt": "2026-06-09T01:00:26Z",
+  "updatedAt": "2026-06-26T19:27:34Z",
+  "source": "groundgame"
+}

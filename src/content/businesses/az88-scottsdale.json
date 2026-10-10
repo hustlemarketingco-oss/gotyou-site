@@ -1,0 +1,38 @@
+{
+  "slug": "az88-scottsdale",
+  "name": "AZ88",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "7353 E Scottsdale Mall",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4927468,
+  "lng": -111.9231291,
+  "phone": "+14809945576",
+  "website": "http://az88.com/",
+  "placeId": "ChIJSYnAvMALK4cRIVgKZTKIqMk",
+  "googleRating": 4.6,
+  "googleReviewCount": 2408,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275353cf6848b376b87e0d",
+  "seededAt": "2026-06-08T23:42:11Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

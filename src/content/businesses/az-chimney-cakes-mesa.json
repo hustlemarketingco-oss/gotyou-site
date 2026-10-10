@@ -1,0 +1,43 @@
+{
+  "slug": "az-chimney-cakes-mesa",
+  "name": "AZ Chimney Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Ice cream shop",
+    "Sandwich shop",
+    "Confectionery",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1055 N Dobson Rd #104",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.435579499999996,
+  "lng": -111.86381089999999,
+  "phone": "+14806877515",
+  "website": "http://azchimneycakes.com/",
+  "placeId": "ChIJVVVZp6-nK4cRkLqdrqhiZB0",
+  "googleRating": 4.6,
+  "googleReviewCount": 524,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "2:00 PM - 9:00 PM",
+    "sat": "2:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398a8612c2109be57ace8f",
+  "seededAt": "2026-06-22T19:18:30Z",
+  "updatedAt": "2026-06-25T19:52:08Z",
+  "source": "groundgame"
+}

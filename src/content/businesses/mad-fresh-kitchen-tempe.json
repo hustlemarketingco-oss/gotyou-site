@@ -1,0 +1,41 @@
+{
+  "slug": "mad-fresh-kitchen-tempe",
+  "name": "Mad Fresh Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Lunch restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Caterer",
+    "Delivery restaurant"
+  ],
+  "address": "455 S 48th St STE 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4249822,
+  "lng": -111.9768512,
+  "phone": "+14803827755",
+  "website": "http://eatmadfresh.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16812665332263554147",
+  "googleCid": "16812665332263554147",
+  "placeId": "ChIJ1fd0W_g3K4cRYwwY2QqWUuk",
+  "googleRating": 4.6,
+  "googleReviewCount": 105,
+  "description": "Located in Tempe, Mad Fresh Kitchen is a lunch restaurant & breakfast restaurant.",
+  "hours": {
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 3:00 PM",
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243773c4e14c02b775a55b",
+  "seededAt": "2026-06-06T15:06:27Z",
+  "updatedAt": "2026-06-06T15:06:27Z",
+  "source": "groundgame"
+}

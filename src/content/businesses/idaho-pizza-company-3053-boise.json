@@ -1,0 +1,39 @@
+{
+  "slug": "idaho-pizza-company-3053-boise",
+  "name": "Idaho Pizza Company",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery",
+    "Buffet restaurant"
+  ],
+  "address": "3053 S Cole Rd",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83709",
+  "lat": 43.574737600000006,
+  "lng": -116.27462369999999,
+  "phone": "+12083627702",
+  "website": "http://www.idahopizzacompany.com/",
+  "placeId": "ChIJZc_9nKdXrlQRKue7ErsiWAw",
+  "googleRating": 4.4,
+  "googleReviewCount": 1121,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b4f65980390c5d584cb",
+  "seededAt": "2026-01-16T01:58:39Z",
+  "updatedAt": "2026-01-16T01:58:39Z",
+  "source": "groundgame"
+}

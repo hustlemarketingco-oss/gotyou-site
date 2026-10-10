@@ -1,0 +1,39 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-gilbert",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1877 E Williams Field Rd #105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3063572,
+  "lng": -111.7496893,
+  "phone": "+14803076990",
+  "website": "https://www.rmcf.com/",
+  "placeId": "ChIJD3HZY0mtK4cRu5Xd5_Zz25c",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3451383d2ebe690a3ff369",
+  "seededAt": "2026-06-18T20:12:40Z",
+  "updatedAt": "2026-06-18T20:12:41Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "da-vinci-pizza-and-pasta-gainesville",
+  "name": "Da Vinci pizza and pasta",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Bar",
+    "Vegetarian restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Food store",
+    "Meal takeaway"
+  ],
+  "address": "3275 SW 34th St",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32608",
+  "lat": 29.624485,
+  "lng": -82.3711665,
+  "phone": "+13524514706",
+  "website": "https://davinci-uf.com/",
+  "placeId": "ChIJ-SiD-Qyj6IgR-JV46wdVUzA",
+  "googleRating": 4.8,
+  "googleReviewCount": 838,
+  "hours": {
+    "mon": "4:30 PM - 9:00 PM",
+    "tue": "4:30 PM - 9:00 PM",
+    "wed": "4:30 PM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f2360d45e1f95c1be",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

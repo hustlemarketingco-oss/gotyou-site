@@ -1,0 +1,39 @@
+{
+  "slug": "tonys-diner-cedar-city",
+  "name": "Tony’s Diner",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Acai shop",
+    "Brazilian restaurant",
+    "Sandwich shop"
+  ],
+  "address": "755 S Main St #6",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.663926599999996,
+  "lng": -113.06630439999999,
+  "phone": "+14357081360",
+  "website": "http://www.tonysbistro.net/",
+  "placeId": "ChIJP7Q9apphtYAR7kJyRGDhLEk",
+  "googleRating": 4.2,
+  "googleReviewCount": 281,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 4:30 PM",
+    "tue": "11:00 AM - 4:30 PM",
+    "wed": "11:00 AM - 4:30 PM",
+    "thu": "11:00 AM - 4:30 PM",
+    "fri": "11:00 AM - 12:30 AM",
+    "sat": "11:00 AM - 4:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f096eb214e1907f6a6",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

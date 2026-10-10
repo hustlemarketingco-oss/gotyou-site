@@ -1,0 +1,37 @@
+{
+  "slug": "black-rock-coffee-bar-tempe",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2030 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3497542,
+  "lng": -111.9010783,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/loop-101-elliot",
+  "placeId": "ChIJ43-0JOEHK4cRvwrP_kh-4Ww",
+  "googleRating": 4.8,
+  "googleReviewCount": 21,
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a517250eea60c34af8ee33d",
+  "seededAt": "2026-07-10T22:29:36Z",
+  "updatedAt": "2026-07-10T23:00:54Z",
+  "source": "groundgame"
+}

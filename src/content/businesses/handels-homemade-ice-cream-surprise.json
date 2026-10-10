@@ -1,0 +1,40 @@
+{
+  "slug": "handels-homemade-ice-cream-surprise",
+  "name": "Handel's Homemade Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "15240 N Cotton Ln #108",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85388",
+  "lat": 33.6229198,
+  "lng": -112.42760419999999,
+  "phone": "+16235463922",
+  "website": "http://www.handelsicecream.com/surprise",
+  "placeId": "ChIJq4oCLwNFK4cRu8JlobcuYYQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 823,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342ad47e21f6a684225939",
+  "seededAt": "2026-06-18T17:28:52Z",
+  "updatedAt": "2026-06-18T17:28:53Z",
+  "source": "groundgame"
+}

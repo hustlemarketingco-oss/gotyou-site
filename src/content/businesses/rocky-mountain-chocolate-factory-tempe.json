@@ -1,0 +1,42 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-tempe",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Gift shop",
+    "Chocolate factory",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1064",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.432789,
+  "lng": -111.90482499999999,
+  "phone": "+14802848724",
+  "website": "https://www.rmcf.com/pages/store-locator",
+  "placeId": "ChIJewJA_f8IK4cRvDEuJTPkjTg",
+  "googleRating": 4.2,
+  "googleReviewCount": 86,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a345130c7c9c09d7abf0c49",
+  "seededAt": "2026-06-18T20:12:32Z",
+  "updatedAt": "2026-06-26T16:17:35Z",
+  "source": "groundgame"
+}

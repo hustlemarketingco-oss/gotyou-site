@@ -1,0 +1,37 @@
+{
+  "slug": "pomo-pizzeria-phoenix",
+  "name": "Pomo Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "705 N 1st St UNIT 120",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4560223,
+  "lng": -112.0723098,
+  "phone": "+16027952555",
+  "website": "http://www.pomopizzeria.com/",
+  "placeId": "ChIJnUeNQj0SK4cRsUbauhYenmo",
+  "googleRating": 4.5,
+  "googleReviewCount": 2310,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb1963654c47141c3fda",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

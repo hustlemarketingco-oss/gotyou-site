@@ -1,0 +1,41 @@
+{
+  "slug": "hungry-howies-pizza-3614-mesa",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3614 E Southern Ave #104",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.395303,
+  "lng": -111.752904,
+  "phone": "+14806411525",
+  "website": "https://www.hungryhowies.com/stores/az/mesa/3614-east-southern-ave-104",
+  "placeId": "ChIJ2yLbSTavK4cRNSYSLnLJwqo",
+  "googleRating": 3.5,
+  "googleReviewCount": 259,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cb9fe51bf7c9a3167b45",
+  "seededAt": "2026-06-16T22:18:07Z",
+  "updatedAt": "2026-06-16T22:18:07Z",
+  "source": "groundgame"
+}

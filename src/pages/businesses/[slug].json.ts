@@ -1,18 +1,17 @@
 // Machine-readable facts for each business (linked from the profile via <link rel="alternate">),
 // so AI assistants and other tools can read hours/location/contact without scraping HTML.
 import type { APIRoute } from 'astro';
-import { getCollection } from 'astro:content';
+import { activeInState, allBusinessData } from '../../lib/explore';
 import { formatPhone } from '../../lib/business';
 import { profileContent } from '../../lib/profile-content';
 
 export async function getStaticPaths() {
-  const all = await getCollection('businesses');
-  return all.map((b) => ({ params: { slug: b.data.slug }, props: { b: b.data, all: all.map((x) => x.data) } }));
+  return (await allBusinessData()).map((b) => ({ params: { slug: b.slug }, props: { slug: b.slug } }));
 }
 
-export const GET: APIRoute = ({ props, site }) => {
-  const { b, all } = props as { b: any; all: any[] };
-  const c = profileContent(b, all.filter((x) => !x.temporarilyClosed));
+export const GET: APIRoute = async ({ props, site }) => {
+  const b = (await allBusinessData()).find((x) => x.slug === (props as { slug: string }).slug)!;
+  const c = profileContent(b, await activeInState(b.state));
   const url = new URL(`/businesses/${b.slug}/`, site).href;
   const body = {
     name: b.name,

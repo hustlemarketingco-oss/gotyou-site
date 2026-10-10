@@ -1,0 +1,39 @@
+{
+  "slug": "aloha-yogurt-tempe",
+  "name": "Aloha Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "219 E Baseline Rd #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377826,
+  "lng": -111.9362714,
+  "phone": "+14802895238",
+  "website": "http://www.alohayogurt.com/",
+  "placeId": "ChIJnaQBjxsGK4cRH627zzQdQOc",
+  "googleRating": 4.8,
+  "googleReviewCount": 777,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "2:00 PM - 10:00 PM",
+    "wed": "2:00 PM - 10:00 PM",
+    "thu": "2:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ee04df17824cea7b8f649",
+  "seededAt": "2026-06-26T20:25:49Z",
+  "updatedAt": "2026-08-06T01:47:29Z",
+  "source": "groundgame"
+}

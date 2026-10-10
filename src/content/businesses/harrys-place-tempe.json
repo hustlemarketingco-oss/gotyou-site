@@ -1,0 +1,50 @@
+{
+  "slug": "harrys-place-tempe",
+  "name": "Harry's Place",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "60 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4260856,
+  "lng": -111.9390272,
+  "phone": "+14803171556",
+  "website": "https://www.destinationhotels.com/tempe-mission-palms/dining/restaurants-tempe-az?src=agn_sabre_prop_seo_phxdt_gmb",
+  "googleMapsUrl": "https://www.google.com/maps?cid=12150174345594273044",
+  "googleCid": "12150174345594273044",
+  "placeId": "ChIJo5zyDNgIK4cRFP01ZDEXnqg",
+  "googleRating": 4,
+  "googleReviewCount": 25,
+  "description": "Southwestern-inspired & locally sourced American fare served in a stylish hotel kitchen & bar.",
+  "amenities": [
+    "Outdoor seating",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "2:00 PM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM",
+    "mon": "2:00 PM - 10:00 PM",
+    "tue": "2:00 PM - 10:00 PM",
+    "wed": "2:00 PM - 10:00 PM",
+    "thu": "2:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2438836238084151f8599d",
+  "seededAt": "2026-06-06T15:10:59Z",
+  "updatedAt": "2026-06-06T15:10:59Z",
+  "source": "groundgame"
+}

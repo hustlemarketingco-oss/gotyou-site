@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-2160-phoenix",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "2160 E Baseline Rd Ste 124",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.3793557,
+  "lng": -112.03308039999999,
+  "phone": "+16232892660",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/southmountain",
+  "placeId": "ChIJiYGEklYPK4cRjWKP_1tkxBA",
+  "googleRating": 4.7,
+  "googleReviewCount": 1038,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a67610467e40be103d01a8e",
+  "seededAt": "2026-07-27T13:45:40Z",
+  "updatedAt": "2026-07-27T13:45:41Z",
+  "source": "groundgame"
+}

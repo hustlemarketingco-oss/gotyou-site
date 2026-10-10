@@ -1,0 +1,38 @@
+{
+  "slug": "the-vig-8729-phoenix",
+  "name": "The Vig",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "8729 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5637995,
+  "lng": -112.07350860000001,
+  "phone": "+16026062258",
+  "website": "https://www.thevig.us/north-central",
+  "placeId": "ChIJQUfpNsptK4cRzIzE29m_1Mw",
+  "googleRating": 4.2,
+  "googleReviewCount": 281,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a404f21b7910d4931659979",
+  "seededAt": "2026-06-27T22:30:57Z",
+  "updatedAt": "2026-06-27T22:30:57Z",
+  "source": "groundgame"
+}

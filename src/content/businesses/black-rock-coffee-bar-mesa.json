@@ -1,0 +1,41 @@
+{
+  "slug": "black-rock-coffee-bar-mesa",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Bagel shop",
+    "Breakfast restaurant",
+    "Cafe",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "1132 S Gilbert Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.394497799999996,
+  "lng": -111.78875699999999,
+  "phone": "+18338435776",
+  "website": "https://br.coffee/locations/southern-gilbert",
+  "placeId": "ChIJA9Cp8YmpK4cRZycyP9E4Bp8",
+  "googleRating": 4.3,
+  "googleReviewCount": 679,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5172598418120a3eabda57",
+  "seededAt": "2026-07-10T22:29:45Z",
+  "updatedAt": "2026-07-10T22:29:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "the-italian-daughter-scottsdale",
+  "name": "The Italian Daughter",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "23655 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.7013046,
+  "lng": -111.9248674,
+  "phone": "+14804046085",
+  "website": "http://theitaliandaughter.com/",
+  "placeId": "ChIJ1waQTHZ3K4cR29qvItZQ7tE",
+  "googleRating": 4.7,
+  "googleReviewCount": 1135,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "2:00 PM - 10:00 PM",
+    "tue": "2:00 PM - 10:00 PM",
+    "wed": "2:00 PM - 10:00 PM",
+    "thu": "2:00 PM - 10:00 PM",
+    "fri": "2:00 PM - 10:00 PM",
+    "sat": "2:00 PM - 10:00 PM",
+    "sun": "2:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766303677b96fbb331d24",
+  "seededAt": "2026-06-09T01:02:40Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "spumoni-pizza-restaurant-santa-monica",
+  "name": "Spumoni Pizza Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "713 Montana Ave",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90403",
+  "lat": 34.027269,
+  "lng": -118.50159099999999,
+  "phone": "+13103932944",
+  "website": "https://spumonirestaurants.com/",
+  "placeId": "ChIJW1s7D7mkwoARITvjUcoljOk",
+  "googleRating": 4.5,
+  "googleReviewCount": 409,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50d21c6bdd79bc5b2ca",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:37:17Z",
+  "source": "groundgame"
+}

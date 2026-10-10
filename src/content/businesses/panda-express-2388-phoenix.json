@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-2388-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "2388 E Union Hills Dr",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85024",
+  "lat": 33.6553579,
+  "lng": -112.0312969,
+  "phone": "+16025693733",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/2659",
+  "placeId": "ChIJp6yiQ89xK4cRKE-mezEnWZs",
+  "googleRating": 3.7,
+  "googleReviewCount": 1285,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:30 AM - 11:30 PM",
+    "tue": "8:30 AM - 11:30 PM",
+    "wed": "8:30 AM - 11:30 PM",
+    "thu": "8:30 AM - 11:30 PM",
+    "fri": "8:30 AM - 11:30 PM",
+    "sat": "8:30 AM - 11:30 PM",
+    "sun": "8:30 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997ad6d05c7fd1a7c70d9",
+  "seededAt": "2026-06-10T16:58:21Z",
+  "updatedAt": "2026-06-12T22:08:09Z",
+  "source": "groundgame"
+}

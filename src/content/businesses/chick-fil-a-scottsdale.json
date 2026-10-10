@@ -1,0 +1,41 @@
+{
+  "slug": "chick-fil-a-scottsdale",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "14995 N 87th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6211929,
+  "lng": -111.8922364,
+  "phone": "+14809224540",
+  "website": "https://www.chick-fil-a.com/locations/az/raintree-drive-101",
+  "placeId": "ChIJfRggBLp1K4cR1iwdd_-oD3w",
+  "googleRating": 4.4,
+  "googleReviewCount": 2248,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 10:00 PM",
+    "tue": "6:30 AM - 10:00 PM",
+    "wed": "6:30 AM - 10:00 PM",
+    "thu": "6:30 AM - 10:00 PM",
+    "fri": "6:30 AM - 10:00 PM",
+    "sat": "6:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b193b0df757bc7c6961",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

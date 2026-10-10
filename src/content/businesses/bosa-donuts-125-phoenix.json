@@ -1,0 +1,37 @@
+{
+  "slug": "bosa-donuts-125-phoenix",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "125 N 44th St Ste 100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4499183,
+  "lng": -111.9866819,
+  "phone": "+16028996666",
+  "website": "https://bosadonutsaz.com/",
+  "placeId": "ChIJOyJBQ6UPK4cR_dfj8169NoM",
+  "googleRating": 4.2,
+  "googleReviewCount": 170,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 6:00 PM",
+    "tue": "5:00 AM - 6:00 PM",
+    "wed": "5:00 AM - 6:00 PM",
+    "thu": "5:00 AM - 6:00 PM",
+    "fri": "5:00 AM - 6:00 PM",
+    "sat": "5:00 AM - 6:00 PM",
+    "sun": "5:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec730e466fff09ba4f2d",
+  "seededAt": "2026-06-17T18:50:27Z",
+  "updatedAt": "2026-06-17T18:50:27Z",
+  "source": "groundgame"
+}

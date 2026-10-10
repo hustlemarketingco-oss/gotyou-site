@@ -1,0 +1,53 @@
+{
+  "slug": "dunkin-chandler",
+  "name": "Dunkin'",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Bagel shop",
+    "Bakery",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Takeout restaurant"
+  ],
+  "address": "4225 S Gilbert Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85249",
+  "phone": "+14809237262",
+  "priceRange": "$1–10",
+  "description": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+  "amenities": [
+    "Outdoor seating",
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/DunkinUS"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264be76cc5082866129719",
+  "seededAt": "2026-06-08T04:58:15Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

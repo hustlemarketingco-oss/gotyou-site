@@ -1,0 +1,41 @@
+{
+  "slug": "el-tataki-sushi-avondale",
+  "name": "El Tataki Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Fusion restaurant",
+    "Asian restaurant",
+    "Mexican restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "10685 W Indian School Rd #k",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4923117,
+  "lng": -112.2895978,
+  "phone": "+16232303668",
+  "website": "https://eltatakisushi.com/",
+  "placeId": "ChIJn_zLGYFAK4cR4iGUgJLzVAI",
+  "googleRating": 4.2,
+  "googleReviewCount": 2497,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5543f800e13957b419a19f",
+  "seededAt": "2026-07-13T20:00:56Z",
+  "updatedAt": "2026-07-13T20:00:57Z",
+  "source": "groundgame"
+}

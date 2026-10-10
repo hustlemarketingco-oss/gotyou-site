@@ -1,0 +1,44 @@
+{
+  "slug": "minnow-phoenix",
+  "name": "Minnow",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Cocktail bar",
+    "Bar",
+    "Cafe",
+    "Japanese restaurant",
+    "Food store"
+  ],
+  "address": "4501 N 32nd St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.5029064,
+  "lng": -112.012537,
+  "phone": "+16029322858",
+  "website": "https://eatminnow.com/",
+  "placeId": "ChIJdZEzj6INK4cR2qy8lwYt__0",
+  "googleRating": 4.4,
+  "googleReviewCount": 114,
+  "amenities": [
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c4dd1ef3096542bfd9a22",
+  "seededAt": "2026-06-12T18:20:01Z",
+  "updatedAt": "2026-06-27T16:36:04Z",
+  "source": "groundgame"
+}

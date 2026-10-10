@@ -1,0 +1,28 @@
+{
+  "slug": "new-york-pizzeria-walnut",
+  "name": "New York Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "364 N Lemon Ave",
+  "city": "Walnut",
+  "state": "CA",
+  "zip": "91789",
+  "lat": 34.0202338,
+  "lng": -117.86433969999999,
+  "phone": "+19095945000",
+  "website": "http://newybestpizzeriacali.com/",
+  "placeId": "ChIJk6z7xMcrw4ARExGzpc_lXDE",
+  "googleRating": 4.4,
+  "googleReviewCount": 321,
+  "priceRange": "$$",
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429d5ae27441d38ca77a",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

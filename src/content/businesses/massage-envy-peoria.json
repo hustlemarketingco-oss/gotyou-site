@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-peoria",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "9744 W Northern Ave Ste 1340",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85345",
+  "lat": 33.5531027,
+  "lng": -112.2689522,
+  "phone": "+16238723689",
+  "website": "https://locations.massageenvy.com/arizona/peoria/9744-w-northern-ave.html",
+  "placeId": "ChIJtQZWMLxBK4cRSWL4j_vwLks",
+  "googleRating": 4.9,
+  "googleReviewCount": 1267,
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e6470bc9f581836c03e2",
+  "seededAt": "2026-06-17T18:24:07Z",
+  "updatedAt": "2026-06-17T18:24:08Z",
+  "source": "groundgame"
+}

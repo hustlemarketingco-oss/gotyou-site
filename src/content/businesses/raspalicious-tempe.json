@@ -1,0 +1,41 @@
+{
+  "slug": "raspalicious-tempe",
+  "name": "Raspalicious",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Fruit parlor",
+    "Snack bar"
+  ],
+  "address": "2714 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932916,
+  "lng": -111.977044,
+  "googleMapsUrl": "https://www.google.com/maps?cid=16189293419587800933",
+  "googleCid": "16189293419587800933",
+  "placeId": "ChIJnd2JpC8PK4cRZY8ZL5fsq-A",
+  "googleRating": 4.4,
+  "googleReviewCount": 91,
+  "priceRange": "$",
+  "description": "Raspalicious is a ice cream shop & fruit parlor in Tempe, serving up takeout & delivery. A favorite among family-friendly diners.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2435fa8f60ffd52b2b31f3",
+  "seededAt": "2026-06-06T15:00:10Z",
+  "updatedAt": "2026-06-06T15:04:49Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "borjas-italian-restaurant-irvine",
+  "name": "BORJA'S Italian Restaurant",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "18218 E McDurmott Suit # K",
+  "city": "Irvine",
+  "state": "CA",
+  "zip": "92614",
+  "lat": 33.6888179,
+  "lng": -117.86586260000001,
+  "phone": "+19498255000",
+  "website": "https://www.borjasitalianrestaurant.com/",
+  "placeId": "ChIJBYPnGDzf3IARVGflZ4mf_a8",
+  "googleRating": 4.5,
+  "googleReviewCount": 158,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80f607bdfb0aea564c3",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

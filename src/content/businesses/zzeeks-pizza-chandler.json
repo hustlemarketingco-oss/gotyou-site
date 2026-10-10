@@ -1,0 +1,37 @@
+{
+  "slug": "zzeeks-pizza-chandler",
+  "name": "Zzeeks Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant"
+  ],
+  "address": "960 E Warner Rd #1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.335696999999996,
+  "lng": -111.826251,
+  "phone": "+14804001010",
+  "website": "https://zzeeks.com/",
+  "placeId": "ChIJffj3upapK4cRT5kQAdUg5xI",
+  "googleRating": 4.4,
+  "googleReviewCount": 909,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a306c6874e084b9e9edc77a",
+  "seededAt": "2026-06-15T21:19:36Z",
+  "updatedAt": "2026-06-15T21:19:36Z",
+  "source": "groundgame"
+}

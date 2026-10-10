@@ -1,0 +1,37 @@
+{
+  "slug": "taco-chelo-tempe",
+  "name": "Taco Chelo Tempe",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant"
+  ],
+  "address": "521 S College Ave #112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4244367,
+  "lng": -111.93475939999999,
+  "phone": "+14802091731",
+  "website": "https://tacochelo.com/",
+  "placeId": "ChIJEeVsPQAJK4cRsr8hIrsEUzg",
+  "googleRating": 4.7,
+  "googleReviewCount": 401,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438bd769f977d02596c7c",
+  "seededAt": "2026-06-18T18:28:13Z",
+  "updatedAt": "2026-08-11T19:58:32Z",
+  "source": "groundgame"
+}

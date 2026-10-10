@@ -1,0 +1,37 @@
+{
+  "slug": "dippers-cedar-city",
+  "name": "Dippers",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "18 N 100 W",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.6777576,
+  "lng": -113.06325000000001,
+  "phone": "+14352639496",
+  "website": "https://dippersbananas.com/",
+  "placeId": "ChIJqwwrimVhtYARRkVXEvAZDeg",
+  "googleRating": 5,
+  "googleReviewCount": 132,
+  "hours": {
+    "mon": "1:00 PM - 8:00 PM",
+    "tue": "1:00 PM - 8:00 PM",
+    "wed": "1:00 PM - 8:00 PM",
+    "thu": "1:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f0d8a5bb8c52c2ffc9",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

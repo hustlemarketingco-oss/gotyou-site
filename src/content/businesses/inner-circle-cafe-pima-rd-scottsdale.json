@@ -1,0 +1,39 @@
+{
+  "slug": "inner-circle-cafe-pima-rd-scottsdale",
+  "name": "Inner Circle Cafe Pima Rd",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee stand",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "5701 N Pima Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.519555,
+  "lng": -111.8893787,
+  "phone": "+14805446102",
+  "website": "https://innercirclecafe.com/scottsdale-pima-road-coffee-shop/",
+  "placeId": "ChIJM3fy7c0LK4cR_-C2zG3DBvo",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 10:30 AM",
+    "tue": "7:00 AM - 10:30 AM",
+    "wed": "7:00 AM - 10:30 AM",
+    "thu": "7:00 AM - 10:30 AM",
+    "fri": "7:00 AM - 10:30 AM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a298e543e4af15dd2ad614f",
+  "seededAt": "2026-06-10T16:18:28Z",
+  "updatedAt": "2026-06-10T16:18:29Z",
+  "source": "groundgame"
+}

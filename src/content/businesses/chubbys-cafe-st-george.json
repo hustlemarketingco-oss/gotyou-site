@@ -1,0 +1,37 @@
+{
+  "slug": "chubbys-cafe-st-george",
+  "name": "Chubby's Cafe - St. George",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "188 N Bluff St",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1113314,
+  "lng": -113.59310699999999,
+  "phone": "+14352167071",
+  "website": "https://chubbyscafe.com/",
+  "placeId": "ChIJ5bmjBwBFyoAR0zHolA5msok",
+  "googleRating": 4.7,
+  "googleReviewCount": 579,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b18ec823d870024a81b",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

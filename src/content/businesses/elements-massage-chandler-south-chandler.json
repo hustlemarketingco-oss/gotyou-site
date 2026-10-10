@@ -1,0 +1,39 @@
+{
+  "slug": "elements-massage-chandler-south-chandler",
+  "name": "Elements Massage - Chandler South",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Beauty salon",
+    "Massage",
+    "Spa"
+  ],
+  "address": "3901 S Arizona Ave Ste 1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85248",
+  "lat": 33.2497529,
+  "lng": -111.8381575,
+  "phone": "+14803611344",
+  "website": "https://elementsmassage.com/chandler-south",
+  "placeId": "ChIJi5bTQbyqK4cRyQZ-ddL-J_0",
+  "googleRating": 4.6,
+  "googleReviewCount": 292,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a754c11913ba7710874",
+  "seededAt": "2026-06-22T18:09:57Z",
+  "updatedAt": "2026-06-22T18:09:59Z",
+  "source": "groundgame"
+}

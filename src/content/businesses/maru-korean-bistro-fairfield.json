@@ -1,0 +1,37 @@
+{
+  "slug": "maru-korean-bistro-fairfield",
+  "name": "Maru Korean Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "3336 N Texas St Suite D",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94534",
+  "lat": 38.2892729,
+  "lng": -122.0322245,
+  "phone": "+17076734058",
+  "website": "https://marukoreanbistro.menu11.com/",
+  "placeId": "ChIJm83a5ykXhYARbJFD72bG4MQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 67,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6946472e2b7a687e78afdf84",
+  "seededAt": "2025-12-20T06:50:22Z",
+  "updatedAt": "2025-12-20T06:50:22Z",
+  "source": "groundgame"
+}

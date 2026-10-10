@@ -1,0 +1,40 @@
+{
+  "slug": "the-foundry-arrowhead-ranch-glendale",
+  "name": "The Foundry Arrowhead Ranch",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym",
+    "Sports school",
+    "Sports complex",
+    "Sports activity location"
+  ],
+  "address": "19420 N 59th Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6627388,
+  "lng": -112.18759179999999,
+  "phone": "+16025250500",
+  "website": "https://thefoundryyoga.com/arrowheadranch",
+  "placeId": "ChIJ3WJiokppK4cR3nD0S0eUD3A",
+  "googleRating": 5,
+  "googleReviewCount": 22,
+  "hours": {
+    "mon": "5:15 AM - 12:30 PM, 4:00 PM - 8:45 PM",
+    "tue": "5:15 AM - 10:30 AM, 4:00 PM - 8:45 PM",
+    "wed": "5:15 AM - 10:30 AM, 4:00 PM - 8:45 PM",
+    "thu": "5:15 AM - 11:00 AM, 4:00 PM - 7:15 PM",
+    "fri": "5:15 AM - 12:30 PM, 4:00 PM - 7:00 PM",
+    "sat": "7:45 AM - 12:30 PM",
+    "sun": "7:45 AM - 1:15 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397e68df91a202014c1123",
+  "seededAt": "2026-06-22T18:26:48Z",
+  "updatedAt": "2026-06-22T18:26:49Z",
+  "source": "groundgame"
+}

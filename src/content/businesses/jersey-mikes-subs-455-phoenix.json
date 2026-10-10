@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-455-phoenix",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "455 N 3rd St #1080",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4530512,
+  "lng": -112.0694857,
+  "phone": "+16026754268",
+  "website": "https://www.jerseymikes.com/9069/phoenix-az",
+  "placeId": "ChIJFRuqu_UTK4cRRmB_sqEFyHc",
+  "googleRating": 3.9,
+  "googleReviewCount": 137,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f9ae311cd659f3d0d0ce",
+  "seededAt": "2026-07-12T20:31:42Z",
+  "updatedAt": "2026-07-12T20:31:43Z",
+  "source": "groundgame"
+}

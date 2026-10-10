@@ -1,0 +1,38 @@
+{
+  "slug": "pizza-guys-fairfield",
+  "name": "Pizza Guys",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "1731 N Texas St",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.2612537,
+  "lng": -122.0345214,
+  "phone": "+17074256666",
+  "website": "https://pizzaguys.adorapos.net/?id=UVT35",
+  "placeId": "ChIJrZbRv9MVhYARCaU1H3ySjso",
+  "googleRating": 4.5,
+  "googleReviewCount": 227,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:45 AM - 11:00 PM",
+    "tue": "9:45 AM - 11:00 PM",
+    "wed": "9:45 AM - 11:00 PM",
+    "thu": "9:45 AM - 11:00 PM",
+    "fri": "9:45 AM - 11:00 PM",
+    "sat": "9:45 AM - 11:00 PM",
+    "sun": "9:45 AM - 11:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee0a10defd8702ec49",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-gilbert-az-germann-gilbert",
+  "name": "HOTWORX - Gilbert, AZ - Germann & Gilbert",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sauna",
+    "Gym",
+    "Spa",
+    "Public bath",
+    "Sports activity location"
+  ],
+  "address": "143 E Germann Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.2767566,
+  "lng": -111.7869446,
+  "phone": "+14805256187",
+  "website": "https://www.hotworx.net/studio/germann-gilbert",
+  "placeId": "ChIJz2yjFKqrK4cRksS0mAsIZYM",
+  "googleRating": 4.7,
+  "googleReviewCount": 48,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc28a9e625f6a51c74c0",
+  "seededAt": "2026-10-07T21:39:52Z",
+  "updatedAt": "2026-10-07T21:39:53Z",
+  "source": "groundgame"
+}

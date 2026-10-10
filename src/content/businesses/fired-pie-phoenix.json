@@ -1,0 +1,42 @@
+{
+  "slug": "fired-pie-phoenix",
+  "name": "Fired Pie",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Salad shop",
+    "Family restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3110 N Central Ave #107",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85012",
+  "lat": 33.484012799999995,
+  "lng": -112.0753958,
+  "phone": "+16022661183",
+  "website": "https://firedpie.com/store/park-central-phoenix/",
+  "placeId": "ChIJ473HBV8SK4cR4WQmL8uiJ7k",
+  "googleRating": 4.2,
+  "googleReviewCount": 741,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63df0fabf72a78de8daf",
+  "seededAt": "2026-06-12T19:54:07Z",
+  "updatedAt": "2026-06-12T19:54:07Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "2550 N 75th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85035",
+  "lat": 33.476233,
+  "lng": -112.2211873,
+  "phone": "+16238732480",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/2550-n-75th-ave",
+  "placeId": "ChIJC_BoXWkVK4cRXbpxWWwNot0",
+  "googleRating": 3.7,
+  "googleReviewCount": 1500,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 12:00 AM",
+    "tue": "6:30 AM - 12:00 AM",
+    "wed": "6:30 AM - 12:00 AM",
+    "thu": "6:30 AM - 12:00 AM",
+    "fri": "6:30 AM - 12:00 AM",
+    "sat": "6:30 AM - 12:00 AM",
+    "sun": "6:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dcd29946acdd28002bd",
+  "seededAt": "2026-06-12T14:55:09Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

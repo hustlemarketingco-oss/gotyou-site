@@ -1,0 +1,42 @@
+{
+  "slug": "chilis-grill-bar-tempe",
+  "name": "Chili's Grill & Bar",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Bar and grill",
+    "Family restaurant",
+    "Mexican restaurant",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "400 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422171999999996,
+  "lng": -111.944549,
+  "phone": "+14809672082",
+  "website": "https://www.chilis.com/locations",
+  "placeId": "ChIJ_fns89YIK4cRtdcTRonqk_U",
+  "googleRating": 4.1,
+  "googleReviewCount": 2840,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46badc2512dcf7ace4ac11",
+  "seededAt": "2026-07-02T19:24:12Z",
+  "updatedAt": "2026-07-28T19:17:44Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "sweetscape-bakery-tearoom-scottsdale",
+  "name": "SweetScape Bakery & Tearoom",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Tea house",
+    "Food store"
+  ],
+  "address": "7001 N Scottsdale Rd #175",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.539353,
+  "lng": -111.92318999999999,
+  "phone": "+14806996220",
+  "website": "https://sweetscapebakery.com/",
+  "placeId": "ChIJiQW-kj4LK4cRasdSjB1myV8",
+  "googleRating": 4.3,
+  "googleReviewCount": 154,
+  "hours": {
+    "mon": "11:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:30 PM",
+    "wed": "10:00 AM - 5:30 PM",
+    "thu": "10:00 AM - 5:30 PM",
+    "fri": "10:00 AM - 5:30 PM",
+    "sat": "10:00 AM - 5:30 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad444c50baddc26a92e4e",
+  "seededAt": "2026-06-23T18:45:24Z",
+  "updatedAt": "2026-06-29T19:33:48Z",
+  "source": "groundgame"
+}

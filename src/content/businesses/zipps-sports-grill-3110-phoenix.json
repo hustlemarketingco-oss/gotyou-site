@@ -1,0 +1,33 @@
+{
+  "slug": "zipps-sports-grill-3110-phoenix",
+  "name": "Zipps Sports Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "3110 N Central Ave Ste G-103",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85012",
+  "lat": 33.484169,
+  "lng": -112.0750961,
+  "phone": "+16023416644",
+  "website": "https://www.zippssportsgrills.com/locations/park-central/",
+  "placeId": "ChIJkwJn3TwTK4cRnN4f_JXOPd0",
+  "googleRating": 3.7,
+  "googleReviewCount": 974,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319044dbf5d7c273ad95fc",
+  "seededAt": "2026-06-16T18:04:52Z",
+  "updatedAt": "2026-06-16T18:04:52Z",
+  "source": "groundgame"
+}

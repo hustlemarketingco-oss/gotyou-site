@@ -1,0 +1,39 @@
+{
+  "slug": "sosoba-phoenix",
+  "name": "SoSoBa Phoenix",
+  "category": "Asian & Pacific",
+  "googleCategory": "Ramen restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar",
+    "Japanese restaurant"
+  ],
+  "address": "214 W Roosevelt St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.458801199999996,
+  "lng": -112.0771089,
+  "phone": "+16027951005",
+  "website": "http://www.sosoba.com/",
+  "placeId": "ChIJm9XKBjwSK4cRh8HWfgNGX8A",
+  "googleRating": 4.2,
+  "googleReviewCount": 1362,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb68fd3b86def619a651",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

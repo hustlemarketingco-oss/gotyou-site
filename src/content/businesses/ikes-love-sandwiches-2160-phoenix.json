@@ -1,0 +1,36 @@
+{
+  "slug": "ikes-love-sandwiches-2160-phoenix",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2160 E Baseline Rd Ste 126",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.379328799999996,
+  "lng": -112.0330589,
+  "phone": "+14804931382",
+  "website": "https://locations.ikessandwich.com/az/phoenix/556/",
+  "placeId": "ChIJdXI9lUAPK4cRZCswG4sWIkM",
+  "googleRating": 4,
+  "googleReviewCount": 47,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a90962c56a3a39d1848",
+  "seededAt": "2026-06-16T18:48:48Z",
+  "updatedAt": "2026-06-16T18:48:49Z",
+  "source": "groundgame"
+}

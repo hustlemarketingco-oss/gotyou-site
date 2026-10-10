@@ -1,0 +1,49 @@
+{
+  "slug": "ocean-prime-phoenix",
+  "name": "Ocean Prime",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Fine dining restaurant",
+    "Lounge bar",
+    "Steak house",
+    "Sushi restaurant"
+  ],
+  "address": "5455 E High St #115",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "phone": "+14803471313",
+  "priceRange": "$100+",
+  "description": "Upscale chain known for its sophisticated decor, long wine list & classic steak & seafood menu.",
+  "amenities": [
+    "Outdoor seating",
+    "Curbside pickup",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/OceanPrime"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2444408b1b6e1e024b0d7a",
+  "seededAt": "2026-06-06T16:01:04Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "white-castle-scottsdale",
+  "name": "White Castle",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "9310 East Vía de Ventura",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "phone": "+14802915700",
+  "priceRange": "$10–20",
+  "description": "Fast-food chain serving signature beef, chicken & fish sliders, plus extras such as onion rings.",
+  "amenities": [
+    "Outdoor seating",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegan options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/WhiteCastle"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e3887819787a0cd4d53",
+  "seededAt": "2026-06-06T15:35:20Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

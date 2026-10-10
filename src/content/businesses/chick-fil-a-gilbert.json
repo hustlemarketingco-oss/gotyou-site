@@ -1,0 +1,49 @@
+{
+  "slug": "chick-fil-a-gilbert",
+  "name": "Chick-fil-A",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Caterer",
+    "Chicken restaurant",
+    "Delivery service",
+    "Family restaurant"
+  ],
+  "address": "5205 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14804990089",
+  "amenities": [
+    "Outdoor seating",
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Quick bite",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/ChickfilA"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264a574fba8c50b827f1cc",
+  "seededAt": "2026-06-08T04:51:35Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

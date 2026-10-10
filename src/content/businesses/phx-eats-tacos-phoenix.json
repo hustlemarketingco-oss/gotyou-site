@@ -1,0 +1,36 @@
+{
+  "slug": "phx-eats-tacos-phoenix",
+  "name": "Phx Eats Tacos",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4801 E Washington St #2",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4468808,
+  "lng": -111.97807019999999,
+  "phone": "+16028996613",
+  "website": "https://www.phxeatstacos.com/",
+  "placeId": "ChIJ30Kw72sPK4cR91E5FFMf4gY",
+  "googleRating": 4.6,
+  "googleReviewCount": 109,
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd9cfe609e6cbdaa377d0",
+  "seededAt": "2026-07-09T17:26:39Z",
+  "updatedAt": "2026-07-09T17:26:39Z",
+  "source": "groundgame"
+}

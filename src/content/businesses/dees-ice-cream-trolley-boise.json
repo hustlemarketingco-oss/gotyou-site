@@ -1,0 +1,36 @@
+{
+  "slug": "dees-ice-cream-trolley-boise",
+  "name": "Dee's Ice Cream Trolley",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1615 N 13th St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.630822599999995,
+  "lng": -116.2035875,
+  "placeId": "ChIJL3tjy-H5rlQRiRq0JRJIdL8",
+  "googleRating": 4.7,
+  "googleReviewCount": 52,
+  "hours": {
+    "mon": "1:00 PM - 8:30 PM",
+    "tue": "1:00 PM - 8:30 PM",
+    "wed": "1:00 PM - 8:30 PM",
+    "thu": "1:00 PM - 8:30 PM",
+    "fri": "1:00 PM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "1:00 PM - 8:30 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69426005bf80d098417d71d8",
+  "seededAt": "2025-12-17T07:47:17Z",
+  "updatedAt": "2025-12-17T07:47:17Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "time-out-lounge-tempe",
+  "name": "Time Out Lounge",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Live music venue",
+    "Pool hall"
+  ],
+  "address": "3129 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394863,
+  "lng": -111.938533,
+  "phone": "+14809686491",
+  "googleMapsUrl": "https://www.google.com/maps?cid=13803101475699031507",
+  "googleCid": "13803101475699031507",
+  "placeId": "ChIJA7wGmroIK4cR0_21Aal3jr8",
+  "googleRating": 4.5,
+  "googleReviewCount": 370,
+  "priceRange": "$10–20",
+  "description": "Chill hangout in a strip mall with booth seating & live music, plus pool tables, darts & a jukebox.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "12:00 PM - 2:00 AM",
+    "sat": "12:00 PM - 2:00 AM",
+    "sun": "12:00 PM - 2:00 AM",
+    "mon": "12:00 PM - 2:00 AM",
+    "tue": "12:00 PM - 2:00 AM",
+    "wed": "12:00 PM - 2:00 AM",
+    "thu": "12:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2438b06408898582bcb146",
+  "seededAt": "2026-06-06T15:11:44Z",
+  "updatedAt": "2026-06-06T15:11:44Z",
+  "source": "groundgame"
+}

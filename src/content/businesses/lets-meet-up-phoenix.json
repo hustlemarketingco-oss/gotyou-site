@@ -1,0 +1,38 @@
+{
+  "slug": "lets-meet-up-phoenix",
+  "name": "Let's Meet Up",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store",
+    "Event venue"
+  ],
+  "address": "3058 N 16th St Ste A",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.483702099999995,
+  "lng": -112.0478972,
+  "website": "http://www.letsmeetup.coffee/",
+  "placeId": "ChIJuXs4eYkTK4cRbjO98auyVX8",
+  "googleRating": 4.9,
+  "googleReviewCount": 126,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "8:00 AM - 2:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "8:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5ccdbb84409db4e131",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

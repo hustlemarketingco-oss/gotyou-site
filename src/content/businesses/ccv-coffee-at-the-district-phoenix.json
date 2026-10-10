@@ -1,0 +1,38 @@
+{
+  "slug": "ccv-coffee-at-the-district-phoenix",
+  "name": "CCV Coffee at the District",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "101 E Buchanan St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4429085,
+  "lng": -112.07213550000002,
+  "phone": "+16235613550",
+  "website": "https://ccv.church/downtownphoenix",
+  "placeId": "ChIJ-fzRJI0RK4cReETIoC3hL14",
+  "googleRating": 4.8,
+  "googleReviewCount": 21,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "7:00 AM - 12:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5becbdc700bb48e2b9",
+  "seededAt": "2026-08-31T04:04:43Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

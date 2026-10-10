@@ -1,0 +1,41 @@
+{
+  "slug": "the-vig-phoenix",
+  "name": "The Vig",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Cocktail bar",
+    "Bar",
+    "Live music venue",
+    "Event venue"
+  ],
+  "address": "4041 N 40th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4944067,
+  "lng": -111.9950064,
+  "phone": "+16025537227",
+  "website": "https://www.thevig.us/arcadia",
+  "placeId": "ChIJAZMB6lMMK4cRj23OzJOusW4",
+  "googleRating": 4.4,
+  "googleReviewCount": 1735,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a404f1b776d7e7f59f69c61",
+  "seededAt": "2026-06-27T22:30:51Z",
+  "updatedAt": "2026-06-27T22:36:38Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "pizza-my-heart-walnut-creek",
+  "name": "Pizza My Heart",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1590 Botelho Dr",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "zip": "94596",
+  "lat": 37.8947536,
+  "lng": -122.06178309999999,
+  "phone": "+19252749200",
+  "website": "http://pizzamyheart.com/",
+  "placeId": "ChIJ7cGl6OlhhYARILxhwMM3eWo",
+  "googleRating": 4.5,
+  "googleReviewCount": 477,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429d041291b224252787",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

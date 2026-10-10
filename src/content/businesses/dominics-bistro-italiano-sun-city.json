@@ -1,0 +1,36 @@
+{
+  "slug": "dominics-bistro-italiano-sun-city",
+  "name": "Dominic's Bistro Italiano",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "10001 W Bell Rd",
+  "city": "Sun City",
+  "state": "AZ",
+  "zip": "85351",
+  "lat": 33.637042199999996,
+  "lng": -112.27448389999999,
+  "phone": "+16235838565",
+  "placeId": "ChIJ2_hTSuZCK4cRO-OlN_nq9Jc",
+  "googleRating": 4.5,
+  "googleReviewCount": 698,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "3:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2d90920c5d79cd62333",
+  "seededAt": "2026-06-10T17:46:01Z",
+  "updatedAt": "2026-06-10T17:46:02Z",
+  "source": "groundgame"
+}

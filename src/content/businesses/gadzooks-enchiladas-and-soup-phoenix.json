@@ -1,0 +1,37 @@
+{
+  "slug": "gadzooks-enchiladas-and-soup-phoenix",
+  "name": "Gadzooks Enchiladas and Soup",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3313 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.4870756,
+  "lng": -112.064632,
+  "phone": "+16022795080",
+  "website": "http://gadzooksaz.com/",
+  "placeId": "ChIJMWG0EGISK4cRPRALJN59FYI",
+  "googleRating": 4.4,
+  "googleReviewCount": 2686,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a7235bef39767be5a4ca1e4",
+  "seededAt": "2026-08-04T18:55:58Z",
+  "updatedAt": "2026-08-04T18:55:58Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-st-george",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Meal delivery",
+    "Chicken wings restaurant",
+    "Catering service",
+    "Food delivery",
+    "Meal takeaway",
+    "Fast food restaurant"
+  ],
+  "address": "2736 Red Cliffs Dr D Unit #1",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1257494,
+  "lng": -113.52751049999999,
+  "phone": "+14356749966",
+  "website": "https://www.hungryhowies.com/stores/ut/st-george/2736-red-cliffs-dr-unit-1",
+  "placeId": "ChIJtRo4tgtbyoARQlVVk1NYwP0",
+  "googleRating": 4.1,
+  "googleReviewCount": 254,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69c55cb58e6dc6ede2321a6f",
+  "seededAt": "2026-03-26T16:20:05Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

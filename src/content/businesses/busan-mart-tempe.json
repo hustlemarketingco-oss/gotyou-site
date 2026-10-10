@@ -1,0 +1,53 @@
+{
+  "slug": "busan-mart-tempe",
+  "name": "Busan Mart",
+  "category": "Asian & Pacific",
+  "googleCategory": "Korean grocery store",
+  "secondaryCategories": [
+    "Grocery store",
+    "Supermarket"
+  ],
+  "address": "1310 E Broadway Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078216,
+  "lng": -111.9174205,
+  "phone": "+14805507633",
+  "website": "http://busanmart.us/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1604672625802331587",
+  "googleCid": "1604672625802331587",
+  "placeId": "ChIJY2ZydRgJK4cRw8W9UUDxRBY",
+  "googleRating": 4.6,
+  "googleReviewCount": 273,
+  "description": "Located in Tempe, Busan Mart is a korean grocery store & grocery store with food & prepared foods, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/busanmart"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 11:00 PM",
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24363ee634a1518af367f1",
+  "seededAt": "2026-06-06T15:01:18Z",
+  "updatedAt": "2026-07-06T18:00:11Z",
+  "source": "groundgame"
+}

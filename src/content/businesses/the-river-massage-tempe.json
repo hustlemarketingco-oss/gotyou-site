@@ -1,0 +1,37 @@
+{
+  "slug": "the-river-massage-tempe",
+  "name": "The River Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Massage",
+    "Spa"
+  ],
+  "address": "1845 E Broadway Rd #125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4066419,
+  "lng": -111.90809309999999,
+  "phone": "+14805886579",
+  "website": "https://www.therivermassage.com/",
+  "placeId": "ChIJHTfraOcJK4cRVzbTS2HmJDQ",
+  "googleRating": 5,
+  "googleReviewCount": 327,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5528818b847d30ec0382ef",
+  "seededAt": "2026-07-13T18:03:45Z",
+  "updatedAt": "2026-07-13T18:04:56Z",
+  "source": "groundgame"
+}

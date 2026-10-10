@@ -1,0 +1,41 @@
+{
+  "slug": "indias-flame-tempe",
+  "name": "India's Flame",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "secondaryCategories": [
+    "Indian takeaway",
+    "Lunch restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "4427 S Rural Rd Suite 3 and 4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3832249,
+  "lng": -111.925281,
+  "phone": "+14804560155",
+  "website": "http://indiasflame.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=284885170665876677",
+  "googleCid": "284885170665876677",
+  "placeId": "ChIJD27mWPEHK4cRxexQp40d9AM",
+  "googleRating": 4.3,
+  "googleReviewCount": 1291,
+  "description": "Easygoing restaurant offering familiar meat & vegetarian Indian eats, with a lunch buffet.",
+  "hours": {
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:30 PM",
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24378063b574dd8a1f6c55",
+  "seededAt": "2026-06-06T15:06:40Z",
+  "updatedAt": "2026-07-10T18:28:38Z",
+  "source": "groundgame"
+}

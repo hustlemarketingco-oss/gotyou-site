@@ -1,0 +1,38 @@
+{
+  "slug": "mjs-italian-ice-custard-cafe-boise",
+  "name": "MJ's Italian Ice & Custard Cafe",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4103 W State St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83703",
+  "lat": 43.6431718,
+  "lng": -116.24046579999998,
+  "phone": "+12089943139",
+  "website": "http://www.mjsitalianice.com/",
+  "placeId": "ChIJUYppDrb_rlQRI8It0EswYt0",
+  "googleRating": 5,
+  "googleReviewCount": 162,
+  "priceRange": "$",
+  "hours": {
+    "mon": "2:00 PM - 9:00 PM",
+    "tue": "2:00 PM - 9:00 PM",
+    "wed": "2:00 PM - 9:00 PM",
+    "thu": "2:00 PM - 9:00 PM",
+    "fri": "2:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69426006f907bfd556d8ad06",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

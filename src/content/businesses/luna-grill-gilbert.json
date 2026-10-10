@@ -1,0 +1,37 @@
+{
+  "slug": "luna-grill-gilbert",
+  "name": "Luna Grill Gilbert",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "3131 S Market St #108",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.2965437,
+  "lng": -111.7483968,
+  "phone": "+14809395867",
+  "website": "http://lunagrill.com/?y_source=1_MjA1MDg5OTIwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJS_Ue_fOtK4cRwK-Ry8QkwOc",
+  "googleRating": 4.6,
+  "googleReviewCount": 144,
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f7546091859c69228e90",
+  "seededAt": "2026-07-12T20:21:40Z",
+  "updatedAt": "2026-07-12T20:21:40Z",
+  "source": "groundgame"
+}

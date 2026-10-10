@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-mesa",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "1335 S Alma School Rd #103",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.3897411,
+  "lng": -111.85683279999999,
+  "phone": "+16238886635",
+  "website": "https://smashburger.com/locations/us/az/mesa/1335-s-alma-school-rd",
+  "placeId": "ChIJn21ofvgHK4cRnH8QsSqmFX0",
+  "googleRating": 4.4,
+  "googleReviewCount": 1425,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cb24d4a1066e6e74439",
+  "seededAt": "2026-06-19T17:30:26Z",
+  "updatedAt": "2026-06-19T17:30:27Z",
+  "source": "groundgame"
+}

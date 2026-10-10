@@ -1,0 +1,43 @@
+{
+  "slug": "jimmy-johns-23236-surprise",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Vegetarian restaurant",
+    "Deli",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "23236 N 163rd Ave #120",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85387",
+  "lat": 33.6953076,
+  "lng": -112.4101991,
+  "phone": "+16232409636",
+  "website": "https://locations.jimmyjohns.com/az/surprise/sandwiches-4706.html&y_source=1_MjA1OTA2MzE1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ1SjM4ZxbK4cRwIyVQYZWOLs",
+  "googleRating": 3.4,
+  "googleReviewCount": 19,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357935e53d64f22fefa479",
+  "seededAt": "2026-06-19T17:15:33Z",
+  "updatedAt": "2026-06-19T17:15:34Z",
+  "source": "groundgame"
+}

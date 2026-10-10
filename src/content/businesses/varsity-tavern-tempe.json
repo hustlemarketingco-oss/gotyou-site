@@ -1,0 +1,62 @@
+{
+  "slug": "varsity-tavern-tempe",
+  "name": "Varsity Tavern",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "501 S Mill Ave # 200",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425272,
+  "lng": -111.9396317,
+  "phone": "+14805348620",
+  "website": "https://www.varsitytavern.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4458219417919169252",
+  "googleCid": "4458219417919169252",
+  "placeId": "ChIJef9IZb8JK4cR5CLSn_DG3j0",
+  "googleRating": 3.7,
+  "googleReviewCount": 737,
+  "priceRange": "$20–30",
+  "description": "Down-home pub plates are served at this lively game-day hangout with a balcony bar & DJ'ed music.",
+  "amenities": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Pets: Inside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/varsitytavern"
+  ],
+  "hours": {
+    "fri": "1:00 PM - 2:00 AM",
+    "sat": "1:00 PM - 2:00 AM",
+    "sun": "1:00 PM - 2:00 AM",
+    "mon": "5:00 PM - 10:00 PM",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24388e0d15673a1e8fe975",
+  "seededAt": "2026-06-06T15:11:10Z",
+  "updatedAt": "2026-07-21T21:45:58Z",
+  "source": "groundgame"
+}

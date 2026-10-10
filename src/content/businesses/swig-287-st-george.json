@@ -1,0 +1,40 @@
+{
+  "slug": "swig-287-st-george",
+  "name": "Swig",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "287 W St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1096315,
+  "lng": -113.5891565,
+  "phone": "+14359220808",
+  "website": "https://swigdrinks.com/stores/boulevard",
+  "placeId": "ChIJVaHdXcREyoARzWk-C-6gz4w",
+  "googleRating": 4.3,
+  "googleReviewCount": 751,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:30 AM - 9:30 PM",
+    "tue": "7:30 AM - 9:30 PM",
+    "wed": "7:30 AM - 9:30 PM",
+    "thu": "7:30 AM - 9:30 PM",
+    "fri": "7:30 AM - 9:30 PM",
+    "sat": "8:00 AM - 10:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b6ae82e0c536338c463",
+  "seededAt": "2025-12-16T15:31:54Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

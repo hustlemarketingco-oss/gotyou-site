@@ -1,0 +1,36 @@
+{
+  "slug": "el-jefe-tacos-mesa",
+  "name": "El Jefe Tacos",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "706 W Southern Ave Ste 101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.3935978,
+  "lng": -111.8464516,
+  "phone": "+14804317224",
+  "website": "http://eljefetacos.com/",
+  "placeId": "ChIJywmGdQCpK4cRdxZR_kNV1JQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 45,
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad7fd3579e93495737d65",
+  "seededAt": "2026-06-23T19:01:17Z",
+  "updatedAt": "2026-06-23T19:01:17Z",
+  "source": "groundgame"
+}

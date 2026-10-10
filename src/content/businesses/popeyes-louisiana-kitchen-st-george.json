@@ -1,0 +1,38 @@
+{
+  "slug": "popeyes-louisiana-kitchen-st-george",
+  "name": "Popeyes Louisiana Kitchen",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Seafood restaurant",
+    "American restaurant"
+  ],
+  "address": "1455 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0842285,
+  "lng": -113.55590289999999,
+  "phone": "+14356732900",
+  "website": "https://www.popeyes.com/store-locator/store/restaurant_86468",
+  "placeId": "ChIJB16YRcdayoAR8OBJZvImWB0",
+  "googleRating": 3.4,
+  "googleReviewCount": 1954,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 1:00 AM",
+    "fri": "10:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8591b84d9ba1c63ff62",
+  "seededAt": "2025-12-17T18:37:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "bad-jimmys-tempe",
+  "name": "Bad Jimmy's Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "505 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421695,
+  "lng": -111.94599199999999,
+  "phone": "+14807482199",
+  "website": "https://badjimmys.com/",
+  "placeId": "ChIJt0j8cEMJK4cRDvLkGhiEOLE",
+  "googleRating": 4.1,
+  "googleReviewCount": 75,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e35ecd7656d33f678977",
+  "seededAt": "2026-06-17T18:11:42Z",
+  "updatedAt": "2026-09-14T03:05:57Z",
+  "source": "groundgame"
+}

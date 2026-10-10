@@ -1,0 +1,42 @@
+{
+  "slug": "zipps-sports-grill-tempe",
+  "name": "Zipps Sports Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Hamburger restaurant",
+    "Family restaurant",
+    "Chicken wings restaurant",
+    "Chicken restaurant",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "690 S Mill Ave Ste 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.423409,
+  "lng": -111.940412,
+  "phone": "+14804047255",
+  "website": "https://www.zippssportsgrills.com/locations/mill/",
+  "placeId": "ChIJ0yNMgNcIK4cRI51tN9HIp_I",
+  "googleRating": 3.9,
+  "googleReviewCount": 1678,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31903cbd26e24e03e0cd54",
+  "seededAt": "2026-06-16T18:04:44Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

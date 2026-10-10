@@ -1,0 +1,50 @@
+{
+  "slug": "gravitate-smoke-convenience-scottsdale",
+  "name": "Gravitate Smoke & Convenience",
+  "category": "Shopping",
+  "googleCategory": "Tobacco shop",
+  "secondaryCategories": [
+    "Atm",
+    "Convenience store",
+    "Lottery retailer"
+  ],
+  "address": "7345 E Shoeman Ln",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.500542,
+  "lng": -111.9222748,
+  "phone": "+14802928785",
+  "website": "https://legacyvapes.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11573177166181056369",
+  "googleCid": "11573177166181056369",
+  "placeId": "ChIJiyF7iLsLK4cRcT_iuFAvnKA",
+  "googleRating": 4.6,
+  "googleReviewCount": 109,
+  "description": "Standard outlet for cigarettes, cigars, novelties, hookahs, glass pipes, lighters & accessories.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 3:00 AM",
+    "sat": "7:00 AM - 3:00 AM",
+    "sun": "7:00 AM - 3:00 AM",
+    "mon": "7:00 AM - 2:00 AM",
+    "tue": "7:00 AM - 2:00 AM",
+    "wed": "7:00 AM - 2:00 AM",
+    "thu": "7:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c5127ada890ffb1c1cf",
+  "seededAt": "2026-06-06T15:27:13Z",
+  "updatedAt": "2026-06-30T18:36:38Z",
+  "source": "groundgame"
+}

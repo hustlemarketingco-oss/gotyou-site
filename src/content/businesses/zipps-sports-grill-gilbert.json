@@ -1,0 +1,43 @@
+{
+  "slug": "zipps-sports-grill-gilbert",
+  "name": "Zipps Sports Grill",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Diner",
+    "Family restaurant",
+    "Hamburger restaurant",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "211 E Warner Rd #103",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.3348903,
+  "lng": -111.7851927,
+  "phone": "+14805391600",
+  "website": "https://www.zippssportsgrills.com/locations/gilbert/",
+  "placeId": "ChIJ5WTUc6uuK4cRgBZBRrrPij4",
+  "googleRating": 4,
+  "googleReviewCount": 1594,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319048da91f27aab7e3f52",
+  "seededAt": "2026-06-16T18:04:56Z",
+  "updatedAt": "2026-06-16T18:04:56Z",
+  "source": "groundgame"
+}

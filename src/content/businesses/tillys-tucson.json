@@ -1,0 +1,39 @@
+{
+  "slug": "tillys-tucson",
+  "name": "Tillys",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Sporting goods store"
+  ],
+  "address": "6401 Marana Center Blvd Ste #630",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85742",
+  "lat": 32.375425,
+  "lng": -111.10333709999999,
+  "phone": "+15202391930",
+  "website": "https://www.tillys.com/store/?StoreID=0234",
+  "placeId": "ChIJXZ73-tLh1YYRYuqW7AkdB4A",
+  "googleRating": 3.4,
+  "googleReviewCount": 27,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a344fcb9e450ae60145698e",
+  "seededAt": "2026-06-18T20:06:35Z",
+  "updatedAt": "2026-06-18T20:06:35Z",
+  "source": "groundgame"
+}

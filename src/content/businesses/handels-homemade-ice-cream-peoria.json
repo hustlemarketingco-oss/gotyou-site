@@ -1,0 +1,39 @@
+{
+  "slug": "handels-homemade-ice-cream-peoria",
+  "name": "Handel's Homemade Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "9784 W Northern Ave Ste 1235",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85345",
+  "lat": 33.5534183,
+  "lng": -112.2699928,
+  "phone": "+16238725401",
+  "website": "http://www.handelsicecream.com/stores/park-west",
+  "placeId": "ChIJM_OB4CxBK4cRML0JmxQoNgY",
+  "googleRating": 4.4,
+  "googleReviewCount": 180,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342acbf9508f4d2053b3e2",
+  "seededAt": "2026-06-18T17:28:43Z",
+  "updatedAt": "2026-06-18T17:28:44Z",
+  "source": "groundgame"
+}

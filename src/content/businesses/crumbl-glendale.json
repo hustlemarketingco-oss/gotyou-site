@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-glendale",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "9390 W Hanna Ln B103",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85305",
+  "lat": 33.5351408,
+  "lng": -112.26085549999999,
+  "phone": "+16026759555",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/glendale",
+  "placeId": "ChIJm_SuxHxBK4cRwCF3_sXoyXY",
+  "googleRating": 4.8,
+  "googleReviewCount": 2661,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a676118903453b6f96f1803",
+  "seededAt": "2026-07-27T13:46:00Z",
+  "updatedAt": "2026-07-27T13:46:01Z",
+  "source": "groundgame"
+}

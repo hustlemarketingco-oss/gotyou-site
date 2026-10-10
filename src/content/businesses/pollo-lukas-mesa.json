@@ -1,0 +1,37 @@
+{
+  "slug": "pollo-lukas-mesa",
+  "name": "Pollo Lukas",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1316 S Longmore Suite 3",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.39027,
+  "lng": -111.8654052,
+  "phone": "+16233099085",
+  "website": "http://pollolukas.com/",
+  "placeId": "ChIJhSMLHAwTK4cRY5i1eOl-GiI",
+  "googleRating": 4.3,
+  "googleReviewCount": 55,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d838dc9cc49377c6f9274",
+  "seededAt": "2026-06-25T19:37:49Z",
+  "updatedAt": "2026-06-25T19:37:50Z",
+  "source": "groundgame"
+}

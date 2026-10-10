@@ -1,0 +1,36 @@
+{
+  "slug": "jacksons-food-stores-15515-scottsdale",
+  "name": "Jacksons Food Stores",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Gas station",
+    "Grocery store"
+  ],
+  "address": "15515 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "phone": "+14803481909",
+  "description": "Gas-station convenience-store chain for snacks, coffee, soft drinks & deli sandwiches.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/JacksonsFoodStores"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c064d26dd1cfc0f9255",
+  "seededAt": "2026-06-06T15:25:58Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

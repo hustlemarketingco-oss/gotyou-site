@@ -1,0 +1,39 @@
+{
+  "slug": "local-cookie-co-south-jordan",
+  "name": "Local Cookie Co.",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "10384 River Heights Dr Suite 103",
+  "city": "South Jordan",
+  "state": "UT",
+  "zip": "84095",
+  "lat": 40.5628142,
+  "lng": -111.97241679999999,
+  "phone": "+18019484397",
+  "website": "http://localcookieco.com/",
+  "placeId": "ChIJKcW7H1-PUocRw7vVr8STAXw",
+  "googleRating": 4.9,
+  "googleReviewCount": 293,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8951118fafe9b45c208",
+  "seededAt": "2025-12-17T18:38:13Z",
+  "updatedAt": "2025-12-17T18:38:13Z",
+  "source": "groundgame"
+}

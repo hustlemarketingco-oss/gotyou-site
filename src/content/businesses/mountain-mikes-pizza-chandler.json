@@ -1,0 +1,43 @@
+{
+  "slug": "mountain-mikes-pizza-chandler",
+  "name": "Mountain Mike's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Family restaurant",
+    "Buffet restaurant",
+    "Meal takeaway",
+    "Chicken wings restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "800 N 54th St Suite 5",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.315628100000005,
+  "lng": -111.96906539999999,
+  "phone": "+14805508141",
+  "website": "https://www.mountainmikespizza.com/locations/chandler-north-54th-st/",
+  "placeId": "ChIJz5j2pRQFK4cRb_leIs4S8u0",
+  "googleRating": 4.1,
+  "googleReviewCount": 261,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a396f67299010bde9c84f24",
+  "seededAt": "2026-06-22T17:22:47Z",
+  "updatedAt": "2026-06-22T17:22:48Z",
+  "source": "groundgame"
+}

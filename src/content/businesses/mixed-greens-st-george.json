@@ -1,0 +1,33 @@
+{
+  "slug": "mixed-greens-st-george",
+  "name": "Mixed Greens",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "661 E St George Blvd suite 1",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1101824,
+  "lng": -113.56926960000001,
+  "phone": "+14357055203",
+  "placeId": "ChIJoeyRbGxFyoARRwAP3GDeb-4",
+  "googleRating": 4.8,
+  "googleReviewCount": 900,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4c7e262b99c98343e2",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

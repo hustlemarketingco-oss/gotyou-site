@@ -1,0 +1,37 @@
+{
+  "slug": "senor-taco-e-baseline-road-tempe",
+  "name": "Señor Taco E Baseline Road",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1817 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378087199999996,
+  "lng": -111.90686889999999,
+  "phone": "+14808310251",
+  "website": "http://www.senortaco.com/",
+  "placeId": "ChIJm1zqjzIGK4cRUTbdKBsTtew",
+  "googleRating": 4.2,
+  "googleReviewCount": 1238,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5142aa7d3f692464e56240",
+  "seededAt": "2026-07-10T19:06:18Z",
+  "updatedAt": "2026-07-10T19:06:28Z",
+  "source": "groundgame"
+}

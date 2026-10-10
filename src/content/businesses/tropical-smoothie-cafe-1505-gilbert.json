@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-1505-gilbert",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Sandwich shop",
+    "Cafe",
+    "Fast food restaurant"
+  ],
+  "address": "1505 E Warner Rd St 100",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.334244999999996,
+  "lng": -111.757903,
+  "phone": "+14803988408",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/gilbert/1505-east-warner-road?y_source=1_Mjg2NTEwNDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ38JyI3KvK4cRYg49LP68M0g",
+  "googleRating": 3.9,
+  "googleReviewCount": 71,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27547f3dde1d35c0049aa1",
+  "seededAt": "2026-06-08T23:47:11Z",
+  "updatedAt": "2026-06-08T23:47:11Z",
+  "source": "groundgame"
+}

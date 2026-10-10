@@ -1,0 +1,41 @@
+{
+  "slug": "macayos-mexican-food-glendale",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Latin american restaurant",
+    "Food delivery",
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "6012 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6392253,
+  "lng": -112.18899309999999,
+  "phone": "+16022988080",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJmX5bFf9oK4cR0p59lIZWu_8",
+  "googleRating": 4.2,
+  "googleReviewCount": 3263,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a47142d87c0db235ebfba9d",
+  "seededAt": "2026-07-03T01:45:17Z",
+  "updatedAt": "2026-07-03T01:45:18Z",
+  "source": "groundgame"
+}

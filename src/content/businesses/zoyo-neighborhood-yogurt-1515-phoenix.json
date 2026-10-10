@@ -1,0 +1,39 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-1515-phoenix",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert restaurant",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1515 N 7th Ave UNIT 130",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85007",
+  "lat": 33.465598299999996,
+  "lng": -112.08238109999999,
+  "phone": "+16022533336",
+  "website": "https://www.zoyogurt.com/",
+  "placeId": "ChIJuZ6RxUcSK4cRaeDlvZtrGnc",
+  "googleRating": 4.5,
+  "googleReviewCount": 319,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d22b2b535cac5c55a7",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

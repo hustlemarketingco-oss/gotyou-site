@@ -1,0 +1,38 @@
+{
+  "slug": "windsor-6800-glendale",
+  "name": "Windsor",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Jewelry store"
+  ],
+  "address": "6800 N 95th Ave Space 988",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85305",
+  "lat": 33.535303299999995,
+  "lng": -112.26625109999999,
+  "phone": "+18884954957",
+  "website": "https://www.windsorstore.com/pages/az-glendale-tanger-outlets-phoenix",
+  "placeId": "ChIJfx95SStBK4cRlQpl3ov4LQ8",
+  "googleRating": 3.9,
+  "googleReviewCount": 11,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a33e8e757d378309c04",
+  "seededAt": "2026-06-08T23:03:15Z",
+  "updatedAt": "2026-06-08T23:06:09Z",
+  "source": "groundgame"
+}

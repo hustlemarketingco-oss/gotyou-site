@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-glendale",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "5940 N 75th Ave #130",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85303",
+  "lat": 33.5227904,
+  "lng": -112.22095639999999,
+  "phone": "+16232505474",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/glendale/bakery-917.html",
+  "placeId": "ChIJ35jjn_hrK4cRBsYOGkGqO9U",
+  "googleRating": 3.8,
+  "googleReviewCount": 34,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11cb6ba0064d1c7f80a9",
+  "seededAt": "2026-06-23T04:55:39Z",
+  "updatedAt": "2026-06-23T04:55:41Z",
+  "source": "groundgame"
+}

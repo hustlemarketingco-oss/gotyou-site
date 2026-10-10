@@ -1,0 +1,39 @@
+{
+  "slug": "krazy-cajun-seafood-hibachi-phoenix",
+  "name": "Krazy Cajun Seafood & Hibachi-Phoenix",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Cajun restaurant",
+    "Salad shop",
+    "American restaurant"
+  ],
+  "address": "24 W Camelback Rd Unit H",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.5098001,
+  "lng": -112.0755025,
+  "phone": "+16022747219",
+  "website": "http://www.krazycajunseafoodhibachi.com/",
+  "placeId": "ChIJ4Rgpo34TK4cRoh5Wj63woPs",
+  "googleRating": 4.2,
+  "googleReviewCount": 647,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "Closed",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6bec1b4504ea3737724",
+  "seededAt": "2026-07-02T19:06:38Z",
+  "updatedAt": "2026-07-02T19:06:38Z",
+  "source": "groundgame"
+}

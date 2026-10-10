@@ -1,0 +1,46 @@
+{
+  "slug": "feeneys-restaurant-bar-phoenix",
+  "name": "Feeney's Restaurant & Bar",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar & grill"
+  ],
+  "address": "6314 N 12th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "phone": "+16022749700",
+  "priceRange": "$20–60",
+  "description": "This long-running staple features an old-world vibe & a menu of steaks, seafood & American entrees.",
+  "amenities": [
+    "Outdoor seating",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Romantic",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/feeneysaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24445f8d758944fe6d93ac",
+  "seededAt": "2026-06-06T16:01:35Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

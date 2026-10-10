@@ -1,0 +1,43 @@
+{
+  "slug": "lucky-strike-christown-phoenix",
+  "name": "Lucky Strike Christown",
+  "category": "Fun & Activities",
+  "googleCategory": "Bowling alley",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar and grill",
+    "Sporting goods store",
+    "Bar",
+    "Video arcade",
+    "Sports complex",
+    "Event venue",
+    "Sports activity location"
+  ],
+  "address": "1919 W Bethany Home Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.523474,
+  "lng": -112.10108299999999,
+  "phone": "+16022491715",
+  "website": "https://www.luckystrikeent.com/location/lucky-strike-christown",
+  "placeId": "ChIJn5BBSysTK4cR2nrOR2WHAmk",
+  "googleRating": 4.3,
+  "googleReviewCount": 2849,
+  "hours": {
+    "mon": "1:00 PM - 12:00 AM",
+    "tue": "1:00 PM - 12:00 AM",
+    "wed": "1:00 PM - 12:00 AM",
+    "thu": "1:00 PM - 12:00 AM",
+    "fri": "1:00 PM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d4fbf2d5ab805164c462",
+  "seededAt": "2026-06-17T17:10:19Z",
+  "updatedAt": "2026-06-17T17:10:20Z",
+  "source": "groundgame"
+}

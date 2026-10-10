@@ -1,0 +1,37 @@
+{
+  "slug": "bosa-donuts-1930-phoenix",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "1930 W Pinnacle Peak Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.698852099999996,
+  "lng": -112.1016532,
+  "phone": "+16234049999",
+  "website": "https://bosadonutsaz.com/",
+  "placeId": "ChIJn__xQwNlK4cRSbB9nnvMehU",
+  "googleRating": 4.2,
+  "googleReviewCount": 339,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec875c48d183f9c16505",
+  "seededAt": "2026-06-17T18:50:47Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

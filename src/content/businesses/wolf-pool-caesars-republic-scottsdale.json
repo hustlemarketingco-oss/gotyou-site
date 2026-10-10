@@ -1,0 +1,38 @@
+{
+  "slug": "wolf-pool-caesars-republic-scottsdale",
+  "name": "WOLF Pool - Caesars Republic Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Swimming pool",
+    "Sports activity location"
+  ],
+  "address": "4747 N Goldwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5054051,
+  "lng": -111.9293225,
+  "phone": "+14809146827",
+  "website": "http://www.caesarsrepublicscottsdale.com/wolf-pool",
+  "placeId": "ChIJPVKIx6ULK4cRMX5j5DFSVyI",
+  "googleRating": 4.3,
+  "googleReviewCount": 148,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01f553c57598384aa9db",
+  "seededAt": "2026-06-23T03:48:05Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

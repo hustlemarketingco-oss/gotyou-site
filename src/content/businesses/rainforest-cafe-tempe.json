@@ -1,0 +1,37 @@
+{
+  "slug": "rainforest-cafe-tempe",
+  "name": "Rainforest Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3836286,
+  "lng": -111.965294,
+  "phone": "+14807529100",
+  "website": "https://www.rainforestcafe.com/location/rainforest-cafe-arizona-mills-az/",
+  "placeId": "ChIJdWdv8VkPK4cRluqCIDTawfg",
+  "googleRating": 4.3,
+  "googleReviewCount": 6886,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a62734f7bb8bb2274b35dfb",
+  "seededAt": "2026-07-23T20:02:23Z",
+  "updatedAt": "2026-07-23T20:02:23Z",
+  "source": "groundgame"
+}

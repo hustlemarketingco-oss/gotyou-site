@@ -1,0 +1,36 @@
+{
+  "slug": "7-for-all-mankind-scottsdale",
+  "name": "7 For All Mankind",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store"
+  ],
+  "address": "7014 E Camelback Rd #1202",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5033126,
+  "lng": -111.9291084,
+  "phone": "+14809901549",
+  "website": "https://www.7forallmankind.com/",
+  "placeId": "ChIJP_K_-pcLK4cRycLcAN3KtD4",
+  "googleRating": 4.3,
+  "googleReviewCount": 25,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a01fcdeebe7c47dc2275e",
+  "seededAt": "2026-06-23T03:48:12Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "zipps-sports-grill-10662-phoenix",
+  "name": "Zipps Sports Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Sports bar",
+    "Family restaurant",
+    "Hamburger restaurant",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "10662 N 32nd St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "lat": 33.5839353,
+  "lng": -112.0134681,
+  "phone": "+16026124487",
+  "website": "https://www.zippssportsgrills.com/locations/shea/",
+  "placeId": "ChIJwbu_BVxzK4cRsT5Ng1aeUcs",
+  "googleRating": 4,
+  "googleReviewCount": 779,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3190496a5aeb5ae497b177",
+  "seededAt": "2026-06-16T18:04:57Z",
+  "updatedAt": "2026-06-16T18:04:58Z",
+  "source": "groundgame"
+}

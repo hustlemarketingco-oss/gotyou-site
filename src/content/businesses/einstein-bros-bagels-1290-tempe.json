@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-1290-tempe",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Breakfast restaurant",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1290 S Normal Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4174905,
+  "lng": -111.9345517,
+  "phone": "+14807277904",
+  "website": "https://locations.einsteinbros.com/us/az/tempe/1290-s-normal-ave?y_source=1_OTA0OTU4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJr1MAYNsIK4cRR3JlaVAzhZw",
+  "googleRating": 3.7,
+  "googleReviewCount": 100,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "11:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994bf3060bf7efd163f70",
+  "seededAt": "2026-06-10T16:45:51Z",
+  "updatedAt": "2026-06-12T22:06:06Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "mountain-mikes-pizza-surprise",
+  "name": "Mountain Mike's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Pizza delivery",
+    "Buffet restaurant",
+    "Chicken wings restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "13736 W Bell Rd",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85374",
+  "lat": 33.6409327,
+  "lng": -112.3548835,
+  "phone": "+16232358100",
+  "website": "https://www.mountainmikespizza.com/locations/surprise-w-bell-rd/",
+  "placeId": "ChIJbfjKTE5FK4cRyGG-5wUbb7k",
+  "googleRating": 3.8,
+  "googleReviewCount": 224,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a396f6b74c7ae83da62d0aa",
+  "seededAt": "2026-06-22T17:22:51Z",
+  "updatedAt": "2026-06-22T17:22:52Z",
+  "source": "groundgame"
+}

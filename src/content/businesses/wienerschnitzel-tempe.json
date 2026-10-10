@@ -1,0 +1,38 @@
+{
+  "slug": "wienerschnitzel-tempe",
+  "name": "Wienerschnitzel",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "American restaurant"
+  ],
+  "address": "804 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4210193,
+  "lng": -111.9096541,
+  "phone": "+16023209521",
+  "website": "http://www.wienerschnitzel.com/location/723-south-mcclintock-university-tempe-804-s-mcclintock-avenue-tempe-az-85281/",
+  "placeId": "ChIJ5eGC4vkIK4cRcIRjZqno4-U",
+  "googleRating": 4.2,
+  "googleReviewCount": 2031,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5535c881f74280b27fd5a0",
+  "seededAt": "2026-07-13T19:00:24Z",
+  "updatedAt": "2026-07-13T19:01:20Z",
+  "source": "groundgame"
+}

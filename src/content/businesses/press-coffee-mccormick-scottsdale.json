@@ -1,0 +1,40 @@
+{
+  "slug": "press-coffee-mccormick-scottsdale",
+  "name": "Press Coffee - McCormick",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Coffee roastery",
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "8300 Hayden Rd E107",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5578372,
+  "lng": -111.8990561,
+  "phone": "+14803988426",
+  "website": "https://presscoffee.com/pages/location-mccormick",
+  "placeId": "ChIJqSgnJDkLK4cRfmBL4UnQsCg",
+  "googleRating": 4.5,
+  "googleReviewCount": 536,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 4:00 PM",
+    "tue": "6:30 AM - 4:00 PM",
+    "wed": "6:30 AM - 4:00 PM",
+    "thu": "6:30 AM - 4:00 PM",
+    "fri": "6:30 AM - 4:00 PM",
+    "sat": "6:30 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b921153723fe50d4cd35",
+  "seededAt": "2026-06-10T19:21:05Z",
+  "updatedAt": "2026-06-10T19:21:06Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-tempe",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert restaurant",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "681 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414192799999995,
+  "lng": -111.92902409999999,
+  "phone": "+14802755296",
+  "website": "https://www.zoyogurt.com/",
+  "placeId": "ChIJI2CPYsIIK4cR-uX9dmnrmho",
+  "googleRating": 4,
+  "googleReviewCount": 102,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 PM - 12:00 AM",
+    "tue": "5:00 PM - 12:00 AM",
+    "wed": "5:00 PM - 12:00 AM",
+    "thu": "5:00 PM - 12:00 AM",
+    "fri": "5:00 PM - 12:00 AM",
+    "sat": "5:00 PM - 12:00 AM",
+    "sun": "5:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d2ff7193381d2b481f",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-07-10T19:38:51Z",
+  "source": "groundgame"
+}

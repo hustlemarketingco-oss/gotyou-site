@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-7700-glendale",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Sandwich shop",
+    "Cafe",
+    "Fast food restaurant"
+  ],
+  "address": "7700 W Bell Rd Ste. 102",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.638798799999996,
+  "lng": -112.22473289999999,
+  "phone": "+16234409058",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/glendale/7700-w.-bell-rd.?y_source=1_NDU2MjQ5MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJnVVSiWZpK4cR1cC6fq2jla4",
+  "googleRating": 4.3,
+  "googleReviewCount": 80,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275484f608aefd85fa75c0",
+  "seededAt": "2026-06-08T23:47:16Z",
+  "updatedAt": "2026-06-08T23:47:16Z",
+  "source": "groundgame"
+}

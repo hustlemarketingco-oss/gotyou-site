@@ -1,0 +1,36 @@
+{
+  "slug": "novikov-coffee-spot-beverly-hills",
+  "name": "Novikov Coffee Spot",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "257 N Canon Dr Suite 101",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.0686007,
+  "lng": -118.39942319999999,
+  "phone": "+14247772992",
+  "placeId": "ChIJQxyiHJ27woAR7-YSkAu69jQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 53,
+  "hours": {
+    "mon": "7:00 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "7:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abffec569edb735d6b7",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

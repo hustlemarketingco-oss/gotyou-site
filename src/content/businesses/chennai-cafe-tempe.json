@@ -1,0 +1,42 @@
+{
+  "slug": "chennai-cafe-tempe",
+  "name": "Chennai Cafe",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "address": "1158 W Washington St #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4424154,
+  "lng": -111.9553071,
+  "phone": "+14806874732",
+  "website": "http://www.thechennaicafeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4740276122505209496",
+  "googleCid": "4740276122505209496",
+  "placeId": "ChIJr-ZHQ4UPK4cRmGYwswTYyEE",
+  "googleRating": 4.4,
+  "googleReviewCount": 694,
+  "description": "Located in Tempe, Chennai Cafe is a indian restaurant.",
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Cash",
+    "Google Pay"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sun": "11:00 AM - 3:00 PM, 5:00 PM - 8:00 PM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24377ad3c8b01d5c223c7c",
+  "seededAt": "2026-06-06T15:06:34Z",
+  "updatedAt": "2026-08-04T20:01:06Z",
+  "source": "groundgame"
+}

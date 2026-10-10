@@ -16,7 +16,7 @@ const { b, all, claimed } = Astro.props;
 const c = profileContent(b, all);
 const phone = formatPhone(b.phone);
 const photo = sizedPhoto(b.photoUrl, 1600, 900);
-const claimUrl = `/businesses/${b.slug}/claim/`;
+const claimUrl = `/claim/?b=${b.slug}`;
 const fullAddress = [b.address, b.city, [b.state, b.zip].filter(Boolean).join(' ')].filter(Boolean).join(', ');
 
 // GOTYOU activity. Unclaimed: everything zero (the point: "this could be you"). Claimed: sample data.

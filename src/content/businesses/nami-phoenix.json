@@ -1,0 +1,47 @@
+{
+  "slug": "nami-phoenix",
+  "name": "Nami",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Coffee shop",
+    "Ice cream shop",
+    "Restaurant"
+  ],
+  "address": "2014 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "phone": "+16022586264",
+  "priceRange": "$10–20",
+  "description": "Nami is a Phoenix bakery & breakfast restaurant known for coffee, takeout & delivery. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/namivegansweets"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440a527a278fb10c7e4f6",
+  "seededAt": "2026-06-06T15:45:41Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

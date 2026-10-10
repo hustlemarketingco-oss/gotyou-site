@@ -1,0 +1,39 @@
+{
+  "slug": "first-class-pizza-irvine",
+  "name": "First Class Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal delivery",
+    "Italian restaurant",
+    "Food delivery"
+  ],
+  "address": "6420 Irvine Blvd",
+  "city": "Irvine",
+  "state": "CA",
+  "zip": "92620",
+  "lat": 33.6982894,
+  "lng": -117.7410494,
+  "phone": "+19495525358",
+  "website": "http://www.firstclasspizzawoodbury.com/",
+  "placeId": "ChIJk4gSr9Xc3IARn8l0elBvzCA",
+  "googleRating": 4.3,
+  "googleReviewCount": 665,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f80fc561663e58db949f",
+  "seededAt": "2025-12-17T18:35:59Z",
+  "updatedAt": "2025-12-17T18:35:59Z",
+  "source": "groundgame"
+}

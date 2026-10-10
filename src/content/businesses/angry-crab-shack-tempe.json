@@ -1,0 +1,37 @@
+{
+  "slug": "angry-crab-shack-tempe",
+  "name": "Angry Crab Shack",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Family restaurant"
+  ],
+  "address": "660 W Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3349238,
+  "lng": -111.9485849,
+  "phone": "+14806743847",
+  "website": "https://www.angrycrabshack.com/tempe",
+  "placeId": "ChIJE-oj0pgHK4cRKZfpB2qxKW8",
+  "googleRating": 4.3,
+  "googleReviewCount": 473,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6b45e38c04ff2b34a35",
+  "seededAt": "2026-07-02T19:06:28Z",
+  "updatedAt": "2026-07-02T19:06:31Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "del-taco-900-gilbert",
+  "name": "Del Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Hamburger restaurant",
+    "Takeout restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "900 S Val Vista Dr",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "phone": "+14805588334",
+  "priceRange": "$10–20",
+  "description": "Fast-food chain for Mexican standards like tacos, burritos & quesadillas plus breakfast.",
+  "amenities": [
+    "Outdoor seating",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/deltaco"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26447ab4e0c529529666b2",
+  "seededAt": "2026-06-08T04:26:34Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

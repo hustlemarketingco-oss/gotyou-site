@@ -1,0 +1,32 @@
+{
+  "slug": "swig-surprise",
+  "name": "Swig",
+  "category": "Restaurant",
+  "address": "17865 W Bell Rd",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85374",
+  "lat": 33.638373099999995,
+  "lng": -112.4424299,
+  "phone": "+16237454165",
+  "website": "https://swig.com/findaswig/bell-and-citrus",
+  "placeId": "ChIJIZNv1RJRK4cRzzGR_PNa0S0",
+  "googleRating": 4.8,
+  "googleReviewCount": 340,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c6949e6abc39e295608",
+  "seededAt": "2026-06-23T05:40:57Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

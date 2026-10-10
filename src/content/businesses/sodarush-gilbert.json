@@ -1,0 +1,50 @@
+{
+  "slug": "sodarush-gilbert",
+  "name": "SodaRush!",
+  "category": "Shopping",
+  "googleCategory": "Soft drinks shop",
+  "secondaryCategories": [
+    "Cookie shop",
+    "Dessert shop",
+    "Ice cream shop"
+  ],
+  "address": "1522 S Gilbert Rd #107",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.322083,
+  "lng": -111.7904612,
+  "phone": "+16022375255",
+  "website": "https://sodarush.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=17637376703344433714",
+  "googleCid": "17637376703344433714",
+  "placeId": "ChIJVf9Bxd6rK4cRMlqYNKqMxPQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 290,
+  "priceRange": "$1–10",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/sodarushaz"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2647e13a0cb9befff3ff87",
+  "seededAt": "2026-06-08T04:41:05Z",
+  "updatedAt": "2026-06-08T04:41:05Z",
+  "source": "groundgame"
+}

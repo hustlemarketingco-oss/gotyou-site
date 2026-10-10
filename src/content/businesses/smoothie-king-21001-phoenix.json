@@ -1,0 +1,42 @@
+{
+  "slug": "smoothie-king-21001-phoenix",
+  "name": "Smoothie King",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Acai shop",
+    "Brazilian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "21001 N Tatum Blvd Ste #78-1600",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.6791802,
+  "lng": -111.9743634,
+  "phone": "+14805027962",
+  "website": "https://locations.smoothieking.com/ll/us/az/phoenix/21001-n-tatum-ste-78-1600/",
+  "placeId": "ChIJ89NaYd9wK4cRHA9Vwn_Lrr8",
+  "googleRating": 4.2,
+  "googleReviewCount": 142,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc91866350e57c65013f",
+  "seededAt": "2026-06-16T22:22:09Z",
+  "updatedAt": "2026-06-16T22:22:09Z",
+  "source": "groundgame"
+}

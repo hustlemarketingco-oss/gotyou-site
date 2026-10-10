@@ -1,0 +1,37 @@
+{
+  "slug": "black-rock-coffee-bar-2120-chandler",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2120 N McQueen Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.336876,
+  "lng": -111.8248061,
+  "phone": "+18338435776",
+  "website": "https://br.coffee/locations/mcqueen-and-warner",
+  "placeId": "ChIJbc3MoVipK4cR-5GA3h7G3f0",
+  "googleRating": 3.8,
+  "googleReviewCount": 16,
+  "hours": {
+    "mon": "5:00 AM - 7:00 PM",
+    "tue": "5:00 AM - 7:00 PM",
+    "wed": "5:00 AM - 7:00 PM",
+    "thu": "5:00 AM - 7:00 PM",
+    "fri": "5:00 AM - 7:00 PM",
+    "sat": "5:00 AM - 7:00 PM",
+    "sun": "5:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725490f0159d3d1a2e7b",
+  "seededAt": "2026-07-10T22:29:40Z",
+  "updatedAt": "2026-07-10T22:29:40Z",
+  "source": "groundgame"
+}

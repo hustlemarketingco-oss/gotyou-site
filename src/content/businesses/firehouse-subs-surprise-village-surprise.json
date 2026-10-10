@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-surprise-village-surprise",
+  "name": "Firehouse Subs Surprise Village",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "13820 W Bell Rd #11",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85374",
+  "lat": 33.639236,
+  "lng": -112.3579,
+  "phone": "+14806975579",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJr-iX4MlEK4cR_aQRE69a2GE",
+  "googleRating": 4.4,
+  "googleReviewCount": 1022,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afaccf41d5bc6f4d436",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

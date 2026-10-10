@@ -1,0 +1,41 @@
+{
+  "slug": "einstein-bros-bagels-goodyear",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1550 N Dysart Rd Ste A1",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.4637627,
+  "lng": -112.3415565,
+  "phone": "+16235363155",
+  "website": "https://locations.einsteinbros.com/us/az/goodyear/1550-n-dysart-rd?y_source=1_OTA0OTYzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJlYXnOrE4K4cRh0zFpBzKQg8",
+  "googleRating": 4,
+  "googleReviewCount": 1053,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:00 PM",
+    "tue": "5:00 AM - 2:00 PM",
+    "wed": "5:00 AM - 2:00 PM",
+    "thu": "5:00 AM - 2:00 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2994de225f54a1f8ee65d6",
+  "seededAt": "2026-06-10T16:46:22Z",
+  "updatedAt": "2026-06-10T16:46:22Z",
+  "source": "groundgame"
+}

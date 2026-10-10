@@ -1,0 +1,37 @@
+{
+  "slug": "ciao-pizza-and-italian-restaurant-whitsett",
+  "name": "Ciao Pizza and Italian Restaurant - Whitsett",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "947 Golf House Rd W",
+  "city": "Whitsett",
+  "state": "NC",
+  "zip": "27377",
+  "lat": 36.063839,
+  "lng": -79.606307,
+  "phone": "+13364466565",
+  "website": "https://www.ciaopizzawhitsett.com/",
+  "placeId": "ChIJtwjfxiwkU4gRi9AlJU-2Qew",
+  "googleRating": 4.4,
+  "googleReviewCount": 1264,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357bddc1ed82445e69deab",
+  "seededAt": "2026-06-19T17:26:53Z",
+  "updatedAt": "2026-06-19T17:26:53Z",
+  "source": "groundgame"
+}

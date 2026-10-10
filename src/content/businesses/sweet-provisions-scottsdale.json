@@ -1,0 +1,39 @@
+{
+  "slug": "sweet-provisions-scottsdale",
+  "name": "Sweet Provisions",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "8120 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.555264,
+  "lng": -111.8991527,
+  "phone": "+14802752676",
+  "website": "https://www.sweetprovisionsaz.com/",
+  "placeId": "ChIJNy-JttYKK4cRa5t5LvhnJoc",
+  "googleRating": 4.3,
+  "googleReviewCount": 204,
+  "hours": {
+    "mon": "3:30 PM - 9:00 PM",
+    "tue": "3:30 PM - 9:00 PM",
+    "wed": "3:30 PM - 9:00 PM",
+    "thu": "3:30 PM - 9:00 PM",
+    "fri": "3:30 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d2e762c8ac47890540",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

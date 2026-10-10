@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-phoenix",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "7000 E Mayo Blvd #5",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.6556151,
+  "lng": -111.927208,
+  "phone": "+14805636429",
+  "website": "https://www.freddys.com/location/phoenix-north-scottsdale-az",
+  "placeId": "ChIJ9cUoF2t3K4cRAlL6vP_XACY",
+  "googleRating": 4.2,
+  "googleReviewCount": 577,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b65a732b63f9e4d7d0334",
+  "seededAt": "2026-06-12T01:49:27Z",
+  "updatedAt": "2026-06-12T22:08:25Z",
+  "source": "groundgame"
+}

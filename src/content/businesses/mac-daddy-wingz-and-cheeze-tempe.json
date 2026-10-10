@@ -1,0 +1,61 @@
+{
+  "slug": "mac-daddy-wingz-and-cheeze-tempe",
+  "name": "Mac Daddy Wingz and Cheeze",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Cajun restaurant",
+    "Restaurant"
+  ],
+  "address": "3134 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394886,
+  "lng": -111.940859,
+  "phone": "+14804004922",
+  "website": "https://macdaddywingzsandcheeze.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3268021227047724655",
+  "googleCid": "3268021227047724655",
+  "placeId": "ChIJj8Yar_gJK4cRb6adxP1XWi0",
+  "googleRating": 4.9,
+  "googleReviewCount": 290,
+  "priceRange": "$10–20",
+  "description": "Mac Daddy Wingz and Cheeze is a Tempe casual, trendy american restaurant & cajun restaurant known for comfort food & quick bite.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/macdaddy_az"
+  ],
+  "hours": {
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 4:00 PM",
+    "sun": "Closed",
+    "mon": "Closed",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243a184842f5436eb28739",
+  "seededAt": "2026-06-06T15:17:44Z",
+  "updatedAt": "2026-08-06T19:19:37Z",
+  "source": "groundgame"
+}

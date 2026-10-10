@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-4722-phoenix",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "4722 E Ray Rd #14",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3215201,
+  "lng": -111.98230059999999,
+  "phone": "+14807531121",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/phoenix/bakery-14.html",
+  "placeId": "ChIJm17u5EUEK4cR_YogpYLD0dc",
+  "googleRating": 4.5,
+  "googleReviewCount": 332,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11c90d80bf542de7f7e8",
+  "seededAt": "2026-06-23T04:55:37Z",
+  "updatedAt": "2026-06-23T04:55:37Z",
+  "source": "groundgame"
+}

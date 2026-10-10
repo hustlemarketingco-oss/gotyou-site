@@ -1,0 +1,33 @@
+{
+  "slug": "the-guest-house-scottsdale",
+  "name": "The Guest House Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "15301 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6254408,
+  "lng": -111.92509469999999,
+  "phone": "+14806254942",
+  "website": "https://www.welcometgh.com/",
+  "placeId": "ChIJDfpsBkJ1K4cRW5BXQcHCSek",
+  "googleRating": 4.5,
+  "googleReviewCount": 255,
+  "hours": {
+    "mon": "4:00 PM - 11:00 PM",
+    "tue": "4:00 PM - 11:00 PM",
+    "wed": "4:00 PM - 11:00 PM",
+    "thu": "4:00 PM - 11:00 PM",
+    "fri": "4:00 PM - 11:00 PM",
+    "sat": "4:00 PM - 11:00 PM",
+    "sun": "4:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276616ebe5bf6f4953a2b9",
+  "seededAt": "2026-06-09T01:02:14Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

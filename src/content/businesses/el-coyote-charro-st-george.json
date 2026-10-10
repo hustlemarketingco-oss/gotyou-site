@@ -1,0 +1,36 @@
+{
+  "slug": "el-coyote-charro-st-george",
+  "name": "El Coyote Charro",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "969 N 3050 E",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1247,
+  "lng": -113.5227395,
+  "website": "https://www.facebook.com/pages/El-Coyote-Charro/146643642162785",
+  "placeId": "ChIJVW6C06BbyoARyq9_SRr8oNc",
+  "googleRating": 4,
+  "googleReviewCount": 817,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e63612670e4d5554a9f8b",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "burrito-express-tempe",
+  "name": "Burrito Express",
+  "category": "Restaurant",
+  "googleCategory": "Burrito restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Catering service",
+    "Mexican restaurant",
+    "Food delivery"
+  ],
+  "address": "937 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406869199999996,
+  "lng": -111.9244945,
+  "phone": "+14806643644",
+  "website": "https://www.theburritoexpress.com/",
+  "placeId": "ChIJ4w8e--YIK4cRPmx6L-P87Sw",
+  "googleRating": 4.4,
+  "googleReviewCount": 631,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a2f38cd79ea9da740764",
+  "seededAt": "2026-06-22T21:02:43Z",
+  "updatedAt": "2026-06-26T18:46:59Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "yogis-grill-mesa-riverview-mesa",
+  "name": "Yogis Grill - Mesa Riverview",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "929 N Dobson Rd #103",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.433984699999996,
+  "lng": -111.8682894,
+  "phone": "+14806153356",
+  "website": "http://www.yogisgrill.com/",
+  "placeId": "ChIJVayh_j0IK4cRdDHzxI7dQ28",
+  "googleRating": 4.3,
+  "googleReviewCount": 702,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3971a2b867c9faeab9f438",
+  "seededAt": "2026-06-22T17:32:18Z",
+  "updatedAt": "2026-07-28T18:43:37Z",
+  "source": "groundgame"
+}

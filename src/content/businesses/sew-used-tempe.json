@@ -1,0 +1,43 @@
+{
+  "slug": "sew-used-tempe",
+  "name": "Sew Used",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Discount store",
+    "Clothing store"
+  ],
+  "address": "2011 E Apache Blvd Ste 155",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4143167,
+  "lng": -111.8996217,
+  "phone": "+14804209416",
+  "website": "https://sew-used.square.site/",
+  "placeId": "ChIJg19jhEkJK4cRSlmzMaiC5EY",
+  "googleRating": 4.7,
+  "googleReviewCount": 81,
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Credit card",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "claimed",
+  "checkinCount": 0,
+  "groundgameId": "6a552c87e8ffb6695e756268",
+  "seededAt": "2026-07-13T18:20:55Z",
+  "updatedAt": "2026-07-28T18:50:47Z",
+  "source": "groundgame"
+}

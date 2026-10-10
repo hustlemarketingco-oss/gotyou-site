@@ -1,0 +1,36 @@
+{
+  "slug": "proteinhouse-phoenix",
+  "name": "ProteinHouse",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5310 E High St Ste 107",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.6765403,
+  "lng": -111.9663621,
+  "phone": "+14806887479",
+  "website": "https://www.protein-house.com/location/proteinhouse-phoenix-az/",
+  "placeId": "ChIJRSTvBgBxK4cRL46xnJ91c4U",
+  "googleRating": 4.2,
+  "googleReviewCount": 15,
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e323d06a86770a07e15d",
+  "seededAt": "2026-06-17T18:10:43Z",
+  "updatedAt": "2026-06-17T18:10:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "macayos-mexican-food-queen-creek",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Latin american restaurant",
+    "Taco restaurant",
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "22460 E Ocotillo Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2491854,
+  "lng": -111.5988311,
+  "phone": "+14808705438",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJvwGAqqNNKocRGVqvEJv-QDY",
+  "googleRating": 4,
+  "googleReviewCount": 1094,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a47142a9246c5c61cbe1699",
+  "seededAt": "2026-07-03T01:45:14Z",
+  "updatedAt": "2026-07-03T01:45:14Z",
+  "source": "groundgame"
+}

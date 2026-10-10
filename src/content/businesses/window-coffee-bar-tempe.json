@@ -1,0 +1,38 @@
+{
+  "slug": "window-coffee-bar-tempe",
+  "name": "Window Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "433 S Farmer Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4261227,
+  "lng": -111.94401529999999,
+  "phone": "+14803074405",
+  "website": "https://www.windowcoffeebar.com/",
+  "placeId": "ChIJzRWSPUMJK4cR6rzoItJ1XQM",
+  "googleRating": 4.9,
+  "googleReviewCount": 134,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a6249dc76f3250dcef09e5c",
+  "seededAt": "2026-07-23T17:05:32Z",
+  "updatedAt": "2026-08-05T20:31:11Z",
+  "source": "groundgame"
+}

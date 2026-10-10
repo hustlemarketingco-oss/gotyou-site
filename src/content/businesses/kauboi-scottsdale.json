@@ -1,0 +1,38 @@
+{
+  "slug": "kauboi-scottsdale",
+  "name": "KAUBOI",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant",
+    "Steak house",
+    "Bar"
+  ],
+  "address": "4415 N Buckboard Trail",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5011856,
+  "lng": -111.9234042,
+  "phone": "+14807704415",
+  "website": "https://kauboiscottsdale.com/",
+  "placeId": "ChIJPU9aRtwLK4cRdxXD1zS_hRg",
+  "googleRating": 3.9,
+  "googleReviewCount": 141,
+  "hours": {
+    "mon": "5:00 PM - 12:00 AM",
+    "tue": "5:00 PM - 12:00 AM",
+    "wed": "5:00 PM - 12:00 AM",
+    "thu": "5:00 PM - 2:00 AM",
+    "fri": "5:00 PM - 2:00 AM",
+    "sat": "5:00 PM - 2:00 AM",
+    "sun": "5:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d715f2e6cfdf346c08",
+  "seededAt": "2026-06-09T01:05:27Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

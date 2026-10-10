@@ -1,0 +1,33 @@
+{
+  "slug": "jing-scottsdale",
+  "name": "JING Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "10605 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.5828448,
+  "lng": -111.9255259,
+  "phone": "+16026998888",
+  "website": "https://www.jingrestaurant.com/",
+  "placeId": "ChIJX0gFzhl1K4cRwKGxUUpmsxE",
+  "googleRating": 4.7,
+  "googleReviewCount": 222,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "12:00 PM - 12:00 AM",
+    "sun": "12:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d769bdcd61890f3fbc",
+  "seededAt": "2026-06-09T01:05:27Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

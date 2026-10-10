@@ -1,0 +1,48 @@
+{
+  "slug": "firebird-nutrition-scottsdale",
+  "name": "Firebird Nutrition",
+  "category": "Health & Beauty",
+  "googleCategory": "Vitamin & supplements store",
+  "secondaryCategories": [
+    "Health food store",
+    "Sports nutrition store"
+  ],
+  "address": "2966 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4816805,
+  "lng": -111.9098689,
+  "phone": "+16028288792",
+  "website": "https://www.facebook.com/FirebirdNutrition/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7163215456339707313",
+  "googleCid": "7163215456339707313",
+  "placeId": "ChIJi8tRv9MLK4cRsUW3VIHaaGM",
+  "googleRating": 4.9,
+  "googleReviewCount": 106,
+  "description": "Located in Scottsdale, Firebird Nutrition is a vitamin & supplements store & health food store.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM",
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ba89b256789259c3f85",
+  "seededAt": "2026-06-06T15:24:24Z",
+  "updatedAt": "2026-07-07T21:04:41Z",
+  "source": "groundgame"
+}

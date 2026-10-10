@@ -1,0 +1,41 @@
+{
+  "slug": "krispy-kreme-tempe",
+  "name": "Krispy Kreme",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Dessert shop",
+    "Fast food restaurant"
+  ],
+  "address": "1540 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "phone": "+14802915762",
+  "priceRange": "$1–10",
+  "description": "Longtime chain serving a variety of donut flavors & shapes, plus coffee & frozen drinks.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/krispykreme"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439d1be7960d6db1b819a",
+  "seededAt": "2026-06-06T15:16:33Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

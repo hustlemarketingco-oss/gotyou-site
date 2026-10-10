@@ -1,0 +1,38 @@
+{
+  "slug": "pinyon-coastal-mediterranean-scottsdale",
+  "name": "PINYON – Coastal Mediterranean",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Bar",
+    "Event venue"
+  ],
+  "address": "7363 E Scottsdale Mall",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4925612,
+  "lng": -111.9230453,
+  "phone": "+14808638990",
+  "website": "https://pinyonrestaurant.com/",
+  "placeId": "ChIJL-3xlKoLK4cRUiRmf4VPLWM",
+  "googleRating": 4.7,
+  "googleReviewCount": 410,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a289102a2e9ba4e08d65988",
+  "seededAt": "2026-06-09T22:17:38Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

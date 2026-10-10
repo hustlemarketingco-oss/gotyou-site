@@ -1,0 +1,36 @@
+{
+  "slug": "smoothie-king-surprise",
+  "name": "Smoothie King",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "16427 Cactus Rd #127",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85388",
+  "lat": 33.593615899999996,
+  "lng": -112.41269240000001,
+  "phone": "+16237450672",
+  "website": "https://locations.smoothieking.com/ll/us/az/surprise/16427-w-cactus-rd-ste-127/",
+  "placeId": "ChIJY8NGuTVFK4cRw7U56l2DDnE",
+  "googleRating": 4.5,
+  "googleReviewCount": 15,
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc9a26696e5956bb018c",
+  "seededAt": "2026-06-16T22:22:18Z",
+  "updatedAt": "2026-06-16T22:22:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "curry-corner-mesa",
+  "name": "Curry Corner",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "secondaryCategories": [
+    "Pakistani restaurant"
+  ],
+  "address": "4972 S Power Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.3257133,
+  "lng": -111.6875086,
+  "phone": "+14804788817",
+  "website": "http://www.currycornertempe.com/",
+  "placeId": "ChIJX8dUcACtK4cRF3CDOesX7Ew",
+  "googleRating": 4.8,
+  "googleReviewCount": 370,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a45622606c3be6df482d40e",
+  "seededAt": "2026-07-01T18:53:26Z",
+  "updatedAt": "2026-07-01T18:53:27Z",
+  "source": "groundgame"
+}

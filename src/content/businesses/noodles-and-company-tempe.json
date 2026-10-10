@@ -1,0 +1,43 @@
+{
+  "slug": "noodles-and-company-tempe",
+  "name": "Noodles and Company",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Salad shop",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway",
+    "Food store",
+    "Soup restaurant"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4334027,
+  "lng": -111.9015704,
+  "phone": "+14809213500",
+  "website": "https://locations.noodles.com/az/tempe/2000-e-rio-salado-parkway",
+  "placeId": "ChIJkXUFGwAJK4cRn3I8AM0qs2I",
+  "googleRating": 4,
+  "googleReviewCount": 752,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 11:00 PM",
+    "tue": "10:30 AM - 11:00 PM",
+    "wed": "10:30 AM - 11:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342acb5718fab8f512bcf9",
+  "seededAt": "2026-06-18T17:28:43Z",
+  "updatedAt": "2026-06-25T21:24:30Z",
+  "source": "groundgame"
+}

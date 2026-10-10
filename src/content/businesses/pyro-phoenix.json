@@ -1,0 +1,42 @@
+{
+  "slug": "pyro-phoenix",
+  "name": "PYRO",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "4300 E Camelback Rd Suite 125",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "phone": "+16027550049",
+  "priceRange": "$100+",
+  "description": "Located in Phoenix, PYRO is a romantic, trendy restaurant with alcohol & beer, takeout & delivery. Popular for lunch & dinner.",
+  "amenities": [
+    "Outdoor seating",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/pyrophx"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2448755c7b3097c5615117",
+  "seededAt": "2026-06-06T16:19:01Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

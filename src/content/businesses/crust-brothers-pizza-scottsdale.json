@@ -1,0 +1,37 @@
+{
+  "slug": "crust-brothers-pizza-scottsdale",
+  "name": "Crust Brothers Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7342 E Shea Blvd Ste 111",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.5840961,
+  "lng": -111.9233242,
+  "phone": "+14805255949",
+  "website": "http://www.crustbrotherspizza.com/",
+  "placeId": "ChIJq-5_Q0F1K4cR-ctg9QFwSK0",
+  "googleRating": 4.7,
+  "googleReviewCount": 735,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a74eda7c9ce9c34d44a5b7e",
+  "seededAt": "2026-08-06T20:25:11Z",
+  "updatedAt": "2026-08-06T20:25:11Z",
+  "source": "groundgame"
+}

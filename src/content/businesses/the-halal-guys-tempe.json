@@ -1,0 +1,45 @@
+{
+  "slug": "the-halal-guys-tempe",
+  "name": "The Halal Guys",
+  "category": "Restaurant",
+  "googleCategory": "Halal restaurant",
+  "secondaryCategories": [
+    "Gyro restaurant",
+    "Falafel restaurant",
+    "Mediterranean restaurant",
+    "American restaurant"
+  ],
+  "address": "1015 S Rural Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.417419200000005,
+  "lng": -111.92588649999999,
+  "phone": "+14807166255",
+  "website": "https://thehalalguys.com/locations/1015-south-rural-road-tempe/",
+  "placeId": "ChIJEzcNe-gIK4cRrACQWe224OA",
+  "googleRating": 3.9,
+  "googleReviewCount": 1085,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29ba185d059a73d8a033d9",
+  "seededAt": "2026-06-10T19:25:12Z",
+  "updatedAt": "2026-07-14T20:41:28Z",
+  "source": "groundgame"
+}

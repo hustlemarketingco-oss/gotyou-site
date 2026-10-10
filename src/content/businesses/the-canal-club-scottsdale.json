@@ -1,0 +1,41 @@
+{
+  "slug": "the-canal-club-scottsdale",
+  "name": "The Canal Club",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cuban restaurant",
+    "Brunch restaurant",
+    "Caribbean restaurant",
+    "Bar"
+  ],
+  "address": "4925 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.508855,
+  "lng": -111.924906,
+  "phone": "+14804246095",
+  "website": "https://www.thecanalclubaz.com/",
+  "placeId": "ChIJa2vSf6ELK4cRGhDXzgAHk7U",
+  "googleRating": 4.4,
+  "googleReviewCount": 1056,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34531c15f3105dbf749572",
+  "seededAt": "2026-06-18T20:20:44Z",
+  "updatedAt": "2026-06-18T20:20:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "beg-bakery-creamery-scottsdale",
+  "name": "BEG Bakery & Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Coffee shop",
+    "Vegetarian restaurant",
+    "Italian restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3030 N 68th St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4826747,
+  "lng": -111.93501049999999,
+  "phone": "+14805900021",
+  "website": "https://www.begbakery.com/",
+  "placeId": "ChIJcTpek8QLK4cRoAypPWRRK54",
+  "googleRating": 4.9,
+  "googleReviewCount": 832,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765aa6508664d9a3bb45b",
+  "seededAt": "2026-06-09T01:00:26Z",
+  "updatedAt": "2026-08-11T13:55:42Z",
+  "source": "groundgame"
+}

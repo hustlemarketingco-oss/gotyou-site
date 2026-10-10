@@ -1,0 +1,53 @@
+{
+  "slug": "the-great-gadsby-bakery-gilbert",
+  "name": "The Great Gadsby Bakery",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Cake shop",
+    "Bakery",
+    "Cupcake shop",
+    "Pastry shop",
+    "Patisserie"
+  ],
+  "address": "1030 S Gilbert Town Square Ave",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.3306042,
+  "lng": -111.7918043,
+  "phone": "+16235006752",
+  "website": "http://greatgadsbybakery.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4650575570627452731",
+  "googleCid": "4650575570627452731",
+  "placeId": "ChIJf3OfB2SpK4cRO99beNcpikA",
+  "googleRating": 4.7,
+  "googleReviewCount": 334,
+  "priceRange": "$10–20",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/thegreatgadsbybakery"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26493a4e8545bb51537de8",
+  "seededAt": "2026-06-08T04:46:50Z",
+  "updatedAt": "2026-06-08T04:46:50Z",
+  "source": "groundgame"
+}

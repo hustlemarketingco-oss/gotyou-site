@@ -1,0 +1,38 @@
+{
+  "slug": "masons-famous-lobster-rolls-scottsdale",
+  "name": "Mason's Famous Lobster Rolls",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Meal takeaway"
+  ],
+  "address": "15257 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6247694,
+  "lng": -111.9235775,
+  "phone": "+14804273857",
+  "website": "https://www.masonslobster.com/locations/scottsdaleaz/",
+  "placeId": "ChIJsyUaiIh1K4cRcWywPLpKE_4",
+  "googleRating": 4.3,
+  "googleReviewCount": 249,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a459f42c2240471cf106981",
+  "seededAt": "2026-07-01T23:14:10Z",
+  "updatedAt": "2026-07-01T23:14:29Z",
+  "source": "groundgame"
+}

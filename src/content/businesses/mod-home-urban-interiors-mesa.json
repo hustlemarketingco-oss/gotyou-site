@@ -1,0 +1,37 @@
+{
+  "slug": "mod-home-urban-interiors-mesa",
+  "name": "Mod Home Urban Interiors",
+  "category": "Shopping",
+  "googleCategory": "Furniture store",
+  "secondaryCategories": [
+    "Home improvement store",
+    "Home goods store",
+    "General contractor"
+  ],
+  "address": "147 S Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.4117192,
+  "lng": -111.8737197,
+  "phone": "+14807551711",
+  "placeId": "ChIJf_wgE9oFK4cRhm5nt7Jmm8U",
+  "googleRating": 4.1,
+  "googleReviewCount": 55,
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342d0904512bb28fb87129",
+  "seededAt": "2026-06-18T17:38:17Z",
+  "updatedAt": "2026-06-18T17:38:18Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-tempe",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "1900 E Rio Salado Pkwy Ste 150",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4303887,
+  "lng": -111.9035828,
+  "phone": "+14804463689",
+  "website": "https://locations.massageenvy.com/arizona/tempe/1900-e-rio-salado-parkway.html",
+  "placeId": "ChIJm_OvgVUIK4cRDX7j8p7gc48",
+  "googleRating": 4.5,
+  "googleReviewCount": 416,
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e62a0c9ba37126184f8f",
+  "seededAt": "2026-06-17T18:23:38Z",
+  "updatedAt": "2026-06-17T18:23:38Z",
+  "source": "groundgame"
+}

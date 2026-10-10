@@ -1,0 +1,43 @@
+{
+  "slug": "bop-and-roll-phoenix",
+  "name": "Bop and Roll",
+  "category": "Asian & Pacific",
+  "googleCategory": "Korean restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Fusion restaurant",
+    "Sushi restaurant",
+    "Chicken wings restaurant",
+    "Ramen restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "7000 E Mayo Blvd #1086",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85054",
+  "lat": 33.6580751,
+  "lng": -111.9330827,
+  "phone": "+14805900039",
+  "website": "https://www.bopandroll.com/",
+  "placeId": "ChIJ5Zcw-oR3K4cRV3O9SGHKSPo",
+  "googleRating": 4.7,
+  "googleReviewCount": 420,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766c76425d541937b17e0",
+  "seededAt": "2026-06-09T01:05:11Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

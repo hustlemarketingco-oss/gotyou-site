@@ -1,0 +1,39 @@
+{
+  "slug": "cold-stone-creamery-455-phoenix",
+  "name": "Cold Stone Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "455 N 3rd St Ste 1145",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4527409,
+  "lng": -112.06856839999999,
+  "phone": "+16022525572",
+  "website": "https://www.coldstonecreamery.com/stores/20446",
+  "placeId": "ChIJXRGP-hgSK4cRO_1n1p_6VBo",
+  "googleRating": 3.8,
+  "googleReviewCount": 244,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:45 PM",
+    "tue": "11:00 AM - 9:45 PM",
+    "wed": "11:00 AM - 9:45 PM",
+    "thu": "11:00 AM - 9:45 PM",
+    "fri": "11:00 AM - 10:45 PM",
+    "sat": "10:00 AM - 10:45 PM",
+    "sun": "11:00 AM - 9:45 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e59df7e1355961d9b",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

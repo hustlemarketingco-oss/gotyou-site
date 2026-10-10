@@ -1,0 +1,40 @@
+{
+  "slug": "ziggis-coffee-mesa",
+  "name": "Ziggi's Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Internet cafe",
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7645 E Guadalupe Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.364442,
+  "lng": -111.6692197,
+  "phone": "+14804667788",
+  "website": "http://www.ziggiscoffee.com/",
+  "placeId": "ChIJzSnOPzuvK4cRVaG1aqxx3Ow",
+  "googleRating": 4.5,
+  "googleReviewCount": 193,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 5:00 PM",
+    "tue": "6:00 AM - 5:00 PM",
+    "wed": "6:00 AM - 5:00 PM",
+    "thu": "6:00 AM - 5:00 PM",
+    "fri": "6:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32eddc266c4a4fd8d341c5",
+  "seededAt": "2026-06-17T18:56:28Z",
+  "updatedAt": "2026-06-17T18:56:28Z",
+  "source": "groundgame"
+}

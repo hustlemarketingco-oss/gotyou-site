@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-tempe",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "5130 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3786932,
+  "lng": -111.9096611,
+  "phone": "+14805575555",
+  "website": "https://restaurants.elpolloloco.com/az/tempe/5130-s-mcclintock-dr",
+  "placeId": "ChIJM0t28C0GK4cRbNJuyiFtbpc",
+  "googleRating": 4.2,
+  "googleReviewCount": 1179,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d838ff5c169c40d26065c",
+  "seededAt": "2026-06-25T19:37:51Z",
+  "updatedAt": "2026-06-25T19:37:51Z",
+  "source": "groundgame"
+}

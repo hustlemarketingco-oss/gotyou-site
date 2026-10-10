@@ -1,0 +1,40 @@
+{
+  "slug": "subway-mesa",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "937 N Dobson Rd #105",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4339678,
+  "lng": -111.8677285,
+  "phone": "+14809621824",
+  "website": "https://restaurants.subway.com/united-states/az/mesa/937-n-dobson-rd&y_source=1_MTQ5MDMwOTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJvcr_Ci4IK4cRXpn-xertvzQ",
+  "googleRating": 3.8,
+  "googleReviewCount": 182,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d80518d5b90a37dbb53a5",
+  "seededAt": "2026-06-25T19:24:01Z",
+  "updatedAt": "2026-06-25T19:24:02Z",
+  "source": "groundgame"
+}

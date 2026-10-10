@@ -1,0 +1,39 @@
+{
+  "slug": "macayos-mexican-food-avondale",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Latin american restaurant",
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "10220 W McDowell Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4659249,
+  "lng": -112.28032139999999,
+  "phone": "+16232887040",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJNbAByN0_K4cRIcOg3LqVN7Q",
+  "googleRating": 3.9,
+  "googleReviewCount": 395,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a47142bb6e1eea0a22ce8c0",
+  "seededAt": "2026-07-03T01:45:15Z",
+  "updatedAt": "2026-07-03T01:45:16Z",
+  "source": "groundgame"
+}

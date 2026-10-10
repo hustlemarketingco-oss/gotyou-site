@@ -1,0 +1,47 @@
+{
+  "slug": "waffle-house-phoenix",
+  "name": "Waffle House",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Diner",
+    "Family restaurant",
+    "Takeout restaurant"
+  ],
+  "address": "3363 E University Dr",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "phone": "+16024261481",
+  "priceRange": "$10–20",
+  "description": "Simple chain spot offering American diner fare & all-day breakfast, including signature waffles.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/WaffleHouse"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443dbd4faf392d5313908",
+  "seededAt": "2026-06-06T15:59:23Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

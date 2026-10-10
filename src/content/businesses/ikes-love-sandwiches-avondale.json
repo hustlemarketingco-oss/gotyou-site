@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-avondale",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "13070 W Rancho Santa Fe Blvd Ste C3",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4611035,
+  "lng": -112.33978429999999,
+  "phone": "+16027262770",
+  "website": "https://locations.ikessandwich.com/az/avondale/514/",
+  "placeId": "ChIJt_wtibI5K4cR9pzdkMYJTwU",
+  "googleRating": 4.5,
+  "googleReviewCount": 225,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 7:00 PM",
+    "tue": "10:30 AM - 7:00 PM",
+    "wed": "10:30 AM - 7:00 PM",
+    "thu": "10:30 AM - 7:00 PM",
+    "fri": "10:30 AM - 7:00 PM",
+    "sat": "10:30 AM - 7:00 PM",
+    "sun": "10:30 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a9a018b74fd2974d2a5",
+  "seededAt": "2026-06-16T18:48:58Z",
+  "updatedAt": "2026-06-16T18:48:59Z",
+  "source": "groundgame"
+}

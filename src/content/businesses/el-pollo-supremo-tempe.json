@@ -1,0 +1,39 @@
+{
+  "slug": "el-pollo-supremo-tempe",
+  "name": "El Pollo Supremo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "221 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4215666,
+  "lng": -111.942904,
+  "phone": "+14809663713",
+  "placeId": "ChIJP85HHNcIK4cRmMZROwXSemM",
+  "googleRating": 4.7,
+  "googleReviewCount": 814,
+  "priceRange": "$",
+  "amenities": [
+    "Cash"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3194f8439dc2a6d7c061f3",
+  "seededAt": "2026-06-16T18:24:56Z",
+  "updatedAt": "2026-08-06T19:05:37Z",
+  "source": "groundgame"
+}

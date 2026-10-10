@@ -1,0 +1,37 @@
+{
+  "slug": "rosatis-pizza-53-gilbert",
+  "name": "Rosati's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "53 N Val Vista Dr #106",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.351520199999996,
+  "lng": -111.75496690000001,
+  "phone": "+14806333000",
+  "website": "https://myrosatis.com/gilbertvalvista",
+  "placeId": "ChIJRUSmcLauK4cRzdvFvHP19NE",
+  "googleRating": 3.8,
+  "googleReviewCount": 312,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a41e15e350acddfb3404f72",
+  "seededAt": "2026-06-29T03:07:10Z",
+  "updatedAt": "2026-06-29T03:07:10Z",
+  "source": "groundgame"
+}

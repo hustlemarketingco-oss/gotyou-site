@@ -1,0 +1,40 @@
+{
+  "slug": "chick-fil-a-phoenix",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "3400 Sky Hbr Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4347074,
+  "lng": -112.00175349999999,
+  "phone": "+16028587432",
+  "website": "https://www.chick-fil-a.com/locations/az/phoenix-sky-harbor-international-airport",
+  "placeId": "ChIJXWmmd_YPK4cRvCBgsTnP8Oo",
+  "googleRating": 2.9,
+  "googleReviewCount": 122,
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b199fed953e250aa83f",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

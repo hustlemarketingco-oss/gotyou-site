@@ -1,0 +1,36 @@
+{
+  "slug": "phoenix-flower-shops-scottsdale",
+  "name": "Phoenix Flower Shops",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Corporate office"
+  ],
+  "address": "Corporate Offices, 5733 E Thomas Rd #4",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.479777999999996,
+  "lng": -111.957425,
+  "phone": "+16028401200",
+  "website": "https://www.phoenixflowershops.com/?srccode=gmb",
+  "placeId": "ChIJh8eLNwkMK4cRFMyz_HPMOAY",
+  "googleRating": 3.8,
+  "googleReviewCount": 20,
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ed5243f1ff4c3ff25582c",
+  "seededAt": "2026-06-26T19:38:12Z",
+  "updatedAt": "2026-06-26T19:38:13Z",
+  "source": "groundgame"
+}

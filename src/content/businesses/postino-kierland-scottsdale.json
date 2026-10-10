@@ -1,0 +1,40 @@
+{
+  "slug": "postino-kierland-scottsdale",
+  "name": "Postino Kierland",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Bar"
+  ],
+  "address": "7030 E Greenway Pkwy Ste 185",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6236005,
+  "lng": -111.9292212,
+  "phone": "+16028991111",
+  "website": "https://www.postino.com/locations/postino-kierland",
+  "placeId": "ChIJ51OaiBV0K4cRSc_txF0Vsp8",
+  "googleRating": 4.7,
+  "googleReviewCount": 1767,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a0066a8f83be7e1f7f12d",
+  "seededAt": "2026-06-23T03:41:26Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

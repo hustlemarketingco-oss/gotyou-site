@@ -1,0 +1,41 @@
+{
+  "slug": "qdoba-mexican-eats-gilbert",
+  "name": "QDOBA Mexican Eats",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Tex mex restaurant",
+    "Fast food restaurant",
+    "Bar and grill",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "3568 S Power Rd Suite 101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3512321,
+  "lng": -111.68911010000001,
+  "phone": "+14804801554",
+  "website": "https://locations.qdoba.com/us/az/gilbert/3568-s.-power-rd",
+  "placeId": "ChIJ2b3Y4qmvK4cRnHRKklIHP9U",
+  "googleRating": 4.4,
+  "googleReviewCount": 181,
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e3b06faf6b622361064f",
+  "seededAt": "2026-06-17T18:13:04Z",
+  "updatedAt": "2026-06-17T18:13:05Z",
+  "source": "groundgame"
+}

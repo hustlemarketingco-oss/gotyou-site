@@ -30,7 +30,7 @@ const { slug, name, claimStatus } = Astro.props;
       <>
         <h3>Own this business?</h3>
         <p>Claim your free listing to manage your profile, see customer check-ins, and start rewarding customers with $GET tokens.</p>
-        <a href={`/businesses/${slug}/claim`} class="btn btn--yellow claim-btn">Claim This Business</a>
+        <a href={`/claim/?b=${slug}`} class="btn btn--yellow claim-btn">Claim This Business</a>
       </>
     )
   }

@@ -1,0 +1,37 @@
+{
+  "slug": "satchels-pizza-gainesville",
+  "name": "Satchel's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1800 NE 23rd Ave",
+  "city": "Gainesville",
+  "state": "FL",
+  "zip": "32609",
+  "lat": 29.673967599999997,
+  "lng": -82.3018848,
+  "phone": "+13523357272",
+  "website": "http://www.satchelspizza.com/",
+  "placeId": "ChIJ0eY99h2k6IgRILAjo-PIX0U",
+  "googleRating": 4.7,
+  "googleReviewCount": 4335,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/New_York",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6960342f1851f0f44f45f9c2",
+  "seededAt": "2026-01-08T22:48:15Z",
+  "updatedAt": "2026-01-08T22:48:15Z",
+  "source": "groundgame"
+}

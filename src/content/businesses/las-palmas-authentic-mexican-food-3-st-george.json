@@ -1,0 +1,36 @@
+{
+  "slug": "las-palmas-authentic-mexican-food-3-st-george",
+  "name": "Las palmas authentic Mexican food #3",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "815 E St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1102126,
+  "lng": -113.5661075,
+  "phone": "+14352883655",
+  "website": "http://laspalmasblvd.com/",
+  "placeId": "ChIJwWArxONbyoARfQt9S533VOk",
+  "googleRating": 4.3,
+  "googleReviewCount": 10,
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e63613e37010a276ac074",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

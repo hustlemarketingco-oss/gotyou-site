@@ -1,0 +1,38 @@
+{
+  "slug": "press-coffee-convention-center-phoenix",
+  "name": "Press Coffee - Convention Center",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "125 N 2nd St Ste.100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.449622,
+  "lng": -112.0711199,
+  "phone": "+14805720041",
+  "website": "https://presscoffee.com/pages/convention-center",
+  "placeId": "ChIJsZ9u_NETK4cR2A_CMT7cydQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 50,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 4:00 PM",
+    "tue": "6:30 AM - 4:00 PM",
+    "wed": "6:30 AM - 4:00 PM",
+    "thu": "6:30 AM - 4:00 PM",
+    "fri": "6:30 AM - 4:00 PM",
+    "sat": "6:30 AM - 4:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5c4d84a3a966447f21",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:27:55Z",
+  "source": "groundgame"
+}

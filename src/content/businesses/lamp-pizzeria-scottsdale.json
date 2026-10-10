@@ -1,0 +1,63 @@
+{
+  "slug": "lamp-pizzeria-scottsdale",
+  "name": "Lamp Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "8900 E Pinnacle Peak Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.7000649,
+  "lng": -111.8886833,
+  "phone": "+14802928773",
+  "website": "http://lamppizza.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2439907604820030111",
+  "googleCid": "2439907604820030111",
+  "placeId": "ChIJYTW56LB3K4cRn3ISFgpL3CE",
+  "googleRating": 4.7,
+  "googleReviewCount": 603,
+  "priceRange": "$20–30",
+  "description": "Trendy spot for artisanal pies baked in a wood-fired oven, plus antipasti, salads, beer & wine.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/lamp_pizzeria"
+  ],
+  "hours": {
+    "fri": "4:00 PM - 9:00 PM",
+    "sat": "4:00 PM - 9:00 PM",
+    "sun": "4:00 PM - 9:00 PM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244051b43d6a515a349f12",
+  "seededAt": "2026-06-06T15:44:17Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "la-casa-de-juana-tempe",
+  "name": "La Casa De Juana",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1805 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3479753,
+  "lng": -111.9103789,
+  "phone": "+14808200837",
+  "website": "https://juanasrestaurant.com/",
+  "placeId": "ChIJnQJ83FUGK4cRkVxlgu4qcos",
+  "googleRating": 4.4,
+  "googleReviewCount": 834,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fbf37b28823d02671e4f7",
+  "seededAt": "2026-07-21T18:49:27Z",
+  "updatedAt": "2026-07-21T18:49:28Z",
+  "source": "groundgame"
+}

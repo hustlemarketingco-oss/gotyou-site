@@ -1,0 +1,39 @@
+{
+  "slug": "saigon-kitchen-surprise",
+  "name": "Saigon Kitchen",
+  "category": "Asian & Pacific",
+  "googleCategory": "Vietnamese restaurant",
+  "secondaryCategories": [
+    "Soup restaurant",
+    "Asian restaurant",
+    "Salad shop"
+  ],
+  "address": "14071 W Bell Rd",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85374",
+  "lat": 33.638189,
+  "lng": -112.3635661,
+  "phone": "+16235446400",
+  "website": "http://saigonkitchenaz.com/",
+  "placeId": "ChIJ_8X9SslEK4cR222kck91ZK4",
+  "googleRating": 4.4,
+  "googleReviewCount": 1349,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c6fa8d5dbc028ddbf6a",
+  "seededAt": "2026-06-23T05:41:03Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

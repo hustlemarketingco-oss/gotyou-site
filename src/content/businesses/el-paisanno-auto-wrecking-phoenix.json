@@ -1,0 +1,34 @@
+{
+  "slug": "el-paisanno-auto-wrecking-phoenix",
+  "name": "El Paisanno Auto Wrecking",
+  "category": "Shopping",
+  "googleCategory": "Auto parts store",
+  "secondaryCategories": [
+    "Car repair"
+  ],
+  "address": "4122 Dr. Martin Luther King Jr. Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85041",
+  "lat": 33.4051094,
+  "lng": -112.14712499999999,
+  "placeId": "ChIJxRk1ucsWK4cRF0ti7_3JzX0",
+  "googleRating": 2.3,
+  "googleReviewCount": 30,
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a358f7d713554198f6c90dc",
+  "seededAt": "2026-06-19T18:50:37Z",
+  "updatedAt": "2026-06-19T18:50:37Z",
+  "source": "groundgame"
+}

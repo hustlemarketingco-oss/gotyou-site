@@ -1,0 +1,37 @@
+{
+  "slug": "nautical-bowls-avondale",
+  "name": "Nautical Bowls",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Brazilian restaurant"
+  ],
+  "address": "10030 W McDowell Rd #150",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4651323,
+  "lng": -112.27631889999999,
+  "phone": "+16233330000",
+  "website": "https://nauticalbowls.com/store/avondale-az/",
+  "placeId": "ChIJ-8Q1qsk_K4cRnpTd8PJCRms",
+  "googleRating": 4.9,
+  "googleReviewCount": 568,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303e1cf03b32c9c1173369",
+  "seededAt": "2026-06-15T18:02:04Z",
+  "updatedAt": "2026-06-15T18:02:05Z",
+  "source": "groundgame"
+}

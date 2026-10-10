@@ -1,0 +1,41 @@
+{
+  "slug": "fatty-daddys-ice-cream-phoenix",
+  "name": "Fatty Daddy's Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Dessert shop",
+    "Tea house",
+    "Confectionery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "888 N 1st Ave #105",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.458481,
+  "lng": -112.075553,
+  "phone": "+16026961658",
+  "website": "http://fattydaddys.com/",
+  "placeId": "ChIJRRwGPkYTK4cR20sPktwvM_E",
+  "googleRating": 4,
+  "googleReviewCount": 175,
+  "hours": {
+    "mon": "3:30 PM - 9:30 PM",
+    "tue": "3:30 PM - 9:30 PM",
+    "wed": "3:30 PM - 9:30 PM",
+    "thu": "3:30 PM - 9:30 PM",
+    "fri": "3:30 PM - 11:00 PM",
+    "sat": "12:30 PM - 11:00 PM",
+    "sun": "12:30 PM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4ef8d797a57b79a56c",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "someburros-gilbert",
+  "name": "Someburros",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1335 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.378516999999995,
+  "lng": -111.804312,
+  "phone": "+14807558226",
+  "website": "http://www.someburros.com/",
+  "placeId": "ChIJcZAQI_eoK4cRiNf4IKnVS4c",
+  "googleRating": 4.3,
+  "googleReviewCount": 2379,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a359a5bc4a5d69c412c79e6",
+  "seededAt": "2026-06-19T19:36:59Z",
+  "updatedAt": "2026-06-19T19:37:00Z",
+  "source": "groundgame"
+}

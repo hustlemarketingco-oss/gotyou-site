@@ -1,0 +1,37 @@
+{
+  "slug": "sub-shack-az-phoenix",
+  "name": "Sub Shack AZ",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4801 E Washington St #1",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4468696,
+  "lng": -111.9781374,
+  "phone": "+16027377827",
+  "website": "http://subshackaz.com/",
+  "placeId": "ChIJs2ZFI4gPK4cR1Sw0mJgIS1Y",
+  "googleRating": 4.7,
+  "googleReviewCount": 286,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fda2fd94e38b06e53c054",
+  "seededAt": "2026-07-09T17:28:15Z",
+  "updatedAt": "2026-07-09T17:29:43Z",
+  "source": "groundgame"
+}

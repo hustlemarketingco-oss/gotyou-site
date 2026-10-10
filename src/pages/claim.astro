@@ -1,0 +1,146 @@
+---
+// One claim page for every listing: /claim/?b=<slug>. The business is looked up client-side from
+// /businesses/<slug>.json, so the build doesn't need a separate claim page per listing.
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+
+<BaseLayout title="Claim your business" description="Verify ownership to manage your free GOTYOU listing." noindex>
+  <div class="section">
+    <div class="container narrow">
+      <a href="/businesses/" class="back-link" id="backLink"><i class="ti ti-arrow-left" /> <span>Back to the directory</span></a>
+
+      <div class="form-card">
+        <h1 id="claimTitle">Claim your business</h1>
+        <p>Verify ownership to manage your GOTYOU listing, access analytics, and create token offers for your customers.</p>
+
+        <!--
+          Phase 1: this form posts to /api/claim, which emails the GotYou team
+          for manual verification. Phase 2: swap the action to write directly
+          to the app DB once the backend connection is in place — the form
+          markup itself doesn't need to change.
+        -->
+        <form method="POST" action="/api/claim">
+          <input type="hidden" name="businessSlug" id="bizSlug" value="unlisted" />
+          <div class="field" id="bizNameField">
+            <label for="bizName">Business name</label>
+            <input type="text" id="bizName" name="businessName" placeholder="Your business" required />
+          </div>
+
+          <div class="field">
+            <label for="name">Your name</label>
+            <input type="text" id="name" name="name" placeholder="Jane Smith" required />
+          </div>
+          <div class="field">
+            <label for="email">Business email</label>
+            <input type="email" id="email" name="email" placeholder="you@yourbusiness.com" required />
+          </div>
+          <div class="field">
+            <label for="phone">Phone number</label>
+            <input type="tel" id="phone" name="phone" placeholder="(801) 555-0100" required />
+          </div>
+          <div class="field">
+            <label for="role">Your role at this business</label>
+            <input type="text" id="role" name="role" placeholder="Owner, Manager, etc." />
+          </div>
+
+          <button type="submit" class="btn btn--primary btn--lg submit-btn">Submit Claim Request &rarr;</button>
+          <p class="fine-print">We'll verify and activate your listing within 24 hours.</p>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const slug = new URLSearchParams(location.search).get('b');
+    if (slug && /^[a-z0-9-]+$/.test(slug)) {
+      fetch(`/businesses/${slug}.json`)
+        .then((r) => (r.ok ? r.json() : null))
+        .then((b: { name?: string } | null) => {
+          if (!b?.name) return;
+          (document.getElementById('bizSlug') as HTMLInputElement).value = slug;
+          (document.getElementById('bizName') as HTMLInputElement).value = b.name;
+          document.getElementById('bizNameField')!.hidden = true;
+          document.getElementById('claimTitle')!.textContent = `Claim ${b.name}`;
+          document.title = `Claim ${b.name} | GOTYOU`;
+          const back = document.getElementById('backLink') as HTMLAnchorElement;
+          back.href = `/businesses/${slug}/`;
+          back.querySelector('span')!.textContent = `Back to ${b.name}`;
+        })
+        .catch(() => {});
+    }
+  </script>
+
+  <style>
+    .narrow {
+      max-width: 540px;
+    }
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 1.5rem;
+    }
+    .back-link:hover {
+      color: var(--text);
+    }
+
+    .form-card {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      padding: 2.5rem;
+    }
+    .form-card h1 {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 0.5rem;
+      color: var(--text);
+    }
+    .form-card > p {
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 1.5rem;
+      line-height: 1.6;
+    }
+
+    .field {
+      margin-bottom: 1rem;
+    }
+    .field label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+    .field input {
+      width: 100%;
+      padding: 13px 16px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      font-size: 15px;
+      font-family: var(--font-body);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .field input:focus {
+      border-color: var(--blue);
+    }
+
+    .submit-btn {
+      width: 100%;
+      justify-content: center;
+      margin-top: 0.5rem;
+    }
+    .fine-print {
+      font-size: 12px;
+      color: var(--muted);
+      text-align: center;
+      margin-top: 12px;
+    }
+  </style>
+</BaseLayout>

@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-peoria",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "9918 W Happy Valley Rd Ste 225",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7114671,
+  "lng": -112.2729334,
+  "phone": "+16235663636",
+  "website": "https://smashburger.com/locations/us/az/peoria/9918-w-happy-valley-rd",
+  "placeId": "ChIJ3TA2zKVdK4cRU5He9XPNUl0",
+  "googleRating": 4.2,
+  "googleReviewCount": 1253,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cc7120078367cb042af",
+  "seededAt": "2026-06-19T17:30:47Z",
+  "updatedAt": "2026-06-19T17:30:47Z",
+  "source": "groundgame"
+}

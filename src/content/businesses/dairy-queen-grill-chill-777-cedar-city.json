@@ -1,0 +1,40 @@
+{
+  "slug": "dairy-queen-grill-chill-777-cedar-city",
+  "name": "Dairy Queen Grill & Chill",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "777 S Main St",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84720",
+  "lat": 37.663764,
+  "lng": -113.0664875,
+  "phone": "+14358651262",
+  "website": "https://www.dairyqueen.com/en-us/locations/ut/cedar-city/777-s-main-st/6880/&y_source=1_ODk5Njc5MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ2bKzdcRhtYAR40pCrEaUzgc",
+  "googleRating": 4.4,
+  "googleReviewCount": 914,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:30 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f069bb189e55d6953d",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

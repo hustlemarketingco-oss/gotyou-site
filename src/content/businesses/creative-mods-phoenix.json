@@ -1,0 +1,37 @@
+{
+  "slug": "creative-mods-phoenix",
+  "name": "Creative Mods",
+  "category": "Shopping",
+  "googleCategory": "Auto parts store",
+  "secondaryCategories": [
+    "Market",
+    "Car repair"
+  ],
+  "address": "3630 E Chipman Rd Ste a",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.402629,
+  "lng": -112.0029696,
+  "phone": "+14806517225",
+  "website": "https://creativemods.com/",
+  "placeId": "ChIJOTHzoD8PK4cRNYU0HwPRYBU",
+  "googleRating": 5,
+  "googleReviewCount": 10,
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342d0eab7f0df4bf8e502f",
+  "seededAt": "2026-06-18T17:38:22Z",
+  "updatedAt": "2026-06-18T17:38:23Z",
+  "source": "groundgame"
+}

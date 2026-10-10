@@ -1,0 +1,37 @@
+{
+  "slug": "experiment-coffee-and-pastry-scottsdale",
+  "name": "Experiment Coffee and Pastry Scottsdale",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7109 E 2nd St Suite 100",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4910412,
+  "lng": -111.92807099999999,
+  "phone": "+16027175572",
+  "website": "https://www.experimentcoffeeandpastry.com/",
+  "placeId": "ChIJa0bAAuMLK4cRsz9s5_jiA-Q",
+  "googleRating": 4.5,
+  "googleReviewCount": 28,
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b732d00a9e1906d83",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-06-29T18:13:10Z",
+  "source": "groundgame"
+}

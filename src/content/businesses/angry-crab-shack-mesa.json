@@ -1,0 +1,37 @@
+{
+  "slug": "angry-crab-shack-mesa",
+  "name": "Angry Crab Shack",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Family restaurant"
+  ],
+  "address": "8253 E Guadalupe Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.364164599999995,
+  "lng": -111.65571489999999,
+  "phone": "+14803735855",
+  "website": "https://www.angrycrabshack.com/guadalupe-rd-mesa-az/",
+  "placeId": "ChIJqdy8ouWxK4cRne6ggcwbB20",
+  "googleRating": 4.4,
+  "googleReviewCount": 3140,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6c14848a89107a323b6",
+  "seededAt": "2026-07-02T19:06:41Z",
+  "updatedAt": "2026-07-02T19:06:42Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "scotts-generations-phoenix",
+  "name": "Scott's Generations",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Deli",
+    "Lunch restaurant",
+    "Restaurant"
+  ],
+  "address": "742 E Glendale Ave #142",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "phone": "+16022775662",
+  "priceRange": "$20–30",
+  "description": "Informal deli offering large servings of NYC-style sandwiches & other grub in patio-enhanced digs.",
+  "amenities": [
+    "Outdoor seating",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegan options",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/scottsgenerations"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a245237a8397ce2dfb11b90",
+  "seededAt": "2026-06-06T17:00:39Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

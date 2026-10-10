@@ -1,0 +1,38 @@
+{
+  "slug": "macayos-mexican-food-litchfield-park",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "19355 W Indian School Rd",
+  "city": "Litchfield Park",
+  "state": "AZ",
+  "zip": "85340",
+  "lat": 33.4923114,
+  "lng": -112.4762475,
+  "phone": "+16028580231",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJVdnE1wxJK4cRNA7HrlWQbn0",
+  "googleRating": 3.7,
+  "googleReviewCount": 549,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a471432c314e94756b9e61a",
+  "seededAt": "2026-07-03T01:45:22Z",
+  "updatedAt": "2026-07-03T01:45:23Z",
+  "source": "groundgame"
+}

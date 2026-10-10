@@ -1,0 +1,42 @@
+{
+  "slug": "5th-street-burger-fries-tempe",
+  "name": "5th Street Burger & Fries",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "address": "1158 W Washington St #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.442273,
+  "lng": -111.9554076,
+  "phone": "+14809121621",
+  "website": "http://www.5thstreetburger.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4939456416143800700",
+  "googleCid": "4939456416143800700",
+  "placeId": "ChIJ0dZOH4wJK4cRfHnGq3B5jEQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 1304,
+  "description": "Located in Tempe, 5th Street Burger & Fries is a hamburger restaurant.",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM",
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24376cb25a8c69187c49a4",
+  "seededAt": "2026-06-06T15:06:20Z",
+  "updatedAt": "2026-07-30T17:58:33Z",
+  "source": "groundgame"
+}

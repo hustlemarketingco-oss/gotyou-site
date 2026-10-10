@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-goodyear",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "13375 W McDowell Rd",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.463363,
+  "lng": -112.34728799999999,
+  "phone": "+16234144064",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/goodyear/13375-w-mcdowell-road?y_source=1_MTA5MDM2OTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJTapRaLo4K4cRfb6wd88zE6I",
+  "googleRating": 3.7,
+  "googleReviewCount": 813,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275488a38df1d28b76eec1",
+  "seededAt": "2026-06-08T23:47:20Z",
+  "updatedAt": "2026-06-08T23:47:21Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "roll-avenue-mesa",
+  "name": "Roll Avenue",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "66 S Dobson Rd #145",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.4132002,
+  "lng": -111.8757524,
+  "phone": "+14802457892",
+  "placeId": "ChIJixYdOhQIK4cRe8mss_4jUHM",
+  "googleRating": 4.7,
+  "googleReviewCount": 224,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Google Pay",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a45745c541fa4219d5a6120",
+  "seededAt": "2026-07-01T20:11:08Z",
+  "updatedAt": "2026-07-21T19:56:30Z",
+  "source": "groundgame"
+}

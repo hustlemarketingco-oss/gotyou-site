@@ -1,0 +1,37 @@
+{
+  "slug": "bikini-beans-coffee-tempe",
+  "name": "Bikini Beans Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1420 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4448501,
+  "lng": -111.92682239999999,
+  "website": "https://www.bikinibeanscoffee.com/",
+  "placeId": "ChIJy5393RUJK4cRHnSPIMgsugU",
+  "googleRating": 4.6,
+  "googleReviewCount": 1058,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34226d45be51a24d6b1b46",
+  "seededAt": "2026-06-18T16:53:01Z",
+  "updatedAt": "2026-08-03T18:49:42Z",
+  "source": "groundgame"
+}

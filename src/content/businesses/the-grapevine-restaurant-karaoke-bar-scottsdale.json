@@ -1,0 +1,40 @@
+{
+  "slug": "the-grapevine-restaurant-karaoke-bar-scottsdale",
+  "name": "The Grapevine Restaurant & Karaoke Bar",
+  "category": "Bars & Pubs",
+  "googleCategory": "Night club",
+  "secondaryCategories": [
+    "Karaoke",
+    "Mediterranean restaurant",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "4013 N Brown Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.494338899999995,
+  "lng": -111.92431390000002,
+  "phone": "+14809941792",
+  "website": "http://www.grapevineaz.com/",
+  "placeId": "ChIJQ-ZKa78LK4cR9Dca5WC-lao",
+  "googleRating": 4.1,
+  "googleReviewCount": 1791,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 1:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c44c0f46af9154588ae9f",
+  "seededAt": "2026-06-12T17:41:20Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

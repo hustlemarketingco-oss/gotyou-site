@@ -1,0 +1,39 @@
+{
+  "slug": "chick-fil-a-1333-st-george",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "1333 S Auto Mall Dr Bldg 200",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.0862613,
+  "lng": -113.5850844,
+  "phone": "+14359220777",
+  "website": "https://www.chick-fil-a.com/locations/ut/bluff-street-blackridge-drive",
+  "placeId": "ChIJqUT5BA9FyoARX3IR7HaSuIg",
+  "googleRating": 4.6,
+  "googleReviewCount": 840,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:30 AM - 10:00 PM",
+    "tue": "6:30 AM - 10:00 PM",
+    "wed": "6:30 AM - 10:00 PM",
+    "thu": "6:30 AM - 10:00 PM",
+    "fri": "6:30 AM - 10:00 PM",
+    "sat": "6:30 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b47b6a76587a2b6b24e",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "sauce-pizza-wine-tempe",
+  "name": "Sauce Pizza & Wine",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Pizza restaurant",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "705 S Myrtle Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4230053,
+  "lng": -111.93796449999999,
+  "phone": "+14805974260",
+  "website": "https://www.saucepizzaandwine.com/",
+  "placeId": "ChIJQxHyiV8JK4cR8-G1n2DfYmA",
+  "googleRating": 4,
+  "googleReviewCount": 245,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9c4e73af791fe739eca",
+  "seededAt": "2026-06-10T19:23:48Z",
+  "updatedAt": "2026-07-06T16:03:58Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "the-sicilian-butcher-chandler",
+  "name": "The Sicilian Butcher",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Food store",
+    "Italian restaurant"
+  ],
+  "address": "3151 W Frye Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.2973814,
+  "lng": -111.896749,
+  "phone": "+14805738550",
+  "website": "https://locations.thesicilianbutcher.com/az/chandler/chandler/",
+  "placeId": "ChIJYeDO9-4BK4cR5TU9tiyBQZk",
+  "googleRating": 4.6,
+  "googleReviewCount": 4998,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a1c738483601e21ba4dc4",
+  "seededAt": "2026-06-23T05:41:07Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "windsor-scottsdale",
+  "name": "Windsor",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Womens clothing store",
+    "Shoe store",
+    "Jewelry store"
+  ],
+  "address": "7014 E Camelback Rd #2440",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.503874599999996,
+  "lng": -111.9271217,
+  "phone": "+18884954957",
+  "website": "https://www.windsorstore.com/pages/az-scottsdale-scottsdale-fashion-square",
+  "placeId": "ChIJST7DoKILK4cRcQPFpUfWuNU",
+  "googleRating": 4,
+  "googleReviewCount": 49,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a33019216721cee9f09",
+  "seededAt": "2026-06-08T23:03:15Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

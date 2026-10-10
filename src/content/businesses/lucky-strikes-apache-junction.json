@@ -1,0 +1,37 @@
+{
+  "slug": "lucky-strikes-apache-junction",
+  "name": "Lucky Strikes",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "1985 W Apache Trail",
+  "city": "Apache Junction",
+  "state": "AZ",
+  "zip": "85120",
+  "lat": 33.414623399999996,
+  "lng": -111.56758269999999,
+  "phone": "+14809820753",
+  "website": "https://m.facebook.com/LuckyStrikesAZ/",
+  "placeId": "ChIJf55KfCy3K4cRax4xXzPS3tI",
+  "googleRating": 4,
+  "googleReviewCount": 543,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 2:00 AM",
+    "tue": "8:00 AM - 2:00 AM",
+    "wed": "8:00 AM - 2:00 AM",
+    "thu": "8:00 AM - 2:00 AM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d4ff4379ef3b7b75a54c",
+  "seededAt": "2026-06-17T17:10:23Z",
+  "updatedAt": "2026-06-17T17:10:24Z",
+  "source": "groundgame"
+}

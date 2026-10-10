@@ -1,0 +1,37 @@
+{
+  "slug": "benihana-scottsdale",
+  "name": "Benihana - Scottsdale",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "16403 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.634843,
+  "lng": -111.9247615,
+  "phone": "+14804440068",
+  "website": "https://www.benihana.com/locations/scottsdale/",
+  "placeId": "ChIJn2pHrSN0K4cRnAobviunxsU",
+  "googleRating": 4.3,
+  "googleReviewCount": 3724,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766d79ef68e94ed380522",
+  "seededAt": "2026-06-09T01:05:27Z",
+  "updatedAt": "2026-06-09T01:18:13Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-3025-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "3025 W Peoria Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85029",
+  "lat": 33.5813515,
+  "lng": -112.12420309999999,
+  "phone": "+16029436306",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/3025-w-peoria-ave",
+  "placeId": "ChIJUVSeYWtsK4cR6OAEjGod_Cw",
+  "googleRating": 3.7,
+  "googleReviewCount": 2299,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 1:00 AM",
+    "tue": "6:00 AM - 1:00 AM",
+    "wed": "6:00 AM - 1:00 AM",
+    "thu": "6:00 AM - 2:00 AM",
+    "fri": "6:00 AM - 2:00 AM",
+    "sat": "6:00 AM - 1:00 AM",
+    "sun": "6:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dce67f4e1f462cee0d7",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

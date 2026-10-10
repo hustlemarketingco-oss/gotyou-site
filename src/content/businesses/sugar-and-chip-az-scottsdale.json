@@ -1,0 +1,36 @@
+{
+  "slug": "sugar-and-chip-az-scottsdale",
+  "name": "Sugar and Chip AZ",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "5610 E Beverly Ln",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6343143,
+  "lng": -111.9598814,
+  "phone": "+14807799110",
+  "website": "http://www.sugarandchipaz.com/",
+  "placeId": "ChIJWcfBjAVzK4cRyiptoWtz5Xs",
+  "googleRating": 4.8,
+  "googleReviewCount": 22,
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "4:00 PM - 6:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "4:00 PM - 6:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "3:00 PM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765aa6c6cc8f81e3f681b",
+  "seededAt": "2026-06-09T01:00:26Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

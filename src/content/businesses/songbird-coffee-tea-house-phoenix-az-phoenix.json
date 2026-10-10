@@ -1,0 +1,39 @@
+{
+  "slug": "songbird-coffee-tea-house-phoenix-az-phoenix",
+  "name": "Songbird Coffee & Tea House - Phoenix, AZ",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Tea house",
+    "Food store"
+  ],
+  "address": "812 N 3rd St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4570319,
+  "lng": -112.070278,
+  "phone": "+16023744192",
+  "website": "http://www.songbirdcoffeehouse.com/",
+  "placeId": "ChIJG2b3OxYSK4cRs_Ua1rT4i5Y",
+  "googleRating": 4.7,
+  "googleReviewCount": 1194,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "6:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5c3232dc6e361c873e",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

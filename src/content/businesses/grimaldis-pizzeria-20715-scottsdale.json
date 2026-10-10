@@ -1,0 +1,40 @@
+{
+  "slug": "grimaldis-pizzeria-20715-scottsdale",
+  "name": "Grimaldi's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Family restaurant",
+    "Bar",
+    "Italian restaurant"
+  ],
+  "address": "20715 N Pima Rd Ste F115",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6740768,
+  "lng": -111.88802179999999,
+  "phone": "+14805155588",
+  "website": "https://www.grimaldispizzeria.com/locations/dc-ranch/",
+  "placeId": "ChIJ3a-nGkN2K4cRxDUmBhIJHKo",
+  "googleRating": 4.4,
+  "googleReviewCount": 770,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275152763c3e71d9767719",
+  "seededAt": "2026-06-08T23:33:38Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "tacos-el-monchis-st-george",
+  "name": "Tacos El Monchis",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3849 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0436317,
+  "lng": -113.5545135,
+  "phone": "+14359228506",
+  "placeId": "ChIJl8oOfxZQyoARx986F_XsG4Q",
+  "googleRating": 4.4,
+  "googleReviewCount": 285,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e63615d89be2cf1f92436",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

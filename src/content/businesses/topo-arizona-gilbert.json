@@ -1,0 +1,52 @@
+{
+  "slug": "topo-arizona-gilbert",
+  "name": "Topo Arizona",
+  "category": "Restaurant",
+  "googleCategory": "Burrito restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Restaurant"
+  ],
+  "address": "301 N Gilbert Rd bldg 2",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3552067,
+  "lng": -111.7894959,
+  "phone": "+14805033805",
+  "website": "http://www.topoarizona.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1516869663777664891",
+  "googleCid": "1516869663777664891",
+  "placeId": "ChIJtxkTzWipK4cRe68IKOwADRU",
+  "googleRating": 4.6,
+  "googleReviewCount": 641,
+  "priceRange": "$10–20",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/topoarizona"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2643a7ff1e0c150fba9ec6",
+  "seededAt": "2026-06-08T04:23:03Z",
+  "updatedAt": "2026-06-08T04:23:03Z",
+  "source": "groundgame"
+}

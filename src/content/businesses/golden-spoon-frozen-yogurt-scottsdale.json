@@ -1,0 +1,39 @@
+{
+  "slug": "golden-spoon-frozen-yogurt-scottsdale",
+  "name": "Golden Spoon Frozen Yogurt Scottsdale",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "16455 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.6357609,
+  "lng": -111.92240659999999,
+  "phone": "+14803618438",
+  "website": "https://goldenspoonscottsdale.com/",
+  "placeId": "ChIJs0zt7CN0K4cRZrBl6mpd8zU",
+  "googleRating": 4,
+  "googleReviewCount": 206,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:30 AM - 9:30 PM",
+    "tue": "11:30 AM - 9:30 PM",
+    "wed": "11:30 AM - 9:30 PM",
+    "thu": "11:30 AM - 9:30 PM",
+    "fri": "11:30 AM - 9:30 PM",
+    "sat": "11:30 AM - 12:30 AM",
+    "sun": "11:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765d2ed177f482622d3ea",
+  "seededAt": "2026-06-09T01:01:06Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "dunkin-11218-scottsdale",
+  "name": "Dunkin'",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Bagel shop",
+    "Bakery",
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Fast food restaurant",
+    "Takeout restaurant"
+  ],
+  "address": "11218 N Frank Lloyd Wright Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85259",
+  "phone": "+14808600036",
+  "priceRange": "$1–10",
+  "description": "Long-running chain serving signature breakfast items & a variety of coffee drinks.",
+  "amenities": [
+    "Outdoor seating",
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/DunkinUS"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243da43af5630212c72e43",
+  "seededAt": "2026-06-06T15:32:52Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

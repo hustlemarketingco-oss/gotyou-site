@@ -1,0 +1,36 @@
+{
+  "slug": "the-italiano-by-chef-joey-scottsdale",
+  "name": "The Italiano by Chef Joey",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "9301 E Shea Blvd #137",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.581773,
+  "lng": -111.8805667,
+  "phone": "+14807701700",
+  "website": "https://www.theitaliano.com/",
+  "placeId": "ChIJq6q6p0B1K4cRVMmolZA8srE",
+  "googleRating": 4.6,
+  "googleReviewCount": 876,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276630c55a2c27d01f4d1d",
+  "seededAt": "2026-06-09T01:02:40Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

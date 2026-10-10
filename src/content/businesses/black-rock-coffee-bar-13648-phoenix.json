@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-13648-phoenix",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "13648 N Tatum Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6111795,
+  "lng": -111.9785649,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/tatum-and-thunderbird",
+  "placeId": "ChIJe-Rte6BzK4cRBHDDStYUIog",
+  "googleRating": 4.4,
+  "googleReviewCount": 384,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51725eddacb9e8b4fe6c27",
+  "seededAt": "2026-07-10T22:29:50Z",
+  "updatedAt": "2026-07-10T22:29:51Z",
+  "source": "groundgame"
+}

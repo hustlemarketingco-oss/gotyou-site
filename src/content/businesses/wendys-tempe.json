@@ -1,0 +1,36 @@
+{
+  "slug": "wendys-tempe",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1250 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407868199999996,
+  "lng": -111.9578849,
+  "phone": "+14809422707",
+  "website": "https://locations.wendys.com/united-states/az/tempe/1250-west-broadway-rd",
+  "placeId": "ChIJGfc3HQAPK4cRbrQ_WMwPX54",
+  "googleRating": 2.4,
+  "googleReviewCount": 89,
+  "hours": {
+    "mon": "6:30 AM - 2:00 AM",
+    "tue": "6:30 AM - 2:00 AM",
+    "wed": "6:30 AM - 2:00 AM",
+    "thu": "6:30 AM - 2:00 AM",
+    "fri": "6:30 AM - 2:00 AM",
+    "sat": "6:30 AM - 2:00 AM",
+    "sun": "6:30 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dcda946ad10c1e0a533",
+  "seededAt": "2026-06-12T14:55:09Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

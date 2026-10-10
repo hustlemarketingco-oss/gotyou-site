@@ -1,0 +1,53 @@
+{
+  "slug": "uncle-sals-scottsdale",
+  "name": "Uncle Sal's",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Caterer",
+    "Italian restaurant"
+  ],
+  "address": "3370 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4870819,
+  "lng": -111.9100397,
+  "phone": "+14809902533",
+  "website": "https://unclesalsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2420626167329543216",
+  "googleCid": "2420626167329543216",
+  "placeId": "ChIJ5ZAQ3s0LK4cRMFSxlazKlyE",
+  "googleRating": 4.5,
+  "googleReviewCount": 1807,
+  "priceRange": "$20–40",
+  "description": "Comfy, wood-paneled restaurant dishing out steaks & chops, plus Italian seafood & specialty dishes.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/unclesals"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b3d0b82962362939046",
+  "seededAt": "2026-06-06T15:22:37Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

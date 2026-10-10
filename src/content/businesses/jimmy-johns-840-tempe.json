@@ -1,0 +1,41 @@
+{
+  "slug": "jimmy-johns-840-tempe",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "840 E Southern Ave Ste. 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932646,
+  "lng": -111.9266554,
+  "phone": "+14805904044",
+  "website": "https://locations.jimmyjohns.com/az/tempe/sandwiches-4055.html&y_source=1_MjAzNDczNDc5MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ21YZ85gIK4cR6XRmLbEgHxQ",
+  "googleRating": 3.5,
+  "googleReviewCount": 281,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3579160abdbd0072401ec8",
+  "seededAt": "2026-06-19T17:15:02Z",
+  "updatedAt": "2026-06-29T23:39:21Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "heavenly-wings-bakery-tempe",
+  "name": "Heavenly Wings Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "1215 E Vista Del Cerro Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4091176,
+  "lng": -111.9194697,
+  "phone": "+14809343374",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8445610512288839373",
+  "googleCid": "8445610512288839373",
+  "placeId": "ChIJZyMdrocJK4cRzfZHoAPWNHU",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "description": "Located in Tempe, Heavenly Wings Bakery is a bakery with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards"
+  ],
+  "hours": {
+    "fri": "Open 24 hours",
+    "sat": "Closed",
+    "sun": "Closed",
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439b6a88e34f0a7888c7a",
+  "seededAt": "2026-06-06T15:16:06Z",
+  "updatedAt": "2026-06-06T15:16:06Z",
+  "source": "groundgame"
+}

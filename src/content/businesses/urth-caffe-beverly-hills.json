@@ -1,0 +1,45 @@
+{
+  "slug": "urth-caffe-beverly-hills",
+  "name": "Urth Caffe Beverly Hills",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Acai shop",
+    "Brazilian restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "267 S Beverly Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90212",
+  "lat": 34.062669,
+  "lng": -118.3994003,
+  "phone": "+13102059311",
+  "website": "https://www.urthcaffe.com/",
+  "placeId": "ChIJX8auh_u7woAReoxFMFR4cCc",
+  "googleRating": 4.4,
+  "googleReviewCount": 3292,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.facebook.com/UrthCaffe",
+    "https://www.instagram.com/urthcaffe/",
+    "https://twitter.com/UrthCaffe"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1ac059dfa919b1b23de3",
+  "seededAt": "2026-02-12T18:24:00Z",
+  "updatedAt": "2026-06-25T21:24:33Z",
+  "source": "groundgame"
+}

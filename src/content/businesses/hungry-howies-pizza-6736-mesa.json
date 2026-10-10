@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-6736-mesa",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Meal takeaway",
+    "Pizza restaurant",
+    "Chicken wings restaurant",
+    "Food delivery"
+  ],
+  "address": "6736 E Baseline Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.379798,
+  "lng": -111.68869099999999,
+  "phone": "+14803786999",
+  "website": "https://www.hungryhowies.com/",
+  "placeId": "ChIJtwgf2I6vK4cRU6HctytarTI",
+  "googleRating": 3.4,
+  "googleReviewCount": 91,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a627b4d0501885fb2319192",
+  "seededAt": "2026-07-23T20:36:29Z",
+  "updatedAt": "2026-07-23T20:36:30Z",
+  "source": "groundgame"
+}

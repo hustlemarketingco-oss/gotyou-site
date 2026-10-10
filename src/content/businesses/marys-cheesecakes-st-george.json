@@ -1,0 +1,37 @@
+{
+  "slug": "marys-cheesecakes-st-george",
+  "name": "Marys Cheesecakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "1664 S Dixie Dr Unit K-104",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.080607,
+  "lng": -113.604851,
+  "phone": "+14357033347",
+  "website": "http://maryscheesecakes.com/",
+  "placeId": "ChIJFc4NAeFFyoARuvDFK56SehA",
+  "googleRating": 4.9,
+  "googleReviewCount": 193,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 4:00 PM",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "12:00 AM - 4:00 PM",
+    "sat": "10:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f895c0036fed67488a5e",
+  "seededAt": "2025-12-17T18:38:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

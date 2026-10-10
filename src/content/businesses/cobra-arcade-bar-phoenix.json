@@ -1,0 +1,39 @@
+{
+  "slug": "cobra-arcade-bar-phoenix",
+  "name": "Cobra Arcade Bar",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Video arcade",
+    "Cocktail bar",
+    "Night club"
+  ],
+  "address": "801 N 2nd St #100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "phone": "+16025955873",
+  "priceRange": "$$",
+  "description": "Vintage video games & pinball are the draw at this hip bar with inventive cocktails & craft beer.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/cobraarcade"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2442c6f26fc35f9ccc2774",
+  "seededAt": "2026-06-06T15:54:46Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

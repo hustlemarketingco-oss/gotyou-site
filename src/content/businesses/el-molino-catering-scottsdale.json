@@ -1,0 +1,43 @@
+{
+  "slug": "el-molino-catering-scottsdale",
+  "name": "el molino catering",
+  "category": "Restaurant",
+  "googleCategory": "Caterer",
+  "address": "6398 E Oak St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4736066,
+  "lng": -111.9449653,
+  "phone": "+16232104558",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3661187625049360999",
+  "googleCid": "3661187625049360999",
+  "placeId": "ChIJ__8P8_sLK4cRZ4ofR78mzzI",
+  "googleRating": 4.8,
+  "googleReviewCount": 5,
+  "description": "Located in Scottsdale, el molino catering is a caterer with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours",
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244021e0a8714021bea093",
+  "seededAt": "2026-06-06T15:43:29Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

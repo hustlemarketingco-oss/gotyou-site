@@ -1,0 +1,38 @@
+{
+  "slug": "the-other-bar-phoenix",
+  "name": "The Other Bar",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Wine bar"
+  ],
+  "address": "1588 E Bethany Home Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85014",
+  "lat": 33.5239982,
+  "lng": -112.0479812,
+  "phone": "+16027731339",
+  "website": "http://theotherbarphx.com/",
+  "placeId": "ChIJzYqD3RITK4cRfcfYNbby-kU",
+  "googleRating": 4.4,
+  "googleReviewCount": 96,
+  "hours": {
+    "mon": "Closed",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53fed4156e413882806aa1",
+  "seededAt": "2026-07-12T20:53:40Z",
+  "updatedAt": "2026-07-12T20:53:41Z",
+  "source": "groundgame"
+}

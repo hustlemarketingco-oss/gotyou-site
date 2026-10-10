@@ -1,0 +1,41 @@
+{
+  "slug": "la-michoacana-az-phoenix",
+  "name": "La Michoacana AZ",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Snack bar",
+    "Meal takeaway",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "6135 N 35th Ave #189",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85017",
+  "lat": 33.5263706,
+  "lng": -112.1313548,
+  "phone": "+16022933250",
+  "website": "https://www.lamichoacana-az.com/phoenix-north-mexican-ice-cream",
+  "placeId": "ChIJQWXG8e5tK4cRSQLOvh_GN9w",
+  "googleRating": 4.7,
+  "googleReviewCount": 397,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c16668c90814893dbc2",
+  "seededAt": "2026-06-22T19:25:10Z",
+  "updatedAt": "2026-06-22T19:25:11Z",
+  "source": "groundgame"
+}

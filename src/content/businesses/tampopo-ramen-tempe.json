@@ -1,0 +1,37 @@
+{
+  "slug": "tampopo-ramen-tempe",
+  "name": "Tampopo Ramen",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Ramen restaurant"
+  ],
+  "address": "3223 S McClintock Dr Suite103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3938104,
+  "lng": -111.90862609999999,
+  "phone": "+14805975517",
+  "website": "http://tampoporamenaz.com/",
+  "placeId": "ChIJWwYROoEIK4cRLh76V_5NPvY",
+  "googleRating": 4.5,
+  "googleReviewCount": 1814,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "Closed",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4e916bb5d4320d7a67ac18",
+  "seededAt": "2026-07-08T18:05:31Z",
+  "updatedAt": "2026-07-08T18:05:41Z",
+  "source": "groundgame"
+}

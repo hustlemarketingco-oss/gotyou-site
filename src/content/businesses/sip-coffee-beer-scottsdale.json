@@ -1,0 +1,40 @@
+{
+  "slug": "sip-coffee-beer-scottsdale",
+  "name": "Sip Coffee & Beer",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Bar",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3617 N Goldwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.489647999999995,
+  "lng": -111.926588,
+  "phone": "+14806253878",
+  "website": "https://sipcoffeeandbeer.com/",
+  "placeId": "ChIJGyvOlOoLK4cR2GSY0_g-WKw",
+  "googleRating": 4.5,
+  "googleReviewCount": 884,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 8:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b0c6d97fc2bed677e",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

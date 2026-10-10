@@ -1,0 +1,43 @@
+{
+  "slug": "black-rock-coffee-bar-1765-tempe",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "1765 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421531699999996,
+  "lng": -111.9110855,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/",
+  "placeId": "ChIJxZty658JK4cRNQ8s66uLr4Y",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "amenities": [
+    "Cash",
+    "Apple Pay",
+    "Google Pay",
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "5:00 AM - 7:00 PM",
+    "tue": "5:00 AM - 7:00 PM",
+    "wed": "5:00 AM - 7:00 PM",
+    "thu": "5:00 AM - 7:00 PM",
+    "fri": "5:00 AM - 7:00 PM",
+    "sat": "5:00 AM - 7:00 PM",
+    "sun": "5:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5172560973afd33634a825",
+  "seededAt": "2026-07-10T22:29:42Z",
+  "updatedAt": "2026-07-16T17:55:55Z",
+  "source": "groundgame"
+}

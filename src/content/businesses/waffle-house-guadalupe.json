@@ -1,0 +1,46 @@
+{
+  "slug": "waffle-house-guadalupe",
+  "name": "Waffle House",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Diner",
+    "Family restaurant",
+    "Takeout restaurant"
+  ],
+  "address": "1801 W Baseline Rd",
+  "city": "Guadalupe",
+  "state": "AZ",
+  "zip": "85283",
+  "phone": "+14808386407",
+  "priceRange": "$10–20",
+  "description": "Simple chain spot offering American diner fare & all-day breakfast, including signature waffles.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/WaffleHouse"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a245380628103a5627bc0b6",
+  "seededAt": "2026-06-06T17:06:08Z",
+  "updatedAt": "2026-06-06T17:06:08Z",
+  "source": "groundgame"
+}

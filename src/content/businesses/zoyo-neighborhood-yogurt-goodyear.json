@@ -1,0 +1,38 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-goodyear",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "15557 West Roosevelt St #102",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85338",
+  "lat": 33.4569258,
+  "lng": -112.3938268,
+  "phone": "+16234402045",
+  "website": "http://zoyogurt.com/",
+  "placeId": "ChIJHcZ6Omc5K4cRiMVbqO9JeiM",
+  "googleRating": 4.3,
+  "googleReviewCount": 74,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c262218c693fd1669f57d",
+  "seededAt": "2026-06-12T15:30:42Z",
+  "updatedAt": "2026-06-12T15:30:42Z",
+  "source": "groundgame"
+}

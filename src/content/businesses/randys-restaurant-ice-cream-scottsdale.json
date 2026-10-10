@@ -1,0 +1,38 @@
+{
+  "slug": "randys-restaurant-ice-cream-scottsdale",
+  "name": "Randy's Restaurant & Ice Cream",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Diner"
+  ],
+  "address": "7904 E Chaparral Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.5097326,
+  "lng": -111.9115916,
+  "phone": "+14809418419",
+  "website": "http://randysrestaurantaz.com/",
+  "placeId": "ChIJI32Zka4LK4cRZMMM-y_VIW0",
+  "googleRating": 4.6,
+  "googleReviewCount": 2179,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 8:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766169c0ed349857b8d52",
+  "seededAt": "2026-06-09T01:02:14Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

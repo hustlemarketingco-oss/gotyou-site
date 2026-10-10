@@ -1,0 +1,36 @@
+{
+  "slug": "cha-tea-mesa",
+  "name": "Cha Tea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Tea house"
+  ],
+  "address": "1911 W Main St",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.413973999999996,
+  "lng": -111.87216190000001,
+  "phone": "+14803076515",
+  "website": "http://chateaboba.com/",
+  "placeId": "ChIJYQanm04JK4cRaYnthjbB9IE",
+  "googleRating": 4.2,
+  "googleReviewCount": 260,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:30 PM",
+    "sat": "10:00 AM - 9:30 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ae1f42eb956a7c3061d32",
+  "seededAt": "2026-06-23T19:43:48Z",
+  "updatedAt": "2026-07-07T18:41:21Z",
+  "source": "groundgame"
+}

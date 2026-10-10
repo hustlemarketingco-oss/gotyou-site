@@ -1,0 +1,36 @@
+{
+  "slug": "jalapenos-authentic-mexican-food-st-george",
+  "name": "Jalapeños Authentic Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "386 N Bluff St STE A",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1148473,
+  "lng": -113.5953093,
+  "phone": "+14356348226",
+  "placeId": "ChIJ_4VLOMBEyoARgu2LEofZNLw",
+  "googleRating": 4.2,
+  "googleReviewCount": 1404,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e6361dc64e834be1a9c79",
+  "seededAt": "2026-01-19T17:01:21Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "gurl-next-door-bakery-scottsdale",
+  "name": "Gurl Next Door Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "4215 N Drinkwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4976058,
+  "lng": -111.9201661,
+  "phone": "+16024925413",
+  "website": "https://www.gurlnextdoorbakery.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=9888061119545767310",
+  "googleCid": "9888061119545767310",
+  "placeId": "ChIJF0hMQAULK4cRjnXg8zJzOYk",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "description": "Located in Scottsdale, Gurl Next Door Bakery is a bakery with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Takeout",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "5:00 PM - 8:00 PM",
+    "sat": "5:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 5:00 PM",
+    "mon": "Closed",
+    "tue": "5:00 PM - 8:00 PM",
+    "wed": "5:00 PM - 8:00 PM",
+    "thu": "5:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d23966dbe583241f489",
+  "seededAt": "2026-06-06T15:30:43Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

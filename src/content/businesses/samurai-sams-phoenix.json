@@ -1,0 +1,37 @@
+{
+  "slug": "samurai-sams-phoenix",
+  "name": "Samurai Sam's",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4801 E Washington St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4469766,
+  "lng": -111.9780287,
+  "phone": "+16022869311",
+  "website": "https://www.samuraisams.net/stores/5009",
+  "placeId": "ChIJbZynh3IEsocR__6_d5TKiEE",
+  "googleRating": 4.2,
+  "googleReviewCount": 249,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd82fa794b47acdb2d570",
+  "seededAt": "2026-07-09T17:19:43Z",
+  "updatedAt": "2026-07-09T17:21:29Z",
+  "source": "groundgame"
+}

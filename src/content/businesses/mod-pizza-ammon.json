@@ -1,0 +1,27 @@
+{
+  "slug": "mod-pizza-ammon",
+  "name": "MOD Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "2555 South 25th East",
+  "city": "Ammon",
+  "state": "ID",
+  "zip": "83406",
+  "lat": 43.4746916,
+  "lng": -111.9821422,
+  "website": "https://locations.modpizza.com/usa/id/ammon/2555-s-25th-e",
+  "placeId": "ChIJHZSwQlVfVFMRLSvARgLtH-8",
+  "googleRating": 4.5,
+  "googleReviewCount": 1241,
+  "priceRange": "$",
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69418722744ff86e377d26bb",
+  "seededAt": "2025-12-16T16:21:54Z",
+  "updatedAt": "2026-09-22T15:30:29Z",
+  "source": "groundgame"
+}

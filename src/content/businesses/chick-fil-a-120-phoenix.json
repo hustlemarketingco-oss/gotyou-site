@@ -1,0 +1,41 @@
+{
+  "slug": "chick-fil-a-120-phoenix",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "120 E Taylor St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4536187,
+  "lng": -112.07154469999999,
+  "phone": "+16024966715",
+  "website": "https://www.chick-fil-a.com/locations/az/arizona-state-university-downtown",
+  "placeId": "ChIJxabnoyISK4cR4KFwe-ihQnI",
+  "googleRating": 3.8,
+  "googleReviewCount": 650,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1b1940c3b88f3d0b4641",
+  "seededAt": "2026-06-12T14:43:37Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

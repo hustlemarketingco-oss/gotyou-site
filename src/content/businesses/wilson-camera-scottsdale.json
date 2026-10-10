@@ -1,0 +1,36 @@
+{
+  "slug": "wilson-camera-scottsdale",
+  "name": "Wilson Camera",
+  "category": "Shopping",
+  "googleCategory": "Electronics store",
+  "secondaryCategories": [
+    "Home goods store"
+  ],
+  "address": "4320 N Miller Rd #101",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4991997,
+  "lng": -111.9181823,
+  "phone": "+14809001185",
+  "website": "http://www.wilsoncamera.com/",
+  "placeId": "ChIJ6e-H7rkLK4cRE7K_KfL8eXk",
+  "googleRating": 4.5,
+  "googleReviewCount": 227,
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad9a45bfb5f6a4693186d",
+  "seededAt": "2026-06-23T19:08:20Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

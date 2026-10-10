@@ -1,0 +1,37 @@
+{
+  "slug": "brick-oven-pizzeria-glendale",
+  "name": "BRICK OVEN PIZZERIA",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "711 S Brand Blvd",
+  "city": "Glendale",
+  "state": "CA",
+  "zip": "91204",
+  "lat": 34.137884299999996,
+  "lng": -118.2552319,
+  "phone": "+18183374992",
+  "website": "https://brickovenpizzeria.twupro.com/",
+  "placeId": "ChIJqTowIv3AwoARUkUfPig54QY",
+  "googleRating": 4.8,
+  "googleReviewCount": 426,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "12:00 PM - 2:00 AM",
+    "sun": "12:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694210d449b28eac76dc37bb",
+  "seededAt": "2025-12-17T02:09:24Z",
+  "updatedAt": "2025-12-17T02:09:24Z",
+  "source": "groundgame"
+}

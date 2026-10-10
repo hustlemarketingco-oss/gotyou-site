@@ -1,0 +1,38 @@
+{
+  "slug": "urban-cookies-bakeshop-scottsdale",
+  "name": "Urban Cookies Bakeshop - Scottsdale",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "8776 E Shea Blvd Suite 108",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.582808,
+  "lng": -111.89266099999999,
+  "phone": "+14806045491",
+  "website": "https://www.urbancookies.com/",
+  "placeId": "ChIJI8hhhTp1K4cRRx-d-23RWYY",
+  "googleRating": 4.9,
+  "googleReviewCount": 117,
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765aacc422ba2a180f2a7",
+  "seededAt": "2026-06-09T01:00:26Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

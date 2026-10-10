@@ -1,0 +1,37 @@
+{
+  "slug": "otto-pizza-tempe",
+  "name": "Otto Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "804 S Ash Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4214404,
+  "lng": -111.9426005,
+  "phone": "+14809664292",
+  "website": "http://www.ottopizza.com/",
+  "placeId": "ChIJ6-UEF9cIK4cRPVhvlfNZLtc",
+  "googleRating": 4.7,
+  "googleReviewCount": 597,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "2:00 PM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63d2675c316e48d7cf8b",
+  "seededAt": "2026-06-12T19:53:54Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

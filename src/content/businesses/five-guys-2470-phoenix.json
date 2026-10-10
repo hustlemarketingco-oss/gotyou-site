@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-2470-phoenix",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "2470 W Happy Valley Rd Ste F101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7148264,
+  "lng": -112.1130493,
+  "phone": "+16232302831",
+  "website": "https://restaurants.fiveguys.com/2470-w-happy-valley-rd",
+  "placeId": "ChIJaX8pAxllK4cRR59gP6YYncE",
+  "googleRating": 3.6,
+  "googleReviewCount": 152,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c28c7ff8a247f419877",
+  "seededAt": "2026-06-16T17:47:20Z",
+  "updatedAt": "2026-06-16T17:47:21Z",
+  "source": "groundgame"
+}

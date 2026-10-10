@@ -1,0 +1,41 @@
+{
+  "slug": "the-brass-tap-gilbert",
+  "name": "The Brass Tap",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Gastropub",
+    "Pub",
+    "Bar and grill",
+    "American restaurant",
+    "Sports bar"
+  ],
+  "address": "2442 S Recker Rd #101",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3065925,
+  "lng": -111.7046013,
+  "phone": "+14806051904",
+  "website": "https://www.brasstapbeerbar.com/Verde",
+  "placeId": "ChIJ4Xe9UFGtK4cRCWoBb80EwUM",
+  "googleRating": 4.5,
+  "googleReviewCount": 704,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3991dfae9333cc60dc16fc",
+  "seededAt": "2026-06-22T19:49:51Z",
+  "updatedAt": "2026-06-22T19:49:52Z",
+  "source": "groundgame"
+}

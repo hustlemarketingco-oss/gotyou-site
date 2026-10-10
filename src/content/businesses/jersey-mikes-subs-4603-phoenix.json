@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-4603-phoenix",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Fast food restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "4603 E Cactus Rd Ste. 2A01",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.598678899999996,
+  "lng": -111.98406089999999,
+  "phone": "+16028675039",
+  "website": "https://www.jerseymikes.com/9017/phoenix-az",
+  "placeId": "ChIJSQhou6RzK4cRbR-fY6OsZRM",
+  "googleRating": 3.9,
+  "googleReviewCount": 398,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f9ad5158887c29b8f635",
+  "seededAt": "2026-07-12T20:31:41Z",
+  "updatedAt": "2026-07-12T20:31:42Z",
+  "source": "groundgame"
+}

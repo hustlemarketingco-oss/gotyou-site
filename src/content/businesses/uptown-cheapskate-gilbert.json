@@ -1,0 +1,39 @@
+{
+  "slug": "uptown-cheapskate-gilbert",
+  "name": "Uptown Cheapskate Gilbert",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Shoe store",
+    "Womens clothing store",
+    "Discount store",
+    "Clothing store"
+  ],
+  "address": "919 N Val Vista Dr suite 107 Suite 107",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3669741,
+  "lng": -111.75573689999999,
+  "phone": "+14804273270",
+  "website": "https://www.uptowncheapskate.com/location/gilbert/",
+  "placeId": "ChIJ83a73qKvK4cRjHs_CwCTViY",
+  "googleRating": 4.7,
+  "googleReviewCount": 801,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397f87b532d08e653ed138",
+  "seededAt": "2026-06-22T18:31:35Z",
+  "updatedAt": "2026-06-22T18:31:36Z",
+  "source": "groundgame"
+}

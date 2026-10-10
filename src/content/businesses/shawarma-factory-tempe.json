@@ -1,0 +1,36 @@
+{
+  "slug": "shawarma-factory-tempe",
+  "name": "Shawarma Factory",
+  "category": "Restaurant",
+  "googleCategory": "Shawarma restaurant",
+  "secondaryCategories": [
+    "Middle eastern restaurant"
+  ],
+  "address": "521 S College Ave Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424568,
+  "lng": -111.9348156,
+  "phone": "+16502811212",
+  "website": "https://www.shawarmafactorytempe.com/",
+  "placeId": "ChIJ0bnSkvcJK4cRjRcg-S0mvMA",
+  "googleRating": 4.2,
+  "googleReviewCount": 555,
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "6:00 PM - 4:00 AM",
+    "sat": "6:00 PM - 4:00 AM",
+    "sun": "6:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34380194b8afe10010b7bf",
+  "seededAt": "2026-06-18T18:25:05Z",
+  "updatedAt": "2026-08-11T19:57:34Z",
+  "source": "groundgame"
+}

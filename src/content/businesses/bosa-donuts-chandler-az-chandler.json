@@ -1,0 +1,41 @@
+{
+  "slug": "bosa-donuts-chandler-az-chandler",
+  "name": "BoSa Donuts Chandler Az",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Coffee shop",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "655 N Arizona Ave",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85225",
+  "lat": 33.3142552,
+  "lng": -111.8410138,
+  "phone": "+14808997134",
+  "website": "http://bosadonutsaz.com/locations/",
+  "placeId": "ChIJV5fPKvepK4cR5IqoqyDxv7U",
+  "googleRating": 4.4,
+  "googleReviewCount": 899,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "5:00 AM - 10:00 PM",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec7edbbf026c8aee3af6",
+  "seededAt": "2026-06-17T18:50:38Z",
+  "updatedAt": "2026-06-17T18:50:38Z",
+  "source": "groundgame"
+}

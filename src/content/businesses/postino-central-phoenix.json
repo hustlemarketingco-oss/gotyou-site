@@ -1,0 +1,41 @@
+{
+  "slug": "postino-central-phoenix",
+  "name": "Postino Central",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "5144 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85012",
+  "lat": 33.5126361,
+  "lng": -112.0740766,
+  "phone": "+16022745144",
+  "website": "https://www.postino.com/locations/postino-central",
+  "placeId": "ChIJaeXT08ASK4cRkCGpGgzYpu8",
+  "googleRating": 4.7,
+  "googleReviewCount": 2845,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a00653bf590b985535769",
+  "seededAt": "2026-06-23T03:41:25Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-avondale",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "10135 W McDowell Rd",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4641504,
+  "lng": -112.27840119999999,
+  "phone": "+16239361852",
+  "website": "https://restaurants.elpolloloco.com/az/avondale/10135-w-mcdowell-rd",
+  "placeId": "ChIJsZrMCaQ_K4cRtGs0etKFgZg",
+  "googleRating": 4,
+  "googleReviewCount": 1339,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3dd5a0cdfc45dece64a664",
+  "seededAt": "2026-06-26T01:28:00Z",
+  "updatedAt": "2026-06-26T01:28:01Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "barrio-queen-queen-creek",
+  "name": "Barrio Queen",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "21156 Ellsworth Lp Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.256397,
+  "lng": -111.6410001,
+  "phone": "+14808257931",
+  "website": "https://www.barrioqueen.com/",
+  "placeId": "ChIJoeNwzfhNKocR12Uf8pSQ9K0",
+  "googleRating": 4,
+  "googleReviewCount": 1745,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3456ea0080c0e63618a00f",
+  "seededAt": "2026-06-18T20:36:58Z",
+  "updatedAt": "2026-06-18T20:36:59Z",
+  "source": "groundgame"
+}

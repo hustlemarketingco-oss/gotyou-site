@@ -1,0 +1,43 @@
+{
+  "slug": "iceberg-drive-inn-st-george",
+  "name": "Iceberg Drive Inn (St George)",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Dessert restaurant",
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "222 UT-34",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.109473,
+  "lng": -113.5785971,
+  "phone": "+14356563625",
+  "website": "http://www.icebergdriveinn.com/",
+  "placeId": "ChIJI828481EyoAR3I6wSvjISeE",
+  "googleRating": 4.2,
+  "googleReviewCount": 3020,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 11:00 PM",
+    "tue": "10:30 AM - 11:00 PM",
+    "wed": "10:30 AM - 11:00 PM",
+    "thu": "10:30 AM - 11:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "10:30 AM - 12:00 AM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f859ccd1bc5b00abed0d",
+  "seededAt": "2025-12-17T18:37:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "mamas-pizza-house-phoenix",
+  "name": "Mama’s Pizza House",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "326 N 48th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4519692,
+  "lng": -111.9788887,
+  "phone": "+16025295673",
+  "website": "https://mamaspizzahouseaz.com/",
+  "placeId": "ChIJYYJaOf0PK4cRbr-GIL_SQpE",
+  "googleRating": 4.7,
+  "googleReviewCount": 340,
+  "amenities": [
+    "Credit card",
+    "Apple Pay",
+    "Cash",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63db1ce3cd05405ab664",
+  "seededAt": "2026-06-12T19:54:03Z",
+  "updatedAt": "2026-07-29T21:05:27Z",
+  "source": "groundgame"
+}

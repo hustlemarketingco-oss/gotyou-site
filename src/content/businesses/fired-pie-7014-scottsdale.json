@@ -1,0 +1,48 @@
+{
+  "slug": "fired-pie-7014-scottsdale",
+  "name": "Fired Pie",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Salad shop",
+    "Family restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "7014 E Camelback Rd #577",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5036315,
+  "lng": -111.9296261,
+  "phone": "+14808744203",
+  "website": "https://firedpie.com/store/fashion-square-scottsdale/",
+  "placeId": "ChIJv2BBE5gLK4cRjJwKXdGm-5A",
+  "googleRating": 3.1,
+  "googleReviewCount": 145,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34389e46e280f6c6d81eab",
+  "seededAt": "2026-06-18T18:27:42Z",
+  "updatedAt": "2026-06-18T18:30:53Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "cien-european-avondale",
+  "name": "Cien European",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Auto parts store",
+    "Car repair"
+  ],
+  "address": "730 E Western Ave",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85323",
+  "lat": 33.435601999999996,
+  "lng": -112.34124,
+  "phone": "+16239322450",
+  "website": "https://cieneuropean.com/",
+  "placeId": "ChIJYUbKxCk5K4cRTfPGSbKV2fA",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275638bf24411f21dc4316",
+  "seededAt": "2026-06-08T23:54:32Z",
+  "updatedAt": "2026-06-08T23:54:32Z",
+  "source": "groundgame"
+}

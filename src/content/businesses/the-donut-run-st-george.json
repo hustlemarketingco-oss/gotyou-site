@@ -1,0 +1,38 @@
+{
+  "slug": "the-donut-run-st-george",
+  "name": "The Donut Run",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Food store"
+  ],
+  "address": "922 E Brigham Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0531106,
+  "lng": -113.5648293,
+  "phone": "+14356289290",
+  "website": "https://thedonutrunutah.com/",
+  "placeId": "ChIJVxQNX3xRyoARr5s-s_SYUuk",
+  "googleRating": 4.4,
+  "googleReviewCount": 129,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 2:30 PM",
+    "tue": "5:00 AM - 2:30 PM",
+    "wed": "5:00 AM - 2:30 PM",
+    "thu": "5:00 AM - 2:30 PM",
+    "fri": "5:00 AM - 2:00 PM",
+    "sat": "5:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c0bd11a44ccd731caf1",
+  "seededAt": "2025-12-16T15:34:35Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

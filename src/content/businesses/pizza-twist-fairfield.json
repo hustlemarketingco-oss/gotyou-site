@@ -1,0 +1,37 @@
+{
+  "slug": "pizza-twist-fairfield",
+  "name": "Pizza Twist",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "735 Texas St B",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.24903,
+  "lng": -122.042755,
+  "phone": "+17073660006",
+  "website": "https://www.pizzatwist.com/locations/best-pizza-in-fairfield-ca",
+  "placeId": "ChIJkyXY8xcVhYARBdQGY878rPg",
+  "googleRating": 4.2,
+  "googleReviewCount": 185,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee787c27a504737ab2",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

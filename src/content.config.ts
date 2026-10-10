@@ -46,7 +46,9 @@ const businesses = defineCollection({
     ownerPhotoUrl: z.string().optional(), // photo supplied by the merchant after claiming; preferred over photoUrl // e.g. "Wheelchair accessible entrance", "Dine-in"
     timezone: z.string().optional(), // IANA, e.g. "America/Denver" — used for the "Open now" badge
     temporarilyClosed: z.boolean().default(false),
-    source: z.string().optional(), // "gmaps-scraper" when written by directory-pipeline/export_gotyou.py
+    source: z.string().optional(), // "gmaps-scraper" (directory-pipeline/export_gotyou.py) or "groundgame" (import_groundgame.py)
+    groundgameId: z.string().optional(), // Ground Game CRM location id, for re-imports
+    sameAs: z.array(z.string().url()).default([]), // the business's own social profiles (Facebook, Instagram...)
 
     // Enriched content (written by enrich-content.js)
     description: z.string().optional(), // 2-3 sentence Claude-generated description

@@ -1,0 +1,41 @@
+{
+  "slug": "north-italia-santa-monica",
+  "name": "North Italia",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Pizza restaurant",
+    "Wine bar",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "1442 2nd St",
+  "city": "Santa Monica",
+  "state": "CA",
+  "zip": "90401",
+  "lat": 34.0138739,
+  "lng": -118.4962475,
+  "phone": "+13103822460",
+  "website": "https://www.northitalia.com/locations/santa-monica-ca/",
+  "placeId": "ChIJY0jNONCkwoARLbq-Ham51QM",
+  "googleRating": 4.4,
+  "googleReviewCount": 2201,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698ba50da12a2bc8172c1ff7",
+  "seededAt": "2026-02-10T21:37:17Z",
+  "updatedAt": "2026-02-10T21:38:45Z",
+  "source": "groundgame"
+}

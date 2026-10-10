@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-3923-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "3923 E Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4800547,
+  "lng": -111.9977875,
+  "phone": "+16023062300",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/541",
+  "placeId": "ChIJhyLiiUoMK4cRBe9XBiSK1dY",
+  "googleRating": 3.5,
+  "googleReviewCount": 1114,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:30 AM - 11:30 PM",
+    "tue": "8:30 AM - 11:30 PM",
+    "wed": "8:30 AM - 11:30 PM",
+    "thu": "8:30 AM - 11:30 PM",
+    "fri": "8:30 AM - 11:30 PM",
+    "sat": "8:30 AM - 11:30 PM",
+    "sun": "8:30 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997913d8e28b0b1c03164",
+  "seededAt": "2026-06-10T16:57:53Z",
+  "updatedAt": "2026-06-12T22:08:05Z",
+  "source": "groundgame"
+}

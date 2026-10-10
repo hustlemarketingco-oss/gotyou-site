@@ -1,0 +1,32 @@
+{
+  "slug": "sw-herb-shop-mesa",
+  "name": "SW Herb Shop",
+  "category": "Shopping",
+  "address": "148 N Center St Room A",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4187425,
+  "lng": -111.83201919999999,
+  "phone": "+14806949931",
+  "website": "http://www.swherb.com/",
+  "placeId": "ChIJt_VDPcKnK4cRK3aur9xXnGk",
+  "googleRating": 4.8,
+  "googleReviewCount": 212,
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 5:00 PM",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c3259acaa10535c4fce56",
+  "seededAt": "2026-06-12T16:22:49Z",
+  "updatedAt": "2026-06-12T16:22:49Z",
+  "source": "groundgame"
+}

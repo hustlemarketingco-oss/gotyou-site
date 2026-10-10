@@ -1,0 +1,42 @@
+{
+  "slug": "los-chilangos-az-gilbert",
+  "name": "Los Chilangos AZ",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "326 N Elm St",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.355879,
+  "lng": -111.7886692,
+  "phone": "+16027026180",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7965531862245219864",
+  "googleCid": "7965531862245219864",
+  "placeId": "ChIJv4diMHipK4cRGJ4uiAZBi24",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "priceRange": "$10–20",
+  "amenities": [
+    "Curbside pickup",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Quick bite"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26442d65b0c64bb4976757",
+  "seededAt": "2026-06-08T04:25:17Z",
+  "updatedAt": "2026-06-08T04:28:31Z",
+  "source": "groundgame"
+}

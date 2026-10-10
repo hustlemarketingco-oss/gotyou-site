@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-glendale-az-arrowhead-glendale",
+  "name": "HOTWORX - Glendale, AZ - Arrowhead",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Sauna",
+    "Public bath",
+    "Fitness center",
+    "Gym",
+    "Spa",
+    "Sports activity location"
+  ],
+  "address": "20249 N 67th Ave Ste A-2",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6716534,
+  "lng": -112.20251689999999,
+  "phone": "+16232656302",
+  "website": "https://www.hotworx.net/studio/glendale-arrowhead",
+  "placeId": "ChIJo8hlMHFpK4cREBOzDZczfbc",
+  "googleRating": 5,
+  "googleReviewCount": 23,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc2d5b162ef7429a3f3f",
+  "seededAt": "2026-10-07T21:39:57Z",
+  "updatedAt": "2026-10-07T21:39:57Z",
+  "source": "groundgame"
+}

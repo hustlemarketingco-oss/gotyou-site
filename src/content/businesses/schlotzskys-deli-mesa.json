@@ -1,0 +1,37 @@
+{
+  "slug": "schlotzskys-deli-mesa",
+  "name": "Schlotzsky's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "408 W Juanita Ave",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85210",
+  "lat": 33.3827463,
+  "lng": -111.84063379999999,
+  "phone": "+14808336540",
+  "website": "https://locations.schlotzskys.com/az/mesa/408-w-juanita-ave",
+  "placeId": "ChIJ0ZPdXRaoK4cRLXBV_vuUPtQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 1357,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4961e686c4358f6fb67276",
+  "seededAt": "2026-07-04T19:41:26Z",
+  "updatedAt": "2026-07-04T19:41:26Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "america-market-place-scottsdale",
+  "name": "America Market Place",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican grocery store",
+  "secondaryCategories": [
+    "Deli"
+  ],
+  "address": "6802 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.480651,
+  "lng": -111.9345116,
+  "phone": "+14809411344",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11872287257705374725",
+  "googleCid": "11872287257705374725",
+  "placeId": "ChIJWy0kVe8LK4cRBeTs2lvWwqQ",
+  "googleRating": 4,
+  "googleReviewCount": 206,
+  "description": "Located in Scottsdale, America Market Place is a mexican grocery store & deli with food.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:30 AM - 7:45 PM",
+    "sat": "8:30 AM - 7:45 PM",
+    "sun": "8:30 AM - 7:45 PM",
+    "mon": "8:30 AM - 7:45 PM",
+    "tue": "8:30 AM - 7:45 PM",
+    "wed": "8:30 AM - 7:45 PM",
+    "thu": "8:30 AM - 7:45 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244000902c9434b39c7914",
+  "seededAt": "2026-06-06T15:42:56Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

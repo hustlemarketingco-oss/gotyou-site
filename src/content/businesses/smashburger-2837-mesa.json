@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-2837-mesa",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "2837 N Power Rd Suite 102",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85215",
+  "lat": 33.467534199999996,
+  "lng": -111.6827091,
+  "phone": "+14802689930",
+  "website": "https://smashburger.com/locations/us/az/mesa/2837-n-power-rd",
+  "placeId": "ChIJWTS4HSSlK4cRDdZXsornuU8",
+  "googleRating": 4,
+  "googleReviewCount": 1005,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cbacd66cb254c2bde04",
+  "seededAt": "2026-06-19T17:30:34Z",
+  "updatedAt": "2026-06-19T17:30:34Z",
+  "source": "groundgame"
+}

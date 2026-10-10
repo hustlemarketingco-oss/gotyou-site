@@ -1,0 +1,37 @@
+{
+  "slug": "dimaggios-italian-restaurant-scottsdale",
+  "name": "DiMaggio's Italian Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Italian restaurant"
+  ],
+  "address": "7300 N Vía Paseo Del Sur Building B",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5433385,
+  "lng": -111.90703699999999,
+  "phone": "+16029269794",
+  "website": "https://www.dimaggiosrestaurant.com/",
+  "placeId": "ChIJD-N2G_oLK4cRKaL_z_Li_dk",
+  "googleRating": 4.6,
+  "googleReviewCount": 275,
+  "hours": {
+    "mon": "Closed",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276630b0dfb469839b1351",
+  "seededAt": "2026-06-09T01:02:40Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

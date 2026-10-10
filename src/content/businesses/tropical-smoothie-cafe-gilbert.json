@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-gilbert",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "891 E Baseline Rd Suite 106",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.378416,
+  "lng": -111.81181799999999,
+  "phone": "+14805456677",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/gilbert/891-east-baseline-road?y_source=1_MTA5MDM2OTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJfTAX41ioK4cR8tHtplejr_0",
+  "googleRating": 3.7,
+  "googleReviewCount": 526,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "8:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27547b0ac41cd9641eec86",
+  "seededAt": "2026-06-08T23:47:07Z",
+  "updatedAt": "2026-06-08T23:47:07Z",
+  "source": "groundgame"
+}

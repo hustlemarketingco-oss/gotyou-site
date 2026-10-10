@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-glendale",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "19420 N 59th Ave Ste E515",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6623121,
+  "lng": -112.18799369999999,
+  "phone": "+16238474050",
+  "website": "https://elementsmassage.com/glendale",
+  "placeId": "ChIJRZLbhYloK4cRxHoekqh3QAI",
+  "googleRating": 4.5,
+  "googleReviewCount": 444,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a83ad4965f5a8c45114",
+  "seededAt": "2026-06-22T18:10:11Z",
+  "updatedAt": "2026-06-22T18:10:11Z",
+  "source": "groundgame"
+}

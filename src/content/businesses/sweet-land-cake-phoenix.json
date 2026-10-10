@@ -1,0 +1,52 @@
+{
+  "slug": "sweet-land-cake-phoenix",
+  "name": "Sweet Land Cake",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Coffee shop"
+  ],
+  "address": "4747 E Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4798141,
+  "lng": -111.978757,
+  "phone": "+16026014222",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4305947253461522557",
+  "googleCid": "4305947253461522557",
+  "placeId": "ChIJzY-7Vj4MK4cRfZgkkDbMwTs",
+  "googleRating": 4.7,
+  "googleReviewCount": 334,
+  "priceRange": "$10–20",
+  "description": "Located in Phoenix, Sweet Land Cake is a bakery & coffee shop with coffee, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 3:00 PM",
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2444112dca9839df9775e0",
+  "seededAt": "2026-06-06T16:00:17Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

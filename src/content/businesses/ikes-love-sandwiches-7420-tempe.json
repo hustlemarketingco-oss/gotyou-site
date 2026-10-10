@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-7420-tempe",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "7420 S Rural Rd Ste B1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.35039460000001,
+  "lng": -111.92888699999999,
+  "phone": "+14806106750",
+  "website": "https://locations.ikessandwich.com/az/tempe/606/",
+  "placeId": "ChIJackkigKoK4cRDHElrVq_XI8",
+  "googleRating": 4.2,
+  "googleReviewCount": 735,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a8de7eb7d54598535e0",
+  "seededAt": "2026-06-16T18:48:45Z",
+  "updatedAt": "2026-06-16T18:48:45Z",
+  "source": "groundgame"
+}

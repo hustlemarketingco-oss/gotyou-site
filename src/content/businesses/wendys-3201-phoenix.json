@@ -1,0 +1,38 @@
+{
+  "slug": "wendys-3201-phoenix",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "American restaurant"
+  ],
+  "address": "3201 E Wood St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.4084892,
+  "lng": -112.01209870000001,
+  "phone": "+16026124703",
+  "website": "https://locations.wendys.com/united-states/az/phoenix/3201-e-wood-st",
+  "placeId": "ChIJG6BQ2yIPK4cREGhgYLoWNcE",
+  "googleRating": 3.8,
+  "googleReviewCount": 758,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:30 AM - 12:00 AM",
+    "tue": "5:30 AM - 12:00 AM",
+    "wed": "5:30 AM - 12:00 AM",
+    "thu": "5:30 AM - 12:00 AM",
+    "fri": "5:30 AM - 12:00 AM",
+    "sat": "5:30 AM - 12:00 AM",
+    "sun": "5:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dceedc0080dee1760d8",
+  "seededAt": "2026-06-12T14:55:10Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

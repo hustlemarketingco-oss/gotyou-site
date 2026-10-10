@@ -1,0 +1,36 @@
+{
+  "slug": "ciao-down-pizza-studio-tucson",
+  "name": "Ciao Down Pizza Studio",
+  "category": "Fast Food",
+  "googleCategory": "Meal takeaway",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "3230 N Dodge Blvd Ste E",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85716",
+  "lat": 32.265823,
+  "lng": -110.91371099999999,
+  "website": "https://www.ciaodownpizza.com/",
+  "placeId": "ChIJAdv0aRsJ1oYR6NKnP7iSQl8",
+  "googleRating": 4.5,
+  "googleReviewCount": 256,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "3:00 PM - 9:00 PM",
+    "tue": "3:00 PM - 9:00 PM",
+    "wed": "3:00 PM - 9:00 PM",
+    "thu": "3:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357bdbd57a26f745d3324e",
+  "seededAt": "2026-06-19T17:26:51Z",
+  "updatedAt": "2026-06-19T17:26:52Z",
+  "source": "groundgame"
+}

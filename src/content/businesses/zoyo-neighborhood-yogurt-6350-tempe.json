@@ -1,0 +1,38 @@
+{
+  "slug": "zoyo-neighborhood-yogurt-6350-tempe",
+  "name": "Zoyo Neighborhood Yogurt",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "6350 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3642111,
+  "lng": -111.911965,
+  "phone": "+14808389017",
+  "website": "https://www.zoyogurt.com/",
+  "placeId": "ChIJ9wGFc0kGK4cRaP3ODjNoHUY",
+  "googleRating": 4.4,
+  "googleReviewCount": 518,
+  "priceRange": "$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c2613a394736b96a4b1d0",
+  "seededAt": "2026-06-12T15:30:27Z",
+  "updatedAt": "2026-06-12T15:30:27Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "peace-cream-coffee-and-ice-cream-phoenix",
+  "name": "Peace Cream - Coffee and Ice Cream",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Cafe",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "15414 N 19th Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85023",
+  "lat": 33.6268993,
+  "lng": -112.1002369,
+  "phone": "+16023544661",
+  "website": "https://www.peacecreamaz.com/",
+  "placeId": "ChIJv_Db2IVvK4cRGW2wYmvUsNs",
+  "googleRating": 4.9,
+  "googleReviewCount": 747,
+  "priceRange": "$",
+  "hours": {
+    "mon": "1:00 PM - 9:30 PM",
+    "tue": "1:00 PM - 9:30 PM",
+    "wed": "1:00 PM - 9:30 PM",
+    "thu": "1:00 PM - 9:30 PM",
+    "fri": "1:00 PM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb4e1e3eb89e7c2c46bf",
+  "seededAt": "2026-06-07T01:37:18Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rosatis-pizza-2040-chandler",
+  "name": "Rosati's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "2040 S Alma School Rd 11 Ste 11",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85286",
+  "lat": 33.274753499999996,
+  "lng": -111.85980219999999,
+  "phone": "+14808992255",
+  "website": "https://www.rosatispizza.com/location/ocotillo-az/",
+  "placeId": "ChIJT9b0eYEAK4cREdYrBaRGSXU",
+  "googleRating": 4.2,
+  "googleReviewCount": 1049,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a41e1657c8ffd8922df202a",
+  "seededAt": "2026-06-29T03:07:17Z",
+  "updatedAt": "2026-06-29T03:07:18Z",
+  "source": "groundgame"
+}

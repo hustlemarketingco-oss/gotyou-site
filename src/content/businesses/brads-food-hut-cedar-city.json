@@ -1,0 +1,40 @@
+{
+  "slug": "brads-food-hut-cedar-city",
+  "name": "Brad's Food Hut",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "546 N Main St",
+  "city": "Cedar City",
+  "state": "UT",
+  "zip": "84721",
+  "lat": 37.6869964,
+  "lng": -113.06156159999999,
+  "phone": "+14355866358",
+  "website": "https://bradsfoodhut.shop/",
+  "placeId": "ChIJkcX3EaZhtYARioo96jGPcIE",
+  "googleRating": 4.4,
+  "googleReviewCount": 1230,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f00ac0680e05c2c482",
+  "seededAt": "2025-12-17T18:39:44Z",
+  "updatedAt": "2025-12-17T18:39:44Z",
+  "source": "groundgame"
+}

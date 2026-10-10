@@ -1,0 +1,37 @@
+{
+  "slug": "mesquite-fresh-street-mex-phoenix",
+  "name": "Mesquite Fresh Street Mex",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4002 E Washington St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4484488,
+  "lng": -111.9949778,
+  "phone": "+16022310800",
+  "website": "https://eatmesquite.com/",
+  "placeId": "ChIJgxIxGIYOK4cRo4cF1SN2uRA",
+  "googleRating": 4.2,
+  "googleReviewCount": 3208,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9e4d55804e3d913066f",
+  "seededAt": "2026-06-17T17:31:16Z",
+  "updatedAt": "2026-06-17T17:31:16Z",
+  "source": "groundgame"
+}

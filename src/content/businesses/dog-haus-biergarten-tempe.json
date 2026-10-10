@@ -1,0 +1,39 @@
+{
+  "slug": "dog-haus-biergarten-tempe",
+  "name": "Dog Haus Biergarten",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog restaurant",
+    "Breakfast restaurant"
+  ],
+  "address": "430 N Scottsdale Rd #110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4341807,
+  "lng": -111.9271907,
+  "phone": "+14809121964",
+  "website": "https://tempe.doghaus.com/",
+  "placeId": "ChIJl1cNJ1AJK4cRma-LQ2z11Ic",
+  "googleRating": 4.3,
+  "googleReviewCount": 709,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 10:30 PM",
+    "tue": "7:00 AM - 10:30 PM",
+    "wed": "7:00 AM - 10:30 PM",
+    "thu": "7:00 AM - 10:30 PM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "7:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a457a2bca83f6dc1b137e1e",
+  "seededAt": "2026-07-01T20:35:55Z",
+  "updatedAt": "2026-09-14T22:32:21Z",
+  "source": "groundgame"
+}

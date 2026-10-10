@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-phoenix",
+  "name": "Elements Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "4325 E Indian School Rd Ste 105",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4941336,
+  "lng": -111.98882610000001,
+  "phone": "+14804459111",
+  "website": "https://elementsmassage.com/phoenix-arcadia",
+  "placeId": "ChIJmwRcglAMK4cRogqLL7PX6no",
+  "googleRating": 4.6,
+  "googleReviewCount": 305,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a6aa402aabdca134de9",
+  "seededAt": "2026-06-22T18:09:46Z",
+  "updatedAt": "2026-06-22T18:09:46Z",
+  "source": "groundgame"
+}

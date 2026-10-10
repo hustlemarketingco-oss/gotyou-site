@@ -1,0 +1,42 @@
+{
+  "slug": "luanas-coffee-and-beer-phoenix",
+  "name": "Luanas Coffee and Beer",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Meal takeaway",
+    "Bar",
+    "Sports club",
+    "Food store",
+    "Association or organization"
+  ],
+  "address": "1502 W Thomas Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.4807528,
+  "lng": -112.09174349999999,
+  "phone": "+16023145557",
+  "website": "https://www.luanascoffee.com/",
+  "placeId": "ChIJozh11lATK4cRrozkgITJSeM",
+  "googleRating": 4.7,
+  "googleReviewCount": 723,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 12:00 AM",
+    "sat": "8:00 AM - 12:00 AM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a552acead7cda479d395e36",
+  "seededAt": "2026-07-13T18:13:34Z",
+  "updatedAt": "2026-07-13T18:13:34Z",
+  "source": "groundgame"
+}

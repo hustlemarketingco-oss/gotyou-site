@@ -1,0 +1,41 @@
+{
+  "slug": "handels-homemade-ice-cream-north-scottsdale",
+  "name": "Handel's Homemade Ice Cream- North Scottsdale",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "15681 Hayden Rd Suite F113",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.628049499999996,
+  "lng": -111.8933745,
+  "phone": "+14809483489",
+  "website": "http://www.handelsicecream.com/northscottsdale",
+  "placeId": "ChIJFaIIwZp1K4cRNmOjh9B-H0M",
+  "googleRating": 4.5,
+  "googleReviewCount": 399,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765ea7b7947194adba770",
+  "seededAt": "2026-06-09T01:01:30Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

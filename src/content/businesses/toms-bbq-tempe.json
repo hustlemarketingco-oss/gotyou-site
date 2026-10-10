@@ -1,0 +1,45 @@
+{
+  "slug": "toms-bbq-tempe",
+  "name": "Tom's BBQ - Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "115 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3779077,
+  "lng": -111.93807989999999,
+  "phone": "+14808200728",
+  "website": "http://tomsbbq.com/",
+  "placeId": "ChIJLT7afBsGK4cRO_w2k4CZ27s",
+  "googleRating": 4.1,
+  "googleReviewCount": 1036,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1c86160a2edf83d622b5",
+  "seededAt": "2026-06-12T14:49:42Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

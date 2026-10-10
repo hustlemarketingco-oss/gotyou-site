@@ -1,0 +1,43 @@
+{
+  "slug": "lucky-strike-gilbert",
+  "name": "Lucky Strike Gilbert",
+  "category": "Fun & Activities",
+  "googleCategory": "Bowling alley",
+  "secondaryCategories": [
+    "Sports bar",
+    "Bar and grill",
+    "Sporting goods store",
+    "Bar",
+    "Video arcade",
+    "Sports complex",
+    "Event venue",
+    "Sports activity location"
+  ],
+  "address": "1160 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.328711999999996,
+  "lng": -111.7923225,
+  "phone": "+14808132695",
+  "website": "https://www.luckystrikeent.com/location/lucky-strike-gilbert",
+  "placeId": "ChIJAQAAALCpK4cRPHaNQI65CHs",
+  "googleRating": 4.2,
+  "googleReviewCount": 1903,
+  "hours": {
+    "mon": "12:00 PM - 11:00 PM",
+    "tue": "9:30 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "12:00 PM - 11:00 PM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d4fd8a1eb3f0ef86aa1c",
+  "seededAt": "2026-06-17T17:10:21Z",
+  "updatedAt": "2026-06-17T17:10:22Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "jersey-mikes-subs-4020-scottsdale",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Deli",
+    "Catering service",
+    "Meal takeaway",
+    "Fast food restaurant",
+    "Food delivery",
+    "Food store"
+  ],
+  "address": "4020 N Scottsdale Rd #102",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4943167,
+  "lng": -111.9264647,
+  "phone": "+14805977506",
+  "website": "https://www.jerseymikes.com/9004/scottsdale-az",
+  "placeId": "ChIJzf4r8Op0K4cRb6J21PX8rD8",
+  "googleRating": 3.9,
+  "googleReviewCount": 140,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275387550715f486f89e77",
+  "seededAt": "2026-06-08T23:43:03Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

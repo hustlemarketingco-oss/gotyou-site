@@ -1,0 +1,53 @@
+{
+  "slug": "wren-house-brewing-company-phoenix",
+  "name": "Wren House Brewing Company",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Brewpub",
+    "Pub",
+    "Bar",
+    "Manufacturer"
+  ],
+  "address": "2125 N 24th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4713059,
+  "lng": -112.0299461,
+  "phone": "+16022449184",
+  "website": "http://wrenhousebrewing.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6559399147665445927",
+  "googleCid": "6559399147665445927",
+  "placeId": "ChIJ_2fOguwNK4cRJ1SZiMWqB1s",
+  "googleRating": 4.8,
+  "googleReviewCount": 781,
+  "description": "Located in Phoenix, Wren House Brewing Company is a brewery & brewpub with alcohol & beer.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 9:00 PM",
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24410a875277f4bc132d09",
+  "seededAt": "2026-06-06T15:47:22Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

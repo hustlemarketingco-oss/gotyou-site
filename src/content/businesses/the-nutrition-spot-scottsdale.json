@@ -1,0 +1,50 @@
+{
+  "slug": "the-nutrition-spot-scottsdale",
+  "name": "The Nutrition Spot",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Health food store",
+    "Vitamin & supplements store"
+  ],
+  "address": "8989 E Vía Linda #113",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.56835,
+  "lng": -111.88844,
+  "phone": "+14803619124",
+  "website": "https://thenutritionspotscottsdale.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7301520501375173305",
+  "googleCid": "7301520501375173305",
+  "placeId": "ChIJg1ZQElN1K4cRuQKz_DU2VGU",
+  "googleRating": 4.8,
+  "googleReviewCount": 73,
+  "description": "Located in Scottsdale, The Nutrition Spot is a juice shop & health food store with takeout & delivery.",
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "9:00 AM - 1:00 PM",
+    "mon": "7:00 AM - 4:30 PM",
+    "tue": "7:00 AM - 4:30 PM",
+    "wed": "7:00 AM - 4:30 PM",
+    "thu": "7:00 AM - 4:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ba9d790225ce1b2877b",
+  "seededAt": "2026-06-06T15:24:25Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

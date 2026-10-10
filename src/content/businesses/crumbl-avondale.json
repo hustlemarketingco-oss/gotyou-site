@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-avondale",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "10120 W McDowell Rd #150",
+  "city": "Avondale",
+  "state": "AZ",
+  "zip": "85392",
+  "lat": 33.4650914,
+  "lng": -112.27773700000002,
+  "phone": "+14809370396",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/avondale",
+  "placeId": "ChIJgfdHRe8_K4cRPEGim_je6nI",
+  "googleRating": 4.8,
+  "googleReviewCount": 3361,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a676118bec578432272929e",
+  "seededAt": "2026-07-27T13:46:00Z",
+  "updatedAt": "2026-07-27T13:46:00Z",
+  "source": "groundgame"
+}

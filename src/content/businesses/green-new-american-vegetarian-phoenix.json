@@ -1,0 +1,38 @@
+{
+  "slug": "green-new-american-vegetarian-phoenix",
+  "name": "Green New American Vegetarian",
+  "category": "Restaurant",
+  "googleCategory": "Vegan restaurant",
+  "secondaryCategories": [
+    "Vegetarian restaurant",
+    "American restaurant"
+  ],
+  "address": "2022 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4701393,
+  "lng": -112.0654347,
+  "phone": "+16022581870",
+  "website": "http://greenvegetarian.com/",
+  "placeId": "ChIJdUjKcGwSK4cRatWWkGWVSDc",
+  "googleRating": 4.7,
+  "googleReviewCount": 2882,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ac48d17828d45c34f6c1c",
+  "seededAt": "2026-06-23T17:38:21Z",
+  "updatedAt": "2026-06-23T17:38:21Z",
+  "source": "groundgame"
+}

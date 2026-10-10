@@ -1,0 +1,46 @@
+{
+  "slug": "chicago-hamburger-co-phoenix",
+  "name": "Chicago Hamburger Co",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Fast food restaurant",
+    "Restaurant"
+  ],
+  "address": "3749 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "phone": "+16029554137",
+  "priceRange": "$10–20",
+  "description": "No-nonsense, family-friendly diner serving Windy City-style sandwiches, dogs & old-fashioned shakes.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://x.com/WindyCitySlider"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24527f282e9773f34d55ce",
+  "seededAt": "2026-06-06T17:01:51Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

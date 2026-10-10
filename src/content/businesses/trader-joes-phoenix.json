@@ -1,0 +1,44 @@
+{
+  "slug": "trader-joes-phoenix",
+  "name": "Trader Joe's",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Cheese shop",
+    "Health food store",
+    "Liquor store",
+    "Natural goods store",
+    "Organic food store",
+    "Produce market",
+    "Supermarket",
+    "Wine store"
+  ],
+  "address": "4726 E Shea Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85028",
+  "phone": "+16024857788",
+  "priceRange": "$$",
+  "description": "Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/traderjoes"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244319d9cce1f9e4c25976",
+  "seededAt": "2026-06-06T15:56:09Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

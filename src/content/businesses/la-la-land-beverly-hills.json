@@ -1,0 +1,36 @@
+{
+  "slug": "la-la-land-beverly-hills",
+  "name": "La La Land",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "341 N Canon Dr",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.069797,
+  "lng": -118.40057169999999,
+  "phone": "+14244384543",
+  "website": "https://lalalandkindcafe.com/pages/beverly-hills",
+  "placeId": "ChIJdYSE3tK9woARcPXVAWnzR84",
+  "googleRating": 4.5,
+  "googleReviewCount": 64,
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abfa238e1dc818d9687",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

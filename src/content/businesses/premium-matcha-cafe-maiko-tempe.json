@@ -1,0 +1,41 @@
+{
+  "slug": "premium-matcha-cafe-maiko-tempe",
+  "name": "Premium Matcha Cafe Maiko",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "920 E University Dr Ste 106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.422473499999995,
+  "lng": -111.92532059999999,
+  "phone": "+14802928466",
+  "website": "http://www.matchaaz.com/",
+  "placeId": "ChIJJc_ITi0JK4cRyYwmjOc6v10",
+  "googleRating": 4.5,
+  "googleReviewCount": 376,
+  "priceRange": "$",
+  "amenities": [
+    "Cash"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a304a206bbe46e9a3cef2fd",
+  "seededAt": "2026-06-15T18:53:20Z",
+  "updatedAt": "2026-07-27T20:53:46Z",
+  "source": "groundgame"
+}

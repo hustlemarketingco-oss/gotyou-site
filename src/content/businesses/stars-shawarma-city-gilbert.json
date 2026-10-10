@@ -1,0 +1,36 @@
+{
+  "slug": "stars-shawarma-city-gilbert",
+  "name": "Stars Shawarma City",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Halal restaurant"
+  ],
+  "address": "884 W Warner Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3359036,
+  "lng": -111.8089529,
+  "phone": "+14802844217",
+  "website": "https://starsshawarma.com/",
+  "placeId": "ChIJr1ChS5upK4cR8tBYP7Z_vsY",
+  "googleRating": 5,
+  "googleReviewCount": 67,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "2:00 PM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a343807883a04c6194fc9dc",
+  "seededAt": "2026-06-18T18:25:11Z",
+  "updatedAt": "2026-06-18T18:25:12Z",
+  "source": "groundgame"
+}

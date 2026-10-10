@@ -1,0 +1,37 @@
+{
+  "slug": "atl-wings-scottsdale",
+  "name": "ATL wings",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "3554 N Goldwater Blvd Ste D",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4892968,
+  "lng": -111.9281168,
+  "phone": "+14804047188",
+  "website": "http://atlwings.com/",
+  "placeId": "ChIJf6_t08ELK4cRROyxUrLCxYM",
+  "googleRating": 4.3,
+  "googleReviewCount": 432,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4143ebeaa7dd756d9b19dc",
+  "seededAt": "2026-06-28T15:55:23Z",
+  "updatedAt": "2026-06-30T18:00:51Z",
+  "source": "groundgame"
+}

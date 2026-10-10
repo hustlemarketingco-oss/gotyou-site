@@ -1,0 +1,39 @@
+{
+  "slug": "perfect-pear-bistro-tempe",
+  "name": "Perfect Pear Bistro",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "603 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4217,
+  "lng": -111.9476,
+  "phone": "+14809667327",
+  "website": "http://www.perfectpearbistro.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=431952592858488181",
+  "googleCid": "431952592858488181",
+  "placeId": "ChIJyWP3NtQIK4cRdZ0jOZia_gU",
+  "googleRating": 4.6,
+  "googleReviewCount": 2466,
+  "description": "Located in Tempe, Perfect Pear Bistro is a american restaurant & restaurant.",
+  "hours": {
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM",
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243770414b131277865666",
+  "seededAt": "2026-06-06T15:06:24Z",
+  "updatedAt": "2026-08-03T18:21:04Z",
+  "source": "groundgame"
+}

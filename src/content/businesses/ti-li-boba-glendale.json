@@ -1,0 +1,37 @@
+{
+  "slug": "ti-li-boba-glendale",
+  "name": "Ti-Li Boba",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "5814 W Olive Ave a101",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85302",
+  "lat": 33.5688775,
+  "lng": -112.1838693,
+  "phone": "+16238471455",
+  "website": "http://www.tilibobaaz.com/",
+  "placeId": "ChIJBU9u8XRrK4cRHn5GvITkzNo",
+  "googleRating": 4.6,
+  "googleReviewCount": 450,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb68ac7b796c9922edcc",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-06-07T14:24:24Z",
+  "source": "groundgame"
+}

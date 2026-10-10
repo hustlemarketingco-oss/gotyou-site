@@ -1,0 +1,39 @@
+{
+  "slug": "dog-haus-biergarten-phoenix",
+  "name": "Dog Haus Biergarten",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Hot dog restaurant",
+    "Breakfast restaurant"
+  ],
+  "address": "1 E Washington St #120",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4480155,
+  "lng": -112.07372529999999,
+  "phone": "+14802755161",
+  "website": "https://downtownphoenix.doghaus.com/",
+  "placeId": "ChIJN37AnPgTK4cRKOEDqgRExyA",
+  "googleRating": 4.3,
+  "googleReviewCount": 1233,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a457a2e296599793eabe2a6",
+  "seededAt": "2026-07-01T20:35:58Z",
+  "updatedAt": "2026-07-01T20:35:59Z",
+  "source": "groundgame"
+}

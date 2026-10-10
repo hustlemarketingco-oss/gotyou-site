@@ -1,0 +1,41 @@
+{
+  "slug": "five-guys-4803-phoenix",
+  "name": "Five Guys",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "4803 E Ray Rd #101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.3189992,
+  "lng": -111.9799915,
+  "phone": "+14807053265",
+  "website": "https://restaurants.fiveguys.com/4803-east-ray-road",
+  "placeId": "ChIJF3A370YEK4cRfaok_Tgc1mI",
+  "googleRating": 4.1,
+  "googleReviewCount": 799,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a318c13d3132a1557b8f4c4",
+  "seededAt": "2026-06-16T17:46:59Z",
+  "updatedAt": "2026-06-16T17:46:59Z",
+  "source": "groundgame"
+}

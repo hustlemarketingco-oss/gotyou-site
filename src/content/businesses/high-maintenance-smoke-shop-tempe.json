@@ -1,0 +1,62 @@
+{
+  "slug": "high-maintenance-smoke-shop-tempe",
+  "name": "HIGH Maintenance Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Tobacco shop",
+  "secondaryCategories": [
+    "Cigar shop",
+    "Clothing store",
+    "Convenience store",
+    "Glass blower",
+    "Herb shop",
+    "Hookah store",
+    "Pipe supplier",
+    "Snack bar"
+  ],
+  "address": "411 S Mill Ave #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4261439,
+  "lng": -111.9397083,
+  "phone": "+14809677017",
+  "website": "http://www.hmsmokeshop.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11680210273951879761",
+  "googleCid": "11680210273951879761",
+  "placeId": "ChIJB6o4_dcIK4cRURLFGFxxGKI",
+  "googleRating": 4.5,
+  "googleReviewCount": 302,
+  "description": "Funky, colorful shop with a large selection of glass/wood pipes, hookahs, vaporizers & clothes.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking garage",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/highinarizona"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 3:00 AM",
+    "sat": "8:00 AM - 3:00 AM",
+    "sun": "10:00 AM - 1:00 AM",
+    "mon": "8:00 AM - 1:00 AM",
+    "tue": "8:00 AM - 1:00 AM",
+    "wed": "8:00 AM - 1:00 AM",
+    "thu": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24392ef956b054c123e5a2",
+  "seededAt": "2026-06-06T15:13:50Z",
+  "updatedAt": "2026-06-06T15:13:50Z",
+  "source": "groundgame"
+}

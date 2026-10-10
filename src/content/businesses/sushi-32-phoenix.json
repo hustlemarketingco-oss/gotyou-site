@@ -1,0 +1,37 @@
+{
+  "slug": "sushi-32-phoenix",
+  "name": "Sushi 32",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Ramen restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "3146 E Camelback Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85016",
+  "lat": 33.511255999999996,
+  "lng": -112.0140756,
+  "phone": "+16027874432",
+  "website": "https://www.sushi32.com/",
+  "placeId": "ChIJAeJ1ScINK4cRcuxmnh11M28",
+  "googleRating": 4.7,
+  "googleReviewCount": 657,
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738c730f72c2ee438eaa7",
+  "seededAt": "2026-06-08T21:48:55Z",
+  "updatedAt": "2026-06-08T21:48:56Z",
+  "source": "groundgame"
+}

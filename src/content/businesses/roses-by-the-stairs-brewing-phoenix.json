@@ -1,0 +1,55 @@
+{
+  "slug": "roses-by-the-stairs-brewing-phoenix",
+  "name": "Roses by the Stairs Brewing",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "Manufacturer"
+  ],
+  "address": "509 W McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85003",
+  "lat": 33.4654822,
+  "lng": -112.081169,
+  "phone": "+16026806582",
+  "website": "https://www.rosesbythestairsbrewing.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=18004717642764931855",
+  "googleCid": "18004717642764931855",
+  "placeId": "ChIJFYZRHqoTK4cRD1M2kk2b3fk",
+  "googleRating": 4.7,
+  "googleReviewCount": 174,
+  "description": "Located in Phoenix, Roses by the Stairs Brewing is a brewery with alcohol & beer. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/dtphxrun"
+  ],
+  "hours": {
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 8:00 PM",
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a244122edd9884725c0a872",
+  "seededAt": "2026-06-06T15:47:46Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

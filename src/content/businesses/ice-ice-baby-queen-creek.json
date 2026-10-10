@@ -1,0 +1,48 @@
+{
+  "slug": "ice-ice-baby-queen-creek",
+  "name": "Ice Ice Baby",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Mobile caterer"
+  ],
+  "address": "25723 S Hawes Rd",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2144734,
+  "lng": -111.6508946,
+  "phone": "+14802620582",
+  "website": "http://iceicebabyaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1851666880189014378",
+  "googleCid": "1851666880189014378",
+  "placeId": "ChIJ4-BrgvqpK4cRaqEFjDdxshk",
+  "googleRating": 4.6,
+  "googleReviewCount": 11,
+  "description": "Located in Queen Creek, Ice Ice Baby is a dessert shop & ice cream shop with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM",
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24439486ed9385d875bda2",
+  "seededAt": "2026-06-06T15:58:12Z",
+  "updatedAt": "2026-06-06T15:58:12Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "uptown-cheapskate-peoria",
+  "name": "Uptown Cheapskate Peoria",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Discount store",
+    "Clothing store"
+  ],
+  "address": "8402 W Thunderbird Rd Ste 101",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85381",
+  "lat": 33.6114209,
+  "lng": -112.23971999999999,
+  "phone": "+16234280171",
+  "website": "https://uptowncheapskate.com/location/peoria",
+  "placeId": "ChIJmXYqAXZCK4cRZG5nOHFNdUc",
+  "googleRating": 4.6,
+  "googleReviewCount": 1053,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397f8d64bb597f0e3e661e",
+  "seededAt": "2026-06-22T18:31:41Z",
+  "updatedAt": "2026-06-22T18:31:42Z",
+  "source": "groundgame"
+}

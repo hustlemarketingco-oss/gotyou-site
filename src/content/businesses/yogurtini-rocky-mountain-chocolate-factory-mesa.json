@@ -1,0 +1,41 @@
+{
+  "slug": "yogurtini-rocky-mountain-chocolate-factory-mesa",
+  "name": "Yogurtini - Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Ice cream shop",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1239 S Higley Rd #101",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85206",
+  "lat": 33.392163599999996,
+  "lng": -111.7185993,
+  "phone": "+14808301299",
+  "website": "https://www.yogurtinirmcfmesa.com/",
+  "placeId": "ChIJE7lzvAevK4cRF4CNKdt3XHw",
+  "googleRating": 4.5,
+  "googleReviewCount": 186,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a345135631f588fc202968e",
+  "seededAt": "2026-06-18T20:12:37Z",
+  "updatedAt": "2026-06-18T20:12:38Z",
+  "source": "groundgame"
+}

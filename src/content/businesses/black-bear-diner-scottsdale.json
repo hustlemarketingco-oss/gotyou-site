@@ -1,0 +1,43 @@
+{
+  "slug": "black-bear-diner-scottsdale",
+  "name": "Black Bear Diner Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Diner",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Breakfast restaurant",
+    "Food delivery",
+    "American restaurant",
+    "Meal takeaway"
+  ],
+  "address": "17030 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.640467699999995,
+  "lng": -111.9257729,
+  "phone": "+14809273773",
+  "website": "https://blackbeardiner.com/location/scottsdale/",
+  "placeId": "ChIJGSwJXiB0K4cRgbXgNDsHWkM",
+  "googleRating": 4.5,
+  "googleReviewCount": 1770,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "6:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276616d21b75e5edf695f1",
+  "seededAt": "2026-06-09T01:02:14Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

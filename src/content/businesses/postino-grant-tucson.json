@@ -1,0 +1,41 @@
+{
+  "slug": "postino-grant-tucson",
+  "name": "Postino Grant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "2500 E Grant Rd Ste 112",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85716",
+  "lat": 32.2500917,
+  "lng": -110.93489339999999,
+  "phone": "+15203420098",
+  "website": "https://www.postino.com/locations/postino-grant",
+  "placeId": "ChIJxRIy9Ndx1oYRxI5GdRYukAQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 1225,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a00687dd1c14f18654e00",
+  "seededAt": "2026-06-23T03:41:28Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

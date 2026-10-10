@@ -1,0 +1,33 @@
+{
+  "slug": "hi-sweets-cookies-chandler",
+  "name": "Hi Sweets Cookies",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "2591 E Buena Vista Pl",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85249",
+  "lat": 33.2109848,
+  "lng": -111.7966557,
+  "phone": "+12147665686",
+  "googleMapsUrl": "https://www.google.com/maps?cid=9757185135664944045",
+  "googleCid": "9757185135664944045",
+  "placeId": "ChIJz577JwLr0oQRrdMHYy98aIc",
+  "googleRating": 5,
+  "googleReviewCount": 11,
+  "amenities": [
+    "Curbside pickup",
+    "Delivery",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free street parking",
+    "Debit cards"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264ab0899da1aad9da3110",
+  "seededAt": "2026-06-08T04:53:04Z",
+  "updatedAt": "2026-06-08T04:53:04Z",
+  "source": "groundgame"
+}

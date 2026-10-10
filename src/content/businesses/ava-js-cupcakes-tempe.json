@@ -1,0 +1,33 @@
+{
+  "slug": "ava-js-cupcakes-tempe",
+  "name": "Ava J's Cupcakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cupcake shop",
+  "secondaryCategories": [
+    "Bakery"
+  ],
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "phone": "+14809998019",
+  "priceRange": "$$",
+  "description": "Located in Tempe, Ava J's Cupcakes is a cupcake shop & bakery with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/121648935222071"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439d024092e5d3b50f1ce",
+  "seededAt": "2026-06-06T15:16:32Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

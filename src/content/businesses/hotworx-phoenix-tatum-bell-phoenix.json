@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-phoenix-tatum-bell-phoenix",
+  "name": "HOTWORX Phoenix - Tatum & Bell",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sauna",
+    "Gym",
+    "Spa",
+    "Public bath",
+    "Sports activity location"
+  ],
+  "address": "4747 E Bell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85032",
+  "lat": 33.6399565,
+  "lng": -111.97831099999999,
+  "phone": "+16025010301",
+  "website": "https://www.hotworx.net/studio/phoenix-tatumandbell",
+  "placeId": "ChIJl_yaAzlxK4cR4UW3EmLfw_A",
+  "googleRating": 4.8,
+  "googleReviewCount": 53,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc2ae309ef86ba360f78",
+  "seededAt": "2026-10-07T21:39:54Z",
+  "updatedAt": "2026-10-07T21:39:54Z",
+  "source": "groundgame"
+}

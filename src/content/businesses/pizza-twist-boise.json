@@ -1,0 +1,37 @@
+{
+  "slug": "pizza-twist-boise",
+  "name": "Pizza Twist",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "1505 S Broadway Ave",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83706",
+  "lat": 43.5942164,
+  "lng": -116.19406169999999,
+  "phone": "+12089006868",
+  "website": "https://www.pizzatwist.com/locations/best-pizza-in-boise-id",
+  "placeId": "ChIJjSut4j_5rlQRyw0_eFmPJDw",
+  "googleRating": 4.7,
+  "googleReviewCount": 933,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:30 PM",
+    "tue": "4:00 PM - 10:30 PM",
+    "wed": "11:00 AM - 10:30 PM",
+    "thu": "11:00 AM - 10:30 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b542ae623b8ec185338",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

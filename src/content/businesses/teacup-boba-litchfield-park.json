@@ -1,0 +1,41 @@
+{
+  "slug": "teacup-boba-litchfield-park",
+  "name": "Teacup Boba",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Tea house",
+    "Confectionery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "13000 W Indian School Rd A-14",
+  "city": "Litchfield Park",
+  "state": "AZ",
+  "zip": "85340",
+  "lat": 33.4947732,
+  "lng": -112.3387597,
+  "phone": "+16232363006",
+  "website": "http://teacupboba.com/",
+  "placeId": "ChIJn65iFXBHK4cRyK50sJVfp-k",
+  "googleRating": 4.3,
+  "googleReviewCount": 540,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb6864a7d320c4f5abcf",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-06-07T14:24:16Z",
+  "source": "groundgame"
+}

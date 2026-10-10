@@ -1,0 +1,42 @@
+{
+  "slug": "fate-brewing-company-tempe",
+  "name": "Fate Brewing Company - Tempe",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewpub",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Brewery",
+    "Pub",
+    "Bar",
+    "Event venue",
+    "Manufacturer"
+  ],
+  "address": "201 E Southern Ave #111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3923294,
+  "lng": -111.9364595,
+  "phone": "+14805902395",
+  "website": "https://fatebrewing.com/",
+  "placeId": "ChIJ3zWEFZAJK4cRP5BF67elXqk",
+  "googleRating": 4.5,
+  "googleReviewCount": 948,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a723116aa8fb1a99b87eeb9",
+  "seededAt": "2026-08-04T18:36:06Z",
+  "updatedAt": "2026-08-04T18:36:07Z",
+  "source": "groundgame"
+}

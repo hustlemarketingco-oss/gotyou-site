@@ -1,0 +1,46 @@
+{
+  "slug": "orange-sky-scottsdale",
+  "name": "Orange Sky",
+  "category": "Restaurant",
+  "googleCategory": "Fine dining restaurant",
+  "secondaryCategories": [
+    "Lounge bar",
+    "Restaurant",
+    "Steak house"
+  ],
+  "address": "9800 East E Talking Stick Wy",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85256",
+  "phone": "+14808508606",
+  "priceRange": "$100+",
+  "description": "New American plates & fine wines presented in an elegant 15th-floor dining room with valley views.",
+  "amenities": [
+    "Outdoor seating",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/TalkingStickResort"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243a991e461e6400d6c7b2",
+  "seededAt": "2026-06-06T15:19:53Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

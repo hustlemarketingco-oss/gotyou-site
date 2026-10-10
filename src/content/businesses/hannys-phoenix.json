@@ -1,0 +1,37 @@
+{
+  "slug": "hannys-phoenix",
+  "name": "Hanny's",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "40 N 1st St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4491155,
+  "lng": -112.0727187,
+  "phone": "+16022522285",
+  "website": "https://hannys.net/",
+  "placeId": "ChIJ8yJC9CESK4cRG_mMN3Hlmo8",
+  "googleRating": 4.4,
+  "googleReviewCount": 2657,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "5:00 PM - 12:00 AM",
+    "tue": "11:30 AM - 12:00 AM",
+    "wed": "11:30 AM - 12:00 AM",
+    "thu": "11:30 AM - 12:00 AM",
+    "fri": "11:30 AM - 12:30 AM",
+    "sat": "5:00 PM - 12:30 AM",
+    "sun": "5:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb19b6c65a17d07a0254",
+  "seededAt": "2026-06-07T01:36:25Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-scottsdale",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "4032 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.494768,
+  "lng": -111.926434,
+  "phone": "+16028054717",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/scottsdale/4032-north-scottsdale-road?y_source=1_MzYyMTAxMTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ6dFWZt8LK4cRUQqO1X2D2go",
+  "googleRating": 4.1,
+  "googleReviewCount": 83,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27547511cdbc26b30b7677",
+  "seededAt": "2026-06-08T23:47:01Z",
+  "updatedAt": "2026-07-06T19:10:41Z",
+  "source": "groundgame"
+}

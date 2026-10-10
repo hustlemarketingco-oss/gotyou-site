@@ -1,0 +1,41 @@
+{
+  "slug": "smoothie-king-tucson",
+  "name": "Smoothie King",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Acai shop",
+    "Brazilian restaurant",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "3820 W River Rd",
+  "city": "Tucson",
+  "state": "AZ",
+  "zip": "85741",
+  "lat": 32.32129210000001,
+  "lng": -111.0453778,
+  "phone": "+15207976547",
+  "website": "https://locations.smoothieking.com/ll/us/az/tucson/3820-river-road/",
+  "placeId": "ChIJIzs0eN901oYRy_lJbCa172U",
+  "googleRating": 4.1,
+  "googleReviewCount": 381,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc9b475b47d1a7e15996",
+  "seededAt": "2026-06-16T22:22:19Z",
+  "updatedAt": "2026-06-16T22:22:20Z",
+  "source": "groundgame"
+}

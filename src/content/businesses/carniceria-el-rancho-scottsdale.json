@@ -1,0 +1,43 @@
+{
+  "slug": "carniceria-el-rancho-scottsdale",
+  "name": "Carniceria El Rancho",
+  "category": "Shopping",
+  "googleCategory": "Butcher shop",
+  "address": "7607 E McDowell Rd #122",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4644376,
+  "lng": -111.9173005,
+  "phone": "+14809901202",
+  "googleMapsUrl": "https://www.google.com/maps?cid=12239574286444225990",
+  "googleCid": "12239574286444225990",
+  "placeId": "ChIJA4w5x2QJK4cRxmWDKfez26k",
+  "googleRating": 4.5,
+  "googleReviewCount": 142,
+  "description": "Located in Scottsdale, Carniceria El Rancho is a butcher shop.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 8:00 PM",
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2440249ed5a8a212e0e164",
+  "seededAt": "2026-06-06T15:43:32Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

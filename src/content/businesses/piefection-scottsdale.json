@@ -1,0 +1,52 @@
+{
+  "slug": "piefection-scottsdale",
+  "name": "PIEfection Scottsdale",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Pie shop"
+  ],
+  "address": "9015 E Vía Linda",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.568517,
+  "lng": -111.8865286,
+  "phone": "+14802187437",
+  "website": "https://www.piefectionaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=3778691258675425365",
+  "googleCid": "3778691258675425365",
+  "placeId": "ChIJuermldd1K4cRVfA47a2bcDQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 254,
+  "priceRange": "$10–20",
+  "description": "Located in Scottsdale, PIEfection Scottsdale is a bakery & dessert shop with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "10:00 AM - 6:30 PM",
+    "sat": "10:00 AM - 6:30 PM",
+    "sun": "Closed",
+    "mon": "10:00 AM - 6:30 PM",
+    "tue": "10:00 AM - 6:30 PM",
+    "wed": "10:00 AM - 6:30 PM",
+    "thu": "10:00 AM - 6:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d973dffaf97388e9a36",
+  "seededAt": "2026-06-06T15:32:39Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

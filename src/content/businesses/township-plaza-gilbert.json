@@ -1,0 +1,39 @@
+{
+  "slug": "township-plaza-gilbert",
+  "name": "TownShip Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Point of interest"
+  ],
+  "address": "1927 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85233",
+  "lat": 33.3777922,
+  "lng": -111.7913079,
+  "website": "https://townshipplaza.shop/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10015065845673331088",
+  "googleCid": "10015065845673331088",
+  "placeId": "ChIJkU8E4uWoK4cRkImBFVOp_Io",
+  "googleRating": 4.4,
+  "googleReviewCount": 855,
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264463236d984631302a3b",
+  "seededAt": "2026-06-08T04:26:11Z",
+  "updatedAt": "2026-06-08T04:28:15Z",
+  "source": "groundgame"
+}

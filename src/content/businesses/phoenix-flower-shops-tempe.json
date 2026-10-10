@@ -1,0 +1,38 @@
+{
+  "slug": "phoenix-flower-shops-tempe",
+  "name": "Phoenix Flower Shops - Tempe",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Gift shop",
+    "Farm",
+    "Wholesaler"
+  ],
+  "address": "1340 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4082925,
+  "lng": -111.91596559999999,
+  "phone": "+16028401200",
+  "website": "https://www.phoenixflowershops.com/?srccode=gmb",
+  "placeId": "ChIJTcJKy-oIK4cRqQ5llWpdbiE",
+  "googleRating": 4.4,
+  "googleReviewCount": 113,
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ed51f9461055f7e3b04d5",
+  "seededAt": "2026-06-26T19:38:07Z",
+  "updatedAt": "2026-07-09T19:42:22Z",
+  "source": "groundgame"
+}

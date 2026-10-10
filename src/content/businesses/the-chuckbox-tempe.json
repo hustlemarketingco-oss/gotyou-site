@@ -1,0 +1,43 @@
+{
+  "slug": "the-chuckbox-tempe",
+  "name": "The Chuckbox",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Restaurant"
+  ],
+  "address": "202 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4221268,
+  "lng": -111.9364016,
+  "phone": "+14809684712",
+  "website": "http://thechuckbox.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15307964607642553262",
+  "googleCid": "15307964607642553262",
+  "placeId": "ChIJR0_rbtkIK4cRrkvJoLTQcNQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 5748,
+  "description": "Basic, cash-only burger joint turning out charcoal-broiled patties plus beer & wine.",
+  "amenities": [
+    "Cash"
+  ],
+  "hours": {
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 9:00 PM",
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24376e354ffb2c4779e8c5",
+  "seededAt": "2026-06-06T15:06:22Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

@@ -59,5 +59,9 @@ export const CATEGORY_ICONS: Record<string, string> = {
   'Mexican & Latin': 'ti-pepper',
   'Asian & Pacific': 'ti-bowl-chopsticks',
   'Bars & Pubs': 'ti-beer',
+  Shopping: 'ti-shopping-bag',
+  'Health & Beauty': 'ti-heart',
+  'Fun & Activities': 'ti-confetti',
+  'Local Business': 'ti-building-store',
 };
 export const categoryIcon = (c: string) => CATEGORY_ICONS[c] ?? 'ti-building-store';

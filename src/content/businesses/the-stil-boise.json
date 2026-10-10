@@ -1,0 +1,39 @@
+{
+  "slug": "the-stil-boise",
+  "name": "The STIL",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "786 W Broad St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.6134,
+  "lng": -116.2051066,
+  "phone": "+12088098888",
+  "website": "http://ilovethestil.com/",
+  "placeId": "ChIJz9O0tPr4rlQRk3w_hEYqHv8",
+  "googleRating": 4.8,
+  "googleReviewCount": 1438,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69426006be9a330128a807aa",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

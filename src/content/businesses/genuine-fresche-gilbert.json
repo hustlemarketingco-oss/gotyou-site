@@ -1,0 +1,39 @@
+{
+  "slug": "genuine-fresche-gilbert",
+  "name": "Genuine Fresche - Gilbert",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Brazilian restaurant",
+    "Cafe"
+  ],
+  "address": "1686 N Higley Rd #105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.381291,
+  "lng": -111.723738,
+  "phone": "+14806545959",
+  "website": "http://genuinefresche.com/",
+  "placeId": "ChIJ486YgAKvK4cRg4P5tRdOln8",
+  "googleRating": 4.2,
+  "googleReviewCount": 286,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4ea13cfca297c5543af2f5",
+  "seededAt": "2026-07-08T19:13:00Z",
+  "updatedAt": "2026-07-08T19:13:01Z",
+  "source": "groundgame"
+}

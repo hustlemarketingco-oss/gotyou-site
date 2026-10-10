@@ -1,0 +1,43 @@
+{
+  "slug": "tasty-pot-mesa",
+  "name": "Tasty Pot 味鼎小火锅",
+  "category": "Restaurant",
+  "googleCategory": "Taiwanese restaurant",
+  "secondaryCategories": [
+    "Hot pot restaurant"
+  ],
+  "address": "66 S Dobson Rd Ste 148",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.413337,
+  "lng": -111.87575109999999,
+  "phone": "+14808096780",
+  "website": "https://www.tastypotusa.com/",
+  "placeId": "ChIJ8_zFek8JK4cRYFKKNaz-DF4",
+  "googleRating": 4.5,
+  "googleReviewCount": 481,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5fcf0778c992c8b606bc13",
+  "seededAt": "2026-07-21T19:56:55Z",
+  "updatedAt": "2026-07-21T19:59:47Z",
+  "source": "groundgame"
+}

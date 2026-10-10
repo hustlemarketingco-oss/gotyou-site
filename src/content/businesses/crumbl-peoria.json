@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-peoria",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Confectionery",
+    "Bakery",
+    "Food store"
+  ],
+  "address": "8085 W Bell Rd Unit 106",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.6360224,
+  "lng": -112.2290805,
+  "phone": "+16234715732",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/azarrowhead",
+  "placeId": "ChIJe2YQXoNpK4cRr6-_iOfkko8",
+  "googleRating": 4.7,
+  "googleReviewCount": 1089,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a67611de20b9956e5022f3c",
+  "seededAt": "2026-07-27T13:46:05Z",
+  "updatedAt": "2026-07-27T13:46:05Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-gilbert",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "2285 E Baseline Rd #103",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.378583,
+  "lng": -111.78381119999999,
+  "phone": "+14808921667",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/gilbert/bakery-216.html",
+  "placeId": "ChIJpQGga92oK4cRI10QxwNRfao",
+  "googleRating": 4.8,
+  "googleReviewCount": 401,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11c7649d4d3c8512e92b",
+  "seededAt": "2026-06-23T04:55:35Z",
+  "updatedAt": "2026-06-23T04:55:36Z",
+  "source": "groundgame"
+}

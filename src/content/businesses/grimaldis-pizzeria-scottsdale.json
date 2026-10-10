@@ -1,0 +1,45 @@
+{
+  "slug": "grimaldis-pizzeria-scottsdale",
+  "name": "Grimaldi's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Family restaurant",
+    "Bar",
+    "Italian restaurant"
+  ],
+  "address": "4000 N Scottsdale Rd Ste 105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493802099999996,
+  "lng": -111.9264462,
+  "phone": "+14809941100",
+  "website": "https://www.grimaldispizzeria.com/locations/old-town/",
+  "placeId": "ChIJ372vl78LK4cRhU-zgvgRcDg",
+  "googleRating": 4.4,
+  "googleReviewCount": 3425,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.facebook.com/GrimaldisPizzeria",
+    "https://www.instagram.com/grimaldispizzeria",
+    "https://twitter.com/GrimaldisPizza"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27514eff7193381d2b45e1",
+  "seededAt": "2026-06-08T23:33:34Z",
+  "updatedAt": "2026-07-01T20:47:04Z",
+  "source": "groundgame"
+}

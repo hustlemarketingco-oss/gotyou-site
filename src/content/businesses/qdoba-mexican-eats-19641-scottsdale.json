@@ -1,0 +1,41 @@
+{
+  "slug": "qdoba-mexican-eats-19641-scottsdale",
+  "name": "QDOBA Mexican Eats",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Tex mex restaurant",
+    "Fast food restaurant",
+    "Bar and grill",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "19641 N Scottsdale Rd Suite 120",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.666627,
+  "lng": -111.924657,
+  "phone": "+14807912507",
+  "website": "https://locations.qdoba.com/us/az/scottsdale/19641-n-scottsdale-rd",
+  "placeId": "ChIJqYKhoU93K4cRPwp-HP7zbMM",
+  "googleRating": 4.6,
+  "googleReviewCount": 268,
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e3b2b68d5af4b80e1798",
+  "seededAt": "2026-06-17T18:13:06Z",
+  "updatedAt": "2026-06-17T18:13:09Z",
+  "source": "groundgame"
+}

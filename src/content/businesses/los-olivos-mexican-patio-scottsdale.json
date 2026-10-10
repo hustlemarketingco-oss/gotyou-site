@@ -1,0 +1,37 @@
+{
+  "slug": "los-olivos-mexican-patio-scottsdale",
+  "name": "Los Olivos Mexican Patio",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7328 E 2nd St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4915587,
+  "lng": -111.9235264,
+  "phone": "+14809462256",
+  "website": "https://losolivosrestaurants.com/",
+  "placeId": "ChIJPeSjxsALK4cRlCEVEgdNf9I",
+  "googleRating": 4.3,
+  "googleReviewCount": 3824,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275355e3236ee5e685296e",
+  "seededAt": "2026-06-08T23:42:13Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

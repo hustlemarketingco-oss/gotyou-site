@@ -1,0 +1,41 @@
+{
+  "slug": "qdoba-mexican-eats-tempe",
+  "name": "QDOBA Mexican Eats",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Tex mex restaurant",
+    "Fast food restaurant",
+    "Bar and grill",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "947 S Mill Ave Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4197847,
+  "lng": -111.93972199999999,
+  "phone": "+14808630411",
+  "website": "https://locations.qdoba.com/us/az/tempe/947-s-mill-ave",
+  "placeId": "ChIJY8vDcrEJK4cRzQPbwIQKcqc",
+  "googleRating": 4.9,
+  "googleReviewCount": 245,
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e3a5ead354a28071abf4",
+  "seededAt": "2026-06-17T18:12:53Z",
+  "updatedAt": "2026-06-17T18:20:51Z",
+  "source": "groundgame"
+}

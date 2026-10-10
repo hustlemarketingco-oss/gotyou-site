@@ -1,0 +1,42 @@
+{
+  "slug": "the-creamery-beaver",
+  "name": "The Creamery",
+  "category": "Fast Food",
+  "googleCategory": "Meal takeaway",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Dessert shop",
+    "Rest stop",
+    "Convenience store",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "165 S 500 W",
+  "city": "Beaver",
+  "state": "UT",
+  "zip": "84713",
+  "lat": 38.2719271,
+  "lng": -112.648979,
+  "phone": "+18337964551",
+  "website": "http://www.thecreameryutah.com/",
+  "placeId": "ChIJsdsIrW4ttYARLiYFXB8EKFU",
+  "googleRating": 4.6,
+  "googleReviewCount": 5791,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8f2b6d146619d38d3c1",
+  "seededAt": "2025-12-17T18:39:46Z",
+  "updatedAt": "2025-12-17T18:40:34Z",
+  "source": "groundgame"
+}

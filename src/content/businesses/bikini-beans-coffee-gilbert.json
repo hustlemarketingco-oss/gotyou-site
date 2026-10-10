@@ -1,0 +1,36 @@
+{
+  "slug": "bikini-beans-coffee-gilbert",
+  "name": "Bikini Beans Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3317 S Val Vista Dr",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.2912241,
+  "lng": -111.75514589999999,
+  "website": "https://bikinibeanscoffee.com/",
+  "placeId": "ChIJb99sgVatK4cRLMiUTGrd6gU",
+  "googleRating": 4.6,
+  "googleReviewCount": 67,
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "5:00 AM - 10:00 PM",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342272215db16edf4dbe90",
+  "seededAt": "2026-06-18T16:53:06Z",
+  "updatedAt": "2026-06-18T16:53:06Z",
+  "source": "groundgame"
+}

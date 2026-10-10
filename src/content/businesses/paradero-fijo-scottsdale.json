@@ -1,0 +1,31 @@
+{
+  "slug": "paradero-fijo-scottsdale",
+  "name": "Paradero fijo scottsdale",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "4032 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4947554,
+  "lng": -111.9263756,
+  "googleMapsUrl": "https://www.google.com/maps?cid=11137927516576080904",
+  "googleCid": "11137927516576080904",
+  "placeId": "ChIJ_ZSrUQALK4cRCOSQpxDekZo",
+  "description": "Located in Scottsdale, Paradero fijo scottsdale is a casual coffee shop with coffee, dine-in.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Coffee"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243ca927eb3dfea403c4bc",
+  "seededAt": "2026-06-06T15:28:41Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

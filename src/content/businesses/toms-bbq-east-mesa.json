@@ -1,0 +1,37 @@
+{
+  "slug": "toms-bbq-east-mesa",
+  "name": "Tom's BBQ - East Mesa",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5005 E McKellips Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85215",
+  "lat": 33.4516183,
+  "lng": -111.7225256,
+  "phone": "+14809246019",
+  "website": "http://tomsbbq.com/",
+  "placeId": "ChIJ9TXk9qSlK4cRjQ3QYth5XKs",
+  "googleRating": 4.3,
+  "googleReviewCount": 1442,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1c866689e8c9e1f33bb7",
+  "seededAt": "2026-06-12T14:49:42Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

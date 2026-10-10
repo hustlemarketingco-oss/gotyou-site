@@ -1,0 +1,36 @@
+{
+  "slug": "luna-grill-mesa",
+  "name": "Luna Grill Mesa",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "9317 E Ray Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85212",
+  "lat": 33.32108,
+  "lng": -111.63286000000001,
+  "phone": "+16234695862",
+  "website": "http://lunagrill.com/?y_source=1_MjAyNDgzMTc4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ0zTw8W6zK4cRK0C4Rafcyrg",
+  "googleRating": 4.6,
+  "googleReviewCount": 513,
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a53f75456519858e62628aa",
+  "seededAt": "2026-07-12T20:21:40Z",
+  "updatedAt": "2026-07-12T20:21:41Z",
+  "source": "groundgame"
+}

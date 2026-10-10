@@ -1,0 +1,37 @@
+{
+  "slug": "everbowl-15-st-george",
+  "name": "everbowl",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Acai shop",
+  "secondaryCategories": [
+    "Juice shop",
+    "Brazilian restaurant"
+  ],
+  "address": "15 S River Rd #325",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.106679199999995,
+  "lng": -113.5540288,
+  "phone": "+15417606725",
+  "website": "https://www.everbowl.com/acai-bowl-locations/st-george-ut",
+  "placeId": "ChIJpV_RnxVbyoARIauNV0JmRqg",
+  "googleRating": 4.5,
+  "googleReviewCount": 149,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4c9e81e32734d64ba6",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

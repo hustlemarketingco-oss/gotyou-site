@@ -1,0 +1,37 @@
+{
+  "slug": "la-fonda-grill-hurricane",
+  "name": "La Fonda Grill",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "82 N Coral Canyon Blvd",
+  "city": "Hurricane",
+  "state": "UT",
+  "zip": "84737",
+  "lat": 37.1644821,
+  "lng": -113.4432983,
+  "phone": "+14355998181",
+  "website": "http://www.lafondagrill.com/",
+  "placeId": "ChIJtzsB921ZyoARx2Q6D9AItsc",
+  "googleRating": 4.5,
+  "googleReviewCount": 331,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "696e636289cd4477f8e9562d",
+  "seededAt": "2026-01-19T17:01:22Z",
+  "updatedAt": "2026-01-19T17:01:22Z",
+  "source": "groundgame"
+}

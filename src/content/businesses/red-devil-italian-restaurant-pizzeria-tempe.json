@@ -1,0 +1,43 @@
+{
+  "slug": "red-devil-italian-restaurant-pizzeria-tempe",
+  "name": "Red Devil | Italian Restaurant & Pizzeria",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Pizza delivery",
+    "Fine dining restaurant",
+    "Brunch restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Pizza restaurant"
+  ],
+  "address": "208 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3935852,
+  "lng": -111.9400979,
+  "phone": "+14809682155",
+  "website": "https://www.reddevilrestaurant.com/italian-restaurant-tempe-az/",
+  "placeId": "ChIJ7w4fxa8IK4cRj6hZqYSlUKw",
+  "googleRating": 4.2,
+  "googleReviewCount": 1313,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398b038a05e2a5d8be3cb5",
+  "seededAt": "2026-06-22T19:20:35Z",
+  "updatedAt": "2026-06-30T21:00:10Z",
+  "source": "groundgame"
+}

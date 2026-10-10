@@ -1,0 +1,50 @@
+{
+  "slug": "blue-sushi-sake-grill-tempe",
+  "name": "Blue Sushi Sake Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "690 S Novus Pl Suite 183",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4237331,
+  "lng": -111.92765329999999,
+  "phone": "+14809772583",
+  "website": "https://www.bluesushisakegrill.com/",
+  "placeId": "ChIJwZspAQsJK4cRSY_fpws0fvY",
+  "googleRating": 4.6,
+  "googleReviewCount": 431,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/BlueSushiSakeGrill/",
+    "https://www.instagram.com/BlueSushiSakeGrill",
+    "https://www.tiktok.com/@BlueSushiSakeGrill",
+    "https://twitter.com/BlueSushiSake",
+    "https://www.youtube.com/user/BlueSushiSakeGrill"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a261cba931d63cec8923629",
+  "seededAt": "2026-06-08T01:36:58Z",
+  "updatedAt": "2026-06-12T22:04:11Z",
+  "source": "groundgame"
+}

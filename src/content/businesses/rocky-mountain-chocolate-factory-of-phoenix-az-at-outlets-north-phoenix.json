@@ -1,0 +1,42 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-of-phoenix-az-at-outlets-north-phoenix",
+  "name": "Rocky Mountain Chocolate Factory of Phoenix, AZ at Outlets North Phoenix",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Gift shop",
+    "Chocolate factory",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "4250 W Anthem Way #485",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85086",
+  "lat": 33.8743918,
+  "lng": -112.14879479999999,
+  "phone": "+16234659716",
+  "website": "https://www.rmcf.com/pages/store-locator",
+  "placeId": "ChIJux9vjAyeLIcReIIfmcWYpuw",
+  "googleRating": 4.2,
+  "googleReviewCount": 129,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34513faad82e6c90aa2fcf",
+  "seededAt": "2026-06-18T20:12:47Z",
+  "updatedAt": "2026-06-18T20:12:48Z",
+  "source": "groundgame"
+}

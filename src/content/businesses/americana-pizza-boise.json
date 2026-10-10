@@ -1,0 +1,37 @@
+{
+  "slug": "americana-pizza-boise",
+  "name": "Americana Pizza",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Food"
+  ],
+  "address": "304 S Americana Blvd",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.618502299999996,
+  "lng": -116.21464379999999,
+  "phone": "+12083366432",
+  "website": "https://slicesofamericana.com/",
+  "placeId": "ChIJjxB9b5T5rlQRwGkEW5Mhtx8",
+  "googleRating": 4.6,
+  "googleReviewCount": 435,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b54db0d507b0033900d",
+  "seededAt": "2026-01-16T01:58:44Z",
+  "updatedAt": "2026-01-16T01:58:44Z",
+  "source": "groundgame"
+}

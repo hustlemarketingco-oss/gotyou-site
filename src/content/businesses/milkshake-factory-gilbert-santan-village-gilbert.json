@@ -1,0 +1,40 @@
+{
+  "slug": "milkshake-factory-gilbert-santan-village-gilbert",
+  "name": "MilkShake Factory Gilbert SanTan Village",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Chocolate shop",
+    "Candy store",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1835 S Santan Village Pkwy #108",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3159825,
+  "lng": -111.74192359999999,
+  "phone": "+14809164500",
+  "website": "https://www.milkshakefactory.com/locations/gilbert/",
+  "placeId": "ChIJSaoluGqtK4cRbzlK7Pn1xNc",
+  "googleRating": 4.7,
+  "googleReviewCount": 99,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad36df322f2dfe0bffe83",
+  "seededAt": "2026-06-23T18:41:49Z",
+  "updatedAt": "2026-06-23T18:41:49Z",
+  "source": "groundgame"
+}

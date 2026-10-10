@@ -1,0 +1,38 @@
+{
+  "slug": "dave-busters-fairfield",
+  "name": "Dave & Buster's Fairfield",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Video arcade",
+    "Bar"
+  ],
+  "address": "1420 Travis Blvd",
+  "city": "Fairfield",
+  "state": "CA",
+  "zip": "94533",
+  "lat": 38.259767000000004,
+  "lng": -122.05291299999998,
+  "phone": "+17077599100",
+  "website": "https://www.daveandbusters.com/us/en/about/locations/fairfield",
+  "placeId": "ChIJ-TSDNSQUhYARqJkN2igaLpg",
+  "googleRating": 3.8,
+  "googleReviewCount": 677,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 1:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "9:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694646ee765004bfb1e82773",
+  "seededAt": "2025-12-20T06:49:18Z",
+  "updatedAt": "2025-12-20T06:49:18Z",
+  "source": "groundgame"
+}

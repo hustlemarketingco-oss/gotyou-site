@@ -1,0 +1,40 @@
+{
+  "slug": "joyride-taco-house-phoenix",
+  "name": "Joyride Taco House",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Catering service",
+    "Bar",
+    "Food delivery"
+  ],
+  "address": "5202 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85012",
+  "lat": 33.513082,
+  "lng": -112.0741068,
+  "phone": "+16022748226",
+  "website": "https://joyridetacohouse.com/",
+  "placeId": "ChIJ3TWuLMcSK4cRL2Xd7HDdVmI",
+  "googleRating": 4.5,
+  "googleReviewCount": 3029,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a274a736065dc1db60dafa1",
+  "seededAt": "2026-06-08T23:04:19Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "cinnamon-cloud-rolls-scottsdale",
+  "name": "Cinnamon Cloud Rolls",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "3806 N Brown Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4916008,
+  "lng": -111.9247454,
+  "phone": "+14807997957",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8139174170257888613",
+  "googleCid": "8139174170257888613",
+  "placeId": "ChIJvxXX-IMLK4cRZZVB38gn9HA",
+  "description": "Located in Scottsdale, Cinnamon Cloud Rolls is a bakery with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "Closed",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "Closed",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243db0553a9cd1aafc154b",
+  "seededAt": "2026-06-06T15:33:04Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

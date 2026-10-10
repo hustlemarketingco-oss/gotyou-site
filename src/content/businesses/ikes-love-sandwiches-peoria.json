@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-peoria",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "7635 W Bell Rd Ste 2020A",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85382",
+  "lat": 33.6375811,
+  "lng": -112.22285099999999,
+  "phone": "+16028346521",
+  "website": "https://locations.ikessandwich.com/az/peoria/611/",
+  "placeId": "ChIJJ2CvoZ1pK4cR9iJDZ7817E4",
+  "googleRating": 4.4,
+  "googleReviewCount": 319,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a98bb52a612225d2663",
+  "seededAt": "2026-06-16T18:48:56Z",
+  "updatedAt": "2026-06-16T18:48:56Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "ihop-phoenix",
+  "name": "IHOP",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Diner",
+    "Family restaurant",
+    "American restaurant"
+  ],
+  "address": "2501 N 44th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85008",
+  "lat": 33.4751135,
+  "lng": -111.98657610000001,
+  "phone": "+16028089380",
+  "website": "https://restaurants.ihop.com/en-us/az/phoenix/breakfast-2501-n-44th-st-1513",
+  "placeId": "ChIJmTPhPToMK4cRBhQfhJNlRtQ",
+  "googleRating": 3.8,
+  "googleReviewCount": 4166,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ddd26e9f51f27c520885",
+  "seededAt": "2026-06-17T17:48:02Z",
+  "updatedAt": "2026-06-17T17:48:03Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-st-george",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Breakfast restaurant",
+    "Cafe"
+  ],
+  "address": "792 S 3000 E Suite 105",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.094211,
+  "lng": -113.522879,
+  "phone": "+14356738800",
+  "website": "https://locations.tropicalsmoothiecafe.com/ut/st.-george/792-south-3000-east?y_source=1_MTUxNDg2OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJE0cfAh9byoARZxr0eco2FxM",
+  "googleRating": 3.8,
+  "googleReviewCount": 184,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417c4c12ce2cbc1fb64475",
+  "seededAt": "2025-12-16T15:35:40Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

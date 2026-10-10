@@ -1,0 +1,52 @@
+{
+  "slug": "chick-fil-a-2533-gilbert",
+  "name": "Chick-fil-A",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Caterer",
+    "Chicken restaurant",
+    "Delivery service",
+    "Family restaurant"
+  ],
+  "address": "2533 S Market St",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "phone": "+14808147200",
+  "priceRange": "$",
+  "description": "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides.",
+  "amenities": [
+    "Outdoor seating",
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Quick bite",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/ChickfilA"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264a8b8958d7b65d55ba25",
+  "seededAt": "2026-06-08T04:52:27Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

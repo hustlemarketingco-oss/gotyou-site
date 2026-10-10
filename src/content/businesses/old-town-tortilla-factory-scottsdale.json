@@ -1,0 +1,40 @@
+{
+  "slug": "old-town-tortilla-factory-scottsdale",
+  "name": "Old Town Tortilla Factory",
+  "category": "Restaurant",
+  "googleCategory": "Southwestern us restaurant",
+  "secondaryCategories": [
+    "Bar and grill",
+    "Mexican restaurant",
+    "Fine dining restaurant",
+    "Bar"
+  ],
+  "address": "6910 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493331,
+  "lng": -111.932108,
+  "phone": "+14809454567",
+  "website": "http://oldtowntortillafactory.com/",
+  "placeId": "ChIJw-Wv5ZQLK4cR2ACQQvi6eeA",
+  "googleRating": 4.1,
+  "googleReviewCount": 1581,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "5:00 PM - 9:00 PM",
+    "tue": "5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "5:00 PM - 9:00 PM",
+    "fri": "5:00 PM - 10:00 PM",
+    "sat": "5:00 PM - 10:00 PM",
+    "sun": "5:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766f12ffc420e1c282b4f",
+  "seededAt": "2026-06-09T01:05:53Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

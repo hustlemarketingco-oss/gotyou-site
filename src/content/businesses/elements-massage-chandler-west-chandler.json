@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-chandler-west-chandler",
+  "name": "Elements Massage Chandler West",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "7131 W Ray Rd Ste 4",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.317994899999995,
+  "lng": -111.967333,
+  "phone": "+14802199931",
+  "website": "https://elementsmassage.com/chandler-west",
+  "placeId": "ChIJ_6mkBOQFK4cR3a6cnYoBzQI",
+  "googleRating": 4.7,
+  "googleReviewCount": 355,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a6e31871a7222837d94",
+  "seededAt": "2026-06-22T18:09:50Z",
+  "updatedAt": "2026-06-22T18:09:51Z",
+  "source": "groundgame"
+}

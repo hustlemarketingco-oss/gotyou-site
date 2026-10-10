@@ -1,0 +1,29 @@
+{
+  "slug": "marcos-pizza-ammon",
+  "name": "Marco's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "2729 East Sunnyside Road",
+  "city": "Ammon",
+  "state": "ID",
+  "zip": "83406",
+  "lat": 43.468468699999995,
+  "lng": -111.9798217,
+  "website": "https://www.marcos.com/our-locations/restaurants/ID/Ammon/marcos-pizza-sunnyside-rd-ammon-1",
+  "placeId": "ChIJM_JkLJZfVFMRTfmlFDtM86s",
+  "googleRating": 4.2,
+  "googleReviewCount": 204,
+  "priceRange": "$",
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694187218e9818c4e4ea02ff",
+  "seededAt": "2025-12-16T16:21:53Z",
+  "updatedAt": "2026-09-22T15:30:29Z",
+  "source": "groundgame"
+}

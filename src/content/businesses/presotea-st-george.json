@@ -1,0 +1,39 @@
+{
+  "slug": "presotea-st-george",
+  "name": "Presotea",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Tea house",
+    "Food store"
+  ],
+  "address": "969 N 3050 E B-3",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.1247305,
+  "lng": -113.52287989999999,
+  "phone": "+14355991539",
+  "website": "https://m.facebook.com/PresoteaSTG/",
+  "placeId": "ChIJPzOgC99byoARz9w96AdnQpI",
+  "googleRating": 4.8,
+  "googleReviewCount": 80,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b7d1bd78d23cdb39003",
+  "seededAt": "2025-12-16T15:32:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "the-pink-door-tea-house-glendale",
+  "name": "The Pink Door Tea House",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea house",
+  "address": "7153 N 59th Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.5417734,
+  "lng": -112.1858562,
+  "phone": "+14802230872",
+  "website": "http://www.thepinkdoorteahouse.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=1946744242606817554",
+  "googleCid": "1946744242606817554",
+  "placeId": "ChIJweQ1f8lrK4cREsEdCZM5BBs",
+  "googleRating": 4.4,
+  "googleReviewCount": 330,
+  "priceRange": "$",
+  "description": "Located in Glendale, The Pink Door Tea House is a tea house with takeout & delivery.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/thepinkdoorteahouse"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 3:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "9:00 AM - 3:00 PM",
+    "mon": "Closed",
+    "tue": "9:00 AM - 3:00 PM",
+    "wed": "9:00 AM - 3:00 PM",
+    "thu": "9:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24433973ee1fedf4014c46",
+  "seededAt": "2026-06-06T15:56:41Z",
+  "updatedAt": "2026-06-06T15:56:41Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "phoenix",
+  "name": ".",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "5316 S 23rd Way",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.3981716,
+  "lng": -112.0306603,
+  "phone": "+16026536052",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15571726499444095521",
+  "googleCid": "15571726499444095521",
+  "placeId": "ChIJ1eaKIccPK4cRIfrmqr_iGdg",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "description": "Located in Phoenix,. is a bakery with takeout & delivery.",
+  "amenities": [
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "Closed",
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2453503414c33ee59be0dd",
+  "seededAt": "2026-06-06T17:05:20Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

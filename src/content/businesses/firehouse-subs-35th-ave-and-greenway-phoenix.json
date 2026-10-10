@@ -1,0 +1,39 @@
+{
+  "slug": "firehouse-subs-35th-ave-and-greenway-phoenix",
+  "name": "Firehouse Subs 35th Ave. and Greenway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "3434 W Greenway Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85053",
+  "lat": 33.626486899999996,
+  "lng": -112.13324039999999,
+  "phone": "+16029033331",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJ5cTWlAJvK4cRZuqO0yyDnEo",
+  "googleRating": 3.9,
+  "googleReviewCount": 146,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afa5835b1b38c1b4326",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

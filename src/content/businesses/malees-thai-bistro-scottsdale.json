@@ -1,0 +1,46 @@
+{
+  "slug": "malees-thai-bistro-scottsdale",
+  "name": "Malee's Thai Bistro",
+  "category": "Asian & Pacific",
+  "googleCategory": "Thai restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "7131 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4928752,
+  "lng": -111.927773,
+  "phone": "+14809476042",
+  "website": "https://maleesonmain.com/",
+  "placeId": "ChIJKyHz-r8LK4cRmMWCLiMvT90",
+  "googleRating": 4.2,
+  "googleReviewCount": 1219,
+  "priceRange": "$$",
+  "amenities": [
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a59735b0540f5f897f6f",
+  "seededAt": "2026-06-10T17:57:43Z",
+  "updatedAt": "2026-06-29T14:08:27Z",
+  "source": "groundgame"
+}

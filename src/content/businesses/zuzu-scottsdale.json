@@ -1,0 +1,39 @@
+{
+  "slug": "zuzu-scottsdale",
+  "name": "ZuZu",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Lounge bar",
+    "Night club",
+    "Bar"
+  ],
+  "address": "6850 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493294,
+  "lng": -111.93421989999999,
+  "phone": "+14804217997",
+  "website": "https://hotelvalleyho.com/zuzu/",
+  "placeId": "ChIJrVJkm5QLK4cRSzXhNMtIs8U",
+  "googleRating": 4.5,
+  "googleReviewCount": 1215,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a275361bf24411f21dc4190",
+  "seededAt": "2026-06-08T23:42:25Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

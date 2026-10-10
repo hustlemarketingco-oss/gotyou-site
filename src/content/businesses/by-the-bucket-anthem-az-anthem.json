@@ -1,0 +1,39 @@
+{
+  "slug": "by-the-bucket-anthem-az-anthem",
+  "name": "By The Bucket - Anthem AZ",
+  "category": "Fast Food",
+  "googleCategory": "Meal takeaway",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Food store",
+    "Italian restaurant"
+  ],
+  "address": "41111 N Daisy Mountain Dr #113",
+  "city": "Anthem",
+  "state": "AZ",
+  "zip": "85086",
+  "lat": 33.8581109,
+  "lng": -112.1123293,
+  "phone": "+16232486685",
+  "website": "https://bythebucket.com/location/by-the-bucket-anthem/",
+  "placeId": "ChIJPTWRBVVjK4cR2mU78dEfrlE",
+  "googleRating": 4.1,
+  "googleReviewCount": 88,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:30 AM - 7:00 PM",
+    "tue": "11:30 AM - 7:00 PM",
+    "wed": "11:30 AM - 7:00 PM",
+    "thu": "11:30 AM - 7:00 PM",
+    "fri": "11:30 AM - 7:00 PM",
+    "sat": "11:30 AM - 7:00 PM",
+    "sun": "11:30 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a331fcb7e2d4db57cacdd94",
+  "seededAt": "2026-06-17T22:29:31Z",
+  "updatedAt": "2026-06-17T22:29:32Z",
+  "source": "groundgame"
+}

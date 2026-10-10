@@ -1,0 +1,37 @@
+{
+  "slug": "the-eleanor-scottsdale",
+  "name": "The Eleanor",
+  "category": "Restaurant",
+  "googleCategory": "Brunch restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3207 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4850237,
+  "lng": -111.9084558,
+  "phone": "+14806852525",
+  "website": "http://theeleanoraz.com/",
+  "placeId": "ChIJbd4uluQLK4cRr2jmwbxXKvk",
+  "googleRating": 4.7,
+  "googleReviewCount": 609,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27661565be08e9c04188a6",
+  "seededAt": "2026-06-09T01:02:13Z",
+  "updatedAt": "2026-07-09T18:35:43Z",
+  "source": "groundgame"
+}

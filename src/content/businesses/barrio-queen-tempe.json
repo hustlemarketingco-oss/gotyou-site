@@ -1,0 +1,37 @@
+{
+  "slug": "barrio-queen-tempe",
+  "name": "Barrio Queen",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "31 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.43290470000001,
+  "lng": -111.9062391,
+  "phone": "+14809124052",
+  "website": "https://www.barrioqueen.com/",
+  "placeId": "ChIJv8mUgtwJK4cR8WwnjbnndBQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 2480,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3456cd73ae00633a2be734",
+  "seededAt": "2026-06-18T20:36:29Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "baby-kays-cajun-kitchen-mesa",
+  "name": "Baby Kay's Cajun Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "Cajun restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "2051 S Dobson Rd Ste 18",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3764894,
+  "lng": -111.87782659999999,
+  "phone": "+14808004811",
+  "website": "http://babykayscajunkitchen.com/",
+  "placeId": "ChIJw22MVOoHK4cRwwStBTpPzHk",
+  "googleRating": 4.5,
+  "googleReviewCount": 2703,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a46b6afd0e230dfbfa8f16e",
+  "seededAt": "2026-07-02T19:06:23Z",
+  "updatedAt": "2026-07-02T19:06:23Z",
+  "source": "groundgame"
+}

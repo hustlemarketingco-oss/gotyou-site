@@ -1,0 +1,40 @@
+{
+  "slug": "sauce-pizza-wine-mesa",
+  "name": "Sauce Pizza & Wine",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Family restaurant",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "3426 E Baseline Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85204",
+  "lat": 33.381225799999996,
+  "lng": -111.75689469999999,
+  "phone": "+14804973500",
+  "website": "http://www.saucepizzaandwine.com/",
+  "placeId": "ChIJV8fV8iuvK4cRvi5tW__QvvU",
+  "googleRating": 4.1,
+  "googleReviewCount": 530,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9cb0d9bfd5d9a099497",
+  "seededAt": "2026-06-10T19:23:55Z",
+  "updatedAt": "2026-06-10T19:23:55Z",
+  "source": "groundgame"
+}

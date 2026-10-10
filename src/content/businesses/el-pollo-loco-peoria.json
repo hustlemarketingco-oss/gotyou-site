@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-peoria",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "10000 W Happy Valley Pkwy",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85383",
+  "lat": 33.7119654,
+  "lng": -112.2747065,
+  "phone": "+16238256679",
+  "website": "https://restaurants.elpolloloco.com/az/peoria/10000-w-happy-valley-pkwy",
+  "placeId": "ChIJ2bh_eK9dK4cRQehxR5YQwd0",
+  "googleRating": 4.1,
+  "googleReviewCount": 944,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83ab4ac8a33e70aa7431",
+  "seededAt": "2026-06-25T19:38:19Z",
+  "updatedAt": "2026-06-25T19:38:19Z",
+  "source": "groundgame"
+}

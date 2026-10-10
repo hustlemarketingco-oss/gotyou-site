@@ -1,0 +1,41 @@
+{
+  "slug": "staples-scottsdale",
+  "name": "Staples",
+  "category": "Shopping",
+  "googleCategory": "Furniture store",
+  "secondaryCategories": [
+    "Home improvement store",
+    "Home goods store",
+    "Supplier",
+    "Electronics store",
+    "Manufacturer"
+  ],
+  "address": "3550 N Goldwater Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.488774,
+  "lng": -111.927853,
+  "phone": "+14809701100",
+  "website": "https://stores.staples.com/az/scottsdale/3550-north-goldwater-blvd?cmpid=st_ll_goo&cid=LS:RETAIL:G",
+  "placeId": "ChIJVYbIKsALK4cRcrKPcN1HpFU",
+  "googleRating": 4.7,
+  "googleReviewCount": 229,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a47d3e0a4277d2264e1043f",
+  "seededAt": "2026-07-03T15:23:12Z",
+  "updatedAt": "2026-07-03T15:23:12Z",
+  "source": "groundgame"
+}

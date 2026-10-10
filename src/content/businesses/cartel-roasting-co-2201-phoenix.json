@@ -1,0 +1,43 @@
+{
+  "slug": "cartel-roasting-co-2201-phoenix",
+  "name": "Cartel Roasting Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Pastry shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Coffee roastery",
+    "Cafe",
+    "Wholesaler",
+    "Food store"
+  ],
+  "address": "2201 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4713157,
+  "lng": -112.0647991,
+  "website": "http://cartelroasting.co/",
+  "placeId": "ChIJ08rziQBzK4cRxfnv_FxKf1U",
+  "googleRating": 4.4,
+  "googleReviewCount": 232,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "6:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f8fb08f08af477df7eb",
+  "seededAt": "2026-06-18T17:49:03Z",
+  "updatedAt": "2026-06-18T17:49:03Z",
+  "source": "groundgame"
+}

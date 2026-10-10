@@ -1,0 +1,43 @@
+{
+  "slug": "smashburger-queen-creek",
+  "name": "Smashburger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Ice cream shop",
+    "Fast food restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "21202 Ellsworth Lp Rd Ste 112",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.2556867,
+  "lng": -111.6386682,
+  "phone": "+14808889800",
+  "website": "https://smashburger.com/locations/us/az/queen-creek/21202-s-ellsworth-loop-rd",
+  "placeId": "ChIJFZLbyTlNKocRdy1bgrEOTwY",
+  "googleRating": 4.7,
+  "googleReviewCount": 3079,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357cc3cd66cb254c2bde0c",
+  "seededAt": "2026-06-19T17:30:43Z",
+  "updatedAt": "2026-06-19T17:30:44Z",
+  "source": "groundgame"
+}

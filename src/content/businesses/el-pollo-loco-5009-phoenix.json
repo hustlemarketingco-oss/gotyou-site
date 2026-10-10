@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-5009-phoenix",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "5009 W McDowell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85035",
+  "lat": 33.4655644,
+  "lng": -112.1673244,
+  "phone": "+16023531484",
+  "website": "https://restaurants.elpolloloco.com/az/phoenix/5009-w-mcdowell-rd",
+  "placeId": "ChIJ56BVJF4UK4cRVTsOAtKiMaI",
+  "googleRating": 4,
+  "googleReviewCount": 1569,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:30 AM - 11:00 PM",
+    "tue": "9:30 AM - 11:00 PM",
+    "wed": "9:30 AM - 11:00 PM",
+    "thu": "9:30 AM - 11:00 PM",
+    "fri": "9:30 AM - 11:00 PM",
+    "sat": "9:30 AM - 11:00 PM",
+    "sun": "9:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3dd59c0bb4abceee18d10d",
+  "seededAt": "2026-06-26T01:27:56Z",
+  "updatedAt": "2026-06-26T01:27:57Z",
+  "source": "groundgame"
+}

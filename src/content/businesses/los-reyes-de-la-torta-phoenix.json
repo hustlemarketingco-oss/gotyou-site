@@ -1,0 +1,39 @@
+{
+  "slug": "los-reyes-de-la-torta-phoenix",
+  "name": "Los Reyes De La Torta",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Breakfast restaurant",
+    "Burrito restaurant"
+  ],
+  "address": "9230 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5708244,
+  "lng": -112.06566160000001,
+  "phone": "+16028702967",
+  "website": "https://losreyesaz.com/locations/north-phoenix",
+  "placeId": "ChIJTfH21XVtK4cRQbWSJLqAP6s",
+  "googleRating": 4.4,
+  "googleReviewCount": 2650,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5541a16547693146dde885",
+  "seededAt": "2026-07-13T19:50:57Z",
+  "updatedAt": "2026-07-13T19:50:57Z",
+  "source": "groundgame"
+}

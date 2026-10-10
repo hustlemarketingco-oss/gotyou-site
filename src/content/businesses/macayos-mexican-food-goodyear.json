@@ -1,0 +1,41 @@
+{
+  "slug": "macayos-mexican-food-goodyear",
+  "name": "Macayo's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Latin american restaurant",
+    "Food delivery",
+    "Family restaurant",
+    "Bar"
+  ],
+  "address": "1474 N Litchfield Rd",
+  "city": "Goodyear",
+  "state": "AZ",
+  "zip": "85395",
+  "lat": 33.46264740000001,
+  "lng": -112.3594646,
+  "phone": "+16232097000",
+  "website": "https://www.macayo.com/",
+  "placeId": "ChIJAwGflpc4K4cRqeVXcLYdUy4",
+  "googleRating": 4.1,
+  "googleReviewCount": 2200,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a47142f826fe37bffc89a46",
+  "seededAt": "2026-07-03T01:45:19Z",
+  "updatedAt": "2026-07-03T01:45:19Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "over-easy-mesa",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "1941 W Guadalupe Rd Unit 105",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3630795,
+  "lng": -111.8761098,
+  "phone": "+14805537681",
+  "website": "https://eatatovereasy.com/locations/mesa-dobson/",
+  "placeId": "ChIJLeft41AHK4cRDh1DbhgycRQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 564,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3039f66fc00bef0ca856c2",
+  "seededAt": "2026-06-15T17:44:22Z",
+  "updatedAt": "2026-06-15T17:44:22Z",
+  "source": "groundgame"
+}

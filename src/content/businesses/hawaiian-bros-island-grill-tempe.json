@@ -1,0 +1,42 @@
+{
+  "slug": "hawaiian-bros-island-grill-tempe",
+  "name": "Hawaiian Bros Island Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Hawaiian restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "1346 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4131223,
+  "lng": -111.9266837,
+  "phone": "+14805508593",
+  "website": "https://www.hawaiianbros.com/",
+  "placeId": "ChIJ_bOXVtsJK4cRoJU2k0ggtWw",
+  "googleRating": 4.8,
+  "googleReviewCount": 1504,
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 3:00 AM",
+    "tue": "10:00 AM - 3:00 AM",
+    "wed": "10:00 AM - 3:00 AM",
+    "thu": "10:00 AM - 3:00 AM",
+    "fri": "10:00 AM - 3:00 AM",
+    "sat": "10:00 AM - 3:00 AM",
+    "sun": "10:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a51508c28eda66f682b7fda",
+  "seededAt": "2026-07-10T20:05:32Z",
+  "updatedAt": "2026-10-09T22:45:25Z",
+  "source": "groundgame"
+}

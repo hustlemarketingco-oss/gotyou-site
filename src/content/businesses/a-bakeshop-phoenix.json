@@ -1,0 +1,32 @@
+{
+  "slug": "a-bakeshop-phoenix",
+  "name": "A Bakeshop",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "803 N 7th St Suite 102",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "phone": "+16022742253",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/abakeshop"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b3a957d988721e13370",
+  "seededAt": "2026-06-08T04:55:22Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

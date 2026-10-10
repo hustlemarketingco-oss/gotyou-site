@@ -1,0 +1,37 @@
+{
+  "slug": "yogis-grill-teriyaki-roll-phoenix",
+  "name": "Yogis Grill - Teriyaki & Roll",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant"
+  ],
+  "address": "6075 N 19th Ave #101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85015",
+  "lat": 33.5251058,
+  "lng": -112.09946099999999,
+  "phone": "+16029008555",
+  "website": "http://www.yogisgrill.com/",
+  "placeId": "ChIJEY0RzUVtK4cRY1TjRGh4CpI",
+  "googleRating": 3.6,
+  "googleReviewCount": 313,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ca998698eba862a4ed8cb",
+  "seededAt": "2026-06-25T04:07:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

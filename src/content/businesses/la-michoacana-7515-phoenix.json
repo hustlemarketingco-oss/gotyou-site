@@ -1,0 +1,37 @@
+{
+  "slug": "la-michoacana-7515-phoenix",
+  "name": "La Michoacana Phoenix",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7515 W Encanto Blvd #8",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85035",
+  "lat": 33.472411699999995,
+  "lng": -112.2224277,
+  "phone": "+16238460816",
+  "placeId": "ChIJ-2wKT9wVK4cRrhqjl8ewG-g",
+  "googleRating": 3.3,
+  "googleReviewCount": 54,
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398c1cab25633fead58ee4",
+  "seededAt": "2026-06-22T19:25:16Z",
+  "updatedAt": "2026-06-22T19:25:16Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-tempe",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "702 S Forest Ave Suite 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4227699,
+  "lng": -111.93682589999999,
+  "phone": "+14805348517",
+  "website": "https://www.freddys.com/location/tempe-university-dr-az",
+  "placeId": "ChIJG2xgDNkIK4cR1WgvUwjzpHs",
+  "googleRating": 4.6,
+  "googleReviewCount": 81,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b659677e3e7ae32385492",
+  "seededAt": "2026-06-12T01:49:10Z",
+  "updatedAt": "2026-06-12T22:08:26Z",
+  "source": "groundgame"
+}

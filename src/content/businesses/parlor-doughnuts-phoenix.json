@@ -1,0 +1,42 @@
+{
+  "slug": "parlor-doughnuts-phoenix",
+  "name": "Parlor Doughnuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Coffee shop"
+  ],
+  "address": "4025 E Chandler Blvd #28",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85048",
+  "phone": "+16024412744",
+  "priceRange": "$1–10",
+  "description": "Parlor Doughnuts is a casual donut shop & coffee shop in Phoenix, serving up coffee, takeout & delivery. Popular for solo dining.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/parlordoughnuts"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2453b462bea07965bf3a79",
+  "seededAt": "2026-06-06T17:07:00Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

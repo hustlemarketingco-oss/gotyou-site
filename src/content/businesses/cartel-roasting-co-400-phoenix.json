@@ -1,0 +1,42 @@
+{
+  "slug": "cartel-roasting-co-400-phoenix",
+  "name": "Cartel Roasting Co.",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Pastry shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Coffee roastery",
+    "Cafe",
+    "Wholesaler",
+    "Food store"
+  ],
+  "address": "400 W Camelback Rd Bldg F",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85013",
+  "lat": 33.509474,
+  "lng": -112.07919349999999,
+  "website": "http://cartelroasting.co/",
+  "placeId": "ChIJGWkAr8QTK4cRg0L_g-0R0RQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 77,
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "7:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f90b6cf6017f9832c01",
+  "seededAt": "2026-06-18T17:49:04Z",
+  "updatedAt": "2026-06-18T17:49:05Z",
+  "source": "groundgame"
+}

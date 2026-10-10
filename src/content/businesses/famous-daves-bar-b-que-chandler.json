@@ -1,0 +1,39 @@
+{
+  "slug": "famous-daves-bar-b-que-chandler",
+  "name": "Famous Dave's Bar-B-Que",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery",
+    "American restaurant"
+  ],
+  "address": "3250 W Frye Rd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85226",
+  "lat": 33.2982005,
+  "lng": -111.89850919999999,
+  "phone": "+14807821212",
+  "website": "https://www.famousdaves.com/Chandler",
+  "placeId": "ChIJVfuy0tYAK4cResAOdjDE3P8",
+  "googleRating": 4.3,
+  "googleReviewCount": 2714,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d906cf19bd0d5af36d607",
+  "seededAt": "2026-06-25T20:32:44Z",
+  "updatedAt": "2026-06-25T20:32:44Z",
+  "source": "groundgame"
+}

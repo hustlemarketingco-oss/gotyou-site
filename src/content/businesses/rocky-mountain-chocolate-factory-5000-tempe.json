@@ -1,0 +1,42 @@
+{
+  "slug": "rocky-mountain-chocolate-factory-5000-tempe",
+  "name": "Rocky Mountain Chocolate Factory",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Chocolate shop",
+  "secondaryCategories": [
+    "Candy store",
+    "Dessert shop",
+    "Gift shop",
+    "Chocolate factory",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "5000 S Arizona Mills Cir #454",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.381357799999996,
+  "lng": -111.96562759999999,
+  "phone": "+14807567366",
+  "website": "https://www.rmcf.com/pages/store-locator",
+  "placeId": "ChIJA0lE4VkPK4cRRUXFXrNuVmE",
+  "googleRating": 4.3,
+  "googleReviewCount": 90,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a345132a881339e8868b0d1",
+  "seededAt": "2026-06-18T20:12:34Z",
+  "updatedAt": "2026-06-18T20:12:34Z",
+  "source": "groundgame"
+}

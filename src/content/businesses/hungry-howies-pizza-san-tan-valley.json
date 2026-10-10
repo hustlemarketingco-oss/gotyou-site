@@ -1,0 +1,43 @@
+{
+  "slug": "hungry-howies-pizza-san-tan-valley",
+  "name": "Hungry Howie's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1745 Hunt Hwy #104",
+  "city": "San Tan Valley",
+  "state": "AZ",
+  "zip": "85143",
+  "lat": 33.177960899999995,
+  "lng": -111.58585169999999,
+  "phone": "+14804746000",
+  "website": "https://www.hungryhowies.com/stores/az/queen-creek/1745-w-hunt-hwy-104",
+  "placeId": "ChIJ6-Oh-TJMKocR7Mw3lye92SM",
+  "googleRating": 3.4,
+  "googleReviewCount": 399,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 12:00 AM",
+    "sat": "10:30 AM - 12:00 AM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cbb15699c3021a5d0c6d",
+  "seededAt": "2026-06-16T22:18:25Z",
+  "updatedAt": "2026-06-16T22:18:25Z",
+  "source": "groundgame"
+}

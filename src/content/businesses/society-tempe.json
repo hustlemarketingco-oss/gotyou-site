@@ -1,0 +1,47 @@
+{
+  "slug": "society-tempe",
+  "name": "Society",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Cocktail bar",
+    "Mediterranean restaurant"
+  ],
+  "address": "920 E University Dr #204",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "phone": "+14805507801",
+  "priceRange": "$20–80",
+  "description": "Located in Tempe, Society is a cozy, lively italian restaurant & cocktail bar with alcohol & beer, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Lively",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "Coffee",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/101121749150079"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243861ec0bdbd641ce9f68",
+  "seededAt": "2026-06-06T15:10:25Z",
+  "updatedAt": "2026-06-09T13:10:46Z",
+  "source": "groundgame"
+}

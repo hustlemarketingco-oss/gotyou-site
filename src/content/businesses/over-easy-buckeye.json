@@ -1,0 +1,39 @@
+{
+  "slug": "over-easy-buckeye",
+  "name": "Over Easy",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Family restaurant",
+    "Food delivery"
+  ],
+  "address": "1045 N Verrado Way #107",
+  "city": "Buckeye",
+  "state": "AZ",
+  "zip": "85326",
+  "lat": 33.4578876,
+  "lng": -112.50351069999999,
+  "phone": "+14802472510",
+  "website": "https://eatatovereasy.com/locations/buckeye-verrado/",
+  "placeId": "ChIJvz0DWgtJK4cRgO8DyWHq95A",
+  "googleRating": 4.5,
+  "googleReviewCount": 201,
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a303a0bb5dabf6e721f8279",
+  "seededAt": "2026-06-15T17:44:43Z",
+  "updatedAt": "2026-06-15T17:44:44Z",
+  "source": "groundgame"
+}

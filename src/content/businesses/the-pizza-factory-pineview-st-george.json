@@ -1,0 +1,35 @@
+{
+  "slug": "the-pizza-factory-pineview-st-george",
+  "name": "The Pizza Factory - Pineview",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "2376 Red Cliffs Dr #501",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "phone": "+14356882656",
+  "website": "https://stgeorgepizzafactory.com/",
+  "placeId": "ChIJwSkTYQ5byoARVutWI1my5g8",
+  "googleRating": 4,
+  "googleReviewCount": 905,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dc7dac5ad71ed0af68",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

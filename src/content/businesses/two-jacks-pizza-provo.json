@@ -46,5 +46,10 @@
   "seededAt": "2026-10-02T04:48:14Z",
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
-  "enrichedAt": "2026-10-04T18:45:49Z"
+  "enrichedAt": "2026-10-04T18:45:49Z",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "priceRange": "$",
+  "groundgameId": "6ac6d6683df8831a5eb14f2a"
 }

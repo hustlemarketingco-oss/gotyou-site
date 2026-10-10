@@ -1,0 +1,37 @@
+{
+  "slug": "maskadores-taco-shop-scottsdale",
+  "name": "Maskadores Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7620 E McKellips Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4516792,
+  "lng": -111.9163038,
+  "phone": "+14805900863",
+  "website": "https://mckellips.maskadorestacoshops.com/",
+  "placeId": "ChIJRSnVVG0JK4cR0VQ1dbe4OOE",
+  "googleRating": 4.6,
+  "googleReviewCount": 932,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438ccf1f03b890f386c1b",
+  "seededAt": "2026-06-18T18:28:28Z",
+  "updatedAt": "2026-06-18T18:28:28Z",
+  "source": "groundgame"
+}

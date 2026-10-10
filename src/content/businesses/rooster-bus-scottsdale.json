@@ -1,0 +1,39 @@
+{
+  "slug": "rooster-bus-scottsdale",
+  "name": "Rooster Bus",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "7083 E 5th Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4980414,
+  "lng": -111.9285728,
+  "phone": "+14805974029",
+  "website": "https://shoptherooster.com/",
+  "placeId": "ChIJZVpL-yELK4cRew8QWJRMaNE",
+  "googleRating": 4.7,
+  "googleReviewCount": 72,
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2873fdd1cb05b479eba542",
+  "seededAt": "2026-06-09T20:13:49Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

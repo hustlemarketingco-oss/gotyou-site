@@ -1,0 +1,47 @@
+{
+  "slug": "waffle-house-2516-phoenix",
+  "name": "Waffle House",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Diner",
+    "Family restaurant",
+    "Takeout restaurant"
+  ],
+  "address": "2516 W Bell Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85023",
+  "phone": "+16029427320",
+  "priceRange": "$10–20",
+  "description": "Simple chain spot offering American diner fare & all-day breakfast, including signature waffles.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/WaffleHouse"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443dc95d75e1245b57880",
+  "seededAt": "2026-06-06T15:59:24Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

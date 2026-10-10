@@ -1,0 +1,53 @@
+{
+  "slug": "city-market-deli-catering-scottsdale",
+  "name": "City Market Deli & Catering",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Deli"
+  ],
+  "address": "4800 N Scottsdale Rd Suit 1175",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5082458,
+  "lng": -111.9278493,
+  "phone": "+14803982121",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15988424434379623900",
+  "googleCid": "15988424434379623900",
+  "placeId": "ChIJW2sGNIALK4cR3I1fEVBL4t0",
+  "googleRating": 4.7,
+  "googleReviewCount": 29,
+  "priceRange": "$10–20",
+  "description": "Located in Scottsdale, City Market Deli & Catering is a restaurant & caterer with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed",
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e06c228f2086583cdde",
+  "seededAt": "2026-06-06T15:34:30Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

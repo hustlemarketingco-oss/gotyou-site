@@ -1,0 +1,43 @@
+{
+  "slug": "kalos-grill-tempe",
+  "name": "Kalos grill",
+  "category": "Restaurant",
+  "googleCategory": "Mediterranean restaurant",
+  "secondaryCategories": [
+    "Greek restaurant"
+  ],
+  "address": "1537 W Broadway Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407223,
+  "lng": -111.9655549,
+  "phone": "+14805903484",
+  "website": "https://kalosgrill.com/",
+  "placeId": "ChIJWzKbtpcPK4cRVJNVNFIg1f4",
+  "googleRating": 4.1,
+  "googleReviewCount": 342,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34380389e2e09cc38b0c01",
+  "seededAt": "2026-06-18T18:25:07Z",
+  "updatedAt": "2026-07-29T20:26:22Z",
+  "source": "groundgame"
+}

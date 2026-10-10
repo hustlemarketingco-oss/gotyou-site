@@ -1,0 +1,45 @@
+{
+  "slug": "krispy-kreme-mesa",
+  "name": "Krispy Kreme",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Dessert shop",
+    "Fast food restaurant"
+  ],
+  "address": "1984 W Main St",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "phone": "+14806682704",
+  "priceRange": "$1–10",
+  "description": "Longtime chain serving a variety of donut flavors & shapes, plus coffee & frozen drinks.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/krispykreme"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2443fb14b1508e260c78a1",
+  "seededAt": "2026-06-06T15:59:55Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

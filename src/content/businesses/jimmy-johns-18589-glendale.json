@@ -1,0 +1,37 @@
+{
+  "slug": "jimmy-johns-18589-glendale",
+  "name": "Jimmy John's",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "18589 N 59th Ave #106",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.653810799999995,
+  "lng": -112.18490179999999,
+  "phone": "+16029931499",
+  "website": "https://locations.jimmyjohns.com/az/glendale/sandwiches-3094.html&y_source=1_MjAyNDA4Mzk2OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJeQq0d_RoK4cRtYpczThDG0o",
+  "googleRating": 4,
+  "googleReviewCount": 233,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a35792c0fc38bd1ad51c8e8",
+  "seededAt": "2026-06-19T17:15:24Z",
+  "updatedAt": "2026-06-19T17:15:24Z",
+  "source": "groundgame"
+}

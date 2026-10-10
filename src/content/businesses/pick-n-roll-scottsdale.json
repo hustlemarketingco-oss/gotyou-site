@@ -1,0 +1,39 @@
+{
+  "slug": "pick-n-roll-scottsdale",
+  "name": "Pick N' Roll",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Fast food restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "9120 East E Talking Stick Wy Suite # E-6",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85250",
+  "lat": 33.540546000000006,
+  "lng": -111.885339,
+  "phone": "+14802915070",
+  "website": "http://www.picknrollusa.com/",
+  "placeId": "ChIJ5-mXNeoKK4cRjs0DdCvUHRw",
+  "googleRating": 4.7,
+  "googleReviewCount": 346,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738c38fa2811b98499ee8",
+  "seededAt": "2026-06-08T21:48:51Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

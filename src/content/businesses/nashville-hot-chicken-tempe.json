@@ -1,0 +1,39 @@
+{
+  "slug": "nashville-hot-chicken-tempe",
+  "name": "Nashville Hot Chicken",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Halal restaurant"
+  ],
+  "address": "1628 E Southern Ave #7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941425,
+  "lng": -111.9121993,
+  "phone": "+16028874979",
+  "website": "https://hotchicken.org/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=6644010144112184674",
+  "googleCid": "6644010144112184674",
+  "placeId": "ChIJ1Yn-oXQJK4cRYg3mSwZENFw",
+  "googleRating": 4.6,
+  "googleReviewCount": 371,
+  "description": "Located in Tempe, Nashville Hot Chicken is a fast food restaurant & halal restaurant.",
+  "hours": {
+    "fri": "12:00 PM - 12:00 AM",
+    "sat": "12:00 PM - 12:00 AM",
+    "sun": "12:00 PM - 10:00 PM",
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24376b0e01d5f2b2e5bf99",
+  "seededAt": "2026-06-06T15:06:19Z",
+  "updatedAt": "2026-07-09T19:26:15Z",
+  "source": "groundgame"
+}

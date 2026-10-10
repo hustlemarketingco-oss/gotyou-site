@@ -1,0 +1,37 @@
+{
+  "slug": "sals-gilbert-pizza-gilbert",
+  "name": "Sal's Gilbert Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Italian restaurant"
+  ],
+  "address": "1150 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85296",
+  "lat": 33.3289767,
+  "lng": -111.79051140000001,
+  "phone": "+14806332226",
+  "website": "http://www.gilbertpizzaaz.com/",
+  "placeId": "ChIJKax-ZWGpK4cRGGclduAr9R0",
+  "googleRating": 4.6,
+  "googleReviewCount": 2788,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 10:30 PM",
+    "sat": "10:30 AM - 10:30 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a41e157cd5328e8d90dcccc",
+  "seededAt": "2026-06-29T03:07:03Z",
+  "updatedAt": "2026-06-29T03:07:03Z",
+  "source": "groundgame"
+}

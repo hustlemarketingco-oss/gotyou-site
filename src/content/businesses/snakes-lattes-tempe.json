@@ -1,0 +1,52 @@
+{
+  "slug": "snakes-lattes-tempe",
+  "name": "Snakes & Lattes Tempe",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Brunch restaurant",
+    "Coffee shop",
+    "Family restaurant",
+    "Takeout restaurant"
+  ],
+  "address": "20 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "phone": "+14803616644",
+  "priceRange": "$20–30",
+  "description": "Lively cafe with a huge collection of board & card games, plus sandwiches, salads & drinks.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Trendy",
+    "Paid parking lot",
+    "Paid street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite",
+    "Vegan options",
+    "Vegetarian options",
+    "Pets: Outside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/snakesandlattes"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24362c3ce6362e62b75042",
+  "seededAt": "2026-06-06T15:01:00Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

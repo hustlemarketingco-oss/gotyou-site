@@ -1,0 +1,38 @@
+{
+  "slug": "utahs-rib-chop-house-st-george",
+  "name": "Utah's Rib & Chop House - St. George",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Fine dining restaurant",
+    "Barbecue restaurant"
+  ],
+  "address": "1676 S Convention Center Dr",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "lat": 37.0793932,
+  "lng": -113.58273779999999,
+  "phone": "+14356741900",
+  "website": "https://ribandchophouse.com/st-george-utah/",
+  "placeId": "ChIJs3TXuzdFyoARYh4XzHSLObg",
+  "googleRating": 4.3,
+  "googleReviewCount": 3198,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 10:00 PM",
+    "tue": "11:30 AM - 10:00 PM",
+    "wed": "11:30 AM - 10:00 PM",
+    "thu": "11:30 AM - 10:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b1890fb3cec7e1ea5b2",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

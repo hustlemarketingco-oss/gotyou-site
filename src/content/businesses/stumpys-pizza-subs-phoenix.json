@@ -1,0 +1,40 @@
+{
+  "slug": "stumpys-pizza-subs-phoenix",
+  "name": "Stumpy's Pizza & Subs",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Sandwich shop",
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "1331 E Northern Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5528417,
+  "lng": -112.05343769999999,
+  "phone": "+16029972727",
+  "website": "http://www.pizzabystumpys.com/",
+  "placeId": "ChIJ0wZQc15tK4cRl3Mp5f54pdk",
+  "googleRating": 4.7,
+  "googleReviewCount": 1261,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb1a5133fb66eaeafc31",
+  "seededAt": "2026-06-07T01:36:26Z",
+  "updatedAt": "2026-09-22T15:41:35Z",
+  "source": "groundgame"
+}

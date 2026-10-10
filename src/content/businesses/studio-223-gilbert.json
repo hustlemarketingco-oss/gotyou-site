@@ -1,0 +1,37 @@
+{
+  "slug": "studio-223-gilbert",
+  "name": "Studio 223",
+  "category": "Shopping",
+  "googleCategory": "Home goods store",
+  "address": "217 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3543316,
+  "lng": -111.7893971,
+  "phone": "+14808922808",
+  "website": "http://studio223az.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=10558900706005110423",
+  "googleCid": "10558900706005110423",
+  "placeId": "ChIJQ31v5hapK4cRl04OqD_AiJI",
+  "googleRating": 4.9,
+  "googleReviewCount": 70,
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://instagram.com/studio223az"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264b3172a848ad39d280f8",
+  "seededAt": "2026-06-08T04:55:13Z",
+  "updatedAt": "2026-06-08T04:55:13Z",
+  "source": "groundgame"
+}

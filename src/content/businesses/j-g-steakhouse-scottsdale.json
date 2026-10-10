@@ -1,0 +1,45 @@
+{
+  "slug": "j-g-steakhouse-scottsdale",
+  "name": "J&G Steakhouse",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "6000 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "phone": "+14802148000",
+  "priceRange": "$100+",
+  "description": "Phoenician Resort steakhouse from Jean-Georges Vongerichten in a chic clubhouse setting with views.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Romantic",
+    "Trendy",
+    "Upscale",
+    "Free parking lot",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Vegetarian options"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/PhoenicianScottsdale"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243e8556da19b8f031cd71",
+  "seededAt": "2026-06-06T15:36:37Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

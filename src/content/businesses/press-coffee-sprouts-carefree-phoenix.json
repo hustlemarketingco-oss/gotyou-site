@@ -1,0 +1,37 @@
+{
+  "slug": "press-coffee-sprouts-carefree-phoenix",
+  "name": "Press Coffee - Sprouts Carefree",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "34750 N North Vly Pkwy",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85086",
+  "lat": 33.799903799999996,
+  "lng": -112.131613,
+  "website": "https://presscoffee.com/pages/sprouts-carefree",
+  "placeId": "ChIJ5S0aUKtjK4cRBtSYiQ956to",
+  "googleRating": 4.2,
+  "googleReviewCount": 18,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b93998c4115f1ee4347c",
+  "seededAt": "2026-06-10T19:21:29Z",
+  "updatedAt": "2026-06-10T19:21:30Z",
+  "source": "groundgame"
+}

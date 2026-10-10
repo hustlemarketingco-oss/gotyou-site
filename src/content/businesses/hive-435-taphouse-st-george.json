@@ -1,0 +1,32 @@
+{
+  "slug": "hive-435-taphouse-st-george",
+  "name": "Hive 435 Taphouse",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "61 W St George Blvd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "phone": "+14356198435",
+  "website": "https://www.hive435taphouse.com/",
+  "placeId": "ChIJ1d16OvpFyoARPEvTfD83nZE",
+  "googleRating": 4.7,
+  "googleReviewCount": 1058,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 11:00 PM",
+    "tue": "4:00 PM - 11:00 PM",
+    "wed": "4:00 PM - 11:00 PM",
+    "thu": "4:00 PM - 11:00 PM",
+    "fri": "12:00 PM - 12:00 AM",
+    "sat": "12:00 PM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dc08eebcaa2c5bb420",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

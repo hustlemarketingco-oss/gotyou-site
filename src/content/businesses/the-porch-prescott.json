@@ -1,0 +1,38 @@
+{
+  "slug": "the-porch-prescott",
+  "name": "The Porch",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "226 N Montezuma St",
+  "city": "Prescott",
+  "state": "AZ",
+  "zip": "86301",
+  "lat": 34.544725299999996,
+  "lng": -112.4702492,
+  "phone": "+19287073163",
+  "website": "http://porch.coffee/",
+  "placeId": "ChIJOaB_sdAoLYcROWXdxIkcThM",
+  "googleRating": 4.6,
+  "googleReviewCount": 351,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1c4f82dfecb17c48959d",
+  "seededAt": "2026-06-12T14:48:47Z",
+  "updatedAt": "2026-06-12T14:48:47Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "ldv-winery-scottsdale",
+  "name": "LDV Winery",
+  "category": "Bars & Pubs",
+  "googleCategory": "Winery",
+  "secondaryCategories": [
+    "Event venue",
+    "Wine bar",
+    "Wine cellar",
+    "Wine club"
+  ],
+  "address": "7134 E Stetson Dr B110",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4994348,
+  "lng": -111.9278661,
+  "phone": "+14806644822",
+  "website": "http://www.scottsdalewinetrail.com/contact/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=12333733871337896827",
+  "googleCid": "12333733871337896827",
+  "placeId": "ChIJVVVRLJULK4cRe3tM65s5Kqs",
+  "googleRating": 4.9,
+  "googleReviewCount": 30,
+  "description": "Comfy bar offering tastings & glasses of its own brand of wine, plus light fare & outdoor seats.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Pets: Inside"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/LDVWinery"
+  ],
+  "hours": {
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM",
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b682fb44b0ec02a9d0f",
+  "seededAt": "2026-06-06T15:23:20Z",
+  "updatedAt": "2026-07-09T19:09:16Z",
+  "source": "groundgame"
+}

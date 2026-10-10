@@ -1,0 +1,43 @@
+{
+  "slug": "panda-express-5229-phoenix",
+  "name": "Panda Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Chinese noodle restaurant",
+    "Asian restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "5229 W Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85031",
+  "lat": 33.4945741,
+  "lng": -112.17224120000002,
+  "phone": "+16238737887",
+  "website": "https://www.pandaexpress.com/locations/az/phoenix/1560",
+  "placeId": "ChIJr1BftMYUK4cRhRkDr2x5fG4",
+  "googleRating": 3.5,
+  "googleReviewCount": 1828,
+  "priceRange": "$",
+  "hours": {
+    "mon": "8:00 AM - 1:00 AM",
+    "tue": "8:00 AM - 1:00 AM",
+    "wed": "8:00 AM - 1:00 AM",
+    "thu": "8:00 AM - 1:00 AM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2997b128da5410bdbd5bcf",
+  "seededAt": "2026-06-10T16:58:25Z",
+  "updatedAt": "2026-06-12T22:07:17Z",
+  "source": "groundgame"
+}

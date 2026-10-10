@@ -1,0 +1,36 @@
+{
+  "slug": "oscars-taco-shop-tempe",
+  "name": "Oscar's Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "230 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3931734,
+  "lng": -111.9427151,
+  "phone": "+14808943494",
+  "website": "http://www.oscarsfreshmex.com/",
+  "placeId": "ChIJ81qdAAAJK4cRPDKC1fXe6FE",
+  "googleRating": 4,
+  "googleReviewCount": 78,
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438cd68daad8e6faa2af7",
+  "seededAt": "2026-06-18T18:28:29Z",
+  "updatedAt": "2026-06-26T04:24:36Z",
+  "source": "groundgame"
+}

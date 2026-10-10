@@ -1,0 +1,40 @@
+{
+  "slug": "fazolis-glendale",
+  "name": "Fazoli's",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Catering service",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "5825 W Peoria Ave",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85302",
+  "lat": 33.5815196,
+  "lng": -112.18424929999999,
+  "phone": "+16027558001",
+  "website": "https://fazolis.com/locations/&y_source=1_MTA0OTAzNzQ1OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJ76BZNKxrK4cRjHewgxepL_c",
+  "googleRating": 4.2,
+  "googleReviewCount": 642,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "10:30 AM - 9:30 PM",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 10:30 PM",
+    "sat": "10:30 AM - 10:30 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d840d6ed8a086ce5a786b",
+  "seededAt": "2026-06-25T19:39:57Z",
+  "updatedAt": "2026-06-25T19:39:58Z",
+  "source": "groundgame"
+}

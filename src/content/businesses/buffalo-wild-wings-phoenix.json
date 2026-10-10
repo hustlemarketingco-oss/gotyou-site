@@ -1,0 +1,39 @@
+{
+  "slug": "buffalo-wild-wings-phoenix",
+  "name": "Buffalo Wild Wings",
+  "category": "Fast Food",
+  "googleCategory": "Chicken wings restaurant",
+  "secondaryCategories": [
+    "Sports bar",
+    "Meal takeaway",
+    "Bar"
+  ],
+  "address": "2700 W North Ln",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85051",
+  "lat": 33.5806055,
+  "lng": -112.11811469999999,
+  "phone": "+16029444260",
+  "website": "https://www.buffalowildwings.com/locations/us/az/phoenix/2700-west-north-lane/sports-bar-844&y_source=1_MjAxNjYxMTE3OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "placeId": "ChIJAU4J2UFsK4cRqE-NYtRiibA",
+  "googleRating": 3.7,
+  "googleReviewCount": 3686,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 2:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d33edc0080dee176015",
+  "seededAt": "2026-06-12T14:52:35Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

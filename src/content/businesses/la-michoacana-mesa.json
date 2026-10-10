@@ -1,0 +1,36 @@
+{
+  "slug": "la-michoacana-mesa",
+  "name": "La Michoacana",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "Mesa Riverview, 1055 N Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4355689,
+  "lng": -111.86363279999999,
+  "placeId": "ChIJWU9K6zoJK4cRwfzO-pjdylE",
+  "googleRating": 3.6,
+  "googleReviewCount": 38,
+  "hours": {
+    "mon": "1:00 PM - 10:00 PM",
+    "tue": "1:00 PM - 10:00 PM",
+    "wed": "1:00 PM - 10:00 PM",
+    "thu": "1:00 PM - 10:00 PM",
+    "fri": "1:00 PM - 10:00 PM",
+    "sat": "1:00 PM - 10:00 PM",
+    "sun": "1:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a398d80ae8b523d933d8820",
+  "seededAt": "2026-06-22T19:31:12Z",
+  "updatedAt": "2026-06-26T15:59:51Z",
+  "source": "groundgame"
+}

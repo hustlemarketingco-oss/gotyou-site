@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-20910-phoenix",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "20910 N Tatum Blvd Ste 190",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85050",
+  "lat": 33.6753861,
+  "lng": -111.97984869999999,
+  "phone": "+14805200500",
+  "website": "https://locations.ikessandwich.com/az/phoenix/537/",
+  "placeId": "ChIJ_eCCw6BxK4cRUSYuADYPQ1k",
+  "googleRating": 4.1,
+  "googleReviewCount": 209,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a958fb2fd602990f2ef",
+  "seededAt": "2026-06-16T18:48:53Z",
+  "updatedAt": "2026-06-16T18:48:53Z",
+  "source": "groundgame"
+}

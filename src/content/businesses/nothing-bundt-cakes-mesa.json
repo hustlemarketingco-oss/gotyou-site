@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-mesa",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "1815 S Crismon Rd #110",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85209",
+  "lat": 33.3816566,
+  "lng": -111.6171631,
+  "phone": "+14804007115",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/mesa/bakery-567.html",
+  "placeId": "ChIJ1f8XbaSxK4cRXtkcdr_T8VE",
+  "googleRating": 4.6,
+  "googleReviewCount": 44,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11d1e75d05bf582edf80",
+  "seededAt": "2026-06-23T04:55:45Z",
+  "updatedAt": "2026-06-23T04:55:45Z",
+  "source": "groundgame"
+}

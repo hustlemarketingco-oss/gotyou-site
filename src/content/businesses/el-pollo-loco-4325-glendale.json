@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-4325-glendale",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "4325 W Bethany Home Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85301",
+  "lat": 33.5236152,
+  "lng": -112.15256699999999,
+  "phone": "+16239307278",
+  "website": "https://restaurants.elpolloloco.com/az/glendale/4325-w-bethany-home-rd",
+  "placeId": "ChIJI8yaZ1BrK4cREbxLr1Rnsgw",
+  "googleRating": 3.7,
+  "googleReviewCount": 1121,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3dd59fa1772fcb6e35cfa9",
+  "seededAt": "2026-06-26T01:27:59Z",
+  "updatedAt": "2026-06-26T01:27:59Z",
+  "source": "groundgame"
+}

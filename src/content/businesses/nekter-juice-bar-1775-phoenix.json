@@ -1,0 +1,43 @@
+{
+  "slug": "nekter-juice-bar-1775-phoenix",
+  "name": "Nekter Juice Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Acai shop",
+    "Brazilian restaurant",
+    "Health food store",
+    "Cafe",
+    "Breakfast restaurant",
+    "Food store"
+  ],
+  "address": "1775 N 99th Ave ste 150",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85037",
+  "lat": 33.4673435,
+  "lng": -112.27211919999999,
+  "phone": "+16026333050",
+  "website": "https://locations.nekterjuicebar.com/ll/us/az/phoenix/1775-n-99th-ave-ste-150/",
+  "placeId": "ChIJmS0APfw_K4cRNUjQx1VqtnY",
+  "googleRating": 4.2,
+  "googleReviewCount": 48,
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3583b6a25a2491409de3c7",
+  "seededAt": "2026-06-19T18:00:22Z",
+  "updatedAt": "2026-06-19T18:00:22Z",
+  "source": "groundgame"
+}

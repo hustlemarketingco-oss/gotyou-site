@@ -1,0 +1,38 @@
+{
+  "slug": "elements-massage-gilbert",
+  "name": "Elements Massage Gilbert",
+  "category": "Health & Beauty",
+  "googleCategory": "Wellness center",
+  "secondaryCategories": [
+    "Massage spa",
+    "Massage",
+    "Spa"
+  ],
+  "address": "2556 S Val Vista Dr #105",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3037882,
+  "lng": -111.7561095,
+  "phone": "+14807262222",
+  "website": "https://elementsmassage.com/gilbert",
+  "placeId": "ChIJ1xFztnasK4cRAAtsLLnWoGA",
+  "googleRating": 4.8,
+  "googleReviewCount": 374,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a397a73d0d74a8f84409019",
+  "seededAt": "2026-06-22T18:09:55Z",
+  "updatedAt": "2026-06-22T18:09:56Z",
+  "source": "groundgame"
+}

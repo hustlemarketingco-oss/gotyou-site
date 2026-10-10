@@ -1,0 +1,51 @@
+{
+  "slug": "bar-bambino-scottsdale",
+  "name": "Bar Bambino",
+  "category": "Bars & Pubs",
+  "googleCategory": "Cocktail bar",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7014 E Camelback Rd #601",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5027478,
+  "lng": -111.9290059,
+  "phone": "+14805768168",
+  "website": "https://www.barbambino.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16071594924079808487",
+  "googleCid": "16071594924079808487",
+  "placeId": "ChIJ0bR5xZgLK4cR53-_t27GCd8",
+  "googleRating": 3.9,
+  "googleReviewCount": 27,
+  "priceRange": "$20–70",
+  "description": "Located in Scottsdale, Bar Bambino is a cozy, trendy cocktail bar & restaurant with alcohol & beer, dine-in.",
+  "amenities": [
+    "Dine-in",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Trendy",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/barbambino"
+  ],
+  "hours": {
+    "fri": "6:00 PM - 2:00 AM",
+    "sat": "6:00 PM - 2:00 AM",
+    "sun": "6:00 PM - 11:00 PM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "6:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243b13d6e415ef23cf05be",
+  "seededAt": "2026-06-06T15:21:55Z",
+  "updatedAt": "2026-06-25T21:24:30Z",
+  "source": "groundgame"
+}

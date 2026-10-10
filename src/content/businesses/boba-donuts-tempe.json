@@ -1,0 +1,50 @@
+{
+  "slug": "boba-donuts-tempe",
+  "name": "Boba & Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Donut shop"
+  ],
+  "address": "1320 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496029,
+  "lng": -111.9604606,
+  "phone": "+14804544654",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8201591497908644642",
+  "googleCid": "8201591497908644642",
+  "placeId": "ChIJqR16xpgFK4cRImu1cQPo0XE",
+  "googleRating": 4.5,
+  "googleReviewCount": 77,
+  "priceRange": "$1–10",
+  "description": "Located in Tempe, Boba & Donuts is a bakery & donut shop with coffee, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "hours": {
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 8:00 PM",
+    "sun": "6:00 AM - 7:00 PM",
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24360fb7fd5c5206d803fb",
+  "seededAt": "2026-06-06T15:00:31Z",
+  "updatedAt": "2026-06-06T15:05:08Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "j-ts-bar-grill-phoenix",
+  "name": "J T's Bar & Grill",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar & grill",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4829 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.4942096,
+  "lng": -111.9766154,
+  "phone": "+16029527046",
+  "website": "http://www.jtsarcadia.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7173403798172527727",
+  "googleCid": "7173403798172527727",
+  "placeId": "ChIJ2RvQU10MK4cRb-yChL8MjWM",
+  "googleRating": 4.7,
+  "googleReviewCount": 674,
+  "priceRange": "$20–30",
+  "description": "Grilled wings, burgers & draft beer are some highlights of this unpretentious watering hole.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/jtsbarandgrillphx"
+  ],
+  "hours": {
+    "fri": "12:00 PM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM",
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 11:00 PM",
+    "wed": "3:00 PM - 11:00 PM",
+    "thu": "12:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2442ddd0091228e9bfb258",
+  "seededAt": "2026-06-06T15:55:09Z",
+  "updatedAt": "2026-09-22T15:41:27Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "einstein-bros-bagels-tempe",
+  "name": "Einstein Bros. Bagels",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee shop"
+  ],
+  "address": "9880 S Rural Rd Ste 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "phone": "+14807057111",
+  "priceRange": "$1–10",
+  "description": "Located in Tempe, Einstein Bros. Bagels is a bagel shop & bakery with coffee, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/einsteinbros"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439be93b945fe820fb5f0",
+  "seededAt": "2026-06-06T15:16:14Z",
+  "updatedAt": "2026-06-12T22:06:08Z",
+  "source": "groundgame"
+}

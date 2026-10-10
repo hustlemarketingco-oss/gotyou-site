@@ -1,0 +1,40 @@
+{
+  "slug": "grimaldis-pizzeria-peoria",
+  "name": "Grimaldi's Pizzeria",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Family restaurant",
+    "Bar",
+    "Italian restaurant"
+  ],
+  "address": "9788 W Northern Ave Ste 1440",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85345",
+  "lat": 33.5538066,
+  "lng": -112.2699932,
+  "phone": "+16234864455",
+  "website": "https://www.grimaldispizzeria.com/locations/park-west/",
+  "placeId": "ChIJXdVhbbxBK4cRptmJFBImZIc",
+  "googleRating": 4.3,
+  "googleReviewCount": 2944,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27515549df6f18b5ee2cc2",
+  "seededAt": "2026-06-08T23:33:41Z",
+  "updatedAt": "2026-06-08T23:33:41Z",
+  "source": "groundgame"
+}

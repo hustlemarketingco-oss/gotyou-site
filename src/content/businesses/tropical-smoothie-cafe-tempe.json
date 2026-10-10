@@ -1,0 +1,40 @@
+{
+  "slug": "tropical-smoothie-cafe-tempe",
+  "name": "Tropical Smoothie Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Fast food restaurant",
+    "Sandwich shop",
+    "Cafe"
+  ],
+  "address": "8707 S Priest Dr Suite # 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335435,
+  "lng": -111.962527,
+  "phone": "+14804964200",
+  "website": "https://locations.tropicalsmoothiecafe.com/az/tempe/8707-s.-priest-drive?y_source=1_MTA5MDM2OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJr2_kRS0EK4cR4nJnqSKZ6Ks",
+  "googleRating": 3.7,
+  "googleReviewCount": 608,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27547cd0f47abc2c246df9",
+  "seededAt": "2026-06-08T23:47:08Z",
+  "updatedAt": "2026-06-08T23:47:09Z",
+  "source": "groundgame"
+}

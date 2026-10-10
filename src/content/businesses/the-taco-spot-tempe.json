@@ -1,0 +1,38 @@
+{
+  "slug": "the-taco-spot-tempe",
+  "name": "The Taco Spot - Tempe",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "325 W Elliot Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3487897,
+  "lng": -111.9447613,
+  "phone": "+14802199030",
+  "website": "https://tacospotaz.order.online/store/the-taco-spot-elliot-kyrene-tempe-1956833",
+  "placeId": "ChIJQVxGfyUHK4cRVrZogxGz7sw",
+  "googleRating": 4.3,
+  "googleReviewCount": 1577,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438d0fe1f8079fadbcf3a",
+  "seededAt": "2026-06-18T18:28:32Z",
+  "updatedAt": "2026-06-18T18:28:33Z",
+  "source": "groundgame"
+}

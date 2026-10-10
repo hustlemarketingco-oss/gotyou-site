@@ -1,0 +1,41 @@
+{
+  "slug": "bora-bora-smoothie-cafe-apache-blvd-tempe",
+  "name": "Bora Bora Smoothie Cafe -Apache Blvd",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Coffee shop",
+    "Acai shop",
+    "Brazilian restaurant",
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1811 E Apache Blvd #110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414492900000006,
+  "lng": -111.9088306,
+  "phone": "+14805809873",
+  "website": "https://boraborausa.com/",
+  "placeId": "ChIJESBo7XUJK4cR2UmRT3UJAWs",
+  "googleRating": 4.8,
+  "googleReviewCount": 176,
+  "hours": {
+    "mon": "7:00 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:00 AM - 3:00 AM",
+    "sat": "7:00 AM - 3:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ee65896288d05f2d27b50",
+  "seededAt": "2026-06-26T20:51:36Z",
+  "updatedAt": "2026-07-10T18:07:25Z",
+  "source": "groundgame"
+}

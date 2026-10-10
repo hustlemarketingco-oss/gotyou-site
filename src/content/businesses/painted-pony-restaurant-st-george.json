@@ -1,0 +1,40 @@
+{
+  "slug": "painted-pony-restaurant-st-george",
+  "name": "Painted Pony Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Fine dining restaurant",
+  "secondaryCategories": [
+    "Steak house",
+    "Seafood restaurant",
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "2 W St George Blvd 22 Tower Building",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.110549899999995,
+  "lng": -113.5842361,
+  "phone": "+14356341700",
+  "website": "http://www.painted-pony.com/",
+  "placeId": "ChIJYbhFms9EyoARR6kx4a4528g",
+  "googleRating": 4.6,
+  "googleReviewCount": 1453,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "11:30 AM - 9:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b18980812b9fcf707cc",
+  "seededAt": "2025-12-16T15:30:32Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

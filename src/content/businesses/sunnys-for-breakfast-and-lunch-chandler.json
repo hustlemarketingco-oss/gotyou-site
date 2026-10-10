@@ -1,0 +1,37 @@
+{
+  "slug": "sunnys-for-breakfast-and-lunch-chandler",
+  "name": "Sunny's for Breakfast and Lunch",
+  "category": "Restaurant",
+  "googleCategory": "Brunch restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant"
+  ],
+  "address": "1068 W Chandler Blvd",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.307324099999995,
+  "lng": -111.85975499999999,
+  "phone": "+14805084301",
+  "website": "http://www.sunnysaz.com/",
+  "placeId": "ChIJY9tIcqkAK4cRY-mA6fQYzoM",
+  "googleRating": 4.3,
+  "googleReviewCount": 1346,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:00 AM - 3:00 PM",
+    "tue": "6:00 AM - 3:00 PM",
+    "wed": "6:00 AM - 3:00 PM",
+    "thu": "6:00 AM - 3:00 PM",
+    "fri": "6:00 AM - 3:00 PM",
+    "sat": "6:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1dae40c3b88f3d0b469b",
+  "seededAt": "2026-06-12T14:54:38Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

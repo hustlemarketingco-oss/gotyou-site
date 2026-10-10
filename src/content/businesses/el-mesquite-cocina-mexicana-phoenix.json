@@ -1,0 +1,38 @@
+{
+  "slug": "el-mesquite-cocina-mexicana-phoenix",
+  "name": "El Mesquite Cocina Mexicana",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Burrito restaurant"
+  ],
+  "address": "26 E Baseline Rd Ste 120",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.3790827,
+  "lng": -112.0711693,
+  "phone": "+16022437107",
+  "website": "https://elmesquitecocinamexicana.com/",
+  "placeId": "ChIJk_8nOhUQK4cRj1FF0U5n36c",
+  "googleRating": 4.3,
+  "googleReviewCount": 828,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "8:00 AM - 3:00 PM",
+    "thu": "8:00 AM - 3:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32d9ebb5a5519f7ddde4c1",
+  "seededAt": "2026-06-17T17:31:23Z",
+  "updatedAt": "2026-06-17T17:31:23Z",
+  "source": "groundgame"
+}

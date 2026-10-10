@@ -1,0 +1,37 @@
+{
+  "slug": "water-n-ice-tempe",
+  "name": "Water 'N Ice",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Bottled water supplier",
+    "Ice supplier"
+  ],
+  "address": "925 W Baseline Rd #107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3776747,
+  "lng": -111.9531223,
+  "phone": "+14808310515",
+  "googleMapsUrl": "https://www.google.com/maps?cid=15524148182829119020",
+  "googleCid": "15524148182829119020",
+  "placeId": "ChIJdyi0Mf4FK4cRLDYOloXacNc",
+  "googleRating": 4.3,
+  "googleReviewCount": 125,
+  "description": "Located in Tempe, Water 'N Ice is a convenience store & bottled water supplier.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Paid parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243648a7dcae95ae675ef4",
+  "seededAt": "2026-06-06T15:01:28Z",
+  "updatedAt": "2026-06-06T15:06:09Z",
+  "source": "groundgame"
+}

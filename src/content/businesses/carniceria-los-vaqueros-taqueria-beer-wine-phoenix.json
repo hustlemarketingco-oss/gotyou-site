@@ -1,0 +1,36 @@
+{
+  "slug": "carniceria-los-vaqueros-taqueria-beer-wine-phoenix",
+  "name": "Carniceria Los Vaqueros Taqueria, Beer & Wine",
+  "category": "Shopping",
+  "googleCategory": "Convenience store",
+  "secondaryCategories": [
+    "Liquor store",
+    "Food store"
+  ],
+  "address": "6440 W Van Buren St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85043",
+  "lat": 33.451931,
+  "lng": -112.19951449999999,
+  "phone": "+16234553299",
+  "placeId": "ChIJw2ge0rEVK4cR1KUxljIPEHQ",
+  "googleRating": 3.6,
+  "googleReviewCount": 39,
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d0b55a6fa8df2fe4537",
+  "seededAt": "2026-06-12T14:51:55Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

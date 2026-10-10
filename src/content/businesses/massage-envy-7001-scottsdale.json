@@ -1,0 +1,41 @@
+{
+  "slug": "massage-envy-7001-scottsdale",
+  "name": "Massage Envy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Wellness center",
+    "Skin care clinic",
+    "Massage",
+    "Beauty salon",
+    "Medical clinic",
+    "Spa"
+  ],
+  "address": "7001 N Scottsdale Rd #158",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.539365,
+  "lng": -111.924146,
+  "phone": "+14805209465",
+  "website": "https://locations.massageenvy.com/arizona/scottsdale/7001-n-scottsdale-road.html",
+  "placeId": "ChIJVzIv9RILK4cRQiUKcyIej3w",
+  "googleRating": 4.7,
+  "googleReviewCount": 391,
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e62c4d3d9064eadc2cd8",
+  "seededAt": "2026-06-17T18:23:40Z",
+  "updatedAt": "2026-06-25T21:24:30Z",
+  "source": "groundgame"
+}

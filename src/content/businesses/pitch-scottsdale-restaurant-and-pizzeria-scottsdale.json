@@ -1,0 +1,43 @@
+{
+  "slug": "pitch-scottsdale-restaurant-and-pizzeria-scottsdale",
+  "name": "Pitch Scottsdale - Restaurant and Pizzeria",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Liquor store",
+    "Meal takeaway",
+    "Cocktail bar",
+    "Bar",
+    "American restaurant",
+    "Italian restaurant"
+  ],
+  "address": "6350 E Thomas Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4807013,
+  "lng": -111.9453502,
+  "phone": "+14802727500",
+  "website": "http://pitchpizzeria.com/",
+  "placeId": "ChIJc15h2fALK4cRL5bx_xgJ790",
+  "googleRating": 4.4,
+  "googleReviewCount": 1533,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27655505fcf1193a84afad",
+  "seededAt": "2026-06-09T00:59:01Z",
+  "updatedAt": "2026-06-09T01:18:14Z",
+  "source": "groundgame"
+}

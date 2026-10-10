@@ -1,0 +1,41 @@
+{
+  "slug": "daily-dose-old-town-bar-grill-scottsdale",
+  "name": "Daily Dose Old Town Bar & Grill",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Catering service",
+    "Food delivery",
+    "Bar",
+    "Cafe"
+  ],
+  "address": "4020 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4944,
+  "lng": -111.9263534,
+  "phone": "+14809943673",
+  "website": "http://dailydosegrill.com/",
+  "placeId": "ChIJ56n0u78LK4cRTdS09RvXv1E",
+  "googleRating": 4.6,
+  "googleReviewCount": 1520,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "8:00 AM - 2:00 PM",
+    "tue": "8:00 AM - 2:00 PM",
+    "wed": "8:00 AM - 2:00 PM",
+    "thu": "8:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a264a4a627c3633b1eb55f0",
+  "seededAt": "2026-06-08T04:51:22Z",
+  "updatedAt": "2026-07-13T18:55:28Z",
+  "source": "groundgame"
+}

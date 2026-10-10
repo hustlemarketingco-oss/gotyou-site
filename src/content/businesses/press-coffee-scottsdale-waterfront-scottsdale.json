@@ -1,0 +1,44 @@
+{
+  "slug": "press-coffee-scottsdale-waterfront-scottsdale",
+  "name": "Press Coffee - Scottsdale Waterfront",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "7135 E Camelback Rd #145",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.5015176,
+  "lng": -111.9284791,
+  "phone": "+14802844044",
+  "website": "https://presscoffee.com/pages/location-waterfront",
+  "placeId": "ChIJ6VFo6nYLK4cROTZemvuzjxw",
+  "googleRating": 4.5,
+  "googleReviewCount": 414,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay"
+  ],
+  "hours": {
+    "mon": "6:30 AM - 5:00 PM",
+    "tue": "6:30 AM - 5:00 PM",
+    "wed": "6:30 AM - 5:00 PM",
+    "thu": "6:30 AM - 5:00 PM",
+    "fri": "6:30 AM - 5:00 PM",
+    "sat": "6:30 AM - 5:00 PM",
+    "sun": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b91db4d1ef90164574e7",
+  "seededAt": "2026-06-10T19:21:01Z",
+  "updatedAt": "2026-06-26T04:24:40Z",
+  "source": "groundgame"
+}

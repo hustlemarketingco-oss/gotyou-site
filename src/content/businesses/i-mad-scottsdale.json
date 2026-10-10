@@ -1,0 +1,36 @@
+{
+  "slug": "i-mad-scottsdale",
+  "name": "i-MAD",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "4301 N Civic Center Plaza",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4991743,
+  "lng": -111.92114869999999,
+  "phone": "+14809395224",
+  "website": "https://imad.io/",
+  "placeId": "ChIJQ-Qo4bsLK4cRSvO7qobJpx8",
+  "googleRating": 4.4,
+  "googleReviewCount": 441,
+  "hours": {
+    "mon": "Closed",
+    "tue": "5:00 PM - 1:00 AM",
+    "wed": "5:00 PM - 1:00 AM",
+    "thu": "5:00 PM - 1:00 AM",
+    "fri": "5:00 PM - 2:00 AM",
+    "sat": "5:00 PM - 2:00 AM",
+    "sun": "5:00 PM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a43c2ebc512c87386afa04f",
+  "seededAt": "2026-06-30T13:21:47Z",
+  "updatedAt": "2026-06-30T13:23:27Z",
+  "source": "groundgame"
+}

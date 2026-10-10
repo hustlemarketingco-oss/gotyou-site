@@ -1,0 +1,41 @@
+{
+  "slug": "del-taco-st-george",
+  "name": "Del Taco",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "Breakfast restaurant",
+    "American restaurant",
+    "Mexican restaurant"
+  ],
+  "address": "1091 N Bluff St Bldg. 500",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1252875,
+  "lng": -113.6027141,
+  "phone": "+14356523826",
+  "website": "https://locations.deltaco.com/us/ut/st-george/1091-n-bluff-st",
+  "placeId": "ChIJdx-9Y5lEyoAR11kutlwHnXk",
+  "googleRating": 3.9,
+  "googleReviewCount": 1003,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69417b4781f61cd68b3b4a87",
+  "seededAt": "2025-12-16T15:31:19Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

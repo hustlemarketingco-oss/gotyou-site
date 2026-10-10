@@ -1,0 +1,42 @@
+{
+  "slug": "bisbee-breakfast-club-mesa",
+  "name": "Bisbee Breakfast Club",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Dessert restaurant",
+    "Brunch restaurant",
+    "Sandwich shop",
+    "Hamburger restaurant",
+    "Cafe",
+    "American restaurant"
+  ],
+  "address": "2909 S Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3623696,
+  "lng": -111.87611779999999,
+  "phone": "+14807043464",
+  "website": "https://www.bisbeebreakfastclub.com/",
+  "placeId": "ChIJtRcj7ZkHK4cRYF0AxbzhWh8",
+  "googleRating": 4.6,
+  "googleReviewCount": 2035,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 2:05 PM",
+    "tue": "6:00 AM - 2:05 PM",
+    "wed": "6:00 AM - 2:05 PM",
+    "thu": "6:00 AM - 2:05 PM",
+    "fri": "6:00 AM - 2:05 PM",
+    "sat": "6:00 AM - 2:05 PM",
+    "sun": "6:00 AM - 2:05 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3453215bcebc8cc1b037c3",
+  "seededAt": "2026-06-18T20:20:49Z",
+  "updatedAt": "2026-06-18T20:20:50Z",
+  "source": "groundgame"
+}

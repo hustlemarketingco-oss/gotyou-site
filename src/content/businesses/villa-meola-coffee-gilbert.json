@@ -1,0 +1,51 @@
+{
+  "slug": "villa-meola-coffee-gilbert",
+  "name": "Villa Meola Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Pastry shop"
+  ],
+  "address": "339 N Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.3563448,
+  "lng": -111.7893682,
+  "phone": "+16024299075",
+  "website": "https://www.villameola.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=5691296971736247749",
+  "googleCid": "5691296971736247749",
+  "placeId": "ChIJ5wZ6tDSpK4cRxW2YJ3GM-04",
+  "googleRating": 5,
+  "googleReviewCount": 96,
+  "priceRange": "$10–20",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/villameolacoffee"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2645a39a6d3872ad498919",
+  "seededAt": "2026-06-08T04:31:31Z",
+  "updatedAt": "2026-06-08T04:31:31Z",
+  "source": "groundgame"
+}

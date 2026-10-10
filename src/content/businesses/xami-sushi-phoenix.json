@@ -1,0 +1,37 @@
+{
+  "slug": "xami-sushi-phoenix",
+  "name": "Xami Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Japanese restaurant"
+  ],
+  "address": "2707 E Broadway Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85040",
+  "lat": 33.4066785,
+  "lng": -112.02367389999999,
+  "phone": "+14805901757",
+  "website": "https://xamisushiaz.com/",
+  "placeId": "ChIJ51FHagAPK4cRY4hhDF-R8gs",
+  "googleRating": 4.9,
+  "googleReviewCount": 275,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2738cb37251cc9db0e9e41",
+  "seededAt": "2026-06-08T21:48:59Z",
+  "updatedAt": "2026-06-08T21:49:21Z",
+  "source": "groundgame"
+}

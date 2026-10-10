@@ -1,0 +1,36 @@
+{
+  "slug": "bei-sushi-express-scottsdale",
+  "name": "Bei Sushi Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "2910 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4808959,
+  "lng": -111.9094373,
+  "phone": "+14804718461",
+  "website": "https://www.beiexpress.com/",
+  "placeId": "ChIJWdlrbrULK4cRYeL_Qn5KtuU",
+  "googleRating": 4.5,
+  "googleReviewCount": 167,
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26ec941e34842b0a978541",
+  "seededAt": "2026-06-08T16:23:48Z",
+  "updatedAt": "2026-06-16T22:13:30Z",
+  "source": "groundgame"
+}

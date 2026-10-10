@@ -1,0 +1,37 @@
+{
+  "slug": "soft-landing-soft-serve-boise",
+  "name": "Soft Landing soft serve",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "1220 W State St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.62171,
+  "lng": -116.2061473,
+  "website": "https://www.softlandingboise.com/",
+  "placeId": "ChIJsbYJ2q35rlQRmsyM1IMrUbY",
+  "googleRating": 4.6,
+  "googleReviewCount": 116,
+  "hours": {
+    "mon": "Closed",
+    "tue": "2:00 PM - 9:00 PM",
+    "wed": "2:00 PM - 9:00 PM",
+    "thu": "2:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694260062ecc8c3e0bffad61",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

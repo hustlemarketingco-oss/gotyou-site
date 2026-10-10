@@ -1,0 +1,40 @@
+{
+  "slug": "burrito-express-gilbert",
+  "name": "Burrito Express Gilbert",
+  "category": "Restaurant",
+  "googleCategory": "Burrito restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Catering service",
+    "Mexican restaurant",
+    "Food delivery"
+  ],
+  "address": "1605 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85295",
+  "lat": 33.3204984,
+  "lng": -111.7893374,
+  "phone": "+14803982479",
+  "website": "http://www.theburritoexpress.com/",
+  "placeId": "ChIJNdy4nd6rK4cRZit2zXYKD0k",
+  "googleRating": 4.2,
+  "googleReviewCount": 894,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a39a30329fd2215ac4630cd",
+  "seededAt": "2026-06-22T21:02:59Z",
+  "updatedAt": "2026-06-22T21:03:00Z",
+  "source": "groundgame"
+}

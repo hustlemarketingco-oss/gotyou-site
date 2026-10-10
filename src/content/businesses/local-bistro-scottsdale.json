@@ -1,0 +1,38 @@
+{
+  "slug": "local-bistro-scottsdale",
+  "name": "Local Bistro",
+  "category": "Restaurant",
+  "googleCategory": "Bistro",
+  "secondaryCategories": [
+    "Spanish restaurant",
+    "Italian restaurant"
+  ],
+  "address": "20581 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6712789,
+  "lng": -111.9059793,
+  "phone": "+14803026050",
+  "website": "http://localbistroaz.com/",
+  "placeId": "ChIJwzVeMfd2K4cRNLeOhWxMvi8",
+  "googleRating": 4.4,
+  "googleReviewCount": 699,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2ce1791fa81f04a1a72",
+  "seededAt": "2026-06-10T17:45:50Z",
+  "updatedAt": "2026-06-10T17:45:51Z",
+  "source": "groundgame"
+}

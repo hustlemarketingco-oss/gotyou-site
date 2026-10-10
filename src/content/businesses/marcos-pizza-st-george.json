@@ -1,0 +1,31 @@
+{
+  "slug": "marcos-pizza-st-george",
+  "name": "Marco's Pizza",
+  "category": "Fast Food",
+  "googleCategory": "Meal takeaway",
+  "address": "1543 S River Rd",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84790",
+  "phone": "+14357671990",
+  "website": "https://www.marcos.com/",
+  "placeId": "ChIJpRCGVQBbyoARw1GnQnIuxwU",
+  "googleRating": 4.5,
+  "googleReviewCount": 31,
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "694017dcdc8a6b2d082f4924",
+  "seededAt": "2025-12-15T14:14:52Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

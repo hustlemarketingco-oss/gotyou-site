@@ -1,0 +1,43 @@
+{
+  "slug": "venezias-pizza-tempe",
+  "name": "Venezia's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "27 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3915417,
+  "lng": -111.9386689,
+  "phone": "+14808581660",
+  "website": "https://venezias.com/location/tempe/",
+  "placeId": "ChIJr4xnuqIJK4cRta1pJcKiP8Q",
+  "googleRating": 4.5,
+  "googleReviewCount": 3111,
+  "priceRange": "$",
+  "amenities": [
+    "Credit card"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 9:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d590dfa0e73a30a2a96",
+  "seededAt": "2026-06-12T14:53:13Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

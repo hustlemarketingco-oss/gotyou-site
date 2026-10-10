@@ -1,0 +1,42 @@
+{
+  "slug": "pinkys-pizza-pub-walnut-creek",
+  "name": "Pinky's Pizza & Pub",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pub",
+    "Bar"
+  ],
+  "address": "2085 N Broadway",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "zip": "94596",
+  "lat": 37.9086368,
+  "lng": -122.06205329999999,
+  "phone": "+19259395000",
+  "website": "http://pinkyspizzawc.com/",
+  "placeId": "ChIJSSVuwJdhhYAR8KW68EXnRAc",
+  "googleRating": 4.5,
+  "googleReviewCount": 602,
+  "priceRange": "$$",
+  "sameAs": [
+    "https://www.facebook.com/pinkyspizzawalnutcreek",
+    "https://www.instagram.com/pinkyspizzawc"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:30 AM - 9:30 PM",
+    "sun": "1:00 PM - 8:30 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429e86bf6f424e9ea106",
+  "seededAt": "2025-12-17T23:54:06Z",
+  "updatedAt": "2025-12-17T23:54:22Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "whataburger-5775-phoenix",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "5775 W Baseline Rd, Laveen Village, AZ 85339",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85339",
+  "lat": 33.376867,
+  "lng": -112.183617,
+  "phone": "+14807872792",
+  "website": "https://locations.whataburger.com/az/laveen-village/5775-baseline-rd.html/",
+  "placeId": "ChIJG7vJnU0XK4cRO6IvfWRLkHs",
+  "googleRating": 3.4,
+  "googleReviewCount": 555,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d69b04d6c1676d9efa0",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

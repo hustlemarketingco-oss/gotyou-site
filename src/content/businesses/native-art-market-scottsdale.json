@@ -1,0 +1,50 @@
+{
+  "slug": "native-art-market-scottsdale",
+  "name": "Native Art Market",
+  "category": "Shopping",
+  "googleCategory": "Artistic handicrafts",
+  "secondaryCategories": [
+    "Aboriginal art gallery",
+    "Event venue",
+    "Jewelry store",
+    "Native american goods store"
+  ],
+  "address": "7215 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4929279,
+  "lng": -111.9256187,
+  "phone": "+17077336443",
+  "website": "http://www.nativeartmarket.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=18424230204717064865",
+  "googleCid": "18424230204717064865",
+  "placeId": "ChIJg63UyqsLK4cRoeIuZMEDsP8",
+  "googleRating": 4.8,
+  "googleReviewCount": 257,
+  "description": "Native Art Market is a artistic handicrafts & aboriginal art gallery in Scottsdale. A favorite among lgbtq+ friendly diners.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 6:00 PM",
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243cb96d274c2777641efc",
+  "seededAt": "2026-06-06T15:28:57Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

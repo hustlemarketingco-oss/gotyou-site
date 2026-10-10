@@ -1,0 +1,41 @@
+{
+  "slug": "nothing-bundt-cakes-2320-phoenix",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "2320 E Baseline Rd Ste 164",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85042",
+  "lat": 33.37981080000001,
+  "lng": -112.03085639999999,
+  "phone": "+16028305850",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/phoenix/bakery-1121.html",
+  "placeId": "ChIJYV2q_x8PK4cR-RUZ-a1PYk0",
+  "googleRating": 4.8,
+  "googleReviewCount": 70,
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11c5ab8ea830080b62f5",
+  "seededAt": "2026-06-23T04:55:33Z",
+  "updatedAt": "2026-06-23T04:55:33Z",
+  "source": "groundgame"
+}

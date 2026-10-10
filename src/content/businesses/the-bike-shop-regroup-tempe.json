@@ -1,0 +1,36 @@
+{
+  "slug": "the-bike-shop-regroup-tempe",
+  "name": "The Bike Shop @ Regroup",
+  "category": "Shopping",
+  "googleCategory": "Bicycle shop",
+  "secondaryCategories": [
+    "Bicycle repair shop"
+  ],
+  "address": "1205 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "phone": "+14806488309",
+  "priceRange": "$$",
+  "description": "Craft espresso bar with shakes, set inside a state-of-the-art bicycle shop with sales & repairs.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Free street parking",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/regroupcoffeeandbicycles"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2439542cbc6f96ffb77cb2",
+  "seededAt": "2026-06-06T15:14:28Z",
+  "updatedAt": "2026-06-09T13:10:46Z",
+  "source": "groundgame"
+}

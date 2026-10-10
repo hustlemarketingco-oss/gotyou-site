@@ -1,0 +1,41 @@
+{
+  "slug": "hotworx-scottsdale-az-old-town-scottsdale",
+  "name": "HOTWORX- Scottsdale, AZ (Old Town)",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Sauna",
+    "Public bath",
+    "Fitness center",
+    "Gym",
+    "Spa",
+    "Sports activity location"
+  ],
+  "address": "2765 N Scottsdale Rd Ste 109",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.478766400000005,
+  "lng": -111.9253811,
+  "phone": "+14804827075",
+  "website": "https://www.hotworx.net/studio/scottsdale-old-town",
+  "placeId": "ChIJNbFO_U4LK4cR0f6zKZ8jDDE",
+  "googleRating": 4.5,
+  "googleReviewCount": 36,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6ac6bc260b730e87acaad5c2",
+  "seededAt": "2026-10-07T21:39:50Z",
+  "updatedAt": "2026-10-07T21:39:50Z",
+  "source": "groundgame"
+}

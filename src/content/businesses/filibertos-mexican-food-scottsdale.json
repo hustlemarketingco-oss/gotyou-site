@@ -1,0 +1,51 @@
+{
+  "slug": "filibertos-mexican-food-scottsdale",
+  "name": "Filiberto's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Latin american restaurant",
+    "Takeout restaurant",
+    "Restaurant"
+  ],
+  "address": "9150 E Talking Stick Wy",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85258",
+  "lat": 33.5390758,
+  "lng": -111.8848868,
+  "phone": "+14802706999",
+  "website": "https://filibertos.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=8767426886154483034",
+  "googleCid": "8767426886154483034",
+  "placeId": "ChIJ-aFzlusKK4cRWnVyF00orHk",
+  "googleRating": 3.7,
+  "googleReviewCount": 926,
+  "priceRange": "$10–20",
+  "description": "Mexican fast-food chain outlet specializing in tacos, burritos, tostadas & quesadillas.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Free parking lot",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours",
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d1c4a7f53871b77263f",
+  "seededAt": "2026-06-06T15:30:36Z",
+  "updatedAt": "2026-06-12T22:05:53Z",
+  "source": "groundgame"
+}

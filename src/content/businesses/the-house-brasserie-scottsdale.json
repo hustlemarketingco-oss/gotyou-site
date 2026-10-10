@@ -1,0 +1,37 @@
+{
+  "slug": "the-house-brasserie-scottsdale",
+  "name": "The House Brasserie",
+  "category": "Restaurant",
+  "googleCategory": "Fine dining restaurant",
+  "secondaryCategories": [
+    "American restaurant"
+  ],
+  "address": "6936 E Main St",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.493337,
+  "lng": -111.9312035,
+  "phone": "+14806341600",
+  "website": "https://thehousebrasserie.com/",
+  "placeId": "ChIJJaZ_HpULK4cR29zsNSPHhX0",
+  "googleRating": 4.5,
+  "googleReviewCount": 554,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "5:00 PM - 10:00 PM",
+    "sat": "5:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3993cfac679b6c97137180",
+  "seededAt": "2026-06-22T19:58:07Z",
+  "updatedAt": "2026-06-22T19:58:08Z",
+  "source": "groundgame"
+}

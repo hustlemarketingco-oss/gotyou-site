@@ -1,0 +1,43 @@
+{
+  "slug": "ikes-love-sandwiches-910-phoenix",
+  "name": "Ike's Love & Sandwiches",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Halal restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant",
+    "Catering service",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "910 N 4th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85004",
+  "lat": 33.4579015,
+  "lng": -112.0689464,
+  "phone": "+14805658573",
+  "website": "https://locations.ikessandwich.com/az/phoenix/603/",
+  "placeId": "ChIJ3eTOUhYSK4cRD76F0UqRjqc",
+  "googleRating": 4.4,
+  "googleReviewCount": 713,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a319a92f83b7dfe10822ce4",
+  "seededAt": "2026-06-16T18:48:50Z",
+  "updatedAt": "2026-06-16T18:48:50Z",
+  "source": "groundgame"
+}

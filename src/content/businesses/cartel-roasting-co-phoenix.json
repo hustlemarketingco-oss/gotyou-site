@@ -1,0 +1,42 @@
+{
+  "slug": "cartel-roasting-co-phoenix",
+  "name": "Cartel Roasting Co",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Pastry shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Coffee roastery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "C 13 GATE, Terminal 4, 4225 Sky Hbr Blvd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.434267,
+  "lng": -111.99437850000001,
+  "website": "http://cartelroasting.co/",
+  "placeId": "ChIJ21m5F_UOK4cRDicvhk7GjD8",
+  "googleRating": 4.2,
+  "googleReviewCount": 964,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:30 AM - 9:00 PM",
+    "tue": "4:30 AM - 9:00 PM",
+    "wed": "4:30 AM - 9:00 PM",
+    "thu": "4:30 AM - 9:00 PM",
+    "fri": "4:30 AM - 9:00 PM",
+    "sat": "4:30 AM - 9:00 PM",
+    "sun": "4:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a342f884ddeaf62e76bf289",
+  "seededAt": "2026-06-18T17:48:56Z",
+  "updatedAt": "2026-06-18T17:48:56Z",
+  "source": "groundgame"
+}

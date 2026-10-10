@@ -1,0 +1,46 @@
+{
+  "slug": "curry-corner-tempe",
+  "name": "Curry Corner",
+  "category": "Restaurant",
+  "googleCategory": "Pakistani restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Meal takeaway",
+    "Korean restaurant",
+    "Indian restaurant"
+  ],
+  "address": "1212 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4153002,
+  "lng": -111.92002939999999,
+  "phone": "+14808941276",
+  "website": "https://www.currycorneraz.com/",
+  "placeId": "ChIJ787g9O4IK4cRYVVmSyTpLoU",
+  "googleRating": 4,
+  "googleReviewCount": 1984,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a456222b9eede93679747be",
+  "seededAt": "2026-07-01T18:53:22Z",
+  "updatedAt": "2026-07-22T20:53:42Z",
+  "source": "groundgame"
+}

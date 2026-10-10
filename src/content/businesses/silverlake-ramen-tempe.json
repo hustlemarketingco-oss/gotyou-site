@@ -1,0 +1,37 @@
+{
+  "slug": "silverlake-ramen-tempe",
+  "name": "Silverlake Ramen",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "920 E University Dr Unit 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.422368899999995,
+  "lng": -111.92543239999999,
+  "phone": "+14805080881",
+  "website": "https://www.silverlakeramen.com/",
+  "placeId": "ChIJa_mTZwAJK4cRKsbz3oeErts",
+  "googleRating": 4,
+  "googleReviewCount": 151,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:30 AM - 9:00 PM",
+    "tue": "11:30 AM - 9:00 PM",
+    "wed": "11:30 AM - 9:00 PM",
+    "thu": "11:30 AM - 9:00 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4423fa2d75b1c3a90fe194",
+  "seededAt": "2026-06-30T20:15:54Z",
+  "updatedAt": "2026-07-02T19:56:38Z",
+  "source": "groundgame"
+}

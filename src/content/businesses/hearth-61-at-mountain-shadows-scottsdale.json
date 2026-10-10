@@ -1,0 +1,37 @@
+{
+  "slug": "hearth-61-at-mountain-shadows-scottsdale",
+  "name": "Hearth '61 at Mountain Shadows",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "5445 E Lincoln Dr",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.5305128,
+  "lng": -111.9638167,
+  "phone": "+14806245458",
+  "website": "https://mountainshadows.com/dining/hearth",
+  "placeId": "ChIJd_pd4aIMK4cR53kNlVh7toc",
+  "googleRating": 4.7,
+  "googleReviewCount": 374,
+  "priceRange": "$$$",
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "7:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "7:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "7:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "7:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "sat": "7:00 AM - 2:00 PM, 5:00 PM - 10:00 PM",
+    "sun": "7:00 AM - 2:00 PM, 5:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c325248d571636a593020",
+  "seededAt": "2026-06-12T16:22:42Z",
+  "updatedAt": "2026-06-12T16:22:42Z",
+  "source": "groundgame"
+}

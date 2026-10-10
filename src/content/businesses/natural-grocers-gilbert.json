@@ -1,0 +1,42 @@
+{
+  "slug": "natural-grocers-gilbert",
+  "name": "Natural Grocers",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Greengrocer",
+    "Health food store",
+    "Natural goods store",
+    "Organic food store",
+    "Organic shop",
+    "Produce market",
+    "Supermarket",
+    "Vitamin & supplements store"
+  ],
+  "address": "2151 E Baseline Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "phone": "+14806359000",
+  "description": "Retail chain focused on natural & organic groceries, supplements & household products.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/NaturalGrocers"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a26488892922fddd8004286",
+  "seededAt": "2026-06-08T04:43:52Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

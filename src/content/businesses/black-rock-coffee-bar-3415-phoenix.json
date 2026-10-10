@@ -1,0 +1,38 @@
+{
+  "slug": "black-rock-coffee-bar-3415-phoenix",
+  "name": "Black Rock Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "3415 W Greenway Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85053",
+  "lat": 33.6248595,
+  "lng": -112.132004,
+  "phone": "+18338435776",
+  "website": "https://www.br.coffee/locations/35th-greenway",
+  "placeId": "ChIJT5N91eVvK4cRnAbc8tJ6vv4",
+  "googleRating": 4.3,
+  "googleReviewCount": 516,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a5172614c845fc891c5ced5",
+  "seededAt": "2026-07-10T22:29:53Z",
+  "updatedAt": "2026-07-10T22:29:54Z",
+  "source": "groundgame"
+}

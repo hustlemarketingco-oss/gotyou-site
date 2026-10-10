@@ -1,0 +1,36 @@
+{
+  "slug": "taco-nazo-santa-ana",
+  "name": "Taco Nazo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant"
+  ],
+  "address": "1766 E McFadden Ave",
+  "city": "Santa Ana",
+  "state": "CA",
+  "zip": "92705",
+  "lat": 33.7334704,
+  "lng": -117.84311600000001,
+  "phone": "+16572321021",
+  "website": "https://www.taconazo.com/",
+  "placeId": "ChIJG8mx2qvZ3IARnTVcAKvd9NY",
+  "googleRating": 4.6,
+  "googleReviewCount": 177,
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d48e39da1cea49cd52b",
+  "seededAt": "2026-06-12T14:52:56Z",
+  "updatedAt": "2026-06-12T14:52:56Z",
+  "source": "groundgame"
+}

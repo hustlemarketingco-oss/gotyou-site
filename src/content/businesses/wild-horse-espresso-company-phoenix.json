@@ -1,0 +1,41 @@
+{
+  "slug": "wild-horse-espresso-company-phoenix",
+  "name": "Wild Horse Espresso Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Dessert restaurant",
+    "Coffee roastery",
+    "Cafe",
+    "Meal takeaway",
+    "Food store"
+  ],
+  "address": "9706 N 7th St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5744896,
+  "lng": -112.0654637,
+  "phone": "+15202018831",
+  "website": "https://wildhorseespressocompany.com/",
+  "placeId": "ChIJUxFfNgBtK4cRPiK3TeKCSl8",
+  "googleRating": 4.8,
+  "googleReviewCount": 93,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 5:00 PM",
+    "tue": "5:00 AM - 5:00 PM",
+    "wed": "5:00 AM - 5:00 PM",
+    "thu": "5:00 AM - 5:00 PM",
+    "fri": "5:00 AM - 5:00 PM",
+    "sat": "6:00 AM - 3:00 PM",
+    "sun": "6:00 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a94fd5ca17d51c0e92e4f19",
+  "seededAt": "2026-08-31T04:04:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

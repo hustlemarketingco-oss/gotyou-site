@@ -1,0 +1,33 @@
+{
+  "slug": "ciao-pizza-co-tempe",
+  "name": "Ciao Pizza Co",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "115 W 6th St #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4240956,
+  "lng": -111.94197820000001,
+  "phone": "+14802076868",
+  "website": "http://slicehustletempe.com/",
+  "placeId": "ChIJg-xWXnkJK4cRQOEfBVOrnnA",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a357bd850425e6735f4a73b",
+  "seededAt": "2026-06-19T17:26:48Z",
+  "updatedAt": "2026-07-02T19:43:49Z",
+  "source": "groundgame"
+}

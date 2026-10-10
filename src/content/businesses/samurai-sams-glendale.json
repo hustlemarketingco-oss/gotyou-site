@@ -1,0 +1,37 @@
+{
+  "slug": "samurai-sams-glendale",
+  "name": "Samurai Sam's",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "20229 N 67th Ave Ste C6",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6705401,
+  "lng": -112.20181889999999,
+  "phone": "+16233622422",
+  "website": "https://www.samuraisams.net/stores/5006",
+  "placeId": "ChIJSwP7uaZtkFQRA0o2wdNTVyE",
+  "googleRating": 4.2,
+  "googleReviewCount": 305,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd83328921e04045a1a7f",
+  "seededAt": "2026-07-09T17:19:47Z",
+  "updatedAt": "2026-07-09T17:19:48Z",
+  "source": "groundgame"
+}

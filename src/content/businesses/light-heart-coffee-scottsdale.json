@@ -1,0 +1,63 @@
+{
+  "slug": "light-heart-coffee-scottsdale",
+  "name": "Light Heart Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe"
+  ],
+  "address": "6969 E Shea Blvd #190",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.5813686,
+  "lng": -111.9307635,
+  "website": "https://lightheartcoffee.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=2093739654947556126",
+  "googleCid": "2093739654947556126",
+  "placeId": "ChIJV1SXuB91K4cRHktMgR91Dh0",
+  "googleRating": 4.7,
+  "googleReviewCount": 501,
+  "priceRange": "$1–10",
+  "description": "Located in Scottsdale, Light Heart Coffee is a casual, cozy coffee shop & cafe with coffee & prepared foods, takeout & delivery.",
+  "amenities": [
+    "Outdoor seating",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating",
+    "Casual",
+    "Quiet",
+    "Trendy",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://instagram.com/lightheartcoffeeshop"
+  ],
+  "hours": {
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 3:00 PM",
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c6eb8a8e1f582665144",
+  "seededAt": "2026-06-06T15:27:42Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

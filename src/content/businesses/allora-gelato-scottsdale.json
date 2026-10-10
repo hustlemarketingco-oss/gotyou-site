@@ -1,0 +1,51 @@
+{
+  "slug": "allora-gelato-scottsdale",
+  "name": "Allora Gelato",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "6990 E Shea Blvd Suite 106",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85254",
+  "lat": 33.58283,
+  "lng": -111.9306568,
+  "website": "https://www.alloragelato.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=4951622508610568117",
+  "googleCid": "4951622508610568117",
+  "placeId": "ChIJfxcvVLd1K4cRtb-Pz2-yt0Q",
+  "googleRating": 4.9,
+  "googleReviewCount": 544,
+  "description": "Located in Scottsdale, Allora Gelato is a casual, cozy ice cream shop with coffee, takeout & delivery. Popular for solo dining.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Trendy",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/alloragelatous"
+  ],
+  "hours": {
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM",
+    "mon": "1:00 PM - 9:00 PM",
+    "tue": "1:00 PM - 9:00 PM",
+    "wed": "1:00 PM - 9:00 PM",
+    "thu": "1:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243cd8c64327e53d0cac77",
+  "seededAt": "2026-06-06T15:29:28Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

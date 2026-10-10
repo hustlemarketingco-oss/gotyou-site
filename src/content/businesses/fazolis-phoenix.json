@@ -1,0 +1,40 @@
+{
+  "slug": "fazolis-phoenix",
+  "name": "Fazoli's",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Catering service",
+    "Food delivery",
+    "Italian restaurant"
+  ],
+  "address": "3400 E Sky Hbr Blvd Terminal 4",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.4354519,
+  "lng": -111.99796699999999,
+  "phone": "+14803510548",
+  "website": "https://fazolis.com/locations/&y_source=1_NTY1MDQ0MzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJG2tNFeQPK4cRrNyYJqQJT_E",
+  "googleRating": 3.8,
+  "googleReviewCount": 112,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:30 AM - 9:00 PM",
+    "tue": "5:30 AM - 9:00 PM",
+    "wed": "5:30 AM - 9:00 PM",
+    "thu": "5:30 AM - 9:00 PM",
+    "fri": "5:30 AM - 9:00 PM",
+    "sat": "5:30 AM - 9:00 PM",
+    "sun": "5:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d840b8daf583fc59060c1",
+  "seededAt": "2026-06-25T19:39:55Z",
+  "updatedAt": "2026-06-25T19:39:56Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-59th-ave-thunderbird-glendale",
+  "name": "Firehouse Subs 59th Ave & Thunderbird",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "13637 N 59th Ave Ste B",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85304",
+  "lat": 33.609455,
+  "lng": -112.18548,
+  "phone": "+16029035523",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJW4s0A3RpK4cRNl_bDPBSdSE",
+  "googleRating": 4.3,
+  "googleReviewCount": 866,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afa61a9f18c9af44e97",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-06-12T14:43:06Z",
+  "source": "groundgame"
+}

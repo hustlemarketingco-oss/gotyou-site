@@ -1,0 +1,40 @@
+{
+  "slug": "sauce-pizza-wine-2470-phoenix",
+  "name": "Sauce Pizza & Wine",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Wine bar",
+    "Bar",
+    "Food store"
+  ],
+  "address": "2470 W Happy Valley Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85085",
+  "lat": 33.7148264,
+  "lng": -112.1130493,
+  "phone": "+16234144866",
+  "website": "http://www.saucepizzaandwine.com/",
+  "placeId": "ChIJBXe62r1lK4cRk1QOzee_RuY",
+  "googleRating": 4.2,
+  "googleReviewCount": 956,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29b9ceaf51acfbadccb376",
+  "seededAt": "2026-06-10T19:23:58Z",
+  "updatedAt": "2026-06-10T19:23:59Z",
+  "source": "groundgame"
+}

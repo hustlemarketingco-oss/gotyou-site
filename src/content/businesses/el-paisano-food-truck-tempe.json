@@ -1,0 +1,31 @@
+{
+  "slug": "el-paisano-food-truck-tempe",
+  "name": "El paisano food truck",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1101 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4166439,
+  "lng": -111.9259098,
+  "placeId": "ChIJT1QyllgJK4cRa9PqLhv6gLU",
+  "googleRating": 4.9,
+  "googleReviewCount": 24,
+  "hours": {
+    "mon": "5:00 PM - 2:00 AM",
+    "tue": "5:00 PM - 2:00 AM",
+    "wed": "5:00 PM - 2:00 AM",
+    "thu": "5:00 PM - 2:00 AM",
+    "fri": "5:00 PM - 2:00 AM",
+    "sat": "5:00 PM - 2:00 AM",
+    "sun": "5:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a358f751705cfb5750d2c8b",
+  "seededAt": "2026-06-19T18:50:29Z",
+  "updatedAt": "2026-06-19T18:50:29Z",
+  "source": "groundgame"
+}

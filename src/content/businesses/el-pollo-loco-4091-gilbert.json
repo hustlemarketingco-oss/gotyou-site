@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-4091-gilbert",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery"
+  ],
+  "address": "4091 S Gilbert Rd",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85297",
+  "lat": 33.2761084,
+  "lng": -111.788975,
+  "phone": "+14805458888",
+  "website": "https://restaurants.elpolloloco.com/az/gilbert/4091-s-gilbert-rd",
+  "placeId": "ChIJ_SOH9QurK4cRnNjDnu1uUsI",
+  "googleRating": 4,
+  "googleReviewCount": 1189,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d839737a866e88860cd51",
+  "seededAt": "2026-06-25T19:37:59Z",
+  "updatedAt": "2026-06-25T19:38:00Z",
+  "source": "groundgame"
+}

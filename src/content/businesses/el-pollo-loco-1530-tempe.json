@@ -1,0 +1,39 @@
+{
+  "slug": "el-pollo-loco-1530-tempe",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Food delivery",
+    "Fast food restaurant"
+  ],
+  "address": "1530 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378869099999996,
+  "lng": -111.96460789999999,
+  "phone": "+14802915763",
+  "website": "https://restaurants.elpolloloco.com/az/tempe/1530-w-baseline",
+  "placeId": "ChIJQWTgUwAPK4cRBEfVIR5cU58",
+  "googleRating": 3.9,
+  "googleReviewCount": 57,
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83916d4822d32a8a91e5",
+  "seededAt": "2026-06-25T19:37:53Z",
+  "updatedAt": "2026-06-25T19:37:54Z",
+  "source": "groundgame"
+}

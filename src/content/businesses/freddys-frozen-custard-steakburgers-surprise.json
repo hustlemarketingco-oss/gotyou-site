@@ -1,0 +1,38 @@
+{
+  "slug": "freddys-frozen-custard-steakburgers-surprise",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "American restaurant"
+  ],
+  "address": "14029 W Waddell Rd",
+  "city": "Surprise",
+  "state": "AZ",
+  "zip": "85379",
+  "lat": 33.6087208,
+  "lng": -112.3620194,
+  "phone": "+16232149624",
+  "website": "https://www.freddys.com/location/surprise-az",
+  "placeId": "ChIJPdckk_NEK4cRtCIO5q-jNMI",
+  "googleRating": 4.4,
+  "googleReviewCount": 1938,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2b65a6bb6aad2747ed64a7",
+  "seededAt": "2026-06-12T01:49:26Z",
+  "updatedAt": "2026-06-12T01:49:26Z",
+  "source": "groundgame"
+}

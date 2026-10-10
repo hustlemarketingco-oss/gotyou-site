@@ -1,0 +1,32 @@
+{
+  "slug": "el-paisano-liquor-store-tempe",
+  "name": "El Paisano Liquor Store",
+  "category": "Shopping",
+  "googleCategory": "Liquor store",
+  "address": "1101 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4166679,
+  "lng": -111.92591,
+  "phone": "+14809672537",
+  "placeId": "ChIJAedzYIEJK4cRzWtdZ_U1MmQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 371,
+  "hours": {
+    "mon": "8:00 AM - 2:00 AM",
+    "tue": "8:00 AM - 2:00 AM",
+    "wed": "8:00 AM - 2:00 AM",
+    "thu": "8:00 AM - 2:00 AM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a358f77deff81a6845b3ba4",
+  "seededAt": "2026-06-19T18:50:31Z",
+  "updatedAt": "2026-06-19T18:50:32Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "qdoba-gcu-only-phoenix",
+  "name": "Qdoba (GCU ONLY)",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "3300 W Camelback Rd Bldg 29",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85017",
+  "lat": 33.5131705,
+  "lng": -112.13027590000002,
+  "placeId": "ChIJkVpEbAATK4cRAbqFOvqCv6o",
+  "googleRating": 3,
+  "googleReviewCount": 4,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e3aa2f2f0a2ef1a73576",
+  "seededAt": "2026-06-17T18:12:58Z",
+  "updatedAt": "2026-06-17T18:12:59Z",
+  "source": "groundgame"
+}

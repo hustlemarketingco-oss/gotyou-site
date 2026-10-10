@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-scottsdale",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Catering service",
+    "Food delivery",
+    "Fast food restaurant"
+  ],
+  "address": "15540 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6267002,
+  "lng": -111.89144449999999,
+  "phone": "+14809514159",
+  "website": "https://restaurants.elpolloloco.com/az/scottsdale/15540-n-hayden-rd",
+  "placeId": "ChIJrwg_7Ml1K4cRCQNo0CI43s4",
+  "googleRating": 4.1,
+  "googleReviewCount": 573,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d839bc818495ce15a0e66",
+  "seededAt": "2026-06-25T19:38:03Z",
+  "updatedAt": "2026-06-25T19:38:04Z",
+  "source": "groundgame"
+}

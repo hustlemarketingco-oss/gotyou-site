@@ -1,0 +1,39 @@
+{
+  "slug": "nielsens-frozen-custard-st-george",
+  "name": "Nielsen's Frozen Custard (St. George)",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "secondaryCategories": [
+    "Ice cream shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "445 E St George Blvd 102 Blvd #102",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.1100394,
+  "lng": -113.5738479,
+  "phone": "+14356285579",
+  "website": "https://nielsensfrozencustard.com/",
+  "placeId": "ChIJW3a8WM1EyoARnIdiF2H9DOw",
+  "googleRating": 4.5,
+  "googleReviewCount": 1505,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f8df7f6a017378901074",
+  "seededAt": "2025-12-17T18:39:27Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

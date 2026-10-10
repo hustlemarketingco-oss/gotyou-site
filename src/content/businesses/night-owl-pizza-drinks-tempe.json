@@ -1,0 +1,40 @@
+{
+  "slug": "night-owl-pizza-drinks-tempe",
+  "name": "Night Owl Pizza & Drinks Tempe",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Hamburger restaurant",
+    "Bar",
+    "Video arcade",
+    "American restaurant"
+  ],
+  "address": "2700 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3998743,
+  "lng": -111.94009919999999,
+  "phone": "+14806817781",
+  "website": "http://nightowlaz.com/",
+  "placeId": "ChIJT8kGJxAJK4cRuBClWBbXbAc",
+  "googleRating": 4.7,
+  "googleReviewCount": 162,
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2765561cf560201a6c409f",
+  "seededAt": "2026-06-09T00:59:02Z",
+  "updatedAt": "2026-06-12T22:05:42Z",
+  "source": "groundgame"
+}

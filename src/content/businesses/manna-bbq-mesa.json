@@ -1,0 +1,43 @@
+{
+  "slug": "manna-bbq-mesa",
+  "name": "Manna BBQ",
+  "category": "Asian & Pacific",
+  "googleCategory": "Korean barbecue restaurant",
+  "secondaryCategories": [
+    "Barbecue restaurant",
+    "Korean restaurant"
+  ],
+  "address": "1135 S Dobson Rd",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85202",
+  "lat": 33.3945605,
+  "lng": -111.8730829,
+  "phone": "+14807335000",
+  "website": "http://mannabbqaz.com/",
+  "placeId": "ChIJ2-JNauIHK4cR6aWS9vRnB28",
+  "googleRating": 4.5,
+  "googleReviewCount": 1724,
+  "amenities": [
+    "Credit card",
+    "Cash",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:30 AM - 9:30 PM",
+    "tue": "11:30 AM - 9:30 PM",
+    "wed": "11:30 AM - 9:30 PM",
+    "thu": "11:30 AM - 9:30 PM",
+    "fri": "11:30 AM - 10:00 PM",
+    "sat": "11:30 AM - 10:00 PM",
+    "sun": "11:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2766c72bd4504b39ff75c3",
+  "seededAt": "2026-06-09T01:05:11Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

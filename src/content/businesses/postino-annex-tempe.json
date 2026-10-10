@@ -1,0 +1,47 @@
+{
+  "slug": "postino-annex-tempe",
+  "name": "Postino Annex",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Catering service",
+    "Food delivery",
+    "Cocktail bar",
+    "Bar"
+  ],
+  "address": "615 S College Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4238482,
+  "lng": -111.93473560000001,
+  "phone": "+14809271111",
+  "website": "https://www.postino.com/locations/postino-annex",
+  "placeId": "ChIJ9Wd6mGYGK4cRiWd0_bkohHg",
+  "googleRating": 4.6,
+  "googleReviewCount": 2502,
+  "priceRange": "$$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a25b33ddf89d21dfac2ec65",
+  "seededAt": "2026-06-07T18:06:53Z",
+  "updatedAt": "2026-06-27T00:30:06Z",
+  "source": "groundgame"
+}

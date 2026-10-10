@@ -1,0 +1,36 @@
+{
+  "slug": "scottsdale-fashion-square-scottsdale",
+  "name": "Scottsdale Fashion Square",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "7014 E Camelback Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.502748,
+  "lng": -111.92934070000001,
+  "phone": "+14809412140",
+  "website": "https://www.fashionsquare.com/",
+  "placeId": "ChIJMwi19grD4xQR6CuvknZ-Peo",
+  "googleRating": 4.6,
+  "googleReviewCount": 19596,
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a34385bb7d7bce1bd67ec94",
+  "seededAt": "2026-06-18T18:26:35Z",
+  "updatedAt": "2026-06-18T18:26:36Z",
+  "source": "groundgame"
+}

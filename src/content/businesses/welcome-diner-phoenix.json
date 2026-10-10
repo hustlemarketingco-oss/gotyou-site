@@ -1,0 +1,37 @@
+{
+  "slug": "welcome-diner-phoenix",
+  "name": "Welcome Diner",
+  "category": "Restaurant",
+  "googleCategory": "Diner",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "929 E Pierce St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85006",
+  "lat": 33.4555423,
+  "lng": -112.0607333,
+  "phone": "+16024951111",
+  "website": "http://www.welcomediner.net/",
+  "placeId": "ChIJU9YaOBASK4cRzB9eL0qEY-U",
+  "googleRating": 4.5,
+  "googleReviewCount": 2745,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a276616397c83f9abcf1e41",
+  "seededAt": "2026-06-09T01:02:14Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

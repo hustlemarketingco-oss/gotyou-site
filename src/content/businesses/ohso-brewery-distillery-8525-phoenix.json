@@ -1,0 +1,38 @@
+{
+  "slug": "ohso-brewery-distillery-8525-phoenix",
+  "name": "OHSO Brewery + Distillery",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "secondaryCategories": [
+    "American restaurant",
+    "Manufacturer"
+  ],
+  "address": "8525 N Central Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85020",
+  "lat": 33.5612603,
+  "lng": -112.0736725,
+  "phone": "+16028441186",
+  "website": "https://www.ohsobrewery.com/",
+  "placeId": "ChIJGSUO9Z5tK4cR8ZKfCCX807U",
+  "googleRating": 4.5,
+  "googleReviewCount": 321,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29fc0995e9d48ffd0f7a4b",
+  "seededAt": "2026-06-11T00:06:33Z",
+  "updatedAt": "2026-06-11T00:06:34Z",
+  "source": "groundgame"
+}

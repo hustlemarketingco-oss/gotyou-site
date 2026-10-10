@@ -1,0 +1,38 @@
+{
+  "slug": "crumbl-phoenix",
+  "name": "Crumbl",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "3736 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.495733099999995,
+  "lng": -112.0005427,
+  "phone": "+16026613777",
+  "website": "https://crumblcookies.com/stores/az/phoenix-area/arcadia",
+  "placeId": "ChIJVwu38ZoNK4cRZJwxAxPhQjI",
+  "googleRating": 4.8,
+  "googleReviewCount": 2638,
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a676103d255cb41dc5c103b",
+  "seededAt": "2026-07-27T13:45:39Z",
+  "updatedAt": "2026-07-27T13:45:39Z",
+  "source": "groundgame"
+}

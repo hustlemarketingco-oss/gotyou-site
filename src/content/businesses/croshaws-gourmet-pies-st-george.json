@@ -1,0 +1,38 @@
+{
+  "slug": "croshaws-gourmet-pies-st-george",
+  "name": "Croshaw's Gourmet Pies",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "American restaurant",
+    "Food store"
+  ],
+  "address": "175 W 900 S",
+  "city": "St. George",
+  "state": "UT",
+  "zip": "84770",
+  "lat": 37.092168,
+  "lng": -113.587479,
+  "phone": "+14356281700",
+  "website": "http://croshawspies.net/",
+  "placeId": "ChIJmfclfyZFyoARquoEksCha48",
+  "googleRating": 4.5,
+  "googleReviewCount": 826,
+  "priceRange": "$",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Denver",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942f895197282238fd7d7df",
+  "seededAt": "2025-12-17T18:38:13Z",
+  "updatedAt": "2026-09-22T16:00:45Z",
+  "source": "groundgame"
+}

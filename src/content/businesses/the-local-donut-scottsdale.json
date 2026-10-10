@@ -1,0 +1,51 @@
+{
+  "slug": "the-local-donut-scottsdale",
+  "name": "The Local Donut",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee shop"
+  ],
+  "address": "3213 Hayden Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4851592,
+  "lng": -111.9083291,
+  "phone": "+14805005236",
+  "website": "http://www.thelocaldonutshop.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=7196909063287424567",
+  "googleCid": "7196909063287424567",
+  "placeId": "ChIJWUZ8eNILK4cRN0YJhqmO4GM",
+  "googleRating": 4.7,
+  "googleReviewCount": 849,
+  "priceRange": "$1–10",
+  "description": "Down-to-earth donut & coffee shop serving housemade classic & creative donuts with unique flavors.",
+  "amenities": [
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee"
+  ],
+  "sameAs": [
+    "https://instagram.com/thelocaldonut"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243c37d0091228e9bfad29",
+  "seededAt": "2026-06-06T15:26:47Z",
+  "updatedAt": "2026-07-01T20:20:05Z",
+  "source": "groundgame"
+}

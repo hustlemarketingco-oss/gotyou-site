@@ -1,0 +1,37 @@
+{
+  "slug": "the-herb-stop-pine",
+  "name": "The Herb Stop",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Tea store",
+  "secondaryCategories": [
+    "Health food store",
+    "Food store"
+  ],
+  "address": "4004 AZ-87",
+  "city": "Pine",
+  "state": "AZ",
+  "zip": "85544",
+  "lat": 34.3894386,
+  "lng": -111.4550857,
+  "phone": "+18773454372",
+  "website": "http://www.herbstoponline.com/",
+  "placeId": "ChIJPVReEms_LIcR4OB-OVFHwDo",
+  "googleRating": 4.9,
+  "googleReviewCount": 137,
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c325c20c11f9c59d75595",
+  "seededAt": "2026-06-12T16:22:52Z",
+  "updatedAt": "2026-06-12T16:22:52Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cold-stone-creamery-1949-chandler",
+  "name": "Cold Stone Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Cake shop",
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "1949 W Ray Rd Ste 10",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.3189791,
+  "lng": -111.87504489999999,
+  "phone": "+14804861909",
+  "website": "https://www.coldstonecreamery.com/stores/23744",
+  "placeId": "ChIJN3Bv9MEHK4cRiXuNieDuLFA",
+  "googleRating": 3.6,
+  "googleReviewCount": 86,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c269104b19200e7270fe6",
+  "seededAt": "2026-06-12T15:32:33Z",
+  "updatedAt": "2026-06-12T15:32:34Z",
+  "source": "groundgame"
+}

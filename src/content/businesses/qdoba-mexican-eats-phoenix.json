@@ -1,0 +1,42 @@
+{
+  "slug": "qdoba-mexican-eats-phoenix",
+  "name": "QDOBA Mexican Eats",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Tex mex restaurant",
+    "Fast food restaurant",
+    "Bar and grill",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "4901 E Ray Rd #100",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85044",
+  "lat": 33.319345399999996,
+  "lng": -111.97783659999999,
+  "phone": "+16025360604",
+  "website": "https://locations.qdoba.com/us/az/phoenix/4901-e-ray-rd",
+  "placeId": "ChIJQVMhaloFK4cR11yppu7XAII",
+  "googleRating": 4.8,
+  "googleReviewCount": 547,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32e3a9f2af9b494c152778",
+  "seededAt": "2026-06-17T18:12:57Z",
+  "updatedAt": "2026-07-03T19:47:01Z",
+  "source": "groundgame"
+}

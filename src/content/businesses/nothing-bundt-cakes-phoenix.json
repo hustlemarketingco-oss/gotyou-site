@@ -1,0 +1,42 @@
+{
+  "slug": "nothing-bundt-cakes-phoenix",
+  "name": "Nothing Bundt Cakes",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Cake shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Wholesaler",
+    "Manufacturer",
+    "Food store"
+  ],
+  "address": "4290 E Indian School Rd Suite 101",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.495724599999996,
+  "lng": -111.9892428,
+  "phone": "+16029544041",
+  "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/phoenix/bakery-60.html",
+  "placeId": "ChIJZZtS7FAMK4cRyGstMcRREU0",
+  "googleRating": 4.1,
+  "googleReviewCount": 166,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3a11c3a3d643ab76a8822d",
+  "seededAt": "2026-06-23T04:55:31Z",
+  "updatedAt": "2026-06-23T04:55:32Z",
+  "source": "groundgame"
+}

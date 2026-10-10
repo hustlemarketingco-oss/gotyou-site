@@ -1,0 +1,37 @@
+{
+  "slug": "pie-hole-boise",
+  "name": "Pie Hole",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "205 N 8th St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.616671499999995,
+  "lng": -116.20268829999999,
+  "phone": "+12083447783",
+  "website": "http://www.pieholeusa.com/",
+  "placeId": "ChIJS6jafeT4rlQRvVMak-tXzkc",
+  "googleRating": 4.3,
+  "googleReviewCount": 1619,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 3:00 AM",
+    "tue": "11:00 AM - 3:00 AM",
+    "wed": "11:00 AM - 3:00 AM",
+    "thu": "11:00 AM - 3:00 AM",
+    "fri": "11:00 AM - 4:00 AM",
+    "sat": "11:00 AM - 4:00 AM",
+    "sun": "11:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "69699b4f9afba3ab03263d81",
+  "seededAt": "2026-01-16T01:58:39Z",
+  "updatedAt": "2026-01-16T01:58:39Z",
+  "source": "groundgame"
+}

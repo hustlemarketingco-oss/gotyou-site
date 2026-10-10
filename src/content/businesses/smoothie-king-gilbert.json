@@ -1,0 +1,37 @@
+{
+  "slug": "smoothie-king-gilbert",
+  "name": "Smoothie King",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "3568 S Power Rd #104",
+  "city": "Gilbert",
+  "state": "AZ",
+  "zip": "85234",
+  "lat": 33.351078099999995,
+  "lng": -111.6890924,
+  "phone": "+14808962610",
+  "website": "https://locations.smoothieking.com/ll/us/az/gilbert/3568-s-power-rd-ste-104/",
+  "placeId": "ChIJaYnjYPavK4cRP72uR0HUe0o",
+  "googleRating": 4.9,
+  "googleReviewCount": 44,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "6:30 AM - 9:00 PM",
+    "tue": "6:30 AM - 9:00 PM",
+    "wed": "6:30 AM - 9:00 PM",
+    "thu": "6:30 AM - 9:00 PM",
+    "fri": "6:30 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a31cc9404fcbf3c4b9f266a",
+  "seededAt": "2026-06-16T22:22:12Z",
+  "updatedAt": "2026-06-16T22:22:13Z",
+  "source": "groundgame"
+}

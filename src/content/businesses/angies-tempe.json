@@ -1,0 +1,43 @@
+{
+  "slug": "angies-tempe",
+  "name": "Angie's",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "835 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "priceRange": "$10–20",
+  "description": "Angie's is a casual seafood restaurant & fast food restaurant in Tempe, serving up coffee & healthy options, takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Dine-in",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Casual",
+    "Free parking lot",
+    "Free street parking",
+    "Paid parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Coffee",
+    "Healthy options",
+    "Quick bite"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/eatangies"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243a09ff4e9670b1e812c9",
+  "seededAt": "2026-06-06T15:17:29Z",
+  "updatedAt": "2026-06-12T22:03:04Z",
+  "source": "groundgame"
+}

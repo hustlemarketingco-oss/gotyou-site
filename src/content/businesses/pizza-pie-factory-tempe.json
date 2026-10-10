@@ -1,0 +1,40 @@
+{
+  "slug": "pizza-pie-factory-tempe",
+  "name": "Pizza Pie Factory",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Pizza delivery",
+    "Meal delivery",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "777 S College Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4230136,
+  "lng": -111.93473560000001,
+  "phone": "+14802646353",
+  "website": "https://www.pizzapiefactorytempe.com/",
+  "placeId": "ChIJY3nR8yoPK4cRHQLTlj8PsWo",
+  "googleRating": 4.6,
+  "googleReviewCount": 190,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 1:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "5:00 PM - 1:00 AM",
+    "sun": "5:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c63ce493226931bc51019",
+  "seededAt": "2026-06-12T19:53:50Z",
+  "updatedAt": "2026-08-04T18:10:40Z",
+  "source": "groundgame"
+}

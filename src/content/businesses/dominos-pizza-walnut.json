@@ -1,0 +1,39 @@
+{
+  "slug": "dominos-pizza-walnut",
+  "name": "Domino's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Meal takeaway",
+    "Meal delivery",
+    "Food delivery"
+  ],
+  "address": "18770 Amar Rd",
+  "city": "Walnut",
+  "state": "CA",
+  "zip": "91789",
+  "lat": 34.027548599999996,
+  "lng": -117.89322550000001,
+  "phone": "+16269134044",
+  "website": "https://www.dominos.com/en/",
+  "placeId": "ChIJcXfohygqw4ARWl93YLieYRI",
+  "googleRating": 3.9,
+  "googleReviewCount": 301,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6943429d992e90a85f827837",
+  "seededAt": "2025-12-17T23:54:05Z",
+  "updatedAt": "2025-12-17T23:54:05Z",
+  "source": "groundgame"
+}

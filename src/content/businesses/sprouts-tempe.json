@@ -1,0 +1,46 @@
+{
+  "slug": "sprouts-tempe",
+  "name": "Sprouts",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Fresh food market",
+    "Fruit and vegetable store",
+    "Grocery delivery service",
+    "Health food store",
+    "Juice shop",
+    "Organic food store",
+    "Produce market",
+    "Supermarket"
+  ],
+  "address": "931 E Elliot Rd Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "phone": "+14805677040",
+  "description": "Specialty chain offering a range of natural & organic grocery items, including own-brand goods.",
+  "amenities": [
+    "Curbside pickup",
+    "No-contact delivery",
+    "Delivery",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Paid parking lot",
+    "Checks",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "sameAs": [
+    "https://www.facebook.com/SproutsFarmersMarket"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24398a2b9993b3a2771e9d",
+  "seededAt": "2026-06-06T15:15:22Z",
+  "updatedAt": "2026-06-09T01:20:15Z",
+  "source": "groundgame"
+}

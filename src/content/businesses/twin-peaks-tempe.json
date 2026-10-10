@@ -1,0 +1,38 @@
+{
+  "slug": "twin-peaks-tempe",
+  "name": "Twin Peaks",
+  "category": "Bars & Pubs",
+  "googleCategory": "Sports bar",
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar"
+  ],
+  "address": "2050 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4321987,
+  "lng": -111.9023996,
+  "phone": "+14806873122",
+  "website": "https://twinpeaksrestaurant.com/locations/tempe-az",
+  "placeId": "ChIJVTtZMf0JK4cRcqJLmmVqWYM",
+  "googleRating": 4.6,
+  "googleReviewCount": 4158,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a289350f9d6746333ac6a72",
+  "seededAt": "2026-06-09T22:27:28Z",
+  "updatedAt": "2026-06-09T22:27:29Z",
+  "source": "groundgame"
+}

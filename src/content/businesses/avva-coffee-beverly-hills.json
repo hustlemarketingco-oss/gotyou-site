@@ -1,0 +1,40 @@
+{
+  "slug": "avva-coffee-beverly-hills",
+  "name": "Avva Coffee Beverly Hills",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Bakery",
+    "Cafe",
+    "Food store"
+  ],
+  "address": "9559 S Santa Monica Blvd",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "zip": "90210",
+  "lat": 34.0701896,
+  "lng": -118.4052363,
+  "phone": "+13107347824",
+  "placeId": "ChIJo3DCi1G9woARLT9ARsJnj-Q",
+  "googleRating": 4.3,
+  "googleReviewCount": 236,
+  "priceRange": "$",
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Los_Angeles",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "698e1abf60cf990c7b612791",
+  "seededAt": "2026-02-12T18:23:59Z",
+  "updatedAt": "2026-02-12T18:23:59Z",
+  "source": "groundgame"
+}

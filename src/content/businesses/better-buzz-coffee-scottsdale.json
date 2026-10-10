@@ -1,0 +1,38 @@
+{
+  "slug": "better-buzz-coffee-scottsdale",
+  "name": "Better Buzz Coffee – Scottsdale",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "15784 N Frank Lloyd Wright Blvd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85260",
+  "lat": 33.6292028,
+  "lng": -111.88903649999999,
+  "phone": "+14806723313",
+  "website": "https://betterbuzzcoffee.com/pages/scottsdale-location",
+  "placeId": "ChIJfwt5Nld1K4cRLCjwjLTOhXM",
+  "googleRating": 4.5,
+  "googleReviewCount": 433,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "4:00 AM - 7:00 PM",
+    "tue": "4:00 AM - 7:00 PM",
+    "wed": "4:00 AM - 7:00 PM",
+    "thu": "4:00 AM - 7:00 PM",
+    "fri": "4:00 AM - 7:00 PM",
+    "sat": "4:00 AM - 7:00 PM",
+    "sun": "4:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27656b4f07f7d99d5754e3",
+  "seededAt": "2026-06-09T00:59:23Z",
+  "updatedAt": "2026-09-22T15:27:50Z",
+  "source": "groundgame"
+}

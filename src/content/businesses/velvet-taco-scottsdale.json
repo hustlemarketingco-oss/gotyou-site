@@ -1,0 +1,37 @@
+{
+  "slug": "velvet-taco-scottsdale",
+  "name": "Velvet Taco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Mexican restaurant"
+  ],
+  "address": "4166 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4966686,
+  "lng": -111.9263876,
+  "phone": "+16232574145",
+  "website": "https://www.velvettaco.com/location/scottsdale/",
+  "placeId": "ChIJx1GgEtoLK4cR9MQPF9L7qPI",
+  "googleRating": 4.5,
+  "googleReviewCount": 397,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 3:00 AM",
+    "sat": "10:30 AM - 3:00 AM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a396e8535a075261af294d0",
+  "seededAt": "2026-06-22T17:19:01Z",
+  "updatedAt": "2026-06-30T17:32:21Z",
+  "source": "groundgame"
+}

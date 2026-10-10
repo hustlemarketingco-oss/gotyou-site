@@ -1,0 +1,52 @@
+{
+  "slug": "lior-the-baker-scottsdale",
+  "name": "Lior The Baker",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Cookie shop",
+    "Pastry shop"
+  ],
+  "address": "10953 N Frank Lloyd Wright Blvd #105",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85259",
+  "lat": 33.585577,
+  "lng": -111.834405,
+  "phone": "+14804510011",
+  "website": "http://liorthebaker.us/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=16187567955682191562",
+  "googleCid": "16187567955682191562",
+  "placeId": "ChIJiTeTP-2fK4cRyujuT0rLpeA",
+  "googleRating": 4.8,
+  "googleReviewCount": 224,
+  "priceRange": "$10–20",
+  "description": "Located in Scottsdale, Lior The Baker is a bakery & cookie shop with takeout & delivery.",
+  "amenities": [
+    "Delivery",
+    "Onsite services",
+    "Takeout",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Free parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "9:00 AM - 1:00 PM",
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243d95edd5aa911e92b3eb",
+  "seededAt": "2026-06-06T15:32:37Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

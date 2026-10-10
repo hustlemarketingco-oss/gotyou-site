@@ -1,0 +1,32 @@
+{
+  "slug": "sazas-pampered-chicken-beef-and-lamb-phoenix",
+  "name": "Sazas Pampered | Chicken Beef and Lamb",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "4801 E Washington St #3",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85034",
+  "lat": 33.446931299999996,
+  "lng": -111.97798689999999,
+  "website": "https://www.sazas.co/",
+  "placeId": "ChIJ8_dL1qYPK4cRq4YNHbq1ktQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 65,
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a4fd91cb54e1ac1ced48767",
+  "seededAt": "2026-07-09T17:23:40Z",
+  "updatedAt": "2026-07-09T17:25:52Z",
+  "source": "groundgame"
+}

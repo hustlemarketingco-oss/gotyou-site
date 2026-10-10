@@ -1,0 +1,37 @@
+{
+  "slug": "aruma-cafe-tempe",
+  "name": "Aruma Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Food store"
+  ],
+  "address": "2011 E Apache Blvd #143",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4145214,
+  "lng": -111.89981619999999,
+  "phone": "+16024865235",
+  "website": "https://www.arumacafe.com/",
+  "placeId": "ChIJ-_IROAAJK4cRgjQgqACeA8c",
+  "googleRating": 4,
+  "googleReviewCount": 120,
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a552acdee08839985056667",
+  "seededAt": "2026-07-13T18:13:33Z",
+  "updatedAt": "2026-07-28T18:14:13Z",
+  "source": "groundgame"
+}

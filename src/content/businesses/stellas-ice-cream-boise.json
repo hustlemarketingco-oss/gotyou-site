@@ -1,0 +1,39 @@
+{
+  "slug": "stellas-ice-cream-boise",
+  "name": "Stella's Ice Cream - Boise",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "100 N 8th St",
+  "city": "Boise",
+  "state": "ID",
+  "zip": "83702",
+  "lat": 43.6156486,
+  "lng": -116.20307249999999,
+  "phone": "+12085046993",
+  "website": "http://www.stellasicecream.com/",
+  "placeId": "ChIJC2_CUnr5rlQRKC6u6EE82o4",
+  "googleRating": 4.5,
+  "googleReviewCount": 283,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Boise",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6942600629ab088ea1866561",
+  "seededAt": "2025-12-17T07:47:18Z",
+  "updatedAt": "2025-12-17T07:47:18Z",
+  "source": "groundgame"
+}

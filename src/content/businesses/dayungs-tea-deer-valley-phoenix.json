@@ -1,0 +1,37 @@
+{
+  "slug": "dayungs-tea-deer-valley-phoenix",
+  "name": "DaYung's Tea - Deer Valley",
+  "category": "Restaurant",
+  "googleCategory": "Taiwanese restaurant",
+  "secondaryCategories": [
+    "Tea house"
+  ],
+  "address": "23450 N 19th Ave Suite 102",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85027",
+  "lat": 33.698729199999995,
+  "lng": -112.1004516,
+  "phone": "+14809749591",
+  "website": "https://order.online/business/dayungs-teadeer-valley-13903899",
+  "placeId": "ChIJjS3iVgBlK4cRJVwn0-0Xxgg",
+  "googleRating": 4.6,
+  "googleReviewCount": 96,
+  "priceRange": "$",
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a24cb6845fb1bc9dffd293b",
+  "seededAt": "2026-06-07T01:37:44Z",
+  "updatedAt": "2026-07-15T21:34:15Z",
+  "source": "groundgame"
+}

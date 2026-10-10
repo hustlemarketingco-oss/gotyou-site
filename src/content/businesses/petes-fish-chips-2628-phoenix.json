@@ -1,0 +1,38 @@
+{
+  "slug": "petes-fish-chips-2628-phoenix",
+  "name": "Pete's Fish & Chips",
+  "category": "Restaurant",
+  "googleCategory": "Seafood restaurant",
+  "secondaryCategories": [
+    "Fish and chips restaurant",
+    "Fast food restaurant"
+  ],
+  "address": "2628 W Van Buren St",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85009",
+  "lat": 33.451394799999996,
+  "lng": -112.11656029999999,
+  "phone": "+16022783351",
+  "website": "http://www.petesfishandchips.com/",
+  "placeId": "ChIJXXXTLcITK4cR1MShCTVniq4",
+  "googleRating": 4.4,
+  "googleReviewCount": 1322,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3cac9c13c0dcfa23b9f1ea",
+  "seededAt": "2026-06-25T04:20:44Z",
+  "updatedAt": "2026-09-22T15:41:43Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "subway-1130-mesa",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Fast food restaurant",
+    "Food delivery",
+    "Meal takeaway"
+  ],
+  "address": "1130 W University Dr",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "85201",
+  "lat": 33.4224342,
+  "lng": -111.8551378,
+  "phone": "+14804619886",
+  "website": "https://restaurants.subway.com/united-states/az/mesa/1130-w-university-dr&y_source=1_MTQ4OTczMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "placeId": "ChIJ6xmtjIqnK4cRVRkGTkAq_us",
+  "googleRating": 3.8,
+  "googleReviewCount": 189,
+  "priceRange": "$",
+  "hours": {
+    "mon": "9:00 AM - 9:30 PM",
+    "tue": "9:00 AM - 9:30 PM",
+    "wed": "9:00 AM - 9:30 PM",
+    "thu": "9:00 AM - 9:30 PM",
+    "fri": "9:00 AM - 9:30 PM",
+    "sat": "9:00 AM - 9:30 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d8053fb9c82eff6912ef6",
+  "seededAt": "2026-06-25T19:24:03Z",
+  "updatedAt": "2026-06-25T19:24:04Z",
+  "source": "groundgame"
+}

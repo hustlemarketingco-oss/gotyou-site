@@ -1,0 +1,47 @@
+{
+  "slug": "one-stop-nutrition-scottsdale",
+  "name": "One Stop Nutrition",
+  "category": "Health & Beauty",
+  "googleCategory": "Vitamin & supplements store",
+  "secondaryCategories": [
+    "Tanning salon"
+  ],
+  "address": "701 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85257",
+  "lat": 33.4555912,
+  "lng": -111.9260109,
+  "phone": "+14808945100",
+  "website": "http://www.onestopnutrition.com/",
+  "googleMapsUrl": "https://www.google.com/maps?cid=11651904084874028468",
+  "googleCid": "11651904084874028468",
+  "placeId": "ChIJx2rBzxcJK4cRtOXW3wfhs6E",
+  "googleRating": 3.7,
+  "googleReviewCount": 86,
+  "description": "Located in Scottsdale, One Stop Nutrition is a vitamin & supplements store & tanning salon.",
+  "amenities": [
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "hours": {
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM",
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a243bbb2f3914480f1a3e10",
+  "seededAt": "2026-06-06T15:24:43Z",
+  "updatedAt": "2026-06-09T00:35:19Z",
+  "source": "groundgame"
+}

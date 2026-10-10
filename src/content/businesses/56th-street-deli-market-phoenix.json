@@ -1,0 +1,36 @@
+{
+  "slug": "56th-street-deli-market-phoenix",
+  "name": "56th Street Deli & Market",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "5619 E Indian School Rd",
+  "city": "Phoenix",
+  "state": "AZ",
+  "zip": "85018",
+  "lat": 33.488802199999995,
+  "lng": -111.95995429999999,
+  "phone": "+14804235733",
+  "placeId": "ChIJk74AC3MMK4cRcDneGR3d7tE",
+  "googleRating": 4.7,
+  "googleReviewCount": 177,
+  "priceRange": "$",
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 8:00 PM",
+    "sun": "6:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27538d22f02bf09592e566",
+  "seededAt": "2026-06-08T23:43:09Z",
+  "updatedAt": "2026-06-08T23:43:10Z",
+  "source": "groundgame"
+}

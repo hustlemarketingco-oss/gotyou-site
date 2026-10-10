@@ -1,0 +1,38 @@
+{
+  "slug": "firehouse-subs-queen-creek",
+  "name": "Firehouse Subs Queen Creek",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering service",
+    "Food delivery"
+  ],
+  "address": "20851 E Rittenhouse Rd #101",
+  "city": "Queen Creek",
+  "state": "AZ",
+  "zip": "85142",
+  "lat": 33.254664999999996,
+  "lng": -111.63344,
+  "phone": "+14806774136",
+  "website": "https://www.firehousesubs.com/",
+  "placeId": "ChIJ5chfqTtNKocRX-G25p0mZIE",
+  "googleRating": 4.4,
+  "googleReviewCount": 637,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1afab0fe8b13635f1ca7",
+  "seededAt": "2026-06-12T14:43:06Z",
+  "updatedAt": "2026-06-12T14:43:06Z",
+  "source": "groundgame"
+}

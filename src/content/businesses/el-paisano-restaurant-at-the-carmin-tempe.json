@@ -1,0 +1,45 @@
+{
+  "slug": "el-paisano-restaurant-at-the-carmin-tempe",
+  "name": "El Paisano Restaurant at The Carmin",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Taco restaurant",
+    "Tex mex restaurant",
+    "American restaurant"
+  ],
+  "address": "1000 E Apache Blvd Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4149414,
+  "lng": -111.9241473,
+  "phone": "+16026134497",
+  "website": "https://elpaisanotogo.com/",
+  "placeId": "ChIJZSmaHdMJK4cRSFd1xrfcnNg",
+  "googleRating": 4.7,
+  "googleReviewCount": 955,
+  "priceRange": "$",
+  "amenities": [
+    "Cash",
+    "Credit card",
+    "Apple Pay",
+    "Google Pay"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 3:00 AM",
+    "tue": "9:00 AM - 3:00 AM",
+    "wed": "9:00 AM - 3:00 AM",
+    "thu": "9:00 AM - 4:00 AM",
+    "fri": "9:00 AM - 4:00 AM",
+    "sat": "9:00 AM - 4:00 AM",
+    "sun": "9:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3438c401d757808542071b",
+  "seededAt": "2026-06-18T18:28:20Z",
+  "updatedAt": "2026-07-14T20:21:34Z",
+  "source": "groundgame"
+}

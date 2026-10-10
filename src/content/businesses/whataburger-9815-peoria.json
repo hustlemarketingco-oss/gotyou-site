@@ -1,0 +1,40 @@
+{
+  "slug": "whataburger-9815-peoria",
+  "name": "Whataburger",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Meal takeaway",
+    "American restaurant"
+  ],
+  "address": "9815 W Northern Ave",
+  "city": "Peoria",
+  "state": "AZ",
+  "zip": "85345",
+  "lat": 33.5507667,
+  "lng": -112.2705579,
+  "phone": "+14803722026",
+  "website": "https://locations.whataburger.com/az/peoria/9815-west-northern-avenue.html/",
+  "placeId": "ChIJ-yPd_lxBK4cRyPC2fuFXxpc",
+  "googleRating": 3.2,
+  "googleReviewCount": 54,
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a2c1d69f900e340c7e25614",
+  "seededAt": "2026-06-12T14:53:29Z",
+  "updatedAt": "2026-06-12T14:53:29Z",
+  "source": "groundgame"
+}

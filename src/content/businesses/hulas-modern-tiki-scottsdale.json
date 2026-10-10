@@ -1,0 +1,42 @@
+{
+  "slug": "hulas-modern-tiki-scottsdale",
+  "name": "HULA'S Modern Tiki Scottsdale",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Bar and grill",
+    "Hawaiian restaurant",
+    "Cocktail bar",
+    "Bar",
+    "American restaurant"
+  ],
+  "address": "7213 E 1st Ave",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85251",
+  "lat": 33.4939208,
+  "lng": -111.92567980000001,
+  "phone": "+14809704852",
+  "website": "http://hulasmoderntiki.com/",
+  "placeId": "ChIJmUr5nr8LK4cRVYXZRqQmjS0",
+  "googleRating": 4.5,
+  "googleReviewCount": 2143,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a27534ece7961f9281c02f9",
+  "seededAt": "2026-06-08T23:42:06Z",
+  "updatedAt": "2026-07-30T18:26:27Z",
+  "source": "groundgame"
+}

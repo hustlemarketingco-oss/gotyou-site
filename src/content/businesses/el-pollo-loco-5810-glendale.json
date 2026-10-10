@@ -1,0 +1,40 @@
+{
+  "slug": "el-pollo-loco-5810-glendale",
+  "name": "El Pollo Loco",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Catering service",
+    "Food delivery",
+    "Chicken restaurant"
+  ],
+  "address": "5810 W Bell Rd",
+  "city": "Glendale",
+  "state": "AZ",
+  "zip": "85308",
+  "lat": 33.6391766,
+  "lng": -112.1846989,
+  "phone": "+16022686611",
+  "website": "https://restaurants.elpolloloco.com/az/glendale/5810-w-bell-rd",
+  "placeId": "ChIJydkpKvxoK4cRES6A9m4jdXU",
+  "googleRating": 4.2,
+  "googleReviewCount": 1279,
+  "priceRange": "$",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3d83a7db6ad06ffd338a90",
+  "seededAt": "2026-06-25T19:38:15Z",
+  "updatedAt": "2026-06-25T19:38:15Z",
+  "source": "groundgame"
+}

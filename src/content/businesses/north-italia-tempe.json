@@ -1,0 +1,43 @@
+{
+  "slug": "north-italia-tempe",
+  "name": "North Italia",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Wine bar",
+    "Brunch restaurant",
+    "Pizza restaurant",
+    "Family restaurant",
+    "Meal takeaway",
+    "Bar",
+    "Car dealer"
+  ],
+  "address": "697 S Novus Pl",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4243522,
+  "lng": -111.9272039,
+  "phone": "+19285881007",
+  "website": "https://www.northitalia.com/locations/tempe-az/",
+  "placeId": "ChIJhfsUvuAIK4cRAt2w01dPcLk",
+  "googleRating": 4.3,
+  "googleReviewCount": 279,
+  "priceRange": "$$",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a29a2ca7b31223b710eb95b",
+  "seededAt": "2026-06-10T17:45:46Z",
+  "updatedAt": "2026-06-10T17:45:46Z",
+  "source": "groundgame"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "milkshake-factory-scottsdale-seville-scottsdale",
+  "name": "MilkShake Factory Scottsdale Seville",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Confectionery",
+    "Food store"
+  ],
+  "address": "7001 N Scottsdale Rd Ste d 162",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85253",
+  "lat": 33.5393085,
+  "lng": -111.9239338,
+  "phone": "+14807677924",
+  "website": "https://www.milkshakefactory.com/locations/scottsdale/",
+  "placeId": "ChIJ49FxOWQLK4cRbKlkdBqzBb0",
+  "googleRating": 4.6,
+  "googleReviewCount": 59,
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a3ad36b62f76e748bf9b042",
+  "seededAt": "2026-06-23T18:41:47Z",
+  "updatedAt": "2026-06-29T19:13:52Z",
+  "source": "groundgame"
+}

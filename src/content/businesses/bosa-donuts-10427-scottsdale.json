@@ -1,0 +1,37 @@
+{
+  "slug": "bosa-donuts-10427-scottsdale",
+  "name": "BoSa Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "secondaryCategories": [
+    "Food store"
+  ],
+  "address": "10427 E McDowell Mountain Ranch Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "zip": "85255",
+  "lat": 33.6277504,
+  "lng": -111.85514409999999,
+  "phone": "+14809555550",
+  "website": "http://bosadonutsaz.com/",
+  "placeId": "ChIJOyfOMQCfK4cRuH6v8Szyl9Q",
+  "googleRating": 4.6,
+  "googleReviewCount": 117,
+  "priceRange": "$",
+  "hours": {
+    "mon": "5:00 AM - 7:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "5:00 AM - 8:00 PM",
+    "sun": "5:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "groundgameId": "6a32ec837f2c83956360865b",
+  "seededAt": "2026-06-17T18:50:43Z",
+  "updatedAt": "2026-06-17T18:50:43Z",
+  "source": "groundgame"
+}
