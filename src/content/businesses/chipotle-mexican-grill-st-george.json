@@ -8,8 +8,8 @@
   "zip": "84770",
   "phone": "+14359224541",
   "placeId": "ChIJEyBma2BFyoARbvN9fxOe53k",
-  "googleRating": 3.1,
-  "googleReviewCount": 97,
+  "googleRating": 3,
+  "googleReviewCount": 123,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d02289a24e096b2517f3",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8784163404789969774",
+  "googleMapsUrl": "https://maps.google.com/?cid=8784163404789969774",
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 19,
+    "3": 6,
+    "4": 12,
+    "5": 45
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SoGtzHMji9WenUdiq4k-y0PWQXVGZuDi82nIDKAM1iw80Sy93cG-ESx_VoC0qlyp-H0SgB3QbPCM-bvpCLsxO4ICZ_qPoFRpTQXEmXrnahPu59LOhEdrTUf-mjVZV8-2vRkgCj71x3eRJy=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-12T20:39:37Z",
+  "hours": {
+    "mon": "10:30 AM - 10 PM",
+    "tue": "10:30 AM - 10 PM",
+    "wed": "10:30 AM - 10 PM",
+    "thu": "10:30 AM - 10 PM",
+    "fri": "10:30 AM - 10 PM",
+    "sat": "10:30 AM - 10 PM",
+    "sun": "10:30 AM - 10 PM"
+  },
+  "website": "https://locations.chipotle.com/ut/st-george/1687-w-sunset-blvd?utm_source=google&utm_medium=yext&utm_campaign=yext_listings",
+  "lat": 37.122410699999996,
+  "lng": -113.6198464
 }

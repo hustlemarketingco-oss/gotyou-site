@@ -13,5 +13,36 @@
   "groundgameId": "6940ff115edb3db86aab5e54",
   "seededAt": "2025-12-16T06:41:21Z",
   "updatedAt": "2025-12-16T06:41:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJmz43cJ2HUocRBrjU6Jhw7YE",
+  "googleCid": "9362263002416723974",
+  "googleMapsUrl": "https://maps.google.com/?cid=9362263002416723974",
+  "googleRating": 2.9,
+  "googleReviewCount": 43,
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 17
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RwOrfY4zBz0h9vBsqPsmaEvzG-bPl-2dlfSdxZs3a_qdMQAFmbiVn-_2P1bmwQ5u70opdNhIOCds2HLDa2tFsnn4e2iAK3FdgQOraQLz3Sb5-qTTq7MxNqZzWpFo2reD8BQI4F1sEVtq9y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10187&postalCode=84070&rwg_token=AE37R_inxkTSYM_mDblZHrCAXkxfVf0sJ4eO9sKjFE8-TirEej_ZZoH0zN2zjEnOz-7mvlPSXTKzWTUEIfEW0h7Hv5sgfFXd2t9yseF7Xk1aMSHJdN5nhRQ%3D",
+  "gbpCheckedAt": "2026-10-12T20:39:37Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/sandy-ut-pharmacies/11385-south-700-east-sandy-ut-84070/storeid=10187?WT.mc_id=LS_GOOGLE_RX_10187",
+  "lat": 40.544795,
+  "lng": -111.8710648
 }

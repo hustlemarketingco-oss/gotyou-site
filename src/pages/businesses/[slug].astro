@@ -3,7 +3,7 @@ import { allBusinessData, activeInState } from '../../lib/explore';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ClaimSidebar from '../../components/ClaimSidebar.astro';
 import { DAYS, categoryIcon, formatPhone, sizedPhoto, to24hRanges, websiteHost } from '../../lib/business';
-import { profileContent, cityPath, categoryPath, plural, fmtMiles, MIN_CATEGORY_LISTINGS } from '../../lib/profile-content';
+import { profileContent, cityPath, categoryPath, plural, fmtMiles, isFood, MIN_CATEGORY_LISTINGS } from '../../lib/profile-content';
 import { cuisinesFor } from '../../lib/topics';
 import { slugify } from '../../lib/profile-content';
 import ogCards from '../../data/og-cards.json';
@@ -189,6 +189,9 @@ const pageLd = [
         {phone && <a class="act act--primary" href={`tel:${b.phone}`}><i class="ti ti-phone"></i><span>Call<small>{phone}</small></span></a>}
         <a class="act" href={directionsUrl} target="_blank" rel="noopener"><i class="ti ti-directions"></i><span>Directions<small>{b.address}</small></span></a>
         {b.website && <a class="act" href={b.website} target="_blank" rel="noopener nofollow"><i class="ti ti-world"></i><span>Website<small>{host}</small></span></a>}
+        {b.menuUrl && <a class="act" href={b.menuUrl} target="_blank" rel="noopener nofollow"><i class="ti ti-tools-kitchen-2"></i><span>Menu<small>{websiteHost(b.menuUrl)}</small></span></a>}
+        {b.orderUrl && <a class="act" href={b.orderUrl} target="_blank" rel="noopener nofollow"><i class={`ti ${isFood(b.category) ? 'ti-shopping-bag' : 'ti-calendar-event'}`}></i><span>{isFood(b.category) ? 'Order online' : 'Book online'}<small>{websiteHost(b.orderUrl)}</small></span></a>}
+        {b.reservationUrl && <a class="act" href={b.reservationUrl} target="_blank" rel="noopener nofollow"><i class="ti ti-calendar-event"></i><span>Reserve<small>{websiteHost(b.reservationUrl)}</small></span></a>}
         {b.googleMapsUrl && <a class="act" href={b.googleMapsUrl} target="_blank" rel="noopener"><i class="ti ti-brand-google-maps"></i><span>Google Maps<small>Photos & reviews</small></span></a>}
       </div>
     </div>

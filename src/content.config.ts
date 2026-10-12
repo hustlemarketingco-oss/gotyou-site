@@ -43,6 +43,10 @@ const businesses = defineCollection({
     priceRange: z.string().optional(),
     amenities: z.array(z.string()).default([]),
     ratingBreakdown: z.record(z.string(), z.number()).optional(), // Google star counts, e.g. {"5": 2783, "4": 661}
+    menuUrl: z.string().url().optional(),
+    orderUrl: z.string().url().optional(),
+    reservationUrl: z.string().url().optional(),
+    gbpCheckedAt: z.string().datetime().optional(), // when directory-pipeline/enrich_gbp.py last matched it on Google
     ownerPhotoUrl: z.string().optional(), // photo supplied by the merchant after claiming; preferred over photoUrl // e.g. "Wheelchair accessible entrance", "Dine-in"
     timezone: z.string().optional(), // IANA, e.g. "America/Denver" — used for the "Open now" badge
     temporarilyClosed: z.boolean().default(false),

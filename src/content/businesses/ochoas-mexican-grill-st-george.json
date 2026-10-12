@@ -9,8 +9,8 @@
   "phone": "+14359622272",
   "website": "https://www.ochoasmexicangrill.com/",
   "placeId": "ChIJT7xN73dFyoARcb9CnIzABPw",
-  "googleRating": 4.8,
-  "googleReviewCount": 309,
+  "googleRating": 4.7,
+  "googleReviewCount": 401,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -18,5 +18,34 @@
   "groundgameId": "6940d022237a737d45ee983c",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18159851307614257009",
+  "googleMapsUrl": "https://maps.google.com/?cid=18159851307614257009",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 4,
+    "3": 20,
+    "4": 21,
+    "5": 344
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcNRH7KXgARHPx7MHg4_4XGKNwuvqE2m-zjdLQ2C8le8Q37WhoS1r_jbFstvjbd9bMPt7Ns7EjRmsr9NxUcDkDfSsgcgmpCFiRgtWoPx0WvcxOs41Sz42PlMp1bAmqnnGlZrw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://bit.ly/ochoasmexicangrill",
+  "gbpCheckedAt": "2026-10-12T20:39:37Z",
+  "hours": {
+    "mon": "9 AM - 8 PM",
+    "tue": "9 AM - 8 PM",
+    "wed": "9 AM - 8 PM",
+    "thu": "9 AM - 8 PM",
+    "fri": "9 AM - 8:30 PM",
+    "sat": "9 AM - 8:30 PM",
+    "sun": "Closed"
+  },
+  "lat": 37.1224403,
+  "lng": -113.62608979999999
 }

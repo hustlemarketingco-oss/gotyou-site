@@ -13,5 +13,36 @@
   "groundgameId": "6940f9c95edb3db86aab5973",
   "seededAt": "2025-12-16T06:18:49Z",
   "updatedAt": "2025-12-16T06:25:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJE7e5pbDjrIkRrYpNUzwqzPI",
+  "googleCid": "17495405091011529389",
+  "googleMapsUrl": "https://maps.google.com/?cid=17495405091011529389",
+  "googleRating": 4.2,
+  "googleReviewCount": 53,
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 3,
+    "3": 3,
+    "4": 6,
+    "5": 36
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcneV_o-Pz4MMk6GtyApbwmFOhZY1t1Hw3aBBR0bFu_XAdI9-GHDBFTk1rGKTkQcgupPANmOFkpy95IOMqsyII6TMnEeXz0s36Xo6x-Tgx72QVLdvWisiq7awpWuDFg2c36qNqOCzVY9_Sq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=4444&postalCode=27704&rwg_token=AE37R_gVgpuoKyc89owzBPPwjBt_eKrNAGLIcWtgkTW5P4KewEuWu4dPVC6tyL6XwctE7DnM8MYdl_She_Xs6OnxkNbxU3KiywxMV-mNX8EMIWlmKIdvSI8%3D",
+  "gbpCheckedAt": "2026-10-12T20:39:37Z",
+  "hours": {
+    "mon": "8:30 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "8:30 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "8:30 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "8:30 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "8:30 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/durham-nc-pharmacies/3737-n-roxboro-st-corner-of-carver-avenue-durham-nc-27704/storeid=4444?WT.mc_id=LS_GOOGLE_RX_4444",
+  "lat": 36.039488,
+  "lng": -78.89974579999999
 }
