@@ -13,5 +13,33 @@
   "groundgameId": "6940ff7043dcf12837a5af2f",
   "seededAt": "2025-12-16T06:42:56Z",
   "updatedAt": "2025-12-16T06:42:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJUeB7Jp71UocRmemXsj-eCsw",
+  "googleCid": "14702737929920833945",
+  "googleMapsUrl": "https://maps.google.com/?cid=14702737929920833945",
+  "googleRating": 3.5,
+  "googleReviewCount": 4,
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 2
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=opFL5cSVPJvBI6grad0CHg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=209.29225&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 9 PM",
+    "tue": "9 AM - 9 PM",
+    "wed": "9 AM - 9 PM",
+    "thu": "9 AM - 9 PM",
+    "fri": "9 AM - 9 PM",
+    "sat": "9 AM - 9 PM",
+    "sun": "9 AM - 9 PM"
+  },
+  "website": "https://www.smithsfoodanddrug.com/o/money-services?cid=loc_gmb",
+  "lat": 40.7755763,
+  "lng": -111.87685979999999
 }

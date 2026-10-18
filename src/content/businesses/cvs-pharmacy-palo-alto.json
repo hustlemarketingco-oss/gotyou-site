@@ -13,5 +13,35 @@
   "groundgameId": "6941041966b7061f5e1f9202",
   "seededAt": "2025-12-16T07:02:49Z",
   "updatedAt": "2025-12-16T07:02:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ1bZJJ1a6j4ARZl808ePhnPA",
+  "googleCid": "17337981034590134118",
+  "googleMapsUrl": "https://maps.google.com/?cid=17337981034590134118",
+  "googleRating": 4.4,
+  "googleReviewCount": 21,
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 1,
+    "4": 2,
+    "5": 16
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkDtZ9UbGuOC0a2x3uV-u4JlQb_kk1hWNV14lzSYah0fgOVVsnzGDGZ9vS74mCHaJTnTm1tpCSBhVK6Fakje_PSZHtJ74ma7mYEtLXpyuFPjPgG_XGQSU11SWUhowbO556VRUlnwN8QR-x=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=9984&postalCode=94306&rwg_token=AE37R_iRAi02RQtHaATcI8u6zWrg9liKITFWtyk_gsAH6RccrbK4bd53EWI3QCgqi3-U4vAXue4X3zD31geEapFinHGbMq3s-ZoxUayimsrNY5ulAa-RGJE%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 12:30 PM, 1 - 8 PM",
+    "tue": "8 AM - 12:30 PM, 1 - 8 PM",
+    "wed": "8 AM - 12:30 PM, 1 - 8 PM",
+    "thu": "8 AM - 12:30 PM, 1 - 8 PM",
+    "fri": "8 AM - 12:30 PM, 1 - 8 PM",
+    "sat": "10 AM - 12:30 PM, 1 - 6 PM",
+    "sun": "10 AM - 12:30 PM, 1 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/palo-alto-ca-pharmacies/2701-middlefield-rd-palo-alto-ca-94306/storeid=9984?WT.mc_id=LS_GOOGLE_RX_9984",
+  "lat": 37.4336772,
+  "lng": -122.1290956
 }

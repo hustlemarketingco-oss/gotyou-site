@@ -13,5 +13,36 @@
   "groundgameId": "6940fa3de3a3c87bf7dc6694",
   "seededAt": "2025-12-16T06:20:45Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJd3jO8PTHyIAR2n18nyPgzP4",
+  "googleCid": "18360296224486882778",
+  "googleMapsUrl": "https://maps.google.com/?cid=18360296224486882778",
+  "googleRating": 3.1,
+  "googleReviewCount": 64,
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 1,
+    "3": 1,
+    "4": 6,
+    "5": 29
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnL7t2dwbta3MM77tOiFXjB3P_KBubWdTJf9ybppGqNlZ1wI4RbiPIAV7_7t4lTNlZ5Q-vmr-bdGR6IIZ2hby6d-3SG_RuSoo93U1pLosbXhCTfWGbxE0acjPaWQI3UKemkV7vXy5zyAZO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=5942&postalCode=89113&rwg_token=AE37R_hYIPKA-eicjddZgejuwuai_C_p2Z_VgsYKd-KaJV6ib8WAzF3YL5FVXQLh8Y2w9Nv516ifp9hb1S3LOwxX-GpuP65-F7DZriy1mi34hBSo2x0NLBo%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/las-vegas-nv-pharmacies/7285-s-durango-dr-las-vegas-nv-89113/storeid=5942?WT.mc_id=LS_GOOGLE_RX_5942",
+  "lat": 36.0561803,
+  "lng": -115.2799616
 }

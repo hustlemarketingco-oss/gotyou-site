@@ -9,12 +9,40 @@
   "phone": "+14356565832",
   "placeId": "ChIJOYzTs89EyoARh73Nxkoy-gk",
   "googleRating": 4.5,
-  "googleReviewCount": 518,
+  "googleReviewCount": 541,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d02292151651565e4cfe",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "718942387263356295",
+  "googleMapsUrl": "https://maps.google.com/?cid=718942387263356295",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 15,
+    "3": 27,
+    "4": 120,
+    "5": 360
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchZ1HD-eQUjVVZRHrvY4pliVI4sSwj-GnQsFjvDYkf7Kw2JtT_OmI95eSB2PxHUgiMGzl9mBHHd_Y9JC9bBFyB_hZ3zTmrkZTUijWEZiY09MMbuMeCREkLog0iG6hdtkkezgEb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "12 - 10 PM",
+    "tue": "4 - 10 PM",
+    "wed": "4 - 10 PM",
+    "thu": "12 - 10 PM",
+    "fri": "12 - 11 PM",
+    "sat": "11 AM - 11 PM",
+    "sun": "Closed"
+  },
+  "website": "http://www.laser-mania.com/",
+  "lat": 37.110406399999995,
+  "lng": -113.58205369999999
 }

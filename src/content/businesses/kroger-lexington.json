@@ -13,5 +13,36 @@
   "groundgameId": "6940fc93fc6bb4642eed5492",
   "seededAt": "2025-12-16T06:30:43Z",
   "updatedAt": "2025-12-16T06:30:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJhw9gcsVEQogRTLBU7yple2w",
+  "googleCid": "7816952813309964364",
+  "googleMapsUrl": "https://maps.google.com/?cid=7816952813309964364",
+  "googleRating": 4.3,
+  "googleReviewCount": 928,
+  "ratingBreakdown": {
+    "1": 76,
+    "2": 10,
+    "3": 56,
+    "4": 201,
+    "5": 585
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuCXIUHyvdreSrDpJdZ84k23a0E7dNVBb0QJsa-Nho9sH_ydSZrgdN7aVD1k1nMoJyrrD-_GqQOZ6r0s8b8OzdBUtjUgZU6mrnW0x2qKmrqZDcX_f26HTFN2uZw2MQDS7T-dg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 10 PM",
+    "tue": "6 AM - 10 PM",
+    "wed": "6 AM - 10 PM",
+    "thu": "6 AM - 10 PM",
+    "fri": "6 AM - 11 PM",
+    "sat": "6 AM - 11 PM",
+    "sun": "6 AM - 11 PM"
+  },
+  "website": "https://www.kroger.com/stores/grocery/ky/lexington/lexington/024/00784?cid=loc_02400784_gmb",
+  "lat": 38.03098,
+  "lng": -84.4930423
 }

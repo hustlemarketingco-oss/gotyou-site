@@ -11,12 +11,12 @@
   "lng": -111.6583871,
   "phone": "+13854397548",
   "website": "http://thetwistedcow.com/",
-  "googleMapsUrl": "https://www.google.com/maps/place/The+Twisted+Cow/data=!4m7!3m6!1s0x874d91ccc58c2517:0xe2128b890c4ee981!8m2!3d40.2370551!4d-111.6583871!16s%2Fg%2F11s620p2w2!19sChIJFyWMxcyRTYcRgelODImLEuI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=16290236222885783937",
   "googleCid": "16290236222885783937",
   "placeId": "ChIJFyWMxcyRTYcRgelODImLEuI",
   "googleRating": 4.8,
-  "googleReviewCount": 363,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkU1fW47FQ11L6g3IO1n-jnS5_caaoqh0HoYjmvQiBXK33l7LGGrzIueLi3lnjXZANg1J-09RR35f3LgM_pA6yDRwpgFr1dOlPYqATWPqfsKIY82PrKkSLTLGnJA9TymGNvCvZz=w1200-h800-k-no",
+  "googleReviewCount": 365,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxBG2O3VrtcA5QErGsop2jC7kGzI4JSjrMdG1D73jk0ujkidp3iNg1PPNQByjUfnKqY2O1PAF5jYByM7LZDvjoVj7sjnBaPXKGC3XRnMUEKTyD-WybS4dLLPS7YXV6jKLkSIDY=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
@@ -28,7 +28,7 @@
     "2": 12,
     "3": 9,
     "4": 24,
-    "5": 317
+    "5": 319
   },
   "hours": {
     "mon": "4:00 PM - 10:00 PM",
@@ -47,5 +47,6 @@
   "source": "gmaps-scraper",
   "description": "The Twisted Cow is an ice cream shop on North University Avenue in downtown Provo. It's an evening spot, open from 4 PM to 10 PM and until midnight on weekends.",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa1f2fda29a3bf86e6f9"
+  "groundgameId": "6940fa1f2fda29a3bf86e6f9",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

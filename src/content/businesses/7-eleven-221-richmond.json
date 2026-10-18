@@ -9,8 +9,8 @@
   "phone": "+18043440787",
   "website": "https://www.7-eleven.com/locations/va/richmond/221-w-main-34547",
   "placeId": "ChIJ_Xm0VT8RsYkRVTmnhjqaml4",
-  "googleRating": 3.3,
-  "googleReviewCount": 88,
+  "googleRating": 3.4,
+  "googleReviewCount": 102,
   "priceRange": "$",
   "sameAs": [
     "https://www.facebook.com/7eleven",
@@ -24,5 +24,32 @@
   "groundgameId": "6940cace2b7c7cc34b49d045",
   "seededAt": "2025-12-16T02:58:22Z",
   "updatedAt": "2025-12-16T06:25:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6816930562136553813",
+  "googleMapsUrl": "https://maps.google.com/?cid=6816930562136553813",
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 5,
+    "3": 4,
+    "4": 9,
+    "5": 50
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdbkPVaUZjPlxYjGIAf_S1Cj8DfADOy4dMziPMQQm9oNnn8xisVADDIH3Jokh7fqnyZJKnpzbkQob0Ixr0xALui70iLHpg0dcIy4ls4nkb8e7L3izEdydOgDO_P8gJDaRcfcJDRQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 37.5443332,
+  "lng": -77.44709259999999
 }

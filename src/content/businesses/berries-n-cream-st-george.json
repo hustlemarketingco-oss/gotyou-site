@@ -11,8 +11,8 @@
   "phone": "+14357994014",
   "website": "https://berriesncream.com/",
   "placeId": "ChIJOcc0Qw9byoARm61yfOEXG9o",
-  "googleRating": 4.9,
-  "googleReviewCount": 118,
+  "googleRating": 4.8,
+  "googleReviewCount": 134,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -20,5 +20,30 @@
   "groundgameId": "694100538f26c435247e5940",
   "seededAt": "2025-12-16T06:46:43Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15716181581862448539",
+  "googleMapsUrl": "https://maps.google.com/?cid=15716181581862448539",
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 3,
+    "4": 5,
+    "5": 123
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciAq7-4KEh6svMGYjAQnDZb5B6RWFbJIiMLz0cOzRt6uhYsyX97J50xfHSTKDM_YZgKK6yXBy2uAJ84MdwINZ8GRZ6SBlvJKiPc8vyzjzrJuQt2CGRtuCQE8q81S9-c7Tw-aN79w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 9 PM",
+    "tue": "11 AM - 9 PM",
+    "wed": "11 AM - 9 PM",
+    "thu": "11 AM - 9 PM",
+    "fri": "11 AM - 10 PM",
+    "sat": "11 AM - 10 PM",
+    "sun": "Closed"
+  }
 }

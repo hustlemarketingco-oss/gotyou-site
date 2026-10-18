@@ -13,5 +13,36 @@
   "groundgameId": "6940ff5c353fee45ca3c94f1",
   "seededAt": "2025-12-16T06:42:36Z",
   "updatedAt": "2025-12-16T06:42:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJG3YREYRpUocR0udVqKx8MZ4",
+  "googleCid": "11399029212851857362",
+  "googleMapsUrl": "https://maps.google.com/?cid=11399029212851857362",
+  "googleRating": 4.4,
+  "googleReviewCount": 256,
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 5,
+    "3": 17,
+    "4": 42,
+    "5": 178
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8BqTl_BX0iWVDsKFaKH-87ivOJCgKtUnKtTw-42b49MANcGGZbWk_hyoaUWtxN84Tmcb_Kqh7jiNcPfkTRXuqKSKg05yKE8THhBwAY_zAPJXIaKVPSDAQE62_sDuNsPQlu13A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 9 PM",
+    "tue": "9 AM - 9 PM",
+    "wed": "9 AM - 9 PM",
+    "thu": "9 AM - 9 PM",
+    "fri": "9 AM - 9 PM",
+    "sat": "9 AM - 9 PM",
+    "sun": "9 AM - 9 PM"
+  },
+  "website": "http://www.thejeremy.com/",
+  "lat": 40.7591733,
+  "lng": -111.5734698
 }

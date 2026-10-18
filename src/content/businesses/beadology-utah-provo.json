@@ -7,13 +7,40 @@
   "state": "UT",
   "zip": "84604",
   "placeId": "ChIJi_jTKE6RTYcRLI-MoSKDz70",
-  "googleRating": 4.5,
-  "googleReviewCount": 91,
+  "googleRating": 4.6,
+  "googleReviewCount": 130,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940fa20f76f619280c50555",
   "seededAt": "2025-12-16T06:20:16Z",
   "updatedAt": "2025-12-16T07:20:53Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13677294778109955884",
+  "googleMapsUrl": "https://maps.google.com/?cid=13677294778109955884",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 5,
+    "3": 5,
+    "4": 3,
+    "5": 111
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelDqI8RZQdJWTbxoECr3gXCySXiWRn5U5Rue4LPmL1NgZg9llWbgWeqyMIbSS87YPYwhaZYLroD9ZSluvDLj5-L4qTEnu8asHaPq9Yk_hgxmfHzS5tu644TkAWPztUGu_2XFKGzR_BfhPg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 8 PM",
+    "tue": "11 AM - 8 PM",
+    "wed": "11 AM - 8 PM",
+    "thu": "11 AM - 8 PM",
+    "fri": "11 AM - 8 PM",
+    "sat": "11 AM - 8 PM",
+    "sun": "Closed"
+  },
+  "website": "https://beadology-utah.company.site/",
+  "lat": 40.2992164,
+  "lng": -111.65851769999999
 }

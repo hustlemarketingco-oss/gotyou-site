@@ -9,12 +9,41 @@
   "phone": "+14359864000",
   "placeId": "ChIJQ8xpEtBEyoAR1XdqL3nxo0M",
   "googleRating": 4.7,
-  "googleReviewCount": 1384,
+  "googleReviewCount": 1443,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d02259d7653afc8c3007",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4874004724533852117",
+  "googleMapsUrl": "https://maps.google.com/?cid=4874004724533852117",
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 18,
+    "3": 52,
+    "4": 224,
+    "5": 1129
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzykfI3WzmbFQJ31gOaL7zRfLr3zGpxUP0Fijf-6I65dZnTeG8yjYVFU4nU0vhoxjJ0-ImBSBFvxJbqOWun-awnIqxACfIspWINw7Hm4nHfgXd_Vq9P795XrGgrXMPJPExFrLrSQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Closed",
+    "tue": "10 AM - 5 PM",
+    "wed": "10 AM - 5 PM",
+    "thu": "10 AM - 5 PM",
+    "fri": "10 AM - 5 PM",
+    "sat": "10 AM - 5 PM",
+    "sun": "Closed"
+  },
+  "website": "https://www.sgchildrensmuseum.org/",
+  "lat": 37.106811199999996,
+  "lng": -113.583636
 }

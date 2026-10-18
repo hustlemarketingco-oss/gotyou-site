@@ -13,5 +13,37 @@
   "groundgameId": "6940fbc92d67a43023f12424",
   "seededAt": "2025-12-16T06:27:21Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ0VTYWwij6IgR7shea8P7KdQ",
+  "googleCid": "15288027226824427758",
+  "googleMapsUrl": "https://maps.google.com/?cid=15288027226824427758",
+  "googleRating": 4.7,
+  "googleReviewCount": 378,
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 6,
+    "3": 8,
+    "4": 17,
+    "5": 329
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLettRquEqlQQZ0BMDcnQyfFPIQPDKfWp75n8G0Z_5fMFpCoDixLl1F-aH3xW1qIRdN19A9kqC7-xk7JKwM_iG2L-AGCQxW7SP-MADrDryzEWvqvIwmMGIpsA4B5HtSz6mu6hJAC10r1PHhP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 11 PM",
+    "tue": "7 AM - 11 PM",
+    "wed": "7 AM - 11 PM",
+    "thu": "7 AM - 11 PM",
+    "fri": "7 AM - 11 PM",
+    "sat": "7 AM - 11 PM",
+    "sun": "7 AM - 11 PM"
+  },
+  "website": "http://kavagator.com/about/",
+  "lat": 29.651710299999998,
+  "lng": -82.3232511
 }

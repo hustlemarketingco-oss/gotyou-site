@@ -9,12 +9,42 @@
   "phone": "+14356569122",
   "placeId": "ChIJa8DdMDtQyoAREHGIZ6Xup3I",
   "googleRating": 4.7,
-  "googleReviewCount": 49,
+  "googleReviewCount": 53,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "69410082d32cb2f4d2d5b389",
   "seededAt": "2025-12-16T06:47:30Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8261834435608473872",
+  "googleMapsUrl": "https://maps.google.com/?cid=8261834435608473872",
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 2,
+    "4": 5,
+    "5": 44
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_2ZNgVVRY1cU4HYBGQvQuJGEZ6G8GrxU2gDK42EUmi5bjRSvwJyTc90La_Lys3lJms87TJYs2qahwz0JBGMQf5viti4sj0wxR7LM5TR1ydxL4UZKGYfFjIhD5qW3gU15h59Ld64LMkX3D=w1200-h800-k-no",
+  "amenities": [
+    "Delivery",
+    "Grocery pickup",
+    "Meal service",
+    "Accepting food donations",
+    "Accepting monetary donations",
+    "Accepting new volunteers"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 5 PM",
+    "tue": "8 AM - 5 PM",
+    "wed": "8 AM - 5 PM",
+    "thu": "8 AM - 5 PM",
+    "fri": "8 AM - 5 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "website": "https://www.utahfoodbank.org/",
+  "lat": 37.032662699999996,
+  "lng": -113.5624612
 }

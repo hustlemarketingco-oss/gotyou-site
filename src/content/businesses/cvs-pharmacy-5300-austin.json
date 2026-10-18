@@ -13,5 +13,34 @@
   "groundgameId": "6940fdf18522261c1426e56a",
   "seededAt": "2025-12-16T06:36:33Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJrQBYMghLW4YR34GiPAuwQNs",
+  "googleCid": "15798821055124111839",
+  "googleMapsUrl": "https://maps.google.com/?cid=15798821055124111839",
+  "googleRating": 4.2,
+  "googleReviewCount": 39,
+  "ratingBreakdown": {
+    "1": 7,
+    "4": 4,
+    "5": 28
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGm_I3NxO1zWELjEITbBXLQKSx9YksARs7u9c41qCkGZ3z_UW_4cm2ke5Zz0nFuL0jN1dDgP-ul6tCxpln1RTnImRyMmH4Hvcv2RS-Cdoln9L_x7idfBZHnI9bI96DcE5FCMkS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16446&postalCode=78749&rwg_token=AE37R_gJAybkKVYdiJnTLKCFtc3pOWROsbHV7YlqWw0tLWsbFRPY2a0mdeesLvyl3x4NDzlPgk3ecPmpVmr1ZRoovPmkNrhDIpO5jBxo1My0t0DsdXImE1U%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/5300-s-mo-pac-expy-austin-tx-78749/storeid=16446?WT.mc_id=LS_GOOGLE_RX_16446",
+  "lat": 30.234197499999997,
+  "lng": -97.8284779
 }

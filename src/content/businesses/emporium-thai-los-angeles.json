@@ -13,5 +13,37 @@
   "groundgameId": "694102b5d523c7610b6ad706",
   "seededAt": "2025-12-16T06:56:53Z",
   "updatedAt": "2025-12-16T06:56:53Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJwSycTn67woARNl5GJxIWJ2g",
+  "googleCid": "7504991571260366390",
+  "googleMapsUrl": "https://maps.google.com/?cid=7504991571260366390",
+  "googleRating": 4.1,
+  "googleReviewCount": 1132,
+  "ratingBreakdown": {
+    "1": 118,
+    "2": 57,
+    "3": 97,
+    "4": 143,
+    "5": 717
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIHM52jL8Zjirr5v6rMuTVwnVrJXLxszELxxgOKl1LiIk-hqJjpGLFsoG8fHaMHP7mCJrF2M-p2szFGPI_Sk-14k4QW4Bu24YMDgPT12oI-eMIgz79pFKoRDhJCjUaTlWjBbx2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://www.ethaicuisine.com/#reservations",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 11 PM",
+    "tue": "11 AM - 11 PM",
+    "wed": "11 AM - 11 PM",
+    "thu": "11 AM - 11 PM",
+    "fri": "11 AM - 11 PM",
+    "sat": "11 AM - 11 PM",
+    "sun": "11 AM - 11 PM"
+  },
+  "website": "https://www.ethaicuisine.com/",
+  "lat": 34.0572678,
+  "lng": -118.44317
 }

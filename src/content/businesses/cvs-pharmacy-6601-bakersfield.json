@@ -13,5 +13,36 @@
   "groundgameId": "694103bbae3ff08e071e8906",
   "seededAt": "2025-12-16T07:01:15Z",
   "updatedAt": "2025-12-16T07:01:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJgxyoDBpA6oARvFfP30FtVj0",
+  "googleCid": "4419840214005929916",
+  "googleMapsUrl": "https://maps.google.com/?cid=4419840214005929916",
+  "googleRating": 4.5,
+  "googleReviewCount": 62,
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 4,
+    "4": 7,
+    "5": 46
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcILhwK2gmKgeq0ocns5cAmd_uhsmDw4e2mxT37eR0JYd56DybZc5CTLKOttUIxxwJm6ykJ3_B7O-rO_eZjC6DyrHq24EyoqVsJ4-S3uJ1Mfm6F0nONLPBmkPmm3MFuXh-Nb2ZAnALLEIHJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10921&postalCode=93313&rwg_token=AE37R_jjO1yRZuiwIXXVIBchTUQG-M7jjrvMIaidhip7OqS-5W97MCvOM7AJZxa3jVzMbKMPrj7J2RJ3sq1fiYoeB9Bd2GCfonOZ_LPJ4LPdm1ilF0YVIwo%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 12:30 PM, 1 - 9 PM",
+    "tue": "8 AM - 12:30 PM, 1 - 9 PM",
+    "wed": "8 AM - 12:30 PM, 1 - 9 PM",
+    "thu": "8 AM - 12:30 PM, 1 - 9 PM",
+    "fri": "8 AM - 12:30 PM, 1 - 9 PM",
+    "sat": "9 AM - 12:30 PM, 1 - 6 PM",
+    "sun": "10 AM - 12:30 PM, 1 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/6601-stine-road-bakersfield-ca-93313/storeid=10921?WT.mc_id=LS_GOOGLE_RX_10921",
+  "lat": 35.295162,
+  "lng": -119.057357
 }

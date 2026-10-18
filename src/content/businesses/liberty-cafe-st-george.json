@@ -9,13 +9,41 @@
   "phone": "+14359220505",
   "website": "http://libertycafestg.com/",
   "placeId": "ChIJQXL4aPdFyoARPTKHNrekHCU",
-  "googleRating": 4.7,
-  "googleReviewCount": 245,
+  "googleRating": 4.8,
+  "googleReviewCount": 450,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d02143cfa783a58df493",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2674193385552032317",
+  "googleMapsUrl": "https://maps.google.com/?cid=2674193385552032317",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 6,
+    "3": 9,
+    "4": 27,
+    "5": 400
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4KeotirQrdc5TxU8DgcJFbjZ0V6CwIQ3dEUG8631ozB8HIM-8BKgeuDsyqYBFZeoi1PGn_tvHu0oZUJReIveqGJfFXjMC7QCyQ86tYxXu1FhdyLePUBSzut0qwXUAxNv-3w-68thzqIVb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 3 PM",
+    "tue": "7 AM - 3 PM",
+    "wed": "7 AM - 3 PM",
+    "thu": "7 AM - 3 PM",
+    "fri": "7 AM - 3 PM",
+    "sat": "7 AM - 3 PM",
+    "sun": "7 AM - 3 PM"
+  },
+  "lat": 37.0805866,
+  "lng": -113.60498799999999
 }

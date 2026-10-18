@@ -13,5 +13,35 @@
   "groundgameId": "6940fcf0e105b248af8a4707",
   "seededAt": "2025-12-16T06:32:16Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJC6Tw9JJ6SFMRIeBaRF_WV6k",
+  "googleCid": "12202457420040691745",
+  "googleMapsUrl": "https://maps.google.com/?cid=12202457420040691745",
+  "googleRating": 4,
+  "googleReviewCount": 22,
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 3,
+    "4": 3,
+    "5": 13
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdE1-a9ASnMVdxCm7j9qLwhsVF8zGIDyLTN_YV_dUqacfGBmsF3V9YNAleeX-snjUKb_Q8kmlhy8BqP7zrzNiEpy0RqrxsB3MuHi-Vxg7Ys7rIjbkTcd0WRphKmzJOd-vjdd9rA-DBbYuLE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=5302&postalCode=59105&rwg_token=AE37R_iwvfDp8XBZmfTrRV2FDW1KbyDwPk2xb8r7yibKQ7s5pBi80dWz9P2MXp4zBBiEQDkQhXSH_kJcQkXuJVe9U-gDElRWQn0_g4C0zHvTc2TwxMnbKfw%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/billings-mt-pharmacies/425-east-main-st-billings-mt-59105/storeid=5302?WT.mc_id=LS_GOOGLE_RX_5302",
+  "lat": 45.8071428,
+  "lng": -108.4735714
 }

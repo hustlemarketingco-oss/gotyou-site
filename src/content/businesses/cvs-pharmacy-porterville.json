@@ -13,5 +13,34 @@
   "groundgameId": "694103822b7c7cc34b49fad3",
   "seededAt": "2025-12-16T07:00:18Z",
   "updatedAt": "2025-12-16T07:00:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ-zel3wa46oARMFdI0aeigvs",
+  "googleCid": "18123226692146714416",
+  "googleMapsUrl": "https://maps.google.com/?cid=18123226692146714416",
+  "googleRating": 3.8,
+  "googleReviewCount": 15,
+  "ratingBreakdown": {
+    "1": 4,
+    "4": 2,
+    "5": 9
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTByfxz6PVPaTKACClizmW7hEJDgWIh_Paqis0T3mYEENumvagrR-XuuXxoCjfMaPndE1WYAqrK0DYFC_NTvz7_dI2s_PBGTUpIc7wUkFIHoYaavqSkiat_5JwoBJoTkkq2DzcFN2e3Z0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=9845&postalCode=93257&rwg_token=AE37R_i7C4xApSR3r-H1W8dbBRpwdUsDQw7az_20JUCkb41y6p5sEn4qrakgjfACprvbutRgTOvs67Mx9gIpjquVWYqwX1ctLUYJQMSChQJevWB5_XbGP9o%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "10 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "10 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "10 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "10 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/porterville-ca-pharmacies/1155-w-henderson-ave-porterville-ca-93257/storeid=9845?WT.mc_id=LS_GOOGLE_RX_9845",
+  "lat": 36.0798042,
+  "lng": -119.0428968
 }

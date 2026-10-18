@@ -10,7 +10,7 @@
   "website": "https://swigdrinks.com/stores/bluff/",
   "placeId": "ChIJMyZwCwdFyoARzyZpmaR-Gt4",
   "googleRating": 4.4,
-  "googleReviewCount": 297,
+  "googleReviewCount": 371,
   "priceRange": "$",
   "sameAs": [
     "https://www.facebook.com/swigdrinks",
@@ -24,5 +24,30 @@
   "groundgameId": "6940d0222e6110d73827792f",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16004243471228020431",
+  "googleMapsUrl": "https://maps.google.com/?cid=16004243471228020431",
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 11,
+    "3": 13,
+    "4": 20,
+    "5": 295
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiPNCpiJJJxiSEjFA3PoWkZ-ibpKNEya7ze-c5a4Sm5_rHLjMw3JF20Dw3lgpcdf90njjF1EvYXmvkIhkql3jhDjL5kp-qAyZwtVupgZiuMYIcEWNLMA84reYJhPuKIZD236T7_A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7:30 AM - 9:30 PM",
+    "tue": "7:30 AM - 9:30 PM",
+    "wed": "7:30 AM - 9:30 PM",
+    "thu": "7:30 AM - 9:30 PM",
+    "fri": "7:30 AM - 10:30 PM",
+    "sat": "8 AM - 10:30 PM",
+    "sun": "11 AM - 7 PM"
+  },
+  "lat": 37.086666099999995,
+  "lng": -113.5863024
 }

@@ -13,5 +13,35 @@
   "groundgameId": "6940fee1bc0d8310ee9f6d61",
   "seededAt": "2025-12-16T06:40:33Z",
   "updatedAt": "2025-12-16T06:40:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJX5oyrx-bTYcR4HICEIrEWuI",
+  "googleCid": "16310565097728799456",
+  "googleMapsUrl": "https://maps.google.com/?cid=16310565097728799456",
+  "googleRating": 4.7,
+  "googleReviewCount": 214,
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "3": 4,
+    "4": 24,
+    "5": 177
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgpjCJy2sY2_mnavKyxYbyVlQ9Fsa_4RqmmYEbfaPgPk1_V9niqK7-Cox88kDzIfQUrBtWk4f6JLbi8hNMVlOZfMbr10MWocoLPNjUNBrQWT3dFOv9kK1XocRa_RnsX4nYi8m3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 12 AM",
+    "tue": "7 AM - 12 AM",
+    "wed": "7 AM - 12 AM",
+    "thu": "8 AM - 5 PM",
+    "fri": "8 AM - 5 PM",
+    "sat": "10 AM - 6 PM",
+    "sun": "1 - 8 PM"
+  },
+  "website": "http://www.uvu.edu/library",
+  "lat": 40.281015,
+  "lng": -111.716355
 }

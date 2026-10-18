@@ -13,5 +13,35 @@
   "groundgameId": "6940ff3c2fda29a3bf86ee71",
   "seededAt": "2025-12-16T06:42:04Z",
   "updatedAt": "2025-12-16T06:42:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ9ztgH4ibTYcRZBBUlL1FYbw",
+  "googleCid": "13574207432411058276",
+  "googleMapsUrl": "https://maps.google.com/?cid=13574207432411058276",
+  "googleRating": 4.7,
+  "googleReviewCount": 162,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 5,
+    "3": 1,
+    "4": 7,
+    "5": 142
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdg6EsmI8ebyxRfrhCGOih2shZfPjPeU4hbWZgfsJc9yhrsHU__o4g2TVV4LdHPyjSQbNxrJmqtM8VAbxDfnqPfxSQqr0b9nTGNS1vCAuAx6p53KIVBJPL2mPqVNBDquYU_oBWXNsNwVrY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 9 PM",
+    "tue": "11 AM - 9 PM",
+    "wed": "11 AM - 9 PM",
+    "thu": "11 AM - 9 PM",
+    "fri": "11 AM - 9 PM",
+    "sat": "11 AM - 9 PM",
+    "sun": "Closed"
+  },
+  "lat": 40.275584599999995,
+  "lng": -111.6788109
 }

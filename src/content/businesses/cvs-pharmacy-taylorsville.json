@@ -13,5 +13,36 @@
   "groundgameId": "6940ffd2ec122db612223c41",
   "seededAt": "2025-12-16T06:44:34Z",
   "updatedAt": "2025-12-16T06:44:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ23PYdUiJUocRTCMuk7csg5Y",
+  "googleCid": "10845561494598198092",
+  "googleMapsUrl": "https://maps.google.com/?cid=10845561494598198092",
+  "googleRating": 4.3,
+  "googleReviewCount": 62,
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 5,
+    "3": 4,
+    "4": 3,
+    "5": 45
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD_aP-6SW14-O6LbfjaqGWlcjHRC3BAb5aDDjboGp30jig3jhCOYdzOhpOJzQgUiBQWcTWGrX9HNaM--Jmh6Dw3zO_mRDrEiG3NIeg1EFoPz9Et6371M8SF6XUaaPArB1dUisbTvb5WM82=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16237&postalCode=84123&rwg_token=AE37R_jSrt2jljM6b7s0_RNmOivDt92gD83ojS-vYdSkgceye3-0qWcifcIQDJfR5iK6cG1RlPoUrouQl4_12PYml8QvSdLf8w%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/taylorsville-ut-pharmacies/5800-south-redwood-rd-taylorsville-ut-84123/storeid=16237?WT.mc_id=LS_GOOGLE_RX_16237",
+  "lat": 40.6461672,
+  "lng": -111.9403725
 }

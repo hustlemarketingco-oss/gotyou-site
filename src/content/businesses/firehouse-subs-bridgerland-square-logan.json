@@ -13,5 +13,37 @@
   "groundgameId": "6940fa1659d7653afc8f4e7f",
   "seededAt": "2025-12-16T06:20:06Z",
   "updatedAt": "2025-12-16T06:44:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJM3rVCuh9VIcRaKSAfL8UXTU",
+  "googleCid": "3845252469504386152",
+  "googleMapsUrl": "https://maps.google.com/?cid=3845252469504386152",
+  "googleRating": 4.3,
+  "googleReviewCount": 598,
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 24,
+    "3": 35,
+    "4": 116,
+    "5": 381
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerTxS0D61_QJcPLhjFB4k6Yl6nblz_F4rEVvdODW3kJydhtx3RcX23izdedx5eclqLRx4KjrOVLoOJxvIcP5hhoYCQiTjuVlZNqMzUGDPOEFb3kijPA4thZpOmmhv6EGZJYFrkVA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 9 PM",
+    "tue": "10 AM - 9 PM",
+    "wed": "10 AM - 9 PM",
+    "thu": "10 AM - 10 PM",
+    "fri": "10 AM - 10 PM",
+    "sat": "10 AM - 10 PM",
+    "sun": "10 AM - 9 PM"
+  },
+  "website": "https://www.firehousesubs.com/",
+  "lat": 41.75158,
+  "lng": -111.834755
 }

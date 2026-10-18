@@ -13,5 +13,37 @@
   "groundgameId": "6940fd77fabb6353f31bfea2",
   "seededAt": "2025-12-16T06:34:31Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJTYsp1haET4YR1n0t-4JdQJk",
+  "googleCid": "11042929103453650390",
+  "googleMapsUrl": "https://maps.google.com/?cid=11042929103453650390",
+  "googleRating": 4,
+  "googleReviewCount": 2572,
+  "ratingBreakdown": {
+    "1": 253,
+    "2": 121,
+    "3": 266,
+    "4": 575,
+    "5": 1357
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLes4Mm5pZpa3KBVg8OdyGZs7CELxT3ozaNSfmh-5kWtSesNZjdu5kITSKH4XeyrRtVOfyjGJw3ujm7LmhNuvdpYVN5Cb7pvi1E3trJUGYkg4jUzk_zfvBHFp8KEZy0VAAz4JyMf1lXYZw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:45 AM - 11 PM",
+    "tue": "10:45 AM - 11 PM",
+    "wed": "10:45 AM - 11 PM",
+    "thu": "10:45 AM - 11 PM",
+    "fri": "10:45 AM - 12 AM",
+    "sat": "10:45 AM - 12 AM",
+    "sun": "10:45 AM - 11 PM"
+  },
+  "website": "https://www.chilis.com/locations?utm_source=google&utm_medium=local&utm_campaign=Chilis",
+  "lat": 31.525208,
+  "lng": -97.136977
 }

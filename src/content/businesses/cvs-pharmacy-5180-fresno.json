@@ -13,5 +13,36 @@
   "groundgameId": "69410412e59894a1246ea5f4",
   "seededAt": "2025-12-16T07:02:42Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJYRsDHCBflIARoM0OYNYwXI4",
+  "googleCid": "10258127748535864736",
+  "googleMapsUrl": "https://maps.google.com/?cid=10258127748535864736",
+  "googleRating": 4.1,
+  "googleReviewCount": 47,
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 31
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcNjJfPFiW203sJo4efIVxXCDjNxczsVYKE1R-E1i_9tcDb59pQJoJaPIA9eVFnLmCae3XClmB4c9SlGZrJgZo_f5GjCnDmSYaZduS_OLjYtl17dfuzTcpQGAIUaUzmte-9FgYUkEgZ3nw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=5422&postalCode=93727&rwg_token=AE37R_hV8sja0Zqr5hwMjV23assO4e-k72C0n8v43n9lPgQWM43RIhSK7AQ6xWBdX8lMOuj0QH9N1XPKWUbeRh-buTDJSvXwvVP_g9QB7CAZN5BXC3535QI%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/fresno-ca-pharmacies/5180-e-kings-canyon-road-fresno-ca-93727/storeid=5422?WT.mc_id=LS_GOOGLE_RX_5422",
+  "lat": 36.7349323,
+  "lng": -119.7189406
 }

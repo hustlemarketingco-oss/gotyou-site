@@ -13,5 +13,37 @@
   "groundgameId": "6940fcc05de7885df968c874",
   "seededAt": "2025-12-16T06:31:28Z",
   "updatedAt": "2025-12-16T06:31:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJY7XaFO1FQogRJlkjbCDKmIE",
+  "googleCid": "9338436067954743590",
+  "googleMapsUrl": "https://maps.google.com/?cid=9338436067954743590",
+  "googleRating": 4.8,
+  "googleReviewCount": 513,
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 3,
+    "3": 7,
+    "4": 13,
+    "5": 470
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXWHEOJ-Ai8e7HRQyHuYZzngzqA_AJlH0Jp2DUp0a-Jn0qmlF4devogQnhsOHDSj9xpjGtx9zi0addkGkc02etKN9OmQdvshHFZQZ701iet6SjLrvIhF5DsUQXOOqc-3h_TXM9_Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:30 AM - 2 AM",
+    "tue": "10:30 AM - 2 AM",
+    "wed": "10:30 AM - 2 AM",
+    "thu": "10:30 AM - 2 AM",
+    "fri": "10:30 AM - 4 AM",
+    "sat": "10:30 AM - 4 AM",
+    "sun": "10:30 AM - 2 AM"
+  },
+  "website": "https://nazshalal.com/",
+  "lat": 38.035266199999995,
+  "lng": -84.5084937
 }

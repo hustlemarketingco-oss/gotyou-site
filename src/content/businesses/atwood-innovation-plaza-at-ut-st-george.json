@@ -8,13 +8,42 @@
   "zip": "84770-3733",
   "phone": "+14356527000",
   "placeId": "ChIJ0dHrcotbyoARjwKk_w8elFY",
-  "googleRating": 4.6,
-  "googleReviewCount": 42,
+  "googleRating": 4.7,
+  "googleReviewCount": 45,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d022b002260e36bc2e41",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6238644437877260943",
+  "googleMapsUrl": "https://maps.google.com/?cid=6238644437877260943",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 6,
+    "5": 36
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsaU5yElIHjG-5WAwwYTik3B6cl84dbBxL3spjm-dXTH8PVOuHRmUxbvIBgdyuehSjt0zJFciXU4YQAdkQhALBhqAKjl5ik3XYpGagi4OMVEcbFeVYdadplIRHltMJ1J1VcXHL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 5 PM",
+    "tue": "9 AM - 5 PM",
+    "wed": "9 AM - 5 PM",
+    "thu": "9 AM - 5 PM",
+    "fri": "12 - 5 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "website": "https://innovation.utahtech.edu/",
+  "lat": 37.1005456,
+  "lng": -113.5697522
 }

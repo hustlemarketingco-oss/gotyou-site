@@ -13,5 +13,35 @@
   "groundgameId": "6941012c3484f3ba926fded9",
   "seededAt": "2025-12-16T06:50:20Z",
   "updatedAt": "2025-12-16T06:50:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ4dLQuR_DyIARoz48dHb4C9Y",
+  "googleCid": "15423694536500330147",
+  "googleMapsUrl": "https://maps.google.com/?cid=15423694536500330147",
+  "googleRating": 3.9,
+  "googleReviewCount": 54,
+  "ratingBreakdown": {
+    "1": 12,
+    "3": 3,
+    "4": 3,
+    "5": 36
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRQ9S97Zr16aYZo-LtSGcS-NST30GUU3SpPeyHEMMhh6A3clB08x7FXbXY2iOUlfNnwkrR4jRQk71bD0OtG33jbhzE_HhKYZ1acuSlm8mftPvoNxH9oFVAKiDqJDGTa6ldocwmQo42OXkG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8808&postalCode=89030&rwg_token=AE37R_gfvo0966NjkOuQ7ojg5SogtzAcY9eb4Qd0q9NGhzMziYDi7Tbikveg6kVNje9bbUdbdsk5R1o6Y9ZH0N14HEUtZCaBfGhZsQkSzOor6tsHnXfQ9d4%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/north-las-vegas-nv-pharmacies/2011-e-lake-mead-blvd-lake-mead-and-mcdaniel-north-las-vegas-nv-89030/storeid=8808?WT.mc_id=LS_GOOGLE_RX_8808",
+  "lat": 36.194491899999996,
+  "lng": -115.1198964
 }

@@ -13,5 +13,36 @@
   "groundgameId": "6941042622e6059c5a30ea54",
   "seededAt": "2025-12-16T07:03:02Z",
   "updatedAt": "2025-12-16T07:03:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJn9-lo2gVjoAR-BW9dP505rQ",
+  "googleCid": "13035234807699543544",
+  "googleMapsUrl": "https://maps.google.com/?cid=13035234807699543544",
+  "googleRating": 3.2,
+  "googleReviewCount": 721,
+  "ratingBreakdown": {
+    "1": 165,
+    "2": 68,
+    "3": 127,
+    "4": 150,
+    "5": 211
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzwXg2rcvMOIgGC2nnzrz6k0W714dZii8Fx-H0SY8ksL0G1cBJa_NXV-q5_PPq_j-GFeRKMqMgCzfxLrQILPcNFZCfrRW8GtM17Jysu6FzVYcTy3uNhv6KZqP0z8OHcGQxqu2HyRuei9JZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 1 AM",
+    "tue": "6 AM - 12 AM",
+    "wed": "6 AM - 12 AM",
+    "thu": "Open 24 hours",
+    "fri": "6 AM - 12 AM",
+    "sat": "6 AM - 12 AM",
+    "sun": "6 AM - 1 AM"
+  },
+  "website": "https://burgerking.com/store-locator/store/2738",
+  "lat": 36.9785955,
+  "lng": -121.96537649999999
 }

@@ -13,5 +13,37 @@
   "groundgameId": "6940f9c637b8aaf78c096664",
   "seededAt": "2025-12-16T06:18:46Z",
   "updatedAt": "2025-12-16T06:25:16Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJoxpqdF1rsYkRe4KEEQ82s5Q",
+  "googleCid": "10714967376790848123",
+  "googleMapsUrl": "https://maps.google.com/?cid=10714967376790848123",
+  "googleRating": 4.7,
+  "googleReviewCount": 259,
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 6,
+    "3": 7,
+    "4": 23,
+    "5": 218
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc32T9D7xjbcexQVy-vSTEKxYhBzAcHDrDM0Wq_z9PziFUm9ZYXkQtLEwImalq_P-K-kN6Ma5uAzL8MC3Wx8SEapLNLUJS4IGU1IjnFbkAcSlzZtvTZbdKImScROgeZmf30j0MMRuKnP10W=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 9:30 PM",
+    "tue": "11 AM - 9:30 PM",
+    "wed": "11 AM - 9:30 PM",
+    "thu": "11 AM - 9:30 PM",
+    "fri": "11 AM - 10 PM",
+    "sat": "11 AM - 10 PM",
+    "sun": "12 - 9 PM"
+  },
+  "website": "http://www.ginzaus.com/",
+  "lat": 37.6470772,
+  "lng": -77.616895
 }

@@ -9,7 +9,7 @@
   "phone": "+14356887156",
   "placeId": "ChIJ71697HxEyoARMUuxBv-FH3M",
   "googleRating": 4.3,
-  "googleReviewCount": 1467,
+  "googleReviewCount": 1528,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,33 @@
   "groundgameId": "6940d0215c2aeaf572d15d3f",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8295496369015180081",
+  "googleMapsUrl": "https://maps.google.com/?cid=8295496369015180081",
+  "ratingBreakdown": {
+    "1": 74,
+    "2": 44,
+    "3": 139,
+    "4": 433,
+    "5": 838
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyXhpNledFawgELthkn4tpaiumgzcInCgcs1wzyiC16mGv-_fEqiKfFb6RnGjxK_KI8kC6-BonVNqbYIY80ZxneBK__iUqnoABsY9Af6N6JAfL_TrDYICcwrYC4RNIYo0OEw4PXg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 10 PM",
+    "tue": "6 AM - 10 PM",
+    "wed": "6 AM - 10 PM",
+    "thu": "6 AM - 10 PM",
+    "fri": "6 AM - 10 PM",
+    "sat": "6 AM - 10 PM",
+    "sun": "6 AM - 10 PM"
+  },
+  "website": "https://local.albertsons.com/ut/saint-george/745-n-dixie-dr.html",
+  "lat": 37.1208721,
+  "lng": -113.6245805
 }

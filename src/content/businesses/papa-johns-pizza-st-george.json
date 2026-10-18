@@ -9,7 +9,7 @@
   "phone": "+14356887500",
   "placeId": "ChIJOa4FbyRbyoAROiqedldv-M0",
   "googleRating": 3.9,
-  "googleReviewCount": 461,
+  "googleReviewCount": 496,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,32 @@
   "groundgameId": "6940d02259d7653afc8c3008",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14841734993442384442",
+  "googleMapsUrl": "https://maps.google.com/?cid=14841734993442384442",
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 18,
+    "3": 28,
+    "4": 65,
+    "5": 293
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLFHklXD90T-DlCYIPVx8eruXaJTFeI3KpivHJx2d5SzzYmLes7dD2tb9DTQJjXaGFZl0mw2PApO_e3qcsjoHACzMp8BVYWImSCbX56OLPyDFXlNKJvv1OqWjUQZ-gqvlIeIM_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 11 PM",
+    "tue": "10 AM - 11 PM",
+    "wed": "10 AM - 11 PM",
+    "thu": "10 AM - 11 PM",
+    "fri": "10 AM - 12 AM",
+    "sat": "10 AM - 12 AM",
+    "sun": "10 AM - 11 PM"
+  },
+  "website": "https://locations.papajohns.com/united-states/ut/84770/st-george/1025-e-tabernacle?utm_source=gmb&utm_medium=organic&y_source=1_MTA2OTE3OTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "lat": 37.1085152,
+  "lng": -113.56169089999999
 }

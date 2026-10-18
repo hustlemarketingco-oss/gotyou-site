@@ -9,7 +9,7 @@
   "phone": "+14352724274",
   "placeId": "ChIJISq59L9FyoARrNdD51rJvl0",
   "googleRating": 4.9,
-  "googleReviewCount": 658,
+  "googleReviewCount": 744,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d0210791709d111e99c4",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6755057883366545324",
+  "googleMapsUrl": "https://maps.google.com/?cid=6755057883366545324",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 6,
+    "3": 8,
+    "4": 11,
+    "5": 711
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeO-qkTVI140l1bOpTI07W0XgTDSWtX1In8d8HQAxPHXJ50C0r0beo0skU2BOs4XWLwqAokmRwsXHRT1je7tQe86MpcLg3DJwZyeEmFH6E3jvYliJyW8dUwwWuhUOME2j7wHjGezq2yEuXS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 10 PM",
+    "tue": "10 AM - 10 PM",
+    "wed": "10 AM - 11 PM",
+    "thu": "10 AM - 11 PM",
+    "fri": "10 AM - 11 PM",
+    "sat": "10 AM - 11 PM",
+    "sun": "12 - 11 PM"
+  },
+  "website": "http://www.kbarut.com/",
+  "lat": 37.1239743,
+  "lng": -113.6041642
 }

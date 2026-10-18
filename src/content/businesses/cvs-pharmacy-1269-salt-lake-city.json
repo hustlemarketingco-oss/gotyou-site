@@ -13,5 +13,36 @@
   "groundgameId": "6940ff8b8e52eb2b35427ed1",
   "seededAt": "2025-12-16T06:43:23Z",
   "updatedAt": "2025-12-16T06:43:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ8UnzYx5gUocR__TGzBKJHy0",
+  "googleCid": "3251468169822795007",
+  "googleMapsUrl": "https://maps.google.com/?cid=3251468169822795007",
+  "googleRating": 3.5,
+  "googleReviewCount": 154,
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 7,
+    "3": 4,
+    "4": 15,
+    "5": 80
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEG6MniBt7E6sCMsjZ7qBNKVb75HqX0BXm-geRpVMuSG5BwZnCVl_TQri-us2DJa4ctm5_5Xjw_NLOAnaQMGENyAnPpGYNG0VXlNf12WDSfxsJ1aF91Xzi5URIL0nyip28p3h2GcFvIRN2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10423&postalCode=84106&rwg_token=AE37R_gOwTeJ7NjPUs6BQGh9HbgRSSILA0_7CiQbPkAk_8RkjrE6lsTJA09p6iQeONLBUWWV_kl80hNpQecVulnuZb--I4Tq8m8fR4kMP_gVFahzQkfZ4tk%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 10 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 10 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 10 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 10 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 10 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 8 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 8 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/salt-lake-city-ut-pharmacies/1269-e-2100-s-salt-lake-city-ut-84106/storeid=10423?WT.mc_id=LS_GOOGLE_RX_10423",
+  "lat": 40.725651899999995,
+  "lng": -111.85455689999999
 }

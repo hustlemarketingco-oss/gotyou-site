@@ -13,5 +13,36 @@
   "groundgameId": "6940fa3c76159c548cb6b8d1",
   "seededAt": "2025-12-16T06:20:44Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJKyu9BaXcyIAR20snftoAn5c",
+  "googleCid": "10925452159443487707",
+  "googleMapsUrl": "https://maps.google.com/?cid=10925452159443487707",
+  "googleRating": 3.8,
+  "googleReviewCount": 206,
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 9,
+    "3": 19,
+    "4": 26,
+    "5": 112
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXnwAeqkctmZlDqOjdryAlFdAco_xgYnQxvtCgYAX1j4GY4qSTUH8b8ark06Ugn6LXGCvdqd9z4uD5ZnUJHyhwHqiO62LflxzA9Fzhxw2i_N3nrlYTwreIpDfP-YgzE5xdpK2_j8pEs92i=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8824&postalCode=89110&rwg_token=AE37R_jdflDTOk3qb3RcH_aHTsCmdoppxOEDDnyi9jojGlC3E1Tafkziifn66Zdh39hazp9axnbfOaK7yzhYsKBRQdi3TN_1Xw%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "tue": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "wed": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "thu": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "fri": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "sat": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "sun": "12 AM - 1:30 PM, 2 PM - 12 AM"
+  },
+  "website": "https://www.cvs.com/store-locator/las-vegas-nv-pharmacies/4411-e-bonanza-rd-las-vegas-nv-89110/storeid=8824?WT.mc_id=LS_GOOGLE_RX_8824",
+  "lat": 36.1722543,
+  "lng": -115.0798676
 }

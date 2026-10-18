@@ -9,7 +9,7 @@
   "phone": "+14356736141",
   "placeId": "ChIJ_TNJ0cNEyoARfvngFSscrGE",
   "googleRating": 4.6,
-  "googleReviewCount": 941,
+  "googleReviewCount": 979,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,32 @@
   "groundgameId": "6940d022a55b01f02da7146d",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7038031289049479550",
+  "googleMapsUrl": "https://maps.google.com/?cid=7038031289049479550",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 10,
+    "3": 37,
+    "4": 161,
+    "5": 750
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMTT3sH1Xl4Tb6dUiVSunnx6jg0oF65zkqD6ieAHps8Fo0UBqp9tmF5SxmCPeDWry4-Ze5X-gQbOKKOJXhvcYx_7bsgTmA4GrFAQqEiXlBGYEaZmctEn_vmmlhpaoe8C4FltVS9M0CK1U=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 8 PM",
+    "tue": "7 AM - 8 PM",
+    "wed": "7 AM - 8 PM",
+    "thu": "7 AM - 8 PM",
+    "fri": "7 AM - 8 PM",
+    "sat": "7 AM - 8 PM",
+    "sun": "10 AM - 5 PM"
+  },
+  "website": "https://www.acehardware.com/store-details/02596?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=02596",
+  "lat": 37.1109544,
+  "lng": -113.5932339
 }

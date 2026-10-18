@@ -10,7 +10,7 @@
   "website": "https://www.chick-fil-a.com/locations/ut/utah-tech-university",
   "placeId": "ChIJlZfgm59byoARfxMIMzaYe3U",
   "googleRating": 3.6,
-  "googleReviewCount": 56,
+  "googleReviewCount": 57,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -18,5 +18,23 @@
   "groundgameId": "6940d02251345acf02132f5b",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8465527283124802431",
+  "googleMapsUrl": "https://maps.google.com/?cid=8465527283124802431",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 3,
+    "3": 3,
+    "4": 3,
+    "5": 33
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf09kWm_5uYG_3_cmA4NvGoIXhjU-SbXqA8E8kMWDDJjqDmLbNUToyau43uiKaIgN5S6RxuAeXzQZkC02lrZ3P3mANAISREan4NljBbNat8xksaziVGo1V0O_NwGweqATX-4lTOHEol2-y8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "lat": 37.1036205,
+  "lng": -113.5660187
 }

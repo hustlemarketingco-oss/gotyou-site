@@ -13,5 +13,36 @@
   "groundgameId": "6940fcb658915f89f6a678a1",
   "seededAt": "2025-12-16T06:31:18Z",
   "updatedAt": "2025-12-16T06:31:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJxaIN0U1DQogR42lMQkxJdKA",
+  "googleCid": "11561946735245552099",
+  "googleMapsUrl": "https://maps.google.com/?cid=11561946735245552099",
+  "googleRating": 3.7,
+  "googleReviewCount": 53,
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 1,
+    "3": 4,
+    "4": 9,
+    "5": 27
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebuuSL062UXL3cT8FqXsYZHNHFthKLuYDuONresQGuM8KYBkmhoG0lcPr3kI57sIPHTcd8HJn2ljie1DLyJSlkvMeHplqf-1pK6dvNB7DZ-IaBjhNccQA5R_d1ft-GzZYFqRd4w7Dx-h22=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=6940&postalCode=40503&rwg_token=AE37R_h_hw9QsuB-phw77OHNsexKIEnK8pBBM59w5zErMPok6MuFrUgjRqjKikQfhBoOhNbh7E4mxp4dQ3_AluODDEL1LhBiaDpNMko-5RYOPMlyU5rRyUE%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 10 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 10 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 10 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 10 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 10 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 10 PM",
+    "sun": "9 AM - 1:30 PM, 2 - 10 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/lexington-ky-pharmacies/2000-harrodsburg-rd-lexington-ky-40503/storeid=6940?WT.mc_id=LS_GOOGLE_RX_6940",
+  "lat": 38.0258604,
+  "lng": -84.5349158
 }

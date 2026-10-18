@@ -13,5 +13,36 @@
   "groundgameId": "694103a0e17ae7e18397373c",
   "seededAt": "2025-12-16T07:00:48Z",
   "updatedAt": "2025-12-16T07:00:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJCSD9ClNp6oARKYwyQknKoWo",
+  "googleCid": "7683644855262809129",
+  "googleMapsUrl": "https://maps.google.com/?cid=7683644855262809129",
+  "googleRating": 3.6,
+  "googleReviewCount": 25,
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 2,
+    "4": 1,
+    "5": 14
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAP8gpCVkzg3FeIWZW2Au2LzOw6cVrVycWeFx8aLcv3xvy-5AUJFoQ6XxpFSE__DJS28zXbllttcluxFzmEj8PQeXzPuDYkiHztDZFbfA8Z00jKFKIsgzNvjoYG-EUUWIJr1Bj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16160&postalCode=93306&rwg_token=AE37R_jZKBhXQyI9K5crGXn-wJ3GWhjax3Em4EQFY09Bi0F-wcMJnLl9QI8N_3Xb6eUNOqZHfseLo6lkMXRaTqsNTCMgrHJYYg%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 1:30 PM, 2 - 6 PM",
+    "tue": "10 AM - 1:30 PM, 2 - 6 PM",
+    "wed": "10 AM - 1:30 PM, 2 - 6 PM",
+    "thu": "10 AM - 1:30 PM, 2 - 6 PM",
+    "fri": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/3401-mall-view-rd-bakersfield-ca-93306/storeid=16160?WT.mc_id=LS_GOOGLE_RX_16160",
+  "lat": 35.3940033,
+  "lng": -118.9548659
 }

@@ -8,8 +8,8 @@
   "zip": "84720",
   "phone": "+14358657767",
   "placeId": "ChIJ75P-JvthtYARIy8qUhDXERs",
-  "googleRating": 4.6,
-  "googleReviewCount": 4090,
+  "googleRating": 4.7,
+  "googleReviewCount": 4989,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d021c9558a81c7046a6c",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2025-12-16T07:27:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1950576578726080291",
+  "googleMapsUrl": "https://maps.google.com/?cid=1950576578726080291",
+  "ratingBreakdown": {
+    "1": 120,
+    "2": 71,
+    "3": 181,
+    "4": 577,
+    "5": 4040
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLenmvSL8m4W3R2CYgPezHTD3zZurUqB5_j_vGkasvmQ0OBUXPCdsKA61zyVtg6ku8B1sZ68nnV7iCkxx2sZnElEkQYV7GHaZZLyDp03WxcIDGX68x5VSVV7QNRldMw4w-FaczPtHQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 12 AM",
+    "tue": "11 AM - 12 AM",
+    "wed": "11 AM - 12 AM",
+    "thu": "11 AM - 12 AM",
+    "fri": "11 AM - 12 AM",
+    "sat": "11 AM - 12 AM",
+    "sun": "11 AM - 11 PM"
+  },
+  "website": "https://restaurants.applebees.com/en-us/ut/cedar-city/1352-south-providence-center-d-95066?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=95066&utm_content=website",
+  "lat": 37.6536828,
+  "lng": -113.0855495
 }

@@ -9,12 +9,40 @@
   "phone": "+14356738880",
   "placeId": "ChIJQ5vCncNEyoARoGikIh6X6YQ",
   "googleRating": 4.3,
-  "googleReviewCount": 1561,
+  "googleReviewCount": 1841,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d022910a65d28b48e4a7",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9577352238266083488",
+  "googleMapsUrl": "https://maps.google.com/?cid=9577352238266083488",
+  "ratingBreakdown": {
+    "1": 112,
+    "2": 61,
+    "3": 133,
+    "4": 416,
+    "5": 1119
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUYf52pOg1TeStZcnVBrhgXw7BvqhLgbuNQ4U9jGHmMHF9gyFseURhTcWh9A-IRnJQgqVgc_hq8dmTGg58LfMbKu3FE7FjaWETb_cvq7RLxOfHzx_6zMnq750cHMtlS0sYwrsQDCcxP28O=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 12 AM",
+    "tue": "6 AM - 12 AM",
+    "wed": "6 AM - 12 AM",
+    "thu": "6 AM - 12 AM",
+    "fri": "6 AM - 12 AM",
+    "sat": "6 AM - 12 AM",
+    "sun": "6 AM - 12 AM"
+  },
+  "website": "https://www.smithsfoodanddrug.com/stores/grocery/ut/saint-george/20-n-bluff-st-st-george-ut/706/00189?cid=loc_70600189_gmb",
+  "lat": 37.1088178,
+  "lng": -113.591415
 }

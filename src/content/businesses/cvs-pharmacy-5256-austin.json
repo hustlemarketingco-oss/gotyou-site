@@ -13,5 +13,36 @@
   "groundgameId": "6940fe06f402cb0ced231a45",
   "seededAt": "2025-12-16T06:36:54Z",
   "updatedAt": "2025-12-16T06:36:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJf8C-cl_KRIYRgXkSdAe26Bo",
+  "googleCid": "1938999782711392641",
+  "googleMapsUrl": "https://maps.google.com/?cid=1938999782711392641",
+  "googleRating": 3.9,
+  "googleReviewCount": 24,
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "3": 1,
+    "4": 2,
+    "5": 15
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea1X1OZjaVAi9KtBdL84KuMZ_qDSkXoxyfI43BU7TE66ZeLu0tA0sLwzBf7UihpjXmPPv8K0oSyc9JXTn7N9cxWPz4VbC5SRB3gctEszXRSKO8yjfUzxPwbCTZfnaSlobGIJgjF_ylXP74=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=6822&postalCode=78756&rwg_token=AE37R_gLDp6w_iD2x2cFep6EL3Doi-kvpNmpyCEnGZiDNPQibQZT-aXT8d5luPTgkPO_n3AcAGu8NK0QRjMVcJDQm3BkPcf6FMBpAh2d0AOmimPV8zoEYFQ%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "12 - 4 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/5256-burnet-rd-ste-b-north-loop-austin-tx-78756/storeid=6822?WT.mc_id=LS_GOOGLE_RX_6822",
+  "lat": 30.325414199999997,
+  "lng": -97.7403547
 }

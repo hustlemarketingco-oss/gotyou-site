@@ -13,5 +13,37 @@
   "groundgameId": "694104253c2e17e2846b8ffb",
   "seededAt": "2025-12-16T07:03:01Z",
   "updatedAt": "2025-12-16T07:03:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJAZWBiTsXjoAR9NrhV8ejpHI",
+  "googleCid": "8260907693072571124",
+  "googleMapsUrl": "https://maps.google.com/?cid=8260907693072571124",
+  "googleRating": 4.3,
+  "googleReviewCount": 307,
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 10,
+    "3": 23,
+    "4": 62,
+    "5": 196
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4DJJcpgkb5EyAGDIrXi3VCOCfOIyFVgWBcGwsV7F_xWs06qB9P4k5BZHqqLzyjMGm2RGzbfo24BgoNxFlsCHVeGqfn2jJswFLShaNTW2xw6t8LnkEagt9qes5uaRCsWUs8v6I_tY3FvWJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 8:30 PM",
+    "tue": "11 AM - 8:30 PM",
+    "wed": "11 AM - 8:30 PM",
+    "thu": "11 AM - 8:30 PM",
+    "fri": "11 AM - 9 PM",
+    "sat": "11 AM - 9 PM",
+    "sun": "11 AM - 8:30 PM"
+  },
+  "website": "http://www.bettyburgers.com/",
+  "lat": 36.9775433,
+  "lng": -121.8998719
 }

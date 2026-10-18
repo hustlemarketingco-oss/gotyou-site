@@ -9,7 +9,7 @@
   "phone": "+14352911395",
   "placeId": "ChIJT--fxdBFyoARc2l0GP30H2w",
   "googleRating": 4.6,
-  "googleReviewCount": 560,
+  "googleReviewCount": 756,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d02292151651565e4cff",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7791215248248433011",
+  "googleMapsUrl": "https://maps.google.com/?cid=7791215248248433011",
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 23,
+    "3": 35,
+    "4": 64,
+    "5": 600
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKFKI9qdxGz0XkXBWXSCFORMNZrv4e80O-unftkXya-jQFUq0-ms_cK9zX-_-NgKANRwBm4KHZb8DRJuLR2dOMiufv5JCFlUA9wrREwnL-a4nSpqMbjqTw-3sHXxvYiHH-yrVu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 11 PM",
+    "tue": "10 AM - 11 PM",
+    "wed": "10 AM - 11 PM",
+    "thu": "10 AM - 11 PM",
+    "fri": "10 AM - 12 AM",
+    "sat": "10 AM - 12 AM",
+    "sun": "10 AM - 10 PM"
+  },
+  "website": "https://www.hhc.ooo/location/1216-s-bluff-st-1201-st-george-utah-84770",
+  "lat": 37.0869066,
+  "lng": -113.58631179999999
 }

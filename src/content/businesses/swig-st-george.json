@@ -9,7 +9,7 @@
   "phone": "+14359220800",
   "placeId": "ChIJYTIiRy9byoARC-YwhMkW1dk",
   "googleRating": 4.4,
-  "googleReviewCount": 978,
+  "googleReviewCount": 1046,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,32 @@
   "groundgameId": "6940d02258915f89f6a5f7cd",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15696477131031766539",
+  "googleMapsUrl": "https://maps.google.com/?cid=15696477131031766539",
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 29,
+    "3": 74,
+    "4": 158,
+    "5": 736
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKie783uPmvTuNU4akzTH_9d_dtCi4o44yHf7ZPt7sycPkxj0OJNqTAQWJoj8Hv0U3GTtshCONdVWEuwAMcjl2wRhLeFbMvFxfcJQpMVDkmNnSwCaEZLmjMbo71VH1qoRfEgZooQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7:30 AM - 9:30 PM",
+    "tue": "7:30 AM - 9:30 PM",
+    "wed": "7:30 AM - 9:30 PM",
+    "thu": "7:30 AM - 9:30 PM",
+    "fri": "7:30 AM - 10:30 PM",
+    "sat": "8 AM - 10:30 PM",
+    "sun": "11 AM - 7 PM"
+  },
+  "website": "https://swig.com/findaswig/tabernacle?utm_campaign=gbp-listing&utm_content=gbp-tabernacle&utm_medium=organic&utm_source=google",
+  "lat": 37.1085828,
+  "lng": -113.56249269999999
 }

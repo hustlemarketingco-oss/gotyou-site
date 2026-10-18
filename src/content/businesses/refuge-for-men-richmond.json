@@ -13,5 +13,37 @@
   "groundgameId": "6940f9c38761ad922945eb19",
   "seededAt": "2025-12-16T06:18:43Z",
   "updatedAt": "2025-12-16T06:25:09Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJez_ddFsRsYkR74xeWn2EceA",
+  "googleCid": "16172853410786086127",
+  "googleMapsUrl": "https://maps.google.com/?cid=16172853410786086127",
+  "googleRating": 4.5,
+  "googleReviewCount": 345,
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 7,
+    "3": 8,
+    "4": 40,
+    "5": 266
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7cCsxGJWovQ0jeZjwouvymRKQ4bcOUZTI85QCX4gkn3prwvrVsZUtJjm2B5xhu-cXl2WiunYzfZZNXOtJeIb_KMHnWUXR5D1zhcR_Oq8M0klDJ5Bd_LfkGhVXYYYETT260SFf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "orderUrl": "https://go.booker.com/location/rfm/service-menu",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 8 PM",
+    "tue": "12 - 8 PM",
+    "wed": "10 AM - 8 PM",
+    "thu": "10 AM - 8 PM",
+    "fri": "9 AM - 8 PM",
+    "sat": "9 AM - 5 PM",
+    "sun": "10 AM - 4 PM"
+  },
+  "website": "https://www.refuge4men.com/",
+  "lat": 37.5470909,
+  "lng": -77.4603207
 }

@@ -13,5 +13,36 @@
   "groundgameId": "6940fc87048fc49c9f3d424d",
   "seededAt": "2025-12-16T06:30:31Z",
   "updatedAt": "2025-12-16T06:30:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJa8UAJhqef4gRyohwuDHI1FM",
+  "googleCid": "6040673116084013258",
+  "googleMapsUrl": "https://maps.google.com/?cid=6040673116084013258",
+  "googleRating": 4,
+  "googleReviewCount": 783,
+  "ratingBreakdown": {
+    "1": 79,
+    "2": 33,
+    "3": 73,
+    "4": 198,
+    "5": 400
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUitt2YxRXg1uVE-bCoUCUjc94cluwGZ5tXOzFPjRC0Y-Jm_XpBUDpignOCnuumzF16QUsI8dMeZn9wQxdoifg60n29I78A8x0uQR8S1dyiGTV4Q8qMuNNxSGXxstWPpwCHvlH=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 11 PM",
+    "tue": "6 AM - 11 PM",
+    "wed": "6 AM - 11 PM",
+    "thu": "6 AM - 11 PM",
+    "fri": "6 AM - 11 PM",
+    "sat": "6 AM - 11 PM",
+    "sun": "6 AM - 11 PM"
+  },
+  "website": "https://www.kroger.com/stores/grocery/tn/lakeland/stonebridge-crossing-sc/025/00440?cid=loc_02500440_gmb",
+  "lat": 35.2025818,
+  "lng": -89.76190299999999
 }

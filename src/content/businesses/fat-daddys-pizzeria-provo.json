@@ -14,12 +14,12 @@
   "lng": -111.6626988,
   "phone": "+18013774992",
   "website": "http://fatdaddyspizzeria.com/",
-  "googleMapsUrl": "https://www.google.com/maps/place/Fat+Daddy%27s+Pizzeria/data=!4m7!3m6!1s0x874d91bc3f55ec81:0xcc7b52eaaff7274c!8m2!3d40.2333954!4d-111.6626988!16s%2Fg%2F11h0324c3m!19sChIJgexVP7yRTYcRTCf3r-pSe8w?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=14734461773800744780",
   "googleCid": "14734461773800744780",
   "placeId": "ChIJgexVP7yRTYcRTCf3r-pSe8w",
   "googleRating": 4.6,
-  "googleReviewCount": 2359,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqBzoHIC6fPKeXAnB8IsV-11Euht9OVt5vML9kzMgB5LZZiROFEyJFlhTEE4HgPGqs9APDXnbQPXfmIiTldDyEwWpm82qLyGiGJAcLdM-ew-Ts7ajmTHMXi9xf6Il3H9daXwZKZOlD4Jjw=w1200-h800-k-no",
+  "googleReviewCount": 2373,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0sd_pk-f_3qvlzcVDFqu3SEtVEetL6CObN4aNvpRSkbtGhLeo6mEVzaDu_V1SI0USPgN5o9i_6vk7JencirZobWauwvtdrYqOmiDxPJYPWZ2oWFjsYoHL_xzGw60rhtXeCRYmrkrn2yVh=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
@@ -30,8 +30,8 @@
     "1": 103,
     "2": 49,
     "3": 84,
-    "4": 162,
-    "5": 1961
+    "4": 163,
+    "5": 1974
   },
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -50,5 +50,6 @@
   "source": "gmaps-scraper",
   "description": "Fat Daddy's Pizzeria is a downtown Provo pizza spot on West Center Street that also delivers. It's open for lunch and dinner and has more than 2,300 reviews with a 4.6-star average.",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa17b3f0dc0fc1112e1d"
+  "groundgameId": "6940fa17b3f0dc0fc1112e1d",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

@@ -13,5 +13,36 @@
   "groundgameId": "69410381048fc49c9f3d4e3f",
   "seededAt": "2025-12-16T07:00:17Z",
   "updatedAt": "2025-12-16T07:00:17Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7613G7oP6oAR0VknFZmWTEU",
+  "googleCid": "4993531671076100561",
+  "googleMapsUrl": "https://maps.google.com/?cid=4993531671076100561",
+  "googleRating": 3.5,
+  "googleReviewCount": 19,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 8
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJt5O1e7TCdvTojjl7YsyzVZlUa1BXXzdU0fTf-DRrTw-_RlnTtfUDOjy2opsUIvQ0zI9cTKd2iuZTLAXs2N87UCxIXHoS7J0pmElh-2N5c0SK8DZM-v1kB916NDh9zUbhctFEV9qufyA2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10810&postalCode=93203&rwg_token=AE37R_iNGa4kTjOX2tlDAT9Y_UIQhAUah2ts9Ng7rIGCfnKa_4YXaUK8LYw1vfVsQXedtMLH6IgNiRGPXKcVQ_FI5GUWuy4rHDRTW4Yb4Rs1HTg11WINb4s%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "9 AM - 1 PM",
+    "sun": "Closed"
+  },
+  "website": "https://www.cvs.com/store-locator/arvin-ca-pharmacies/505-b-bear-mountain-blvd-arvin-ca-93203/storeid=10810?WT.mc_id=LS_GOOGLE_RX_10810",
+  "lat": 35.208701999999995,
+  "lng": -118.8299344
 }

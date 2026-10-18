@@ -8,13 +8,41 @@
   "zip": "84770",
   "phone": "+14352187320",
   "placeId": "ChIJc-EjQ3ZFyoARNY1FO8m-53A",
-  "googleRating": 4.6,
-  "googleReviewCount": 284,
+  "googleRating": 4.4,
+  "googleReviewCount": 321,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d0213979997f398fee8a",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8135681023360208181",
+  "googleMapsUrl": "https://maps.google.com/?cid=8135681023360208181",
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 9,
+    "3": 17,
+    "4": 50,
+    "5": 228
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTeJDt0L-55TUn1P2qh-3cdA1c5mF3PJsgg4xdLB9ZiVqwMS1W8kV8oylMU0mnbN4XDU6YgxfiySzUbvghK61luAb0Y6Y3IIwSgz-uKuvAygJvoWr0P017uEpkmGCk6X0FfJBlmb-V-Wc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://skatetherinq.com/",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "4 - 9 PM",
+    "tue": "4 - 9 PM",
+    "wed": "4 - 9 PM",
+    "thu": "3 - 9 PM",
+    "fri": "12 - 11 PM",
+    "sat": "11 AM - 11 PM",
+    "sun": "Closed"
+  },
+  "website": "http://skatetherinq.com/",
+  "lat": 37.0915642,
+  "lng": -113.6234805
 }

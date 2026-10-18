@@ -13,5 +13,37 @@
   "groundgameId": "6941004dc1452f153852a983",
   "seededAt": "2025-12-16T06:46:37Z",
   "updatedAt": "2025-12-16T07:28:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJt81dkKBbyoARQgjw95gFT10",
+  "googleCid": "6723598923240310850",
+  "googleMapsUrl": "https://maps.google.com/?cid=6723598923240310850",
+  "googleRating": 3.9,
+  "googleReviewCount": 1029,
+  "ratingBreakdown": {
+    "1": 161,
+    "2": 55,
+    "3": 64,
+    "4": 170,
+    "5": 579
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftwHsZvKvxObNSoJU9765mQdwIJCVVZaHqUSSO8WXeyph9yyALI6XJmCJiIaLzyjZn0q6-EqiLmSfQcBjmljK_1AAt6SmIbQajfzBy16vG0nkih7TuOIeWt96D4d_0hp_sPuZF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "4:30 AM - 9 PM",
+    "tue": "4:30 AM - 9 PM",
+    "wed": "4:30 AM - 9 PM",
+    "thu": "4:30 AM - 9 PM",
+    "fri": "4:30 AM - 9 PM",
+    "sat": "4:30 AM - 9 PM",
+    "sun": "4:30 AM - 9 PM"
+  },
+  "website": "https://www.starbucks.com/store-locator/store/1018605",
+  "lat": 37.12742,
+  "lng": -113.52440999999999
 }

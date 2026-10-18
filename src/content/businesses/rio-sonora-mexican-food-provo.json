@@ -11,12 +11,12 @@
   "lng": -111.6539538,
   "phone": "+18016911599",
   "website": "http://www.riosonoraut.com/",
-  "googleMapsUrl": "https://www.google.com/maps/place/Rio+Sonora+Mexican+Food/data=!4m7!3m6!1s0x874d9b90237438cf:0x2540a9718c917aeb!8m2!3d40.2299937!4d-111.6539538!16s%2Fg%2F11jp2r9qyg!19sChIJzzh0I5CbTYcR63qRjHGpQCU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=2684331683067558635",
   "googleCid": "2684331683067558635",
   "placeId": "ChIJzzh0I5CbTYcR63qRjHGpQCU",
   "googleRating": 4.7,
-  "googleReviewCount": 313,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwnbEx2YuBIqy2mZ2C9gqn-EjP7geW3eUsRTq9JqaodfUTCvmKbhqXDBOuWBxQuj1Guv2DOuvx4aFAGxoA2P7JlcyEX8oTEZE9w4srwO4hnGlNwoW-wZRL1X-gl2iTyxgL8Bbi=w1200-h800-k-no",
+  "googleReviewCount": 314,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpbxQD4HrIOW_dHK7ENmAoNV58PeNeipEyVP145WE_pUhXcAW1yhhlgEBAE51IsQDV5cjmchBTrkgwqI_5dkYT-T3alJPiOwJOtd_hCRYgVYoWu4v3zDv_4Qz_1m5njzwoMXYM=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
@@ -27,7 +27,7 @@
     "2": 1,
     "3": 10,
     "4": 21,
-    "5": 272
+    "5": 273
   },
   "hours": {
     "mon": "Closed",
@@ -46,5 +46,6 @@
   "source": "gmaps-scraper",
   "description": "Rio Sonora is a Mexican restaurant on East 300 South in Provo, open Tuesday through Sunday with a 4.7-star average.",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa243635d46374acc0d1"
+  "groundgameId": "6940fa243635d46374acc0d1",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

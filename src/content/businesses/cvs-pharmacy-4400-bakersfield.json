@@ -13,5 +13,36 @@
   "groundgameId": "694103a4e105b248af8a4e21",
   "seededAt": "2025-12-16T07:00:52Z",
   "updatedAt": "2025-12-16T07:00:52Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJv8Mquv1C6oAR5-nWk1Aom9E",
+  "googleCid": "15103710101859920359",
+  "googleMapsUrl": "https://maps.google.com/?cid=15103710101859920359",
+  "googleRating": 4,
+  "googleReviewCount": 36,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 1,
+    "4": 1,
+    "5": 25
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9Co6rG9huznUe1EBBakaJpPCv0Od7BR8xusSnuNxzYX-eyJuNHaaKN5eh4HygnbwBgkaRtFO-IGxCPjQ7HR9w_o9EJzdprEnPEi_z2ts-5mYmSPxR8XHvbq4TeSc5IbaE7Cw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=9975&postalCode=93308&rwg_token=AE37R_gTlTQDbFZFJ2NQepSd_W61nC313_8T_M-QQ1T89jISBzm-DVHV5qOdf9tyRJpm8ne1UjLNOQpVdcqesm81VEN_gLI7AK-IpwwA7-tVDvCdS2gOLDc%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/4400-coffee-rd-bakersfield-ca-93308/storeid=9975?WT.mc_id=LS_GOOGLE_RX_9975",
+  "lat": 35.3993788,
+  "lng": -119.0904451
 }

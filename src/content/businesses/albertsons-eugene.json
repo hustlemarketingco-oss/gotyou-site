@@ -13,5 +13,36 @@
   "groundgameId": "6941042c51d9d3ae9383129e",
   "seededAt": "2025-12-16T07:03:08Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJA54lpv3hwFQRiay4i38_TXA",
+  "googleCid": "8092193922492181641",
+  "googleMapsUrl": "https://maps.google.com/?cid=8092193922492181641",
+  "googleRating": 4.1,
+  "googleReviewCount": 1237,
+  "ratingBreakdown": {
+    "1": 60,
+    "2": 43,
+    "3": 187,
+    "4": 365,
+    "5": 582
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlXwqBFdtTJIs8Pt6zphmEl4A45pmTCp4zquX0iF4fRsII6ks6KSiiS-MQY2vR9SClg--vV6ChgUwErKx18AMTiUIosv-gi0-GfdiTcnH6ZDovhPCURIDP2m5lGg0rs17IL_U6kCHUwd0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 11 PM",
+    "tue": "6 AM - 11 PM",
+    "wed": "6 AM - 11 PM",
+    "thu": "6 AM - 11 PM",
+    "fri": "6 AM - 11 PM",
+    "sat": "6 AM - 11 PM",
+    "sun": "6 AM - 11 PM"
+  },
+  "website": "https://local.albertsons.com/or/eugene/311-coburg-rd.html",
+  "lat": 44.0645503,
+  "lng": -123.0738741
 }

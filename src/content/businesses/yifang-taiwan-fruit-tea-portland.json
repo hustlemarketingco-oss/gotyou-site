@@ -18,7 +18,7 @@
   "website": "https://www.yifangpdx.com/",
   "placeId": "ChIJE1IF9h6hlVQRxySPGVOcHaQ",
   "googleRating": 4.7,
-  "googleReviewCount": 167,
+  "googleReviewCount": 188,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
@@ -35,5 +35,22 @@
   "groundgameId": "6a3056df064571e8929b601c",
   "seededAt": "2026-06-15T19:47:43Z",
   "updatedAt": "2026-06-22T14:38:53Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11825780077269820615",
+  "googleMapsUrl": "https://maps.google.com/?cid=11825780077269820615",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 4,
+    "3": 3,
+    "4": 12,
+    "5": 163
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsl05KAXIUgWAsnmq3Kwj2LajZrpmQPF6PZxywmWBPsuSgzUVBMgmPktD6FlaEnPFIOYjDoIUsNhJ-4Nr4pyBP-lPo-DZwwxiMtuqkQaLthGgWFk5QMcARVII8akw3097ac18V=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

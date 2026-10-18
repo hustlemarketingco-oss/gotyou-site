@@ -9,7 +9,7 @@
   "phone": "+14355724648",
   "placeId": "ChIJcXgYxGFhtYARNkhahknKVm4",
   "googleRating": 3.7,
-  "googleReviewCount": 372,
+  "googleReviewCount": 437,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d022c1452f1538478ad7",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2025-12-16T07:27:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7950764609304676406",
+  "googleMapsUrl": "https://maps.google.com/?cid=7950764609304676406",
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 39,
+    "3": 47,
+    "4": 86,
+    "5": 200
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI89JKdl1Jif0IxBkOSPYdhj5BHE7O1A6GCJY4s827I9Olaop5OafekWaXGfZnxP-uawRUjF2ge9Ue-eorhvMzwrc6_XSXFOtKl7jHsFi0fLq-TtFIetJwiuxcPhXsW84YVj6zv0JVxwXe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:30 AM - 10 PM",
+    "tue": "10:30 AM - 10 PM",
+    "wed": "10:30 AM - 10 PM",
+    "thu": "10:30 AM - 10 PM",
+    "fri": "10:30 AM - 10 PM",
+    "sat": "10:30 AM - 10 PM",
+    "sun": "10:30 AM - 10 PM"
+  },
+  "website": "https://locations.chipotle.com/ut/cedar-city/1351-s-providence-center-dr?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=3994",
+  "lat": 37.653661,
+  "lng": -113.08475999999999
 }

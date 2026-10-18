@@ -9,7 +9,7 @@
   "phone": "+14359008790",
   "placeId": "ChIJc0pLlM9EyoAROcQQ911g0bA",
   "googleRating": 4.3,
-  "googleReviewCount": 1843,
+  "googleReviewCount": 1984,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d021d22824a6ec1e6ea1",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12741070777501140025",
+  "googleMapsUrl": "https://maps.google.com/?cid=12741070777501140025",
+  "ratingBreakdown": {
+    "1": 141,
+    "2": 89,
+    "3": 131,
+    "4": 342,
+    "5": 1281
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLca4ABnurSOValyeEtUxYqCNYHYWQRdocV-9vV1xrkcIQTM2NVm1OWAF5KMVl4pKtzQuFQP-Uo8AhaHYPtsVlFtSneuqakEdwM7UBkREK-R6n7V4LXRg3WdPlrBN3s_aKFl6OZqVWuW640o=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 3 PM",
+    "tue": "7 AM - 3 PM",
+    "wed": "7 AM - 3 PM",
+    "thu": "7 AM - 3 PM",
+    "fri": "7 AM - 3 PM",
+    "sat": "7 AM - 3 PM",
+    "sun": "7 AM - 3 PM"
+  },
+  "website": "http://www.bearpawcafe.com/?utm_source=google&utm_medium=gbp",
+  "lat": 37.109392899999996,
+  "lng": -113.58346639999999
 }

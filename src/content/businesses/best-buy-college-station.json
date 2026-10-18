@@ -13,5 +13,36 @@
   "groundgameId": "6940fd7ebc2085fff9f9ed43",
   "seededAt": "2025-12-16T06:34:38Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJv7B2EY2DRoYRgzZr6yM2y94",
+  "googleCid": "16053984824593692291",
+  "googleMapsUrl": "https://maps.google.com/?cid=16053984824593692291",
+  "googleRating": 4.2,
+  "googleReviewCount": 3363,
+  "ratingBreakdown": {
+    "1": 234,
+    "2": 104,
+    "3": 329,
+    "4": 830,
+    "5": 1866
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1yikMwjYzSNcKnn3oqIESMFWOpIuQTZKqtyMMFHrKPtL2GG511CFRmKh3nR3pqMck759C5jY3VbUtwIPJxNJpIv1zgzcigTOqJVU3zYD3NZn3TS6SPepBFYfZJb_NWyhjk3k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 9 PM",
+    "tue": "10 AM - 9 PM",
+    "wed": "10 AM - 9 PM",
+    "thu": "10 AM - 9 PM",
+    "fri": "10 AM - 9 PM",
+    "sat": "10 AM - 9 PM",
+    "sun": "10 AM - 8 PM"
+  },
+  "website": "https://stores.bestbuy.com/tx/college-station/805-texas-ave-s-332.html/?ref=NS&loc=ns100",
+  "lat": 30.625926999999997,
+  "lng": -96.32978
 }

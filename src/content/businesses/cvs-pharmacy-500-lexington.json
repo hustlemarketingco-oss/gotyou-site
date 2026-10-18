@@ -13,5 +13,35 @@
   "groundgameId": "6940fcbd369190707316331e",
   "seededAt": "2025-12-16T06:31:25Z",
   "updatedAt": "2025-12-16T06:31:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJT5qnz1ZFQogRbz8sC4uzjlQ",
+  "googleCid": "6093004755648135023",
+  "googleMapsUrl": "https://maps.google.com/?cid=6093004755648135023",
+  "googleRating": 4.5,
+  "googleReviewCount": 38,
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "4": 4,
+    "5": 30
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfISwC_R0zJZvtIqF8ZLmTCOH_7qKOf4XWcrFNawN0A85zLW1pB1_c3WUmFIOgduRlxJvDoUbfwADJJzAwboZa1ureLfT5S1ENQU4rELs4XG5Mhw62fYARXrmZFydxbuXihpJVB-sLfaaT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=17759&postalCode=40508&rwg_token=AE37R_iqPhT8NLtxmkP3iqiaRZCB6F2-NHccKjQY2dD7WKDQWtoC0RIvSOX-poq7UJmsnL3axel35muFYE4GGzDrbzSksyYewbFBi2nw_YFM11fpY97R_5o%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "10 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "10 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "10 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "10 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/lexington-ky-pharmacies/500-south-upper-street-suite-110-lexington-ky-40508/storeid=17759?WT.mc_id=LS_GOOGLE_RX_17759",
+  "lat": 38.042912,
+  "lng": -84.50353
 }

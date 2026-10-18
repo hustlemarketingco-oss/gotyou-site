@@ -10,12 +10,37 @@
   "website": "http://www.stgeorgechamber.com/",
   "placeId": "ChIJW6ROSc5EyoARAXqcw7J5u9k",
   "googleRating": 4.9,
-  "googleReviewCount": 73,
+  "googleReviewCount": 74,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d022fabb6353f31bdd38",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15689267535568206337",
+  "googleMapsUrl": "https://maps.google.com/?cid=15689267535568206337",
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 3,
+    "5": 70
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAxktajaEyZBIt7oqmFXZaMS8KsN7JkEZpS3tEhxbF1lr25UJ9_CB8ib4nrrQb9iERQuVYQ15X3yCziAei-tDvPrFYYyPsGY2bvcVKRD-su1V0grldrjGgaG8sBOS6FLkcb-2ZZGM1WUEI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "http://www.stgeorgechamber.com/",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 5 PM",
+    "tue": "8 AM - 5 PM",
+    "wed": "8 AM - 5 PM",
+    "thu": "8 AM - 5 PM",
+    "fri": "8 AM - 12 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "lat": 37.110656399999996,
+  "lng": -113.5807444
 }

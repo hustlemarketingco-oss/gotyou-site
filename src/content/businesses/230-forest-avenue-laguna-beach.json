@@ -10,7 +10,7 @@
   "website": "http://www.230forestavenue.com/",
   "placeId": "ChIJuQG3RLXl3IARMV205hwo6BI",
   "googleRating": 4.6,
-  "googleReviewCount": 659,
+  "googleReviewCount": 697,
   "priceRange": "$$",
   "sameAs": [
     "https://www.facebook.com/230ForestAvenue",
@@ -23,5 +23,34 @@
   "groundgameId": "6940cacf797ef7e8c0fc7894",
   "seededAt": "2025-12-16T02:58:23Z",
   "updatedAt": "2025-12-16T06:59:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1362382991874350385",
+  "googleMapsUrl": "https://maps.google.com/?cid=1362382991874350385",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 14,
+    "3": 26,
+    "4": 116,
+    "5": 522
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd35dydLXyw5aJlPwVAfiTAn1SKDgk2Xl5M2odLtAqfuJJL3QTppsIBqkjkbL1ga1gZuP7qwnqTObbJoAZEAprLB7gY-bBBLxKWYkOgrZYN0w0hRYOPHyzX6kob6KaEhxRGLMP6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://www.opentable.com/restaurant/profile/7901?ref=1068",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 8:30 PM",
+    "tue": "11 AM - 8:30 PM",
+    "wed": "11 AM - 8:30 PM",
+    "thu": "11 AM - 8:30 PM",
+    "fri": "11 AM - 8:30 PM",
+    "sat": "11 AM - 8:30 PM",
+    "sun": "11 AM - 8:30 PM"
+  },
+  "lat": 33.54268,
+  "lng": -117.783226
 }

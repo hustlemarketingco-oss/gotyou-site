@@ -13,5 +13,33 @@
   "groundgameId": "6940fd43923c0d50d73195e1",
   "seededAt": "2025-12-16T06:33:39Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJQcpeMDylJoYRD8rtwR-297I",
+  "googleCid": "12895976305512532495",
+  "googleMapsUrl": "https://maps.google.com/?cid=12895976305512532495",
+  "googleRating": 2.9,
+  "googleReviewCount": 9,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "5": 4
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vTiVd-wngA00jSSPyfdt0Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=284.22348&pitch=-7.9224253&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 10 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 10 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 10 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 10 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 10 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.walgreens.com/locator/walgreens-12881+perkins+rd-baton+rouge-la-70810/id=3610",
+  "lat": 30.368828899999997,
+  "lng": -91.07490179999999
 }

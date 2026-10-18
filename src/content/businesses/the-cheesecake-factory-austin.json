@@ -13,5 +13,38 @@
   "groundgameId": "6940fde7c9a08f427d77c53a",
   "seededAt": "2025-12-16T06:36:23Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJgZcEfOdKW4YRhqiyMuVbZQM",
+  "googleCid": "244702794717767814",
+  "googleMapsUrl": "https://maps.google.com/?cid=244702794717767814",
+  "googleRating": 4.2,
+  "googleReviewCount": 3488,
+  "ratingBreakdown": {
+    "1": 257,
+    "2": 151,
+    "3": 311,
+    "4": 711,
+    "5": 2058
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5slEAMPnLM5eINZwTog9iATP8uFjTnMMWePvrQS1SUeDlkRyFuQNA4Gz1FOmVPqzyaz-lRThXdH0qRhQjEhaHTln8soOZLD8R4QiUL9kBlMZ5m4l0VTicKOHf3fiDvH2O6P6m8pWY75kR=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://www.thecheesecakefactory.com/locations?launchReservationsFlyout=true&id=austin-tx-2",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 10 PM",
+    "tue": "11 AM - 10 PM",
+    "wed": "11 AM - 10 PM",
+    "thu": "11 AM - 10 PM",
+    "fri": "11 AM - 11 PM",
+    "sat": "11 AM - 11 PM",
+    "sun": "10 AM - 10 PM"
+  },
+  "website": "https://locations.thecheesecakefactory.com/tx/austin-188.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+  "lat": 30.257325299999998,
+  "lng": -97.8080184
 }

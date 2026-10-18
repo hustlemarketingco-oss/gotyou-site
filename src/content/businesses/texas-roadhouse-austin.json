@@ -13,5 +13,38 @@
   "groundgameId": "6940fdee910a65d28b492a2b",
   "seededAt": "2025-12-16T06:36:30Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJn4LTu9JMW4YRwWuANMKIYrQ",
+  "googleCid": "12998101842230537153",
+  "googleMapsUrl": "https://maps.google.com/?cid=12998101842230537153",
+  "googleRating": 4.5,
+  "googleReviewCount": 6571,
+  "ratingBreakdown": {
+    "1": 264,
+    "2": 164,
+    "3": 347,
+    "4": 1239,
+    "5": 4557
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeny9Kh61_zophr_pAqL8stz-el1hLPjPiQz9wdFHKyp6cPTEGX75p221pWrYyuwSF7VGlAPZQRAzdCjdvkjYzk_KXttdfXJwSYEeYvGI2o4f9kiCYVtGlA9t-dmMrt0jsFdXvLqaNhCoGf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://togo.texasroadhouse.com/location/192-austin-stx/detail/action/waitlist",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "3 - 10 PM",
+    "tue": "3 - 10 PM",
+    "wed": "3 - 10 PM",
+    "thu": "3 - 10 PM",
+    "fri": "11 AM - 11 PM",
+    "sat": "11 AM - 11 PM",
+    "sun": "11 AM - 10 PM"
+  },
+  "website": "https://www.texasroadhouse.com/locations/texas/austin-south-i-35?utm_source=listing&utm_medium=search",
+  "lat": 30.163301699999998,
+  "lng": -97.78918139999999
 }

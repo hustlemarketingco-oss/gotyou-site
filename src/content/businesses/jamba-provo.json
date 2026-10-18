@@ -13,5 +13,35 @@
   "groundgameId": "6940fa2124c99f9c22104834",
   "seededAt": "2025-12-16T06:20:17Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJsboGmp6QTYcRupjGG65fTsQ",
+  "googleCid": "14145348681012254906",
+  "googleMapsUrl": "https://maps.google.com/?cid=14145348681012254906",
+  "googleRating": 4.6,
+  "googleReviewCount": 574,
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 9,
+    "3": 19,
+    "4": 83,
+    "5": 442
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOodMGgJ-gibNvUMwK7KBEwBKKuW44eJ9C2symYZONs3KGJ7mSM1wigr259zQmsud6y2NnZPJrlu5FgbUDq2uz3KYw3RaIJo2qILwn4EoyskBjk8GDISxuvMDRyro_O-yZ5IM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 9 PM",
+    "tue": "7 AM - 9 PM",
+    "wed": "7 AM - 9 PM",
+    "thu": "7 AM - 9 PM",
+    "fri": "7 AM - 10 PM",
+    "sat": "8 AM - 10 PM",
+    "sun": "9 AM - 3 PM"
+  },
+  "lat": 40.25817,
+  "lng": -111.66106719999999
 }

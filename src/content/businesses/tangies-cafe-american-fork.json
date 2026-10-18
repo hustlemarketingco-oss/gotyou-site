@@ -13,5 +13,37 @@
   "groundgameId": "6940fe6940156f1789de9097",
   "seededAt": "2025-12-16T06:38:33Z",
   "updatedAt": "2025-12-16T06:38:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJC2VFyXGBTYcRDhW-N3jyEDA",
+  "googleCid": "3463534711593112846",
+  "googleMapsUrl": "https://maps.google.com/?cid=3463534711593112846",
+  "googleRating": 4.3,
+  "googleReviewCount": 505,
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 24,
+    "3": 36,
+    "4": 72,
+    "5": 340
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdovI_-rCiBsfufbtWt8T8kaFHHt3Wfz7I8xAkU6YQTiIA4_S8p5XJki3WPCDQkm9zmIGimmjOBKbckqQA1ZWgRQSLiJSebJClfz_9TO_wqpJzV9Fcl9uFH8Sm5II9vhwB4iBlIJQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "5:30 AM - 3 PM",
+    "tue": "5:30 AM - 3 PM",
+    "wed": "5:30 AM - 3 PM",
+    "thu": "5:30 AM - 3 PM",
+    "fri": "5:30 AM - 3 PM",
+    "sat": "5:30 AM - 3 PM",
+    "sun": "6 AM - 2:30 PM"
+  },
+  "website": "http://tangiescafe.restaurant/",
+  "lat": 40.3766639,
+  "lng": -111.7983727
 }

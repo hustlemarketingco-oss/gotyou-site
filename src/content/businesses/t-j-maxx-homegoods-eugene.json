@@ -13,5 +13,36 @@
   "groundgameId": "69410437fc6bb4642eed5b47",
   "seededAt": "2025-12-16T07:03:19Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJCdVpvP3hwFQRjqIIEk_SAmo",
+  "googleCid": "7638899155020587662",
+  "googleMapsUrl": "https://maps.google.com/?cid=7638899155020587662",
+  "googleRating": 4.3,
+  "googleReviewCount": 1171,
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 26,
+    "3": 120,
+    "4": 328,
+    "5": 665
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3VLox9ANHSvoPzP-1FypEjwBp4RNkq706IP-qUBG2ebSev1YgFwQvu1NqM-e50aer2EbQEJx-FNuRkygZeQ8HPPotkBMtTf_cYz9imZIgHjdbSRnZ9Vt9WgB_UkEam8rc8m4XkwTHQ9ik=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9:30 AM - 9:30 PM",
+    "tue": "9:30 AM - 9:30 PM",
+    "wed": "9:30 AM - 9:30 PM",
+    "thu": "9:30 AM - 9:30 PM",
+    "fri": "9:30 AM - 9:30 PM",
+    "sat": "9:30 AM - 9:30 PM",
+    "sun": "9:30 AM - 9:30 PM"
+  },
+  "website": "https://tjmaxx.tjx.com/store/index.jsp",
+  "lat": 44.063463,
+  "lng": -123.074525
 }

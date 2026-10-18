@@ -14,8 +14,8 @@
   "zip": "97404",
   "phone": "+15414610842",
   "placeId": "ChIJE_R_PpAdwVQRYMrzuBezUUA",
-  "googleRating": 3.7,
-  "googleReviewCount": 545,
+  "googleRating": 3.6,
+  "googleReviewCount": 590,
   "priceRange": "$",
   "timezone": "America/Los_Angeles",
   "claimStatus": "claimed",
@@ -23,5 +23,32 @@
   "groundgameId": "694104503b87487a5965861a",
   "seededAt": "2025-12-16T07:03:44Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4634682406009555552",
+  "googleMapsUrl": "https://maps.google.com/?cid=4634682406009555552",
+  "ratingBreakdown": {
+    "1": 129,
+    "2": 44,
+    "3": 40,
+    "4": 94,
+    "5": 283
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEdTaTpM2HdFWRlcFSOUiPN_bGMKCZxPXslGGmvdo6_ct4WqrfxKWH1ttFDdjAcBSVT1DXtTKhl4fEd8KzNhjlonFaC9q4kBJXjQ64MGOz1gjnUUmjyTCdIKejFnZY---dz4j0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:30 AM - 1 AM",
+    "tue": "10:30 AM - 1 AM",
+    "wed": "10:30 AM - 1 AM",
+    "thu": "10:30 AM - 1 AM",
+    "fri": "10:30 AM - 2 AM",
+    "sat": "10:30 AM - 2 AM",
+    "sun": "10:30 AM - 1 AM"
+  },
+  "website": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
+  "lat": 44.0941149,
+  "lng": -123.12701779999999
 }

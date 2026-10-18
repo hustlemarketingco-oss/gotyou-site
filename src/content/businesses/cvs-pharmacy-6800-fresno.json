@@ -13,5 +13,36 @@
   "groundgameId": "6941040232cf22283988d081",
   "seededAt": "2025-12-16T07:02:26Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ5WvSVsxolIARWlJISTXLGhI",
+  "googleCid": "1304578471800361562",
+  "googleMapsUrl": "https://maps.google.com/?cid=1304578471800361562",
+  "googleRating": 4.2,
+  "googleReviewCount": 63,
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 3,
+    "4": 9,
+    "5": 41
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsv6CooMu4mJSwt2LcKWqOxameQeTs5B2hGBFfy2uk8GI_WZkF1OgZAExpdUIHSuhrQibOCsBV0tt0A7E3NxZydhy3Zhxz9tYkXmIgvH6Kj1ulPv7tZeYkuUeHZe0Ij4uUvMYAGoUzbhpZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=9846&postalCode=93722&rwg_token=AE37R_g1e4B3_Zrnl4_5Adc2Yzq9FUZS80VUfYRWD1MaVBT9fxWQ68m2icTfOb-EHP1TtCzuDSTh5TcTzFvJwhaY_IX5-Rc24wHXde9LXtpNj-3lwjlOVDU%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/fresno-ca-pharmacies/6800-n-milburn-ave-fresno-ca-93722/storeid=9846?WT.mc_id=LS_GOOGLE_RX_9846",
+  "lat": 36.8365957,
+  "lng": -119.8783888
 }

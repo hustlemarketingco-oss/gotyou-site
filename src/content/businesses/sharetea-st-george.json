@@ -15,7 +15,7 @@
   "website": "https://www.1992sharetea.com/",
   "placeId": "ChIJOYyjOTRbyoARBNDeb691CSw",
   "googleRating": 4.5,
-  "googleReviewCount": 132,
+  "googleReviewCount": 146,
   "priceRange": "$",
   "sameAs": [
     "https://www.facebook.com/ShareteaUSA",
@@ -29,5 +29,31 @@
   "groundgameId": "69410a2cf8f64342f65675fd",
   "seededAt": "2025-12-16T07:28:44Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3173196808815824900",
+  "googleMapsUrl": "https://maps.google.com/?cid=3173196808815824900",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 6,
+    "3": 4,
+    "4": 3,
+    "5": 123
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckBwlvZTMsM4PVtJ8x7dX7Z9OQKVmpbBXwLXexfiwj-3EUXCmb8whzSzjavSLL8B00IZQ8Th_mwqjoNx-lMd_zdgdUjaMTkjHtJAbWNgG6QH-rLsoKdU1ksXHHM-y1N7owy3nL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 7:30 PM",
+    "tue": "11 AM - 7:30 PM",
+    "wed": "11 AM - 7:30 PM",
+    "thu": "11 AM - 7:30 PM",
+    "fri": "11 AM - 8:30 PM",
+    "sat": "11 AM - 8:30 PM",
+    "sun": "12 - 4:30 PM"
+  }
 }

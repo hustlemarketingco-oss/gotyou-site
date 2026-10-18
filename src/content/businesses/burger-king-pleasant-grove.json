@@ -16,12 +16,12 @@
   "lng": -111.76375449999999,
   "phone": "+13852735899",
   "website": "https://burgerking.com/store-locator/store/32193",
-  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x874d83003fc1aa5b:0xb0d269ea9e19eaf2!8m2!3d40.3586248!4d-111.7637545!16s%2Fg%2F11v_8b_vks!19sChIJW6rBPwCDTYcR8uoZnupp0rA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=12741362752180316914",
   "googleCid": "12741362752180316914",
   "placeId": "ChIJW6rBPwCDTYcR8uoZnupp0rA",
   "googleRating": 3.8,
-  "googleReviewCount": 272,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlGZU-EbP8r0wVZqx_CoJ5QOdAD1U7Z00iPCwafKzcyT4Or-ntVg0xEZz5PDhRnyCYrUuHyozv4o8a3M7C1E7xzSAgdHZgmJKoEo3vi66jnrPbnPMWiqV-AQyfOFkSx9TuDg3e3a5Zeoj8=w1200-h800-k-no",
+  "googleReviewCount": 275,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe76-ealgNKmK2bElrb1bdvB8ApRLKa-BesU4fG7xaKAVISGLdhUg2rLRUSeELo9K9LBcHfwHtKmb_nsM-qpeoMFnwv9F0PFS4TeYptEPsxCM23C8pEEky9LJGQNj0mbvOypxd-7uMnO8A=w1200-h800-k-no",
   "description": "This Burger King on Pleasant Grove Boulevard serves the chain's flame-grilled burgers, fries and shakes, plus breakfast. It opens at 6 AM and stays open until 2 AM, so it covers both early mornings and late nights.",
   "amenities": [
     "Wheelchair accessible entrance",
@@ -30,10 +30,10 @@
   ],
   "ratingBreakdown": {
     "1": 57,
-    "2": 16,
+    "2": 17,
     "3": 16,
     "4": 25,
-    "5": 158
+    "5": 160
   },
   "hours": {
     "mon": "6:00 AM - 2:00 AM",
@@ -51,5 +51,6 @@
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fef84e113a90b0ad27f0"
+  "groundgameId": "6940fef84e113a90b0ad27f0",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

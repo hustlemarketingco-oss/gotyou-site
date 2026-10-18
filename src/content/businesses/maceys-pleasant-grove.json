@@ -13,5 +13,37 @@
   "groundgameId": "6940fa09eb14f921f2f5adc9",
   "seededAt": "2025-12-16T06:19:53Z",
   "updatedAt": "2025-12-16T06:41:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ0VGJQASETYcROPD3z60f2Wg",
+  "googleCid": "7555104681269653560",
+  "googleMapsUrl": "https://maps.google.com/?cid=7555104681269653560",
+  "googleRating": 4.4,
+  "googleReviewCount": 2176,
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 48,
+    "3": 168,
+    "4": 552,
+    "5": 1359
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQtVnBoenJeywswv25CAZ_B_8DU1z_WNDlKvwCcTXrmLJMWR31lTogRYsIC3VnjVV2smG_2WiPbkX5Oeyi9j3pYcxXrzZG8_v5FxkwDX0QVJoT1r40XhSy4sD2oFVLoo966ooT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 11 PM",
+    "tue": "6 AM - 11 PM",
+    "wed": "6 AM - 11 PM",
+    "thu": "6 AM - 11 PM",
+    "fri": "6 AM - 12 AM",
+    "sat": "6 AM - 12 AM",
+    "sun": "7 AM - 10 PM"
+  },
+  "website": "http://www.maceys.com/",
+  "lat": 40.364785399999995,
+  "lng": -111.7543077
 }

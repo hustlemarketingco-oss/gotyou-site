@@ -8,13 +8,40 @@
   "zip": "84770",
   "phone": "+14356527500",
   "placeId": "ChIJn4nRvylbyoARZRJCUZvm3pY",
-  "googleRating": 4.2,
-  "googleReviewCount": 340,
+  "googleRating": 4.3,
+  "googleReviewCount": 384,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d0215c3574cdfc03d7eb",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10871380105276559973",
+  "googleMapsUrl": "https://maps.google.com/?cid=10871380105276559973",
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 6,
+    "3": 18,
+    "4": 38,
+    "5": 276
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcq56a0MktGQIT_bEFZX8kJl1kaWrFEazKM8o4IYOp-pA0hTdAqTLLfXJrfQVWM6d7NbL4dzTs7udGkS0mkXOzu3GA_CuKjyTzCIaZdx_JMbXGLsruFP4LKoV_0ogZ2f469jSoL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 5 PM",
+    "tue": "8 AM - 5 PM",
+    "wed": "8 AM - 5 PM",
+    "thu": "8 AM - 5 PM",
+    "fri": "8 AM - 5 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "website": "https://utahtech.edu/",
+  "lat": 37.1028759,
+  "lng": -113.56541
 }

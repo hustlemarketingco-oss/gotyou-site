@@ -16,23 +16,23 @@
   "lng": -111.6611946,
   "phone": "+18014181100",
   "website": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-  "googleMapsUrl": "https://www.google.com/maps/place/Domino%27s+Pizza/data=!4m7!3m6!1s0x874d90a143f613d5:0x201ca28e6ada868d!8m2!3d40.2510626!4d-111.6611946!16s%2Fg%2F1tg50xg1!19sChIJ1RP2Q6GQTYcRjYbaao6iHCA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=2313903041123354253",
   "googleCid": "2313903041123354253",
   "placeId": "ChIJ1RP2Q6GQTYcRjYbaao6iHCA",
   "googleRating": 3.2,
   "googleReviewCount": 686,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbSfnr0rLEcKq2EBdYa8VOnMy06nyLpu6w0DhefqNEbIaN17CfJT6d9xbnTARR6kJzHnqVN33end4as9xIbl_t1Ugb0GxOZk_NXZuFZvLeO909Slg4FvG34JhKBUb7G15OCx6v0Q=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKH4VQTftdl00BXD_K7-8awPcOPKENZjJz1zBBhpA9Ma9FOPvZ05nXQw_Q1pbMC-Hz4YTz9EQ55_Q4_L4frRnUMxBmpaVo0lKyNq4zpNIC_7DEC9otoIZ48NMJQBZgSL61nT3bwg=w1200-h800-k-no",
   "description": "This Domino's on West Cougar Boulevard offers delivery, carryout and dine-in pizza, wings and sides. It's open from 10 AM to midnight, later on weekends.",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
   "ratingBreakdown": {
-    "1": 234,
-    "2": 52,
-    "3": 45,
+    "1": 233,
+    "2": 51,
+    "3": 46,
     "4": 86,
-    "5": 269
+    "5": 270
   },
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
@@ -50,5 +50,6 @@
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa1a6c2985593cf4bf3d"
+  "groundgameId": "6940fa1a6c2985593cf4bf3d",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

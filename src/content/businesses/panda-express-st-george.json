@@ -9,7 +9,7 @@
   "phone": "+14356561588",
   "placeId": "ChIJT0iT5JlEyoARhmlumXjJ3Yg",
   "googleRating": 3.9,
-  "googleReviewCount": 640,
+  "googleReviewCount": 668,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d0220624cb21e341795f",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9862260278818662790",
+  "googleMapsUrl": "https://maps.google.com/?cid=9862260278818662790",
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 38,
+    "3": 55,
+    "4": 135,
+    "5": 338
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrJ3PKdsVtnGKELXM-mMkV93wUSnrbTwamduQkCAawA184R-ZEprJeGDZZnkTMCuSu2d39zKvtw8dezv7rxSgYAu-8hmxkoJ4-ZlAZ_gSWD_NuodjOoToLgz7SHwbns-Sjhp4e=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 10:30 PM",
+    "tue": "10 AM - 10:30 PM",
+    "wed": "10 AM - 10:30 PM",
+    "thu": "10 AM - 10:30 PM",
+    "fri": "10 AM - 10:30 PM",
+    "sat": "10 AM - 10:30 PM",
+    "sun": "10 AM - 10:30 PM"
+  },
+  "website": "https://www.pandaexpress.com/locations/ut/saint-george/809?utm_source=google_gbp&utm_medium=organic&utm_campaign=websitelink",
+  "lat": 37.1248747,
+  "lng": -113.6013637
 }

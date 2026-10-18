@@ -13,5 +13,37 @@
   "groundgameId": "6940feec8030474d3ceab422",
   "seededAt": "2025-12-16T06:40:44Z",
   "updatedAt": "2025-12-16T06:40:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJOS2XbeKaTYcReZ4SBkLRU24",
+  "googleCid": "7949927848738987641",
+  "googleMapsUrl": "https://maps.google.com/?cid=7949927848738987641",
+  "googleRating": 3.9,
+  "googleReviewCount": 36,
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "3": 6,
+    "4": 12,
+    "5": 14
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdORFtRIvLT0fEaSyv9OjVyHlt2nte-vtJUap2OqpP0x5j7YHiIvKUpcTETGTTHYRt2SGozXhAe-6qQ5m7g0lNka1L3vCgfP4GSHZGytTsQsHl05KdissvGwCzQkTnpztF4Eq_j=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 4 PM",
+    "tue": "8 AM - 4 PM",
+    "wed": "8 AM - 4 PM",
+    "thu": "8 AM - 4 PM",
+    "fri": "8 AM - 4 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "website": "https://www.uvu.edu/dining/",
+  "lat": 40.27822,
+  "lng": -111.713619
 }

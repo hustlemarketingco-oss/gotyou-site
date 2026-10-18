@@ -9,12 +9,38 @@
   "phone": "+14356889472",
   "placeId": "ChIJv1-DsydFyoAR6QuSIxCTwtM",
   "googleRating": 4.4,
-  "googleReviewCount": 480,
+  "googleReviewCount": 506,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d0218dd52fe72f59fa6f",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15258920185010195433",
+  "googleMapsUrl": "https://maps.google.com/?cid=15258920185010195433",
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 15,
+    "3": 29,
+    "4": 87,
+    "5": 347
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftuG5PnXxzJWQfSu4zTg_q_LLf6QH1L5uIDQZ1reo31ZoVYGNFn1ur2ggpE5gMLkt4Y3HpjMKVt75AybPDBAT8BCbJ7R0NhRsbAdml0qm2ERiauOWgnRjP0GaaPfNVPP3FVdEY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7:30 AM - 9 PM",
+    "tue": "7:30 AM - 9 PM",
+    "wed": "7:30 AM - 9 PM",
+    "thu": "7:30 AM - 9 PM",
+    "fri": "7:30 AM - 9 PM",
+    "sat": "7:30 AM - 9 PM",
+    "sun": "8 AM - 8 PM"
+  },
+  "website": "https://www.autozone.com/locations/ut/saint-george/780-s-bluff-st.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:873",
+  "lat": 37.094858099999996,
+  "lng": -113.58730089999999
 }

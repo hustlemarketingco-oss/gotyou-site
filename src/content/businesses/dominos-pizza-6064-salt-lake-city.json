@@ -13,5 +13,35 @@
   "groundgameId": "6940ff8fd4247bc03d97bb20",
   "seededAt": "2025-12-16T06:43:27Z",
   "updatedAt": "2025-12-16T06:43:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJAWlKU5aJUocRXno08OOa0uo",
+  "googleCid": "16920757053762599518",
+  "googleMapsUrl": "https://maps.google.com/?cid=16920757053762599518",
+  "googleRating": 3.5,
+  "googleReviewCount": 612,
+  "ratingBreakdown": {
+    "1": 166,
+    "2": 32,
+    "3": 45,
+    "4": 56,
+    "5": 313
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyopRxudMlpNRoqRTbiDvkUTNW3i8aFKPrqZ6KcrdwxNqeq-Ht47jlOAFoVAop3Qaj7RqNCIB_-21JRdtz1h5qUJ-Fgwxjk6gxZuji_VOHcipVr_WKbsYDAlLFk_BUTLxEehx8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 12 AM",
+    "tue": "10 AM - 12 AM",
+    "wed": "10 AM - 12 AM",
+    "thu": "10 AM - 12 AM",
+    "fri": "10 AM - 1 AM",
+    "sat": "10 AM - 1 AM",
+    "sun": "10 AM - 12 AM"
+  },
+  "website": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
+  "lat": 40.639265699999996,
+  "lng": -111.88947119999999
 }

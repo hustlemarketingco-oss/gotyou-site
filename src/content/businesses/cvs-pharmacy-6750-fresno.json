@@ -13,5 +13,35 @@
   "groundgameId": "694103e93b87487a596585ab",
   "seededAt": "2025-12-16T07:02:01Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJB2VEty9dlIARpw3pYUA0ieY",
+  "googleCid": "16611866151657999783",
+  "googleMapsUrl": "https://maps.google.com/?cid=16611866151657999783",
+  "googleRating": 3.7,
+  "googleReviewCount": 23,
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "4": 2,
+    "5": 14
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHuQDkQN2vmazfQTGmvwExWEz6oOs4KARaPK5OHUq8Qe9D_8HJgDwwfYKjoWnmuJ2KUt6Pht8ALAOXaFCPGWF_z__4ftmfm6lC5rXh4jjPJ8JgV3UFenw_rVhnDBASd7wluZn2XE49s32X=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=9149&postalCode=93710&rwg_token=AE37R_hTJuasPuq_AMh6tGm0ZitNdTcf6D4elZ25rcqioiBQTbkneaPy8zQHh6Bq25vFDnXhBf_8IurszbTSce2xX5g7UDsOJvpj-N5r8qm-JyFtw2Sz37k%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/fresno-ca-pharmacies/6750-n-cedar-ave-fresno-ca-93710/storeid=9149?WT.mc_id=LS_GOOGLE_RX_9149",
+  "lat": 36.8365456,
+  "lng": -119.7522856
 }

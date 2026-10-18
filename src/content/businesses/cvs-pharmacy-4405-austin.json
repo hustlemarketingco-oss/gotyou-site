@@ -13,5 +13,36 @@
   "groundgameId": "6940fdccba67e8f7d2ff7154",
   "seededAt": "2025-12-16T06:35:56Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJKVZuuUG0RIYRJ0jlsP--up0",
+  "googleCid": "11365606615016622119",
+  "googleMapsUrl": "https://maps.google.com/?cid=11365606615016622119",
+  "googleRating": 3.9,
+  "googleReviewCount": 55,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 5,
+    "3": 4,
+    "4": 8,
+    "5": 31
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIrofzmIZr_xQkWo-u1SXjvBGiFcYxgEV9fz3_y09q5-tH_WTvg9_nEUTvGMoyamGoK9BpgVhiHnzjRfPlw8gqfVy1Oz9JHSDS0zxD3guX4CYtGT-eTBg1MF9cq7axGmRnD1LxkMrAwTxC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=6945&postalCode=78741&rwg_token=AE37R_gnnP5WRPZVvfYOVgLRyTePRiHVP3nJACAnR24OIo7rSRghqpi8KjSwuljcqwfScW-ZwQXNbBcSBvano4xMY8g1y2fUZpsCn77KcXxxLEOpIliTJP4%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 10 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 10 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 10 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 10 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 10 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/4405-e-riverside-dr-austin-tx-78741/storeid=6945?WT.mc_id=LS_GOOGLE_RX_6945",
+  "lat": 30.232894199999997,
+  "lng": -97.7235524
 }

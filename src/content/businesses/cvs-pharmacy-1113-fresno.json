@@ -13,5 +13,34 @@
   "groundgameId": "694103fe8761ad922945ed0f",
   "seededAt": "2025-12-16T07:02:22Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJQyZ4Qu1ClIARiUU_TY8IdVE",
+  "googleCid": "5869607100916647305",
+  "googleMapsUrl": "https://maps.google.com/?cid=5869607100916647305",
+  "googleRating": 4.2,
+  "googleReviewCount": 26,
+  "ratingBreakdown": {
+    "1": 4,
+    "4": 5,
+    "5": 17
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfERkyzDMWtQijGvEFOStKu2oIyMkScyTlYL2kY_nABrcOORBmRKzPGY3K7xNh8IGzPWHt3h3Z6P5MkPpSv_UQ4nof9XBRRKM2mLFyFMqC3lWhiSoSq0P5h5HqBBs_BmCLib9uJ9-68WLzf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=9391&postalCode=93720&rwg_token=AE37R_hljBHtyrflsLFgRYbDdlbMkfQuFqASoq1-5nnbG7A6PTxEpbOOxK8I66PncsVRNkXDSQWD5vwXtiTZ0Q4qeyE4W-yxXhf4g8Jtz0pnBwmyU37LV-g%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/fresno-ca-pharmacies/1113-e-champlain-dr-fresno-ca-93720/storeid=9391?WT.mc_id=LS_GOOGLE_RX_9391",
+  "lat": 36.8700502,
+  "lng": -119.7644093
 }

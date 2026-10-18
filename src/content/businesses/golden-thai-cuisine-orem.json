@@ -13,5 +13,37 @@
   "groundgameId": "6940ff544e113a90b0ad2826",
   "seededAt": "2025-12-16T06:42:28Z",
   "updatedAt": "2025-12-16T06:42:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJZ_mTTTSbTYcR2lzK0Tm-_uA",
+  "googleCid": "16212604864122477786",
+  "googleMapsUrl": "https://maps.google.com/?cid=16212604864122477786",
+  "googleRating": 4.5,
+  "googleReviewCount": 413,
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 15,
+    "3": 20,
+    "4": 32,
+    "5": 326
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOlzFefti_Mx39eOa5LwVKzMqjxzAw3fDqmQpmFEsqkQe1sAywTFGCyeY1zXJIqDnXZnQzz3V4OXAXkikGfZG-3gEQ04KEbz_IPnMGJugQTY5YlMtwFTi8x1qY6W99gZm_XTaS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11:30 AM - 3 PM, 4:30 - 9 PM",
+    "tue": "11:30 AM - 3 PM, 4:30 - 9 PM",
+    "wed": "11:30 AM - 3 PM, 4:30 - 9 PM",
+    "thu": "11:30 AM - 3 PM, 4:30 - 9 PM",
+    "fri": "11:30 AM - 3 PM, 4:30 - 9 PM",
+    "sat": "11:30 AM - 9 PM",
+    "sun": "Closed"
+  },
+  "website": "https://thegoldenthaicuisine.com/",
+  "lat": 40.2775715,
+  "lng": -111.6770698
 }

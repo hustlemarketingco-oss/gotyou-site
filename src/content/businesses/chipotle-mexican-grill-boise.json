@@ -13,5 +13,37 @@
   "groundgameId": "6940fe1f36c6dc76c53c4b37",
   "seededAt": "2025-12-16T06:37:19Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ13nc6Pr4rlQRvjh4aVIgFRk",
+  "googleCid": "1807386363788015806",
+  "googleMapsUrl": "https://maps.google.com/?cid=1807386363788015806",
+  "googleRating": 3.5,
+  "googleReviewCount": 894,
+  "ratingBreakdown": {
+    "1": 215,
+    "2": 43,
+    "3": 77,
+    "4": 174,
+    "5": 385
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3Gg0wEzFMqiLUP4V2p0y9R_CWiCq2BfgaOVAn46XzY82X_INtU_DN6-irhj6irqpVml28Fdnp-AniYo6j5Df_xVnqmua9HTAQf5JQ0KRyWaW8UvGRcS87PnpsEn4iK0orV4XUYA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:45 AM - 11 PM",
+    "tue": "10:45 AM - 11 PM",
+    "wed": "10:45 AM - 11 PM",
+    "thu": "10:45 AM - 11 PM",
+    "fri": "10:45 AM - 11 PM",
+    "sat": "10:45 AM - 11 PM",
+    "sun": "10:45 AM - 11 PM"
+  },
+  "website": "https://locations.chipotle.com/id/boise/305-s-6th-st?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=2259",
+  "lat": 43.6126681,
+  "lng": -116.20309359999999
 }

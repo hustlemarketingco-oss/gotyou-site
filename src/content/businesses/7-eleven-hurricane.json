@@ -9,8 +9,8 @@
   "phone": "+14356357529",
   "website": "http://www.resortretailers.com/",
   "placeId": "ChIJZzDG3r_2yoARJasySFOgXLc",
-  "googleRating": 3.6,
-  "googleReviewCount": 32,
+  "googleRating": 3.9,
+  "googleReviewCount": 51,
   "sameAs": [
     "https://www.facebook.com/7Eleven",
     "https://www.instagram.com/7eleven",
@@ -23,5 +23,31 @@
   "groundgameId": "6940cace673b640c42ac0452",
   "seededAt": "2025-12-16T02:58:22Z",
   "updatedAt": "2025-12-16T07:27:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13212611686352202533",
+  "googleMapsUrl": "https://maps.google.com/?cid=13212611686352202533",
+  "ratingBreakdown": {
+    "1": 9,
+    "3": 5,
+    "4": 12,
+    "5": 25
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-s1uuUsR7VqW7wwwXBP0q2fYdD6-ZVE6HVULvrk94s6-lkMtvKeyVx_9CHacYI9JxQ74M3S-w_nFUh1mvUm7JTRiiqh5ifrXo8CIRCKPX_JOgE0bHrlzwBAmTCbyEYHgxREo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 37.1769114,
+  "lng": -113.3105811
 }

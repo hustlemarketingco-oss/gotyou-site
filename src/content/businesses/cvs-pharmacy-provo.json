@@ -13,5 +13,36 @@
   "groundgameId": "6940fa235bc92bab3c308e2b",
   "seededAt": "2025-12-16T06:20:19Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ4w3B6KOQTYcRMlubdnuHQIc",
+  "googleCid": "9745938557970373426",
+  "googleMapsUrl": "https://maps.google.com/?cid=9745938557970373426",
+  "googleRating": 3.5,
+  "googleReviewCount": 70,
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 4,
+    "3": 6,
+    "4": 13,
+    "5": 30
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeywUxx283Bj5GSG-gWu1U-CL3Er_6rfUtygXmSBw3LdO2QLYIBGGWsZhasCUCL6NbrquqSjQeAnAiNA8e0XX32yAK5ETj_rPM9xdfxXh1vzTf4DAiHjaWiKI9Xnq_WCiCXbaFxUpcM8ooQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10230&postalCode=84604&rwg_token=AE37R_hjFhhSW0F2k04Z86-qMPt61ew619xGoqV0hLo2V8tPZSMJuC63C0bmUznipnobeJEO_DU4WxniCNxzMNR5kCFYjgtNTTbLdewULMqyI_hXNnkiJqQ%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/provo-ut-pharmacies/1273-n-university-ave-provo-ut-84604/storeid=10230?WT.mc_id=LS_GOOGLE_RX_10230",
+  "lat": 40.251258899999996,
+  "lng": -111.65919749999999
 }

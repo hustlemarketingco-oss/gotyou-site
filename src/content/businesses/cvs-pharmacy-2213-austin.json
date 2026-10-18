@@ -13,5 +13,36 @@
   "groundgameId": "6940fdb32b63acb15ae1cd6e",
   "seededAt": "2025-12-16T06:35:31Z",
   "updatedAt": "2025-12-16T06:35:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJfUbPzpi1RIYRlbN8t4zLVsk",
+  "googleCid": "14508007054854894485",
+  "googleMapsUrl": "https://maps.google.com/?cid=14508007054854894485",
+  "googleRating": 3.6,
+  "googleReviewCount": 46,
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 2,
+    "4": 7,
+    "5": 23
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD6C6VAM13v34jH4iRIciQTXMLlB7WXGmmS00n9XE4bXh2JI6b2gDiTnC3o360hY_FAYKtQrd_WtbgTyG2VfGT2OnIQiwV5wObSUNzEZmInQve_aWwdZfHHh0ypi5QRanXVUBdqfFShcby=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=11210&postalCode=78722&rwg_token=AE37R_int68bqab9AiUb79x3D-mmHbCNxzYVSfsQS-y3pnKNHovibmWxKKeueAbqplPWlWU9dpOxajmaJ1k02bJRHHZzVH4elWH4Pk82v9c7Di9pKWhCksI%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/2213-airport-blvd-austin-tx-78722/storeid=11210?WT.mc_id=LS_GOOGLE_RX_11210",
+  "lat": 30.286096599999997,
+  "lng": -97.70556479999999
 }

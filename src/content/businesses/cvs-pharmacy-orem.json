@@ -13,5 +13,36 @@
   "groundgameId": "6940fed2571302135d69a8b5",
   "seededAt": "2025-12-16T06:40:18Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ90c_ncWaTYcR57rMB-AhfuQ",
+  "googleCid": "16464634533800360679",
+  "googleMapsUrl": "https://maps.google.com/?cid=16464634533800360679",
+  "googleRating": 2.7,
+  "googleReviewCount": 107,
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 7,
+    "3": 10,
+    "4": 8,
+    "5": 33
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvJnCw73z88zPGGLKx2ixYhCQnzP0Exf3LIqNDSSEtxaSpT8VxVSvDBznFAGnGYlrbtCcQhYlUxCqnBM5sxKs8q6yQu9dlDjzz7iir7WYt2jt_rMylhWVPJ1ARTwlKXrVZ6T-C0Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16881&postalCode=84057&rwg_token=AE37R_hXKob4c1ZBzcEeLPebkc0SSEeEYOmpgYWrHwl8GGqKw9Kg9pqkSjWxY0gSHQXLFyFeSTL5RTgEALsVJD-Bf9MZUTVFoQ%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 4 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/orem-ut-pharmacies/175-w-center-st-orem-ut-84057/storeid=16881?WT.mc_id=LS_GOOGLE_RX_16881",
+  "lat": 40.294779399999996,
+  "lng": -111.6983928
 }

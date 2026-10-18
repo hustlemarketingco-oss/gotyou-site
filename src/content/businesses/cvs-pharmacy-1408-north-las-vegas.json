@@ -13,5 +13,36 @@
   "groundgameId": "69410137841b7da135bd0043",
   "seededAt": "2025-12-16T06:50:31Z",
   "updatedAt": "2025-12-16T06:50:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJK6gfsl3pyIARUUu5tLfSql4",
+  "googleCid": "6821496272058927953",
+  "googleMapsUrl": "https://maps.google.com/?cid=6821496272058927953",
+  "googleRating": 4,
+  "googleReviewCount": 43,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 27
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddYwAViuqQUBg3eVF2EJdK17VyXFlI_Uk8m3AgKrK0zA3pNR6GXaIqWubE2ubefInuqHXAgLBX2oK7Ke3rWyZbmzijkFKt-2Req4DqLPYLZXRs6vd_7jML6RShhOsppsVh3FdOycNrxmM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8804&postalCode=89032&rwg_token=AE37R_i4mp8rtuUS__fHUOCQLdivq2xo1-PGHfUwRYONqELRE7jXWSAXF_xrUSewIekuxU05G5zIMfM4l0d5lRm93Z-l3-1SDbPc4zsPzDimFg8JPzLnuLo%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/north-las-vegas-nv-pharmacies/1408-w-craig-rd-north-las-vegas-nv-89032/storeid=8804?WT.mc_id=LS_GOOGLE_RX_8804",
+  "lat": 36.2411191,
+  "lng": -115.1608467
 }

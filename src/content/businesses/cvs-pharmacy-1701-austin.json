@@ -13,5 +13,36 @@
   "groundgameId": "6940fe02353fee45ca3c9381",
   "seededAt": "2025-12-16T06:36:50Z",
   "updatedAt": "2025-12-16T06:36:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ9XlNv9DIRIYRGXZtr8dcCtE",
+  "googleCid": "15062953916405478937",
+  "googleMapsUrl": "https://maps.google.com/?cid=15062953916405478937",
+  "googleRating": 3.6,
+  "googleReviewCount": 65,
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 2,
+    "3": 1,
+    "4": 5,
+    "5": 37
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcX7ciF7qKxj2ah1F3TVXYG-06Uh1vNejGbOvmdkTMQtF_J7q4Ip1XiBrfeFjrZTVcPfwiNDeu2yMGCtt2WwGPQLV6V0yfehoAdV1kwEEWnL9CDDq7OYfsPD_lansR-ThwKcZBLLxryWu0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=357&postalCode=78754&rwg_token=AE37R_hSOA9Q2F2m_PKHAokelMMVKjKC1p0sNTvyKv1Umk48bpa4bbOYm2O5QKAIq7doOrsTyH2mqDsOceQgXYHVxgFFjypLLXRVDlUfB7wOs_LUuv0Spf4%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/1701-e-parmer-ln-austin-tx-78754/storeid=357?WT.mc_id=LS_GOOGLE_RX_357",
+  "lat": 30.385991699999998,
+  "lng": -97.6483351
 }

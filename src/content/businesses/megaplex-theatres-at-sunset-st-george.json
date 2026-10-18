@@ -9,12 +9,34 @@
   "phone": "+14356280000",
   "placeId": "ChIJQ9Q4tZtEyoARvP7m7Rci2-8",
   "googleRating": 4.4,
-  "googleReviewCount": 1785,
+  "googleReviewCount": 1975,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d021fbb4c7b890581a37",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17283445481135341244",
+  "googleMapsUrl": "https://maps.google.com/?cid=17283445481135341244",
+  "ratingBreakdown": {
+    "1": 68,
+    "2": 47,
+    "3": 145,
+    "4": 441,
+    "5": 1274
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-ghfajBlr5ixunSbSJIuHzUeTSK5B5kkx7OKxwp6-aS4e8vtRuew2bl4DQNhF43zf3ALsHsCeQMBRcgc00hnYkhlQimwnx7nVieyqwn0Vb1RnBpWIlOa99bJZftsvvz1sHlgq=w1200-h800-k-no",
+  "amenities": [
+    "Assisted listening devices",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "orderUrl": "https://order.online/store/-616917/?pickup=true&hideModal=true&utm_source=gfo&rwg_token=AE37R_jy1zQvdca_WziAZHZN0AbpXBkvQEGNe4qIv-tK0D0CHnhpf3G1_OHYuYerc_BikVgSh995E-bB3GUCOniT0n9g9MMkKQ%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "website": "https://megaplex.com/st.georgeatsunset",
+  "lat": 37.1263018,
+  "lng": -113.6040762
 }

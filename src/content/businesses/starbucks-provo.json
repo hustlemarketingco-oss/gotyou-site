@@ -15,12 +15,12 @@
   "lng": -111.66645,
   "phone": "+18013563216",
   "website": "https://www.starbucks.com/store-locator",
-  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x874d9b1727892bf9:0x31ffb3a9a7b8afc1!8m2!3d40.253036!4d-111.66645!16s%2Fg%2F11pv294q63!19sChIJ-SuJJxebTYcRwa-4p6mz_zE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=3602795768164429761",
   "googleCid": "3602795768164429761",
   "placeId": "ChIJ-SuJJxebTYcRwa-4p6mz_zE",
   "googleRating": 4.8,
   "googleReviewCount": 18,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-g2K4fUJWyc0iRr1lh7E7x1gc_x8C280v10o0Dv04zBZ7qJrTVzlXq7MiHojPlin8olITzaIU6Jjgj4DNxZY1b4Fj2-j6Xn8ur5AYgoi3ntPLMf2JlN1eFAU7S2ZvZMqUSnCx=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCRf0L9QgIwuJVVCWxR_kIm8uGfnAgpStbd4xtw3SWIZptiIA_WrqQ2P8G-rHyEdlNjdh42VsUJNc8AyB_a-3oBuRe3PBjtjam1rlZkOeTnq_0RNeOTAH9Xm4VbL2H1x4moBT_=w1200-h800-k-no",
   "description": "This Starbucks on North State Street serves handcrafted coffee, espresso and tea, plus breakfast, lunch and pastries. It's open weekdays from 6 AM to 6 PM.",
   "amenities": [
     "Wheelchair accessible entrance",
@@ -49,5 +49,6 @@
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa1e2ed534d96e98bbb1"
+  "groundgameId": "6940fa1e2ed534d96e98bbb1",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

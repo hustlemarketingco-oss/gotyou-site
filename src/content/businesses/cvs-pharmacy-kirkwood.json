@@ -13,5 +13,35 @@
   "groundgameId": "6940fcfb6c2985593cf4c0f5",
   "seededAt": "2025-12-16T06:32:27Z",
   "updatedAt": "2025-12-16T06:32:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJf-6XG4PO2IcRNTVFyU6wNzo",
+  "googleCid": "4195015430349600053",
+  "googleMapsUrl": "https://maps.google.com/?cid=4195015430349600053",
+  "googleRating": 4.5,
+  "googleReviewCount": 38,
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 1,
+    "4": 1,
+    "5": 32
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcILfKf9EBOeyXfQJ4RJl66cepaQnVD_eWko-44uH1xlBcDFRpDnlCY0JwNxhNS3gdmmXqXwma4u22UJ3Ki3i7hPZsyJ9UiTc-VDSfBdlVHPuQy3dp6Iw9Y0N_eZLaV5U4le7rCZg9gb7Lj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16624&postalCode=63122&rwg_token=AE37R_iEoM3dLczbc5Pcu3ImjQEFGhKt83CaOz8362VTxHQHCMZsq1KAXOzUsoDCYv7iUpIbwMu_kNN16eDiAFTY1JxlQ3ABuA%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/kirkwood-mo-pharmacies/1042-s-kirkwood-rd-kirkwood-mo-63122/storeid=16624?WT.mc_id=LS_GOOGLE_RX_16624",
+  "lat": 38.564901899999995,
+  "lng": -90.4041247
 }

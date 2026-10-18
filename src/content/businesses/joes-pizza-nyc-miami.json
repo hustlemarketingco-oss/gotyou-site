@@ -13,5 +13,37 @@
   "groundgameId": "6940f9da58915f89f6a67674",
   "seededAt": "2025-12-16T06:19:06Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJfeXis8232YgRxn5eTkWYd1U",
+  "googleCid": "6158558438887423686",
+  "googleMapsUrl": "https://maps.google.com/?cid=6158558438887423686",
+  "googleRating": 4.5,
+  "googleReviewCount": 1308,
+  "ratingBreakdown": {
+    "1": 78,
+    "2": 26,
+    "3": 60,
+    "4": 127,
+    "5": 1017
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvsj9L68O-SUcN_iZhYNtlg_4U1NfCGK04RW0VYJQDRcLFQpxKPfAYAZpAZ_qtjqa4dIQLFU4ooycb5Np5-RCoxCVRM6VzsCYQwgwTaXxSraRVkV2XzfkC6tRc0xILns9mjiympo7oKPpa=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 3 AM",
+    "tue": "11 AM - 3 AM",
+    "wed": "11 AM - 3 AM",
+    "thu": "11 AM - 4 AM",
+    "fri": "11 AM - 5 AM",
+    "sat": "11 AM - 5 AM",
+    "sun": "11 AM - 3 AM"
+  },
+  "website": "https://www.joespizzanyc.com/locations",
+  "lat": 25.800586,
+  "lng": -80.19979529999999
 }

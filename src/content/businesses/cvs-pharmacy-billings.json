@@ -13,5 +13,35 @@
   "groundgameId": "6940fcdc3635d46374acc1b1",
   "seededAt": "2025-12-16T06:31:56Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJwSDtSaB8SFMRxrUO_Bz_z58",
+  "googleCid": "11515703272162637254",
+  "googleMapsUrl": "https://maps.google.com/?cid=11515703272162637254",
+  "googleRating": 4.1,
+  "googleReviewCount": 17,
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "4": 2,
+    "5": 11
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctY8XsJdKF3b2s05pmCr2fRd4QJDKTa26ULdWb_shx0JGMZQ0LzTkLl0c3zqZvxAR7e-QDg1d5vhp-5hAkX2oOq-qo9ghTir8pDFu8Da6DUAz3oBkLjvv8Vp5K_ALRvZ1T5lJ3AMutF-k7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=5301&postalCode=59102&rwg_token=AE37R_hjhvDYI5N0XmYJsdW3ciR-4bPiorBYAP5X5qrSpgEOlMxYCoJJO6gBivoart82KlH0QkvIIVEEnJz26GdSL83p8TTauqVnY-8QZdqB8BhQ5rWs6No%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/billings-mt-pharmacies/1311-grand-ave-billings-mt-59102/storeid=5301?WT.mc_id=LS_GOOGLE_RX_5301",
+  "lat": 45.784838099999995,
+  "lng": -108.54904499999999
 }

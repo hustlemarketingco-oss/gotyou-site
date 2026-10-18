@@ -8,8 +8,8 @@
   "zip": "84770",
   "phone": "+14356734908",
   "placeId": "ChIJl7tNmS9byoAR4SO1tRHbuPs",
-  "googleRating": 4,
-  "googleReviewCount": 2653,
+  "googleRating": 4.1,
+  "googleReviewCount": 2835,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d022d0df9175b8e5d5cf",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18138488368344146913",
+  "googleMapsUrl": "https://maps.google.com/?cid=18138488368344146913",
+  "ratingBreakdown": {
+    "1": 283,
+    "2": 129,
+    "3": 306,
+    "4": 535,
+    "5": 1582
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-dxQJf3BKfu6HKsK6z92QwJDTYvjeF5RRiQHEH-jVY03y7ZIopKH0hHOjzhBaFSMQGotP_WFJcyY0am4-hUvWAmaP5u71J2nTwlmRn6DCyy0pns3pRAiL0NIUCCBN-KDXMceRiw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "website": "https://locations.dennys.com/UT/SAINT-GEORGE/247053?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "lat": 37.110852799999996,
+  "lng": -113.5623968
 }

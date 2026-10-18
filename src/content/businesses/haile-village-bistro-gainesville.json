@@ -13,5 +13,37 @@
   "groundgameId": "6940fbdc353fee45ca3c91db",
   "seededAt": "2025-12-16T06:27:40Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJBRzORK-96IgRgghpn9AAvZU",
+  "googleCid": "10789781178277234818",
+  "googleMapsUrl": "https://maps.google.com/?cid=10789781178277234818",
+  "googleRating": 4.2,
+  "googleReviewCount": 744,
+  "ratingBreakdown": {
+    "1": 63,
+    "2": 28,
+    "3": 58,
+    "4": 157,
+    "5": 438
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8w9y6b3NCPp2-GAG7F2ZQSIKTHpbxP47wnBw1CpTs2KMsHNAAJ8JJbtzZzygLdyGHUZcATexgAH_2f8bIoCUmclXcpQYZSGObVQopHWhC_vMXNohz7V5Bbijsi4XmkY8LcOFIoT7dB3cT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 8 PM",
+    "tue": "9 AM - 8 PM",
+    "wed": "9 AM - 8 PM",
+    "thu": "9 AM - 8 PM",
+    "fri": "9 AM - 9 PM",
+    "sat": "8 AM - 9 PM",
+    "sun": "9 AM - 8 PM"
+  },
+  "website": "http://www.hailevillagebistro.com/",
+  "lat": 29.605011599999997,
+  "lng": -82.4391813
 }

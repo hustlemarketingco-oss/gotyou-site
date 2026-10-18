@@ -13,5 +13,36 @@
   "groundgameId": "6940fdcf40156f1789de8f69",
   "seededAt": "2025-12-16T06:35:59Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJh4manJKzRIYRmrkuLmURIs0",
+  "googleCid": "14781396053247572378",
+  "googleMapsUrl": "https://maps.google.com/?cid=14781396053247572378",
+  "googleRating": 4,
+  "googleReviewCount": 50,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 4,
+    "3": 1,
+    "4": 10,
+    "5": 28
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdH6Txsftfb14y5NUOZRfJBYs2x_h0zIvkJ3flVevlDNNUTOlqO-SXFlBNGJaVqP-gEKaMkWH9l-kW4Sb3a2wkJb6UmSaKUOlhVHbtJf0_7WkmYiHcohAJMoNQzW1sIVP83gYvcwCI0ABc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=11306&postalCode=78744&rwg_token=AE37R_gvQe4zv7FdsWkPfTvgWSrRbbIqRAw6Ye6o26EgUhcfctPmUxtBwg3eAzm-tVxfQZcvoomGaxtPrz0LfxvpXuRXoZEhHK66fWhgLU91Lt1AhUMzLBo%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 10 PM",
+    "tue": "8 AM - 10 PM",
+    "wed": "8 AM - 10 PM",
+    "thu": "8 AM - 10 PM",
+    "fri": "8 AM - 10 PM",
+    "sat": "8 AM - 10 PM",
+    "sun": "8 AM - 10 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/7101-e-william-cannon-drive-austin-tx-78744/storeid=11306?WT.mc_id=LS_GOOGLE_RX_11306",
+  "lat": 30.1620614,
+  "lng": -97.7257595
 }

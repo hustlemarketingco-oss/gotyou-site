@@ -13,5 +13,36 @@
   "groundgameId": "6940f9cbc9a08f427d77bfc0",
   "seededAt": "2025-12-16T06:18:51Z",
   "updatedAt": "2025-12-16T06:25:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJGa77R3ExWIgRKB6fzOl93XA",
+  "googleCid": "8132794945214815784",
+  "googleMapsUrl": "https://maps.google.com/?cid=8132794945214815784",
+  "googleRating": 3.5,
+  "googleReviewCount": 27,
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 14
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFpqdXXN_7DSRleIpLFbojoR0P4tT8nhTDrbOKK4HosbOomo5bRhCb02yL3mIdfxb6zP172eMdpZ3aGiBdnz-2kZSv99wlnqKJTqcgL2jRyk8Qa9hYiu1bLLbVlCz_PkuNhyu_DUq5ZF3k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=3203&postalCode=29601&rwg_token=AE37R_iBK-pjhHeS4LvG_zR0pSd7yi87EdXzCI7VkDh7B-MqUTt1_vpAxGUbcN45_lBra80Je10IJXWcvAfvCo5t_cQPQ7kaZ_xlI-L4fFyA_UjaKlZAJn0%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/greenville-sc-pharmacies/35-south-main-street-greenville-sc-29601/storeid=3203?WT.mc_id=LS_GOOGLE_RX_3203",
+  "lat": 34.8497167,
+  "lng": -82.3991094
 }

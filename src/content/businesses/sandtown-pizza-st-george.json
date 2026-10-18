@@ -13,8 +13,8 @@
   "phone": "+14359220545",
   "website": "https://www.sandtownpizza.com/",
   "placeId": "ChIJc1YOcgBFyoARnmhsEqj2YUY",
-  "googleRating": 4.6,
-  "googleReviewCount": 304,
+  "googleRating": 4.7,
+  "googleReviewCount": 430,
   "priceRange": "$$",
   "hours": {
     "mon": "4:00 PM - 8:00 PM",
@@ -31,5 +31,25 @@
   "groundgameId": "693fb6ad22ee8792d5e84fb1",
   "seededAt": "2025-12-15T07:20:13Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5071605857119922334",
+  "googleMapsUrl": "https://maps.google.com/?cid=5071605857119922334",
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 8,
+    "3": 20,
+    "4": 22,
+    "5": 364
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0k6oUfJTF-kaZSc6sChJmKov78Ev4c8u_vok1N3W__0xaIidTrD3TODqzEOJMQW7pTbUpLltN6XinxM0fXxOHvQUX8vIYTouX_yZhHaHhUGTiW0cbiVd3fhnXPm9bdW9144UK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://www.google.com/maps/reserve/v/dine/c/Ms3qDlOsGDo?source=pa&opi=79508299",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "lat": 37.1050173,
+  "lng": -113.5924496
 }

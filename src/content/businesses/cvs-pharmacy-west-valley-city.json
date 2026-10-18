@@ -13,5 +13,36 @@
   "groundgameId": "6940ffb68c1865ce65b0d4fc",
   "seededAt": "2025-12-16T06:44:06Z",
   "updatedAt": "2025-12-16T06:44:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJQwc1r5eMUocREBTRoL2elCs",
+  "googleCid": "3140309377468142608",
+  "googleMapsUrl": "https://maps.google.com/?cid=3140309377468142608",
+  "googleRating": 3.9,
+  "googleReviewCount": 132,
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 11,
+    "3": 6,
+    "4": 16,
+    "5": 77
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKBbINV7WR3WMHcDBoJ4onKOzl2jiQxRkac5dybta_GUeCADFCmBLOj2meTHb35JxAxIeqc-_zExyUEf0XZgq1FWoXpoVdpRoTK55s8z-630pwKn1qqvUeE9YKHlgdMUFsRDtPRhhFH2O9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10332&postalCode=84119&rwg_token=AE37R_iYVJcWK9Z-shCGg2mGi_Ycei-XKcWuQYakGVNL2rvxrwbK8lcIOmV203-rHOn02Fs6BXWSxtrqASCBz4TK7ZsCmVxNIGGrBcQauRdb2azeVz4R9eM%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 10 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 10 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 10 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 10 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 10 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 8 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 8 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/west-valley-city-ut-pharmacies/3148-west-3500-south-west-valley-city-ut-84119/storeid=10332?WT.mc_id=LS_GOOGLE_RX_10332",
+  "lat": 40.6972892,
+  "lng": -111.9664746
 }

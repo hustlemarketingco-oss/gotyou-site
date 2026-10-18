@@ -13,5 +13,36 @@
   "groundgameId": "6940fbc202d35be9873621b2",
   "seededAt": "2025-12-16T06:27:14Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJx6__uoL17IgRaL2ujsXckvQ",
+  "googleCid": "17623391032914656616",
+  "googleMapsUrl": "https://maps.google.com/?cid=17623391032914656616",
+  "googleRating": 3.7,
+  "googleReviewCount": 25,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 12
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpJEefvU1b4WNPyRViOTxiIkiu1lsYWLv7q0FOX-u3cMj0ij_Hs84T0piZiVvdfnXbpeSjrehV15ss4_unGuY7nCKaSh8FB_drPkDDEYzrIcNZDBEkjDg1KPPcsx1A5MZ48OdMncsu-TM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10482&postalCode=32304&rwg_token=AE37R_jtVrNlqBcT6C3F0s6clttFSP97E0CmItb1_BgwFqNp1mtcI21FHSWtBenzMYPqJZL6IQSxRojt9G8t5l9T-CDwDZ-Vjk_LnWS2IDHWaVlTvwphdaQ%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/tallahassee-fl-pharmacies/822-west-pensacola-street-tallahassee-fl-32304/storeid=10482?WT.mc_id=LS_GOOGLE_RX_10482",
+  "lat": 30.438921899999997,
+  "lng": -84.29778309999999
 }

@@ -13,5 +13,36 @@
   "groundgameId": "694103a867505fa027c1c3ff",
   "seededAt": "2025-12-16T07:00:56Z",
   "updatedAt": "2025-12-16T07:00:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJs68S6_BB6oAR7Qi9aFgzsKg",
+  "googleCid": "12155271849080326381",
+  "googleMapsUrl": "https://maps.google.com/?cid=12155271849080326381",
+  "googleRating": 3.8,
+  "googleReviewCount": 80,
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 1,
+    "3": 5,
+    "4": 12,
+    "5": 44
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqyyBCPX38OH-g5OKOdQWkqx8VwzC_35lQJwuCbY5YSscWOdqDUGBqTIuw6oB8TyX_hIhi8jELf66NpNCcKe_zCyzxFinZKxhClSeypxSlvVILp5oh-hOsFR0-RybNvOkQYKpqorgFJanz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=5495&postalCode=93309&rwg_token=AE37R_g8wZPh0H1RBTjhcpOcLwfwtuF5o8xoX5C0Hez4rJ0Fc_ARt9FiWPV2vzHo-6EJA4EohB1eQoz__2v7STGFc6m08t7t_acmtq0SOAFZLwTmiS0oVvU%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 12:30 PM, 1 - 9 PM",
+    "tue": "8 AM - 12:30 PM, 1 - 9 PM",
+    "wed": "8 AM - 12:30 PM, 1 - 9 PM",
+    "thu": "8 AM - 12:30 PM, 1 - 9 PM",
+    "fri": "8 AM - 12:30 PM, 1 - 9 PM",
+    "sat": "9 AM - 12:30 PM, 1 - 6 PM",
+    "sun": "10 AM - 12:30 PM, 1 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/5184-stockdale-hwy-bakersfield-ca-93309/storeid=5495?WT.mc_id=LS_GOOGLE_RX_5495",
+  "lat": 35.354671499999995,
+  "lng": -119.0591829
 }

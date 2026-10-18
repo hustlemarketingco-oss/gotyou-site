@@ -9,7 +9,7 @@
   "phone": "+14356882386",
   "placeId": "ChIJ6R34sH1EyoARrTKxjo0pMq4",
   "googleRating": 3.9,
-  "googleReviewCount": 719,
+  "googleReviewCount": 752,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,33 @@
   "groundgameId": "6940d02143dcf12837a57af9",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12552140799396098733",
+  "googleMapsUrl": "https://maps.google.com/?cid=12552140799396098733",
+  "ratingBreakdown": {
+    "1": 77,
+    "2": 52,
+    "3": 100,
+    "4": 197,
+    "5": 326
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcM9ygx4aWhZdtLHiyceXdXCN2devNd8h8UM_vLA5LuROfKHsAZZqDegeUhVRqP7qSpR-aGKafWbwBkZoqHxbeJTzcH6wuS1xMstxn0MFVMzNF-nIR0_64MbXwnwGlYAKoz9LGVNg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6:30 AM - 12 AM",
+    "tue": "6:30 AM - 12 AM",
+    "wed": "6:30 AM - 12 AM",
+    "thu": "6:30 AM - 12 AM",
+    "fri": "6:30 AM - 12 AM",
+    "sat": "6:30 AM - 12 AM",
+    "sun": "6:30 AM - 12 AM"
+  },
+  "website": "https://locations.wendys.com/united-states/ut/st-george/1838-west-sunset-blvd?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+  "lat": 37.1232739,
+  "lng": -113.6229111
 }

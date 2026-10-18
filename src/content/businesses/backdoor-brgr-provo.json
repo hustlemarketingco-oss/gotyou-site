@@ -11,12 +11,12 @@
   "lng": -111.6590391,
   "phone": "+13853840343",
   "website": "http://backdoorbrgr.com/",
-  "googleMapsUrl": "https://www.google.com/maps/place/Backdoor+BRGR/data=!4m7!3m6!1s0x874d91099af7be03:0x11738f86b036cfe3!8m2!3d40.2371728!4d-111.6590391!16s%2Fg%2F11j9128sn2!19sChIJA773mgmRTYcR4882sIaPcxE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=1257506529611272163",
   "googleCid": "1257506529611272163",
   "placeId": "ChIJA773mgmRTYcR4882sIaPcxE",
   "googleRating": 4.5,
-  "googleReviewCount": 1474,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnk-SbfNskDig2rAnXZQim1V5AK3a9CMJH4W4QM2jBxv-mnHp6160aKEB5F91B_9qeY_ozOI1p7P284rGWRxc0I2uTAby5XCcDhHIZLHwCoO1DKu_MAacdCnyYb-AlfO4vkcgayz3qecIXc=w1200-h800-k-no",
+  "googleReviewCount": 1485,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1bFcPLTZgfsblz5vPhLfTu-ydn_AFm6o5QnApPUOujVFu8BwvEdRUSWTqjgbwjkb-UANT7LI93BcOKB1aub0t--16WdfbmNu2Ma753mxoapJ_ntPUF7qlz_8fqfmEqXIx-iq_8Lf7Ouge=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
@@ -26,9 +26,9 @@
   "ratingBreakdown": {
     "1": 86,
     "2": 59,
-    "3": 55,
-    "4": 123,
-    "5": 1151
+    "3": 56,
+    "4": 126,
+    "5": 1158
   },
   "hours": {
     "mon": "11:30 AM - 9:00 PM",
@@ -47,5 +47,6 @@
   "source": "gmaps-scraper",
   "description": "Backdoor BRGR is a burger restaurant on University Avenue in downtown Provo. It's a popular local pick, with nearly 1,500 Google reviews and a 4.5-star average, and it's open for lunch and dinner.",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa1f0891f9230614c2c2"
+  "groundgameId": "6940fa1f0891f9230614c2c2",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

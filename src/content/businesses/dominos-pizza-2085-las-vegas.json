@@ -13,5 +13,35 @@
   "groundgameId": "694101503b68b5ed97ad3ed9",
   "seededAt": "2025-12-16T06:50:56Z",
   "updatedAt": "2025-12-16T06:50:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJoUUHFMbByIARFAD3HaYovpc",
+  "googleCid": "10934221639234551828",
+  "googleMapsUrl": "https://maps.google.com/?cid=10934221639234551828",
+  "googleRating": 3.7,
+  "googleReviewCount": 543,
+  "ratingBreakdown": {
+    "1": 116,
+    "2": 25,
+    "3": 46,
+    "4": 82,
+    "5": 274
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuDp1zHWwyV5PUSqQVQTL38f8_D2BcO9h8LzvKQLihi5wvF1bGIS-z4OK64juvM-t5rlgQ8cP2x3BWOfFdCnakryuh1Zn67VMBgqseO4j-80r-TM6QQ2t4JLqfW6Sx0fvAsLx7tQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 12 AM",
+    "tue": "10 AM - 12 AM",
+    "wed": "11 AM - 12 AM",
+    "thu": "10 AM - 12 AM",
+    "fri": "11 AM - 1 AM",
+    "sat": "10 AM - 1 AM",
+    "sun": "10 AM - 12 AM"
+  },
+  "website": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
+  "lat": 36.197263299999996,
+  "lng": -115.22302959999999
 }

@@ -13,5 +13,34 @@
   "groundgameId": "694103bc5edb3db86aab61f7",
   "seededAt": "2025-12-16T07:01:16Z",
   "updatedAt": "2025-12-16T07:01:16Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJpYcrrJVblIARIsCn4srZeOg",
+  "googleCid": "16751378279413825570",
+  "googleMapsUrl": "https://maps.google.com/?cid=16751378279413825570",
+  "googleRating": 4.5,
+  "googleReviewCount": 19,
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 15
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf07nBTb5WE4sC8sB7ZJlowAP_6XcEBAclW1ClW14ukgI6pB1jbaHY1Lx6fegL7pfpvS62DZblW1Dc6JQvhn4kkbbpMeWHcl8UUvQJk_U5c5jTkHTqYm_xFox_Wj-77SZ9nR6On2JwOkPrS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=3925&postalCode=93611&rwg_token=AE37R_jzIXiXq2VxKUfeS5Qw35BfOdSicEwa9VjJnlogfr9mR6OTpjewfu9i-OUdnlKZlJzCBE9tmSxsz3LrOF-3pGBkV3863WuDmJrXVpH4ca4eDw51enA%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/clovis-ca-pharmacies/2133-shaw-ave-clovis-ca-93611/storeid=3925?WT.mc_id=LS_GOOGLE_RX_3925",
+  "lat": 36.8094934,
+  "lng": -119.67553819999999
 }

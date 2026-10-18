@@ -13,5 +13,38 @@
   "groundgameId": "6940fa4958915f89f6a676de",
   "seededAt": "2025-12-16T06:20:57Z",
   "updatedAt": "2025-12-16T06:59:09Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJcYir0SXf3IAR3vrSxPzFdLo",
+  "googleCid": "13435581277777623774",
+  "googleMapsUrl": "https://maps.google.com/?cid=13435581277777623774",
+  "googleRating": 4.4,
+  "googleReviewCount": 952,
+  "ratingBreakdown": {
+    "1": 45,
+    "2": 46,
+    "3": 62,
+    "4": 160,
+    "5": 639
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9aWuo9s9J9NuJ8k0JcLLRzpz0SH3SbErRB58QUrgMjgbezE2lUkQbkDvKTbHUkYeOn977hBj2q0ARgtjIPB6Nr3oXiVArh2yjLuDHXqbss0Kaqnt9EuMMU1BUL9lu_6H43NLcyAYAwgCD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://www.opentable.com/restaurant/profile/211378?ref=1068",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "5 - 9 PM",
+    "tue": "5 - 9 PM",
+    "wed": "5 - 9 PM",
+    "thu": "5 - 9:30 PM",
+    "fri": "5 - 11 PM",
+    "sat": "5 - 11 PM",
+    "sun": "4:30 - 9 PM"
+  },
+  "website": "https://vacarestaurant.com/",
+  "lat": 33.6922178,
+  "lng": -117.8842931
 }

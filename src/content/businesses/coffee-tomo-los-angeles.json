@@ -13,5 +13,36 @@
   "groundgameId": "694102b9fbb4c7b8905863c6",
   "seededAt": "2025-12-16T06:56:57Z",
   "updatedAt": "2025-12-16T06:56:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ-WkX2XS7woARkFl1H26Twh4",
+  "googleCid": "2216496067803175312",
+  "googleMapsUrl": "https://maps.google.com/?cid=2216496067803175312",
+  "googleRating": 4.2,
+  "googleReviewCount": 329,
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 11,
+    "3": 35,
+    "4": 76,
+    "5": 187
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVH5BMbReCNXnQZH0qM2mjIwnSP9_Q9UZfakzMbRE1aGFoQ9bEkrBKsE3Fs9MWbx053NnNSdiW4imV_c7GHAk-7YrrSHEQLStr_JNmaQSklq1cd-0zL7m-BLVpzBrjaM0WGudgsg2jp5Kh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7:30 AM - 5:30 PM",
+    "tue": "7:30 AM - 5:30 PM",
+    "wed": "7:30 AM - 5:30 PM",
+    "thu": "7:30 AM - 5:30 PM",
+    "fri": "7:30 AM - 5:30 PM",
+    "sat": "8 AM - 5:30 PM",
+    "sun": "8 AM - 5:30 PM"
+  },
+  "lat": 34.0394602,
+  "lng": -118.4428837
 }

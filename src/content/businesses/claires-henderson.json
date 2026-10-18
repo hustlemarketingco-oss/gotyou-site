@@ -13,5 +13,36 @@
   "groundgameId": "694101279be341bed1d6b742",
   "seededAt": "2025-12-16T06:50:15Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJTRJlLPHQyIARfcXWk0aSwEY",
+  "googleCid": "5098235610009093501",
+  "googleMapsUrl": "https://maps.google.com/?cid=5098235610009093501",
+  "googleRating": 4.5,
+  "googleReviewCount": 125,
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 3,
+    "3": 8,
+    "4": 16,
+    "5": 93
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvEPhononiFFKSSNyJbit8sO1dmyPtWgGbYqnqj02fhe_ekQdIqQ9o8DaQRR1CVAaI1aGE4vSpUshbhr3trkrcZugC_gOLRYdCnxCRFgmnE9aZ9U0Sj0G0kP-5au9-MmfH7_ShWw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://app.acuityscheduling.com/schedule.php?owner=37310848&calendarID=12933992&ref=booking_button",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 8 PM",
+    "tue": "10 AM - 8 PM",
+    "wed": "10 AM - 8 PM",
+    "thu": "10 AM - 8 PM",
+    "fri": "10 AM - 9 PM",
+    "sat": "10 AM - 9 PM",
+    "sun": "11 AM - 6 PM"
+  },
+  "website": "https://stores.claires.com/nv/henderson/6454.html",
+  "lat": 36.0673234,
+  "lng": -115.0416159
 }

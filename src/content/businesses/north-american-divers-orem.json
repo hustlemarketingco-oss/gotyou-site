@@ -13,5 +13,36 @@
   "groundgameId": "6940ff3cec122db612223ad2",
   "seededAt": "2025-12-16T06:42:04Z",
   "updatedAt": "2025-12-16T06:42:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJpbYUCpOaTYcRnsWdgb09gJU",
+  "googleCid": "10772678192802940318",
+  "googleMapsUrl": "https://maps.google.com/?cid=10772678192802940318",
+  "googleRating": 4.8,
+  "googleReviewCount": 84,
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 2,
+    "4": 3,
+    "5": 77
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFR44h3QpZaaG-l4unL3dhhsHkxWDYAC7Lk8wYVj8u3m4EJ26lL1ZeLDQfnXDz-uVDOToXmBpRwqOa09xYUMdnwwtCUtvyqQSFz0Ua05FwAaRfCzydhbeyv6V0xymUCzRUYom4pQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 5 PM",
+    "tue": "10 AM - 6 PM",
+    "wed": "10 AM - 6 PM",
+    "thu": "10 AM - 6 PM",
+    "fri": "10 AM - 6 PM",
+    "sat": "10 AM - 5 PM",
+    "sun": "Closed"
+  },
+  "website": "https://www.nadivers.com/",
+  "lat": 40.2820299,
+  "lng": -111.68663319999999
 }

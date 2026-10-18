@@ -13,5 +13,37 @@
   "groundgameId": "6940fefb369190707316351e",
   "seededAt": "2025-12-16T06:40:59Z",
   "updatedAt": "2025-12-16T06:40:59Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJxR9UiQ6BTYcRJNkM-uBMJgw",
+  "googleCid": "875471706721671460",
+  "googleMapsUrl": "https://maps.google.com/?cid=875471706721671460",
+  "googleRating": 4.7,
+  "googleReviewCount": 811,
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 21,
+    "3": 16,
+    "4": 48,
+    "5": 708
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-YWXKlAY6_uq2R6Zui1JDdD1Mrhd3EiF9CyC2TcfrAOabPLAXIRHSgKEltcHLC1LeyG3Qmpy82ndia-5Zf6LNuor_SaFrZ2poGnZDoTU4FOHT-viaJaWPMD5ji8UrVSYo6wbe3QOTy3qz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:30 AM - 9 PM",
+    "tue": "10:30 AM - 9 PM",
+    "wed": "10:30 AM - 9 PM",
+    "thu": "10:30 AM - 9 PM",
+    "fri": "10:30 AM - 9 PM",
+    "sat": "10:30 AM - 9 PM",
+    "sun": "Closed"
+  },
+  "website": "https://www.cupbop.com/",
+  "lat": 40.4122211,
+  "lng": -111.7729122
 }

@@ -13,5 +13,35 @@
   "groundgameId": "6940fcf78e52eb2b35427a38",
   "seededAt": "2025-12-16T06:32:23Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ3RwS4b7SD4gRRXaKzMRNhVc",
+  "googleCid": "6306532360842802757",
+  "googleMapsUrl": "https://maps.google.com/?cid=6306532360842802757",
+  "googleRating": 4.3,
+  "googleReviewCount": 137,
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 4,
+    "3": 9,
+    "4": 26,
+    "5": 88
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYP4qn_ARgCgyR5SpUa1W0dCBKj227UIJp_OPygqtsOHe2lO4C04tjJuE67JZF9iGI06o5R9gWdYBY2Q_xNcMsUZoPLr4EyJq_TsEAqPtLI-hGdJPGMP9o1fyKuGV-nHyRTaYG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "12 - 8 PM",
+    "tue": "10 AM - 6 PM",
+    "wed": "12 - 8 PM",
+    "thu": "10 AM - 6 PM",
+    "fri": "9 AM - 5 PM",
+    "sat": "9 AM - 5 PM",
+    "sun": "1 - 5 PM"
+  },
+  "website": "https://www.chipublib.org/locations/15/",
+  "lat": 41.9124479,
+  "lng": -87.68035189999999
 }

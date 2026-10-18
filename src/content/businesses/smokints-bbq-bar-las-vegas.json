@@ -13,5 +13,38 @@
   "groundgameId": "694102a71c04d16b88063728",
   "seededAt": "2025-12-16T06:56:39Z",
   "updatedAt": "2025-12-16T06:56:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJMzjvsHO_yIARQ6WEc0WpAbo",
+  "googleCid": "13403180081787217219",
+  "googleMapsUrl": "https://maps.google.com/?cid=13403180081787217219",
+  "googleRating": 4.6,
+  "googleReviewCount": 608,
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 23,
+    "3": 22,
+    "4": 34,
+    "5": 499
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0fbuhiST0SqfEW0ym16mXJfUX-hXIBoEMgB2ZkUtnRREygHukNX_DUb7120Jdrn8dBuHP65x10pHce44euD0Eo8HnMFwwigIYvix7f0p_5HrRrkXnwtyS5A96ewxNxinMD4AM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://smokintsbbqbar.com/",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 9 PM",
+    "tue": "11 AM - 9 PM",
+    "wed": "11 AM - 9 PM",
+    "thu": "11 AM - 9 PM",
+    "fri": "11 AM - 10 PM",
+    "sat": "11 AM - 10 PM",
+    "sun": "11 AM - 9 PM"
+  },
+  "website": "https://smokintsbbqbar.com/",
+  "lat": 36.11542,
+  "lng": -115.2982509
 }

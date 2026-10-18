@@ -13,5 +13,37 @@
   "groundgameId": "6941035f864c5116f520a872",
   "seededAt": "2025-12-16T06:59:43Z",
   "updatedAt": "2025-12-16T06:59:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ4aJpa9DX3IARLIwZRQVzv08",
+  "googleCid": "5746438116019375148",
+  "googleMapsUrl": "https://maps.google.com/?cid=5746438116019375148",
+  "googleRating": 3.8,
+  "googleReviewCount": 1190,
+  "ratingBreakdown": {
+    "1": 160,
+    "2": 81,
+    "3": 125,
+    "4": 271,
+    "5": 553
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5CcsVPYTCmursCj4IGUDbMm_eRvNR7CRDOSBHfCwFXl3bM2VUXSePgwSuSsK-0g7gJ1gyNzEHTCDwTVbPldn2VQyC6G_zV691aQonCFC0HOz1PqbAjLi8xrSRNJ7uo9qN2DCQtsR6axDz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "5:30 AM - 12 AM",
+    "tue": "5:30 AM - 12 AM",
+    "wed": "5:30 AM - 12 AM",
+    "thu": "5:30 AM - 12 AM",
+    "fri": "5:30 AM - 12 AM",
+    "sat": "5:30 AM - 12 AM",
+    "sun": "5:30 AM - 12 AM"
+  },
+  "website": "https://www.panerabread.com/en-us/cafe/locations/ca/anaheim/1480-harbor-blvd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=203269&utm_content=main",
+  "lat": 33.8113978,
+  "lng": -117.9148817
 }

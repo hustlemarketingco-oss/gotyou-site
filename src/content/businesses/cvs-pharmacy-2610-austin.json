@@ -13,5 +13,34 @@
   "groundgameId": "6940fda8e3a3c87bf7dc697e",
   "seededAt": "2025-12-16T06:35:20Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ5ZM-b0-1RIYRznp7yvZKOiQ",
+  "googleCid": "2610481357834123982",
+  "googleMapsUrl": "https://maps.google.com/?cid=2610481357834123982",
+  "googleRating": 3.3,
+  "googleReviewCount": 13,
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 1,
+    "5": 7
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTq8UL5NsVZgeYY_2MRgTcHrDu8OHEv5OhHAJBWEsZGP9iuuUDViVwws4hgWi6cdssa1QthVyxLC-36Cj-FeqJjNEBHJ5Fn3w_9UBGXaAzkuvDwuq3qDf5cxEGKHeSdhMzITjSKSV1hH8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=6964&postalCode=78703&rwg_token=AE37R_gawmU5wgIoGiR0_gTC7-q0mngi6ZAP9c0Em_ZutqiUo1Gpl_2EWnsjCom0aElLjaL7ti-dwSl27nqmeMncjsSiwKnapclDVTpTnl0IEx5092XZBAQ%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/2610-lake-austin-blvd-austin-tx-78703/storeid=6964?WT.mc_id=LS_GOOGLE_RX_6964",
+  "lat": 30.281540099999997,
+  "lng": -97.7750887
 }

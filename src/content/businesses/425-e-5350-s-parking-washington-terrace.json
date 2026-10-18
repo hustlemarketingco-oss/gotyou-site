@@ -13,5 +13,22 @@
   "groundgameId": "6940fa16fc104b53cfe680b1",
   "seededAt": "2025-12-16T06:20:06Z",
   "updatedAt": "2025-12-16T06:44:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJmZ3KXOkFU4cRZxrL_dUwlc0",
+  "googleCid": "14813800244949228135",
+  "googleMapsUrl": "https://maps.google.com/?cid=14813800244949228135",
+  "googleRating": 4.7,
+  "googleReviewCount": 3,
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 2
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K_7KUbPCN1CGY31CqB9hlg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=242.95178&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "lat": 41.1648297,
+  "lng": -111.96939719999999
 }

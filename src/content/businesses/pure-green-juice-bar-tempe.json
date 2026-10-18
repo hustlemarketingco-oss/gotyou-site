@@ -19,30 +19,14 @@
   "zip": "85281",
   "phone": "+14805906389",
   "placeId": "ChIJ51YqVkgJK4cRkJZxBGwPQeA",
-  "googleRating": 4.7,
-  "googleReviewCount": 77,
+  "googleRating": 4.6,
+  "googleReviewCount": 79,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Pure Green - Juice Bar Tempe is a casual, trendy juice shop & açaí shop with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay",
-    "Pets: Outside"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/puregreenfranchise"
@@ -53,5 +37,28 @@
   "groundgameId": "6a24256e3534993fccfde1e6",
   "seededAt": "2026-06-06T13:49:34Z",
   "updatedAt": "2026-09-24T16:18:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16159213894587487888",
+  "googleMapsUrl": "https://maps.google.com/?cid=16159213894587487888",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 69
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCcxmgnEOMXh6de3vuBwm8_QUwHs8HEGNkeovxtrPFo6wtB8OLZUFJW_KSRKZYlc5REpDnm8hmHTMA43X87hUKUEk8reDJ95VC2FgyijC2KLi7DSXeFxTo_aLUPDbKvz_-QZCZMQ7DQJ0Z=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 7 PM",
+    "tue": "8 AM - 7 PM",
+    "wed": "8 AM - 7 PM",
+    "thu": "8 AM - 7 PM",
+    "fri": "8 AM - 7 PM",
+    "sat": "8 AM - 7 PM",
+    "sun": "8 AM - 7 PM"
+  },
+  "website": "https://www.puregreenfranchise.com/arizona/tempe/",
+  "lat": 33.427180899999996,
+  "lng": -111.94046519999999
 }

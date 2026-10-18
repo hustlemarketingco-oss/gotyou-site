@@ -13,5 +13,37 @@
   "groundgameId": "6940ff62353fee45ca3c94f4",
   "seededAt": "2025-12-16T06:42:42Z",
   "updatedAt": "2025-12-16T06:42:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJtd9GWCP1UocRCzVn2q_BIOE",
+  "googleCid": "16222178818816161035",
+  "googleMapsUrl": "https://maps.google.com/?cid=16222178818816161035",
+  "googleRating": 4.6,
+  "googleReviewCount": 1606,
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 34,
+    "3": 66,
+    "4": 237,
+    "5": 1227
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkrHMzSFBACRuVri7dyTPJMZN4FiR2UfELCQfZV2_0mPtAz3W71c8IonENiWAjCNmVYNJSD1QEZVWFdszy8NZFKgpuN4xawZdsWGXToNyjIAjxxmuoIJBjMS_NztzLnR8Z8XYQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7 AM - 6 PM",
+    "tue": "7 AM - 6 PM",
+    "wed": "7 AM - 6 PM",
+    "thu": "7 AM - 6 PM",
+    "fri": "7 AM - 6 PM",
+    "sat": "8 AM - 6 PM",
+    "sun": "8 AM - 6 PM"
+  },
+  "website": "http://www.publikcoffee.com/",
+  "lat": 40.747855699999995,
+  "lng": -111.8935214
 }

@@ -13,5 +13,35 @@
   "groundgameId": "6940f9cc51d9d3ae93830df8",
   "seededAt": "2025-12-16T06:18:52Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJC7NtHCIwWIgRDbXVzvvPJ1Q",
+  "googleCid": "6064044103691515149",
+  "googleMapsUrl": "https://maps.google.com/?cid=6064044103691515149",
+  "googleRating": 4,
+  "googleReviewCount": 35,
+  "ratingBreakdown": {
+    "1": 7,
+    "3": 1,
+    "4": 4,
+    "5": 23
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3rf5109FAu4cm2ZuWCUdUSkqEa4iwgqEdfD1Y1_iqe7GXjAkfdR35OsDgt61z2zihcnJ88hCdsGV5aSDcdNmYsA0giKOHIB3duKx-PE775e5yRtlAErtZMabJ4K2DLIJ420JTzjK35bts=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=7348&postalCode=29605&rwg_token=AE37R_j5LiIgjyGlAQFaHw96ExTjkOGb1vJ8Bu77yu1j0LuMpxZTW5VzeCxOE12BivD4K04QkwiqMLeBVW-lrSlhIxlimiStZXD2HrrO_1G5bWwYeEMbQvA%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/greenville-sc-pharmacies/2100-augusta-st-greenville-sc-29605/storeid=7348?WT.mc_id=LS_GOOGLE_RX_7348",
+  "lat": 34.8242709,
+  "lng": -82.3944126
 }

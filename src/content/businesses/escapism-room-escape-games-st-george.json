@@ -13,5 +13,35 @@
   "groundgameId": "6940fa2bf00c9ff4165d1743",
   "seededAt": "2025-12-16T06:20:27Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJFWtKPcxbyoARDMgMOtUXu-I",
+  "googleCid": "16337678277785995276",
+  "googleMapsUrl": "https://maps.google.com/?cid=16337678277785995276",
+  "googleRating": 5,
+  "googleReviewCount": 3250,
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 2,
+    "4": 23,
+    "5": 3223
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLoBGE8LwNay5qyUeLiRmO6mZKzxz8MKeWiQ2j64yO2cAOKUo4WNq23LeIIo2Y9zDKu6Y1SrfcPByo-ONxbJ8Cukedjc4POMXvwVgLaTg5WqQo8-H1nWJbr72SRooPR9LYycLe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:30 AM - 9 PM",
+    "tue": "10:30 AM - 9 PM",
+    "wed": "10:30 AM - 9 PM",
+    "thu": "10:30 AM - 9 PM",
+    "fri": "10 AM - 10 PM",
+    "sat": "10 AM - 10 PM",
+    "sun": "10:30 AM - 9 PM"
+  },
+  "website": "https://escapism-escaperoom.com/",
+  "lat": 37.112532099999996,
+  "lng": -113.5533306
 }

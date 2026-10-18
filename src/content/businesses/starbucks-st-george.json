@@ -8,8 +8,8 @@
   "zip": "84770",
   "phone": "+14356740126",
   "placeId": "ChIJkXIljZlEyoARhgodutCFrUg",
-  "googleRating": 3.7,
-  "googleReviewCount": 376,
+  "googleRating": 3.8,
+  "googleReviewCount": 395,
   "priceRange": "$$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d021173644af14ba86c0",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5236989073223912070",
+  "googleMapsUrl": "https://maps.google.com/?cid=5236989073223912070",
+  "ratingBreakdown": {
+    "1": 74,
+    "2": 24,
+    "3": 34,
+    "4": 56,
+    "5": 207
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMobVGO4LlAWLtX-7oOmGDpzr4wYd0_MDwc8VlAA4CqSalxgWGWB8UgM6yFl7I-u3xGUF25yL3bZNhsSTOeLQ-czPA8pGBgDxoHmaF4KNLDj31Y7keIcL2fwxbENsT_PQaiXw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "5 AM - 9 PM",
+    "tue": "5 AM - 9 PM",
+    "wed": "5 AM - 9 PM",
+    "thu": "5 AM - 9 PM",
+    "fri": "5 AM - 9 PM",
+    "sat": "5 AM - 9 PM",
+    "sun": "5 AM - 9 PM"
+  },
+  "website": "https://www.starbucks.com/store-locator/store/9933/",
+  "lat": 37.12658,
+  "lng": -113.60195999999999
 }

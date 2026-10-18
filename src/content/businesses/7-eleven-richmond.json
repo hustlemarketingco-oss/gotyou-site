@@ -9,8 +9,8 @@
   "phone": "+18043580503",
   "website": "https://www.7-eleven.com/locations/va/richmond/3301-west-cary-st-26245",
   "placeId": "ChIJbZrzH_ATsYkRI4SoCAwJuv0",
-  "googleRating": 3.2,
-  "googleReviewCount": 33,
+  "googleRating": 3.3,
+  "googleReviewCount": 35,
   "priceRange": "$",
   "sameAs": [
     "https://www.facebook.com/7Eleven",
@@ -24,5 +24,30 @@
   "groundgameId": "6940cace53cbaefad27bb460",
   "seededAt": "2025-12-16T02:58:22Z",
   "updatedAt": "2025-12-16T06:25:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18282935584553468963",
+  "googleMapsUrl": "https://maps.google.com/?cid=18282935584553468963",
+  "ratingBreakdown": {
+    "1": 12,
+    "3": 4,
+    "4": 4,
+    "5": 15
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoHAxnOwv25lq5TI6gGiw4GqQ46bqD3Tow4lLJ3KtjE1Q-SU1sw8YXYDore_oZ0KQ1VwK6iOpWwsFy3TpGuTyfiAW_UueOwm1qhPbIzRK7U-eVAyswKbIdLl8_ogsNGm47OlFEnvHLWp16=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 37.5538289,
+  "lng": -77.4832153
 }

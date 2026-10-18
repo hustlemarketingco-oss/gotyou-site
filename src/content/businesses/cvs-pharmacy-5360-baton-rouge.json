@@ -13,5 +13,34 @@
   "groundgameId": "6940fd2b86ff56553be21bf8",
   "seededAt": "2025-12-16T06:33:15Z",
   "updatedAt": "2025-12-16T06:33:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ3UsrsASnJoYRR7Jgn2k8NZ8",
+  "googleCid": "11472142050139353671",
+  "googleMapsUrl": "https://maps.google.com/?cid=11472142050139353671",
+  "googleRating": 3.9,
+  "googleReviewCount": 26,
+  "ratingBreakdown": {
+    "1": 6,
+    "4": 4,
+    "5": 16
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxm6pGmuqyLf7E4OS_2Sk59JnGWwpEjYv9ZDW9veYcwhjNJBNidzcAXv4I0DjSJby4bVP4Yn6VItzYcheQUNvJH03OimvEx3UAQVUupGb6UlMvWPZH3zX__9IX36KngzXlPCfsxTF44eMQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8309&postalCode=70808&rwg_token=AE37R_jKZkAXkh_5XKB2nG-JuyYmi7NXLt-9ajVrGEz4edXY-dFFv23ry3_fX5fRJfHgIRnsLynIvje7a8O3sU__TiIHsAdpPmt1wgkKYX7O5S6BKWHcyho%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/baton-rouge-la-pharmacies/5360-highland-rd-baton-rouge-la-70808/storeid=8309?WT.mc_id=LS_GOOGLE_RX_8309",
+  "lat": 30.3931218,
+  "lng": -91.1595334
 }

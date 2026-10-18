@@ -13,5 +13,35 @@
   "groundgameId": "69410181fabb6353f31bffd0",
   "seededAt": "2025-12-16T06:51:45Z",
   "updatedAt": "2025-12-16T06:51:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJHUt8q7fqyIARx1cVAY-VXzs",
+  "googleCid": "4278302612456298439",
+  "googleMapsUrl": "https://maps.google.com/?cid=4278302612456298439",
+  "googleRating": 3.9,
+  "googleReviewCount": 64,
+  "ratingBreakdown": {
+    "1": 14,
+    "3": 4,
+    "4": 6,
+    "5": 40
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWRBEy1V-6MxfzHsbl6Dd1pGTfkUlo1D23VtyrPdq9wYkl_tJHfrI0UeR27q0zpsLUNY7bYz1cvNe1austE_CHTCU3Ope1Lft5eNOp9Gd3xKOL_NgEkdQ04a1hZ0gGsQuL-Dy_oBbQrFxi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8821&postalCode=89129&rwg_token=AE37R_hqoWvByiBvkzNHqwfuIfNDDtuZyO40kXwalQYzT-N_Dagc4Lt2UodWxRmVNuBxyOuewE4Rj8FuQiTwtrJSEz0eBRk2SujX8pAFIacl4GUczGDWEiE%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "tue": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "wed": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "thu": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "fri": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "sat": "12 AM - 1:30 PM, 2 PM - 12 AM",
+    "sun": "12 AM - 1:30 PM, 2 PM - 12 AM"
+  },
+  "website": "https://www.cvs.com/store-locator/las-vegas-nv-pharmacies/8320-w-cheyenne-ave-las-vegas-nv-89129/storeid=8821?WT.mc_id=LS_GOOGLE_RX_8821",
+  "lat": 36.219986899999995,
+  "lng": -115.2747756
 }

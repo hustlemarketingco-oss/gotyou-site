@@ -13,5 +13,36 @@
   "groundgameId": "6940ff15a0b7b4df737b11f9",
   "seededAt": "2025-12-16T06:41:25Z",
   "updatedAt": "2025-12-16T06:41:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJvalOuieJUocRIzvfeFPY5g0",
+  "googleCid": "1001725820158294819",
+  "googleMapsUrl": "https://maps.google.com/?cid=1001725820158294819",
+  "googleRating": 3.3,
+  "googleReviewCount": 44,
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 21
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_uaRv4JigPaVahzVZvuqJ0tUasZKVGu107IsUfmwKqNy86Pa0pNXYRdeXKYOLAgzCUZwx2eozi2p0XVN8h1CkcjtP5tnuAkURRrxjUfWNFxzzCZiVB8Rb4ShHNbgmJ8O3vUEUuVSJgyDq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10370&postalCode=84084&rwg_token=AE37R_j-uKDdqDP85cYMw3ZSTLFqnCMzJIgL0lueG0Ur0rlAt3w0qDLJSvMi9lf-p4PpS1JwFFx2qBnkHyKrpk2MntbYiYlmLhLOFpGcetEXd6NGWbK9k1g%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 10 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 10 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 10 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 10 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 10 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 8 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/west-jordan-ut-pharmacies/7777-s-redwood-rd-west-jordan-ut-84084/storeid=10370?WT.mc_id=LS_GOOGLE_RX_10370",
+  "lat": 40.6099964,
+  "lng": -111.9380432
 }

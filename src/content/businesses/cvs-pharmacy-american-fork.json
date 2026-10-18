@@ -13,5 +13,36 @@
   "groundgameId": "6940f9ffc3097d70e7d0bdec",
   "seededAt": "2025-12-16T06:19:43Z",
   "updatedAt": "2025-12-16T06:19:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ48Yug2eBTYcR4vrvUnbze4k",
+  "googleCid": "9906779494854687458",
+  "googleMapsUrl": "https://maps.google.com/?cid=9906779494854687458",
+  "googleRating": 3.8,
+  "googleReviewCount": 53,
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 2,
+    "4": 8,
+    "5": 29
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfecEBCqXDqaMCXuWbqV8Dn0_B9caKNJM3bvudD_75C7GE0Te5ArcEdhYefoLbW2nHMNHq40etlb7xfTQ6DU43IXBryA1h3Na4_UMHIhdtfjJmW8GzX_AdkkT4S4Gwcz5DXDPJs4R_V3bc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10577&postalCode=84003&rwg_token=AE37R_gmcPBcdTGv-9VUUBGB1593PiUb9Ukxqpn1s_6vlFbBM5kWvZsg2Vf9lKUJYldf5PP-Mem3Y9AhLHTZJrJvQju5m16fqi8LZK3440NbOIJrkV9dDzk%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 1:30 PM, 2 - 9 PM",
+    "tue": "8 AM - 1:30 PM, 2 - 9 PM",
+    "wed": "8 AM - 1:30 PM, 2 - 9 PM",
+    "thu": "8 AM - 1:30 PM, 2 - 9 PM",
+    "fri": "8 AM - 1:30 PM, 2 - 9 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/american-fork-ut-pharmacies/475-east-state-rd-american-fork-ut-84003/storeid=10577?WT.mc_id=LS_GOOGLE_RX_10577",
+  "lat": 40.374852399999995,
+  "lng": -111.78610619999999
 }

@@ -13,5 +13,37 @@
   "groundgameId": "69410301194143a9cd8a1b9f",
   "seededAt": "2025-12-16T06:58:09Z",
   "updatedAt": "2025-12-16T06:58:09Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJpXTqfcw1w4AR5Dhkwz95krE",
+  "googleCid": "12795422806081026276",
+  "googleMapsUrl": "https://maps.google.com/?cid=12795422806081026276",
+  "googleRating": 4.4,
+  "googleReviewCount": 921,
+  "ratingBreakdown": {
+    "1": 66,
+    "2": 27,
+    "3": 34,
+    "4": 140,
+    "5": 654
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8eaWnq5YTdPF_HcnNQqNfT5GkgJb_bfLi85z7zG6gBO1e-jpHJCApxYaLRQ1WqX5aiSO_4xqi7e8FRYezNRu9zWoA9f24R8rTWoOanTGCmmSfwqp2vbQ4P4rzY5oyH9W-K6kEZzGwmmM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:15 AM - 3 PM, 4:30 - 9 PM",
+    "wed": "11:15 AM - 3 PM, 4:30 - 9 PM",
+    "thu": "11:15 AM - 3 PM, 4:30 - 9 PM",
+    "fri": "11:15 AM - 3 PM, 4:30 - 9 PM",
+    "sat": "12 - 3 PM, 4:30 - 9 PM",
+    "sun": "12 - 3 PM, 4:30 - 9 PM"
+  },
+  "website": "https://www.chinapointca.com/",
+  "lat": 34.0897522,
+  "lng": -117.5939712
 }

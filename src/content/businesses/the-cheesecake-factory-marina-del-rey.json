@@ -13,5 +13,38 @@
   "groundgameId": "694102dfb778d97aa5a36d66",
   "seededAt": "2025-12-16T06:57:35Z",
   "updatedAt": "2025-12-16T06:57:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJp6SyFJm6woAR8P9VHRGsqlQ",
+  "googleCid": "6100877834733354992",
+  "googleMapsUrl": "https://maps.google.com/?cid=6100877834733354992",
+  "googleRating": 4.2,
+  "googleReviewCount": 5666,
+  "ratingBreakdown": {
+    "1": 433,
+    "2": 221,
+    "3": 442,
+    "4": 1237,
+    "5": 3333
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnZlWygB6WJdmRmz87zFzlwdOa7RUSgcrglAR_hqOKMbgjWQzzvBR86sVrp1UQPf_abLAIjUL6rGIT_7zygH1mLAOgxbp0N2kq79Vd3yuGzJDwpWoWb-qxGYYTHbKsjnbpJhfz1w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "https://www.thecheesecakefactory.com/locations?launchReservationsFlyout=true&id=marina-del-rey-ca",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11:30 AM - 10 PM",
+    "tue": "11:30 AM - 10 PM",
+    "wed": "11:30 AM - 10 PM",
+    "thu": "11:30 AM - 10 PM",
+    "fri": "11:30 AM - 11 PM",
+    "sat": "11 AM - 11 PM",
+    "sun": "10 AM - 10 PM"
+  },
+  "website": "https://locations.thecheesecakefactory.com/ca/marina-del-rey-2.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+  "lat": 33.9798514,
+  "lng": -118.45858899999999
 }

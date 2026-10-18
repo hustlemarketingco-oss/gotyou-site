@@ -9,7 +9,7 @@
   "phone": "+14356353322",
   "placeId": "ChIJdYKQysn2yoARYEw8Ol3-Vb0",
   "googleRating": 3.9,
-  "googleReviewCount": 600,
+  "googleReviewCount": 634,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,32 @@
   "groundgameId": "6940d021abb26efd5c6cd1fb",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2025-12-16T07:27:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13643090322551229536",
+  "googleMapsUrl": "https://maps.google.com/?cid=13643090322551229536",
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 26,
+    "3": 69,
+    "4": 108,
+    "5": 339
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefD1-C1mUwaL5DA_mjIoEY2QO1BY73AqScXVKauLi54zfheiSd64ZXNhVFfJJnwto1bs6OvGjgtbmXOBv-M_h_QPvqu_ldz8SAfPW20I31KUMl4GmzT_m2h37Qfzg5xPttkVZr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 12 AM",
+    "tue": "10 AM - 12 AM",
+    "wed": "10 AM - 12 AM",
+    "thu": "10 AM - 12 AM",
+    "fri": "10 AM - 1 AM",
+    "sat": "10 AM - 1 AM",
+    "sun": "10 AM - 12 AM"
+  },
+  "website": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
+  "lat": 37.1768575,
+  "lng": -113.2958972
 }

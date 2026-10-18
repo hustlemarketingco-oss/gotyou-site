@@ -10,12 +10,38 @@
   "website": "https://utahtech.edu/event-services/eventvenues/gardner-student-center/",
   "placeId": "ChIJHVpbnClbyoARa8yzAYZcl_0",
   "googleRating": 4.5,
-  "googleReviewCount": 64,
+  "googleReviewCount": 66,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d022923c0d50d7314ad9",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18273175743703010411",
+  "googleMapsUrl": "https://maps.google.com/?cid=18273175743703010411",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 7,
+    "4": 13,
+    "5": 44
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVNlz_JlVZN1IEXpHhFak6CNDxert6vAQP_Dyk0n_gPGwlRR3-mQEZi5aL4Sstm15Fc6pms10wMQIh3W6W0yNpYLqRy40QgjtzLOcAFEVotHPRd0HEhKA_rbyh74Eup5JmZd4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7:30 AM - 10 PM",
+    "tue": "7:30 AM - 10 PM",
+    "wed": "7:30 AM - 10 PM",
+    "thu": "7:30 AM - 10 PM",
+    "fri": "7:30 AM - 10 PM",
+    "sat": "8:30 AM - 10 PM",
+    "sun": "Closed"
+  },
+  "lat": 37.103918799999995,
+  "lng": -113.5659582
 }

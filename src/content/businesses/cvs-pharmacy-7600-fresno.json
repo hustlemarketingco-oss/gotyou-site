@@ -13,5 +13,34 @@
   "groundgameId": "694103fa7ecd7ba996037176",
   "seededAt": "2025-12-16T07:02:18Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJVVVVBqdClIAR1x2eOvfmBxE",
+  "googleCid": "1227203372996500951",
+  "googleMapsUrl": "https://maps.google.com/?cid=1227203372996500951",
+  "googleRating": 3.8,
+  "googleReviewCount": 6,
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "4": 1,
+    "5": 3
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C6UrB69r-nGceklP8-qPEA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=50.227463&pitch=-3.7203991&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 6 PM",
+    "tue": "10 AM - 6 PM",
+    "wed": "10 AM - 6 PM",
+    "thu": "10 AM - 6 PM",
+    "fri": "10 AM - 6 PM",
+    "sat": "9 AM - 5 PM",
+    "sun": "11 AM - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/fresno-ca-pharmacies/7600-n-blackstone-ave-fresno-ca-93720/storeid=16337?WT.mc_id=LS_GOOGLE_RX_16337",
+  "lat": 36.847623299999995,
+  "lng": -119.78657299999999
 }

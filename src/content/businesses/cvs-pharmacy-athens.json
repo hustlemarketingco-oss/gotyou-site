@@ -13,5 +13,35 @@
   "groundgameId": "6940f9d0ad09735dc1ac7653",
   "seededAt": "2025-12-16T06:18:56Z",
   "updatedAt": "2025-12-16T06:25:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJo5rPP99s9ogRzM2qENIVo74",
+  "googleCid": "13736847280377089484",
+  "googleMapsUrl": "https://maps.google.com/?cid=13736847280377089484",
+  "googleRating": 3.9,
+  "googleReviewCount": 34,
+  "ratingBreakdown": {
+    "1": 7,
+    "3": 3,
+    "4": 3,
+    "5": 21
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4ObywQtUmuptQ7Rf0GNnFSxy2kLvxyHCo0czl64NrhYCB7gXvihur3Q2z6y4fFkVWaR7U4dYnf1idxeK8IHRCowWRY6S6vQJud1xwtcxaAihzDCCxP8rVs--Zm8fd2D37PCO5_A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10865&postalCode=30601&rwg_token=AE37R_jFbH2F1nLhXL6DS5Ri7ELwUgHq8ycI0q8klK9tn12qBdXDXjqXnB-M91uxFkI1JYryPj5wmWDq_i6rhecKAVE-L6qc8q2ph2Os2eQJv4TZR_Ksh-U%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/athens-ga-pharmacies/170-west-broad-st-athens-ga-30601/storeid=10865?WT.mc_id=LS_GOOGLE_RX_10865",
+  "lat": 33.957397799999995,
+  "lng": -83.3776024
 }

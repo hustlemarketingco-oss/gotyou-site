@@ -13,5 +13,36 @@
   "groundgameId": "6940fa3cdba46944556ea216",
   "seededAt": "2025-12-16T06:20:44Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ9SXW9TnEyIAR8pOapdFkzZ4",
+  "googleCid": "11442913079807611890",
+  "googleMapsUrl": "https://maps.google.com/?cid=11442913079807611890",
+  "googleRating": 4.2,
+  "googleReviewCount": 312,
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 10,
+    "3": 40,
+    "4": 81,
+    "5": 167
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeR1YWkzHAgwJRcx7WhrJyI6ogMhdbIfId8LCtWsc_W0wniziGOLrZI4nOkf5ooluE34wGqColfsLgoDuLdCJc2PlAztLbLUHcepKkk8f3IWP0cLrqgcuk_J5mSPyABpnM5kmQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10348&postalCode=89109&rwg_token=AE37R_iNicy5rI_rJ9LbkKN9ZLPbBEhjw8sd8nIMA1fS1nk8-evNQD-eyqdBQjvwyD8n7Gmk21HPIEAnlmhT4zOFjzj4TbuNCpISv0hhhUPeATxk97mmSkM%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "10 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "10 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "10 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "10 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/las-vegas-nv-pharmacies/3645-las-vegas-blvd-south-las-vegas-nv-89109/storeid=10348?WT.mc_id=LS_GOOGLE_RX_10348",
+  "lat": 36.113281799999996,
+  "lng": -115.1722748
 }

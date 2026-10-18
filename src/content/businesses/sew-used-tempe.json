@@ -17,12 +17,10 @@
   "website": "https://sew-used.square.site/",
   "placeId": "ChIJg19jhEkJK4cRSlmzMaiC5EY",
   "googleRating": 4.7,
-  "googleReviewCount": 81,
+  "googleReviewCount": 87,
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "mon": "11:00 AM - 7:00 PM",
@@ -39,5 +37,15 @@
   "groundgameId": "6a552c87e8ffb6695e756268",
   "seededAt": "2026-07-13T18:20:55Z",
   "updatedAt": "2026-07-28T18:50:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5108351536244939082",
+  "googleMapsUrl": "https://maps.google.com/?cid=5108351536244939082",
+  "ratingBreakdown": {
+    "2": 6,
+    "3": 3,
+    "4": 1,
+    "5": 77
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddaXQcebzveGxUD1Zigdq8R1HntZH5-cZ0z8e3A9rS7Dl4-eEDGRffRWMYWfXIidM0lce9vhrxKEIV_hGBk10h35sP5A88r_LIj_PLwFDnnakbwPJP2wu6mMdwpKN4gbRsvo7mCcLpAFgL=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

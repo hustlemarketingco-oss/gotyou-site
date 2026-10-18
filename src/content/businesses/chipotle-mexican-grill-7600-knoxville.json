@@ -13,5 +13,37 @@
   "groundgameId": "6940fc46ec122db61222370e",
   "seededAt": "2025-12-16T06:29:26Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJgfWZuMAkXIgR7g7kvsfhxaw",
+  "googleCid": "12449604992952962798",
+  "googleMapsUrl": "https://maps.google.com/?cid=12449604992952962798",
+  "googleRating": 4,
+  "googleReviewCount": 418,
+  "ratingBreakdown": {
+    "1": 44,
+    "2": 16,
+    "3": 62,
+    "4": 86,
+    "5": 210
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTdv6IWWoeE6FAaWfknedAkwJrtzmrJY5M2RFA-alc1xcTRyMSjk1fYOeiezcfQS9DEa-jUcBA1IEfKvYtCFKtbExHBXG5eZAJ3_7UrfZzhGh7CDrpjfEiqwy08-NbodTRb-3F7w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 8 PM",
+    "tue": "10 AM - 8 PM",
+    "wed": "Closed",
+    "thu": "10 AM - 8 PM",
+    "fri": "10 AM - 9 PM",
+    "sat": "10 AM - 9 PM",
+    "sun": "12 - 6 PM"
+  },
+  "website": "https://locations.chipotle.com/tn/knoxville/7600-kingston-pike?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=2165",
+  "lat": 35.924301,
+  "lng": -84.03702539999999
 }

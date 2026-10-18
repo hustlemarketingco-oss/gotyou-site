@@ -13,5 +13,34 @@
   "groundgameId": "6940fd07f77960f531518040",
   "seededAt": "2025-12-16T06:32:39Z",
   "updatedAt": "2025-12-16T06:32:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJWV5kfXwewYcRj44UQKkGpfw",
+  "googleCid": "18204964392709426831",
+  "googleMapsUrl": "https://maps.google.com/?cid=18204964392709426831",
+  "googleRating": 3.8,
+  "googleReviewCount": 18,
+  "ratingBreakdown": {
+    "1": 5,
+    "4": 2,
+    "5": 11
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgYrQorbyzOOvNGT3eHeD50xUxEebUnCeHcOhys-jN-hl-JKlMwgUUtHD8UVU5461KHWAhZ8lMdVNb-2RXztOt_O4BT0idk9rQKIZSD19fC091-NHY0sTnS48ArncrKWqGs8U1QiHwNAFq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8579&postalCode=64064&rwg_token=AE37R_jojBij11bZixkl3EBNka245dRmPmRdI_OuJDxWF24S1oEfIB44Pl-NE7bOAEtT4PRfPQoM-NFRPBk1L0OlIO2SaDqsXFQxd9MwrTCh0Xyhf-lZxow%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/lees-summit-mo-pharmacies/751-ne-woods-chapel-road-lees-summit-mo-64064/storeid=8579?WT.mc_id=LS_GOOGLE_RX_8579",
+  "lat": 38.9820784,
+  "lng": -94.36109549999999
 }

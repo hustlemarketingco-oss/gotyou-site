@@ -13,5 +13,34 @@
   "groundgameId": "6940fbe7ffa8cc080a3d6c4a",
   "seededAt": "2025-12-16T06:27:51Z",
   "updatedAt": "2025-12-16T06:27:51Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ_wvCAHej6IgRduwMvE4uL_w",
+  "googleCid": "18171793937160531062",
+  "googleMapsUrl": "https://maps.google.com/?cid=18171793937160531062",
+  "googleRating": 3.5,
+  "googleReviewCount": 2,
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rpwavfm3-I7LMVJZ_rDn2g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=49.699425&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:30 AM - 7 PM",
+    "tue": "10:30 AM - 7 PM",
+    "wed": "10:30 AM - 7 PM",
+    "thu": "10:30 AM - 7 PM",
+    "fri": "10:30 AM - 7 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "website": "https://www.pandaexpress.com/",
+  "lat": 29.6465073,
+  "lng": -82.34801159999999
 }

@@ -9,7 +9,7 @@
   "phone": "+14356735938",
   "placeId": "ChIJjzpxeS5byoARSDNGUypYH7w",
   "googleRating": 3.2,
-  "googleReviewCount": 2218,
+  "googleReviewCount": 2287,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,32 @@
   "groundgameId": "6940d0216f3b78bfa3060b22",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13555650342217462600",
+  "googleMapsUrl": "https://maps.google.com/?cid=13555650342217462600",
+  "ratingBreakdown": {
+    "1": 578,
+    "2": 204,
+    "3": 417,
+    "4": 441,
+    "5": 647
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9i_DOZAc7Vuca6Z9KEp7s0sNvZmDncoRinPgUPqldw3R0t8jQDnUfWlEisxNdNvGJHlFimoapOK9Im4ducYOCWC0Jo4NgbUWnjUtO07FjB85pTDFUfV0Fc4bDul-5YBt19Uas=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "website": "https://www.mcdonalds.com/us/en-us/location/UT/ST-GEORGE/798-E-SAINT-GEORGE-BLVD/2929.html?cid=RF:YXT:GMB::Clicks",
+  "lat": 37.1094517,
+  "lng": -113.5666193
 }

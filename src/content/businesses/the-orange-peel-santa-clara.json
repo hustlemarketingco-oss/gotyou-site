@@ -8,13 +8,38 @@
   "zip": "84765-5413",
   "phone": "+14353571310",
   "placeId": "ChIJ6R8rAMFFyoARBdPWZSN_lbU",
-  "googleRating": 4.3,
-  "googleReviewCount": 13,
+  "googleRating": 4.4,
+  "googleReviewCount": 22,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d0212fda29a3bf86a615",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2025-12-16T07:27:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13084504082404004613",
+  "googleMapsUrl": "https://maps.google.com/?cid=13084504082404004613",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 3,
+    "5": 18
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfppPCqOvr_8JsWv0HMIrmlWKflLeEVvNYp9pNuBfCvDiGIn7JoZrnd91Fsa_vaq0f0qDIDHw5inTCx-jZFBxAjmM8pquqURbLJmlLMVY2ev8kc33ZU0O1FQ9eVNHAEalZoBqi4Fw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 7 PM",
+    "tue": "8 AM - 7 PM",
+    "wed": "8 AM - 7 PM",
+    "thu": "8 AM - 7 PM",
+    "fri": "8 AM - 7 PM",
+    "sat": "9 AM - 7 PM",
+    "sun": "Closed"
+  },
+  "website": "https://www.theorangepeel.biz/",
+  "lat": 37.125226399999995,
+  "lng": -113.6329001
 }

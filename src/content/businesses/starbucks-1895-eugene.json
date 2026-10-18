@@ -18,8 +18,8 @@
   "phone": "+15415213052",
   "website": "https://www.starbucks.com/store-locator/store/1014586/",
   "placeId": "ChIJB0ChlyUewVQRj9eQODfQFww",
-  "googleRating": 4.1,
-  "googleReviewCount": 540,
+  "googleRating": 4,
+  "googleReviewCount": 562,
   "priceRange": "$$",
   "timezone": "America/Los_Angeles",
   "claimStatus": "claimed",
@@ -27,5 +27,31 @@
   "groundgameId": "6941044de17ae7e1839737d3",
   "seededAt": "2025-12-16T07:03:41Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "871393988510275471",
+  "googleMapsUrl": "https://maps.google.com/?cid=871393988510275471",
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 34,
+    "3": 53,
+    "4": 131,
+    "5": 295
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8PXsWGfkyjguRNG5SsfjW6lejYQ2PNvS901F7pFI1M7hX3WxMg2fWfScfndGSCs0JMxYfb6eAifsxHmRJqZMDCJ10oQsTyTFumKCU_D93ySPquqv_WOqrn5yAdoUSexjtWZ0v=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "5 AM - 9 PM",
+    "tue": "5 AM - 9 PM",
+    "wed": "5 AM - 9 PM",
+    "thu": "5 AM - 9 PM",
+    "fri": "5 AM - 9 PM",
+    "sat": "5 AM - 9 PM",
+    "sun": "5 AM - 9 PM"
+  }
 }

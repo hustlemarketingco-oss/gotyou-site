@@ -13,5 +13,35 @@
   "groundgameId": "6940fb98cab22df5d9d10fc8",
   "seededAt": "2025-12-16T06:26:32Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJlxN6Dpp1-4gRHXL1YPpjfAI",
+  "googleCid": "179128012207649309",
+  "googleMapsUrl": "https://maps.google.com/?cid=179128012207649309",
+  "googleRating": 3.7,
+  "googleReviewCount": 31,
+  "ratingBreakdown": {
+    "1": 8,
+    "3": 2,
+    "4": 3,
+    "5": 18
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAYis9BzJwJpM8lRt9eodejRuIntdSeknkSVT6RNKY4zz-7BR-VL4pEt24tjFBCTYg_VyxAVmyCI9kP5L4vdYzFHQY5fkKBFPoWEM7e4JZbrlg5llI8zB9llt33oaKpWOKKRfahWqp_U1e=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=5520&postalCode=31405&rwg_token=AE37R_hBJqpcgOKjbp1ZJrJZpZ9j253ZKuPTGNAPMrT12Pg1bFiqKIwa1sw6ytteRGy4iQSG6nH5VddldUmCqnDObI0BXmbg87OUjDJnk_h_IogSCH2JrU4%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "12 - 1:30 PM, 2 PM - 12 AM",
+    "sat": "12 AM - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/savannah-ga-pharmacies/5401-abercorn-st-corner-of-derenne-ave-savannah-ga-31405/storeid=5520?WT.mc_id=LS_GOOGLE_RX_5520",
+  "lat": 32.02804,
+  "lng": -81.109127
 }

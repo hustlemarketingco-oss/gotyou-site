@@ -14,8 +14,8 @@
   "zip": "97405",
   "phone": "+14582396547",
   "placeId": "ChIJ3frUancfwVQRklf7410WW5c",
-  "googleRating": 2.5,
-  "googleReviewCount": 120,
+  "googleRating": 2.7,
+  "googleReviewCount": 157,
   "priceRange": "$",
   "timezone": "America/Los_Angeles",
   "claimStatus": "claimed",
@@ -23,5 +23,34 @@
   "groundgameId": "6941045a673b640c42acae50",
   "seededAt": "2025-12-16T07:03:54Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10906335515120457618",
+  "googleMapsUrl": "https://maps.google.com/?cid=10906335515120457618",
+  "ratingBreakdown": {
+    "1": 75,
+    "2": 15,
+    "3": 4,
+    "4": 12,
+    "5": 51
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWvEoGSjRDbVqwMGR508-mQiIPOcTyHGsQK-vQkqrIA5rYZFDBON0L6CCMdwemNR45Q-Z9g0cV-JSG86-IrPZNRfbwG1ZtxIyDFMR-KnPY5XOLmGpbHuDx-v_sRus4GCWJgLyJDZlovLw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:45 AM - 11 PM",
+    "tue": "10:45 AM - 11 PM",
+    "wed": "10:45 AM - 11 PM",
+    "thu": "10:45 AM - 11 PM",
+    "fri": "10:45 AM - 11 PM",
+    "sat": "10:45 AM - 11 PM",
+    "sun": "10:45 AM - 11 PM"
+  },
+  "website": "https://locations.chipotle.com/or/eugene/2840-willamette-st?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=4866",
+  "lat": 44.0275953,
+  "lng": -123.0910555
 }

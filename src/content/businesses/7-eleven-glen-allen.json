@@ -10,7 +10,7 @@
   "website": "https://www.7-eleven.com/locations/va/glen-allen/4051-cox-road-32396",
   "placeId": "ChIJyTq016JqsYkRA8B-Qr1gL7g",
   "googleRating": 3.6,
-  "googleReviewCount": 48,
+  "googleReviewCount": 72,
   "priceRange": "$",
   "sameAs": [
     "https://www.facebook.com/7eleven",
@@ -24,5 +24,32 @@
   "groundgameId": "6940cacf797ef7e8c0fc7895",
   "seededAt": "2025-12-16T02:58:23Z",
   "updatedAt": "2025-12-16T06:25:03Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13271932992864829443",
+  "googleMapsUrl": "https://maps.google.com/?cid=13271932992864829443",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 6,
+    "3": 8,
+    "4": 14,
+    "5": 30
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVGpgDi6EUg7VXRrvVDlAnxTYqu7uRLhEa8-xV1A8ZPGpQuLOaEesku2bVq6ME9RZ3XmiOAOPRQnBMsIPxErXl0AatqtEMtQCg8Ylo2scH4cgZd8W_ImQFut2U3ggiXCFlS-v3kxzWJNvW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 37.6481832,
+  "lng": -77.5816887
 }

@@ -17,12 +17,12 @@
   "lng": -111.66568199999999,
   "phone": "+18013745297",
   "website": "http://www.jcws.com/",
-  "googleMapsUrl": "https://www.google.com/maps/place/JCW%27s+The+Burger+Boys/data=!4m7!3m6!1s0x874d909d4c532643:0x98e301619347ce16!8m2!3d40.263842!4d-111.665682!16s%2Fg%2F1hc0v957p!19sChIJQyZTTJ2QTYcRFs5Hk2EB45g?authuser=0&hl=en&g_ep=EgoyMDI2MDkyOS4wIJJjKgBIAVAD&rclk=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=11016650632072777238",
   "googleCid": "11016650632072777238",
   "placeId": "ChIJQyZTTJ2QTYcRFs5Hk2EB45g",
   "googleRating": 4,
-  "googleReviewCount": 2607,
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleo-noWHOAqOnvQDM_8YyYgM8_2M4vubz_9GoJWcDvs-yJyvKW5T9tdY-gzGfLvlEy965zmLu0PrR_FVS5s4nRAM3kV08r3_P0jJar6eW_11zPp-E-ztIx_VNPpikfBlfFcnacgg=w1200-h800-k-no",
+  "googleReviewCount": 2608,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJVzcQJKH_KNN54I3L_6dOcrur_7OGSVhE-MJ2kXCdRNoCI7NSZlljqjzf2Y2b0ZvuZW64XbvVOvlSlnKn5N3njltiIKWgrU4TYPgBGeuUSz3eyYB0CxWLn50yw9e71v9EVvSGFw=w1200-h800-k-no",
   "description": "JCW's The Burger Boys is a counter-serve burger joint on 2230 North serving charbroiled burgers with creative topping combinations. It's open from 10 AM to 10 PM.",
   "amenities": [
     "Wheelchair accessible parking lot",
@@ -32,7 +32,7 @@
     "1": 208,
     "2": 165,
     "3": 244,
-    "4": 663,
+    "4": 664,
     "5": 1327
   },
   "hours": {
@@ -51,5 +51,6 @@
   "updatedAt": "2026-10-02T04:48:15Z",
   "source": "gmaps-scraper",
   "enrichedAt": "2026-10-04T18:45:49Z",
-  "groundgameId": "6940fa23e0d14a8524406145"
+  "groundgameId": "6940fa23e0d14a8524406145",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

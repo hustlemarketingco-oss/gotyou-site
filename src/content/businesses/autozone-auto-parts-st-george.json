@@ -9,12 +9,39 @@
   "phone": "+14357037460",
   "placeId": "ChIJ--vFCWJFyoARn8HbKtAa_T4",
   "googleRating": 4.6,
-  "googleReviewCount": 126,
+  "googleReviewCount": 154,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940d0212ed534d96e98af47",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4538813480833892767",
+  "googleMapsUrl": "https://maps.google.com/?cid=4538813480833892767",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 3,
+    "3": 1,
+    "4": 9,
+    "5": 132
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaJm6OwnhU0Zw5iGGfLbOr9CB5E_UX5rQlHsalvjroIqiP7HUIOliL830gt79kIz3sFG6bHe4k8008FEiH8QX2dzabeByIN7c6u1iUR3hrl-1iYjkYOcH-ioZSCjNTXzbvbbPh8Tpeq4e4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "7:30 AM - 9 PM",
+    "tue": "7:30 AM - 9 PM",
+    "wed": "7:30 AM - 9 PM",
+    "thu": "7:30 AM - 9 PM",
+    "fri": "7:30 AM - 9 PM",
+    "sat": "7:30 AM - 9 PM",
+    "sun": "7:30 AM - 9 PM"
+  },
+  "website": "https://www.autozone.com/locations/ut/st-george/1621-w-sunset-blvd.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:5955",
+  "lat": 37.122351699999996,
+  "lng": -113.61819709999999
 }

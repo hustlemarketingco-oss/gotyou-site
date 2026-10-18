@@ -13,5 +13,36 @@
   "groundgameId": "6940f9cb5b93a1d46bfe0f91",
   "seededAt": "2025-12-16T06:18:51Z",
   "updatedAt": "2025-12-16T06:25:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJNcYsL9zlrIkRP-S7bpfkXo0",
+  "googleCid": "10186830746207642687",
+  "googleMapsUrl": "https://maps.google.com/?cid=10186830746207642687",
+  "googleRating": 3.5,
+  "googleReviewCount": 44,
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 2,
+    "3": 5,
+    "4": 6,
+    "5": 20
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjTksQF1VRsEhY1dNs3jALFyQ-x5AVV1cz8LUgcK6pr6PCuNJDcPwUbzMrwzyLZ1tJfVRrCzIGugP0DnkU_hOXRNJfSCFscbVNBZx5W6LGuuVsZ0tPmOcsdxF5EbHxgnj1_86OCRb9zagJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=1752&postalCode=27713&rwg_token=AE37R_hg8quA5XfvmeCpJQgU8wOtJxCDN9VQzC_sgELbqiw_IQHcwfTceDXUar1hFaEwCrFAQXd9HUDNbJaxb_g0tSWVJgPnM_eSreAS24gSTM8ZrCeZRhc%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/durham-nc-pharmacies/930-martin-luther-king-jr-durham-nc-27713/storeid=1752?WT.mc_id=LS_GOOGLE_RX_1752",
+  "lat": 35.9478171,
+  "lng": -78.9229015
 }

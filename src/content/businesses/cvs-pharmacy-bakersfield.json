@@ -13,5 +13,36 @@
   "groundgameId": "69410397e965f16977eb95e2",
   "seededAt": "2025-12-16T07:00:39Z",
   "updatedAt": "2025-12-16T07:00:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJWXzDL3Bq6oAR9l_9RajH0EY",
+  "googleCid": "5102797903353438198",
+  "googleMapsUrl": "https://maps.google.com/?cid=5102797903353438198",
+  "googleRating": 3.3,
+  "googleReviewCount": 37,
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 1,
+    "3": 3,
+    "4": 5,
+    "5": 16
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfewNpb9aXfzl9ipnsL75mA5_XJhvCkr2E7RBUE0BAYPUeR2tRAs3PlK_qIoiX8SqI_wxnML8-SRM8z6MjomxedgfcJ2Jwqb7PcJGdmL-LN_mFkjQjIppI25CIA27VU8MeaqMJx9P5NIihj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=17552&postalCode=93304&rwg_token=AE37R_guHyhp1c6jgTRa_IfwqzkT6U4l8MKtWnTiyk3qCce4nxmTT6smGDq8CkiKtzrqR_tFwHw47AgeLawjpWF55suOMdTBhg%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 1:30 PM, 2 - 6 PM",
+    "tue": "10 AM - 1:30 PM, 2 - 6 PM",
+    "wed": "10 AM - 1:30 PM, 2 - 6 PM",
+    "thu": "10 AM - 1:30 PM, 2 - 6 PM",
+    "fri": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/2901-ming-ave-bakersfield-ca-93304/storeid=17552?WT.mc_id=LS_GOOGLE_RX_17552",
+  "lat": 35.336657699999996,
+  "lng": -119.0359914
 }

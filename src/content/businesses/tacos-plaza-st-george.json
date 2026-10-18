@@ -13,5 +13,38 @@
   "groundgameId": "69410072a3044486422d9055",
   "seededAt": "2025-12-16T06:47:14Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJhf_l2O9byoARIX5fM0VtgHk",
+  "googleCid": "8755117819590311457",
+  "googleMapsUrl": "https://maps.google.com/?cid=8755117819590311457",
+  "googleRating": 4.6,
+  "googleReviewCount": 420,
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 7,
+    "3": 19,
+    "4": 27,
+    "5": 344
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesE7DdVWO_PXHQNdFaSDJXfABhlylyBdeOT1e509N2Yp76BxF8niItXKUFU2iQG2dlFOnMFgVdfD7-qaYlJ3mlw7jJl0vWAo7nFfNOMzGLPibWs9aD4fLowA4gWI16UkLKuoI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "reservationUrl": "http://tacosplazamex.com/",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 9 PM",
+    "tue": "11 AM - 9 PM",
+    "wed": "11 AM - 9 PM",
+    "thu": "11 AM - 9 PM",
+    "fri": "11 AM - 9 PM",
+    "sat": "11 AM - 9 PM",
+    "sun": "Closed"
+  },
+  "website": "https://tacosplazamex.com/?utm_source=google",
+  "lat": 37.1120046,
+  "lng": -113.55322659999999
 }

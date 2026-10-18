@@ -16,8 +16,8 @@
   "phone": "+14808855333",
   "website": "https://www.eljefetacos.com/",
   "placeId": "ChIJAyYc8YcJK4cRAfTPshJd-lw",
-  "googleRating": 4.1,
-  "googleReviewCount": 920,
+  "googleRating": 4,
+  "googleReviewCount": 963,
   "priceRange": "$$",
   "hours": {
     "mon": "7:00 AM - 1:00 AM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a3ad7fa21a42edb1c297e41",
   "seededAt": "2026-06-23T19:01:14Z",
   "updatedAt": "2026-07-06T15:00:10Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6699769730557801473",
+  "googleMapsUrl": "https://maps.google.com/?cid=6699769730557801473",
+  "ratingBreakdown": {
+    "1": 142,
+    "2": 49,
+    "3": 56,
+    "4": 91,
+    "5": 625
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAlnMKT9NVTMHFWrL6ke2lTTqD-1N241xslcYSAgOvGQ5QmnKp0CzWA1lGx30IsihgryJapRy32fPOUhnIEBRuUx-oGdQY_EqCuBPm2vHBxQJ0yK9Gio5WbRWa7lF9xGH8Ho5Vdg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z"
 }

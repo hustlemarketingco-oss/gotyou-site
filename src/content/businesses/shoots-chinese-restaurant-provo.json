@@ -13,5 +13,37 @@
   "groundgameId": "6940fa22ae3ff08e071e773e",
   "seededAt": "2025-12-16T06:20:18Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJK-DOLwyQTYcRZEvjSLjDLxA",
+  "googleCid": "1166366024776502116",
+  "googleMapsUrl": "https://maps.google.com/?cid=1166366024776502116",
+  "googleRating": 4.4,
+  "googleReviewCount": 407,
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 12,
+    "3": 23,
+    "4": 78,
+    "5": 278
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZCvutruQOUateoUsXr14BDBGcmaz87pY8VNAAoXFBNqsCeYMaHQeEEmJPk0MOtUxD_whrvwANrHrkd0XveGHzK01_MOZCDIuomZzyMTKfb5K5J-TL2gmZSz_hf_QzN4Hdzy2J=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 3 PM, 4:30 - 8:30 PM",
+    "tue": "11 AM - 3 PM, 4:30 - 8:30 PM",
+    "wed": "11 AM - 3 PM, 4:30 - 8:30 PM",
+    "thu": "11 AM - 3 PM, 4:30 - 8:30 PM",
+    "fri": "11 AM - 3 PM, 4:30 - 9 PM",
+    "sat": "12 - 8:30 PM",
+    "sun": "Closed"
+  },
+  "website": "https://shootschinese.pages.dev/",
+  "lat": 40.299126799999996,
+  "lng": -111.6576182
 }

@@ -13,5 +13,36 @@
   "groundgameId": "69410388194143a9cd8a1bca",
   "seededAt": "2025-12-16T07:00:24Z",
   "updatedAt": "2025-12-16T07:00:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJcwlTzSkvlYARe4IBoS3UgB4",
+  "googleCid": "2197989910596649595",
+  "googleMapsUrl": "https://maps.google.com/?cid=2197989910596649595",
+  "googleRating": 3.6,
+  "googleReviewCount": 28,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 14
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5Z4l4k_KGgFk8PxbumUrOuPjhVoJB4dyGPpmTBe_JfOqH_O5m2I59k5ySrb7yt5p7iB45FgvqrRiUQonUf101ljjHnAZDfIDrWzjvb-CKkZy2nlfFejiKYgMA0_pM_Mq9R2hS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16928&postalCode=93277&rwg_token=AE37R_giY_BFWqkR15plJkVVNTTJEP6a1Mz3NySYM8Fxb65U0XYfaDH7GX5yLrgatgI_Tf2c29t2zrVs3Y7RQA0HdL7Xxl6sCA%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 1:30 PM, 2 - 6 PM",
+    "tue": "10 AM - 1:30 PM, 2 - 6 PM",
+    "wed": "10 AM - 1:30 PM, 2 - 6 PM",
+    "thu": "10 AM - 1:30 PM, 2 - 6 PM",
+    "fri": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 5 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/visalia-ca-pharmacies/4247-s-mooney-blvd-visalia-ca-93277/storeid=16928?WT.mc_id=LS_GOOGLE_RX_16928",
+  "lat": 36.292358,
+  "lng": -119.31723
 }

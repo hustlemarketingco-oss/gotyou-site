@@ -13,5 +13,37 @@
   "groundgameId": "694100a03d16827cdaff6a1a",
   "seededAt": "2025-12-16T06:48:00Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJPf3NTQQRK4cR4xw4if8RSDE",
+  "googleCid": "3551108095398124771",
+  "googleMapsUrl": "https://maps.google.com/?cid=3551108095398124771",
+  "googleRating": 2.5,
+  "googleReviewCount": 304,
+  "ratingBreakdown": {
+    "1": 153,
+    "2": 28,
+    "3": 18,
+    "4": 17,
+    "5": 88
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-8oaeLYdgNv3TQ6gXObnAtiOkZzgtff2vwORc7pDQSMedjmJuDLmIVx752il42B7PI0aKVhDdlBFu_dKKBdaS_g9F8wb7pJZF_LnvKVWnebFBr0v30QORTvM7hVztkvx4zA4dxmVkiVxf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10:45 AM - 11 PM",
+    "tue": "10:45 AM - 11 PM",
+    "wed": "10:45 AM - 11 PM",
+    "thu": "10:45 AM - 11 PM",
+    "fri": "10:45 AM - 11 PM",
+    "sat": "10:45 AM - 11 PM",
+    "sun": "10:45 AM - 11 PM"
+  },
+  "website": "https://locations.chipotle.com/az/phoenix/1838-w-baseline-rd?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=4086",
+  "lat": 33.3777629,
+  "lng": -112.0975448
 }

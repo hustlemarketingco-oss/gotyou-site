@@ -13,5 +13,36 @@
   "groundgameId": "6940fda6fabb6353f31bfeaa",
   "seededAt": "2025-12-16T06:35:18Z",
   "updatedAt": "2025-12-16T06:35:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7b0Aswm1RIYR3t_-rfKEueI",
+  "googleCid": "16337235301099298782",
+  "googleMapsUrl": "https://maps.google.com/?cid=16337235301099298782",
+  "googleRating": 4.2,
+  "googleReviewCount": 64,
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 3,
+    "4": 7,
+    "5": 44
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5nWkbZAg9mxSDZHYN6tJK22VwXxSSMGTh1-wMffYKmfuemEB0WZ31Q8LDYOhIkW9sLkHVg0bWW7U2b3Dx34cSCcG4SsLJTI8gIxduoQVv0sxHZ01NgC1yMLZsXtq-0S7KC2E=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=10888&postalCode=78701&rwg_token=AE37R_hjPqCIkkjKO67y44PNpdzJC6e1Y1pPWx_69XS8SBQtkR48mtW8BV5t1Q8FoX81Rvnxy9igOKYYsiZxE0grqWfbbiXeZnu9yZqsH8yKYNo37SnFwPY%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 7 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 7 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 7 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 7 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 7 PM",
+    "sat": "10 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "11 AM - 1:30 PM, 2 - 5 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/austin-tx-pharmacies/500-congress-ave-austin-tx-78701/storeid=10888?WT.mc_id=LS_GOOGLE_RX_10888",
+  "lat": 30.2673804,
+  "lng": -97.7434102
 }

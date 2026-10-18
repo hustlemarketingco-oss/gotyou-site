@@ -9,7 +9,7 @@
   "phone": "+14356287545",
   "placeId": "ChIJFx6z3i9FyoAR8Uu7qneIIOY",
   "googleRating": 3.6,
-  "googleReviewCount": 801,
+  "googleReviewCount": 839,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,33 @@
   "groundgameId": "6940d02184ee2e92fbf4adb0",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16582403875525053425",
+  "googleMapsUrl": "https://maps.google.com/?cid=16582403875525053425",
+  "ratingBreakdown": {
+    "1": 137,
+    "2": 67,
+    "3": 123,
+    "4": 192,
+    "5": 320
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6Z4pe5iU1xg8yzkqUBKeY8LyVMZbTd18A1e-ZX2KRcS6DDGbUZ5Qd9l5yO93-G3o2ts2Rj5t4tuhhhrWTqEOReyEfg-8z2-8wZqpA51qbIxco1yBLXK6g9-5z2z3DbYJ5Iv2_Ug=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6 AM - 12 AM",
+    "tue": "6 AM - 12 AM",
+    "wed": "6 AM - 12 AM",
+    "thu": "6 AM - 12 AM",
+    "fri": "6 AM - 12 AM",
+    "sat": "6 AM - 12 AM",
+    "sun": "7 AM - 11 PM"
+  },
+  "website": "https://burgerking.com/store-locator/store/10527",
+  "lat": 37.0880444,
+  "lng": -113.58303579999999
 }

@@ -9,7 +9,7 @@
   "phone": "+14356285067",
   "placeId": "ChIJJeDeYDFfyoARDSiNvCN5hXA",
   "googleRating": 3,
-  "googleReviewCount": 76,
+  "googleReviewCount": 77,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,34 @@
   "groundgameId": "6940d021fabb6353f31bdd36",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2025-12-16T07:27:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8108019898544629773",
+  "googleMapsUrl": "https://maps.google.com/?cid=8108019898544629773",
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 7,
+    "3": 10,
+    "4": 8,
+    "5": 26
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGuYMDGbTwg8XgoT9-mfkX5J14M_iyQtHrFfvvouKz0AE4oK78RA_co293V1VcvudPxtuuirCxmBTm_8tvFYj5wqqV0cFwus1JrB7Avwp665E2w_vXSwPW3U6l54oKn4hjYVpH=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "10 AM - 8 PM",
+    "tue": "10 AM - 8 PM",
+    "wed": "10 AM - 8 PM",
+    "thu": "10 AM - 8 PM",
+    "fri": "10 AM - 8 PM",
+    "sat": "10 AM - 5 PM",
+    "sun": "Closed"
+  },
+  "website": "https://www.blimpie.com/stores/11214?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+  "lat": 37.1615131,
+  "lng": -113.4347737
 }

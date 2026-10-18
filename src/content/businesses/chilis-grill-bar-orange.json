@@ -13,5 +13,37 @@
   "groundgameId": "694103747ecd7ba996037159",
   "seededAt": "2025-12-16T07:00:04Z",
   "updatedAt": "2025-12-16T07:00:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ6dbCi3LX3IAR53pYkPZIQEk",
+  "googleCid": "5278298987099093735",
+  "googleMapsUrl": "https://maps.google.com/?cid=5278298987099093735",
+  "googleRating": 4.1,
+  "googleReviewCount": 2442,
+  "ratingBreakdown": {
+    "1": 185,
+    "2": 113,
+    "3": 231,
+    "4": 552,
+    "5": 1361
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfi81kcfF0R86jPsBo0OB1r7MmNWZF9ki2RqQbIQPyc8fVMrO_P6GeuD7xBr3GHWM5E68D93kRC3VbM6qD-1_yPkfh2-5WWwq89sxpGz54u8f2iL7ctJgm73Y0Emad0I2lqzyEn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "11 AM - 10:30 PM",
+    "tue": "11 AM - 10:30 PM",
+    "wed": "11 AM - 10:30 PM",
+    "thu": "11 AM - 10:30 PM",
+    "fri": "11 AM - 11:30 PM",
+    "sat": "11 AM - 11:30 PM",
+    "sun": "11 AM - 10:30 PM"
+  },
+  "website": "https://www.chilis.com/locations/us/california/orange/orange?utm_source=google&utm_medium=local&utm_campaign=Chilis",
+  "lat": 33.809293,
+  "lng": -117.86743899999999
 }

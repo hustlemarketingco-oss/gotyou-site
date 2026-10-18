@@ -13,5 +13,36 @@
   "groundgameId": "6940fe78de70c5891382e971",
   "seededAt": "2025-12-16T06:38:48Z",
   "updatedAt": "2025-12-16T06:38:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJxUYvUlv4UocR66KmiqFVGok",
+  "googleCid": "9879302884894876395",
+  "googleMapsUrl": "https://maps.google.com/?cid=9879302884894876395",
+  "googleRating": 3.1,
+  "googleReviewCount": 98,
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 8,
+    "3": 2,
+    "4": 6,
+    "5": 43
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEJSAyp7jd867HUq64QTmRU8ZW9MvmY4YIwyYynaKG-qSm1hJN6-9gQWbra4krefhPpMam0IM_5JNeXjCnp0Gl3j-zSSxt-BJiBkBFp9TRUZiySb_-c_WvXWSCFxANt2Z9ozw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16877&postalCode=84014&rwg_token=AE37R_gcvrRWg8R_v76h4U2lEv0xHBKhi4O-uPpLYCXlLesHjuO0RO-spDjBsVtAxktBMQYpf3v6yExsG7uNDI5W-bjZHsAdFQ%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "12 - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/centerville-ut-pharmacies/200-n-market-place-dr-centerville-ut-84014/storeid=16877?WT.mc_id=LS_GOOGLE_RX_16877",
+  "lat": 40.918143099999995,
+  "lng": -111.886482
 }

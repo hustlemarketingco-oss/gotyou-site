@@ -13,5 +13,37 @@
   "groundgameId": "6940fbc5ec122db6122236d7",
   "seededAt": "2025-12-16T06:27:17Z",
   "updatedAt": "2026-09-22T15:30:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ0x1ZLACj6IgRHW3Eyr2MmyY",
+  "googleCid": "2781971941609991453",
+  "googleMapsUrl": "https://maps.google.com/?cid=2781971941609991453",
+  "googleRating": 4.6,
+  "googleReviewCount": 100,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 8,
+    "5": 80
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBTiJpnVvwyRqqE2-towZySNIg3IQy0HRegGHAkRv3BpRYL7ovrfqiDjcqwX8xLRnd_irL6dCUMHMmjmr0d5zcmH0JXEGQD1K3HD3zbjVzS5ytMdBvvZSca04evKegNdh3uZ2naoTy742o=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 4 PM",
+    "tue": "8 AM - 4 PM",
+    "wed": "8 AM - 4 PM",
+    "thu": "8 AM - 10 PM",
+    "fri": "8 AM - 10 PM",
+    "sat": "8 AM - 10 PM",
+    "sun": "8 AM - 4 PM"
+  },
+  "website": "https://www.cafe-voltaire.com/",
+  "lat": 29.6512277,
+  "lng": -82.3267523
 }

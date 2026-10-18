@@ -13,5 +13,35 @@
   "groundgameId": "694102bb141d538d4a57ba54",
   "seededAt": "2025-12-16T06:56:59Z",
   "updatedAt": "2025-12-16T06:56:59Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJEZ46A7K7woARO8iAuTo53dg",
+  "googleCid": "15626709206428600379",
+  "googleMapsUrl": "https://maps.google.com/?cid=15626709206428600379",
+  "googleRating": 3.2,
+  "googleReviewCount": 88,
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 3,
+    "4": 7,
+    "5": 42
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaCiQEpIkCl-dDAhsOSSK395iMYs0FfPAIhlyelYYdYreYdWCkndBRhxR24m0-KpuAu4lkKUfk-KTgn1O8H4xo0tXWnsZOPnSMotoPfXQ92LnoWU4MpK_JXHUBHKDUukoeWFliFycTHOl_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=8847&postalCode=90034&rwg_token=AE37R_gEWS5kzeHCTcKY_OwVVQ5-DrAWqTqVQfR2kd7X4eyl3WAKdU10i65LVyZXAxRjs5cR4wyYoCmS3RCeM0OD5aucBbd5zLlpGjAFmCYS6XskRRJ3_OE%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 12:30 PM, 1 - 10 PM",
+    "tue": "8 AM - 12:30 PM, 1 - 10 PM",
+    "wed": "8 AM - 12:30 PM, 1 - 10 PM",
+    "thu": "8 AM - 12:30 PM, 1 - 10 PM",
+    "fri": "8 AM - 12:30 PM, 1 - 10 PM",
+    "sat": "8 AM - 12:30 PM, 1 - 8 PM",
+    "sun": "8 AM - 12:30 PM, 1 - 8 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/los-angeles-ca-pharmacies/3010-south-sepulveda-boulevard-los-angeles-ca-90034/storeid=8847?WT.mc_id=LS_GOOGLE_RX_8847",
+  "lat": 34.0270132,
+  "lng": -118.427309
 }

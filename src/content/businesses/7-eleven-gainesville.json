@@ -9,8 +9,8 @@
   "phone": "+13522147861",
   "website": "https://www.7-eleven.com/locations/fl/gainesville/4207-n.w.-13th-street-40324",
   "placeId": "ChIJS-gM48Gl6IgRg0-SGRkJu54",
-  "googleRating": 3.1,
-  "googleReviewCount": 29,
+  "googleRating": 3.4,
+  "googleReviewCount": 47,
   "sameAs": [
     "https://www.facebook.com/7eleven",
     "https://www.instagram.com/7eleven",
@@ -23,5 +23,32 @@
   "groundgameId": "6940cacfc1452f153847882a",
   "seededAt": "2025-12-16T02:58:23Z",
   "updatedAt": "2025-12-16T06:27:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11437745682045357955",
+  "googleMapsUrl": "https://maps.google.com/?cid=11437745682045357955",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 2,
+    "3": 4,
+    "4": 8,
+    "5": 20
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdXJzby_K43ioM3BoQmVDJoYb5f_oyeYX8D5pJdRl636FD0ETFOkuVsW-e93_846AchYXogmQezjrqpbYcTOpw2ozawI3-aPlCqvOFzDr4pbtGIvbL7tnPLBPXNdhrgeDLWl0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 29.6925207,
+  "lng": -82.3382415
 }

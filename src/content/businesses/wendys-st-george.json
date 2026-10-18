@@ -8,8 +8,8 @@
   "zip": "84770",
   "phone": "+14356285830",
   "placeId": "ChIJIb5lmS9byoAR4y2Xd1loICA",
-  "googleRating": 3.8,
-  "googleReviewCount": 1260,
+  "googleRating": 3.7,
+  "googleReviewCount": 1308,
   "priceRange": "$",
   "timezone": "America/Denver",
   "claimStatus": "claimed",
@@ -17,5 +17,33 @@
   "groundgameId": "6940d0216bdaec373d38eb1a",
   "seededAt": "2025-12-16T03:21:05Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2314964941936209379",
+  "googleMapsUrl": "https://maps.google.com/?cid=2314964941936209379",
+  "ratingBreakdown": {
+    "1": 169,
+    "2": 85,
+    "3": 197,
+    "4": 311,
+    "5": 546
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQZ7TTCwX18lzqkQVWoxB1k4p9xoCL4hyHBg2LhsM9u81W0nQn5F4jWhOm8sKfHEX4hTvw4CCwKlGVzUaP-pnq8escLpSGT7TmztJzgc_YKwzyi1aBEccn152TABwv-QBtx9DT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "6:30 AM - 12 AM",
+    "tue": "6:30 AM - 12 AM",
+    "wed": "6:30 AM - 12 AM",
+    "thu": "6:30 AM - 12 AM",
+    "fri": "6:30 AM - 12 AM",
+    "sat": "6:30 AM - 12 AM",
+    "sun": "6:30 AM - 12 AM"
+  },
+  "website": "https://locations.wendys.com/united-states/ut/st-george/120-n-1000-e?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+  "lat": 37.1103071,
+  "lng": -113.56161429999999
 }

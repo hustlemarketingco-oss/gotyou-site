@@ -9,8 +9,8 @@
   "phone": "+14356280000",
   "website": "https://locations.qdoba.com/us/ut/st.-george/s-900-e-st",
   "placeId": "ChIJ05RoeaVbyoARw_CpZviJ8MI",
-  "googleRating": 5,
-  "googleReviewCount": 2,
+  "googleRating": 3.8,
+  "googleReviewCount": 5,
   "timezone": "America/Denver",
   "temporarilyClosed": true,
   "claimStatus": "claimed",
@@ -18,5 +18,16 @@
   "groundgameId": "6940d02243cfa783a58df495",
   "seededAt": "2025-12-16T03:21:06Z",
   "updatedAt": "2026-09-22T16:00:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14046878937735884995",
+  "googleMapsUrl": "https://maps.google.com/?cid=14046878937735884995",
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1jxx6DkUPOLwVzuST1-qm5I3Qvybd-oHDDL3WLkOuSF6_Sl7e6dYGGQx0b-mh7PeH5Y27oKeRxVXFkUbJgrJC0-m2fKKfbYTaI46TtCPjrlmVPsKxtPwWxpCkPu3x3og58Qqrjecn9yx8=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "lat": 37.1035275,
+  "lng": -113.5658696
 }

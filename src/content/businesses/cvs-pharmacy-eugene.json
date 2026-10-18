@@ -13,5 +13,36 @@
   "groundgameId": "6941043f141d538d4a57baaf",
   "seededAt": "2025-12-16T07:03:27Z",
   "updatedAt": "2026-09-22T15:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJp1AH1RscwVQRcr8TsoiqjQo",
+  "googleCid": "760451416175394674",
+  "googleMapsUrl": "https://maps.google.com/?cid=760451416175394674",
+  "googleRating": 2.6,
+  "googleReviewCount": 147,
+  "ratingBreakdown": {
+    "1": 74,
+    "2": 10,
+    "3": 7,
+    "4": 12,
+    "5": 44
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUQkDiRKIFrKc8lfcQFFU6oe0BdICEFx3GK-KvXkNeTWzkzBf4s267xoXXat0UnYCvHEPaqN4uGl570g9GTfrGZgeE2jQKADYEfrrqFESR75GLCFR99zazYNPSwJ9rztFTNRUlIQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "orderUrl": "https://www.cvs.com/scheduling/patient-lookup?lob=rximz&flow=vaccine&cid=ls_ph_google_gmb_avail&entryFlow=google&bookType=single&storeId=16744&postalCode=97402&rwg_token=AE37R_h2oeW4hLLjMY4CriqyJ9ll1YmitAj4ysZ8OmyEHgS0459Ofb4GdTcI9lygQ9k4kkIVFkY_tYozVQDJvx-w0Z0wc-Nzlg%3D%3D",
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "9 AM - 1:30 PM, 2 - 8 PM",
+    "tue": "9 AM - 1:30 PM, 2 - 8 PM",
+    "wed": "9 AM - 1:30 PM, 2 - 8 PM",
+    "thu": "9 AM - 1:30 PM, 2 - 8 PM",
+    "fri": "9 AM - 1:30 PM, 2 - 8 PM",
+    "sat": "9 AM - 1:30 PM, 2 - 6 PM",
+    "sun": "10 AM - 1:30 PM, 2 - 6 PM"
+  },
+  "website": "https://www.cvs.com/store-locator/eugene-or-pharmacies/4575-w-11th-ave-eugene-or-97402/storeid=16744?WT.mc_id=LS_GOOGLE_RX_16744",
+  "lat": 44.049020999999996,
+  "lng": -123.1713564
 }

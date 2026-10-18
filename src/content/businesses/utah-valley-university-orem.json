@@ -8,13 +8,42 @@
   "zip": "84058",
   "phone": "+18018638000",
   "placeId": "ChIJxfW57h6bTYcRoYrpE4Q9UmM",
-  "googleRating": 3.9,
-  "googleReviewCount": 374,
+  "googleRating": 4.1,
+  "googleReviewCount": 460,
   "timezone": "America/Denver",
   "claimStatus": "claimed",
   "checkinCount": 0,
   "groundgameId": "6940feebec122db612223aa5",
   "seededAt": "2025-12-16T06:40:43Z",
   "updatedAt": "2025-12-16T07:20:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7156850395324189345",
+  "googleMapsUrl": "https://maps.google.com/?cid=7156850395324189345",
+  "ratingBreakdown": {
+    "1": 69,
+    "2": 18,
+    "3": 24,
+    "4": 52,
+    "5": 297
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoS8N_X4-ekS4leSbX6IxdwSeTUXPw5y9jtIn5Jf2Yw_ZvLCzbEwvh21ElGdqJmM2f15zav5-OshHDCDvvdIWul1IvjKlTBCOySmCeMMUz4paadruU7tGEb2CUokHQDEl7N4vE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "hours": {
+    "mon": "8 AM - 5 PM",
+    "tue": "8 AM - 5 PM",
+    "wed": "8 AM - 5 PM",
+    "thu": "8 AM - 5 PM",
+    "fri": "8 AM - 5 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "website": "http://www.uvu.edu/",
+  "lat": 40.2787541,
+  "lng": -111.7153714
 }
