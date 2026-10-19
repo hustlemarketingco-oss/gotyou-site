@@ -183,6 +183,13 @@ const pageLd = [
           <span class="app-invite-btn">Get the app</span>
         </a>
       )}
+      {b.claimStatus === 'unclaimed' && (
+        <a class="app-invite" href={`/claim/?b=${b.slug}`}>
+          <i class="ti ti-building-store"></i>
+          <span><strong>Own {b.name}?</strong><small>Claim your free listing to manage your profile and start rewarding customers.</small></span>
+          <span class="app-invite-btn">Claim this business</span>
+        </a>
+      )}
     </div>
   </section>
 
