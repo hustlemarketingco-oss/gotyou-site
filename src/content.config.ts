@@ -48,7 +48,7 @@ const businesses = defineCollection({
     reservationUrl: z.string().url().optional(),
     gbpCheckedAt: z.string().datetime().optional(), // when directory-pipeline/enrich_gbp.py last matched it on Google
     ownerPhotoUrl: z.string().optional(), // photo supplied by the merchant after claiming; preferred over photoUrl // e.g. "Wheelchair accessible entrance", "Dine-in"
-    timezone: z.string().optional(), // IANA, e.g. "America/Denver" — used for the "Open now" badge
+    timezone: z.string().optional(), // IANA, e.g. "America/Denver" — used to highlight today in the hours table
     temporarilyClosed: z.boolean().default(false),
     source: z.string().optional(), // "gmaps-scraper" (directory-pipeline/export_gotyou.py) or "groundgame" (import_groundgame.py)
     groundgameId: z.string().optional(), // Ground Game CRM location id, for re-imports

@@ -173,13 +173,16 @@ const pageLd = [
         )}
         {b.priceRange && <span class="fact">{b.priceRange}</span>}
         <span class="fact"><i class="ti ti-map-pin"></i>{b.city}, {b.state}</span>
-        {b.temporarilyClosed ? (
-          <span class="open-pill closed">Temporarily closed</span>
-        ) : (
-          hasHours && <span class="open-pill" id="openNow" hidden></span>
-        )}
+        {b.temporarilyClosed && <span class="open-pill closed">Temporarily closed</span>}
         {b.claimStatus === 'claimed' && <span class="open-pill on"><i class="ti ti-circle-check-filled"></i> On GOTYOU</span>}
       </div>
+      {b.claimStatus === 'claimed' && (
+        <a class="app-invite" href="/download/">
+          <i class="ti ti-coins"></i>
+          <span><strong>Earn rewards at {b.name}</strong><small>Download the free GOTYOU app to check in and earn.</small></span>
+          <span class="app-invite-btn">Get the app</span>
+        </a>
+      )}
     </div>
   </section>
 
@@ -211,7 +214,7 @@ const pageLd = [
         </section>
 
         {hasHours && (
-          <section class="block reveal" id="hoursBlock" data-tz={b.timezone ?? ''} data-hours={JSON.stringify(b.hours)}>
+          <section class="block reveal" id="hoursBlock" data-tz={b.timezone ?? ''}>
             <h2>Hours</h2>
             <table class="hours">
               <tbody>
@@ -321,52 +324,14 @@ const pageLd = [
   )}
 
   <script>
-    // Highlight today's row and show "Open now / Closed now" in the business's own timezone.
+    // Highlight today's row in the business's own timezone.
     const block = document.getElementById('hoursBlock');
     if (block) {
-      const tz = block.dataset.tz || undefined;
-      const hours: Record<string, string> = JSON.parse(block.dataset.hours || '{}');
-      const parts = Object.fromEntries(
-        new Intl.DateTimeFormat('en-US', { timeZone: tz, weekday: 'short', hour: 'numeric', minute: 'numeric', hourCycle: 'h23' })
-          .formatToParts(new Date())
-          .map((p) => [p.type, p.value]),
-      );
-      const keys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
-      const today = parts.weekday.toLowerCase().slice(0, 3);
-      const yesterday = keys[(keys.indexOf(today) + 6) % 7];
-      const now = Number(parts.hour) * 60 + Number(parts.minute);
+      const today = new Intl.DateTimeFormat('en-US', { timeZone: block.dataset.tz || undefined, weekday: 'short' })
+        .format(new Date())
+        .toLowerCase()
+        .slice(0, 3);
       block.querySelector(`tr[data-day="${today}"]`)?.classList.add('today');
-
-      const mins = (s: string) => {
-        const m = s.trim().match(/^(\d{1,2}):(\d{2}) (AM|PM)$/);
-        return m ? ((Number(m[1]) % 12) + (m[3] === 'PM' ? 12 : 0)) * 60 + Number(m[2]) : null;
-      };
-      const ranges = (v?: string) =>
-        !v || v === 'Closed'
-          ? []
-          : /open 24 hours/i.test(v)
-            ? [[0, 1440]]
-            : v.split(',').map((r) => r.split(' - ').map(mins)).filter((r) => r.length === 2 && r[0] !== null && r[1] !== null) as number[][];
-
-      let open = false;
-      let closesAt: number | null = null;
-      for (const [o, c] of ranges(hours[today])) {
-        const end = c <= o ? c + 1440 : c; // past midnight
-        if (now >= o && now < end) (open = true), (closesAt = end % 1440);
-      }
-      for (const [o, c] of ranges(hours[yesterday])) {
-        if (c <= o && now < c) (open = true), (closesAt = c); // still open from last night
-      }
-      const pill = document.getElementById('openNow');
-      if (pill && hours[today] !== undefined) {
-        const fmt = (m: number) => {
-          const h = Math.floor(m / 60) % 24;
-          return `${h % 12 || 12}${m % 60 ? `:${String(m % 60).padStart(2, '0')}` : ''} ${h < 12 ? 'AM' : 'PM'}`;
-        };
-        pill.textContent = open ? (closesAt === 0 && /24 hours/i.test(hours[today]) ? 'Open 24 hours' : `Open now · until ${fmt(closesAt ?? 0)}`) : 'Closed now';
-        pill.classList.add(open ? 'open' : 'closed');
-        pill.hidden = false;
-      }
     }
   </script>
 </BaseLayout>
@@ -470,11 +435,6 @@ const pageLd = [
     font-size: 13px;
     font-weight: 600;
   }
-  .open-pill.open {
-    background: rgba(34, 197, 94, 0.18);
-    color: #6ee7a0;
-    border: 1px solid rgba(34, 197, 94, 0.4);
-  }
   .open-pill.closed {
     background: rgba(255, 107, 43, 0.16);
     color: #ffb08a;
@@ -483,6 +443,56 @@ const pageLd = [
   .open-pill.on {
     background: var(--yellow);
     color: var(--navy);
+  }
+  .app-invite {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    max-width: 560px;
+    margin-top: 18px;
+    padding: 14px 16px;
+    border-radius: 16px;
+    background: rgba(21, 26, 46, 0.72);
+    border: 1px solid rgba(228, 255, 26, 0.45);
+    backdrop-filter: blur(6px);
+    color: #fff;
+    text-decoration: none;
+  }
+  .app-invite > i {
+    font-size: 1.6rem;
+    color: var(--lime);
+  }
+  .app-invite > span:not(.app-invite-btn) {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0;
+    line-height: 1.3;
+  }
+  .app-invite small {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.85rem;
+  }
+  .app-invite-btn {
+    flex-shrink: 0;
+    padding: 9px 16px;
+    border-radius: 999px;
+    background: var(--lime);
+    color: var(--lime-ink);
+    font-weight: 700;
+    font-size: 0.9rem;
+  }
+  .app-invite:hover .app-invite-btn {
+    background: #d4f000;
+  }
+  @media (max-width: 420px) {
+    .app-invite {
+      flex-wrap: wrap;
+    }
+    .app-invite-btn {
+      width: 100%;
+      text-align: center;
+    }
   }
 
   /* ── action bar ── */
