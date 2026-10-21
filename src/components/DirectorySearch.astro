@@ -207,6 +207,26 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
   let shown = PAGE;
   let current: Biz[] = [];
   let user: Spot | null = null;
+  let elsewhere = 0; // matches for the current search outside the chosen location
+
+  // Search words, loosely: accents and case ignored, plurals reduced ("restaurants" finds "Restaurant",
+  // "tacos" finds "Taco"), and filler like "near me" dropped. Every remaining word has to match.
+  const ACCENTS = new RegExp(`[${String.fromCharCode(0x300)}-${String.fromCharCode(0x36f)}]`, 'g'); // combining marks after NFD
+  const fold = (s: string) => s.normalize('NFD').replace(ACCENTS, '').toLowerCase();
+  const STOP = new Set(['near', 'me', 'in', 'the', 'and', 'a', 'of', 'best', 'good', 'places', 'place', 'spots', 'spot', 'food']);
+  const stem = (w: string) => (w.length > 4 && /(ies)$/.test(w) ? w.slice(0, -3) + 'y' : w.length > 4 && /(ches|shes|sses|xes)$/.test(w) ? w.slice(0, -2) : w.length > 3 && w.endsWith('s') && !w.endsWith('ss') ? w.slice(0, -1) : w);
+  function queryWords(q: string) {
+    const all = fold(q).split(/[^a-z0-9$']+/).filter(Boolean);
+    const kept = all.filter((w) => !STOP.has(w));
+    return (kept.length ? kept : all).map(stem);
+  }
+  const hay = new WeakMap<Biz, string>();
+  function matchesWords(b: Biz, words: string[]) {
+    if (!words.length) return true;
+    let h = hay.get(b);
+    if (h === undefined) hay.set(b, (h = fold(`${b.name} ${b.googleCategory} ${b.category} ${b.address} ${b.city}`)));
+    return words.every((w) => h!.includes(w));
+  }
 
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
@@ -303,7 +323,7 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
   });
 
   locateBtn?.addEventListener('click', () => {
-    if (!navigator.geolocation) return note('Your browser can’t share a location. Pick an area instead.');
+    if (!navigator.geolocation) return note('Your browser can’t share your location. Pick an area above — search works either way.');
     locateBtn.classList.add('busy');
     navigator.geolocation.getCurrentPosition(
       async (p) => {
@@ -313,9 +333,13 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
         save();
         apply();
       },
-      () => {
+      (err) => {
         locateBtn.classList.remove('busy');
-        note('We couldn’t get your location. Pick an area instead.');
+        note(
+          err.code === err.PERMISSION_DENIED
+            ? 'Location is turned off for this site. Pick an area above — search works either way.'
+            : 'We couldn’t pin down your location. Pick an area above — search works either way.',
+        );
       },
       { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 },
     );
@@ -375,11 +399,22 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
 
   function render() {
     if (!current.length) {
-      resultCount.innerHTML = `${plural(0)}${cityFilter.value ? ` near ${esc(locLabel(cityFilter.value))}` : ''}`;
+      const v = cityFilter.value;
+      resultCount.innerHTML = `${plural(0)}${v ? ` ${v === 'near' ? 'near' : 'in'} ${esc(locLabel(v))}` : ''}`;
       grid.classList.remove('grouped');
-      grid.innerHTML = `<div class="empty"><i class="ti ti-mood-search"></i><p>Nothing matches that yet.</p>
-        <button type="button" class="reset" id="resetFilters">Clear filters</button></div>`;
+      // Matches exist outside the chosen location: offer them instead of a dead end.
+      const widen = v && elsewhere
+        ? `<button type="button" class="reset reset--primary" id="widenSearch">See ${plural(elsewhere)} in all areas</button>`
+        : '';
+      grid.innerHTML = `<div class="empty"><i class="ti ti-mood-search"></i><p>Nothing matches that${v ? ` in ${esc(locLabel(v))}` : ''} yet.</p>
+        ${widen}<button type="button" class="reset" id="resetFilters">Clear search</button></div>`;
       document.getElementById('resetFilters')?.addEventListener('click', reset);
+      document.getElementById('widenSearch')?.addEventListener('click', () => {
+        cityFilter.value = '';
+        note('');
+        save();
+        apply();
+      });
       loadMore.hidden = true;
       return;
     }
@@ -398,16 +433,13 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
       await load();
       grid.removeAttribute('aria-busy');
     }
-    const q = searchInput.value.toLowerCase().trim();
+    const words = queryWords(searchInput.value);
     const v = cityFilter.value;
     const inLocation =
       v === 'near' ? (b: Biz) => km(b) <= NEAR_KM : v.startsWith('area:') ? (b: Biz) => b.area === v.slice(5) : v ? (b: Biz) => `${b.city}, ${b.state}` === v : () => true;
-    current = ALL.filter(
-      (b) =>
-        (!q || `${b.name} ${b.googleCategory} ${b.category} ${b.address}`.toLowerCase().includes(q)) &&
-        inLocation(b) &&
-        (activeCategory === 'All' || b.category === activeCategory),
-    );
+    const matches = ALL.filter((b) => matchesWords(b, words) && (activeCategory === 'All' || b.category === activeCategory));
+    current = matches.filter(inLocation);
+    elsewhere = matches.length - current.length;
     const sort = sortSelect.value;
     current.sort((a, b) =>
       sort === 'name'
@@ -736,6 +768,12 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
     font: 600 14px var(--font-body);
     color: var(--text);
     cursor: pointer;
+  }
+  .grid :global(.reset--primary) {
+    background: var(--blue);
+    border-color: var(--blue);
+    color: #fff;
+    margin-right: 8px;
   }
 
   .grid.grouped {
