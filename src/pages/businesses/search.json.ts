@@ -22,6 +22,8 @@ export const GET: APIRoute = async () => {
     b.googleReviewCount ?? 0,
     b.priceRange ?? '',
     sizedPhoto(b.photoUrl, 640, 420) ?? '',
+    b.lat != null ? Math.round(b.lat * 1e5) / 1e5 : null,
+    b.lng != null ? Math.round(b.lng * 1e5) / 1e5 : null,
   ]);
   return new Response(JSON.stringify({ cats, rows }), { headers: { 'Content-Type': 'application/json' } });
 };

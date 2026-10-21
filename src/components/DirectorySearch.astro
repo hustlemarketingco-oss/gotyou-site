@@ -1,11 +1,15 @@
 ---
-// The one interactive piece of the directory. The first page of cards is rendered on the server
-// (fast first paint, crawlable links); the full search index is a static file
-// (/businesses/search.json, see search.json.ts) fetched once and filtered with vanilla JS.
+// The one interactive piece of the directory. The default view (popular spots in each area, grouped by
+// state) is rendered on the server for a fast first paint and crawlable links; the full search index is a
+// static file (/businesses/search.json, see search.json.ts) fetched once and filtered with vanilla JS.
 // Past ~20k businesses, swap this for a Cloudflare Worker search endpoint.
 //
-// The search input (#searchInput) and city select (#cityFilter) live in the page hero; this
-// component owns the category pills, sorting, the card grid and paging. Filters are mirrored to
+// Location: the page opens on the visitor's area when we can tell where they are — first from a choice they
+// made before (localStorage), then from Cloudflare's IP lookup (/api/geo, no permission prompt), or precisely
+// from the browser when they press "Use my location". Visitors outside every area get the grouped view.
+//
+// The search input (#searchInput), location select (#cityFilter), locate button and note live in the page
+// hero; this component owns the category pills, sorting, the card grid and paging. Filters are mirrored to
 // the URL (?q=&city=&cat=&sort=) so a filtered view can be linked and survives back/forward.
 import { CATEGORY_ICONS } from '../lib/business';
 
@@ -22,18 +26,34 @@ export interface BusinessSearchEntry {
   reviews: number;
   price: string;
   photo: string;
+  area: string;
+}
+
+export interface DirectoryArea {
+  name: string;
+  state: string;
+  stateName: string;
+  count: number;
+  cities: string[];
 }
 
 interface Props {
   businesses: BusinessSearchEntry[];
+  areas: DirectoryArea[];
 }
 
-const { businesses } = Astro.props;
-// "Most popular": GOTYOU partners first, then rating weighted by review volume (same order as the client script).
+const { businesses, areas } = Astro.props;
+const GROUP = 8;
+// "Recommended": GOTYOU partners first, then rating weighted by review volume (same order as the client script).
 const popularity = (b: BusinessSearchEntry) => (b.claimStatus === 'claimed' ? 100 : 0) + (b.rating ? b.rating * Math.log10(b.reviews + 10) : 0);
-const first = [...businesses].sort((a, b) => popularity(b) - popularity(a)).slice(0, 24);
+const groups = areas.map((a) => ({
+  ...a,
+  top: businesses.filter((b) => b.area === a.name).sort((x, y) => popularity(y) - popularity(x)).slice(0, GROUP),
+}));
 const counts = businesses.reduce<Record<string, number>>((acc, b) => ((acc[b.category] = (acc[b.category] ?? 0) + 1), acc), {});
 const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+const cityArea = Object.fromEntries(areas.flatMap((a) => a.cities.map((c) => [c, a.name])));
+const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ name, state, stateName, count })), cityArea };
 ---
 
 <section class="dir-body">
@@ -48,11 +68,13 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
         ))}
       </div>
       <div class="toolbar-row">
-        <div class="result-count" id="resultCount" aria-live="polite"></div>
+        <div class="result-count" id="resultCount" aria-live="polite">
+          <strong>{businesses.length.toLocaleString()}</strong> places in {areas.length} {areas.length === 1 ? 'area' : 'areas'}
+        </div>
         <label class="sort">
           Sort
           <select id="sortSelect">
-            <option value="popular">Most popular</option>
+            <option value="popular">Recommended</option>
             <option value="rating">Top rated</option>
             <option value="name">A–Z</option>
           </select>
@@ -60,34 +82,50 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
       </div>
     </div>
 
-    <div class="grid" id="bizGrid" data-total={businesses.length}>
-      {first.map((b) => {
-        const icon = CATEGORY_ICONS[b.category] ?? 'ti-building-store';
-        return (
-          <a href={`/businesses/${b.slug}`} class="card">
-            <div class="photo">
-              <span class="ph"><i class:list={['ti', icon]}></i></span>
-              {b.photo && <img src={b.photo} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
-              <span class="chip"><i class:list={['ti', icon]}></i>{b.category}</span>
-              {b.claimStatus === 'claimed' && <span class="badge badge--on"><i class="ti ti-circle-check-filled"></i> On GOTYOU</span>}
+    <div class="grid grouped" id="bizGrid">
+      {groups.map((g) => (
+        <section class="group">
+          <div class="group-head">
+            <div>
+              <span class="group-state">{g.stateName}</span>
+              <h2>Popular in {g.name}, {g.state}</h2>
             </div>
-            <div class="body">
-              <h3>{b.name}</h3>
-              <div class="sub">{b.googleCategory}{b.price ? ` · ${b.price}` : ''}</div>
-              <div class="foot">
-                {b.rating ? <span class="rating"><i class="ti ti-star-filled"></i>{b.rating.toFixed(1)}<span class="cnt">({b.reviews.toLocaleString()})</span></span> : <span class="rating rating--none">No reviews yet</span>}
-                <span class="loc"><i class="ti ti-map-pin"></i>{b.city}</span>
-              </div>
-            </div>
-          </a>
-        );
-      })}
+            <a class="see-all" href={`/businesses/?city=${encodeURIComponent(`area:${g.name}`)}`} data-loc={`area:${g.name}`}>
+              See all {g.count.toLocaleString()} <i class="ti ti-arrow-right"></i>
+            </a>
+          </div>
+          <div class="group-grid">
+            {g.top.map((b) => {
+              const icon = CATEGORY_ICONS[b.category] ?? 'ti-building-store';
+              return (
+                <a href={`/businesses/${b.slug}`} class="card">
+                  <div class="photo">
+                    <span class="ph"><i class:list={['ti', icon]}></i></span>
+                    {b.photo && <img src={b.photo} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />}
+                    <span class="chip"><i class:list={['ti', icon]}></i>{b.category}</span>
+                    {b.claimStatus === 'claimed' && <span class="badge badge--on"><i class="ti ti-circle-check-filled"></i> On GOTYOU</span>}
+                  </div>
+                  <div class="body">
+                    <h3>{b.name}</h3>
+                    <div class="sub">{b.googleCategory}{b.price ? ` · ${b.price}` : ''}</div>
+                    <div class="foot">
+                      {b.rating ? <span class="rating"><i class="ti ti-star-filled"></i>{b.rating.toFixed(1)}<span class="cnt">({b.reviews.toLocaleString()})</span></span> : <span class="rating rating--none">No reviews yet</span>}
+                      <span class="loc"><i class="ti ti-map-pin"></i>{b.city}</span>
+                    </div>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      ))}
     </div>
-    <div class="more-wrap"><button class="more" id="loadMore">Show more</button></div>
+    <div class="more-wrap"><button class="more" id="loadMore" hidden>Show more</button></div>
   </div>
 </section>
 
 <script type="application/json" id="categoryIcons" set:html={JSON.stringify(CATEGORY_ICONS)} />
+<script type="application/json" id="areaData" set:html={JSON.stringify(areaData)} />
 
 <script>
   type Biz = {
@@ -103,12 +141,29 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     reviews: number;
     price: string;
     photo: string;
+    lat: number | null;
+    lng: number | null;
+    approx?: boolean; // no coordinates of its own; placed at the middle of its city
+    area: string;
   };
+  type Area = { name: string; state: string; stateName: string; count: number };
+  type Spot = { lat: number; lng: number; precise: boolean; label: string };
 
   const PAGE = 24;
+  const GROUP = 8;
+  const NEAR_KM = 40; // "Near me" shows listings within ~25 miles
+  const SERVED_KM = 60; // closer than this to any listing counts as being in one of our areas
+  const SAVE_KEY = 'gotyou-dir-location';
+
+  const { areas: AREAS, cityArea: CITY_AREA } = JSON.parse(document.getElementById('areaData')?.textContent || '{}') as {
+    areas: Area[];
+    cityArea: Record<string, string>;
+  };
+  const ICONS: Record<string, string> = JSON.parse(document.getElementById('categoryIcons')?.textContent || '{}');
+
   let ALL: Biz[] = [];
   // search.json is a list of tuples (see search.json.ts) to keep the download small.
-  const FIELDS = ['slug', 'name', 'category', 'googleCategory', 'city', 'state', 'address', 'claimStatus', 'rating', 'reviews', 'price', 'photo'] as const;
+  const FIELDS = ['slug', 'name', 'category', 'googleCategory', 'city', 'state', 'address', 'claimStatus', 'rating', 'reviews', 'price', 'photo', 'lat', 'lng'] as const;
   const STATUS = ['unclaimed', 'pending', 'claimed'] as const;
   let loading: Promise<void> | null = null;
   function load() {
@@ -119,15 +174,29 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
           const o = Object.fromEntries(FIELDS.map((f, i) => [f, r[i]])) as Record<string, unknown>;
           o.category = rows.cats[o.category as number];
           o.claimStatus = STATUS[o.claimStatus as number];
+          o.area = CITY_AREA[`${o.city}, ${o.state}`] ?? o.state;
           return o as unknown as Biz;
         });
+        // Listings without coordinates sit at the middle of their city, so "near me" still finds them.
+        const sums = new Map<string, [number, number, number]>();
+        for (const b of ALL) {
+          if (b.lat == null || b.lng == null) continue;
+          const k = `${b.city}|${b.state}`;
+          const s = sums.get(k) ?? [0, 0, 0];
+          sums.set(k, [s[0] + b.lat, s[1] + b.lng, s[2] + 1]);
+        }
+        for (const b of ALL) {
+          const s = b.lat == null || b.lng == null ? sums.get(`${b.city}|${b.state}`) : undefined;
+          if (s) [b.lat, b.lng, b.approx] = [s[0] / s[2], s[1] / s[2], true];
+        }
       });
     return loading;
   }
-  const ICONS: Record<string, string> = JSON.parse(document.getElementById('categoryIcons')?.textContent || '{}');
 
   const searchInput = document.getElementById('searchInput') as HTMLInputElement;
   const cityFilter = document.getElementById('cityFilter') as HTMLSelectElement;
+  const locateBtn = document.getElementById('locateBtn') as HTMLButtonElement | null;
+  const locNote = document.getElementById('locNote') as HTMLParagraphElement | null;
   const sortSelect = document.getElementById('sortSelect') as HTMLSelectElement;
   const pills = [...document.querySelectorAll<HTMLButtonElement>('#categoryPills .pill')];
   const grid = document.getElementById('bizGrid') as HTMLDivElement;
@@ -137,6 +206,7 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   let activeCategory = 'All';
   let shown = PAGE;
   let current: Biz[] = [];
+  let user: Spot | null = null;
 
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
@@ -144,6 +214,114 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   // Rating weighted by review volume, so a 5.0 with 3 reviews doesn't outrank a 4.6 with 2,000.
   const popularity = (b: Biz) => (b.claimStatus === 'claimed' ? 100 : 0) + (b.rating ? b.rating * Math.log10(b.reviews + 10) : 0);
 
+  function km(b: Biz) {
+    if (!user || b.lat == null || b.lng == null) return Infinity;
+    const rad = Math.PI / 180;
+    const dLat = (b.lat - user.lat) * rad;
+    const dLng = (b.lng - user.lng) * rad;
+    const h = Math.sin(dLat / 2) ** 2 + Math.cos(user.lat * rad) * Math.cos(b.lat * rad) * Math.sin(dLng / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(h));
+  }
+  // Listings placed at their city's middle go after ones with a real position.
+  const nearest = (b: Biz) => km(b) + (b.approx ? 8 : 0);
+  // Recommended, once we know where the visitor is: popularity, gently discounted by distance.
+  const recommended = (b: Biz) => {
+    const d = km(b);
+    return d === Infinity ? popularity(b) : popularity(b) / (1 + d / 8);
+  };
+
+  // --- location -------------------------------------------------------------------------------------------
+  const locLabel = (v: string) =>
+    v === 'near' ? (user?.precise ? 'you' : user?.label ?? 'you') : v.startsWith('area:') ? areaLabel(v.slice(5)) : v;
+  const areaLabel = (name: string) => {
+    const a = AREAS.find((x) => x.name === name);
+    return a ? `${a.name}, ${a.state}` : name;
+  };
+
+  function setNearOption() {
+    let opt = cityFilter.querySelector<HTMLOptionElement>('option[value="near"]');
+    if (!user) return opt?.remove();
+    if (!opt) {
+      opt = document.createElement('option');
+      opt.value = 'near';
+      cityFilter.options[0].after(opt); // right after "All areas" (the other options sit inside state optgroups)
+    }
+    opt.textContent = user.precise ? 'Near me' : `Near ${user.label}`;
+    // "Nearest" only makes sense with a location; with an IP guess it is city-level, so keep it to precise fixes.
+    let byDist = sortSelect.querySelector<HTMLOptionElement>('option[value="nearest"]');
+    if (user.precise && !byDist) {
+      byDist = document.createElement('option');
+      byDist.value = 'nearest';
+      byDist.textContent = 'Nearest';
+      sortSelect.insertBefore(byDist, sortSelect.options[1] ?? null);
+    }
+  }
+
+  function note(html: string) {
+    if (!locNote) return;
+    locNote.innerHTML = html;
+    locNote.hidden = !html;
+  }
+
+  function save() {
+    try {
+      localStorage.setItem(SAVE_KEY, JSON.stringify({ loc: cityFilter.value, user }));
+    } catch {}
+  }
+  function restore(): { loc: string; user: Spot | null } | null {
+    try {
+      return JSON.parse(localStorage.getItem(SAVE_KEY) || 'null');
+    } catch {
+      return null;
+    }
+  }
+
+  // Pick "near" when the visitor is close to any listing, otherwise show every area grouped by state.
+  async function useSpot(spot: Spot) {
+    user = spot;
+    setNearOption();
+    await load();
+    const nearest = Math.min(...ALL.map(km));
+    if (nearest <= SERVED_KM) {
+      cityFilter.value = 'near';
+      note(`<i class="ti ti-map-pin"></i> Showing spots near ${esc(locLabel('near'))} · <button type="button" data-act="all">See all areas</button>`);
+    } else {
+      cityFilter.value = '';
+      if (sortSelect.value === 'nearest') sortSelect.value = 'popular';
+      const where = spot.precise ? 'your area' : esc(spot.label);
+      note(`GOTYOU isn’t in ${where} yet. Here’s what’s popular where we are.`);
+    }
+  }
+
+  locNote?.addEventListener('click', (e) => {
+    if ((e.target as HTMLElement).closest('[data-act="all"]')) {
+      cityFilter.value = '';
+      note('');
+      save();
+      apply();
+    }
+  });
+
+  locateBtn?.addEventListener('click', () => {
+    if (!navigator.geolocation) return note('Your browser can’t share a location. Pick an area instead.');
+    locateBtn.classList.add('busy');
+    navigator.geolocation.getCurrentPosition(
+      async (p) => {
+        locateBtn.classList.remove('busy');
+        await useSpot({ lat: p.coords.latitude, lng: p.coords.longitude, precise: true, label: 'you' });
+        if (cityFilter.value === 'near') sortSelect.value = 'nearest';
+        save();
+        apply();
+      },
+      () => {
+        locateBtn.classList.remove('busy');
+        note('We couldn’t get your location. Pick an area instead.');
+      },
+      { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 },
+    );
+  });
+
+  // --- rendering ------------------------------------------------------------------------------------------
   function card(b: Biz) {
     const icon = ICONS[b.category] ?? 'ti-building-store';
     const photo = b.photo
@@ -156,6 +334,9 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     const rating = b.rating
       ? `<span class="rating"><i class="ti ti-star-filled"></i>${b.rating.toFixed(1)}<span class="cnt">(${b.reviews.toLocaleString()})</span></span>`
       : '<span class="rating rating--none">No reviews yet</span>';
+    const d = user?.precise && !b.approx ? km(b) : Infinity;
+    const mi = d / 1.609;
+    const where = d < 160 ? `${esc(b.city)} · ${mi < 0.1 ? '&lt;0.1' : mi.toFixed(mi < 10 ? 1 : 0)} mi` : esc(b.city);
     return `
       <a href="/businesses/${b.slug}" class="card">
         <div class="photo"><span class="ph"><i class="ti ${icon}"></i></span>${photo}
@@ -164,22 +345,48 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
         <div class="body">
           <h3>${esc(b.name)}</h3>
           <div class="sub">${esc(b.googleCategory)}${b.price ? ` · ${esc(b.price)}` : ''}</div>
-          <div class="foot">${rating}<span class="loc"><i class="ti ti-map-pin"></i>${esc(b.city)}</span></div>
+          <div class="foot">${rating}<span class="loc"><i class="ti ti-map-pin"></i>${where}</span></div>
         </div>
       </a>`;
   }
 
+  const plural = (n: number) => `<strong>${n.toLocaleString()}</strong> ${n === 1 ? 'place' : 'places'}`;
+
+  // No location chosen: the top spots in each area, grouped by state, nearest area first when we know where the visitor is.
+  function renderGrouped() {
+    const groups = AREAS.map((a) => ({ a, items: current.filter((b) => b.area === a.name) })).filter((g) => g.items.length);
+    if (user) groups.sort((x, y) => Math.min(...x.items.map(km)) - Math.min(...y.items.map(km)));
+    resultCount.innerHTML = `${plural(current.length)} in ${groups.length} ${groups.length === 1 ? 'area' : 'areas'}`;
+    grid.classList.add('grouped');
+    loadMore.hidden = true;
+    grid.innerHTML = groups
+      .map(
+        ({ a, items }) => `
+        <section class="group">
+          <div class="group-head">
+            <div><span class="group-state">${esc(a.stateName)}</span><h2>Popular in ${esc(a.name)}, ${esc(a.state)}</h2></div>
+            <a class="see-all" href="?city=${encodeURIComponent(`area:${a.name}`)}" data-loc="${esc(`area:${a.name}`)}">See all ${items.length.toLocaleString()} <i class="ti ti-arrow-right"></i></a>
+          </div>
+          <div class="group-grid">${items.slice(0, GROUP).map(card).join('')}</div>
+        </section>`,
+      )
+      .join('');
+  }
+
   function render() {
-    resultCount.innerHTML = `<strong>${current.length.toLocaleString()}</strong> ${current.length === 1 ? 'place' : 'places'}${
-      cityFilter.value ? ` in ${esc(cityFilter.value)}` : ''
-    }`;
     if (!current.length) {
+      resultCount.innerHTML = `${plural(0)}${cityFilter.value ? ` near ${esc(locLabel(cityFilter.value))}` : ''}`;
+      grid.classList.remove('grouped');
       grid.innerHTML = `<div class="empty"><i class="ti ti-mood-search"></i><p>Nothing matches that yet.</p>
         <button type="button" class="reset" id="resetFilters">Clear filters</button></div>`;
       document.getElementById('resetFilters')?.addEventListener('click', reset);
       loadMore.hidden = true;
       return;
     }
+    if (!cityFilter.value) return renderGrouped();
+    const v = cityFilter.value;
+    resultCount.innerHTML = `${plural(current.length)} ${v === 'near' ? 'near' : 'in'} ${esc(locLabel(v))}`;
+    grid.classList.remove('grouped');
     grid.innerHTML = current.slice(0, shown).map(card).join('');
     loadMore.hidden = shown >= current.length;
     loadMore.textContent = `Show more (${(current.length - shown).toLocaleString()} left)`;
@@ -192,11 +399,13 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
       grid.removeAttribute('aria-busy');
     }
     const q = searchInput.value.toLowerCase().trim();
-    const city = cityFilter.value;
+    const v = cityFilter.value;
+    const inLocation =
+      v === 'near' ? (b: Biz) => km(b) <= NEAR_KM : v.startsWith('area:') ? (b: Biz) => b.area === v.slice(5) : v ? (b: Biz) => `${b.city}, ${b.state}` === v : () => true;
     current = ALL.filter(
       (b) =>
         (!q || `${b.name} ${b.googleCategory} ${b.category} ${b.address}`.toLowerCase().includes(q)) &&
-        (!city || `${b.city}, ${b.state}` === city) &&
+        inLocation(b) &&
         (activeCategory === 'All' || b.category === activeCategory),
     );
     const sort = sortSelect.value;
@@ -205,7 +414,9 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
         ? a.name.localeCompare(b.name)
         : sort === 'rating'
           ? b.rating - a.rating || b.reviews - a.reviews
-          : popularity(b) - popularity(a),
+          : sort === 'nearest'
+            ? nearest(a) - nearest(b)
+            : recommended(b) - recommended(a),
     );
     if (resetPaging) shown = PAGE;
     render();
@@ -224,7 +435,8 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   function syncUrl() {
     const p = new URLSearchParams();
     if (searchInput.value.trim()) p.set('q', searchInput.value.trim());
-    if (cityFilter.value) p.set('city', cityFilter.value);
+    // "near" is personal (it depends on where the visitor is), so it isn't put in shareable links.
+    if (cityFilter.value && cityFilter.value !== 'near') p.set('city', cityFilter.value);
     if (activeCategory !== 'All') p.set('cat', activeCategory);
     if (sortSelect.value !== 'popular') p.set('sort', sortSelect.value);
     const qs = p.toString();
@@ -233,39 +445,74 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
 
   function reset() {
     searchInput.value = '';
-    cityFilter.value = '';
     setCategory('All');
     apply();
   }
-
-  // Restore filters from the URL.
-  const params = new URLSearchParams(location.search);
-  searchInput.value = params.get('q') ?? '';
-  if ([...cityFilter.options].some((o) => o.value === params.get('city'))) cityFilter.value = params.get('city')!;
-  if ([...sortSelect.options].some((o) => o.value === params.get('sort'))) sortSelect.value = params.get('sort')!;
-  setCategory(params.get('cat') ?? 'All');
 
   let t: number | undefined;
   searchInput.addEventListener('input', () => {
     clearTimeout(t);
     t = window.setTimeout(() => apply(), 120);
   });
-  cityFilter.addEventListener('change', () => apply());
+  cityFilter.addEventListener('change', () => {
+    note('');
+    if (sortSelect.value === 'nearest' && cityFilter.value !== 'near') sortSelect.value = 'popular';
+    save();
+    apply();
+  });
   sortSelect.addEventListener('change', () => apply());
   pills.forEach((p) => p.addEventListener('click', () => (setCategory(p.dataset.cat || 'All'), apply())));
+  grid.addEventListener('click', (e) => {
+    const link = (e.target as HTMLElement).closest<HTMLAnchorElement>('a[data-loc]');
+    if (!link) return;
+    e.preventDefault();
+    cityFilter.value = link.dataset.loc!;
+    note('');
+    save();
+    apply();
+    document.querySelector('.dir-body')?.scrollIntoView({ behavior: 'smooth' });
+  });
   loadMore.addEventListener('click', async () => {
     if (!ALL.length) await apply();
     shown += PAGE;
     render();
   });
 
-  // The server already rendered the default view; only load the index straight away when the URL asks for a filter.
-  if (params.toString()) apply();
-  else {
-    resultCount.innerHTML = `<strong>${Number(grid.dataset.total ?? 0).toLocaleString()}</strong> places`;
-    const warm = () => load();
-    'requestIdleCallback' in window ? requestIdleCallback(warm) : setTimeout(warm, 1500);
+  // --- start-up -------------------------------------------------------------------------------------------
+  // Order: filters in the URL, then the visitor's last choice, then Cloudflare's IP location.
+  // The server already rendered the grouped view, so nothing is re-rendered unless one of these changes it.
+  async function start() {
+    const params = new URLSearchParams(location.search);
+    searchInput.value = params.get('q') ?? '';
+    if ([...sortSelect.options].some((o) => o.value === params.get('sort'))) sortSelect.value = params.get('sort')!;
+    setCategory(params.get('cat') ?? 'All');
+    const hasOption = (v: string | null) => v != null && [...cityFilter.options].some((o) => o.value === v);
+
+    const saved = restore();
+    if (saved?.user) {
+      user = saved.user;
+      setNearOption();
+    }
+    if (hasOption(params.get('city'))) {
+      cityFilter.value = params.get('city')!;
+      return apply();
+    }
+    if (saved && (hasOption(saved.loc) || saved.loc === '')) {
+      cityFilter.value = saved.loc;
+      if (saved.loc === 'near') note(`<i class="ti ti-map-pin"></i> Showing spots near ${esc(locLabel('near'))} · <button type="button" data-act="all">See all areas</button>`);
+      return saved.loc || user || params.toString() ? apply() : load();
+    }
+    try {
+      const g = await (await fetch('/api/geo')).json();
+      if (typeof g.lat === 'number' && typeof g.lng === 'number') {
+        const label = g.city ? `${g.city}${g.region && g.country === 'US' ? `, ${g.region}` : ''}` : 'you';
+        await useSpot({ lat: g.lat, lng: g.lng, precise: false, label });
+        return apply();
+      }
+    } catch {}
+    return params.toString() ? apply() : load();
   }
+  start();
 </script>
 
 <style>
@@ -491,6 +738,45 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     cursor: pointer;
   }
 
+  .grid.grouped {
+    display: block;
+  }
+  .grid :global(.group + .group) {
+    margin-top: 48px;
+  }
+  .grid :global(.group-head) {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 1rem;
+    margin-bottom: 18px;
+  }
+  .grid :global(.group-state) {
+    font: 600 12px var(--font-body);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--blue);
+  }
+  .grid :global(.group-head h2) {
+    font-size: clamp(20px, 2.4vw, 26px);
+    line-height: 1.2;
+    color: var(--text);
+  }
+  .grid :global(.see-all) {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+    color: var(--blue);
+    white-space: nowrap;
+  }
+  .grid :global(.group-grid) {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 22px;
+  }
+
   .more-wrap {
     text-align: center;
     margin-top: 36px;
@@ -512,7 +798,8 @@ const categories = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
     .dir-body {
       padding: 28px 16px 56px;
     }
-    .grid {
+    .grid,
+    .grid :global(.group-grid) {
       grid-template-columns: 1fr;
     }
   }

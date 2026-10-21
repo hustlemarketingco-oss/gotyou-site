@@ -23,3 +23,11 @@ export const isVisible = (b: { city: string; state: string }) => !allowed || all
 
 /** Filter for getCollection('businesses', visibleEntry). */
 export const visibleEntry = ({ data }: { data: { city: string; state: string } }) => isVisible(data);
+
+const STATE_NAMES: Record<string, string> = { AZ: 'Arizona', UT: 'Utah', NV: 'Nevada', CO: 'Colorado', ID: 'Idaho', FL: 'Florida', CA: 'California', TX: 'Texas' };
+export const stateName = (s: string) => STATE_NAMES[s] ?? s;
+
+const areaByCity = new Map((VISIBLE_AREAS ?? []).flatMap((a) => a.cities.map((c) => [`${c.toLowerCase()}|${a.state}`, a.name])));
+
+/** The directory's area for a listing: its VISIBLE_AREAS entry, or its state when no areas are configured. */
+export const areaOf = (b: { city: string; state: string }) => areaByCity.get(`${b.city.toLowerCase()}|${b.state}`) ?? stateName(b.state);

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { visibleEntry } from '../../lib/visible-areas';
+import { areaOf, stateName, visibleEntry } from '../../lib/visible-areas';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
 import { sizedPhoto } from '../../lib/business';
@@ -25,9 +25,23 @@ const searchIndex = allBusinesses.map((b) => ({
   reviews: b.data.googleReviewCount ?? 0,
   price: b.data.priceRange ?? '',
   photo: sizedPhoto(b.data.photoUrl, 640, 420) ?? '',
+  area: areaOf(b.data),
 }));
 
 const cities = [...new Set(allBusinesses.map((b) => `${b.data.city}, ${b.data.state}`))].sort();
+// Areas (East Valley, Utah County…) with their cities, biggest first: the location picker and the
+// "popular in each area" view both use this.
+const areaMap = new Map<string, { name: string; state: string; stateName: string; count: number; cities: Map<string, number> }>();
+for (const b of searchIndex) {
+  const a = areaMap.get(b.area) ?? { name: b.area, state: b.state, stateName: stateName(b.state), count: 0, cities: new Map() };
+  a.count++;
+  const c = `${b.city}, ${b.state}`;
+  a.cities.set(c, (a.cities.get(c) ?? 0) + 1);
+  areaMap.set(b.area, a);
+}
+const areas = [...areaMap.values()]
+  .sort((a, b) => b.count - a.count)
+  .map((a) => ({ ...a, cities: [...a.cities.entries()].sort((x, y) => y[1] - x[1]).map(([c]) => c) }));
 const allCities = byCity(allBusinesses.map((b) => b.data));
 const cityGroups = allCities.slice(0, 24);
 ---
@@ -46,11 +60,23 @@ const cityGroups = allCities.slice(0, 24);
       <form class="search" id="dirSearchForm" role="search" onsubmit="return false">
         <i class="ti ti-search" aria-hidden="true"></i>
         <input type="search" id="searchInput" placeholder="Tacos, coffee, a place name…" aria-label="Search businesses" />
-        <select id="cityFilter" aria-label="City">
-          <option value="">All cities</option>
-          {cities.map((c) => <option value={c}>{c}</option>)}
-        </select>
+        <span class="loc">
+          <i class="ti ti-map-pin" aria-hidden="true"></i>
+          <select id="cityFilter" aria-label="Location">
+            <option value="">All areas</option>
+            {areas.map((a) => (
+              <optgroup label={a.stateName}>
+                <option value={`area:${a.name}`}>{a.name}, {a.state} (all)</option>
+                {a.cities.map((c) => <option value={c}>{c}</option>)}
+              </optgroup>
+            ))}
+          </select>
+        </span>
+        <button type="button" class="locate" id="locateBtn" title="Use my location" aria-label="Use my location">
+          <i class="ti ti-current-location" aria-hidden="true"></i>
+        </button>
       </form>
+      <p class="loc-note" id="locNote" aria-live="polite" hidden></p>
       <div class="hero-stats">
         <span><strong>{allBusinesses.length.toLocaleString()}</strong> local businesses</span>
         <span class="sep" aria-hidden="true"></span>
@@ -63,7 +89,7 @@ const cityGroups = allCities.slice(0, 24);
   </section>
 
   <div class="theme-light">
-    <DirectorySearch businesses={searchIndex} />
+    <DirectorySearch businesses={searchIndex} areas={areas} />
   </div>
 
   <section class="browse">
@@ -157,16 +183,74 @@ const cityGroups = allCities.slice(0, 24);
     color: #0b1029;
     background: transparent;
   }
+  .loc {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: #eef1f7;
+    border-radius: 100px;
+    padding-left: 14px;
+    max-width: 46%;
+  }
+  .loc i {
+    color: var(--blue);
+    font-size: 17px;
+  }
   .search select {
     border: none;
     outline: none;
     background: #eef1f7;
     color: #0b1029;
     font: 600 14px var(--font-body);
-    padding: 12px 16px;
+    padding: 12px 16px 12px 0;
     border-radius: 100px;
     cursor: pointer;
-    max-width: 44%;
+    min-width: 0;
+    width: 100%;
+  }
+  .locate {
+    flex: none;
+    width: 44px;
+    height: 44px;
+    margin-left: 6px;
+    border: none;
+    border-radius: 50%;
+    background: var(--blue);
+    color: #fff;
+    font-size: 20px;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+  }
+  .locate:hover {
+    background: var(--blue-600);
+  }
+  .locate.busy i {
+    animation: spin 1s linear infinite;
+  }
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  .loc-note {
+    margin: 14px auto 0;
+    font-size: 14.5px;
+    color: #fff;
+    background: rgba(11, 16, 41, 0.22);
+    border-radius: 100px;
+    padding: 8px 16px;
+    width: fit-content;
+    max-width: 100%;
+  }
+  .loc-note :global(button) {
+    background: none;
+    border: none;
+    color: var(--yellow);
+    font: 600 14.5px var(--font-body);
+    text-decoration: underline;
+    cursor: pointer;
+    padding: 0;
   }
   .hero-stats {
     display: flex;
@@ -290,10 +374,16 @@ const cityGroups = allCities.slice(0, 24);
     .search input {
       flex-basis: 70%;
     }
-    .search select {
-      flex-basis: 100%;
+    .loc {
+      flex: 1 1 calc(100% - 56px);
       max-width: none;
       margin-top: 4px;
+    }
+    .locate {
+      margin-top: 4px;
+    }
+    .loc-note {
+      border-radius: 14px;
     }
   }
 </style>
