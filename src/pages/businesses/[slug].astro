@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ClaimSidebar from '../../components/ClaimSidebar.astro';
 import { DAYS, categoryIcon, formatPhone, sizedPhoto, to24hRanges, websiteHost } from '../../lib/business';
 import { profileContent, cityPath, categoryPath, plural, fmtMiles, isFood, MIN_CATEGORY_LISTINGS } from '../../lib/profile-content';
-import { cuisinesFor } from '../../lib/topics';
+import { CATEGORIES, cuisinesFor } from '../../lib/topics';
 import { slugify } from '../../lib/profile-content';
 import ogCards from '../../data/og-cards.json';
 
@@ -46,7 +46,8 @@ const directionsUrl =
 // Merchant-supplied photos (after claiming) win; the Google photo is only a temporary fallback.
 const heroPhoto = b.ownerPhotoUrl ?? sizedPhoto(b.photoUrl, 1600, 900);
 const content = profileContent(b, allData);
-const hasCategoryPage = allData.filter((x) => x.city === b.city && x.state === b.state && x.category === b.category).length >= MIN_CATEGORY_LISTINGS;
+// Only the categories in topics.ts get pages ("Local Business" doesn't).
+const hasCategoryPage = CATEGORIES.some((t) => t.slug === slugify(b.category)) && allData.filter((x) => x.city === b.city && x.state === b.state && x.category === b.category).length >= MIN_CATEGORY_LISTINGS;
 const site = Astro.site ?? Astro.url;
 const pageUrl = new URL(`/businesses/${b.slug}/`, site).href;
 const updated = b.updatedAt ? new Date(b.updatedAt) : undefined;

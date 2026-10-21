@@ -2,6 +2,9 @@
 import { getCollection } from 'astro:content';
 import { visibleEntry } from './visible-areas';
 import { MIN_CATEGORY_LISTINGS, citySlug, popularity, slugify, type Biz } from './profile-content';
+import { CATEGORIES } from './topics';
+
+const PAGED = new Set(CATEGORIES.map((t) => t.slug)); // categories that have /explore/<city>/<category>/ pages
 
 // Loaded once per build and shared by every page. Pages must not mutate these arrays or objects.
 let everything: Promise<Biz[]> | undefined;
@@ -38,7 +41,7 @@ export function categoriesIn(items: Biz[]) {
     else map.set(b.category, [b]);
   }
   return [...map.entries()]
-    .map(([category, list]) => ({ category, slug: slugify(category), items: list.sort((a, b) => popularity(b) - popularity(a)), hasPage: list.length >= MIN_CATEGORY_LISTINGS }))
+    .map(([category, list]) => ({ category, slug: slugify(category), items: list.sort((a, b) => popularity(b) - popularity(a)), hasPage: list.length >= MIN_CATEGORY_LISTINGS && PAGED.has(slugify(category)) }))
     .sort((a, b) => b.items.length - a.items.length);
 }
 
