@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { visibleEntry } from '../../lib/visible-areas';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
 import { sizedPhoto } from '../../lib/business';
@@ -7,7 +8,7 @@ import Skyline from '../../components/Skyline.astro';
 import { byCity, categoriesIn } from '../../lib/explore';
 import { cityPath, categoryPath, plural } from '../../lib/profile-content';
 
-const allBusinesses = (await getCollection('businesses')).filter((b) => !b.data.temporarilyClosed);
+const allBusinesses = (await getCollection('businesses', visibleEntry)).filter((b) => !b.data.temporarilyClosed);
 
 // Serialize just what the client-side search island needs — keeps the
 // hydrated payload small instead of shipping full Astro content entries.

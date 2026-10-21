@@ -1,11 +1,12 @@
 // Grouping helpers for the /explore city and city+category pages.
 import { getCollection } from 'astro:content';
+import { visibleEntry } from './visible-areas';
 import { MIN_CATEGORY_LISTINGS, citySlug, popularity, slugify, type Biz } from './profile-content';
 
 // Loaded once per build and shared by every page. Pages must not mutate these arrays or objects.
 let everything: Promise<Biz[]> | undefined;
 let active: Promise<Biz[]> | undefined;
-export const allBusinessData = () => (everything ??= getCollection('businesses').then((c) => c.map((b) => b.data)));
+export const allBusinessData = () => (everything ??= getCollection('businesses', visibleEntry).then((c) => c.map((b) => b.data)));
 export const activeBusinesses = () => (active ??= allBusinessData().then((all) => all.filter((b) => !b.temporarilyClosed)));
 
 /** Active listings in one state, cached: profile pages only compare a business with its neighbours. */

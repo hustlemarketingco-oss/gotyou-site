@@ -1,9 +1,10 @@
 ---
 // Design mockup (noindex, excluded from the sitemap): claimed business profile.
 import { getCollection } from 'astro:content';
+import { visibleEntry } from '../../lib/visible-areas';
 import ProfileMock from '../../components/ProfileMock.astro';
 
-const all = (await getCollection('businesses')).map((x) => x.data).filter((x) => !x.temporarilyClosed);
+const all = (await getCollection('businesses', visibleEntry)).map((x) => x.data).filter((x) => !x.temporarilyClosed);
 const b = all.find((x) => x.slug === 'five-sushi-brothers-provo')!;
 ---
 

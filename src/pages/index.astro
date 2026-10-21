@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { visibleEntry } from '../lib/visible-areas';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Skyline from '../components/Skyline.astro';
 import StoreBadges from '../components/StoreBadges.astro';
@@ -9,7 +10,7 @@ import CtaBand from '../components/CtaBand.astro';
 import { sizedPhoto, categoryIcon } from '../lib/business';
 import { BRAND } from '../lib/constants';
 
-const businesses = (await getCollection('businesses')).map((b) => b.data).filter((b) => b.photoUrl && !b.temporarilyClosed);
+const businesses = (await getCollection('businesses', visibleEntry)).map((b) => b.data).filter((b) => b.photoUrl && !b.temporarilyClosed);
 const score = (b: (typeof businesses)[number]) => (b.googleRating ?? 0) * Math.log10((b.googleReviewCount ?? 0) + 10);
 const featured = businesses.sort((a, b) => score(b) - score(a)).slice(0, 8);
 
