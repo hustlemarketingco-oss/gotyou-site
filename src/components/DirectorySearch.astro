@@ -228,6 +228,59 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
     return words.every((w) => h!.includes(w));
   }
 
+  // Typo tolerance: a search word (5+ letters) found in no listing is swapped for the closest word that is,
+  // preferring common words ("restuarants" -> "restaurant"). One slip allowed, two for 8+ letter words.
+  let vocab: [string, number][] | null = null;
+  const spelled = new Map<string, string>(); // stem -> a spelling seen in the listings, for the "showing results for" hint
+  function vocabulary() {
+    if (vocab) return vocab;
+    const counts = new Map<string, number>();
+    for (const b of ALL)
+      for (const w of fold(`${b.name} ${b.googleCategory} ${b.category} ${b.city}`).split(/[^a-z0-9']+/)) {
+        if (w.length < 4) continue;
+        const k = stem(w);
+        counts.set(k, (counts.get(k) ?? 0) + 1);
+        if (!spelled.has(k)) spelled.set(k, w);
+      }
+    return (vocab = [...counts.entries()]);
+  }
+  // Edit distance counting swapped neighbours as one slip; gives up early past `max`.
+  function editDistance(a: string, b: string, max: number) {
+    let prev2: number[] = [];
+    let prev = Array.from({ length: b.length + 1 }, (_, j) => j);
+    for (let i = 1; i <= a.length; i++) {
+      const cur = [i];
+      let rowMin = i;
+      for (let j = 1; j <= b.length; j++) {
+        let d = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+        if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) d = Math.min(d, prev2[j - 2] + 1);
+        cur[j] = d;
+        rowMin = Math.min(rowMin, d);
+      }
+      if (rowMin > max) return max + 1;
+      prev2 = prev;
+      prev = cur;
+    }
+    return prev[b.length];
+  }
+  const fixes = new Map<string, string>();
+  function correct(w: string) {
+    if (w.length < 5 || ALL.some((b) => matchesWords(b, [w]))) return w;
+    const cached = fixes.get(w);
+    if (cached) return cached;
+    const max = w.length >= 8 ? 2 : 1;
+    let best = w;
+    let bestD = max + 1;
+    let bestN = 0;
+    for (const [v, n] of vocabulary()) {
+      if (Math.abs(v.length - w.length) > max) continue;
+      const d = editDistance(w, v, max);
+      if (d < bestD || (d === bestD && n > bestN)) [best, bestD, bestN] = [v, d, n];
+    }
+    fixes.set(w, best);
+    return best;
+  }
+
   const esc = (s: string) =>
     s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
 
@@ -433,7 +486,9 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
       await load();
       grid.removeAttribute('aria-busy');
     }
-    const words = queryWords(searchInput.value);
+    const typed = queryWords(searchInput.value);
+    const words = typed.map(correct);
+    const fixed = words.some((w, i) => w !== typed[i]) ? words.map((w) => spelled.get(w) ?? w).join(' ') : '';
     const v = cityFilter.value;
     const inLocation =
       v === 'near' ? (b: Biz) => km(b) <= NEAR_KM : v.startsWith('area:') ? (b: Biz) => b.area === v.slice(5) : v ? (b: Biz) => `${b.city}, ${b.state}` === v : () => true;
@@ -452,6 +507,7 @@ const areaData = { areas: areas.map(({ name, state, stateName, count }) => ({ na
     );
     if (resetPaging) shown = PAGE;
     render();
+    if (fixed) resultCount.insertAdjacentHTML('beforeend', ` <span class="fixed">· showing results for <strong>${esc(fixed)}</strong></span>`);
     syncUrl();
   }
 
