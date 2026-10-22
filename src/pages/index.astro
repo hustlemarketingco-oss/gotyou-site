@@ -13,6 +13,28 @@ import { BRAND } from '../lib/constants';
 const businesses = (await getCollection('businesses', visibleEntry)).map((b) => b.data).filter((b) => b.photoUrl && !b.temporarilyClosed);
 const score = (b: (typeof businesses)[number]) => (b.googleRating ?? 0) * Math.log10((b.googleReviewCount ?? 0) + 10);
 const featured = businesses.sort((a, b) => score(b) - score(a)).slice(0, 8);
+// Candidates for the visitor's own area: the best few spots in every city, re-picked in the browser by distance.
+const PER_CITY = 8;
+const perCity = new Map<string, number>();
+const nearbySpots = businesses
+  .filter((b) => b.lat != null && b.lng != null && (b.googleRating ?? 0) >= 4)
+  .filter((b) => {
+    const k = `${b.city}|${b.state}`;
+    perCity.set(k, (perCity.get(k) ?? 0) + 1);
+    return perCity.get(k)! <= PER_CITY;
+  })
+  .map((b) => ({
+    s: b.slug,
+    n: b.name,
+    p: sizedPhoto(b.photoUrl, 560, 420),
+    c: b.googleCategory ?? b.category,
+    i: categoryIcon(b.category),
+    r: b.googleRating ?? null,
+    t: b.city,
+    la: Math.round(b.lat! * 1e4) / 1e4,
+    lo: Math.round(b.lng! * 1e4) / 1e4,
+    w: Math.round(score(b) * 100) / 100,
+  }));
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -205,12 +227,13 @@ const steps = [
       <div class="container">
         <div class="spots-head">
           <div>
-            <span class="eyebrow">Explore</span>
+            <span class="eyebrow" id="spotsEyebrow">Explore</span>
             <h2 class="h2">Spots locals love</h2>
           </div>
           <a href="/businesses" class="btn btn--outline">See all local spots <i class="ti ti-arrow-right"></i></a>
         </div>
-        <div class="spots">
+        <script type="application/json" id="spotData" set:html={JSON.stringify(nearbySpots)} />
+        <div class="spots" id="spots">
           {featured.map((b) => (
             <a href={`/businesses/${b.slug}`} class="spot reveal">
               <div class="spot-img">
@@ -286,6 +309,84 @@ const steps = [
 
   <CtaBand />
 </BaseLayout>
+
+<script>
+  // "Spots locals love", picked for the visitor's area: the location they chose in the directory, else
+  // Cloudflare's IP guess (/api/geo, no permission prompt). Outside our areas the overall favorites stay.
+  type Cand = { s: string; n: string; p?: string; c: string; i: string; r: number | null; t: string; la: number; lo: number; w: number };
+  type Spot = { lat: number; lng: number; label?: string; precise?: boolean };
+  const SERVED_KM = 60; // same reach as the directory's "near" view
+  const SHOW = 8;
+
+  const grid = document.getElementById('spots');
+  const eyebrow = document.getElementById('spotsEyebrow');
+  const cands: Cand[] = JSON.parse(document.getElementById('spotData')?.textContent || '[]');
+
+  const km = (a: Spot, b: Cand) => {
+    const rad = Math.PI / 180;
+    const h = Math.sin(((b.la - a.lat) * rad) / 2) ** 2 +
+      Math.cos(a.lat * rad) * Math.cos(b.la * rad) * Math.sin(((b.lo - a.lng) * rad) / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(h));
+  };
+
+  async function where(): Promise<Spot | null> {
+    try {
+      const saved = JSON.parse(localStorage.getItem('gotyou-dir-location') || 'null');
+      if (saved?.user?.lat != null) return saved.user;
+    } catch {}
+    try {
+      const g = await (await fetch('/api/geo')).json();
+      return g.lat != null && g.lng != null ? { lat: g.lat, lng: g.lng, label: g.city ?? undefined } : null;
+    } catch {
+      return null;
+    }
+  }
+
+  async function localize() {
+    if (!grid || !cands.length) return;
+    const me = await where();
+    if (!me) return;
+    const near = cands.map((b) => ({ b, d: km(me, b) })).filter((x) => x.d <= SERVED_KM);
+    if (near.length < 4) return; // not enough nearby to fill a row; keep the overall favorites
+    // Popularity, gently discounted by distance (the directory's "Recommended" order).
+    // One card per name, so a chain doesn't fill the row.
+    const seen = new Set<string>();
+    const picks = near
+      .sort((x, y) => y.b.w / (1 + y.d / 8) - x.b.w / (1 + x.d / 8))
+      .filter(({ b }) => {
+        const key = b.n.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/restaurant$/, '');
+        return !seen.has(key) && seen.add(key);
+      })
+      .slice(0, SHOW);
+    if (picks.length < 4) return;
+    // Clone a server-rendered card so the page's scoped styles still apply.
+    const tpl = grid.querySelector<HTMLAnchorElement>('a.spot');
+    if (!tpl) return;
+    const starTpl = grid.querySelector('.spot-body span i');
+    const cards = picks.map(({ b }) => {
+      const a = tpl.cloneNode(true) as HTMLAnchorElement;
+      a.href = `/businesses/${b.s}`;
+      a.classList.add('is-in');
+      const img = a.querySelector('img');
+      if (img && b.p) img.src = b.p;
+      // Reuse the cloned icon elements (they carry the scoped style attribute) and only swap text and classes.
+      const cat = a.querySelector('.spot-cat');
+      const catIcon = cat?.querySelector('i');
+      if (cat && catIcon) {
+        catIcon.className = `ti ${b.i}`;
+        cat.replaceChildren(catIcon, b.c);
+      }
+      a.querySelector('strong')!.textContent = b.n;
+      const meta = a.querySelector('.spot-body span');
+      const star = meta?.querySelector('i') ?? starTpl?.cloneNode(true);
+      if (meta) meta.replaceChildren(...(b.r && star ? [star, ` ${b.r.toFixed(1)} · ${b.t}`] : [b.t]));
+      return a;
+    });
+    grid.replaceChildren(...cards);
+    if (eyebrow) eyebrow.textContent = me.precise || !me.label ? 'Near you' : `Near ${me.label}`;
+  }
+  localize();
+</script>
 
 <style>
   /* hero */
