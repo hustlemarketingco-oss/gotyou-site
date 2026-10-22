@@ -1,0 +1,48 @@
+{
+  "slug": "urbal-activ-tempe",
+  "name": "Urbal Activ",
+  "category": "Health & Beauty",
+  "googleCategory": "Health and beauty shop",
+  "address": "1775 W University Dr #122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4215593,
+  "lng": -111.96875639999999,
+  "phone": "+16027720606",
+  "website": "https://urbalactiv.com/?utm_source=GMB&utm_medium=GMBPost",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urbal+Activ/data=!4m7!3m6!1s0x872b0ed8bcee809b:0x2e8104da9585aee4!8m2!3d33.4215593!4d-111.9687564!16s%2Fg%2F11fxql8ph6!19sChIJm4DuvNgOK4cR5K6FldoEgS4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3350964934598307556",
+  "placeId": "ChIJm4DuvNgOK4cR5K6FldoEgS4",
+  "googleRating": 4.3,
+  "googleReviewCount": 52,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmwfzQo08hspbYlN5FLT5UCePBbMiS5iB3sKrT8TUEvK_chlBL2ws2-_ZHGyeJGrqZMOFn-1_c8jVLlKemtRJh-PeDjqCr3Fcfi62aNlP59u2Dq-Vy_9lo_Vj2jKL79oMeHFw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "3": 2,
+    "4": 4,
+    "5": 39
+  },
+  "hours": {
+    "mon": "10:00 AM - 3:00 PM",
+    "tue": "10:00 AM - 3:00 PM",
+    "wed": "10:00 AM - 3:00 PM",
+    "thu": "10:00 AM - 3:00 PM",
+    "fri": "10:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

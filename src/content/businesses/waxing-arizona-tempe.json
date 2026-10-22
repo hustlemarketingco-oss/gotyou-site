@@ -1,0 +1,48 @@
+{
+  "slug": "waxing-arizona-tempe",
+  "name": "Waxing Arizona",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "secondaryCategories": [
+    "Beautician",
+    "Beauty salon",
+    "Hair removal service",
+    "Spa"
+  ],
+  "address": "1801 S Jentilly Ln A4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4084003,
+  "lng": -111.9230453,
+  "phone": "+14803167171",
+  "website": "https://waxingarizona.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Waxing+Arizona/data=!4m7!3m6!1s0xa832484fbf71b3d1:0xf286a4e7071c015c!8m2!3d33.4084003!4d-111.9230453!16s%2Fg%2F11tn1s45gl!19sChIJ0bNxv09IMqgRXAEcB-ekhvI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17475836716221464924",
+  "placeId": "ChIJ0bNxv09IMqgRXAEcB-ekhvI",
+  "googleRating": 5,
+  "googleReviewCount": 65,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDz8QjG3225nSa-pjmLO3vjvN5tlGtDk0XEuvc82bcXQ1XpJWJI4GQsb6owK_H7qKGnsJ5YtOd5_hxRwIqKvIqYGRqIX8dvPxEI-F3cHlZoqYMnUL2i3iLlhxnAqJqaT9SWuw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 65
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

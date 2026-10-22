@@ -1,0 +1,48 @@
+{
+  "slug": "omg-nail-bar-tempe",
+  "name": "OMG! Nail Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1006 E Warner Rd Unit 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3350799,
+  "lng": -111.92696719999999,
+  "phone": "+14805721191",
+  "website": "http://omgnailbar.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/OMG!+Nail+Bar/data=!4m7!3m6!1s0x872b07a2e25baccd:0xd380a8a7d7fbb6be!8m2!3d33.3350799!4d-111.9269672!16s%2Fg%2F11sk4m69y9!19sChIJzaxb4qIHK4cRvrb716eogNM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15240366577858361022",
+  "placeId": "ChIJzaxb4qIHK4cRvrb716eogNM",
+  "googleRating": 4.7,
+  "googleReviewCount": 388,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdW8ek_e1IlkKs0ggbYKa7PqspRqEuEPQho1u-XnSAJNksU_oVs2oKpeaHEcD0cup3WSc2wixN1kAQcSfJqQ6NttDEJBdsAuy4hXtzJNfNDyYdNGOWVu5h1kVDWECi2Y-BNxK7Mpk3DNlCd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 10,
+    "3": 5,
+    "4": 9,
+    "5": 345
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "levis-outlet-store-tempe",
+  "name": "Levi’s Outlet Store",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Jeans shop",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir STE- 196",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3841214,
+  "lng": -111.9641262,
+  "phone": "+14807771192",
+  "website": "https://locations.levi.com/en-us/az/tempe/denim_tempe_az_460.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Levi%E2%80%99s+Outlet+Store/data=!4m7!3m6!1s0x872b0f59e1444903:0x24e4a77e51ad32c5!8m2!3d33.3841214!4d-111.9641262!16s%2Fg%2F1th0ytr8!19sChIJA0lE4VkPK4cRxTKtUX6n5CQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2658433841033458373",
+  "placeId": "ChIJA0lE4VkPK4cRxTKtUX6n5CQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 383,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAtRzY8fuGbPz5RFF8VHWovamTa0nhPuZgmxE5L4CPi6C7xkdxlrXATRWkQX00AaBAaUaffr0iL12du5aGo7n2jgXtGaHwTVVl9MY5QilTj2zHDOiqdsILt-NIzfVlb6kEPq_WieFGyTPM=w1200-h800-k-no",
+  "description": "Denim pioneer dating back to 1873 with a selection of jeans, casualwear, jackets & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 6,
+    "3": 33,
+    "4": 85,
+    "5": 244
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

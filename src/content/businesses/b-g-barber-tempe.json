@@ -1,0 +1,42 @@
+{
+  "slug": "b-g-barber-tempe",
+  "name": "B.G BARBER",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "3030 S Rural Rd Ste 113",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3957524,
+  "lng": -111.92669,
+  "website": "http://book.thecut.co/bgbarber",
+  "googleMapsUrl": "https://www.google.com/maps/place/B.G+BARBER/data=!4m7!3m6!1s0x872b0fdc6536bc63:0xbb9cba4d52c57afa!8m2!3d33.3957524!4d-111.92669!16s%2Fg%2F11rzpbyqjm!19sChIJY7w2ZdwPK4cR-nrFUk26nLs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13518885022723308282",
+  "placeId": "ChIJY7w2ZdwPK4cR-nrFUk26nLs",
+  "googleRating": 5,
+  "googleReviewCount": 28,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUMoh89R2-iP4XuFHGYaoXK4wVd4FZYDI9Tfqj62X2h3-SbFbhedXBmA7r0Di-vnkGKsso9lWgsMDCyozuD7TuAQknIhUkFRad6A5mteR0nTn33VywIeFW1E7j9kyZJLYiOvL0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 27
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

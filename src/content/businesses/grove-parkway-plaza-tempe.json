@@ -1,0 +1,45 @@
+{
+  "slug": "grove-parkway-plaza-tempe",
+  "name": "Grove Parkway Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3508529,
+  "lng": -111.9617767,
+  "googleMapsUrl": "https://www.google.com/maps/place/Grove+Parkway+Plaza/data=!4m7!3m6!1s0x872b05db348a36cb:0x45c43850ba584b1b!8m2!3d33.3508529!4d-111.9617767!16s%2Fg%2F11fnwck58s!19sChIJyzaKNNsFK4cRG0tYulA4xEU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5027205003427203867",
+  "placeId": "ChIJyzaKNNsFK4cRG0tYulA4xEU",
+  "googleRating": 4.3,
+  "googleReviewCount": 436,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ0-6u1HHAHwa3ekixV1kUDQnsNp0M0-z6YKIvXZLtIbi-9fAAv1xP8GNUzJqF9P_nhnR1lsLkJ7Vm9CERefqD0fXBtWaZBVFU0DqWRT6hyyAYtP8o_Toeqtt7tDARVQWmPoQx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 9,
+    "3": 52,
+    "4": 118,
+    "5": 243
+  },
+  "hours": {
+    "mon": "6:30 AM - 11:00 PM",
+    "tue": "6:30 AM - 11:00 PM",
+    "wed": "6:30 AM - 11:00 PM",
+    "thu": "6:30 AM - 11:00 PM",
+    "fri": "6:30 AM - 11:00 PM",
+    "sat": "6:30 AM - 11:00 PM",
+    "sun": "6:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "f45-training-tempe-town-lake-tempe",
+  "name": "F45 Training Tempe Town Lake",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Training center"
+  ],
+  "address": "430 N Scottsdale Rd A117",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4342494,
+  "lng": -111.9271849,
+  "phone": "+14805257612",
+  "website": "https://f45training.com/studio/tempetownlake/",
+  "googleMapsUrl": "https://www.google.com/maps/place/F45+Training+Tempe+Town+Lake/data=!4m7!3m6!1s0x872b09075dfcfe07:0xa55a314b55170ca2!8m2!3d33.4342494!4d-111.9271849!16s%2Fg%2F11j2fmspsx!19sChIJB_78XQcJK4cRogwXVUsxWqU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11914889963781950626",
+  "placeId": "ChIJB_78XQcJK4cRogwXVUsxWqU",
+  "googleRating": 4.9,
+  "googleReviewCount": 198,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoQvN7vMmp7ayImmIfCq5BFdGOWtvWZr6hIH8L8b3OwYrTOizvr9xSYe9QA14H-L5AXydo7VESh5ByXk_AkTUty3vdx0HT6E27lIe3Fucgk8TQ5WSKgL7jvu26jHIghcdB_lw-u_ANiVs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 191
+  },
+  "hours": {
+    "mon": "5:00 AM - 7:00 PM",
+    "tue": "5:00 AM - 7:00 PM",
+    "wed": "5:00 AM - 7:00 PM",
+    "thu": "5:00 AM - 7:00 PM",
+    "fri": "5:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 10:00 AM",
+    "sun": "8:00 AM - 11:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

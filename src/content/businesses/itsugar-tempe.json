@@ -1,0 +1,54 @@
+{
+  "slug": "itsugar-tempe",
+  "name": "IT'SUGAR Tempe",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Candy store",
+  "secondaryCategories": [
+    "Chocolate shop",
+    "Dessert shop",
+    "Gift basket store",
+    "Gift shop",
+    "Novelty store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1072",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4328047,
+  "lng": -111.90424349999999,
+  "phone": "+16462168286",
+  "website": "http://www.itsugar.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/IT%27SUGAR+Tempe/data=!4m7!3m6!1s0x872b09aaabdbebd9:0x28128049d92407cb!8m2!3d33.4328047!4d-111.9042435!16s%2Fg%2F1hc17l8rg!19sChIJ2evbq6oJK4cRywck2UmAEig?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2887511365761894347",
+  "placeId": "ChIJ2evbq6oJK4cRywck2UmAEig",
+  "googleRating": 4.4,
+  "googleReviewCount": 365,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJgm898NOoy1LXnpJ3tH9dyVO4xSgerLiet2Bdl140Fqc_SsB4HmXbGvgpHaYmJUYF6gZFlyxRZ3U5gNDLT_-VqIz5aJVRVuLYlH7fivez0gHwgeDoc4yTw2g19jBvScnGiZwQ=w1200-h800-k-no",
+  "description": "Colorful retail chain offering classic & oversized candy, plus apparel, accessories & novelty gifts.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 9,
+    "3": 24,
+    "4": 64,
+    "5": 247
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

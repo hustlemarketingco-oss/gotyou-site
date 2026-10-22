@@ -2,7 +2,7 @@
   "slug": "angies-tempe",
   "name": "Angie's",
   "category": "Restaurant",
-  "googleCategory": "Seafood restaurant",
+  "googleCategory": "Fast food restaurant",
   "secondaryCategories": [
     "Fast food restaurant"
   ],
@@ -13,22 +13,9 @@
   "priceRange": "$10–20",
   "description": "Angie's is a casual seafood restaurant & fast food restaurant in Tempe, serving up coffee & healthy options, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/eatangies"
@@ -39,5 +26,31 @@
   "groundgameId": "6a243a09ff4e9670b1e812c9",
   "seededAt": "2026-06-06T15:17:29Z",
   "updatedAt": "2026-06-12T22:03:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJoWBlRMUHK4cRPnhv8W1CV2A",
+  "googleCid": "6942090390584391742",
+  "googleMapsUrl": "https://www.google.com/maps/place/Angie%27s/data=!4m7!3m6!1s0x872b07c5446560a1:0x6057426df16f783e!8m2!3d33.3777722!4d-111.9514806!16s%2Fg%2F11pdw9yr0s!19sChIJoWBlRMUHK4cRPnhv8W1CV2A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 2171,
+  "ratingBreakdown": {
+    "1": 195,
+    "2": 96,
+    "3": 154,
+    "4": 293,
+    "5": 1433
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxI2JC-_2V5UPQNQcL5a0shqdJJiDvjqQhvwDBzQVZr8ch-RKSCAUR7x1CbLN_-2AaAxpeh7A253xi-vb4MH16qbnoIUpWimDNZDMmiO3QkYZB6h03fzw5yoY7tyTD_1atULA=w1200-h800-k-no",
+  "website": "http://angies.com/",
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "lat": 33.377772199999995,
+  "lng": -111.9514806,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

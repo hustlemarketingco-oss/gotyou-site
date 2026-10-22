@@ -11,27 +11,10 @@
   "priceRange": "$20–30",
   "description": "Family-owned local chain for Italian classics & Chicago-style, deep-dish pizzas with buttery crusts.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/loumalnatis"
@@ -42,5 +25,31 @@
   "groundgameId": "6a24382d3ccccb1ded96e2ae",
   "seededAt": "2026-06-06T15:09:33Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJG5g2-ioJK4cRsMYnV34nGVQ",
+  "googleCid": "6059918197185300144",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lou+Malnati%27s+Pizzeria/data=!4m7!3m6!1s0x872b092afa36981b:0x5419277e5727c6b0!8m2!3d33.4327716!4d-111.9066501!16s%2Fg%2F11sctpkc9l!19sChIJG5g2-ioJK4cRsMYnV34nGVQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 637,
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 35,
+    "3": 58,
+    "4": 75,
+    "5": 404
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCe0i5E5YddX5r3vUESYfKuCSAf1CE-wXj3kb1ffqbDDTAi-rZCZadtG0eD8_NZfOmsPHHBwq1h-s8UYnAsIAykWzDFl3H1QJL8O28wvLafNyGyxwQ-kEXcCzsNhlXfM6-macqaA=w1200-h800-k-no",
+  "website": "https://www.loumalnatis.com/arizona-tempe",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.432771599999995,
+  "lng": -111.9066501,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

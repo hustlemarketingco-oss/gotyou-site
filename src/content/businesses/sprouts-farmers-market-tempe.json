@@ -2,7 +2,7 @@
   "slug": "sprouts-farmers-market-tempe",
   "name": "Sprouts Farmers Market",
   "category": "Health & Beauty",
-  "googleCategory": "Vitamin & supplements store",
+  "googleCategory": "Grocery store",
   "secondaryCategories": [
     "Fresh food market",
     "Fruit and vegetable store",
@@ -20,17 +20,9 @@
   "phone": "+14808204900",
   "description": "Specialty chain offering a range of natural & organic grocery items, including own-brand goods.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/SproutsFarmersMarket"
@@ -41,5 +33,31 @@
   "groundgameId": "6a2439318689ac2ca8c2132e",
   "seededAt": "2026-06-06T15:13:53Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJKyed8YMIK4cRxjj8c1s8VKU",
+  "googleCid": "11913213277787404486",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sprouts+Farmers+Market/data=!4m7!3m6!1s0x872b0883f19d272b:0xa5543c5b73fc38c6!8m2!3d33.394376!4d-111.9112105!16s%2Fg%2F1ts1sprr!19sChIJKyed8YMIK4cRxjj8c1s8VKU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 1526,
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 35,
+    "3": 63,
+    "4": 280,
+    "5": 1066
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcafLzBDnXQoddaXk4QBymstXmqOLCcf8swLWBWOXYZ-iOzMPeYH9ByHS1BhlnuV4CjnIP764c2wJC5mAiOehVoiEwIA9HMCh9BaZcdK5uQemkzi7iR2zxIm-HetxysFAq6_xdGEb72Gkml=w1200-h800-k-no",
+  "website": "https://sprouts.com/store/az/tempe/tempe",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "lat": 33.394376,
+  "lng": -111.9112105,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "snow-nails-tempe",
+  "name": "Snow Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Waxing hair removal service"
+  ],
+  "address": "1825 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.449352499999996,
+  "lng": -111.9255622,
+  "phone": "+14809491962",
+  "googleMapsUrl": "https://www.google.com/maps/place/Snow+Nails/data=!4m7!3m6!1s0x872b09153ba8f87f:0x9c63420114021ed8!8m2!3d33.4493525!4d-111.9255622!16s%2Fg%2F1vqth7h2!19sChIJf_ioOxUJK4cR2B4CFAFCY5w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11268923265009196760",
+  "placeId": "ChIJf_ioOxUJK4cR2B4CFAFCY5w",
+  "googleRating": 4.5,
+  "googleReviewCount": 65,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegOb8VomhEgBtsycSLLnRleAlajGpc8RdPVdKxrruOH1lUaQVfQGbXBQqjnrNspt8bSzeGCxBC2_rkZMa6PL8HBvyn_YtYqp4If4Lf3aDa3mlTLjEMpaSR9DzYpSineHWAH__4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "3": 1,
+    "4": 1,
+    "5": 56
+  },
+  "hours": {
+    "mon": "9:30 AM - 6:00 PM",
+    "tue": "9:30 AM - 6:00 PM",
+    "wed": "9:30 AM - 6:00 PM",
+    "thu": "9:30 AM - 6:00 PM",
+    "fri": "9:30 AM - 6:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "yummy-beauty-bar-tempe",
+  "name": "Yummy Beauty Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "930 W Broadway Rd Unit 15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407835999999996,
+  "lng": -111.9539097,
+  "phone": "+16232522468",
+  "website": "https://yummybeautyco.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yummy+Beauty+Bar/data=!4m7!3m6!1s0x872b0f1f2402b84d:0xf96fc214c6146eb0!8m2!3d33.407836!4d-111.9539097!16s%2Fg%2F11s55j3t_d!19sChIJTbgCJB8PK4cRsG4UxhTCb_k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17973798032337301168",
+  "placeId": "ChIJTbgCJB8PK4cRsG4UxhTCb_k",
+  "googleRating": 5,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFzOn3P9PQISpuqmZHCw5JByKSmz_OJ5xTpq58_5SJtjWxgy0t_KZgCMq6tTq8uM3tBi3HI0FdFLR_Hs0lnDFbk7jTOdZqHHcIPiyayS-ckiJDvZFefkena0vJvk5Sh4fwRgI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 18
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

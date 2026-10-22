@@ -1,0 +1,49 @@
+{
+  "slug": "phoenix-rock-gym-tempe",
+  "name": "Phoenix Rock Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Rock climbing gym",
+  "secondaryCategories": [
+    "Recreation center"
+  ],
+  "address": "1353 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4206696,
+  "lng": -111.9162499,
+  "phone": "+14809218322",
+  "website": "http://www.phoenixrockgym.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phoenix+Rock+Gym/data=!4m7!3m6!1s0x872b08e52952da9f:0x6b0986f782f03617!8m2!3d33.4206696!4d-111.9162499!16s%2Fg%2F1tf821mn!19sChIJn9pSKeUIK4cRFzbwgveGCWs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7712844234460509719",
+  "placeId": "ChIJn9pSKeUIK4cRFzbwgveGCWs",
+  "googleRating": 4.7,
+  "googleReviewCount": 865,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeDLximm_EbFilPT6y2tlshx7wfmh5_oYb4yM2rKEaCZ3uXO-8kEL4vIk4ClHw_DKkcWPOyFHFL3qDN4lv_biBWX4U20kw6h7CAXM1lHueTe3u14qcB9EysBSVyKSM5MX4bd4N-A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 8,
+    "3": 20,
+    "4": 100,
+    "5": 719
+  },
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

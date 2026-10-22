@@ -1,0 +1,46 @@
+{
+  "slug": "fragrance-outlet-tempe",
+  "name": "Fragrance Outlet",
+  "category": "Shopping",
+  "googleCategory": "Perfume store",
+  "address": "5000 S Arizona Mills Cir #157",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3847082,
+  "lng": -111.9635395,
+  "phone": "+14808979238",
+  "website": "https://www.fragranceoutlet.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fragrance+Outlet/data=!4m7!3m6!1s0x872b0f59c37adffb:0xe73b7b1c7e26fb88!8m2!3d33.3847082!4d-111.9635395!16s%2Fg%2F11bw3gk8fq!19sChIJ-996w1kPK4cRiPsmfhx7O-c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16662046608693066632",
+  "placeId": "ChIJ-996w1kPK4cRiPsmfhx7O-c",
+  "googleRating": 3.4,
+  "googleReviewCount": 55,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFZIcd8TC89AnwwGjaadqE4jXMFiF9v4iEzWPzjKTlZpD2z_XbOzLycIVGErBlugy5tKLjP34jO1K9yOp7GgqyzrkXNMYMBipWXisMvzkMioUo4YzZ_7UZjhVDAYPM9gRf0Tw6Yw7pT44=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 1,
+    "3": 1,
+    "4": 6,
+    "5": 28
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

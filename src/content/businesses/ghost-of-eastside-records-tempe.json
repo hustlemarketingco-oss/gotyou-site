@@ -1,0 +1,51 @@
+{
+  "slug": "ghost-of-eastside-records-tempe",
+  "name": "Ghost of Eastside Records",
+  "category": "Shopping",
+  "googleCategory": "Record store",
+  "secondaryCategories": [
+    "Comic book store",
+    "Music store",
+    "Home audio store"
+  ],
+  "address": "45 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3926699,
+  "lng": -111.94103299999999,
+  "phone": "+14808293741",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ghost+of+Eastside+Records/data=!4m7!3m6!1s0x872b014be3edc215:0x2ff1fa340ad36965!8m2!3d33.3926699!4d-111.941033!16s%2Fg%2F1261z4my0!19sChIJFcLt40sBK4cRZWnTCjT68S8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3454817490596751717",
+  "placeId": "ChIJFcLt40sBK4cRZWnTCjT68S8",
+  "googleRating": 4.7,
+  "googleReviewCount": 161,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwr89jANg8q9oZMylvFCya4-P-ELicWbvdRzLJo5lt-4G437MQRagWaCeDl6Bt0B4Mv0L7ZDruJqrUtn4RdwBhpF56URho0E8KvHVmb6mvl0gYiuuxJwAh9suqRvn4adYNglna=w1200-h800-k-no",
+  "description": "Unassuming record store offering an extensive selection of vinyls plus T-shirts & turntables.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 4,
+    "3": 3,
+    "4": 16,
+    "5": 136
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

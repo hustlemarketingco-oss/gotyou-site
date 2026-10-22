@@ -1,0 +1,42 @@
+{
+  "slug": "crystal-image-salon-tempe",
+  "name": "Crystal Image Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1730 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3505585,
+  "lng": -111.9120531,
+  "phone": "+16025613866",
+  "googleMapsUrl": "https://www.google.com/maps/place/Crystal+Image+Salon/data=!4m7!3m6!1s0x872b0649aa1489e5:0xae8b86e362445556!8m2!3d33.3505585!4d-111.9120531!16s%2Fg%2F11b7gkbx24!19sChIJ5YkUqkkGK4cRVlVEYuOGi64?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12577294695526585686",
+  "placeId": "ChIJ5YkUqkkGK4cRVlVEYuOGi64",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EVonozI4lZf5oz4XlWOM2A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=264.79214&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

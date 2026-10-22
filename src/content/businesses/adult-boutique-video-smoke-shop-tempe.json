@@ -1,0 +1,46 @@
+{
+  "slug": "adult-boutique-video-smoke-shop-tempe",
+  "name": "Adult Boutique & Video & Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Boutique",
+  "secondaryCategories": [
+    "Video store"
+  ],
+  "address": "1458 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4457692,
+  "lng": -111.9268455,
+  "phone": "+14809415234",
+  "googleMapsUrl": "https://www.google.com/maps/place/Adult+Boutique+%26+Video+%26+Smoke+Shop/data=!4m7!3m6!1s0x872b0915c7318f09:0x6bdb214fc3361aad!8m2!3d33.4457692!4d-111.9268455!16s%2Fg%2F11lq_8jdnt!19sChIJCY8xxxUJK4cRrRo2w08h22s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7771842208419158701",
+  "placeId": "ChIJCY8xxxUJK4cRrRo2w08h22s",
+  "googleRating": 4.5,
+  "googleReviewCount": 11,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xAgLhKEoLusbmiBd1Yy08w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=268.76215&pitch=0.5173242&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 9
+  },
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

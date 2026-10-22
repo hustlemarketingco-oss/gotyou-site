@@ -1,0 +1,42 @@
+{
+  "slug": "holistic-healing-day-spa-tempe",
+  "name": "Holistic Healing Day Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "6101 S Rural Rd Unit 112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3669805,
+  "lng": -111.92812219999999,
+  "phone": "+14806524545",
+  "website": "http://holistichealingdayspa.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Holistic+Healing+Day+Spa/data=!4m7!3m6!1s0x872b074be7ec04cd:0x99fcd16a5dc5ce88!8m2!3d33.3669805!4d-111.9281222!16s%2Fg%2F11x96qqhmx!19sChIJzQTs50sHK4cRiM7FXWrR_Jk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11095973836704042632",
+  "placeId": "ChIJzQTs50sHK4cRiM7FXWrR_Jk",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ojKNHy9JHFNmmJnLnfxAkw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=209.64847&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 3:00 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

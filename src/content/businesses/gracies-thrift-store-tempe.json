@@ -1,0 +1,46 @@
+{
+  "slug": "gracies-thrift-store-tempe",
+  "name": "Gracie's Thrift Store",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "address": "1520 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4149702,
+  "lng": -111.9127726,
+  "phone": "+14809675231",
+  "website": "http://graciesthrift.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gracie%27s+Thrift+Store/data=!4m7!3m6!1s0x872b08f17c8cb0fd:0x3486883ca4073ff8!8m2!3d33.4149702!4d-111.9127726!16s%2Fg%2F1tp08l2d!19sChIJ_bCMfPEIK4cR-D8HpDyIhjQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3784862330882834424",
+  "placeId": "ChIJ_bCMfPEIK4cR-D8HpDyIhjQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 349,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH9KAopjsvxviLuZWewiCQwVINJpdFV9n-CR5rP8naiFIFa2OVC8AEJ1uGe0JfYepSwUUwFHzQjHrT5Gj6VxPLoJNkH3luY974jk9ms_PwbU2GQQInRINTJm_PjykQFG565D7V=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 10,
+    "3": 17,
+    "4": 36,
+    "5": 274
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

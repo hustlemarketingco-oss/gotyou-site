@@ -1,0 +1,45 @@
+{
+  "slug": "trophy-den-tempe",
+  "name": "Trophy Den",
+  "category": "Shopping",
+  "googleCategory": "Trophy shop",
+  "address": "202 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3934879,
+  "lng": -111.942066,
+  "phone": "+14809662945",
+  "website": "http://trophyden.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trophy+Den/data=!4m7!3m6!1s0x872b08afc4e8d135:0x43b3c722e0d09359!8m2!3d33.3934879!4d-111.942066!16s%2Fg%2F1tfvhp5v!19sChIJNdHoxK8IK4cRWZPQ4CLHs0M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4878461773986960217",
+  "placeId": "ChIJNdHoxK8IK4cRWZPQ4CLHs0M",
+  "googleRating": 4.9,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdD1vOrqk2rqYJ2BspOXRy-injTYf5QPxkRKsTylIUXgZuQON1kzpPMcXl-5ibZ3qUChBQH_EWTu2RV-QVlyKOF3-9SNv_AEvuLhfymIO_nFe1DRE0wdEqAI16jEPwLlXsmvE8=w1200-h800-k-no",
+  "description": "Family-owned business selling custom trophies, plaques & medals in many sizes & materials.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 19
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

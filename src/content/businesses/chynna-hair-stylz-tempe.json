@@ -1,0 +1,40 @@
+{
+  "slug": "chynna-hair-stylz-tempe",
+  "name": "Chynna Hair Stylz",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Hair salon"
+  ],
+  "address": "1761 E Warner Rd Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3335015,
+  "lng": -111.9125512,
+  "phone": "+15106884140",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chynna+Hair+Stylz/data=!4m7!3m6!1s0x872b06e4e91c2f5b:0x2738ed07ca15a05a!8m2!3d33.3335015!4d-111.9125512!16s%2Fg%2F11dxl9n7dm!19sChIJWy8c6eQGK4cRWqAVygftOCc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2826269383885955162",
+  "placeId": "ChIJWy8c6eQGK4cRWqAVygftOCc",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L7LAUofhwTcwTf5vONPkmw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=184.15428&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

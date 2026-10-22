@@ -1,0 +1,38 @@
+{
+  "slug": "wicked-pixie-salon-hair-studio-tempe",
+  "name": "Wicked Pixie Salon & Hair Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1712 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3644606,
+  "lng": -111.91319229999999,
+  "phone": "+14804380403",
+  "website": "https://wickedpixiehair.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wicked+Pixie+Salon+%26+Hair+Studio/data=!4m7!3m6!1s0x876b8c848114fb4b:0x3ca9d691f05aa226!8m2!3d33.3644606!4d-111.9131923!16s%2Fg%2F1jkwhwpwy!19sChIJS_sUgYSMa4cRJqJa8JHWqTw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4371260835630850598",
+  "placeId": "ChIJS_sUgYSMa4cRJqJa8JHWqTw",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i9njcvGY02TPMh8t9pzN9A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=315.9097&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

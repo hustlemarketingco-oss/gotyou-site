@@ -1,0 +1,52 @@
+{
+  "slug": "arizona-mills-5000-tempe",
+  "name": "Arizona Mills",
+  "category": "Shopping",
+  "googleCategory": "Sunglasses store",
+  "secondaryCategories": [
+    "Fashion accessories store",
+    "Gift shop",
+    "Shopping mall"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 214",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383798999999996,
+  "lng": -111.963968,
+  "phone": "+14807559189",
+  "website": "https://stores.sunglasshut.com/us/az/tempe/5000-s-arizona-mills-cir-1805?cid=YEXT_1805&y_source=1_MTE0MzcwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Mills/data=!4m7!3m6!1s0x872b0f59dc313fe7:0x6a4340b488d10e5c!8m2!3d33.383799!4d-111.963968!16s%2Fg%2F11cjj0mh63!19sChIJ5z8x3FkPK4cRXA7RiLRAQ2o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7657034935593668188",
+  "placeId": "ChIJ5z8x3FkPK4cRXA7RiLRAQ2o",
+  "googleRating": 3.9,
+  "googleReviewCount": 71,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtGgyPdCRdn4GfQ22rRhynLteORu9nqkONmqRgeXaa_Q6kP78eI-YpABkNB5q6cw62EcSai6mfRFKJOrWcxDj9yzwHIh91F2oDjs4ZTQwjZ8tWkxC2xddNmGzgD4N-1_KddN60Iw=w1200-h800-k-no",
+  "description": "Chain retailer carrying a wide selection of trendy brand-name & designer sunglasses.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 4,
+    "3": 8,
+    "4": 14,
+    "5": 36
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

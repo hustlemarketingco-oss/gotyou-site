@@ -1,0 +1,41 @@
+{
+  "slug": "skin-care-services-by-annette-tempe",
+  "name": "Skin care Services by Annette",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "address": "7707 S Kyrene Rd Suit 12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3476212,
+  "lng": -111.94520059999999,
+  "phone": "+14809399995",
+  "googleMapsUrl": "https://www.google.com/maps/place/Skin+care+Services+by+Annette/data=!4m7!3m6!1s0x872b06573c4ef543:0xf44e79da77c08afe!8m2!3d33.3476212!4d-111.9452006!16s%2Fg%2F11bx1q4hcx!19sChIJQ_VOPFcGK4cR_orAd9p5TvQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17604141972656786174",
+  "placeId": "ChIJQ_VOPFcGK4cR_orAd9p5TvQ",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a3z7TxbB4A0tks5wjgQRaw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=83.68069&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -13,18 +13,16 @@
   "lat": 33.4223755,
   "lng": -111.9439119,
   "website": "https://www.gogoavocadoaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17017252984732493252",
+  "googleMapsUrl": "https://www.google.com/maps/place/Go+Go+Avocado/data=!4m7!3m6!1s0x872b0900008caab9:0xec296d6da7efa5c4!8m2!3d33.4223755!4d-111.9439119!16s%2Fg%2F11yxms3m08!19sChIJuaqMAAAJK4cRxKXvp21tKew?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17017252984732493252",
   "placeId": "ChIJuaqMAAAJK4cRxKXvp21tKew",
-  "googleRating": 4.7,
-  "googleReviewCount": 62,
+  "googleRating": 4.6,
+  "googleReviewCount": 118,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Go Go Avocado is a cafe & breakfast restaurant with coffee, dine-in.",
   "amenities": [
-    "Dine-in",
-    "Free parking lot",
-    "Free street parking",
-    "Coffee"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "8:00 AM - 3:00 PM",
@@ -41,5 +39,15 @@
   "groundgameId": "6a2439474ef33f52b6d768b7",
   "seededAt": "2026-06-06T15:14:15Z",
   "updatedAt": "2026-08-05T21:10:53Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 2,
+    "4": 10,
+    "5": 97
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTSQkvVXQ8n-Y1cWei-i9Tejo1e0shm9Y-kX0Tio6HepVQR8-A-wma3vWqGZfcCsyVfEG54JTxNqYpslJmTbcYuTTAYuXt5irSfa7Ltgcu6J55pqsb-37JQZ2qBzZbCTUnOWOfalFMM-wx=w1200-h800-k-no",
+  "phone": "+14802568910",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

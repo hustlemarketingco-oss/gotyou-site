@@ -19,10 +19,13 @@
   "website": "https://venezias.com/location/tempe/",
   "placeId": "ChIJr4xnuqIJK4cRta1pJcKiP8Q",
   "googleRating": 4.5,
-  "googleReviewCount": 3111,
+  "googleReviewCount": 3186,
   "priceRange": "$",
   "amenities": [
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
@@ -39,5 +42,16 @@
   "groundgameId": "6a2c1d590dfa0e73a30a2a96",
   "seededAt": "2026-06-12T14:53:13Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14141200309701684661",
+  "googleMapsUrl": "https://www.google.com/maps/place/Venezia%27s+Pizza/data=!4m7!3m6!1s0x872b09a2ba678caf:0xc43fa2c22569adb5!8m2!3d33.3915417!4d-111.9386689!16s%2Fg%2F1tdqt_h4!19sChIJr4xnuqIJK4cRta1pJcKiP8Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 124,
+    "2": 80,
+    "3": 156,
+    "4": 510,
+    "5": 2316
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsjwfRg9cXRq-h8aY-IP5Jy_F_AxnmjOFvNTdBxlXaY0YKBhFr0RGqJp4Z1vJnMRHMmVN046R-Id9KeCbu2pI3wjKDOaIbpMrwvOr_AbFrXqEP16gXSrS6bHEQIA16NtZztVKOkMl3ibil=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

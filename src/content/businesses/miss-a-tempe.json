@@ -1,0 +1,47 @@
+{
+  "slug": "miss-a-tempe",
+  "name": "MISS A",
+  "category": "Shopping",
+  "googleCategory": "Cosmetics store",
+  "secondaryCategories": [
+    "Costume jewelry shop",
+    "Fashion accessories store"
+  ],
+  "address": "5000 S Arizona Mills Cir #534",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383411699999996,
+  "lng": -111.9652462,
+  "website": "https://www.shopmissa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/MISS+A/data=!4m7!3m6!1s0x872b0f7bc4947e73:0xb843febb7c605ea2!8m2!3d33.3834117!4d-111.9652462!16s%2Fg%2F11lymnzv5v!19sChIJc36UxHsPK4cRol5gfLv-Q7g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13277736207617384098",
+  "placeId": "ChIJc36UxHsPK4cRol5gfLv-Q7g",
+  "googleRating": 4.2,
+  "googleReviewCount": 22,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3BQMvnT73VGd4tKSU7WVC2Z3xyoakCT5igld1LgG5YIY4Kqht3qAdjJZ2Sd-JSatEy5U74X1t4FCKEjKzGy2XjJqKwhXJwKw6kWtADnjQxJeReGAJ98lTXIdiQTphteiaqOVonQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "5": 17
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

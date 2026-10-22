@@ -18,33 +18,18 @@
   "lng": -111.925444,
   "phone": "+18007861000",
   "website": "https://locations.in-n-out.com/195",
-  "googleMapsUrl": "https://www.google.com/maps?cid=489587622613132376",
+  "googleMapsUrl": "https://www.google.com/maps/place/In-N-Out+Burger/data=!4m7!3m6!1s0x872b091923a3772d:0x6cb5d594c48a458!8m2!3d33.4348998!4d-111.925444!16s%2Fg%2F1tff3hfw!19sChIJLXejIxkJK4cRWKRITFldywY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "489587622613132376",
   "placeId": "ChIJLXejIxkJK4cRWKRITFldywY",
   "googleRating": 4.6,
-  "googleReviewCount": 11659,
+  "googleReviewCount": 11863,
   "priceRange": "$10–20",
   "description": "Classic burger chain serving customizable burgers, hand-cut fries & shakes.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:30 AM - 1:30 AM",
@@ -61,5 +46,14 @@
   "groundgameId": "6a24382663b574dd8a1f6c9e",
   "seededAt": "2026-06-06T15:09:26Z",
   "updatedAt": "2026-06-06T15:09:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 255,
+    "2": 206,
+    "3": 627,
+    "4": 1973,
+    "5": 8802
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRmAOnn1IP3K2A2PTCE9VTFdtYiEFAoDUFH_lrjoy_dlc4BwToXxfqUe_vfFTdX5R-ctRDI_1w9eKpitNWSb-SibPBPFOPfhxT0Ebw7d0scmE_AVFVupIO1lNUWoJaXS5UeLOob6JeJztP=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

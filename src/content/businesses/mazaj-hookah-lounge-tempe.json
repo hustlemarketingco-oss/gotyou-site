@@ -1,0 +1,48 @@
+{
+  "slug": "mazaj-hookah-lounge-tempe",
+  "name": "Mazaj Hookah Lounge",
+  "category": "Bars & Pubs",
+  "googleCategory": "Hookah bar",
+  "secondaryCategories": [
+    "Lounge bar"
+  ],
+  "address": "1630 E Apache Blvd #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4153446,
+  "lng": -111.9111282,
+  "phone": "+14804774777",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mazaj+Hookah+Lounge/data=!4m7!3m6!1s0x872b08f3fdf76817:0x5796dd1e578ee00c!8m2!3d33.4153446!4d-111.9111282!16s%2Fg%2F1pp2vcg9z!19sChIJF2j3_fMIK4cRDOCOVx7dllc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6311475050194067468",
+  "placeId": "ChIJF2j3_fMIK4cRDOCOVx7dllc",
+  "googleRating": 4.4,
+  "googleReviewCount": 177,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkVYcJZ2FY-gqHMEX7vRUQnHSyj29jMgX2OUq4iKtDsRZFtqJHOyCDPtUfa6FIYNQtoc5u8GK9UjUebGB8ZgYuGTV5yVhhWvEcaaqda75svLcp1prjFK-ZIsSNQ4CYanlTVWh_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 3,
+    "3": 4,
+    "4": 15,
+    "5": 137
+  },
+  "hours": {
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM",
+    "fri": "10:00 AM - 3:00 AM",
+    "sat": "10:00 AM - 3:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

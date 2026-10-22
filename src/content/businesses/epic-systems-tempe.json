@@ -1,0 +1,41 @@
+{
+  "slug": "epic-systems-tempe",
+  "name": "Epic Systems",
+  "category": "Shopping",
+  "googleCategory": "Home theater store",
+  "address": "60 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.431042999999995,
+  "lng": -111.9392393,
+  "website": "http://www.epicavaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Epic+Systems/data=!4m7!3m6!1s0x872b09260e871d21:0x196bc05d2b84de5f!8m2!3d33.431043!4d-111.9392393!16s%2Fg%2F1hf0lj258!19sChIJIR2HDiYJK4cRX96EK13Aaxk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1831769179850858079",
+  "placeId": "ChIJIR2HDiYJK4cRX96EK13Aaxk",
+  "googleRating": 5,
+  "googleReviewCount": 45,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgAuRs5xQLA9RxBitH1Q3uUjE8oAPdpB3AhptwU7rfE47CgZy6uttjxUu5gE-Z-EDVLqeGHEj--JunfTewHaA-fA-_oElXPDsLMQ2LY4VC7k2a2nQcSVcNeZ3xB5Rqv0Sh7bjwiDyJjxZJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 45
+  },
+  "hours": {
+    "mon": "8:30 AM - 5:00 PM",
+    "tue": "8:30 AM - 5:00 PM",
+    "wed": "8:30 AM - 5:00 PM",
+    "thu": "8:30 AM - 5:00 PM",
+    "fri": "8:30 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

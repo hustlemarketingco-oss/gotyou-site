@@ -1,0 +1,57 @@
+{
+  "slug": "marshalls-tempe",
+  "name": "Marshalls",
+  "category": "Shopping",
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Clothing store",
+    "Luggage store",
+    "Men's clothing store",
+    "Swimwear store",
+    "T-shirt store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.381234,
+  "lng": -111.96382799999999,
+  "phone": "+14808974940",
+  "website": "https://www.marshalls.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Marshalls/data=!4m7!3m6!1s0x872b0f59e1444903:0x9c8258f5f126d5a7!8m2!3d33.381234!4d-111.963828!16s%2Fg%2F1tdk111q!19sChIJA0lE4VkPK4cRp9Um8fVYgpw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11277674230225229223",
+  "placeId": "ChIJA0lE4VkPK4cRp9Um8fVYgpw",
+  "googleRating": 4.3,
+  "googleReviewCount": 1177,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxiHF-G2b7YzAOsw3js_5dSwmte3iF5fEKfx84rWbMeGApdLPPkut_mDBZNSGb5Kbm0v9GrnLmFQsfHm2wbYcVih9C79Iazdqz86QXhXpVlPyk-8MGdx_tzh5BAQkMTbezawoLLA=w1200-h800-k-no",
+  "description": "Retail chain offering brand-name clothing, accessories, shoes & housewares.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 29,
+    "2": 32,
+    "3": 138,
+    "4": 291,
+    "5": 687
+  },
+  "hours": {
+    "mon": "9:30 AM - 8:30 PM",
+    "tue": "9:30 AM - 8:30 PM",
+    "wed": "9:30 AM - 8:30 PM",
+    "thu": "9:30 AM - 8:30 PM",
+    "fri": "9:30 AM - 9:30 PM",
+    "sat": "9:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 7:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

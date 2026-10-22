@@ -1,0 +1,42 @@
+{
+  "slug": "eternal-dance-company-tempe",
+  "name": "Eternal Dance Company",
+  "category": "Local Business",
+  "googleCategory": "Dance company",
+  "address": "1290 N Scottsdale Rd Ste 123",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4429453,
+  "lng": -111.92756329999999,
+  "phone": "+16233960536",
+  "website": "https://www.eternaldancecompany.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eternal+Dance+Company/data=!4m7!3m6!1s0x872b09d1303d8a11:0x6e5a1c085d57cb74!8m2!3d33.4429453!4d-111.9275633!16s%2Fg%2F11krhfd2kq!19sChIJEYo9MNEJK4cRdMtXXQgcWm4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7951698914327382900",
+  "placeId": "ChIJEYo9MNEJK4cRdMtXXQgcWm4",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jBEWU7jxCeJW6Iz_cPyhoA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=74.176636&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "4:00 PM - 8:00 PM",
+    "tue": "4:00 PM - 8:00 PM",
+    "wed": "4:00 PM - 8:00 PM",
+    "thu": "4:00 PM - 8:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

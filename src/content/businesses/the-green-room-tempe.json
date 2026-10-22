@@ -1,0 +1,36 @@
+{
+  "slug": "the-green-room-tempe",
+  "name": "The Green Room",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "401 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426372199999996,
+  "lng": -111.9397767,
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Green+Room/data=!4m7!3m6!1s0x872b09005493b7cb:0x87fae831e2275574!8m2!3d33.4263722!4d-111.9397767!16s%2Fg%2F11zf9q19td!19sChIJy7eTVAAJK4cRdFUn4jHo-oc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9798399240243205492",
+  "placeId": "ChIJy7eTVAAJK4cRdFUn4jHo-oc",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdLdz-v1GlNnBHOCllHJcID4Rl2nRTL7UNc07Xzn1cV-HvzqTjb_8PqkArtlfsPZdm25qc6Ey3GNv1xLdEtei_LVEmwjyNxNdlO-K5Nk_8wYWHUhqTfwKbAo9TBOZ_77_3jquUL_BFSUVQ=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "5:00 PM - 2:00 AM",
+    "thu": "5:00 PM - 2:00 AM",
+    "fri": "5:00 PM - 2:00 AM",
+    "sat": "5:00 PM - 2:00 AM",
+    "sun": "5:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

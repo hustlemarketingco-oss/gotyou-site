@@ -1,0 +1,45 @@
+{
+  "slug": "daves-barber-shop-tempe",
+  "name": "Dave's Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1813 E Baseline Rd Ste 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377623199999995,
+  "lng": -111.9069148,
+  "phone": "+14808385950",
+  "website": "https://davesbarbertempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dave%27s+Barber+Shop/data=!4m7!3m6!1s0x872b063260bb3a9f:0x794f2627132ad782!8m2!3d33.3776232!4d-111.9069148!16s%2Fg%2F113h926dq!19sChIJnzq7YDIGK4cRgtcqEycmT3k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8741247351016576898",
+  "placeId": "ChIJnzq7YDIGK4cRgtcqEycmT3k",
+  "googleRating": 4.6,
+  "googleReviewCount": 86,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmct2JOd7hXrd90crXQ0g_BlolN2c5Ij3rFxp3YB1eXXQ4uRaO3w34bYki9oGbP0NWSFS71DFyj8rGG_94V2WvC7xyAMr5fuCL2wNEso_EpdxjMyG0EsU0KsKBpkRo-73J6j7iKA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "3": 2,
+    "4": 3,
+    "5": 75
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

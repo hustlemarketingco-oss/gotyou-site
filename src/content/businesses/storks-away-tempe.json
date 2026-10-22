@@ -1,0 +1,49 @@
+{
+  "slug": "storks-away-tempe",
+  "name": "Storks Away",
+  "category": "Shopping",
+  "googleCategory": "Baby store",
+  "secondaryCategories": [
+    "Children's furniture store",
+    "Children's store",
+    "Equipment rental agency",
+    "Furniture rental service"
+  ],
+  "address": "910 W Carver Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3429199,
+  "lng": -111.95234649999999,
+  "phone": "+14809788359",
+  "website": "https://storksaway.com/service-areas/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Storks+Away/data=!4m7!3m6!1s0x872b055deb231c39:0xd0223bbeb15e0105!8m2!3d33.3429199!4d-111.9523465!16s%2Fg%2F11md14ptrn!19sChIJORwj610FK4cRBQFesb47ItA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14997615399302725893",
+  "placeId": "ChIJORwj610FK4cRBQFesb47ItA",
+  "googleRating": 5,
+  "googleReviewCount": 60,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdM9J6IVT9S-IJVmQJ8Vd2XpJlxnL8KMS0S3rxBAYXMOloJXT7Hgk3elY1rEu2HB1umiKvqxg6Pc89DmrLXbbe_GmgmISqzRcDgGVXK3b4sqQdm1buiqMNyK5G1VllNG9FXTAIUIvee53cN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 60
+  },
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "rainbow-shops-tempe",
+  "name": "Rainbow Shops",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Costume jewelry shop",
+    "Dress store",
+    "Fashion accessories store",
+    "Plus size clothing store",
+    "Shoe store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3828332,
+  "lng": -111.9654736,
+  "phone": "+14802556839",
+  "website": "https://stores.rainbowshops.com/az/tempe/1404/?utm_source=G&utm_medium=lpm&utm_campaign=RainbowShops",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rainbow+Shops/data=!4m7!3m6!1s0x872b0f7d5090c591:0xad9b28b31bd5303f!8m2!3d33.3828332!4d-111.9654736!16s%2Fg%2F11flkgjhd6!19sChIJkcWQUH0PK4cRPzDVG7Mom60?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12509637139682897983",
+  "placeId": "ChIJkcWQUH0PK4cRPzDVG7Mom60",
+  "googleRating": 4.2,
+  "googleReviewCount": 84,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVqFfXRNdHBgqLoqIdAexaYoywx0PHzpypS04B0NgBBo4LxfNKO7ItfUhTiCKQ4qd1UdQNZNgnwfKvbbSru7HaDEyDNYQmPGmQbZ1loofTavJfF8zBfB2s0pUVjWi_9dRzH2UjN02axF7F=w1200-h800-k-no",
+  "description": "Apparel chain offering fashionable clothing for women, men & kids, as well as shoes & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 2,
+    "3": 6,
+    "4": 11,
+    "5": 56
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

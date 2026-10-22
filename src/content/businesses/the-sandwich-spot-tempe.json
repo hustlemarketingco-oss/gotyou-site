@@ -1,0 +1,38 @@
+{
+  "slug": "the-sandwich-spot-tempe",
+  "name": "The Sandwich Spot",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "address": "521 S College Ave Unit 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4249386,
+  "lng": -111.9346209,
+  "phone": "+16232878653",
+  "website": "https://www.thesandwichspot-tempe-asu.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Sandwich+Spot/data=!4m7!3m6!1s0x872b0930e2467687:0x4b83ee4dcaaf3dd4!8m2!3d33.4249386!4d-111.9346209!16s%2Fg%2F11zfjbb0kt!19sChIJh3ZG4jAJK4cR1D2vyk3ug0s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5441454792674065876",
+  "placeId": "ChIJh3ZG4jAJK4cR1D2vyk3ug0s",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUCol2CoOYj2IfLMKFNHf-AiJsZ8INCworH4A6o-j2bJ6fpRZCe8zgoKM6TtbAuMPFprKMh6mjiiLdk2wIKSk_05NJNPoNFf0EU81JpCaOaUSBYcYoPeDJUGIOO9Ozw4vxZUX5vNqnF1T1=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "10:45 AM - 8:00 PM",
+    "tue": "10:45 AM - 8:00 PM",
+    "wed": "10:45 AM - 8:00 PM",
+    "thu": "10:45 AM - 8:00 PM",
+    "fri": "10:45 AM - 9:00 PM",
+    "sat": "10:45 AM - 9:00 PM",
+    "sun": "10:45 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "u-s-polo-assn-outlet-tempe",
+  "name": "U.S. Polo Assn. Outlet",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382532499999996,
+  "lng": -111.96382709999999,
+  "phone": "+16026133713",
+  "website": "https://www.uspoloassn.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/U.S.+Polo+Assn.+Outlet/data=!4m7!3m6!1s0x88d8d60f120ff391:0xf0dcedb1f89e3262!8m2!3d33.3825325!4d-111.9638271!16s%2Fg%2F1q5bplzzc!19sChIJkfMPEg_W2IgRYjKe-LHt3PA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17356008412615160418",
+  "placeId": "ChIJkfMPEg_W2IgRYjKe-LHt3PA",
+  "googleRating": 4.3,
+  "googleReviewCount": 69,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnehzcIUGoJ3KJ2YHUTEv6q5ktvr_tBaNhOHnXv6j8Kn0TdtCvdJ_Nns37hW2IfeWZAkv-gNYbNPZ87SpkJ0JP3IUXpc0j1L4GuqOdPm5la7Egn1up8BQr01nx1FCzMfJpoS7XrEfdRMLx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 5,
+    "4": 14,
+    "5": 44
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

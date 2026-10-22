@@ -11,21 +11,16 @@
   "lng": -111.9331526,
   "phone": "+16022108899",
   "website": "https://azpizzacotempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2960710476536045768",
+  "googleMapsUrl": "https://www.google.com/maps/place/ARIZONA+PIZZA+COMPANY+DELI+%26+MARKET/data=!4m7!3m6!1s0x872b09ca87e2eca5:0x29168e7decb560c8!8m2!3d33.4299101!4d-111.9331526!16s%2Fg%2F11ydb629b6!19sChIJpezih8oJK4cRyGC17H2OFik?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2960710476536045768",
   "placeId": "ChIJpezih8oJK4cRyGC17H2OFik",
-  "googleRating": 4,
-  "googleReviewCount": 33,
+  "googleRating": 3.6,
+  "googleReviewCount": 40,
   "priceRange": "$10–20",
   "description": "Located in Tempe, AZ PIZZA COMPANY DELI & MARKET is a pizza delivery with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.instagram.com/azpizzacotempe"
@@ -45,5 +40,14 @@
   "groundgameId": "6a243832a0d943129b9838fb",
   "seededAt": "2026-06-06T15:09:38Z",
   "updatedAt": "2026-06-06T15:09:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 4,
+    "3": 2,
+    "4": 2,
+    "5": 22
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpavySxNY1KItwPaVsLpJkPwkLH4zwHqtgsgCXdY01lfkKK9Z63w14IVEp7xH0KLM29E_xpi6gWgWUDH3gxXY3sEkF_m0g1eeKOOH_q1TYx-5UStx5_OZMOUD5A_6jzd5uopsEwc_R53Tw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

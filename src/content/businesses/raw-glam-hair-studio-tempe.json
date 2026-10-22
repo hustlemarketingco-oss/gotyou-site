@@ -1,0 +1,38 @@
+{
+  "slug": "raw-glam-hair-studio-tempe",
+  "name": "Raw Glam Hair Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "750 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3787198,
+  "lng": -111.94951209999999,
+  "phone": "+16028591188",
+  "website": "https://rawglamhair.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raw+Glam+Hair+Studio/data=!4m7!3m6!1s0x872b07235815e357:0xb1d78d5d4016cd3a!8m2!3d33.3787198!4d-111.9495121!16s%2Fg%2F11n4qn_1jj!19sChIJV-MVWCMHK4cROs0WQF2N17E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12814866696352746810",
+  "placeId": "ChIJV-MVWCMHK4cROs0WQF2N17E",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZwTAF-MDhI8vU9RYA8hf_11PH2iCc-7hQ3HmYFwpwAXu2tu4yHGwDCpSqD9cR3u2GAdd7fcF8IhO1dC4pBk7aTxylKSgYlCeTqw4eveaeOpw2XwFlNS61xMIly8phg6mnTLXhSnBtqrLD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "9:00 AM - 6:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

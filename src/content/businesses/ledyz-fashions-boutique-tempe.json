@@ -1,0 +1,31 @@
+{
+  "slug": "ledyz-fashions-boutique-tempe",
+  "name": "Ledyz Fashions Boutique",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "secondaryCategories": [
+    "Boutique"
+  ],
+  "address": "5000G01, S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3832233,
+  "lng": -111.9644216,
+  "phone": "+14805405340",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ledyz+Fashions+Boutique/data=!4m7!3m6!1s0x872a553bf9f05eb5:0x1c2891474866ea32!8m2!3d33.3832233!4d-111.9644216!16s%2Fg%2F11f_j1gdqx!19sChIJtV7w-TtVKocRMupmSEeRKBw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2029031367473818162",
+  "placeId": "ChIJtV7w-TtVKocRMupmSEeRKBw",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qljXrUD2Onw3PNhlnS5lQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=264.3422&pitch=0&thumbfov=100",
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

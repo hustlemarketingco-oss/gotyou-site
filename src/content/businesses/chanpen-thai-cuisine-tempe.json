@@ -11,35 +11,18 @@
   "lng": -111.9770279,
   "phone": "+16026773149",
   "website": "https://www.chanpenthaitempeaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17803889623038355566",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chanpen+Thai+Cuisine/data=!4m7!3m6!1s0x872b0f607d60b597:0xf7141f487976e86e!8m2!3d33.3786872!4d-111.9770279!16s%2Fg%2F11b8t79g55!19sChIJl7VgfWAPK4cRbuh2eUgfFPc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17803889623038355566",
   "placeId": "ChIJl7VgfWAPK4cRbuh2eUgfFPc",
   "googleRating": 4.5,
-  "googleReviewCount": 1559,
+  "googleReviewCount": 1588,
   "priceRange": "$10–20",
   "description": "Traditional Thai restaurant with Asian style decor serving standard curry, rice & noodle dishes.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 9:30 PM",
@@ -56,5 +39,14 @@
   "groundgameId": "6a24380649d7d9b7a827b43b",
   "seededAt": "2026-06-06T15:08:54Z",
   "updatedAt": "2026-06-06T15:08:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 69,
+    "2": 30,
+    "3": 78,
+    "4": 212,
+    "5": 1199
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQuXasB8jArUc7fuh4UFs_tWQKlcYJ7ut9lNueCnpV_OVNnwsmsjY29aIk-cXB2T4G8dacsHHQIocpD_gYUMuCJPZ_8QMiUti8gm9cpZDOqfsJL5eVjCWXj5gLUmx5KcCMV_fX=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "dollar-tree-1234-tempe",
+  "name": "Dollar Tree",
+  "category": "Shopping",
+  "googleCategory": "Discount store",
+  "secondaryCategories": [
+    "Candy store",
+    "Convenience store",
+    "Dollar store",
+    "Grocery store",
+    "Home goods store",
+    "Party store",
+    "Seasonal goods store",
+    "Variety store"
+  ],
+  "address": "1234 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3507177,
+  "lng": -111.9587382,
+  "phone": "+14804932420",
+  "website": "https://locations.dollartree.com/az/tempe/1234-west-elliot-rd?utm_source=google&utm_medium=organic&utm_campaign=maps",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dollar+Tree/data=!4m7!3m6!1s0x872b05d9f5052aa5:0x158f51c29cc60b82!8m2!3d33.3507177!4d-111.9587382!16s%2Fg%2F1tdlhrxm!19sChIJpSoF9dkFK4cRggvGnMJRjxU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1553550292761840514",
+  "placeId": "ChIJpSoF9dkFK4cRggvGnMJRjxU",
+  "googleRating": 4,
+  "googleReviewCount": 318,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuVIPBPrgbX0de40HwHP4zrCG2O6-Ee4napufONgy6wIrDdt43Yopnl7h6t8QRA_jQHxZOdQCXad-LQYUXWKjb8hEwtu9eyUGZZJworU2akxM31pPfojDOlrt-8K9vQsPn9JRSubxtTAqP=w1200-h800-k-no",
+  "description": "Chain offering a mix of household items, beauty products, food & more at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 11,
+    "3": 27,
+    "4": 94,
+    "5": 153
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

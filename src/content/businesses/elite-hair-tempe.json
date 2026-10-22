@@ -1,0 +1,45 @@
+{
+  "slug": "elite-hair-tempe",
+  "name": "Elite Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "3123 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3948174,
+  "lng": -111.93904649999999,
+  "phone": "+16029300491",
+  "website": "https://elitehairaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Elite+Hair/data=!4m7!3m6!1s0x872b09fcbf0eece9:0x3cbcda7adf3f1879!8m2!3d33.3948174!4d-111.9390465!16s%2Fg%2F11h89hbbh7!19sChIJ6ewOv_wJK4cReRg_33ravDw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4376613159163598969",
+  "placeId": "ChIJ6ewOv_wJK4cReRg_33ravDw",
+  "googleRating": 4.8,
+  "googleReviewCount": 44,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4Hun5wCL-j6S2nEhIaQg7XeHxYjrt6_9Q34nJ8bSVFLqGARmPj3XJ5GvQy1VQijQ-GqdnV-dGx1Py5En8FJIpd0PG0RUaH_8iete60vf7nkYGBaOdQlCoziVJ2Nn_vPHox8EA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 40
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

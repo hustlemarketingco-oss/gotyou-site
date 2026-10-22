@@ -1,0 +1,48 @@
+{
+  "slug": "ahmize-custom-apparel-tempe",
+  "name": "Ahmize Custom Apparel",
+  "category": "Shopping",
+  "googleCategory": "Embroidery shop",
+  "secondaryCategories": [
+    "Custom t-shirt store",
+    "Office supply store",
+    "Pen store",
+    "Printing equipment supplier"
+  ],
+  "address": "738 S Perry Ln #6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4228573,
+  "lng": -111.9058491,
+  "phone": "+14804838999",
+  "website": "https://www.facebook.com/ahmize33/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ahmize+Custom+Apparel/data=!4m7!3m6!1s0x872b08f8145170a5:0x82c267685c878c2!8m2!3d33.4228573!4d-111.9058491!16s%2Fg%2F1td42z1q!19sChIJpXBRFPgIK4cRwnjIhXYmLAg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "588887941771196610",
+  "placeId": "ChIJpXBRFPgIK4cRwnjIhXYmLAg",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OQJ2lRZLm2MzLULxjmOtmQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=66.677&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

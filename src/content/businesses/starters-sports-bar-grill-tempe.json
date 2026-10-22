@@ -1,0 +1,39 @@
+{
+  "slug": "starters-sports-bar-grill-tempe",
+  "name": "Starters Sports Bar & Grill",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "1400 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4131662,
+  "lng": -111.90944479999999,
+  "phone": "+14809672622",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starters+Sports+Bar+%26+Grill/data=!4m7!3m6!1s0x872b08f461a10c03:0x67f9d0d09fa9833a!8m2!3d33.4131662!4d-111.9094448!16s%2Fg%2F1td25xlr!19sChIJAwyhYfQIK4cROoOpn9DQ-Wc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7492249049557992250",
+  "placeId": "ChIJAwyhYfQIK4cROoOpn9DQ-Wc",
+  "googleRating": 4.1,
+  "googleReviewCount": 259,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpfvh0jHeTnHfs2Xu-7ucAe-nG7a2Dk-W82Hvl4HN1Ek9pa5WqFVvFBz3oeTiFgTmdzyWS61udY2DQB0yog_hG7ImhWwSnI5DcZQl1r1Wo5GSyi8v2IjRGeu8bCxEM_4CtPWACXw=w1200-h800-k-no",
+  "description": "No-frills bar/grill offering standard American pub fare & beers plus many TVs for sports-watching.",
+  "amenities": [
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 19,
+    "3": 34,
+    "4": 44,
+    "5": 148
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

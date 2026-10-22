@@ -1,0 +1,42 @@
+{
+  "slug": "rays-asu-barber-shop-tempe",
+  "name": "Ray's ASU Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "905 E Lemon St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.416578799999996,
+  "lng": -111.925642,
+  "phone": "+14809683515",
+  "website": "https://www.facebook.com/asubarbers",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ray%27s+ASU+Barber+Shop/data=!4m7!3m6!1s0x872b099166879997:0x4668bad8781ad56d!8m2!3d33.4165788!4d-111.925642!16s%2Fg%2F11wqhlfg90!19sChIJl5mHZpEJK4cRbdUaeNi6aEY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5073510419123590509",
+  "placeId": "ChIJl5mHZpEJK4cRbdUaeNi6aEY",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEdK81-K9fGqtnDuo7TFiqw6_7JYnRytJ5ymVBd2LnCx-hozz-zleawisIDxOhFx3ZwUc91z7Nm0UGi7C-i6E-QXS4_WJM6RQ-uSuLrUMOEA-4FLmHuXZfcn2SQw3i-9LFhvXe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:30 AM - 5:30 PM",
+    "wed": "8:30 AM - 5:30 PM",
+    "thu": "8:30 AM - 5:30 PM",
+    "fri": "8:30 AM - 5:30 PM",
+    "sat": "8:30 AM - 5:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

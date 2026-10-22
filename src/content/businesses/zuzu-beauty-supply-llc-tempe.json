@@ -1,0 +1,45 @@
+{
+  "slug": "zuzu-beauty-supply-llc-tempe",
+  "name": "Zuzu Beauty Supply LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty supply store",
+  "address": "2700 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378592499999996,
+  "lng": -111.9766856,
+  "phone": "+16024371229",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zuzu+Beauty+Supply+LLC/data=!4m7!3m6!1s0x872b0f6062882f79:0x8292e4d25e1e57e0!8m2!3d33.3785925!4d-111.9766856!16s%2Fg%2F11bbrnfq9f!19sChIJeS-IYmAPK4cR4FceXtLkkoI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9408834163703699424",
+  "placeId": "ChIJeS-IYmAPK4cR4FceXtLkkoI",
+  "googleRating": 4.2,
+  "googleReviewCount": 143,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXzY7Msw8UnXip3eQ0PwKs_Uj-7Tjgp9gQ8WqVU8LD4ozaMKOlnjpyP-5K-uUOk02NkLFqmn-1wF0NQVCXgzX15rAzFYrz90u_8hknR2GpwNqEextEMC0CveWD5VJJIp4xsd8y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 4,
+    "3": 12,
+    "4": 21,
+    "5": 92
+  },
+  "hours": {
+    "mon": "9:30 AM - 9:00 PM",
+    "tue": "9:30 AM - 9:00 PM",
+    "wed": "9:30 AM - 9:00 PM",
+    "thu": "9:30 AM - 9:00 PM",
+    "fri": "9:30 AM - 9:00 PM",
+    "sat": "9:30 AM - 9:00 PM",
+    "sun": "9:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

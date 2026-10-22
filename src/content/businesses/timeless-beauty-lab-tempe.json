@@ -1,0 +1,48 @@
+{
+  "slug": "timeless-beauty-lab-tempe",
+  "name": "Timeless Beauty Lab",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Eyebrow bar",
+    "Eyelash salon",
+    "Facial spa",
+    "Hair removal service"
+  ],
+  "address": "1800 E Rio Salado Pkwy Ste - #122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+16022142287",
+  "googleMapsUrl": "https://www.google.com/maps/place/Timeless+Beauty+Lab/data=!4m7!3m6!1s0x872b09dfc089a46b:0x60d4cd4b4a187589!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11w9gww6kz!19sChIJa6SJwN8JK4cRiXUYSkvN1GA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6977427445953099145",
+  "placeId": "ChIJa6SJwN8JK4cRiXUYSkvN1GA",
+  "googleRating": 5,
+  "googleReviewCount": 32,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxz7KQF7ho7NChHv9xgc6D8Cr-n3oN_YyVUTOyHEvCE3Y0D_KTuOPK7oU_NKsrWjpkyEKphrAx3ByQMf5Hdech0XoY6EhZL2q2yqQbpj3LnngUhjQarRE-9Cljzsfq5Iz2CNdIDw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 32
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "9:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

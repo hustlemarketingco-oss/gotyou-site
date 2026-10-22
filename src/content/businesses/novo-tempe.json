@@ -11,20 +11,9 @@
   "priceRange": "$10–20",
   "description": "Located in Tempe, NOVO is a casual, trendy juice shop with takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Paid parking garage",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/supernovoco"
@@ -35,5 +24,18 @@
   "groundgameId": "6a2435ef43710cf0fe781cf8",
   "seededAt": "2026-06-06T14:59:59Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJRbWuU7MJK4cRSsHoWGMcotU",
+  "googleCid": "15393897689324765514",
+  "googleMapsUrl": "https://www.google.com/maps/place/NOVO/data=!4m7!3m6!1s0x872b09b353aeb545:0xd5a21c6358e8c14a!8m2!3d33.4169652!4d-111.9229146!16s%2Fg%2F11vzgddx2v!19sChIJRbWuU7MJK4cRSsHoWGMcotU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 10,
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 9
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2pzueFf1EVKgw9h_3x-aGfyFowEG98rQmAAsQVuP1kHNPLA1wnMM7kBd8_jlZLYXtiOGzWfFjHMU82SonGz5tH09bOocibCPoNUeOm0oyd8d-YaHOidNnpXlFg7-HPoVuSLSz8GOG8As=w1200-h800-k-no",
+  "lat": 33.4169652,
+  "lng": -111.9229146,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

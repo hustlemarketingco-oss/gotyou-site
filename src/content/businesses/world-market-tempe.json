@@ -1,0 +1,55 @@
+{
+  "slug": "world-market-tempe",
+  "name": "World Market",
+  "category": "Shopping",
+  "googleCategory": "Furniture store",
+  "secondaryCategories": [
+    "Boutique",
+    "Grocery store",
+    "Home goods store",
+    "Kitchen supply store",
+    "Lighting store",
+    "Outdoor furniture store",
+    "Rug store"
+  ],
+  "address": "1800 E Rio Salado Pkwy Suite 150",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4298843,
+  "lng": -111.90591649999999,
+  "phone": "+14809210500",
+  "website": "https://www.worldmarket.com/stores/store?id=CP338",
+  "googleMapsUrl": "https://www.google.com/maps/place/World+Market/data=!4m7!3m6!1s0x872b08fe609e8679:0xf097ed59f173ae40!8m2!3d33.4298843!4d-111.9059165!16s%2Fg%2F1tdgkqmx!19sChIJeYaeYP4IK4cRQK5z8Vntl_A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17336586261144776256",
+  "placeId": "ChIJeYaeYP4IK4cRQK5z8Vntl_A",
+  "googleRating": 4.3,
+  "googleReviewCount": 583,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFZJOqL8NQx_MZmWQD6DSqE4ls5QRNcWWEbLEVoSV9iWAj5zbNsNXg9Z56MZAzJWVbaEaRl-IVAS4Nq3qH-N-_fmlVGu1JFuLVFKkFlLQOThTXNZzkJ4v-7OLfha2of12B_o1INrks5_zE=w1200-h800-k-no",
+  "description": "Retail chain featuring an eclectic array of imported housewares, furniture, decor & specialty foods.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 13,
+    "3": 36,
+    "4": 139,
+    "5": 362
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

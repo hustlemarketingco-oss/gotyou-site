@@ -1,0 +1,37 @@
+{
+  "slug": "magnetowl-tempe",
+  "name": "MagnetOwl",
+  "category": "Shopping",
+  "googleCategory": "Golf shop",
+  "address": "7650 S McClintock Dr Ste 103 352",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347955299999995,
+  "lng": -111.9121462,
+  "phone": "+14805614574",
+  "website": "https://magnetowl.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/MagnetOwl/data=!4m7!3m6!1s0x2e3e9e5c0416bbaf:0x95741f7279665e27!8m2!3d33.3479553!4d-111.9121462!16s%2Fg%2F11vx1pjmd9!19sChIJr7sWBFyePi4RJ15meXIfdJU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10769267185473183271",
+  "placeId": "ChIJr7sWBFyePi4RJ15meXIfdJU",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvzIiU6yuedZz1ILfNZQb8mLhGCy6DaqzMi0TQijgJwK_akCwok6M4jFmxIENorZSoLum2oRbLyCQ25b1ag54KIpPeTo448qtYzepE63TJHbVpwo5gLyUNL0L4CbS39KHsp3xTdQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

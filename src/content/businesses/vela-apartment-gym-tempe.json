@@ -1,0 +1,36 @@
+{
+  "slug": "vela-apartment-gym-tempe",
+  "name": "Vela Apartment Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "address": "400 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4342464,
+  "lng": -111.93044739999999,
+  "phone": "+18444637515",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vela+Apartment+Gym/data=!4m7!3m6!1s0x872b095862666c2f:0xfb92b90833ddf935!8m2!3d33.4342464!4d-111.9304474!16s%2Fg%2F11h06wthct!19sChIJL2xmYlgJK4cRNfndMwi5kvs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18127754895000729909",
+  "placeId": "ChIJL2xmYlgJK4cRNfndMwi5kvs",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v2kRwR3T_682yHv0JHHp8g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=77.17947&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

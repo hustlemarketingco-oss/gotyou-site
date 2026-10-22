@@ -1,0 +1,50 @@
+{
+  "slug": "one-tribe-yoga-wellness-tempe",
+  "name": "ONE TRIBE Yoga & Wellness",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Massage spa"
+  ],
+  "address": "1006 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352763,
+  "lng": -111.92717209999999,
+  "phone": "+14806769642",
+  "website": "http://www.onetribe.life/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ONE+TRIBE+Yoga+%26+Wellness/data=!4m7!3m6!1s0x872b06f3238fffff:0x92a86b6be6bc933e!8m2!3d33.3352763!4d-111.9271721!16s%2Fg%2F11f4vffh_v!19sChIJ__-PI_MGK4cRPpO85mtrqJI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10567814636801659710",
+  "placeId": "ChIJ__-PI_MGK4cRPpO85mtrqJI",
+  "googleRating": 4.8,
+  "googleReviewCount": 116,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea4CYlbJgL6-hF1BA3Go2nNZMDNKq6YyG_lm0ihpzCbK_yz4A9IC10EI0fyrYt_GD-WoIdO3YHz0ebUJGmAWDMelvIIofr7fMj79ftbKrKsT9qOqGgqeWFcQnRpDnbjoUu2kh_Dw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 109
+  },
+  "hours": {
+    "mon": "5:30 AM - 8:30 PM",
+    "tue": "5:30 AM - 8:30 PM",
+    "wed": "5:30 AM - 8:30 PM",
+    "thu": "5:30 AM - 8:30 PM",
+    "fri": "5:30 AM - 6:00 PM",
+    "sat": "7:30 AM - 6:00 PM",
+    "sun": "7:30 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

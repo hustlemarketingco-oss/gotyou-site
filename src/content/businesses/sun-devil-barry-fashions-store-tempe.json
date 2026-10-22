@@ -1,0 +1,37 @@
+{
+  "slug": "sun-devil-barry-fashions-store-tempe",
+  "name": "Sun Devil Barry Fashions store",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "address": "525 E Orange St.",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.4178717,
+  "lng": -111.93185,
+  "phone": "+14809653191",
+  "website": "https://www.bkstr.com/arizonastatestore/home",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sun+Devil+Barry+Fashions+store/data=!4m7!3m6!1s0x872b09cbd1b985b1:0x36a8c0a329be80e8!8m2!3d33.4178717!4d-111.93185!16s%2Fg%2F11rk4l4cxr!19sChIJsYW50csJK4cR6IC-KaPAqDY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3938609681148051688",
+  "placeId": "ChIJsYW50csJK4cR6IC-KaPAqDY",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y18MfxiUUN6hRwkpyXpA2A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=167.24806&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "8:30 AM - 6:00 PM",
+    "tue": "8:30 AM - 6:00 PM",
+    "wed": "8:30 AM - 6:00 PM",
+    "thu": "8:30 AM - 6:00 PM",
+    "fri": "8:30 AM - 6:00 PM",
+    "sat": "11:00 AM - 3:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

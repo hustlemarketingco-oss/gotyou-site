@@ -1,0 +1,47 @@
+{
+  "slug": "reddington-george-i-hair-salon-tempe",
+  "name": "Reddington & George I Hair Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Stylist",
+    "Hairdresser"
+  ],
+  "address": "21 E 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4240718,
+  "lng": -111.9387687,
+  "phone": "+14808228857",
+  "website": "http://reddingtonandgeorge.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Reddington+%26+George+I+Hair+Salon/data=!4m7!3m6!1s0x872b0dff0ae16daf:0xef1d33a7526f6054!8m2!3d33.4240718!4d-111.9387687!16s%2Fg%2F11vwpj8tsg!19sChIJr23hCv8NK4cRVGBvUqczHe8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17229984543124971604",
+  "placeId": "ChIJr23hCv8NK4cRVGBvUqczHe8",
+  "googleRating": 5,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWOu9EQuSfPiaC1h-sv-g4uEryBzeiH-xykTThhnAiT2gtr9zgj93lwUINENNqlMC6I7J3Ow8YhUlG7pFAIVvLwSZ-DTsZwVyafhG_PIxXU3RIP_2mLA6kD8yn-S6-hFRSPfBgcw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 36
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "Closed",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

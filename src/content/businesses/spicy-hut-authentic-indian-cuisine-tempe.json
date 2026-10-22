@@ -2,7 +2,7 @@
   "slug": "spicy-hut-authentic-indian-cuisine-tempe",
   "name": "Spicy Hut (Authentic Indian Cuisine)",
   "category": "Asian & Pacific",
-  "googleCategory": "Modern indian restaurant",
+  "googleCategory": "Modern Indian restaurant",
   "secondaryCategories": [
     "Biryani restaurant",
     "Caterer",
@@ -17,17 +17,17 @@
   "lng": -111.9034596,
   "phone": "+14802199630",
   "website": "https://spicyhutaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2737212723819553943",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spicy+Hut+%28Authentic+Indian+Cuisine%29/data=!4m7!3m6!1s0x872b097b5924123b:0x25fc88784df1a497!8m2!3d33.4225045!4d-111.9034596!16s%2Fg%2F11xkn4f3k_!19sChIJOxIkWXsJK4cRl6TxTXiI_CU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2737212723819553943",
   "placeId": "ChIJOxIkWXsJK4cRl6TxTXiI_CU",
-  "googleRating": 4.4,
-  "googleReviewCount": 149,
+  "googleRating": 4.1,
+  "googleReviewCount": 184,
   "description": "Located in Tempe, Spicy Hut (Authentic Indian Cuisine) is a modern indian restaurant & biryani restaurant.",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 3:00 AM",
@@ -44,5 +44,14 @@
   "groundgameId": "6a24377cecaeb8a6bd6af46d",
   "seededAt": "2026-06-06T15:06:36Z",
   "updatedAt": "2026-08-05T19:15:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 9,
+    "3": 4,
+    "4": 11,
+    "5": 130
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0Nl5q7GIQqCvL9uPGNL8xvkAwe74H9XSQdfPEdqOK028miVdwSE9cFzkcyJTJF9xLfkCvi-Jlec2WFG8dMnolhujiisjk-2JCPWwJnWO4Qm9ape3HWIwnf6EPlUgwhQ9rkSnEX8pprGkE=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

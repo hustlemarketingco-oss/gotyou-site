@@ -1,0 +1,48 @@
+{
+  "slug": "paradisical-music-tempe",
+  "name": "Paradisical Music",
+  "category": "Local Business",
+  "googleCategory": "Record company",
+  "secondaryCategories": [
+    "Art studio",
+    "Artist",
+    "Custom t-shirt store",
+    "Music instructor",
+    "Music publisher",
+    "Musical instrument manufacturer",
+    "Musical instrument repair shop",
+    "Musician"
+  ],
+  "address": "2404 W Huntington Dr #20",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3945254,
+  "lng": -111.9743314,
+  "phone": "+16024562372",
+  "website": "https://paradisicalmusic.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paradisical+Music/data=!4m7!3m6!1s0x872b0f9a37bd32cf:0x84e5e881b6824cf0!8m2!3d33.3945254!4d-111.9743314!16s%2Fg%2F11z7gx14qh!19sChIJzzK9N5oPK4cR8EyCtoHo5YQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9576315826483645680",
+  "placeId": "ChIJzzK9N5oPK4cR8EyCtoHo5YQ",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpaZBLM927LxAERWdcY6e3zcwCVbWr4EGzlxcbX4sCjgK-QELSFpk1CykvcvW7PqKB9hSIQi051QvPhkeIkeHUzmHBm7UHA98D3EnsRPnyN_BosZY3o8-QG0ntDfhUVqEul8yYkq2_uPE=w1200-h800-k-no",
+  "amenities": [
+    "Assisted listening devices",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Open 24 hours",
+    "wed": "Closed",
+    "thu": "Open 24 hours",
+    "fri": "Closed",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

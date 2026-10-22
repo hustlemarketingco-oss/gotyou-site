@@ -1,0 +1,44 @@
+{
+  "slug": "south-point-pet-spa-tempe",
+  "name": "South Point Pet Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Pet groomer",
+  "address": "216 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393442199999996,
+  "lng": -111.94245629999999,
+  "phone": "+14803997456",
+  "website": "http://www.southpointpetspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/South+Point+Pet+Spa/data=!4m7!3m6!1s0x872b0f60eb23b8d3:0xf7fa837eee13e739!8m2!3d33.3934422!4d-111.9424563!16s%2Fg%2F11c604fljz!19sChIJ07gj62APK4cROecT7n6D-vc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17868739052729263929",
+  "placeId": "ChIJ07gj62APK4cROecT7n6D-vc",
+  "googleRating": 4.8,
+  "googleReviewCount": 51,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8gwkka6mJpRDRdWHwUUSM-5FwO4K69EXatwuYcecczAMCEb6eNpVphoa0Pf_8KKEOrHQ0BRoTqlGuj4Z1-h8DpSW7W4yxVHwUjUkTTlstTWNlpPbTZGHX-QKt59NKA0eP-aEl=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 47
+  },
+  "hours": {
+    "mon": "9:30 AM - 5:00 PM",
+    "tue": "9:30 AM - 5:00 PM",
+    "wed": "Closed",
+    "thu": "9:30 AM - 5:00 PM",
+    "fri": "9:30 AM - 5:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

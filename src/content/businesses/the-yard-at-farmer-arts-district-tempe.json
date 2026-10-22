@@ -14,23 +14,10 @@
   "priceRange": "$20–30",
   "description": "The Yard At Farmer Arts District is a Tempe casual, trendy gastropub & restaurant known for alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/culinarydropout"
@@ -41,5 +28,31 @@
   "groundgameId": "6a243636a4b282402b2a24dc",
   "seededAt": "2026-06-06T15:01:10Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJTdAEFykJK4cRfZjrN9MVVE8",
+  "googleCid": "5716217823960471677",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Yard+At+Farmer+Arts+District/data=!4m7!3m6!1s0x872b09291704d04d:0x4f5415d337eb987d!8m2!3d33.4286912!4d-111.9440252!16s%2Fg%2F11bz_8jdyk!19sChIJTdAEFykJK4cRfZjrN9MVVE8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 212,
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 5,
+    "3": 14,
+    "4": 43,
+    "5": 142
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeagreFxNX8bylSv1C1zoUiKe9p990DRkCs1UntMhtkxfbrBZRjlrt2vrcmpg0NIkufNykdlj0gnvDl1mup5UomGdqlaRX4GS_ekR5AgB_2mGDXiTQnLVs4t4iXfvQsIRTusZ1L=w1200-h800-k-no",
+  "website": "https://www.culinarydropout.com/locations/tempe-az/?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "lat": 33.428691199999996,
+  "lng": -111.9440252,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

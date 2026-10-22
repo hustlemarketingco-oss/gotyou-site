@@ -17,7 +17,7 @@
   "website": "http://www.wienerschnitzel.com/location/723-south-mcclintock-university-tempe-804-s-mcclintock-avenue-tempe-az-85281/",
   "placeId": "ChIJ5eGC4vkIK4cRcIRjZqno4-U",
   "googleRating": 4.2,
-  "googleReviewCount": 2031,
+  "googleReviewCount": 2069,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a5535c881f74280b27fd5a0",
   "seededAt": "2026-07-13T19:00:24Z",
   "updatedAt": "2026-07-13T19:01:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16565339668663731312",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wienerschnitzel/data=!4m7!3m6!1s0x872b08f9e282e1e5:0xe5e3e8a966638470!8m2!3d33.4210193!4d-111.9096541!16s%2Fg%2F1thxljcv!19sChIJ5eGC4vkIK4cRcIRjZqno4-U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 119,
+    "2": 80,
+    "3": 226,
+    "4": 468,
+    "5": 1176
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepvMWAhuQERKEnZRM_7hIlzjlHfAW8hSARpn2CURgdbesfbIJNO14IFzJ42zC0ejPfP3tdZh0OR4nPhNkoaIgmFcFdN2ggnloiqyaqE1j6dilU42aiUcJVKhZpIY8Djm5s0rAhnrHWvVs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

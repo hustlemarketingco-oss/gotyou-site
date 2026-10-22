@@ -1,0 +1,37 @@
+{
+  "slug": "player-of-fades-tempe",
+  "name": "Player of Fades",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 W 6th St #114",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424406,
+  "lng": -111.942216,
+  "phone": "+16025825160",
+  "googleMapsUrl": "https://www.google.com/maps/place/Player+of+Fades/data=!4m7!3m6!1s0x872b099927f0539d:0x58e1793ccacfc8a1!8m2!3d33.424406!4d-111.942216!16s%2Fg%2F11kjm1lpt1!19sChIJnVPwJ5kJK4cRocjPyjx54Vg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6404533447105169569",
+  "placeId": "ChIJnVPwJ5kJK4cRocjPyjx54Vg",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gK6qMwNq9_j-L1vf5hKXPQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=148.14998&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

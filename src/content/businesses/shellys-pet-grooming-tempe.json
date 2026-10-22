@@ -1,0 +1,46 @@
+{
+  "slug": "shellys-pet-grooming-tempe",
+  "name": "Shelly's Pet Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "937Q+54, 1711 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3633291,
+  "lng": -111.9127254,
+  "phone": "+14807305133",
+  "website": "https://shellyspetgrooming.top/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shelly%27s+Pet+Grooming/data=!4m7!3m6!1s0x872b06490fe02baf:0x8e1ddcc2cd333243!8m2!3d33.3633291!4d-111.9127254!16s%2Fg%2F1tfb70d1!19sChIJryvgD0kGK4cRQzIzzcLcHY4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10240583856934826563",
+  "placeId": "ChIJryvgD0kGK4cRQzIzzcLcHY4",
+  "googleRating": 4.4,
+  "googleReviewCount": 216,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchJHvnKMQOmxJhgRDpKXlzeN98hhT86bljB51M2VNy3C3y2DVgLDxoJnDqLwzRIsRtzAdYnT95xyRfJSLzE_yVuxVe0SvoFnZS3nf93KZYjuLXWfSsuNRbAReELiaJBdZfOSFt_V5yjBZ2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 2,
+    "3": 4,
+    "4": 15,
+    "5": 170
+  },
+  "hours": {
+    "mon": "7:30 AM - 5:00 PM",
+    "tue": "7:30 AM - 5:00 PM",
+    "wed": "7:30 AM - 5:00 PM",
+    "thu": "7:30 AM - 5:00 PM",
+    "fri": "7:30 AM - 5:00 PM",
+    "sat": "7:30 AM - 5:00 PM",
+    "sun": "7:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

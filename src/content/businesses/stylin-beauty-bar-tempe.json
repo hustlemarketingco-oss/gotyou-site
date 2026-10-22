@@ -1,0 +1,42 @@
+{
+  "slug": "stylin-beauty-bar-tempe",
+  "name": "Stylin' Beauty Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1720 E Warner Rd #6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352991,
+  "lng": -111.9116731,
+  "phone": "+16025095559",
+  "website": "https://www.stylinbeautybartempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Stylin%27+Beauty+Bar/data=!4m7!3m6!1s0x872b07ad2921a857:0xf0ea87c4b554232c!8m2!3d33.3352991!4d-111.9116731!16s%2Fg%2F11zj2jyd4s!19sChIJV6ghKa0HK4cRLCNUtcSH6vA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17359836992578528044",
+  "placeId": "ChIJV6ghKa0HK4cRLCNUtcSH6vA",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cAb2hRxmTGTpb0IP9hqlHw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=23.668718&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

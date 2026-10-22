@@ -1,0 +1,53 @@
+{
+  "slug": "club-pilates-tempe",
+  "name": "Club Pilates Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "secondaryCategories": [
+    "Aerobics instructor",
+    "Fitness center",
+    "Personal trainer",
+    "Physical fitness program",
+    "Wellness program"
+  ],
+  "address": "1825 E Guadalupe Rd Ste F-102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.361334899999996,
+  "lng": -111.91001089999999,
+  "phone": "+14805660335",
+  "website": "https://www.clubpilates.com/tempe?utm_source=google.com&utm_medium=referral&utm_campaign=yext",
+  "googleMapsUrl": "https://www.google.com/maps/place/Club+Pilates+Tempe/data=!4m7!3m6!1s0x872b064c1d00a58f:0xc804e7c3502d7eaa!8m2!3d33.3613349!4d-111.9100109!16s%2Fg%2F11c4l1y94j!19sChIJj6UAHUwGK4cRqn4tUMPnBMg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14412899533542227626",
+  "placeId": "ChIJj6UAHUwGK4cRqn4tUMPnBMg",
+  "googleRating": 4.7,
+  "googleReviewCount": 95,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6unRRhJj0CV042se2yxV84kS4DaEIFFxiJCzeSU5oGaIDd0sL1AI8i7a_TV3NPwI1O1Uyu0mIRwi3L8-I6tWRcKex4QOzrn8sn9Ty9KtTn5o9UrFkzmIY1r7UiQtJs9L4ST7Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 2,
+    "4": 2,
+    "5": 86
+  },
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

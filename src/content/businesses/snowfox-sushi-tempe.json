@@ -1,0 +1,42 @@
+{
+  "slug": "snowfox-sushi-tempe",
+  "name": "SNOWFOX Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi takeaway",
+  "address": "3255 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3940546,
+  "lng": -111.9245589,
+  "website": "https://www.snowfox.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SNOWFOX+Sushi/data=!4m7!3m6!1s0x872b09e8fdfcb713:0x1cda61f1875d2d2e!8m2!3d33.3940546!4d-111.9245589!16s%2Fg%2F11kbwg9w49!19sChIJE7f8_egJK4cRLi1dh_Fh2hw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2079081867970948398",
+  "placeId": "ChIJE7f8_egJK4cRLi1dh_Fh2hw",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gsxqEq59I_KHAJPcjbEXEg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=87.60728&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

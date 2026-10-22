@@ -1,0 +1,46 @@
+{
+  "slug": "az-inspirations-catering-tempe",
+  "name": "AZ Inspirations Catering",
+  "category": "Restaurant",
+  "googleCategory": "Caterer",
+  "secondaryCategories": [
+    "Catering equipment rental service",
+    "Catering food and drink supplier"
+  ],
+  "address": "2400 W Medtronic Way #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4181781,
+  "lng": -111.9751194,
+  "phone": "+14802417621",
+  "website": "https://inspirationscateringaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZ+Inspirations+Catering/data=!4m7!3m6!1s0x872b0f20178fbdfb:0x70c68e4412012321!8m2!3d33.4181781!4d-111.9751194!16s%2Fg%2F11bvvzmfc9!19sChIJ-72PFyAPK4cRISMBEkSOxnA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8126339000647623457",
+  "placeId": "ChIJ-72PFyAPK4cRISMBEkSOxnA",
+  "googleRating": 5,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8osNNwUNbJHNpnfmF5MNtfCDMpe3m5ZMflXo5DMXjAe9OpOhSWIzpXW6cSxQiLPgx-9dJrqhAXLrign8jtUi69NgFTQZwtRDd6og4r8hYlRMmxLMW3tGAes1Yqxni8wQHEXCx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 18
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

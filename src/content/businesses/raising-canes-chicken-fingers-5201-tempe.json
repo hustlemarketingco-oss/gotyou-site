@@ -1,0 +1,54 @@
+{
+  "slug": "raising-canes-chicken-fingers-5201-tempe",
+  "name": "Raising Cane's Chicken Fingers",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Chicken restaurant",
+    "Southern restaurant (US)"
+  ],
+  "address": "5201 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378091399999995,
+  "lng": -111.90895689999999,
+  "phone": "+14808205270",
+  "website": "https://locations.raisingcanes.com/az/tempe/5201-south-mcclintock-drive",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raising+Cane%27s+Chicken+Fingers/data=!4m7!3m6!1s0x872b07deeb33fc15:0xe065c7d1c347ea4e!8m2!3d33.3780914!4d-111.9089569!16s%2Fg%2F11qn7nvx6c!19sChIJFfwz694HK4cRTupHw9HHZeA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16169549740881996366",
+  "placeId": "ChIJFfwz694HK4cRTupHw9HHZeA",
+  "googleRating": 4.3,
+  "googleReviewCount": 1206,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfugx3Fu2loOPhlnqy-gj_fcrf-uoiU4SGRPaB4rk7ld0TS8xyWKEkwfS0sbZ6Eg86hQaBosttyuxSEtr53LxhCSgkyV9uFA4o_gh8eGgqKX36xGMtZ0T-I-d3PqC2xuCA81CI=w1200-h800-k-no",
+  "description": "Fast-food chain specializing in fried chicken fingers, crinkle-cut fries & Texas toast.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 99,
+    "2": 39,
+    "3": 85,
+    "4": 189,
+    "5": 794
+  },
+  "hours": {
+    "mon": "9:00 AM - 2:00 AM",
+    "tue": "9:00 AM - 2:00 AM",
+    "wed": "9:00 AM - 2:00 AM",
+    "thu": "9:00 AM - 2:00 AM",
+    "fri": "9:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

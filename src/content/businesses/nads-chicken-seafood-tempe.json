@@ -2,7 +2,7 @@
   "slug": "nads-chicken-seafood-tempe",
   "name": "Nad's Chicken & Seafood",
   "category": "Restaurant",
-  "googleCategory": "Seafood restaurant",
+  "googleCategory": "Chicken restaurant",
   "secondaryCategories": [
     "Chicken wings restaurant",
     "Crab house",
@@ -17,30 +17,18 @@
   "lng": -111.9443943,
   "phone": "+14805911005",
   "website": "https://nadschickenandseafood.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8720003139702002343",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nad%27s+Chicken+%26+Seafood/data=!4m7!3m6!1s0x872b07aea9b53429:0x7903aca7ae3a92a7!8m2!3d33.3486658!4d-111.9443943!16s%2Fg%2F11t_mk9f82!19sChIJKTS1qa4HK4cRp5I6rqesA3k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8720003139702002343",
   "placeId": "ChIJKTS1qa4HK4cRp5I6rqesA3k",
-  "googleRating": 4.8,
-  "googleReviewCount": 542,
+  "googleRating": 4.7,
+  "googleReviewCount": 643,
   "priceRange": "$10–20",
   "description": "Nad's Chicken & Seafood is a Tempe casual, trendy seafood restaurant & chicken wings restaurant known for comfort food & quick.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 9:00 PM",
@@ -57,5 +45,14 @@
   "groundgameId": "6a243a086013eb8ca967c460",
   "seededAt": "2026-06-06T15:17:28Z",
   "updatedAt": "2026-06-06T15:17:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 5,
+    "3": 27,
+    "4": 37,
+    "5": 557
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjcjGU3Gu0LbPVnrC9hbkqI6eGqq1bzSqmF9XjLGu-JmUCJmuvrV4IlEWpfNXsVYL9v4FyOmRpgfDC_BUECabZsoTJ-yE-weBPaUkGm44L0T_RakAeOqPkK3RrHDFJHm_37rBLpg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

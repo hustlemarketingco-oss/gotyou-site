@@ -2,7 +2,7 @@
   "slug": "escapology-escape-rooms-tempe",
   "name": "Escapology Escape Rooms Tempe",
   "category": "Fun & Activities",
-  "googleCategory": "Amusement center",
+  "googleCategory": "Escape room center",
   "address": "2000 E Rio Salado Pkwy Ste 1029 Ste 1029, Ste 1029 Ste 1029",
   "city": "Tempe",
   "state": "AZ",
@@ -13,7 +13,7 @@
   "website": "https://www.escapology.com/en/tempe-az",
   "placeId": "ChIJeUHugoEJK4cRi5OJ9ZXBFMM",
   "googleRating": 5,
-  "googleReviewCount": 4048,
+  "googleReviewCount": 4610,
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -29,5 +29,27 @@
   "groundgameId": "6a3af17c4a8503f821e80f7d",
   "seededAt": "2026-06-23T20:50:04Z",
   "updatedAt": "2026-06-26T16:00:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14057073186743882635",
+  "googleMapsUrl": "https://www.google.com/maps/place/Escapology+Escape+Rooms+Tempe/data=!4m7!3m6!1s0x872b098182ee4179:0xc314c195f589938b!8m2!3d33.4324061!4d-111.9048939!16s%2Fg%2F11vdzwcd4l!19sChIJeUHugoEJK4cRi5OJ9ZXBFMM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 5,
+    "3": 10,
+    "4": 68,
+    "5": 4522
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb-2ScvSBDhh6fczW8qwjYNpaPbb8D4MHLGdeJf-c7hKrwlEg13EHZ8idcbvTy9KHjidxQOqD5qKNZuMuDOfMg61p4sNKJ9wRIiBgU450Pmj3OiibInYpeb1yVPJWPGIZxbDAzL43zw4g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "secondaryCategories": [
+    "Amusement center",
+    "Children's amusement center",
+    "Event planner",
+    "Event venue"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

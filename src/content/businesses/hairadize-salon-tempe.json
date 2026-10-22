@@ -1,0 +1,49 @@
+{
+  "slug": "hairadize-salon-tempe",
+  "name": "HairAdize Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon"
+  ],
+  "address": "7720 S Priest Dr Unit 16",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348130999999995,
+  "lng": -111.965351,
+  "phone": "+14807227545",
+  "googleMapsUrl": "https://www.google.com/maps/place/HairAdize+Salon/data=!4m7!3m6!1s0x872ba9e9e6dd132b:0xdb3dd2a335bc9b5c!8m2!3d33.348131!4d-111.965351!16s%2Fg%2F11c3pcsx8p!19sChIJKxPd5umpK4cRXJu8NaPSPds?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15798014666308623196",
+  "placeId": "ChIJKxPd5umpK4cRXJu8NaPSPds",
+  "googleRating": 4.1,
+  "googleReviewCount": 37,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlPHsdriIGne5bSY9NFno8xedk56UsQLZd2NcnhkWGtTzRDeMZAECgTYuNOhhAqcJF9OiT-R-fUxIAZUI5_9VaD45q4bJKBsfmIPY9WqNxlQEXzAwC4ItJtVSQMlnfR9n-z4Zc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "3": 1,
+    "4": 2,
+    "5": 26
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

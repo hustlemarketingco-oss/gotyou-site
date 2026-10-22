@@ -1,0 +1,46 @@
+{
+  "slug": "superstar-k-tempe",
+  "name": "Superstar K",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3818828,
+  "lng": -111.96396419999999,
+  "phone": "+14807392899",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/superstar-k",
+  "googleMapsUrl": "https://www.google.com/maps/place/Superstar+K/data=!4m7!3m6!1s0x872b0f59e0ee7f5f:0x73f576ac0563b899!8m2!3d33.3818828!4d-111.9639642!16s%2Fg%2F11cnb50zw9!19sChIJX3_u4FkPK4cRmbhjBax29XM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8355715164852697241",
+  "placeId": "ChIJX3_u4FkPK4cRmbhjBax29XM",
+  "googleRating": 4.2,
+  "googleReviewCount": 56,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchZEvE1CMfHPWTxaCJM7ok0AY3vMQ4mIpHCTQ0V9FuKje_wyK4LQL5M6JNLCuXSKZPIZM4bqO4b8mXLiCQdEN7p8eogzTiN0r20wRk3Am1-frlDHiKGT-lKqIUi9B8YD0fX00E0g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 5,
+    "4": 8,
+    "5": 36
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

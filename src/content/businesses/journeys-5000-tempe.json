@@ -1,0 +1,54 @@
+{
+  "slug": "journeys-5000-tempe",
+  "name": "Journeys",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Sportswear store",
+    "Women's clothing store",
+    "Youth clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3851304,
+  "lng": -111.9638454,
+  "phone": "+14808381270",
+  "website": "https://www.journeys.com/store/journeys-arizona-mills-",
+  "googleMapsUrl": "https://www.google.com/maps/place/Journeys/data=!4m7!3m6!1s0x872b0f59e3db097f:0x5e6ea6b1e22a4741!8m2!3d33.3851304!4d-111.9638454!16s%2Fg%2F11f3sbs2qf!19sChIJfwnb41kPK4cRQUcq4rGmbl4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6804559369937241921",
+  "placeId": "ChIJfwnb41kPK4cRQUcq4rGmbl4",
+  "googleRating": 3.7,
+  "googleReviewCount": 23,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeigzXhVr6nP-oAjX3ah_y1gt0FzpAMJYfS0NbcQsZkRgLLbg5YaPaXJMoVuFj1Ny3rdj0CXbDVxmXdoDTgX_JfOYZzEv8JaEHtcYfrzw7vtxotfOhoCjmn8c2p6PtcBAJB_G3i=w1200-h800-k-no",
+  "description": "Teen-oriented chain supplying casual, surf-&-skate-inspired clothes, shoes & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "4": 4,
+    "5": 12
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

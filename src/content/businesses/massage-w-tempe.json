@@ -1,0 +1,45 @@
+{
+  "slug": "massage-w-tempe",
+  "name": "Massage W",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Massage spa"
+  ],
+  "address": "430 W Warner Rd Ste 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3354576,
+  "lng": -111.94422449999999,
+  "phone": "+14806882999",
+  "website": "https://massagetherapytempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Massage+W/data=!4m7!3m6!1s0x872b07247ad322a5:0x80dd6587bc4b5e07!8m2!3d33.3354576!4d-111.9442245!16s%2Fg%2F11njgrl5tx!19sChIJpSLTeiQHK4cRB15LvIdl3YA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9285689640361876999",
+  "placeId": "ChIJpSLTeiQHK4cRB15LvIdl3YA",
+  "googleRating": 5,
+  "googleReviewCount": 23,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSZFuvU4TOz4xSkN_-SaFgT-Zdv4ZJrmasxMWmsnqkQLlu6yVu5rU5YdvOcB64N8cSM-owkqpiQ75qWStbw1-1V5O9462uKIUrStsvM9dOLkm01qgWyQugGAIIdei1ArrbYUslq9u372I=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 23
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

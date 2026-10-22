@@ -1,0 +1,36 @@
+{
+  "slug": "tranquil-massage-bodyworks-tempe",
+  "name": "Tranquil Massage & Bodyworks",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "2034 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393527299999995,
+  "lng": -111.8991562,
+  "phone": "+14805932507",
+  "website": "http://www.tranquil-bodyworks.massagetherapy.com/about-the-practitioner",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tranquil+Massage+%26+Bodyworks/data=!4m7!3m6!1s0x872b0989f8cbca4d:0x34043504976718b2!8m2!3d33.3935273!4d-111.8991562!16s%2Fg%2F11h6v1_zqp!19sChIJTcrL-IkJK4cRshhnlwQ1BDQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3748179083715352754",
+  "placeId": "ChIJTcrL-IkJK4cRshhnlwQ1BDQ",
+  "googleRating": 2,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=87_5WpcGtFc26O0ivgQfpg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=168.41962&pitch=3.8365493&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

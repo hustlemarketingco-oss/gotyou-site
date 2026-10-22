@@ -1,0 +1,50 @@
+{
+  "slug": "wagging-tails-pet-resort-tempe",
+  "name": "Wagging Tails Pet Resort",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "secondaryCategories": [
+    "Dog day care center",
+    "Pet boarding service"
+  ],
+  "address": "2066 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3934038,
+  "lng": -111.8978253,
+  "phone": "+14807552260",
+  "website": "https://waggingtailsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wagging+Tails+Pet+Resort/data=!4m7!3m6!1s0x872b0878c44c6409:0x56bc7f690ac9d39f!8m2!3d33.3934038!4d-111.8978253!16s%2Fg%2F11bc6zbn59!19sChIJCWRMxHgIK4cRn9PJCml_vFY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6250010472012698527",
+  "placeId": "ChIJCWRMxHgIK4cRn9PJCml_vFY",
+  "googleRating": 4.9,
+  "googleReviewCount": 970,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdH4ICKLSUca-wF0tBPIcVxZJOrKH3FXw_nj_0tDZH-sKcvL5gSlHminu-8b44f1lW_FBEeY1IxAAzL4bTNGpHRpaVTVlYrrKb2AeR5J7zbo-zcwfCxSEuTXJufRMlJ2EpWnqod=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 7,
+    "3": 8,
+    "4": 16,
+    "5": 924
+  },
+  "hours": {
+    "mon": "7:30 AM - 6:00 PM",
+    "tue": "7:30 AM - 6:00 PM",
+    "wed": "7:30 AM - 6:00 PM",
+    "thu": "7:30 AM - 6:00 PM",
+    "fri": "7:30 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

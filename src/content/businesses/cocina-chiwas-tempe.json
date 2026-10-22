@@ -2,7 +2,7 @@
   "slug": "cocina-chiwas-tempe",
   "name": "Cocina Chiwas",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Mexican restaurant",
   "address": "2001 E Apache Blvd",
   "city": "Tempe",
   "state": "AZ",
@@ -13,7 +13,7 @@
   "website": "http://cocinachiwasaz.com/",
   "placeId": "ChIJN-I6Xl4IK4cREmurUv9BpTo",
   "googleRating": 4.3,
-  "googleReviewCount": 310,
+  "googleReviewCount": 323,
   "priceRange": "$$",
   "hours": {
     "mon": "Closed",
@@ -30,5 +30,22 @@
   "groundgameId": "6a5e791affe253b3a2f3a0aa",
   "seededAt": "2026-07-20T19:38:02Z",
   "updatedAt": "2026-07-20T19:42:08Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4225856390216510226",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cocina+Chiwas/data=!4m7!3m6!1s0x872b085e5e3ae237:0x3aa541ff52ab6b12!8m2!3d33.4145411!4d-111.9001476!16s%2Fg%2F11tn1xk7v0!19sChIJN-I6Xl4IK4cREmurUv9BpTo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 21,
+    "3": 17,
+    "4": 39,
+    "5": 226
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLec_Kq-LUF2RT_zbS4H_17myBWJjQmQeoLcu0inUXbPrSsxz6tGw65bB0gqQwK1_Y88Fa9kh2SK7HK1VbY0WF6sQPugR704WHlJ5H3JylDHiVCMuuvL5VPcdom8XNiSXr7qNa9ETRnuIwo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

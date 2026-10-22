@@ -1,0 +1,53 @@
+{
+  "slug": "third-eye-beauty-lounge-tempe",
+  "name": "Third Eye Beauty Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Eyebrow bar",
+    "Facial spa",
+    "Permanent make-up clinic",
+    "Skin care clinic"
+  ],
+  "address": "600 E Curry Rd #1005",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4408476,
+  "lng": -111.92911699999999,
+  "phone": "+14807020020",
+  "website": "https://www.thirdeyebeautylounge.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Third+Eye+Beauty+Lounge/data=!4m7!3m6!1s0x54901561e37c6583:0xe08be4f6a3894fea!8m2!3d33.4408476!4d-111.929117!16s%2Fg%2F11rgbtmcfz!19sChIJg2V842EVkFQR6k-Jo_bki-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16180277834215411690",
+  "placeId": "ChIJg2V842EVkFQR6k-Jo_bki-A",
+  "googleRating": 4.8,
+  "googleReviewCount": 128,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGOdM6nWIBoYd2mMsBG_TYk7_mcCp1fT4e7hbGpZBweYhlgrcjV1ztsMSP7XANfd9KxuzCXAL_qWxcIcFNgyC4gYNQgsqqUMRVD7_Gl0ywoqmxopCL0G0niQ3xLYmBYxahoxTvBkqpyrPi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "4": 3,
+    "5": 119
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

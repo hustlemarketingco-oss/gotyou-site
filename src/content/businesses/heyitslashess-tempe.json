@@ -1,0 +1,43 @@
+{
+  "slug": "heyitslashess-tempe",
+  "name": "HEYITSLASHESS",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "address": "123 E Baseline Rd Ste D108 Office #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+16029198737",
+  "website": "http://heyitslashess.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/HEYITSLASHESS/data=!4m7!3m6!1s0x872b07aa675c6cf3:0xb8e7d4207df9fd47!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F11yzyd23kv!19sChIJ82xcZ6oHK4cRR_35fSDU57g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13323851258616479047",
+  "placeId": "ChIJ82xcZ6oHK4cRR_35fSDU57g",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S329R43bsNP0mBIMQtJsJg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=347.16925&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

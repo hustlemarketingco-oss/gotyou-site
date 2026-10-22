@@ -2,7 +2,7 @@
   "slug": "platos-closet-tempe",
   "name": "Plato's Closet-Tempe",
   "category": "Shopping",
-  "googleCategory": "Clothing store",
+  "googleCategory": "Used clothing store",
   "address": "1840 E Warner Rd #131",
   "city": "Tempe",
   "state": "AZ",
@@ -12,8 +12,8 @@
   "phone": "+14804788111",
   "website": "https://www.platosclosettempe.com/",
   "placeId": "ChIJTe9W5bsHK4cR_iLvqZ1vWAo",
-  "googleRating": 3.8,
-  "googleReviewCount": 190,
+  "googleRating": 3.7,
+  "googleReviewCount": 199,
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
     "tue": "10:00 AM - 8:00 PM",
@@ -29,5 +29,25 @@
   "groundgameId": "6a3314cfc9b591df0f048b0e",
   "seededAt": "2026-06-17T21:42:39Z",
   "updatedAt": "2026-06-17T21:42:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "745468461281387262",
+  "googleMapsUrl": "https://www.google.com/maps/place/Plato%27s+Closet-Tempe/data=!4m7!3m6!1s0x872b07bbe556ef4d:0xa586f9da9ef22fe!8m2!3d33.3357624!4d-111.9083075!16s%2Fg%2F11hyxtfn7z!19sChIJTe9W5bsHK4cR_iLvqZ1vWAo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 16,
+    "3": 16,
+    "4": 20,
+    "5": 108
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdCcL5azFn2PymKde8VMjaO8ioIJizPncfYeVEYDhO1_T2uVJU--ShAEKQDRuQdeOb4gpTmPV6u1mS9rf8jppK5PlJCzvkDEiO9vIlUdsn4WevRsRsyvD9ivqmxFK4fI-oRV75=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "secondaryCategories": [
+    "Clothing store",
+    "Consignment shop"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "social-hall-restaurant-event-venue-tempe",
+  "name": "Social Hall Restaurant + Event Venue",
+  "category": "Restaurant",
+  "googleCategory": "New American restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Event venue",
+    "Wedding venue"
+  ],
+  "address": "715 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.422809799999996,
+  "lng": -111.9082337,
+  "phone": "+14807473851",
+  "website": "https://azsocialhall.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Social+Hall+Restaurant+%2B+Event+Venue/data=!4m7!3m6!1s0x872b08f9b770453d:0x27a1741579b3b17a!8m2!3d33.4228098!4d-111.9082337!16s%2Fg%2F11f3q5w12f!19sChIJPUVwt_kIK4cRerGzeRV0oSc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2855691274314559866",
+  "placeId": "ChIJPUVwt_kIK4cRerGzeRV0oSc",
+  "googleRating": 4.5,
+  "googleReviewCount": 1862,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5gsM08XcSUUZCkvtye-F8_dTnhKCdSSW6OCvV0pgM_4mMIJA7ZO_wlgEmNxqWU8MfGmEL0114TOeuTHbCXoY4CI7XJKlDA7r3xMUTnr1Jklv_yADzyUgQ1q38CVN9_PONFGLr8A=w1200-h800-k-no",
+  "description": "Latin American fare & cocktails served in a warm, comfortable setting with a game room & big patio.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 85,
+    "2": 39,
+    "3": 109,
+    "4": 334,
+    "5": 1295
+  },
+  "hours": {
+    "mon": "4:00 PM - 10:00 PM",
+    "tue": "4:00 PM - 10:00 PM",
+    "wed": "4:00 PM - 10:00 PM",
+    "thu": "4:00 PM - 12:00 AM",
+    "fri": "4:00 PM - 12:00 AM",
+    "sat": "4:00 PM - 12:00 AM",
+    "sun": "4:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

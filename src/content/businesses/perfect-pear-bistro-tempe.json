@@ -14,11 +14,11 @@
   "lng": -111.9476,
   "phone": "+14809667327",
   "website": "http://www.perfectpearbistro.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=431952592858488181",
+  "googleMapsUrl": "https://www.google.com/maps/place/Perfect+Pear+Bistro/data=!4m7!3m6!1s0x872b08d436f763c9:0x5fe9a9839239d75!8m2!3d33.4217!4d-111.9476!16s%2Fg%2F11c20brqsb!19sChIJyWP3NtQIK4cRdZ0jOZia_gU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "431952592858488181",
   "placeId": "ChIJyWP3NtQIK4cRdZ0jOZia_gU",
   "googleRating": 4.6,
-  "googleReviewCount": 2466,
+  "googleReviewCount": 2541,
   "description": "Located in Tempe, Perfect Pear Bistro is a american restaurant & restaurant.",
   "hours": {
     "fri": "10:30 AM - 9:00 PM",
@@ -35,5 +35,20 @@
   "groundgameId": "6a243770414b131277865666",
   "seededAt": "2026-06-06T15:06:24Z",
   "updatedAt": "2026-08-03T18:21:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 43,
+    "2": 44,
+    "3": 120,
+    "4": 463,
+    "5": 1871
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMLu8HqvSD43jCJKgOoRFDBqpVT9wy9PFC80KEpn6ORDzIqeLg9XG6MVDwjMOK5Y-eD6tZ2bZ7HcsubE97Qnm4LZJz9MvNxDLZIOyW5L-hmmV6xBHytHqBBFAFtz453RcbkfEW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,47 @@
+{
+  "slug": "anna-nails-spa-tempe",
+  "name": "Anna Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "7650 S McClintock Dr #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347984499999995,
+  "lng": -111.9121957,
+  "phone": "+14807498267",
+  "website": "http://annanailstempeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Anna+Nails+%26+Spa/data=!4m7!3m6!1s0x872b06565c2ff6ad:0x9de95b60ae50ee0!8m2!3d33.3479845!4d-111.9121957!16s%2Fg%2F1tkf1fkc!19sChIJrfYvXFYGK4cR4A7lCraV3gk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "711170400270487264",
+  "placeId": "ChIJrfYvXFYGK4cR4A7lCraV3gk",
+  "googleRating": 4.3,
+  "googleReviewCount": 172,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgzwAanyYTzv9fRckECensOSJVCYc6NDIP93g0MmOHJ-FrplJmxpK0j7Fxwq-vcttwIyl47PKa01Hx5LxjJwWlbNo4IcggEhLdctS-Yd38qy2qjQi4fgLs6I4aw2QCOfYmwEfB=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 7,
+    "3": 5,
+    "4": 8,
+    "5": 132
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

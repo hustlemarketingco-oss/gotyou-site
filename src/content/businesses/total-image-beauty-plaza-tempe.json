@@ -1,0 +1,43 @@
+{
+  "slug": "total-image-beauty-plaza-tempe",
+  "name": "Total Image Beauty Plaza",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "9030 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332347,
+  "lng": -111.9117979,
+  "googleMapsUrl": "https://www.google.com/maps/place/Total+Image+Beauty+Plaza/data=!4m7!3m6!1s0x872b071f80950c43:0x9b7b164611f1e01f!8m2!3d33.332347!4d-111.9117979!16s%2Fg%2F11gphlcrr4!19sChIJQwyVgB8HK4cRH-DxEUYWe5s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11203572988218826783",
+  "placeId": "ChIJQwyVgB8HK4cRH-DxEUYWe5s",
+  "googleRating": 4.9,
+  "googleReviewCount": 84,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4Zno4gVlqvCbauRwW9kQLJfZ_SGU-Im5n3KepW_bZUUMBb8M1U3KYTbaluabAjaUuomNJ5AFsPFC-hTMmRZ-XbXv7pSadYJdQyerF0hp8dMtYg-8uygkH0Y3F2ZvctaVL_ss=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 2,
+    "4": 8,
+    "5": 74
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

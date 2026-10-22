@@ -1,0 +1,47 @@
+{
+  "slug": "skin-rescue-az-tempe",
+  "name": "Skin Rescue AZ",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Skin care clinic"
+  ],
+  "address": "123 E Baseline Rd Ste D207",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+14804691412",
+  "website": "https://www.skinrescueaz.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Skin+Rescue+AZ/data=!4m7!3m6!1s0x872b07b2ff6933af:0x85657fdbd5ed4faf!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F11z6pt16sy!19sChIJrzNp_7IHK4cRr0_t1dt_ZYU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9612229561855856559",
+  "placeId": "ChIJrzNp_7IHK4cRr0_t1dt_ZYU",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb2iFKB0znYEGUeKYvQ8-_EHI9B4ach4E-dSy9egkSz745XUS0YT7IYjgmoPcEWdD3Rc4lJpGcjlqb6JIv7QENMaQR-kt4MCVBsh9YnhT6nq-AIp-yWTVIMM1iNpgPQaI3hU8rZ6f55lMJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

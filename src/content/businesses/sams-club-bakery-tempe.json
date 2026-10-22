@@ -14,21 +14,16 @@
   "lng": -111.8993375,
   "phone": "+14806061808",
   "website": "https://www.samsclub.com/club/4956-tempe-az/bakery",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14302807403464244248",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sam%27s+Club+Bakery/data=!4m7!3m6!1s0x872b09e9e6fbe57f:0xc67dc78dce503c18!8m2!3d33.4310966!4d-111.8993375!16s%2Fg%2F11ydjg1w_w!19sChIJf-X75ukJK4cRGDxQzo3HfcY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14302807403464244248",
   "placeId": "ChIJf-X75ukJK4cRGDxQzo3HfcY",
-  "googleRating": 3,
-  "googleReviewCount": 2,
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
   "description": "Located in Tempe, Sam's Club Bakery is a bakery & wholesale bakery with takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "9:00 AM - 8:00 PM",
@@ -45,5 +40,11 @@
   "groundgameId": "6a2439c014b1508e260c7186",
   "seededAt": "2026-06-06T15:16:16Z",
   "updatedAt": "2026-06-06T15:16:16Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2w7OMYpozGnms0f7RiRfDQnxiJCbJGi41c6RinwnIqu7__-aEH5kd-CU8nzgXIm7PYVXiuYDs2o0asgptESUdD8ZCF4biT7qc6VBbFDuYkaclumBC7Z3ae8bIFyhIfRx7-0rfXL77tw_l=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

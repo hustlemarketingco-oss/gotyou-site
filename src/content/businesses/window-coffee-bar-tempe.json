@@ -17,7 +17,7 @@
   "website": "https://www.windowcoffeebar.com/",
   "placeId": "ChIJzRWSPUMJK4cR6rzoItJ1XQM",
   "googleRating": 4.9,
-  "googleReviewCount": 134,
+  "googleReviewCount": 192,
   "priceRange": "$",
   "hours": {
     "mon": "7:00 AM - 3:00 PM",
@@ -34,5 +34,19 @@
   "groundgameId": "6a6249dc76f3250dcef09e5c",
   "seededAt": "2026-07-23T17:05:32Z",
   "updatedAt": "2026-08-05T20:31:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "242479500337134826",
+  "googleMapsUrl": "https://www.google.com/maps/place/Window+Coffee+Bar/data=!4m7!3m6!1s0x872b09433d9215cd:0x35d75d222e8bcea!8m2!3d33.4261227!4d-111.9440153!16s%2Fg%2F11xz5f47zc!19sChIJzRWSPUMJK4cR6rzoItJ1XQM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "4": 2,
+    "5": 187
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewGVSpNK3TAW0r8aRgJPSNbJSCuwT3Lpo2bZJjhKXx3h_JmrwcvZhByJMUH8z9ZCg2mcTNcA8fCjr4rOtUWT_VBSBUE-90cuRMYa8cg_rqie_KNL24qtqWOxmiBgKA6w3uAS15jZ0JgwXg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

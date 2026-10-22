@@ -16,7 +16,7 @@
   "website": "http://sushinu.net/",
   "placeId": "ChIJofRAwM4HK4cRufLtnBteXdE",
   "googleRating": 4.6,
-  "googleReviewCount": 330,
+  "googleReviewCount": 341,
   "hours": {
     "mon": "11:00 AM - 9:30 PM",
     "tue": "11:00 AM - 9:30 PM",
@@ -32,5 +32,22 @@
   "groundgameId": "6a4c17500705caeebad951ca",
   "seededAt": "2026-07-06T21:00:00Z",
   "updatedAt": "2026-07-06T21:00:00Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15086317799450997433",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sushi+n+U/data=!4m7!3m6!1s0x872b07cec040f4a1:0xd15d5e1b9cedf2b9!8m2!3d33.3495883!4d-111.9497805!16s%2Fg%2F11mw_4dwzm!19sChIJofRAwM4HK4cRufLtnBteXdE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 11,
+    "3": 11,
+    "4": 26,
+    "5": 280
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe32FlBm3_YyM42z-drDDlKN1l1gveCsIsAQT9URMX2bMjeotv4WYnCGlWIQZS76e-f7RmhpL2UThLIrMjKQ9bU5kapSLCYdi_pthX9D_3bBkgPwNeD7wcQo2jMQcy7O4J2UlsWQQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

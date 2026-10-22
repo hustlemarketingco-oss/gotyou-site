@@ -2,7 +2,7 @@
   "slug": "wessen-intl-kitchen-mediterranean-cuisine-tempe",
   "name": "Wessen Int'l Kitchen - Mediterranean Cuisine",
   "category": "Restaurant",
-  "googleCategory": "Mediterranean restaurant",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Greek restaurant",
     "Restaurant",
@@ -16,17 +16,17 @@
   "lng": -111.9031649,
   "phone": "+16023449091",
   "website": "http://wessen-kitchen.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17228798280335511918",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wessen+Int%27l+Kitchen+-+Mediterranean+Cuisine/data=!4m7!3m6!1s0x872b08581e4da899:0xef18fcc0fe42516e!8m2!3d33.4225274!4d-111.9031649!16s%2Fg%2F11bccd4qfb!19sChIJmahNHlgIK4cRblFC_sD8GO8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17228798280335511918",
   "placeId": "ChIJmahNHlgIK4cRblFC_sD8GO8",
-  "googleRating": 4.5,
-  "googleReviewCount": 284,
+  "googleRating": 4.4,
+  "googleReviewCount": 287,
   "description": "Easygoing, sparsely decorated eatery offering Middle Eastern & Mediterranean staples.",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 8:00 PM",
@@ -43,5 +43,14 @@
   "groundgameId": "6a2437847629042da5ce6db7",
   "seededAt": "2026-06-06T15:06:44Z",
   "updatedAt": "2026-08-05T19:14:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 13,
+    "3": 15,
+    "4": 28,
+    "5": 215
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKMYTM7yyhsR1VMkYJpAwpGKFug6BJk9WP9x2DbHaxWFGqzfqAzjSzJ1SUtRddGRimIqS-xxOne4nrcwFIOLFBGR2vwKsrk8CP4kOAv7A7nNPK1W6W8GwCpDmtxindIoLE55r1=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

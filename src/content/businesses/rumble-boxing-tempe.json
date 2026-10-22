@@ -1,0 +1,48 @@
+{
+  "slug": "rumble-boxing-tempe",
+  "name": "Rumble Boxing",
+  "category": "Health & Beauty",
+  "googleCategory": "Boxing gym",
+  "secondaryCategories": [
+    "Gym"
+  ],
+  "address": "430 N Scottsdale Rd Ste A-115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4340463,
+  "lng": -111.92756109999999,
+  "phone": "+16026750530",
+  "website": "https://www.rumbleboxinggym.com/location/tempe?utm_source=google&utm_medium=referral&utm_campaign=yext&utm_term=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rumble+Boxing/data=!4m7!3m6!1s0x872b095783500c05:0x6aef5ba23eeebbe8!8m2!3d33.4340463!4d-111.9275611!16s%2Fg%2F11r_qwpf58!19sChIJBQxQg1cJK4cR6LvuPqJb72o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7705478239852870632",
+  "placeId": "ChIJBQxQg1cJK4cR6LvuPqJb72o",
+  "googleRating": 4.9,
+  "googleReviewCount": 48,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfscBB4lk5BPSBoGqWM3PxZ9mZVmJMYtE9rhxryk-44yFbnn9mewP1tT-2r_X2m5CxmnRtRqPX6LlOGgCjBQreW38NegPqe6kmj-igZTeD2Gk1yV9UKgTT63ESBhbRLmD7rQhGV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "4": 1,
+    "5": 45
+  },
+  "hours": {
+    "mon": "6:30 AM - 7:00 PM",
+    "tue": "6:30 AM - 7:00 PM",
+    "wed": "6:30 AM - 7:00 PM",
+    "thu": "6:30 AM - 7:00 PM",
+    "fri": "6:30 AM - 7:00 PM",
+    "sat": "6:30 AM - 7:00 PM",
+    "sun": "6:30 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

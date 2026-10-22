@@ -1,0 +1,44 @@
+{
+  "slug": "tempe-yoga-emerge-community-center-tempe",
+  "name": "Tempe Yoga: Emerge Community Center",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "address": "123 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+14802381252",
+  "website": "http://www.emergewith.us/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Yoga:+Emerge+Community+Center/data=!4m7!3m6!1s0x872b061b70f662bd:0xaa0b49a52e304ea0!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F1jgm2by7h!19sChIJvWL2cBsGK4cRoE4wLqVJC6o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12252968184984915616",
+  "placeId": "ChIJvWL2cBsGK4cRoE4wLqVJC6o",
+  "googleRating": 4.9,
+  "googleReviewCount": 7,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S329R43bsNP0mBIMQtJsJg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=347.16925&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

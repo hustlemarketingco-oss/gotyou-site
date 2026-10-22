@@ -1,0 +1,38 @@
+{
+  "slug": "color-of-karma-studio-tempe",
+  "name": "Color of Karma Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2039 S Mill Ave Ste E Studio 3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4060798,
+  "lng": -111.939291,
+  "phone": "+19289253948",
+  "website": "https://www.vagaro.com/sanoebeautyco?fbclid=PAZXh0bgNhZW0CMTEAAaba_77VERNSrMlIalAuzCU6UL9xBU2uU2Tw7qlQfleR_7Hmv7zccElSrFc_aem_jBLJBSnMuMrTpZQRKsTB5A",
+  "googleMapsUrl": "https://www.google.com/maps/place/Color+of+Karma+Studio/data=!4m7!3m6!1s0x872b092a20c0b479:0x779020ce826dbf7a!8m2!3d33.4060798!4d-111.939291!16s%2Fg%2F11w1htr47k!19sChIJebTAICoJK4cRer9tgs4gkHc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8615422158483341178",
+  "placeId": "ChIJebTAICoJK4cRer9tgs4gkHc",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=16FIQSt61kgsfk47El18tg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=317.07233&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

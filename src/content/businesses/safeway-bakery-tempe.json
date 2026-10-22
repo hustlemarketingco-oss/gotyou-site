@@ -11,22 +11,16 @@
   "lng": -111.9251422,
   "phone": "+14808296824",
   "website": "https://local.safeway.com/safeway/az/tempe/926-e-broadway-rd/bakery.html",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15509656376043644752",
+  "googleMapsUrl": "https://www.google.com/maps/place/Safeway+Bakery/data=!4m7!3m6!1s0x872b08eb1e555555:0xd73d5e4ce2742750!8m2!3d33.4087394!4d-111.9251422!16s%2Fg%2F11rrjsyc90!19sChIJVVVVHusIK4cRUCd04kxePdc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15509656376043644752",
   "placeId": "ChIJVVVVHusIK4cRUCd04kxePdc",
-  "googleRating": 4,
-  "googleReviewCount": 5,
+  "googleRating": 3.8,
+  "googleReviewCount": 4,
   "priceRange": "$$",
   "description": "Located in Tempe, Safeway Bakery is a bakery with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -34,5 +28,12 @@
   "groundgameId": "6a2439c4d99b570eb27296cf",
   "seededAt": "2026-06-06T15:16:20Z",
   "updatedAt": "2026-06-06T15:16:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "2": 1,
+    "3": 1,
+    "5": 2
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaOmOFXGOy2yvXWLq3V3DsYCTtKQus9rxdaOypa2Z6i4PZSXqeNwDMJEPiQrJDYsPx62gEr_LGxz6Nt3fTdIjBoh2HsdZELOMyOb_AiAH7RC-_QI0roTV3HJ0OxMYPz8N-v8g=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

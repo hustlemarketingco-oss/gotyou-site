@@ -1,0 +1,47 @@
+{
+  "slug": "lovisa-tempe",
+  "name": "Lovisa",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Ear piercing service"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383586199999996,
+  "lng": -111.96500209999999,
+  "phone": "+16028484251",
+  "website": "http://www.lovisa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lovisa/data=!4m7!3m6!1s0x872b0fde3b94c5f1:0xc6c668324ef14b2e!8m2!3d33.3835862!4d-111.9650021!16s%2Fg%2F11j4dttrpf!19sChIJ8cWUO94PK4cRLkvxTjJoxsY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14323250230180530990",
+  "placeId": "ChIJ8cWUO94PK4cRLkvxTjJoxsY",
+  "googleRating": 3.6,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRNszG0sHEDOGgNqH9DV9N_OLmrkk7bPpyVqFqMpwLEwQ2dwU4Wb6xo8r8INHS-ClT_ZF-s9ft8nb-XohbfMAjVu6eTkSh--BbwRcBCbOjV_sztcpeCvOg4mH7XMoEIc6otBN0WFsipwzg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "4": 2,
+    "5": 10
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

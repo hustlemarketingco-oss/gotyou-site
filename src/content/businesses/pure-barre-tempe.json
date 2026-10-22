@@ -1,0 +1,44 @@
+{
+  "slug": "pure-barre-tempe",
+  "name": "Pure Barre Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Physical fitness program",
+  "secondaryCategories": [
+    "Aerobics instructor",
+    "Fitness center",
+    "Personal trainer",
+    "Pilates studio",
+    "Wellness program",
+    "Yoga studio"
+  ],
+  "address": "1120 E Baseline Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3786152,
+  "lng": -111.9236043,
+  "phone": "+14805904966",
+  "website": "http://purebarre.com/az-tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pure+Barre+Tempe/data=!4m7!3m6!1s0x872b07745c552a29:0xece483f8a89db970!8m2!3d33.3786152!4d-111.9236043!16s%2Fg%2F11fk8crvd1!19sChIJKSpVXHQHK4cRcLmdqPiD5Ow?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17069913591645059440",
+  "placeId": "ChIJKSpVXHQHK4cRcLmdqPiD5Ow",
+  "googleRating": 4.8,
+  "googleReviewCount": 44,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKdvdMHUTbRD23U0L-CT8iTJJVV5dEaxAeLG6tSyleg5ACz3hYmgURsk2L9I7G5qNQYsQzbK_0Zng7k2tODfr9_-12wUR6fuT9Ujcv6MPu19zuruyDISRNLLfMzod3LLXgAelr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 41
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

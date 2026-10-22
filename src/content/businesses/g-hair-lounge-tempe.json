@@ -1,0 +1,54 @@
+{
+  "slug": "g-hair-lounge-tempe",
+  "name": "G Hair Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beautician",
+    "Beauty salon",
+    "Hair extension technician",
+    "Hair extensions supplier",
+    "Hair removal service",
+    "Hair replacement service",
+    "Hairdresser",
+    "Wig shop"
+  ],
+  "address": "Inside The Enclave, 1800 E Rio Salado Pkwy suite 170, Suite 118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4301305,
+  "lng": -111.90786109999999,
+  "phone": "+16027995171",
+  "website": "http://www.ghairlounge.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/G+Hair+Lounge/data=!4m7!3m6!1s0x872b0880d5f3c711:0xcf91d3dae7f3a96a!8m2!3d33.4301305!4d-111.9078611!16s%2Fg%2F11g6lz1q51!19sChIJEcfz1YAIK4cRaqnz59rTkc8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14956968774621964650",
+  "placeId": "ChIJEcfz1YAIK4cRaqnz59rTkc8",
+  "googleRating": 5,
+  "googleReviewCount": 96,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMmnbogAAQUlJ5NWR-I7t4F9MtmamIyvPKRHYYK0LgMJSaUldx2IHjIuNCyCp85Hf5f3wwOtxezhEpzELb-bns3ZO1FF4vvfQI0rH-pt-MmsjI_b7xIwKnzlOp3sXNp7FSaV33BT89kCQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 95
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

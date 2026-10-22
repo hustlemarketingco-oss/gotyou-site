@@ -1,0 +1,43 @@
+{
+  "slug": "jourdain-aesthetics-tempe",
+  "name": "Jourdain Aesthetics",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "address": "2131 E Broadway Rd Suite 10",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4072301,
+  "lng": -111.8950989,
+  "phone": "+15205536880",
+  "website": "https://booksy.com/en-us/instant-experiences/widget/1337899?instant_experiences_enabled=true&ig_ix=true",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jourdain+Aesthetics/data=!4m7!3m6!1s0x872b09fbf0b3e385:0x32dde0368899fdab!8m2!3d33.4072301!4d-111.8950989!16s%2Fg%2F11s2ptprwt!19sChIJheOz8PsJK4cRq_2ZiDbg3TI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3665332196574100907",
+  "placeId": "ChIJheOz8PsJK4cRq_2ZiDbg3TI",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a8sRKL0QykOt8dcPcUYZsA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=87.87959&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 5:00 PM",
+    "wed": "9:30 AM - 5:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "9:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

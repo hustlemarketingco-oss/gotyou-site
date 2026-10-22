@@ -17,7 +17,7 @@
   "website": "https://www.therivermassage.com/",
   "placeId": "ChIJHTfraOcJK4cRVzbTS2HmJDQ",
   "googleRating": 5,
-  "googleReviewCount": 327,
+  "googleReviewCount": 359,
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
     "tue": "10:00 AM - 8:00 PM",
@@ -33,5 +33,20 @@
   "groundgameId": "6a5528818b847d30ec0382ef",
   "seededAt": "2026-07-13T18:03:45Z",
   "updatedAt": "2026-07-13T18:04:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3757381294692185687",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+River+Massage/data=!4m7!3m6!1s0x872b09e768eb371d:0x3424e6614bd33657!8m2!3d33.4066419!4d-111.9080931!16s%2Fg%2F11vcbq9l4y!19sChIJHTfraOcJK4cRVzbTS2HmJDQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "4": 3,
+    "5": 352
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6OGJ9Ub5x15bbiSkFxPFiTVdNYB-kGrfY6RQ4ekR1XxtW4Um8vgkzBon6KIyljwwhK2lK2WL2DBCJ4Lya3rUj7C9_RfOeNu-0vgPYn9HCw9lK4fYF60t8gqzIZF12F0wQ1f9g_YJzYgM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

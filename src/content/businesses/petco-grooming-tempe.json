@@ -1,0 +1,47 @@
+{
+  "slug": "petco-grooming-tempe",
+  "name": "Petco Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "1835 E Guadalupe Rd Ste 112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3615474,
+  "lng": -111.90953169999999,
+  "phone": "+14808200603",
+  "website": "https://stores.petco.com/az/tempe/full-service-grooming-tempe-az-915.html?utm_source=google&utm_campaign=locallist_915_pg",
+  "googleMapsUrl": "https://www.google.com/maps/place/Petco+Grooming/data=!4m7!3m6!1s0x872b064c102a978f:0x8187152a707d6a90!8m2!3d33.3615474!4d-111.9095317!16s%2Fg%2F11f0wjwnh2!19sChIJj5cqEEwGK4cRkGp9cCoVh4E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9333452024768719504",
+  "placeId": "ChIJj5cqEEwGK4cRkGp9cCoVh4E",
+  "googleRating": 4.8,
+  "googleReviewCount": 108,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ6vLtEFsFuxaFtHExM9T9bah4s1r9RzhzfDDOVER1RQRU68AjaAfFc1y0y6Z1WFU0wvfbZHyEfX6tArSpcrH44816x-YEmzY7D-e8TqX7ppr98SggIcsgZhuCDoxSagSIB1lz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 1,
+    "4": 5,
+    "5": 97
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

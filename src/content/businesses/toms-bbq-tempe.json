@@ -18,13 +18,13 @@
   "website": "http://tomsbbq.com/",
   "placeId": "ChIJLT7afBsGK4cRO_w2k4CZ27s",
   "googleRating": 4.1,
-  "googleReviewCount": 1036,
+  "googleReviewCount": 1060,
   "priceRange": "$$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
@@ -41,5 +41,16 @@
   "groundgameId": "6a2c1c86160a2edf83d622b5",
   "seededAt": "2026-06-12T14:49:42Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13536581882496875579",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tom%27s+BBQ+-+Tempe/data=!4m7!3m6!1s0x872b061b7cda3e2d:0xbbdb99809336fc3b!8m2!3d33.3779077!4d-111.9380799!16s%2Fg%2F1td7zk5f!19sChIJLT7afBsGK4cRO_w2k4CZ27s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 116,
+    "2": 56,
+    "3": 83,
+    "4": 151,
+    "5": 654
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBC1xSw3jtjlEhx3WlFHphtCdraDeHeFLrDunaW5ifuVNNUlIiJ0JLQGMgUC27WYdv4FNQjdsSFXZbgDeIR_OgEBxUEyUkZnl4Ab5-nYrBHvKBGzPzDZMWFnSwfIxeGOVhckHt=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -11,23 +11,9 @@
   "priceRange": "$1–10",
   "description": "Colorful counter-serve chain for health-focused fruit smoothies, juices & light bites.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Outside"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/jambajuice"
@@ -38,5 +24,30 @@
   "groundgameId": "6a2435f23ce6362e62b75034",
   "seededAt": "2026-06-06T15:00:02Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJUT1u4EsGK4cReAQPF4ywpAg",
+  "googleCid": "622816764212741240",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jamba/data=!4m7!3m6!1s0x872b064be06e3d51:0x8a4b08c170f0478!8m2!3d33.3632673!4d-111.9103556!16s%2Fg%2F12615l5xk!19sChIJUT1u4EsGK4cReAQPF4ywpAg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 377,
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 19,
+    "3": 28,
+    "4": 57,
+    "5": 237
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaqqlYtu74XbpqwZgAaxMruoJMMcTYbY08vLxq-UmAMaiztNmcYo2r3A4ls0zH_ZDD9rJriUBt14k9x1_5qlnIY99u0e78QeKrPDQlX3GqaUPQrcoUe1ULBQ2UXKEtUPUjxxEW=w1200-h800-k-no",
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "7:00 AM - 8:00 PM",
+    "wed": "7:00 AM - 8:00 PM",
+    "thu": "7:00 AM - 8:00 PM",
+    "fri": "7:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 7:00 PM"
+  },
+  "lat": 33.3632673,
+  "lng": -111.91035559999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

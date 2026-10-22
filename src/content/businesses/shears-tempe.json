@@ -1,0 +1,47 @@
+{
+  "slug": "shears-tempe",
+  "name": "Shears",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Hairdresser"
+  ],
+  "address": "1445 E Guadalupe Rd Unit 204",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3633689,
+  "lng": -111.91558069999999,
+  "phone": "+14802467709",
+  "website": "https://www.vagaro.com/shearssalonaz?fbclid=PAAaYOHIxBgtETWBGJnLTt9lRXAgHqp88QUI0S2Yry96zSUhDrLPZUlHlxrFY",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shears/data=!4m7!3m6!1s0x872b06488fc189ed:0x3ab1cdec0a438696!8m2!3d33.3633689!4d-111.9155807!16s%2Fg%2F1hd_d8c1f!19sChIJ7YnBj0gGK4cRloZDCuzNsTo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4229387938745779862",
+  "placeId": "ChIJ7YnBj0gGK4cRloZDCuzNsTo",
+  "googleRating": 4.9,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4G5zPZ5iUk2W43bRnTD9giUMR-H38s3Uw-fRlVWZp0rr0QX-sjYGSf3pLoTeZx6lE4RJ6B7b4c4ygm9u7WAfU3iWwDW3rXRCZNal9aBWmtrwutCOJsRnkzC_gVfPEzFHtm_SkZA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 29
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 7:30 PM",
+    "thu": "10:00 AM - 7:30 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

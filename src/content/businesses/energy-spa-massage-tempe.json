@@ -1,0 +1,43 @@
+{
+  "slug": "energy-spa-massage-tempe",
+  "name": "Energy Spa Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "123 E Baseline Rd D107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+16265606991",
+  "googleMapsUrl": "https://www.google.com/maps/place/Energy+Spa+Massage/data=!4m7!3m6!1s0x872b075761846fc3:0x4ffe324db5be354!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F11wc8_45qf!19sChIJw2-EYVcHK4cRVONb2yTj_wQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "360256242651489108",
+  "placeId": "ChIJw2-EYVcHK4cRVONb2yTj_wQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3PH5TOXucIjIpFNw7cRceetIs5icgsu4GcdqtZ-m3U4JhHwG-XFilY7rsbGdp5Zc1_QeSORJ4F_1A469P0R-beTOo0kn2ERQN5N7W3Vi2zu1T-JSMTEKZovxGDM3s3v1PGNYw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

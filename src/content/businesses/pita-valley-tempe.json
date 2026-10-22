@@ -2,7 +2,7 @@
   "slug": "pita-valley-tempe",
   "name": "Pita Valley",
   "category": "Restaurant",
-  "googleCategory": "Mediterranean restaurant",
+  "googleCategory": "Middle Eastern restaurant",
   "secondaryCategories": [
     "Arab restaurant",
     "Halal restaurant",
@@ -21,11 +21,11 @@
   "lng": -111.9083403,
   "phone": "+14805901443",
   "website": "https://www.themobilewebapps.com/pitavalley",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8328555346820251131",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pita+Valley/data=!4m7!3m6!1s0x872b09a1755e1351:0x7394f8f61b66bdfb!8m2!3d33.4214457!4d-111.9083403!16s%2Fg%2F11jgcpfvgx!19sChIJURNedaEJK4cR-71mG_b4lHM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8328555346820251131",
   "placeId": "ChIJURNedaEJK4cR-71mG_b4lHM",
-  "googleRating": 4.8,
-  "googleReviewCount": 1241,
+  "googleRating": 4.7,
+  "googleReviewCount": 1430,
   "description": "Traditional Lebanese specialties dished up in a compact, down-to-earth restaurant.",
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -33,5 +33,20 @@
   "groundgameId": "6a2437851947f434a6558594",
   "seededAt": "2026-06-06T15:06:45Z",
   "updatedAt": "2026-07-07T23:14:09Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 22,
+    "3": 24,
+    "4": 56,
+    "5": 1279
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMs7rpRDjvBhVXb2GOMJdksUHq6TDD73sJJtu38QUNOqN73mt0B71j9_FHiwJkbQ2kjpYO002uBanEq58srbsYdcz0B7Gu4dX2lwdJowplXJiyPvNPvV40IyXxMB-e_6oRPKym-A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

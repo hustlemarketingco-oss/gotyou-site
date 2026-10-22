@@ -1,0 +1,47 @@
+{
+  "slug": "yogis-grill-85-tempe",
+  "name": "Yogis Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "address": "85 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3924406,
+  "lng": -111.93823979999999,
+  "phone": "+14809359455",
+  "website": "https://tempeeats.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yogis+Grill/data=!4m7!3m6!1s0x872b0944d7bd7579:0x1578a7872d8797bc!8m2!3d33.3924406!4d-111.9382398!16s%2Fg%2F11vzgqzgr9!19sChIJeXW910QJK4cRvJeHLYeneBU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1547170671028049852",
+  "placeId": "ChIJeXW910QJK4cRvJeHLYeneBU",
+  "googleRating": 2.9,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNJ5xPBU1eCbvpb1iet09Dglc-S-h1Ns6d5RPIJks-VzvkjCXJMn2GFkzXlsPddsrH-uk6H1mnuLL7PZwdXaa1iw-W432fmFtrQUxxwxgUD1keYxJmKYxYkxBchIi6g9U2yQj1=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "4": 1,
+    "5": 11
+  },
+  "hours": {
+    "mon": "11:30 AM - 8:00 PM",
+    "tue": "11:30 AM - 8:00 PM",
+    "wed": "11:30 AM - 8:00 PM",
+    "thu": "11:30 AM - 8:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

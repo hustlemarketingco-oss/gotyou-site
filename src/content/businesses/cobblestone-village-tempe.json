@@ -1,0 +1,45 @@
+{
+  "slug": "cobblestone-village-tempe",
+  "name": "Cobblestone Village",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1761 E Warner Rd Ste C6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3338302,
+  "lng": -111.91240239999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Cobblestone+Village/data=!4m7!3m6!1s0x872b06e4b7a2cc41:0x5e291194699488c2!8m2!3d33.3338302!4d-111.9124024!16s%2Fg%2F1td4_9tm!19sChIJQcyit-QGK4cRwoiUaZQRKV4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6784973642734536898",
+  "placeId": "ChIJQcyit-QGK4cRwoiUaZQRKV4",
+  "googleRating": 4.3,
+  "googleReviewCount": 430,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-F3oAaBmjL9SGKOQv8xSd69jAU4gW4ykBJvEin2PmNHNSiM98LT888zGloTeCZIpt2JIGQGx3Xa-vVXtkjwpOeWh5X7dwspScO1O3Is-SLq8sa_PkCHclg3uAhZ7qtXKYVvHy=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 8,
+    "3": 49,
+    "4": 133,
+    "5": 232
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

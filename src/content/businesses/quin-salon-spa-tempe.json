@@ -1,0 +1,51 @@
+{
+  "slug": "quin-salon-spa-tempe",
+  "name": "Quin Salon & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Barber shop",
+    "Hair salon",
+    "Spa"
+  ],
+  "address": "2240 N Scottsdale Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4536297,
+  "lng": -111.9270667,
+  "phone": "+16028805676",
+  "website": "https://quinsalonspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Quin+Salon+%26+Spa/data=!4m7!3m6!1s0x872b096a14be4425:0xc7c677184c5ea12a!8m2!3d33.4536297!4d-111.9270667!16s%2Fg%2F11hbk901dc!19sChIJJUS-FGoJK4cRKqFeTBh3xsc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14395324205180559658",
+  "placeId": "ChIJJUS-FGoJK4cRKqFeTBh3xsc",
+  "googleRating": 4.9,
+  "googleReviewCount": 84,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEX4MHFVadiIVl8l0OB7jtDQY6K50eVdTq8uI5vgHXHk-ErjV0m_kMjCgUgGlplxaesfqq7f6-FDcrG8blwp_mJG_1HWnVUOGpyuIlJ38uHmM1SIc281mOfCJwwBo5WmNXbt2M=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 2,
+    "5": 81
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 6:30 PM",
+    "wed": "9:30 AM - 6:30 PM",
+    "thu": "9:30 AM - 6:30 PM",
+    "fri": "9:30 AM - 6:30 PM",
+    "sat": "9:00 AM - 6:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "kfc-tempe",
+  "name": "KFC",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "705 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777743,
+  "lng": -111.949928,
+  "phone": "+14808310068",
+  "website": "https://locations.kfc.com/az/tempe/705-w-baseline-rd",
+  "googleMapsUrl": "https://www.google.com/maps/place/KFC/data=!4m7!3m6!1s0x872b0600e61c21e3:0xf0cb9e22e524feff!8m2!3d33.3777743!4d-111.949928!16s%2Fg%2F1tgn55w2!19sChIJ4yEc5gAGK4cR__4k5SKey_A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17351135862085451519",
+  "placeId": "ChIJ4yEc5gAGK4cR__4k5SKey_A",
+  "googleRating": 3,
+  "googleReviewCount": 1086,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccFJKuN3sOlWeDZQWYfzxTONYX3gnlXl05BF0AfmpTtvghes0GKJfekdVBAaxVmKE7YNErRslUiPvl4wX89EM1ZuWfR-eL0RTjEXOs0Q1PRUwZ6MYDEfjCqBAM2k0Xf1Kl0VTgwA=w1200-h800-k-no",
+  "description": "Restaurant chain known for its buckets of fried chicken, plus combo meals & sides.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 348,
+    "2": 110,
+    "3": 153,
+    "4": 160,
+    "5": 315
+  },
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

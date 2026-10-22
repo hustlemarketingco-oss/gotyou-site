@@ -19,36 +19,18 @@
   "lng": -111.9398292,
   "phone": "+14802845442",
   "website": "http://www.cornishpastyco.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17248004028274128620",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cornish+Pasty+Co/data=!4m7!3m6!1s0x872b08d804357c13:0xef5d3847a5c936ec!8m2!3d33.4258657!4d-111.9398292!16s%2Fg%2F11cm4328kd!19sChIJE3w1BNgIK4cR7DbJpUc4Xe8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17248004028274128620",
   "placeId": "ChIJE3w1BNgIK4cR7DbJpUc4Xe8",
   "googleRating": 4.6,
-  "googleReviewCount": 635,
+  "googleReviewCount": 642,
   "priceRange": "$20–30",
   "description": "Down-to-earth stopo crafting traditional & vegan Cornish pasties, plus other English favorites.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 12:00 AM",
@@ -65,5 +47,14 @@
   "groundgameId": "6a243633dbf6c8c07ca4321a",
   "seededAt": "2026-06-06T15:01:07Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 13,
+    "3": 23,
+    "4": 119,
+    "5": 472
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLJ-D81wVRnvnZj0mDo4j6_6kGAU7ruHj--BRGf9jGRdyFqI4Un3_coRNb1wAY2an25MDS2ujNUSyWATAyEbMQghDDLW8G9H-S3pPsAq379GGtgoUwZsty0kQ7WF9fG4WKz8Dc=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "candice-nicole-co-tempe",
+  "name": "Candice Nicole & Co.",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "3030 S Rural Rd Unit 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.396056699999995,
+  "lng": -111.92667829999999,
+  "phone": "+16366756807",
+  "googleMapsUrl": "https://www.google.com/maps/place/Candice+Nicole+%26+Co./data=!4m7!3m6!1s0x872b0958897b81cd:0x293be00eb5431919!8m2!3d33.3960567!4d-111.9266783!16s%2Fg%2F11l5dyb19y!19sChIJzYF7iVgJK4cRGRlDtQ7gOyk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2971214732956211481",
+  "placeId": "ChIJzYF7iVgJK4cRGRlDtQ7gOyk",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CsLBdD-mYnV0OdfqYOgOIg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=238.40367&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "Closed",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

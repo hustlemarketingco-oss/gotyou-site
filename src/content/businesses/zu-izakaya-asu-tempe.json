@@ -2,7 +2,7 @@
   "slug": "zu-izakaya-asu-tempe",
   "name": "Zu Izakaya - ASU",
   "category": "Asian & Pacific",
-  "googleCategory": "Sushi restaurant",
+  "googleCategory": "Modern izakaya restaurant",
   "secondaryCategories": [
     "Japanese restaurant"
   ],
@@ -16,7 +16,7 @@
   "website": "http://www.zuizakaya.com/",
   "placeId": "ChIJz1psK8oJK4cRJRitUTNNI58",
   "googleRating": 4.5,
-  "googleReviewCount": 326,
+  "googleReviewCount": 332,
   "priceRange": "$$",
   "hours": {
     "mon": "11:30 AM - 3:00 PM, 5:00 PM - 11:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a4560af2fb208b58260b193",
   "seededAt": "2026-07-01T18:47:11Z",
   "updatedAt": "2026-07-22T20:51:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11467093959024384037",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zu+Izakaya+-+ASU/data=!4m7!3m6!1s0x872b09ca2b6c5acf:0x9f234d3351ad1825!8m2!3d33.4151853!4d-111.9197067!16s%2Fg%2F11qg3wb9g_!19sChIJz1psK8oJK4cRJRitUTNNI58?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 7,
+    "3": 17,
+    "4": 25,
+    "5": 262
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCgIA4aWyqyH8HqZzZtnqPpQwePFXmg4R8J5mt8RjvEwLNoKyrBTo7oTFUu8WT-eNyD9FtBySF-2JCINvnvv-wdUglUXXsVWw9JjqIYRmZPdhrQpfmZjTcCnKC4RW6P16zNDawATxXCbI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

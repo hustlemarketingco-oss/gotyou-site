@@ -2,7 +2,7 @@
   "slug": "wetzels-pretzels-tempe",
   "name": "Wetzel's Pretzels",
   "category": "Desserts & Bakery",
-  "googleCategory": "Bakery",
+  "googleCategory": "Fast food restaurant",
   "secondaryCategories": [
     "Fast food restaurant",
     "Pretzel store"
@@ -15,19 +15,8 @@
   "priceRange": "$10–20",
   "description": "Handcrafted pretzels come sweet or salty at this chain that also offers hot dogs & specialty dips.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/WetzelsPretzels"
@@ -38,5 +27,31 @@
   "groundgameId": "6a2439c5ba76b76a8b6f1424",
   "seededAt": "2026-06-06T15:16:21Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJxTqrABgJK4cRrDnu_zihOp8",
+  "googleCid": "11473660266863802796",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wetzel%27s+Pretzels/data=!4m7!3m6!1s0x872b091800ab3ac5:0x9f3aa138ffee39ac!8m2!3d33.4213362!4d-111.9258305!16s%2Fg%2F11rsblt_ss!19sChIJxTqrABgJK4cRrDnu_zihOp8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 2.5,
+  "googleReviewCount": 75,
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 4,
+    "3": 3,
+    "4": 4,
+    "5": 23
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewYwi_keBpKFCHuIct8p1El8tHVnsijP8rDCQl7EMQzIhGIsrRxZ2w5WIoEtBDlAQXJobgYotCnNfYyd0M_kvcCeDAp83wlPCXrQR5mRV_DG9CDNMk_mwVEXOG5mlDTore_mPu=w1200-h800-k-no",
+  "website": "https://www.wetzels.com/",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "2:00 PM - 12:00 AM",
+    "sat": "2:00 PM - 12:00 AM",
+    "sun": "2:00 PM - 12:00 AM"
+  },
+  "lat": 33.4213362,
+  "lng": -111.92583049999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

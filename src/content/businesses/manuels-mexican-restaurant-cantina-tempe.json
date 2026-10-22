@@ -1,0 +1,54 @@
+{
+  "slug": "manuels-mexican-restaurant-cantina-tempe",
+  "name": "Manuel's Mexican Restaurant & Cantina | Tempe",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Caterer",
+    "Restaurant"
+  ],
+  "address": "2350 E Southern Ave #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3934534,
+  "lng": -111.8881474,
+  "phone": "+14808970025",
+  "website": "https://www.manuelsaztempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Manuel%27s+Mexican+Restaurant+%26+Cantina+%7C+Tempe/data=!4m7!3m6!1s0x872b0876180fb459:0xfcf3eb1280139698!8m2!3d33.3934534!4d-111.8881474!16s%2Fg%2F1ts_71vr!19sChIJWbQPGHYIK4cRmJYTgBLr8_w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18227170581589235352",
+  "placeId": "ChIJWbQPGHYIK4cRmJYTgBLr8_w",
+  "googleRating": 4.4,
+  "googleReviewCount": 3441,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9Xd6KI-dw1nKKUUdx41ejxMFVsc9cE9O6eqePFIKcmp7TcOahQbx9O7epiBTn06k9z3JofE_nd3HfI-SnzKGN3Vfl45V737kp6P2ijsJj2mdoCOujSwmH0FbObTtMLneJWeVxjw=w1200-h800-k-no",
+  "description": "Regional chain Mexican outlet offering a wide-ranging menu in a casual, upbeat space.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 157,
+    "2": 101,
+    "3": 204,
+    "4": 639,
+    "5": 2340
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

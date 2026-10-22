@@ -13,7 +13,7 @@
   "website": "http://fochcafe.com/",
   "placeId": "ChIJb0v9uw4JK4cRFI0PcG_eug4",
   "googleRating": 4.5,
-  "googleReviewCount": 254,
+  "googleReviewCount": 269,
   "priceRange": "$$",
   "hours": {
     "mon": "9:00 AM - 3:00 PM",
@@ -30,5 +30,22 @@
   "groundgameId": "6a32e35c430cbf5bff14ffe5",
   "seededAt": "2026-06-17T18:11:40Z",
   "updatedAt": "2026-08-04T17:14:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1061405232401976596",
+  "googleMapsUrl": "https://www.google.com/maps/place/Foch+Caf%C3%A9+%26+Bistro/data=!4m7!3m6!1s0x872b090ebbfd4b6f:0xebade6f700f8d14!8m2!3d33.4241528!4d-111.9391271!16s%2Fg%2F11rf9h7pkk!19sChIJb0v9uw4JK4cRFI0PcG_eug4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 11,
+    "3": 16,
+    "4": 19,
+    "5": 210
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGQ3_yeHvzF3yH8ZrZpSEMv6jRtJ9y-nBZj1JaYoM23m0e9Sr8ySQ2dr9lO_MyDj61nQ2ygKl-1T_Lwe5K_MYZFXOmB6lOUJ4wAI6Jghk6GYHKTZEQfWik37SwVUEI2EYWm9Ss1EnN9s8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

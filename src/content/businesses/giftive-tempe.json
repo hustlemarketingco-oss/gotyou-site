@@ -1,0 +1,57 @@
+{
+  "slug": "giftive-tempe",
+  "name": "Giftive",
+  "category": "Shopping",
+  "googleCategory": "Greeting card shop",
+  "secondaryCategories": [
+    "Christmas store",
+    "Gift shop",
+    "Gift wrap store",
+    "Novelty store",
+    "Paper store",
+    "Picture frame shop",
+    "Post office",
+    "Scrapbooking store"
+  ],
+  "address": "9880 S Rural Rd, S Warner Ranch Dr #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.322059599999996,
+  "lng": -111.92933359999999,
+  "phone": "+14807851659",
+  "website": "https://stores.hallmark.com/az/tempe/giftive-tempe-az-063363.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Giftive/data=!4m7!3m6!1s0x872b06c0751d6a6b:0xea39c81474e601ba!8m2!3d33.3220596!4d-111.9293336!16s%2Fg%2F1tgpnh9r!19sChIJa2oddcAGK4cRugHmdBTIOeo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16877741068733776314",
+  "placeId": "ChIJa2oddcAGK4cRugHmdBTIOeo",
+  "googleRating": 4.3,
+  "googleReviewCount": 218,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6Rnhv3ZPVLS4x-os9Syzz-SD-zo-h2Pvopx8YUgvm1_bAAMmfaI28WoolhPqAZgsA0epYfBpy_9SNLFSaejfrQKKHv26Afcasak4oHAnEmK2iUZO7nsFfvcbNffBQf_5DVtxD=w1200-h800-k-no",
+  "description": "Retail chain specializing in greeting cards, gift wrap, ornaments & gifts for all occasions.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 12,
+    "3": 10,
+    "4": 28,
+    "5": 151
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

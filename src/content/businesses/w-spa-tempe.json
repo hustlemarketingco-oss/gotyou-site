@@ -1,0 +1,44 @@
+{
+  "slug": "w-spa-tempe",
+  "name": "W SPA",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Massage therapist"
+  ],
+  "address": "1730 E Elliot Rd #16",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.350773,
+  "lng": -111.9120131,
+  "phone": "+14807303304",
+  "googleMapsUrl": "https://www.google.com/maps/place/W+SPA/data=!4m7!3m6!1s0x872b070672fe4c87:0x13b4583e9e154597!8m2!3d33.350773!4d-111.9120131!16s%2Fg%2F11ghlk0lr7!19sChIJh0z-cgYHK4cRl0UVnj5YtBM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1419856808491959703",
+  "placeId": "ChIJh0z-cgYHK4cRl0UVnj5YtBM",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8FnyoWMLNX1swml4hK_Yfw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=263.56934&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

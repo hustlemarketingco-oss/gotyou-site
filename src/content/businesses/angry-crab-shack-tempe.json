@@ -16,7 +16,7 @@
   "website": "https://www.angrycrabshack.com/tempe",
   "placeId": "ChIJE-oj0pgHK4cRKZfpB2qxKW8",
   "googleRating": 4.3,
-  "googleReviewCount": 473,
+  "googleReviewCount": 505,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a46b6b45e38c04ff2b34a35",
   "seededAt": "2026-07-02T19:06:28Z",
   "updatedAt": "2026-07-02T19:06:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8010128481212536617",
+  "googleMapsUrl": "https://www.google.com/maps/place/Angry+Crab+Shack/data=!4m7!3m6!1s0x872b0798d223ea13:0x6f29b16a07e99729!8m2!3d33.3349238!4d-111.9485849!16s%2Fg%2F11jsmk1fjw!19sChIJE-oj0pgHK4cRKZfpB2qxKW8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 17,
+    "3": 33,
+    "4": 82,
+    "5": 331
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfepLbMciYLdjA2pKc-9E6RfCdHV3ZugCeurcGBDADmxIrfswso4tsndawM-NegRXI4MGEolopA97RfrCUfxuL8_WVPX8OhRhxwZJWLyQJ0ykpAr9ynQ7K1IFbyElFC7dx2W4nKVwiRy9N5=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

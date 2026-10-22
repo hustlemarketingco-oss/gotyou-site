@@ -1,0 +1,45 @@
+{
+  "slug": "letts-designs-tempe",
+  "name": "Lett's Designs",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "6601 S Rural Rd Ste 26",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+14804856072",
+  "website": "http://lettsdesigns.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lett%27s+Designs/data=!4m7!3m6!1s0x872b09eb62a39573:0xbdf024ebd931a7e9!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11xrgmmcvk!19sChIJc5WjYusJK4cR6acx2esk8L0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13686479862958761961",
+  "placeId": "ChIJc5WjYusJK4cR6acx2esk8L0",
+  "googleRating": 5,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcr2mTvWJ7Pb111X2zcz9sghVsxSJOD26byWVCaO7WfvLg6YsjGK4c9EBIIDfpNkWqwZVQzFAh0aN1RILF95jZua2g_Z7tGkU9EsaNzyYa1Uz-XeMHm4oDCQ9blO7wYTAQsWuRJQXjCeDg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 16
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

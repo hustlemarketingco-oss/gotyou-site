@@ -22,7 +22,7 @@
   "website": "https://www.reddevilrestaurant.com/italian-restaurant-tempe-az/",
   "placeId": "ChIJ7w4fxa8IK4cRj6hZqYSlUKw",
   "googleRating": 4.2,
-  "googleReviewCount": 1313,
+  "googleReviewCount": 1331,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 9:30 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a398b038a05e2a5d8be3cb5",
   "seededAt": "2026-06-22T19:20:35Z",
   "updatedAt": "2026-06-30T21:00:10Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12416606161855948943",
+  "googleMapsUrl": "https://www.google.com/maps/place/Red+Devil+%7C+Italian+Restaurant+%26+Pizzeria/data=!4m7!3m6!1s0x872b08afc51f0eef:0xac50a584a959a88f!8m2!3d33.3934525!4d-111.942297!16s%2Fg%2F1tdg_rtn!19sChIJ7w4fxa8IK4cRj6hZqYSlUKw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 58,
+    "3": 92,
+    "4": 236,
+    "5": 843
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMCTdjk68nc7B00-p0b4lOu94d-xcmQxDx9iXNgsVOM3K2pSdGdqwSFk--WgC9FAk9vu3crYfly_u5tCj62fGUfSNdGJN_3GEDIKnlIbNwGlOGl7rkD3CwpahEZ-pvtgUaVMVvgBClFTEp=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "flame-broiler-tempe",
+  "name": "Flame Broiler",
+  "category": "Asian & Pacific",
+  "googleCategory": "Korean restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Fast food restaurant",
+    "Health food restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "1342 W Warner Rd b104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.334960099999996,
+  "lng": -111.96200239999999,
+  "phone": "+14809617776",
+  "website": "https://flamebroilerusa.com/locations/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Flame+Broiler/data=!4m7!3m6!1s0x872b042d175ed2a9:0xe6e499b9205b29b!8m2!3d33.3349601!4d-111.9620024!16s%2Fg%2F11g6nk3ghf!19sChIJqdJeFy0EK4cRm7IFkptJbg4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1039849496487768731",
+  "placeId": "ChIJqdJeFy0EK4cRm7IFkptJbg4",
+  "googleRating": 4.4,
+  "googleReviewCount": 321,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVs3HDy_q226y5q-bIGvSlozfg_fp_AhPvKF5kLa-3UuXoBfjqXM1U5NKSn_bn5C1QGdjZSiwN_mBXFpQ9n1DGaHLWa9kpkMPpiL8f-xMzsAU8zvdWr7fl0L710vrhGDuZJlc=w1200-h800-k-no",
+  "description": "Simple fast-food chain preparing Korean-style meat & rice bowls with no dairy, trans-fat or frying.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 10,
+    "3": 25,
+    "4": 56,
+    "5": 215
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

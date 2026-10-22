@@ -12,8 +12,8 @@
   "phone": "+14809660701",
   "website": "http://soapdesjour.com/",
   "placeId": "ChIJfzWmxW4JK4cRg8D2MGNg8CE",
-  "googleRating": 4.5,
-  "googleReviewCount": 60,
+  "googleRating": 4.4,
+  "googleReviewCount": 65,
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
     "tue": "11:00 AM - 9:00 PM",
@@ -29,5 +29,21 @@
   "groundgameId": "6a343b10c0dcad6a275cdc97",
   "seededAt": "2026-06-18T18:38:08Z",
   "updatedAt": "2026-06-18T18:38:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2445560576801685635",
+  "googleMapsUrl": "https://www.google.com/maps/place/SOAP+DES+JOUR/data=!4m7!3m6!1s0x872b096ec5a6357f:0x21f0606330f6c083!8m2!3d33.432701!4d-111.9043675!16s%2Fg%2F11j1hpndjj!19sChIJfzWmxW4JK4cRg8D2MGNg8CE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 4,
+    "3": 2,
+    "4": 4,
+    "5": 51
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgQ549FHWj5KmEtiA0JWncGUcxiuufgsK2iKKo1FigEZTtOvf_bAUca0ggBXyB-xmY6Lnl86VDKpc72DbqDCLnCqhtZkLRvUAM9pfWETnKfd_jOe4Z-DJ3-izqm0Pm8nXL3VGL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

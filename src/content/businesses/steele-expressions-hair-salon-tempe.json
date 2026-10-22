@@ -1,0 +1,46 @@
+{
+  "slug": "steele-expressions-hair-salon-tempe",
+  "name": "Steele Expressions Hair Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon",
+    "Hairdresser"
+  ],
+  "address": "9020 S McClintock Dr #14",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332538,
+  "lng": -111.912182,
+  "phone": "+14802282777",
+  "googleMapsUrl": "https://www.google.com/maps/place/Steele+Expressions+Hair+Salon/data=!4m7!3m6!1s0x872b06e4605b6c55:0xadb25aff232b7315!8m2!3d33.332538!4d-111.912182!16s%2Fg%2F1tdl20bt!19sChIJVWxbYOQGK4cRFXMrI_9asq0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12516166366269240085",
+  "placeId": "ChIJVWxbYOQGK4cRFXMrI_9asq0",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfXmw6G0Vrl7w84DwBR_JUPYCoKza1Ydv5YI0QEuVB5O36IKTC60Etne13tKWKcTN_ZySqFkHR8kJhNZ2IiNJoThbNbRBFGkKeELzDK0ivHrh5K5I72Ke66lEhvzQiK6DGiZ7h=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "Closed",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

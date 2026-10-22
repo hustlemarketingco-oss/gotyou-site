@@ -1,0 +1,51 @@
+{
+  "slug": "knockout-subs-tempe",
+  "name": "Knockout Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Candy store",
+    "Restaurant"
+  ],
+  "address": "2726 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932614,
+  "lng": -111.97720699999999,
+  "phone": "+16026986685",
+  "website": "https://knockoutsubsphx.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Knockout+Subs/data=!4m7!3m6!1s0x872b0f73c5b3381b:0x82b214dbd2f9cdf7!8m2!3d33.3932614!4d-111.977207!16s%2Fg%2F11vjnx7vbj!19sChIJGzizxXMPK4cR98350tsUsoI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9417612705155108343",
+  "placeId": "ChIJGzizxXMPK4cR98350tsUsoI",
+  "googleRating": 4.9,
+  "googleReviewCount": 196,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcue20BEc3ZghHJaV0Nwm3gfFoz5nW2hYLNZibSeN0MzrvoPcPYMbL5H0TvBHjs1854FA6MRdDLWQgVZZnc7bLWTYK9h9xA6gVvx0QVuoGbZqwSoHORrhWWT_Hzn1v3cdhg4zhuUlSukTY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "2": 2,
+    "4": 7,
+    "5": 187
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

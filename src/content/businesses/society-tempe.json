@@ -15,24 +15,10 @@
   "priceRange": "$20–80",
   "description": "Located in Tempe, Society is a cozy, lively italian restaurant & cocktail bar with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Lively",
-    "Romantic",
-    "Trendy",
-    "Upscale",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/101121749150079"
@@ -43,5 +29,31 @@
   "groundgameId": "6a243861ec0bdbd641ce9f68",
   "seededAt": "2026-06-06T15:10:25Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJXYqiTqkJK4cRqz38JIcTjEU",
+  "googleCid": "5011401956518542763",
+  "googleMapsUrl": "https://www.google.com/maps/place/Society/data=!4m7!3m6!1s0x872b09a94ea28a5d:0x458c138724fc3dab!8m2!3d33.422369!4d-111.925432!16s%2Fg%2F11pt_9_bw0!19sChIJXYqiTqkJK4cRqz38JIcTjEU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 982,
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 25,
+    "3": 57,
+    "4": 94,
+    "5": 767
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVI5lFj0wrBz-1k-P1-sqhmrukxqxenCYfUevwpTKjG0eE-GlfynndCTDqdeJA_40tBkOS9OjLz3h3UhfqufkeMmz4gblRAMbr_djP6KTdceqUftx7S_Oaq3SIZDdE5UHgVo2Kae7LvtH6=w1200-h800-k-no",
+  "website": "https://societytempe.com/",
+  "hours": {
+    "mon": "4:00 PM - 12:00 AM",
+    "tue": "4:00 PM - 12:00 AM",
+    "wed": "4:00 PM - 12:00 AM",
+    "thu": "4:00 PM - 12:00 AM",
+    "fri": "4:00 PM - 2:00 AM",
+    "sat": "4:00 PM - 2:00 AM",
+    "sun": "4:00 PM - 12:00 AM"
+  },
+  "lat": 33.422368999999996,
+  "lng": -111.925432,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

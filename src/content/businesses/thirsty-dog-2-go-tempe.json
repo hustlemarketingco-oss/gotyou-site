@@ -1,0 +1,41 @@
+{
+  "slug": "thirsty-dog-2-go-tempe",
+  "name": "Thirsty Dog 2 Go",
+  "category": "Fast Food",
+  "googleCategory": "Hot dog restaurant",
+  "secondaryCategories": [
+    "Beer store",
+    "Liquor store"
+  ],
+  "address": "15 W 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4252324,
+  "lng": -111.94036829999999,
+  "phone": "+14809670456",
+  "website": "https://thirstydog2goaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thirsty+Dog+2+Go/data=!4m7!3m6!1s0x872b08d7f88abd5d:0x80047f3cb68814b5!8m2!3d33.4252324!4d-111.9403683!16s%2Fg%2F1tff81v4!19sChIJXb2K-NcIK4cRtRSItjx_BIA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9224637835498755253",
+  "placeId": "ChIJXb2K-NcIK4cRtRSItjx_BIA",
+  "googleRating": 4.4,
+  "googleReviewCount": 140,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3vCtDS5ZvicxgmKXv3M7nIUGMJEQ1TYOf4FMXrPhydWJWNE0gw5OIxmJcwi5y5id6sq6Ewg3klgQf25onCr4fnd259oHedeieJMTd8HDgPDx6IRmPYyvLOLxXQjjBg7dw7HpF1g=w1200-h800-k-no",
+  "description": "Quirky hot dog stand & convenience market in a vintage post office, also offering postal services.",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 3,
+    "3": 6,
+    "4": 19,
+    "5": 100
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

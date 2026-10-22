@@ -1,0 +1,58 @@
+{
+  "slug": "beyer-appliance-service-tempe",
+  "name": "Beyer Appliance Service",
+  "category": "Shopping",
+  "googleCategory": "Appliance store",
+  "secondaryCategories": [
+    "Appliance parts supplier",
+    "Appliance repair service",
+    "Appliances customer service",
+    "Microwave oven repair service",
+    "Refrigerator repair service",
+    "Refrigerator store",
+    "Used appliance store",
+    "Washer & dryer repair service"
+  ],
+  "address": "2400 W Southern Ave #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3931865,
+  "lng": -111.97282609999999,
+  "phone": "+14806591400",
+  "website": "http://www.beyerapplianceservice.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Beyer+Appliance+Service/data=!4m7!3m6!1s0x872b0ed8a01ba55b:0x4913a4036d0995db!8m2!3d33.3931865!4d-111.9728261!16s%2Fg%2F1wfcplyk!19sChIJW6UboNgOK4cR25UJbQOkE0k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5265732723947443675",
+  "placeId": "ChIJW6UboNgOK4cR25UJbQOkE0k",
+  "googleRating": 4.6,
+  "googleReviewCount": 1041,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_eVxd8XeZetTsRTaqoONdouyDS8JpALZ9YfPZNFXOLXqQAv_-4pqDdbOojAnYDNZX-96ApSq28BcyonXMKnm6rbQretyeptr8Dh_J6qCxmKvh_f3CA5YgZ5lO4CxQucrZ_gx7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 98,
+    "2": 5,
+    "3": 1,
+    "4": 42,
+    "5": 895
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

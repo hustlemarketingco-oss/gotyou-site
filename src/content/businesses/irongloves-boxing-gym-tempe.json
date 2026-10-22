@@ -1,0 +1,47 @@
+{
+  "slug": "irongloves-boxing-gym-tempe",
+  "name": "Irongloves Boxing Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Boxing gym",
+  "address": "1425 E University Dr #B109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.420652,
+  "lng": -111.915053,
+  "phone": "+14807779170",
+  "website": "https://ironglovesboxing.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Irongloves+Boxing+Gym/data=!4m7!3m6!1s0x872b08fac34afdb1:0x6d577f8ef76e3f39!8m2!3d33.420652!4d-111.915053!16s%2Fg%2F1tpf7ld_!19sChIJsf1Kw_oIK4cROT9u945_V20?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7878906325121253177",
+  "placeId": "ChIJsf1Kw_oIK4cROT9u945_V20",
+  "googleRating": 4.8,
+  "googleReviewCount": 231,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZ4k0z0ZDB-JvLhVZvoi-Fwx-hPAAKQQ-x7ZM9vp76JJEVTUIRCghSxRIwoMR5KpYMc7zgiyeyL5aUcRyYAmIUIPTHggnVjoBm8FXTn2OkMnVSguhDrh3j2GAwp5FN94LUAJDobTdaYBhT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 1,
+    "3": 2,
+    "4": 1,
+    "5": 215
+  },
+  "hours": {
+    "mon": "7:30 AM - 8:30 PM",
+    "tue": "7:30 AM - 8:30 PM",
+    "wed": "7:30 AM - 8:30 PM",
+    "thu": "7:30 AM - 8:30 PM",
+    "fri": "7:30 AM - 12:30 PM",
+    "sat": "7:30 AM - 1:00 PM",
+    "sun": "7:30 AM - 1:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

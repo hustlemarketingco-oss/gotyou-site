@@ -1,0 +1,41 @@
+{
+  "slug": "your-perfect-image-tempe",
+  "name": "Your Perfect Image",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2525 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4017446,
+  "lng": -111.9253779,
+  "phone": "+17026245389",
+  "googleMapsUrl": "https://www.google.com/maps/place/Your+Perfect+Image/data=!4m7!3m6!1s0x872b09eddcbcffb7:0x7dc9f8d179729ff5!8m2!3d33.4017446!4d-111.9253779!16s%2Fg%2F11w3ywxlzk!19sChIJt_-83O0JK4cR9Z9yedH4yX0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9064049303629242357",
+  "placeId": "ChIJt_-83O0JK4cR9Z9yedH4yX0",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1FyvB60r1z8CbkxbOgMcOuBkQD_tso-fHpSCFibxW6LuSaNzGwhjfaROG4t2NOZCC0fIkI6u7freoBqghlqR5MEkycOCCec7u7EOdgl9hFl3TJw6J90dze0qAwYn2AqM7PZCU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "8:00 AM - 9:00 AM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

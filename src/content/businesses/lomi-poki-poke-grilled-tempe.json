@@ -14,33 +14,18 @@
   "lng": -111.9094242,
   "phone": "+16027308228",
   "website": "https://www.lomipoketempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9806814405143801682",
+  "googleMapsUrl": "https://www.google.com/maps/place/LOMI+POKI+-+Poke+%26+Grilled/data=!4m7!3m6!1s0x872b078a88baa2c5:0x8818cdbe24c7af52!8m2!3d33.3356502!4d-111.9094242!16s%2Fg%2F11hzms4yhj!19sChIJxaK6iIoHK4cRUq_HJL7NGIg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9806814405143801682",
   "placeId": "ChIJxaK6iIoHK4cRUq_HJL7NGIg",
   "googleRating": 4.8,
-  "googleReviewCount": 156,
+  "googleReviewCount": 162,
   "priceRange": "$10–20",
   "description": "Casual eatery with counter-service dishing out poke bowls & teriyaki dishes, plus lunch specials.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 9:00 PM",
@@ -57,5 +42,13 @@
   "groundgameId": "6a2439e2f08e96b00beae5cf",
   "seededAt": "2026-06-06T15:16:50Z",
   "updatedAt": "2026-06-06T15:16:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 3,
+    "4": 18,
+    "5": 138
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7yVf_hY5P8ZXUS6NjxKOBxXxTQC_XeCJvqEORhiLTrE9E9zOouZVZj09_WuhLygeAChUBzaLvJkHOdwS5JZ9CikM6HgeeMZcYQjiZ0ng7aMCE9dJWox7fOCFYjEcA_wCJcKxavA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

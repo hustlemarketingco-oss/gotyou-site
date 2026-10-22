@@ -1,0 +1,45 @@
+{
+  "slug": "market-sandwich-tempe",
+  "name": "Market Sandwich",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Organic restaurant",
+    "Vegetarian cafe and deli"
+  ],
+  "address": "750 S Ash Ave Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4223669,
+  "lng": -111.9432648,
+  "phone": "+14804561400",
+  "website": "https://www.wholefoodsmarket.com/eateries/market-sandwich-menu?utm_source=google&utm_medium=organic&utm_campaign=listings&ref=US_TRF_ALL_UFG_WFM_FRSEA_1003331",
+  "googleMapsUrl": "https://www.google.com/maps/place/Market+Sandwich/data=!4m7!3m6!1s0x872b09a245210f4b:0x36b354de0b7a1940!8m2!3d33.4223669!4d-111.9432648!16s%2Fg%2F11ym2wn3ym!19sChIJSw8hRaIJK4cRQBl6C95UszY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3941587411531340096",
+  "placeId": "ChIJSw8hRaIJK4cRQBl6C95UszY",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=of9gelBl41iETcLjXJIgnQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=240.38489&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

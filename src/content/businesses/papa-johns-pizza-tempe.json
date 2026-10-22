@@ -1,0 +1,53 @@
+{
+  "slug": "papa-johns-pizza-tempe",
+  "name": "Papa Johns Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Fast food restaurant",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "1813 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922908,
+  "lng": -111.9078509,
+  "phone": "+14808318500",
+  "website": "https://locations.papajohns.com/united-states/az/85282/tempe/1813-southern-avenue?utm_source=gmb&utm_medium=organic&y_source=1_MTA2OTE4NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Papa+Johns+Pizza/data=!4m7!3m6!1s0x872b0880e51cd13d:0x43092b76067c6260!8m2!3d33.3922908!4d-111.9078509!16s%2Fg%2F1td_c440!19sChIJPdEc5YAIK4cRYGJ8BnYrCUM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4830439861246517856",
+  "placeId": "ChIJPdEc5YAIK4cRYGJ8BnYrCUM",
+  "googleRating": 3.1,
+  "googleReviewCount": 260,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLey4yRKWbJ90LQpZuz-vy8cjIc-g0UOBTEYvGo8ZRNoZG20DIyvOoM4WUrnc26Z2nKDhbu7kSW2-IGzl_L7uc-CPaaCwjYmfD43tPqfLXFfCxDIebVQXL_rvXo6fFIxTPAcgrGsig=w1200-h800-k-no",
+  "description": "Pizza take-out & delivery chain offering classic & specialty pizzas, plus wings, sides & desserts.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 100,
+    "2": 12,
+    "3": 16,
+    "4": 33,
+    "5": 99
+  },
+  "hours": {
+    "mon": "9:30 AM - 1:00 AM",
+    "tue": "9:30 AM - 1:00 AM",
+    "wed": "9:30 AM - 1:00 AM",
+    "thu": "9:30 AM - 1:00 AM",
+    "fri": "9:30 AM - 2:00 AM",
+    "sat": "9:30 AM - 2:00 AM",
+    "sun": "9:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

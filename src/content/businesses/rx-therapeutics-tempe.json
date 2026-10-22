@@ -1,0 +1,41 @@
+{
+  "slug": "rx-therapeutics-tempe",
+  "name": "Rx Therapeutics",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "2101 E Broadway Rd Ste 20",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407241899999995,
+  "lng": -111.8974351,
+  "phone": "+17606602899",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rx+Therapeutics/data=!4m7!3m6!1s0x872ba98071f4efbb:0x575553228fdc6003!8m2!3d33.4072419!4d-111.8974351!16s%2Fg%2F11rj6gl7dz!19sChIJu-_0cYCpK4cRA2DcjyJTVVc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6293027462227714051",
+  "placeId": "ChIJu-_0cYCpK4cRA2DcjyJTVVc",
+  "googleRating": 5,
+  "googleReviewCount": 15,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0RmvQh9Ge1lbkCE5wJ2W0g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=234.28227&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 15
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "Closed",
+    "thu": "9:00 AM - 2:30 PM",
+    "fri": "9:00 AM - 2:30 PM",
+    "sat": "7:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

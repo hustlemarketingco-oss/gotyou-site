@@ -1,0 +1,51 @@
+{
+  "slug": "terminal-barber-shop-2-tempe",
+  "name": "Terminal Barber Shop 2",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair salon",
+    "Waxing hair removal service"
+  ],
+  "address": "1135 E Apache Blvd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.41455,
+  "lng": -111.921218,
+  "phone": "+16024992261",
+  "website": "http://www.terminalbarbershopaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Terminal+Barber+Shop+2/data=!4m7!3m6!1s0x872b09a3e56dff13:0x583866b425c2decb!8m2!3d33.41455!4d-111.921218!16s%2Fg%2F11x1y3xkty!19sChIJE_9t5aMJK4cRy97CJbRmOFg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6356943797947129547",
+  "placeId": "ChIJE_9t5aMJK4cRy97CJbRmOFg",
+  "googleRating": 5,
+  "googleReviewCount": 1166,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebz_YYDIn6OWhfjEDUpwKIPdmJRBOuBp0h8jh-daWqMTIG7UWgrjOJpgS4hzJHz1G6sBew8nl-JJbDWVzKgQTN4BR3qol2LXwRYTStje-M5M1l1A0REhMB2hLWGCXbqsUpa-Px-JEezuE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "3": 5,
+    "4": 6,
+    "5": 1149
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "kdc-performing-arts-tempe",
+  "name": "KDC Performing Arts",
+  "category": "Health & Beauty",
+  "googleCategory": "Dance school",
+  "address": "9121 S Roberts Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.33038,
+  "lng": -111.956558,
+  "phone": "+16025497075",
+  "website": "https://kdc.dance/",
+  "googleMapsUrl": "https://www.google.com/maps/place/KDC+Performing+Arts/data=!4m7!3m6!1s0x469a6157c65e87f9:0x57e6e3cdad58c8f3!8m2!3d33.33038!4d-111.956558!16s%2Fg%2F11smmp5tq3!19sChIJ-YdexldhmkYR88hYrc3j5lc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6334000398459259123",
+  "placeId": "ChIJ-YdexldhmkYR88hYrc3j5lc",
+  "googleRating": 5,
+  "googleReviewCount": 62,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4apwXDYgOh_fwh_JHDhRJUdFGvuC5KWVaGDXp7jOyOEOp1ATZn8HYbZPkl6TFV2kdWehsgaF0fx2eOobpcXwH9wh4H1ebYpA7mDmaxGOqrQe3Yv2-YXJd0mv81X8d64akOM0WUg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 62
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "6:30 PM - 8:30 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "5:30 PM - 7:30 PM",
+    "fri": "Closed",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

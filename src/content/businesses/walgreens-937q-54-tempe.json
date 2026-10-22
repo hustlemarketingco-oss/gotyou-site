@@ -1,0 +1,57 @@
+{
+  "slug": "walgreens-937q-54-tempe",
+  "name": "Walgreens",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Contact lenses supplier",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Perfume store",
+    "Stationery store",
+    "Vitamin & supplements store"
+  ],
+  "address": "937Q+54, 6404 S McClintock Dr Walgreens",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3633406,
+  "lng": -111.9117235,
+  "phone": "+14808389200",
+  "website": "https://www.walgreens.com/locator/walgreens-6404+s+mcclintock+dr-tempe-az-85283/id=3768",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walgreens/data=!4m7!3m6!1s0x872b064965f77fd3:0x8b0d29b7a273bdc8!8m2!3d33.3633406!4d-111.9117235!16s%2Fg%2F1tdjrlzl!19sChIJ03_3ZUkGK4cRyL1zorcpDYs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10019710614650469832",
+  "placeId": "ChIJ03_3ZUkGK4cRyL1zorcpDYs",
+  "googleRating": 3,
+  "googleReviewCount": 114,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUa2_MAHFwRhuCyiH7tp_hRunsX6-8N-Xi0xuu_dw0XaadHfrqRWVmullk_6b2kMTF3YLAaLTSpcyEV0GIAjsnX577us1FOz5qM17Kgmw3Q_5jfX9fysqN1chyopQ_F-rbcG6s=w1200-h800-k-no",
+  "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 51,
+    "2": 5,
+    "3": 3,
+    "4": 6,
+    "5": 49
+  },
+  "hours": {
+    "mon": "7:00 AM - 11:00 PM",
+    "tue": "7:00 AM - 11:00 PM",
+    "wed": "7:00 AM - 11:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

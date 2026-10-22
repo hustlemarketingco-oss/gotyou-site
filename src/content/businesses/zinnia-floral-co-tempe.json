@@ -1,0 +1,42 @@
+{
+  "slug": "zinnia-floral-co-tempe",
+  "name": "Zinnia Floral Co",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "address": "1835 E 6th St #8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4238737,
+  "lng": -111.9078254,
+  "phone": "+14803236272",
+  "website": "https://www.zinniafloral.co/pages/contact",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zinnia+Floral+Co/data=!4m7!3m6!1s0x872b08f8553aaaab:0x7c2b9a15ca4b74e6!8m2!3d33.4238737!4d-111.9078254!16s%2Fg%2F11s0skmvs2!19sChIJq6o6VfgIK4cR5nRLyhWaK3w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8947414503080555750",
+  "placeId": "ChIJq6o6VfgIK4cR5nRLyhWaK3w",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchjxpt1S4V17wC_SiZB6XXA5eaqBhod56-MOc9ejyn-sJiPCGmfhGNNmbt8ds3wIE1tGhCX_SQq5iy25YgrRMAStGgAByLkIZC8_MLdogeLCiua_NeDIg_iJ7Twghy4vR-zWLN2w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "shake-smart-tempe",
   "name": "Shake Smart",
   "category": "Coffee & Cafe",
-  "googleCategory": "Acai shop",
+  "googleCategory": "Health food restaurant",
   "secondaryCategories": [
     "Brazilian restaurant"
   ],
@@ -15,8 +15,8 @@
   "phone": "+15122228915",
   "website": "http://www.shakesmart.com/",
   "placeId": "ChIJxWYpx-MJK4cR0NA64FVek_o",
-  "googleRating": 4.5,
-  "googleReviewCount": 79,
+  "googleRating": 4.4,
+  "googleReviewCount": 80,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 7:00 PM",
@@ -33,5 +33,21 @@
   "groundgameId": "6a6a6fec30ab09dd6147ff82",
   "seededAt": "2026-07-29T21:26:04Z",
   "updatedAt": "2026-07-29T22:31:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18055879053985632464",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shake+Smart/data=!4m7!3m6!1s0x872b09e3c72966c5:0xfa935e55e03ad0d0!8m2!3d33.4158184!4d-111.9323308!16s%2Fg%2F11fnbfpq82!19sChIJxWYpx-MJK4cR0NA64FVek_o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 3,
+    "4": 6,
+    "5": 62
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLep2uqxrdl4gv3_ZP_m1sZGKuy9Adqq2etjaot2EwlJtLUKb071WX2-k6xfXO44hyVwpA_-q6MkrvZChHDeW5d-WCRVi1vPBUfnlX-hxF6gKmGjavxTlOYfqeqtNpMj5nBdEOMi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

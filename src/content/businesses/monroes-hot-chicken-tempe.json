@@ -11,35 +11,18 @@
   "lng": -111.9270891,
   "phone": "+14806870007",
   "website": "http://monroeshotchicken.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17052858846049817826",
+  "googleMapsUrl": "https://www.google.com/maps/place/Monroe%27s+Hot+Chicken+-+Tempe/data=!4m7!3m6!1s0x872b0920dfa0c949:0xeca7ecc543ad54e2!8m2!3d33.4341123!4d-111.9270891!16s%2Fg%2F11mvwrfhpg!19sChIJScmg3yAJK4cR4lStQ8Xsp-w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17052858846049817826",
   "placeId": "ChIJScmg3yAJK4cR4lStQ8Xsp-w",
   "googleRating": 4,
-  "googleReviewCount": 631,
+  "googleReviewCount": 638,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Monroe's Hot Chicken - Tempe is a casual, trendy chicken restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Organic dishes",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -56,5 +39,14 @@
   "groundgameId": "6a24363f3d74d8becd656654",
   "seededAt": "2026-06-06T15:01:19Z",
   "updatedAt": "2026-09-14T22:23:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 85,
+    "2": 37,
+    "3": 49,
+    "4": 93,
+    "5": 374
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclAadae7W7nSGNWCN0EhzI-py5sne0pCVdkmveo55TiBqD7Co9E9GX3XZZlfmkSDJ3MkJngHirmsCgaO9CR2LYUNLkD1_46xZbygc5zX4DalXDxw3MPOISFTDY3rAkl6lr83j6eA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

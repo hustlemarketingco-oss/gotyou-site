@@ -1,0 +1,50 @@
+{
+  "slug": "wing-lam-enterprises-tempe",
+  "name": "Wing Lam Enterprises",
+  "category": "Health & Beauty",
+  "googleCategory": "Martial arts supply store",
+  "secondaryCategories": [
+    "Knife store",
+    "Kung fu school",
+    "Training center"
+  ],
+  "address": "929 W 23rd St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4033656,
+  "lng": -111.95362259999999,
+  "phone": "+14808428818",
+  "website": "http://wle.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wing+Lam+Enterprises/data=!4m7!3m6!1s0x872b0f8506f56d8d:0x1231032e41867d2e!8m2!3d33.4033656!4d-111.9536226!16s%2Fg%2F11h3bfpvwk!19sChIJjW31BoUPK4cRLn2GQS4DMRI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1310832463744236846",
+  "placeId": "ChIJjW31BoUPK4cRLn2GQS4DMRI",
+  "googleRating": 3.8,
+  "googleReviewCount": 35,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-lE-r1b6bxp9VS2JVs8j3xx8Qk5eDZQ60zicCKTnQp2asO1YleulY4TNLr_wdtkkpjspPyz8fC66Q596oUkvnR1t0AjWsrGQNvYO3zQJur-f5tHZjFcEgQbLuEvJh_L0z-a0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "3": 2,
+    "4": 1,
+    "5": 23
+  },
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "tempe-nails-spa-tempe",
+  "name": "Tempe Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "851 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421247,
+  "lng": -111.9516658,
+  "phone": "+14809663931",
+  "website": "https://tempenailsandspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Nails+%26+Spa/data=!4m7!3m6!1s0x872b08d52990b183:0xe8d7e6b7988290de!8m2!3d33.421247!4d-111.9516658!16s%2Fg%2F11f1mvs1_m!19sChIJg7GQKdUIK4cR3pCCmLfm1-g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16778132613004169438",
+  "placeId": "ChIJg7GQKdUIK4cR3pCCmLfm1-g",
+  "googleRating": 4.3,
+  "googleReviewCount": 190,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpcspZ9H8L5EgcLZbGsqb96veWfEBiQVyZJrrNltJ-gNhjrEdWJ5EalaqVnL2Sf2NvPCPz9f6qihKOl2oKDBFlJiA7Xze5HrvL1fF5-JtN2dK9Ip8Wr8T1NgxCeT1bSVYgqsYeeusEo-xO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 9,
+    "3": 5,
+    "4": 10,
+    "5": 144
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

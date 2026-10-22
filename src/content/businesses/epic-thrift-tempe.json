@@ -1,0 +1,44 @@
+{
+  "slug": "epic-thrift-tempe",
+  "name": "Epic Thrift",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Charity",
+    "Consignment shop",
+    "Donations center",
+    "Men's clothing store",
+    "Used clothing store",
+    "Vintage clothing store",
+    "Women's clothing store"
+  ],
+  "address": "1717 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392874,
+  "lng": -111.91008099999999,
+  "phone": "+18556363742",
+  "googleMapsUrl": "https://www.google.com/maps/place/Epic+Thrift/data=!4m7!3m6!1s0x872b0883e6e7d71d:0x1f80e7a8b7bfe2a9!8m2!3d33.392874!4d-111.910081!16s%2Fg%2F11b5ynm9nq!19sChIJHdfn5oMIK4cRqeK_t6jngB8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2270068924018057897",
+  "placeId": "ChIJHdfn5oMIK4cRqeK_t6jngB8",
+  "googleRating": 4,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeynQ1Z0Hgr_DKmgOt2NVVuJ44hnzQb64-4UOe3-lHcYPI46UUdvpriCMfw1z48lLoABTUhqMtc3RComLECyHtKOLIWDnm1UXXpWEPC1TVkyACA1fkYMT8RwEJqgnp1gmXKIH5t=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 2,
+    "4": 5,
+    "5": 5
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -14,34 +14,17 @@
   "lng": -111.9602302,
   "phone": "+14809677008",
   "website": "http://www.tokyo-stop.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10227904456272211245",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tokyo+Stop/data=!4m7!3m6!1s0x872b0f29da534779:0x8df0d0e9c8bd6d2d!8m2!3d33.4212413!4d-111.9602302!16s%2Fg%2F1tq4rk44!19sChIJeUdT2ikPK4cRLW29yOnQ8I0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10227904456272211245",
   "placeId": "ChIJeUdT2ikPK4cRLW29yOnQ8I0",
   "googleRating": 4.5,
-  "googleReviewCount": 505,
+  "googleReviewCount": 516,
   "priceRange": "$10–20",
   "description": "Unassuming counter-service restaurant offering popular Japanese fare such as teriyaki & yakisoba.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay",
-    "Healthy options",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "9:00 AM - 6:00 PM",
@@ -58,5 +41,14 @@
   "groundgameId": "6a243823a372f03cf6e59bf9",
   "seededAt": "2026-06-06T15:09:23Z",
   "updatedAt": "2026-08-06T18:43:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 14,
+    "3": 26,
+    "4": 67,
+    "5": 381
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3KOHhY9ewKi3ELDOWhA_MAKZEGUvltFK_poipi0s6lXC7oUFQTuuLtjHOpRZ_HvWPS1vQGOGyGDSA6f8YHfI-sKcpZRzeHGZM8jHI8m1U-GboJ7YMlidnN9FG-aRL6B9yUhTgfw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

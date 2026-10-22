@@ -1,0 +1,57 @@
+{
+  "slug": "sbarro-tempe",
+  "name": "Sbarro",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Italian restaurant",
+    "Takeout Restaurant",
+    "Pasta shop",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3833876,
+  "lng": -111.96487739999999,
+  "phone": "+14807247349",
+  "website": "https://sbarro.com/locations/az/tempe/arizona-mills/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sbarro/data=!4m7!3m6!1s0x872b0f5a143e5253:0x769e85440c7bbfd6!8m2!3d33.3833876!4d-111.9648774!16s%2Fg%2F12hldmftf!19sChIJU1I-FFoPK4cR1r97DESFnnY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8547415670109487062",
+  "placeId": "ChIJU1I-FFoPK4cR1r97DESFnnY",
+  "googleRating": 3,
+  "googleReviewCount": 174,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4cueorvlcp9paGYlBy4M5wpbMUKGU6dNRBdFZGbwLoIj8D4jql_MTTCchrP2U1b_tgjGdhlYiCAVG0ebohm40NlF78BOJQX6tabfjGaADGyv3eAOJoWLX6qnjl8NkJfeMSjXY=w1200-h800-k-no",
+  "description": "Italian fast-food chain offering thin-crust pizza by the slice, plus pastas & salads.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 69,
+    "2": 11,
+    "3": 7,
+    "4": 20,
+    "5": 67
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:30 PM",
+    "tue": "10:00 AM - 7:30 PM",
+    "wed": "10:00 AM - 7:30 PM",
+    "thu": "10:00 AM - 7:30 PM",
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "10:00 AM - 8:30 PM",
+    "sun": "11:00 AM - 6:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

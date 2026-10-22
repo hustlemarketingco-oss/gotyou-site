@@ -1,0 +1,53 @@
+{
+  "slug": "carls-jr-tempe",
+  "name": "Carl's Jr.",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Western restaurant"
+  ],
+  "address": "1210 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4422828,
+  "lng": -111.92696339999999,
+  "phone": "+14809660554",
+  "website": "https://locations.carlsjr.com/az/tempe/1210-n-scottsdale-rd",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carl%27s+Jr./data=!4m7!3m6!1s0x872b0916362e61c1:0x8e07080c8293e04d!8m2!3d33.4422828!4d-111.9269634!16s%2Fg%2F1pzv74v7_!19sChIJwWEuNhYJK4cRTeCTggwIB44?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10234157528046100557",
+  "placeId": "ChIJwWEuNhYJK4cRTeCTggwIB44",
+  "googleRating": 3.7,
+  "googleReviewCount": 1083,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7nzR9H4G-Gkf0Xe7ypKePcpuAAGQjhJW3eCcbHGTQYyruLswC3Ak5CKspIVmUfTuH_myPXL0G4yWork5tlFr4WsIg0_Ktcgev3Pl_C4YhzsWMi7U-Qt-t44Yg5z8I__t4yfUuyw=w1200-h800-k-no",
+  "description": "Fast-food chain known for its variety of piled-high burgers & meal combos, plus shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 172,
+    "2": 64,
+    "3": 168,
+    "4": 218,
+    "5": 461
+  },
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "6:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

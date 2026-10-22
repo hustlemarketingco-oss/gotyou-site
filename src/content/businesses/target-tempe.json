@@ -16,23 +16,23 @@
   "source": "groundgame",
   "placeId": "ChIJeYaeYP4IK4cRNO8nFx9lyjA",
   "googleCid": "3515733643322978100",
-  "googleMapsUrl": "https://maps.google.com/?cid=3515733643322978100",
+  "googleMapsUrl": "https://www.google.com/maps/place/Target/data=!4m7!3m6!1s0x872b08fe609e8679:0x30ca651f1727ef34!8m2!3d33.429876!4d-111.905858!16s%2Fg%2F1v3dslfd!19sChIJeYaeYP4IK4cRNO8nFx9lyjA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.1,
-  "googleReviewCount": 925,
+  "googleReviewCount": 929,
   "ratingBreakdown": {
     "1": 130,
     "2": 28,
     "3": 52,
-    "4": 170,
-    "5": 545
+    "4": 171,
+    "5": 548
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxfiNRmRdnIrjGfgZmP4fDOfw5-rVU_uO24cSVg1QtBRp75hYq62B9t-zJum-F94OoqDPGmpprQLcDnvgJTat2bT5wIFLTeRcWptHV2TpBCRtdNQ70ArsDWyuQJeKfeNn-lTTJGjkujOa_=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWULepiHsveFTBR51hmJpiZLnVReK1t9X9kEGNcNqHibT0gT3W5u0xJwZPQCjrlZoEbklmBpZcuonZi-R0tevyfis5Jft1xgUwyCjniKLR6OrMwX1qJY3SzI1NyQcx6TeozRV619Kk5F8Q=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "8 AM - 10 PM",
     "tue": "8 AM - 10 PM",
@@ -44,5 +44,16 @@
   },
   "website": "https://www.target.com/sl/tempe-rio-salado/2176",
   "lat": 33.4298757,
-  "lng": -111.90585829999999
+  "lng": -111.90585829999999,
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Baby store",
+    "Clothing store",
+    "Electronics store",
+    "Furniture store",
+    "Home goods store",
+    "Office supply store",
+    "Outdoor furniture store",
+    "Shoe store"
+  ]
 }

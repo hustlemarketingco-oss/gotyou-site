@@ -11,19 +11,10 @@
   "priceRange": "$20–50",
   "description": "Located in Tempe, Alibi is a romantic, trendy bar with alcohol & beer, dine-in. Popular for solo dining.",
   "amenities": [
-    "Outdoor seating",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Romantic",
-    "Trendy",
-    "Free parking lot",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/alibitempe"
@@ -34,5 +25,34 @@
   "groundgameId": "6a24378e55e88740d5eccf81",
   "seededAt": "2026-06-06T15:06:54Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJS5xj7pEJK4cRxJTmxBdC9Ko",
+  "googleCid": "12318543550620275908",
+  "googleMapsUrl": "https://www.google.com/maps/place/Alibi/data=!4m7!3m6!1s0x872b0991ee639c4b:0xaaf44217c4e694c4!8m2!3d33.4222604!4d-111.9377574!16s%2Fg%2F11j5kt8rsc!19sChIJS5xj7pEJK4cRxJTmxBdC9Ko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 457,
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 7,
+    "3": 13,
+    "4": 38,
+    "5": 389
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcKc9AgIeWfoSoIWDqOPJc-lq9Ati9JUOyoNWG7xThwkqKp5pUoBjfpWi9rk5Ix6xseYVS2IU2Sru0zQ6mlFYBbGSVlU5cYOIiVgkT_tIoCiLnaJT_m0a0b1g7EYOysxp-fHMyMcuTb0GY=w1200-h800-k-no",
+  "website": "https://www.alibitempe.com/",
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "1:00 PM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "lat": 33.4222604,
+  "lng": -111.9377574,
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

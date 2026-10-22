@@ -1,0 +1,35 @@
+{
+  "slug": "mexico-en-vaso-tempe",
+  "name": "Mexico En Vaso",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "325 W Elliot Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3486749,
+  "lng": -111.9449133,
+  "googleMapsUrl": "https://www.google.com/maps/place/Mexico+En+Vaso/data=!4m7!3m6!1s0x872b07000af91cc5:0x8adcf35cc2633525!8m2!3d33.3486749!4d-111.9449133!16s%2Fg%2F11whz2g60q!19sChIJxRz5CgAHK4cRJTVjwlzz3Io?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10006140051834221861",
+  "placeId": "ChIJxRz5CgAHK4cRJTVjwlzz3Io",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgjlLHt8--8bq4L35ddncRwfIgyFfV8-0n-I91HxGrfsOvtuPKbNWx-FEgu_5HFHX4gLnDr7ZZC4-2xCGzK1eg31ud0tnUWm2iiXru1Iy_X0blXE_qvqTAXjCe1SWg8UkmC2M=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 5:00 PM",
+    "sat": "1:00 PM - 5:00 PM",
+    "sun": "2:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

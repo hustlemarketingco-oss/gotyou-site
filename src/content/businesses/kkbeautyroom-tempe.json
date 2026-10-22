@@ -1,0 +1,43 @@
+{
+  "slug": "kkbeautyroom-tempe",
+  "name": "KKBeautyRoom",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "6601 S Rural Rd Ste 30",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+14255409873",
+  "website": "https://www.instagram.com/kk.nails.by.ksenia/",
+  "googleMapsUrl": "https://www.google.com/maps/place/KKBeautyRoom/data=!4m7!3m6!1s0x872b07e17bcef8e5:0x165cdfd21e72fdaf!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11n47_hlq9!19sChIJ5fjOe-EHK4cRr_1yHtLfXBY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1611408860238773679",
+  "placeId": "ChIJ5fjOe-EHK4cRr_1yHtLfXBY",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdytqCegJFD2J1VBrwI_i8_0QRPHkruhlm5GZzxFrwKiOCq7qfr8jVbu0vAxgjq_0bYtWPsCGr_VCjaTd8Gk7ERaBHGzk1a9YAZz0CX4O7mkAuLdOFhg0BM1VbvGOL7yQzntjrfih35F2k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

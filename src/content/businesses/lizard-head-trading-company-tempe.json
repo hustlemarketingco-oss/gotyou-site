@@ -1,0 +1,42 @@
+{
+  "slug": "lizard-head-trading-company-tempe",
+  "name": "Lizard Head Trading Company",
+  "category": "Shopping",
+  "googleCategory": "Used clothing store",
+  "address": "516 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424881899999995,
+  "lng": -111.9402789,
+  "phone": "+16234451635",
+  "website": "https://lizardheadtrading.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lizard+Head+Trading+Company/data=!4m7!3m6!1s0x872b09212e3ec641:0x9e0fc3ad9ab5b4a3!8m2!3d33.4248819!4d-111.9402789!16s%2Fg%2F11n44sl_1h!19sChIJQcY-LiEJK4cRo7S1mq3DD54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11389537133035631779",
+  "placeId": "ChIJQcY-LiEJK4cRo7S1mq3DD54",
+  "googleRating": 5,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePLi17b_PYeoBAdjfzLk1YzfGl-t6wEZ9lryAAhpvi4Hp-65bYkCp9RGjCobnjr2a8CuXkin81-Ej3CvdFNrvfkge0x8Rsb-f2-zS9vO3tvSD03YHOI5K-6RLpRXxkJK2DOw-wVpVZPNUL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 17
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

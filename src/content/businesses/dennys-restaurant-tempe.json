@@ -1,0 +1,52 @@
+{
+  "slug": "dennys-restaurant-tempe",
+  "name": "Denny's Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Diner"
+  ],
+  "address": "1343 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407095,
+  "lng": -111.9597763,
+  "phone": "+14809663136",
+  "website": "https://locations.dennys.com/AZ/TEMPE/248552?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/Denny%27s+Restaurant/data=!4m7!3m6!1s0x872b0f314735b869:0xcf2cbb969b91c198!8m2!3d33.407095!4d-111.9597763!16s%2Fg%2F1tfc2h14!19sChIJabg1RzEPK4cRmMGRm5a7LM8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14928513120355860888",
+  "placeId": "ChIJabg1RzEPK4cRmMGRm5a7LM8",
+  "googleRating": 4.1,
+  "googleReviewCount": 2448,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV3jSYQa_aC6PfdoHqPPTl3iHGaNAqwdPjeSLitD-iSjL6C8kHKSzlOwIuR-MK1s9l2CPYJrPKBH3LE9SAIENhdBxDOWPHlC2hTdTKIVHi0q7qUUgj60bQs7Bp6OTZgufMqBF9L95hM40K=w1200-h800-k-no",
+  "description": "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 235,
+    "2": 115,
+    "3": 237,
+    "4": 516,
+    "5": 1345
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

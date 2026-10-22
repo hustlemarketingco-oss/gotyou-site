@@ -1,0 +1,43 @@
+{
+  "slug": "haus-of-cici-tempe",
+  "name": "HAUS OF CICI",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "615 S Farmer Ave Suite 1004",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4236078,
+  "lng": -111.9441701,
+  "phone": "+17606792433",
+  "website": "http://hausofcici.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/HAUS+OF+CICI/data=!4m7!3m6!1s0x872b095c023da1e1:0xda5df845fc91d821!8m2!3d33.4236078!4d-111.9441701!16s%2Fg%2F11vdnrm90c!19sChIJ4aE9AlwJK4cRIdiR_EX4Xdo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15735005652576229409",
+  "placeId": "ChIJ4aE9AlwJK4cRIdiR_EX4Xdo",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hk4knB6SS7usLexCyuwY4A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=83.954735&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "subway-1290-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "1290 S Normal Ave #138",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.417462,
+  "lng": -111.934416,
+  "phone": "+14809659568",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/1290-s-normal-avenue?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=53238&utm_campaign=evergreen-2020&y_source=1_MTQ4OTQyNTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b08e9a864fb39:0x534546c2b41a99de!8m2!3d33.417462!4d-111.934416!16s%2Fg%2F1pw3xqdp7!19sChIJOftkqOkIK4cR3pkatMJGRVM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6000279880600295902",
+  "placeId": "ChIJOftkqOkIK4cR3pkatMJGRVM",
+  "googleRating": 3.5,
+  "googleReviewCount": 59,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBS-uYlML6zgh_98VizoztmnA2O9ePVf5NWdXq9WoMNBM3pUYr49NvBkH_qin_w9HB-JJLOcicMX-HKF9kYVEMa6utcVQnzTEyXutT0f1Q7Vyb6GNhAi1gZL2_NFm6Ajm6G82V=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 6,
+    "3": 3,
+    "4": 7,
+    "5": 29
+  },
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

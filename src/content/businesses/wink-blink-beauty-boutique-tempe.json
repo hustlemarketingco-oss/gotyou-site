@@ -1,0 +1,47 @@
+{
+  "slug": "wink-blink-beauty-boutique-tempe",
+  "name": "Wink & Blink Beauty Boutique",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "secondaryCategories": [
+    "Eyebrow bar",
+    "Tanning salon",
+    "Waxing hair removal service"
+  ],
+  "address": "2101 E Broadway Rd #15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407242,
+  "lng": -111.8974045,
+  "phone": "+19288638098",
+  "website": "http://www.winkandblinkbeautybtq.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wink+%26+Blink+Beauty+Boutique/data=!4m7!3m6!1s0x872b09e449a5025b:0x110677894f0d93fd!8m2!3d33.407242!4d-111.8974045!16s%2Fg%2F11sf6ssxpw!19sChIJWwKlSeQJK4cR_ZMNT4l3BhE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1226799380125553661",
+  "placeId": "ChIJWwKlSeQJK4cR_ZMNT4l3BhE",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8TDlYRKzzzA8IsZftZsYPb2-lsohGlcLonNSOJPWHQt6Qp8OzMNtyW1nTnXZowcqOzWs5AxW88Y_OAGY5mzexYO3D4hfNIFJlGht4bSx8g6Sr2W2TchcE1a16xtemxPXz_PbT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 3:30 PM",
+    "wed": "11:00 AM - 3:30 PM",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

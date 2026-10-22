@@ -1,0 +1,43 @@
+{
+  "slug": "shiomara-xv-boutique-tempe",
+  "name": "Shiomara XV Boutique",
+  "category": "Shopping",
+  "googleCategory": "Dress store",
+  "address": "963 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3632257,
+  "lng": -111.9269977,
+  "phone": "+14807999377",
+  "website": "https://shiomaraxvboutique.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shiomara+XV+Boutique/data=!4m7!3m6!1s0x872b07fc709c0c39:0x89404fdcf0be8211!8m2!3d33.3632257!4d-111.9269977!16s%2Fg%2F11rxymqnsj!19sChIJOQyccPwHK4cREYK-8NxPQIk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9889992592056025617",
+  "placeId": "ChIJOQyccPwHK4cREYK-8NxPQIk",
+  "googleRating": 4.6,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-_hfik7zh10hi8jfAFddqTYavX7oVQNTFUr6lyK27xUd-3lItcRIsMKOKGU1H1r6RCeXl9bWO6K90_J0aKVYN3dtCjLCiASGDQx09IEyUh-55NJRwbS8vr6f8jFMZofT0DRCa1A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 9
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "1:15 PM - 6:00 PM",
+    "thu": "1:15 PM - 6:00 PM",
+    "fri": "12:00 PM - 6:00 PM",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

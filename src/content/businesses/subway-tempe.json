@@ -1,0 +1,55 @@
+{
+  "slug": "subway-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "808 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216531,
+  "lng": -111.96182069999999,
+  "phone": "+14805570897",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/808-s-priest?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=36754&utm_campaign=evergreen-2020&y_source=1_MTQ5MDkyNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b0f282ee5d10d:0x3394ba4f50a69478!8m2!3d33.4216531!4d-111.9618207!16s%2Fg%2F1thq1523!19sChIJDdHlLigPK4cReJSmUE-6lDM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3716800442305778808",
+  "placeId": "ChIJDdHlLigPK4cReJSmUE-6lDM",
+  "googleRating": 3.9,
+  "googleReviewCount": 364,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffoHp26S2OvWpev-liLKeJaFFvBvR5yam69MVOu_fVlYkqU3mGLHkxPfgRt5jgTwDDvYmjW4c-rV7QtmBtfKuiOZqjSrwTjGbthTCiICnzk3KMuougMDNoBtq2udETs4qhWkI=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 57,
+    "2": 12,
+    "3": 31,
+    "4": 72,
+    "5": 192
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

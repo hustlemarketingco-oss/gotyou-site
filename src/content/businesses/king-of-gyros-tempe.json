@@ -2,7 +2,7 @@
   "slug": "king-of-gyros-tempe",
   "name": "King of Gyros",
   "category": "Restaurant",
-  "googleCategory": "Greek restaurant",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Falafel restaurant",
     "Family restaurant",
@@ -21,33 +21,18 @@
   "lng": -111.9618559,
   "phone": "+14804203500",
   "website": "https://kingofgyrosaz.com/kingofgyros-tempe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=639536673407432108",
+  "googleMapsUrl": "https://www.google.com/maps/place/King+of+Gyros/data=!4m7!3m6!1s0x872b042d1a226781:0x8e017374f48f5ac!8m2!3d33.3349839!4d-111.9618559!16s%2Fg%2F11btysg0xy!19sChIJgWciGi0EK4cRrPVITzcX4Ag?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "639536673407432108",
   "placeId": "ChIJgWciGi0EK4cRrPVITzcX4Ag",
   "googleRating": 4.5,
-  "googleReviewCount": 1214,
+  "googleReviewCount": 1252,
   "priceRange": "$10–20",
   "description": "Unfussy counter-serve with a mural of the Chicago skyline & Greek eats such as gyros & souvlaki.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 8:00 PM",
@@ -64,5 +49,14 @@
   "groundgameId": "6a243a33a2cca0682e4554b1",
   "seededAt": "2026-06-06T15:18:11Z",
   "updatedAt": "2026-06-06T15:18:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 28,
+    "3": 66,
+    "4": 201,
+    "5": 918
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4ifDb3b381-g88kayCyjXsHtZeTUypOfV3FwTpyCV6w1_WtEgwFzghKYr7sxuuZFMmzDu3mPL7NWWq1fKCpithS4N5fqHEh4nBUgvDuDZbKopeS2EgfB4Wku13zDUKLm_Us0r=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

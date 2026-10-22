@@ -1,0 +1,52 @@
+{
+  "slug": "polibertos-tempe",
+  "name": "Poliberto’s",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Restaurant"
+  ],
+  "address": "1219 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3779694,
+  "lng": -111.9569583,
+  "phone": "+14807756484",
+  "website": "https://polibertos.shop/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Poliberto%E2%80%99s/data=!4m7!3m6!1s0x872b05ff23323f45:0x8c4d40f1d51c09ad!8m2!3d33.3779694!4d-111.9569583!16s%2Fg%2F1tf6xtgb!19sChIJRT8yI_8FK4cRrQkc1fFATYw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10109808145923312045",
+  "placeId": "ChIJRT8yI_8FK4cRrQkc1fFATYw",
+  "googleRating": 4.3,
+  "googleReviewCount": 1836,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvU_luaQKBjWv0dpYW7LyNsffHwWI3xvRTssnpK5ri8NK79O21k2N_1f3ZWWPvi2WG4XFmGg9nTXh4pscJmdVm0HUpFi7-2N1v-AVobPRGqls8adw46pUODCTezf1PzqXiDV_x=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 87,
+    "2": 60,
+    "3": 156,
+    "4": 404,
+    "5": 1129
+  },
+  "hours": {
+    "mon": "9:30 AM - 11:00 PM",
+    "tue": "9:30 AM - 11:00 PM",
+    "wed": "9:30 AM - 11:00 PM",
+    "thu": "9:30 AM - 11:00 PM",
+    "fri": "9:30 AM - 11:00 PM",
+    "sat": "9:30 AM - 11:00 PM",
+    "sun": "9:30 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

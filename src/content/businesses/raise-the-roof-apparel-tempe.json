@@ -1,0 +1,40 @@
+{
+  "slug": "raise-the-roof-apparel-tempe",
+  "name": "Raise the Roof Apparel",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Professional services",
+    "Sportswear store"
+  ],
+  "address": "2020 W 4th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.427121899999996,
+  "lng": -111.9711715,
+  "phone": "+14809213966",
+  "website": "http://www.sportexapparel.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raise+the+Roof+Apparel/data=!4m7!3m6!1s0x872b0edc830cd5bf:0x33f0a228c9ca6033!8m2!3d33.4271219!4d-111.9711715!16s%2Fg%2F1tk6qsn7!19sChIJv9UMg9wOK4cRM2DKySii8DM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3742669586412757043",
+  "placeId": "ChIJv9UMg9wOK4cRM2DKySii8DM",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

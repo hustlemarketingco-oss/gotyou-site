@@ -1,0 +1,51 @@
+{
+  "slug": "taco-bell-1801-tempe",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1801 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3633318,
+  "lng": -111.9106989,
+  "phone": "+14807560991",
+  "website": "https://locations.tacobell.com/az/tempe/1801-east-guadalupe.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=022633&utm_content=website&y_source=1_NjE0NTY5Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x872b06495e5cb935:0x9667edb3c8115b0e!8m2!3d33.3633318!4d-111.9106989!16s%2Fg%2F1tfd2w6m!19sChIJNblcXkkGK4cRDlsRyLPtZ5Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10837892384701897486",
+  "placeId": "ChIJNblcXkkGK4cRDlsRyLPtZ5Y",
+  "googleRating": 3.8,
+  "googleReviewCount": 440,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZcD4MEWi23YxY341DtfwqSkhQm_bhlb5A9ILcbRdH-i5qC3T6bpEzUabQStsrz1tdqkW9-X7172okaVL7okpoKWR4x9ydppsa4iTvqpjY6hxR08Ch7Tof7K6vW6sDSHmD1KFa=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 72,
+    "2": 22,
+    "3": 47,
+    "4": 89,
+    "5": 210
+  },
+  "hours": {
+    "mon": "7:00 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:00 AM - 1:00 AM",
+    "sat": "7:00 AM - 1:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

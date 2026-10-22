@@ -1,0 +1,42 @@
+{
+  "slug": "kae-stylez-beauty-studio-tempe",
+  "name": "Kae Stylez Beauty Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "227 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777948,
+  "lng": -111.9358757,
+  "phone": "+16026077109",
+  "website": "https://kaestylezbeautystudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kae+Stylez+Beauty+Studio/data=!4m7!3m6!1s0x872b0928944ea89d:0xcc7e183ac6ae92fb!8m2!3d33.3777948!4d-111.9358757!16s%2Fg%2F11q368djp8!19sChIJnahOlCgJK4cR-5KuxjoYfsw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14735241671523341051",
+  "placeId": "ChIJnahOlCgJK4cR-5KuxjoYfsw",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJiGSyuzIJBCCJS095rJa_6rL9BO27nYLzE88Nsbon1lBgh8Y1FFODdP6VCMFnAgjoqSmUiFkX6iDLEFexGbkPdm85mrw8nhW_SsvnnrG_x1N_zrOqB3Iee_GpTGpREuEzmzbt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

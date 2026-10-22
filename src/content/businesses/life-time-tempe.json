@@ -1,0 +1,57 @@
+{
+  "slug": "life-time-tempe",
+  "name": "Life Time",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Gym",
+    "Indoor cycling",
+    "Pickleball court",
+    "Pilates studio",
+    "Rock climbing gym",
+    "Tennis court",
+    "Yoga studio"
+  ],
+  "address": "1616 W Ruby Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3413432,
+  "lng": -111.9643591,
+  "phone": "+14807355230",
+  "website": "https://www.lifetime.life/locations/az/tempe.html?utm_source=google&utm_medium=local&utm_campaign=google-local-club",
+  "googleMapsUrl": "https://www.google.com/maps/place/Life+Time/data=!4m7!3m6!1s0x872b05cdfb4fdf07:0x2537c5b728615fc6!8m2!3d33.3413432!4d-111.9643591!16s%2Fg%2F1tk6_zjw!19sChIJB99P-80FK4cRxl9hKLfFNyU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2681829493569576902",
+  "placeId": "ChIJB99P-80FK4cRxl9hKLfFNyU",
+  "googleRating": 4.2,
+  "googleReviewCount": 684,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX6XnDlRflJYhChqrTzvAWUQOWhPcL-ZmXr_HO8Xf1sWWWQkxzC3UjZ-8z2AymiQ72OeqJnbWyd7KeOpzTelzVw-AFPZ5TFKY1NUUVoahkfjvjZ4sSA-zT31zQSEoa2JMmWHOhJg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 90,
+    "2": 23,
+    "3": 26,
+    "4": 68,
+    "5": 477
+  },
+  "hours": {
+    "mon": "4:00 AM - 12:00 AM",
+    "tue": "4:00 AM - 12:00 AM",
+    "wed": "4:00 AM - 12:00 AM",
+    "thu": "4:00 AM - 12:00 AM",
+    "fri": "4:00 AM - 12:00 AM",
+    "sat": "5:00 AM - 10:00 PM",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

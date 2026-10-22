@@ -15,8 +15,8 @@
   "phone": "+15205400017",
   "website": "https://nazshalal.com/",
   "placeId": "ChIJQQQp7FgJK4cRJlElVp5S4pk",
-  "googleRating": 4.7,
-  "googleReviewCount": 157,
+  "googleRating": 4.6,
+  "googleReviewCount": 311,
   "hours": {
     "mon": "10:30 AM - 2:00 AM",
     "tue": "10:30 AM - 2:00 AM",
@@ -32,5 +32,20 @@
   "groundgameId": "6a4d4458a351b1a69d3b12c7",
   "seededAt": "2026-07-07T18:24:24Z",
   "updatedAt": "2026-08-05T22:04:00Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11088516072543179046",
+  "googleMapsUrl": "https://www.google.com/maps/place/Naz%27s+Halal+Food+-+Phoenix/data=!4m7!3m6!1s0x872b0958ec290441:0x99e2529e56255126!8m2!3d33.4226436!4d-111.9512167!16s%2Fg%2F11wvp_3l3y!19sChIJQQQp7FgJK4cRJlElVp5S4pk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 8,
+    "3": 4,
+    "4": 9,
+    "5": 270
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEwYUoZSY-SYCB72iTQAHiwPqaElQ8c82---I_2g-5VLYVXY2vIM9kvTpCIlo92waXrxrYibNcblC3AIDhJ6N_DwnyVMEm0a8pI4bYHIl0LLnZRZ2zkJGyr7RtmwrOUddYIBDbzT8aXBfj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

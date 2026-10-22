@@ -1,0 +1,51 @@
+{
+  "slug": "salazar-brothers-mexican-food-tempe",
+  "name": "Salazar Brothers Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "926 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3642015,
+  "lng": -111.9276304,
+  "phone": "+14808394474",
+  "website": "https://salazarbrothersmexicanfood.shop/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Salazar+Brothers+Mexican+Food/data=!4m7!3m6!1s0x872b064008652a65:0xa6ef6d50bc6c75f5!8m2!3d33.3642015!4d-111.9276304!16s%2Fg%2F11b5zyrlpx!19sChIJZSplCEAGK4cR9XVsvFBt76Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12028953323255920117",
+  "placeId": "ChIJZSplCEAGK4cR9XVsvFBt76Y",
+  "googleRating": 4.4,
+  "googleReviewCount": 943,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbNR0X7XJMw6_RTrCVKFuU2di6yL0toPvPTRf29xDF-VoUtf5W47Ubdhpv3Cj9bHV7nXkparrM6V_YBsmxIjRt02R64yYEznaWy6SfUqcXWtY4MGsPMhGVwU6LGGqoN3Toq60=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 24,
+    "3": 74,
+    "4": 171,
+    "5": 640
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:30 PM",
+    "tue": "6:00 AM - 11:30 PM",
+    "wed": "6:00 AM - 11:30 PM",
+    "thu": "6:00 AM - 11:30 PM",
+    "fri": "6:00 AM - 11:30 PM",
+    "sat": "6:00 AM - 11:30 PM",
+    "sun": "6:00 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

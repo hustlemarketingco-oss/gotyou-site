@@ -17,13 +17,13 @@
   "website": "https://xtremebean.co/",
   "placeId": "ChIJ0zah3YMIK4cRroWCsxKKvSo",
   "googleRating": 4.4,
-  "googleReviewCount": 1373,
+  "googleReviewCount": 1382,
   "priceRange": "$",
   "amenities": [
-    "Apple Pay",
-    "Cash",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "5:00 AM - 8:00 PM",
@@ -40,5 +40,16 @@
   "groundgameId": "6a4e9964169dadccbd411e9c",
   "seededAt": "2026-07-08T18:39:32Z",
   "updatedAt": "2026-07-27T20:29:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3079769533117007278",
+  "googleMapsUrl": "https://www.google.com/maps/place/Xtreme+Bean+Coffee/data=!4m7!3m6!1s0x872b0883dda136d3:0x2abd8a12b38285ae!8m2!3d33.392634!4d-111.911068!16s%2Fg%2F1vg_7rss!19sChIJ0zah3YMIK4cRroWCsxKKvSo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 67,
+    "2": 39,
+    "3": 91,
+    "4": 253,
+    "5": 932
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGRSGsJWCuKIZ5d85cYTqQ_V521Pn1PQCO9x4ueC8HMV6XlkrPqsjPHiA7gWU1MRqd-7_EE78Kfwy0XRczAir8P1PlRE-NmY15jgvQz4y8kyFvCSBEJRgrslHjylFWEXK3mDmB=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

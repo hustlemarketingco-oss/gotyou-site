@@ -1,0 +1,54 @@
+{
+  "slug": "quo-vadis-bookstore-tempe",
+  "name": "Quo Vadis Bookstore",
+  "category": "Shopping",
+  "googleCategory": "Christian book store",
+  "secondaryCategories": [
+    "Book store"
+  ],
+  "address": "1020 S Mill Ave D",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.418474599999996,
+  "lng": -111.940271,
+  "phone": "+14809683663",
+  "website": "https://www.quovadisbooks.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Quo+Vadis+Bookstore/data=!4m7!3m6!1s0x872b08e8d49788df:0x397851893bc6c5ae!8m2!3d33.4184746!4d-111.940271!16s%2Fg%2F1tgns3np!19sChIJ34iX1OgIK4cRrsXGO4lReDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4141149507222422958",
+  "placeId": "ChIJ34iX1OgIK4cRrsXGO4lReDk",
+  "googleRating": 4.9,
+  "googleReviewCount": 23,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehGtnrSPdl2xyzAbmjI1cYeq3qk2w8GENwHt87q9umy4IsmqgevT5f84DAXYuF6AmV2GHrETAf-6WBmmmrshu4YPTzMGeHLrqQ10NO9zs0WbyJXMGhf4Sccl_5fINbds8hfDBDIZg2DNQx=w1200-h800-k-no",
+  "amenities": [
+    "Small business",
+    "In-store pickup",
+    "In-store shopping",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Gender-neutral restroom",
+    "Wi-Fi",
+    "Debit cards",
+    "On-site parking"
+  ],
+  "ratingBreakdown": {
+    "4": 2,
+    "5": 21
+  },
+  "hours": {
+    "mon": "10:00 AM - 4:00 PM",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

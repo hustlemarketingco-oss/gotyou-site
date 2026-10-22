@@ -1,0 +1,54 @@
+{
+  "slug": "all-flags-sports-tempe",
+  "name": "All Flags & Sports",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "secondaryCategories": [
+    "Army & navy surplus shop",
+    "Banner store",
+    "Flag store",
+    "Souvenir store",
+    "Sporting goods store",
+    "Sports memorabilia store"
+  ],
+  "address": "5000 S Arizona Mills Cir #526",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382731299999996,
+  "lng": -111.9649372,
+  "phone": "+14807754244",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/all-flags-and-sports",
+  "googleMapsUrl": "https://www.google.com/maps/place/All+Flags+%26+Sports/data=!4m7!3m6!1s0x872b0f59e1444903:0x384a19fc729a895!8m2!3d33.3827313!4d-111.9649372!16s%2Fg%2F1tfkr73j!19sChIJA0lE4VkPK4cRlagpx5-hhAM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "253505186652858517",
+  "placeId": "ChIJA0lE4VkPK4cRlagpx5-hhAM",
+  "googleRating": 1.7,
+  "googleReviewCount": 203,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc-svXEkJ20MSlgTxLbNp2U_P_D3mp6b9buI_31uOqMNWl52r0hP-Z4c2icyMlGzTyIgUq6lkYDv60Vslak3abFQUT-YODBv69sL5gRGmTKyRsVrUSPtI6gKaTrDLXiqIddUsWKbc4xLsE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 162,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 32
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -19,38 +19,18 @@
   "lng": -111.9403482,
   "phone": "+14809689288",
   "website": "https://www.mydailyjam.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10105129736237477307",
+  "googleMapsUrl": "https://www.google.com/maps/place/Daily+Jam+-+Breakfast+%26+Brunch+Restaurant/data=!4m7!3m6!1s0x872b0926aaaaaaab:0x8c3ca1f4b1abedbb!8m2!3d33.427202!4d-111.9403482!16s%2Fg%2F1tklq__j!19sChIJq6qqqiYJK4cRu-2rsfShPIw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10105129736237477307",
   "placeId": "ChIJq6qqqiYJK4cRu-2rsfShPIw",
   "googleRating": 4.3,
-  "googleReviewCount": 2278,
+  "googleReviewCount": 2314,
   "priceRange": "$10–20",
   "description": "American cafe delivering breakfast & lunch classics in a low-key, urban-chic space with a patio.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "7:00 AM - 3:00 PM",
@@ -67,5 +47,14 @@
   "groundgameId": "6a2435f06c27e6b22c6de4af",
   "seededAt": "2026-06-06T15:00:00Z",
   "updatedAt": "2026-09-02T19:25:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 132,
+    "2": 120,
+    "3": 178,
+    "4": 476,
+    "5": 1408
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegb6oGFn7A-eiDuN-EqiUImrMpScnTLt4EYA18vfiF8Tmo4e8YuxetXMw2TcAgh0QKi491WhtYfQ61Lgxc4lm9q8GD50LgQrCxYmphTWTpR8GRtjVdvAJQwwbziji80Qn4pDIMGw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

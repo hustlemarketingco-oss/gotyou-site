@@ -14,7 +14,7 @@
   "lng": -111.9218753,
   "placeId": "ChIJnQOGkLkJK4cRn-iOE9fZyLs",
   "googleRating": 4.9,
-  "googleReviewCount": 86,
+  "googleReviewCount": 124,
   "hours": {
     "mon": "Closed",
     "tue": "3:00 PM - 12:00 AM",
@@ -30,5 +30,19 @@
   "groundgameId": "6a3438c6d282dce47015e8c8",
   "seededAt": "2026-06-18T18:28:22Z",
   "updatedAt": "2026-06-18T18:28:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13531304598203984031",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jalapeno%27s+Taco+Spot/data=!4m7!3m6!1s0x872b09b99086039d:0xbbc8d9d7138ee89f!8m2!3d33.4158012!4d-111.9218753!16s%2Fg%2F11yklkbdt9!19sChIJnQOGkLkJK4cRn-iOE9fZyLs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 3,
+    "5": 120
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZGyioUWwJxAek7jUyybJJ5Vngbiml_GSvoYZGvagnjjLnzCGRqR-QFCn64gXh9QnW5NCx5i6KgG5bbv6t2XvuqIC01vAk0N5E_tKjgAGWUhvmQWX1JDPILdpC06o6kQEOdoZh46nveqc6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

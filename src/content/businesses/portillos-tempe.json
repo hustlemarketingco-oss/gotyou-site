@@ -17,11 +17,11 @@
   "lng": -111.908645,
   "phone": "+14809677988",
   "website": "https://www.portillos.com/locations/tempe/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10851330165496169259",
+  "googleMapsUrl": "https://www.google.com/maps/place/Portillo%27s+Tempe/data=!4m7!3m6!1s0x872b08fe44a095a3:0x9697ab4aeee1432b!8m2!3d33.4297611!4d-111.908645!16s%2Fg%2F1pp2x56n9!19sChIJo5WgRP4IK4cRK0Ph7kqrl5Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10851330165496169259",
   "placeId": "ChIJo5WgRP4IK4cRK0Ph7kqrl5Y",
   "googleRating": 4.5,
-  "googleReviewCount": 9676,
+  "googleReviewCount": 9813,
   "description": "Chicago-born chain for hot dogs, Italian beef sandwiches & more, plus beer & wine, in retro digs.",
   "hours": {
     "fri": "10:00 AM - 12:00 AM",
@@ -38,5 +38,20 @@
   "groundgameId": "6a24364d43710cf0fe781dc3",
   "seededAt": "2026-06-06T15:01:33Z",
   "updatedAt": "2026-07-13T23:28:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 373,
+    "2": 309,
+    "3": 612,
+    "4": 1733,
+    "5": 6786
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddKcV1hc3yNwAMAckgzKKzqPN8boycvuHcFKM1Rf0GMz5ifFbYJFhTkzbBAlAylGT8UvWrmeRGIZEi_HUPdxlnPe9KTF5kY6i82_70uUqI4aPF98WAVCI20uv60bTw4JqVKH_P=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

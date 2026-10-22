@@ -16,7 +16,7 @@
   "source": "groundgame",
   "placeId": "ChIJA0lE4VkPK4cRh3UWyY5KiR0",
   "googleCid": "2128314276028773767",
-  "googleMapsUrl": "https://maps.google.com/?cid=2128314276028773767",
+  "googleMapsUrl": "https://www.google.com/maps/place/H%26M/data=!4m7!3m6!1s0x872b0f59e1444903:0x1d894a8ec9167587!8m2!3d33.3839438!4d-111.9651608!16s%2Fg%2F1hc22xmf_!19sChIJA0lE4VkPK4cRh3UWyY5KiR0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.3,
   "googleReviewCount": 296,
   "ratingBreakdown": {
@@ -26,12 +26,12 @@
     "4": 62,
     "5": 185
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyX72Ebf62RZ48fwjyTQGbTN_13kssXzzmEz7jvnTFqmn7Jv6Bn1spVQM5zOuJ4LYmVdboTZ5Ghs9d4aZIOj60C--rDwjP2OIOYR_xRPEoSiIFptnwa9wF46o8nc7LbxI7utHR9c38EpgA=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzW34zs4dyWdg9HbhhRkb6fxTuWb8G7BTAbm-2w9r04aHXyO6vSUtYJB_GdJyhAHDzDjs6VqOajceDPSu1QjbPPFNqbadE4s2sP9OXxtQJkcvtLdk5vHdB557gDQzEFqXYIpAzHBUoBcM5=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "10 AM - 8 PM",
     "tue": "10 AM - 8 PM",
@@ -43,5 +43,12 @@
   },
   "website": "https://www2.hm.com/en_us/customer-service/shopping-at-hm/store-locator/usa/tempe/arizona-mills/US0252.html?utm_source=google_location&utm_medium=organic&utm_content=US0252&utm_campaign=pi_USQ00AAU0AA004",
   "lat": 33.3839438,
-  "lng": -111.96516079999999
+  "lng": -111.96516079999999,
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Cosmetics store",
+    "Men's clothing store",
+    "Women's clothing store"
+  ]
 }

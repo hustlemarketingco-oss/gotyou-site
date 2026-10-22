@@ -14,24 +14,10 @@
   "priceRange": "$10–20",
   "description": "This rustic-style watering hole in a 1918 dairy barn features a classic pub menu & sports on TV.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/TempeTavern"
@@ -42,5 +28,22 @@
   "groundgameId": "6a24386e19fecb7a6cd3096d",
   "seededAt": "2026-06-06T15:10:38Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJxxKaOfQIK4cRALrPs6TM94g",
+  "googleCid": "9869582116169169408",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Tavern/data=!4m7!3m6!1s0x872b08f4399a12c7:0x88f7cca4b3cfba00!8m2!3d33.4150327!4d-111.9085471!16s%2Fg%2F12xqj26mw!19sChIJxxKaOfQIK4cRALrPs6TM94g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 1151,
+  "ratingBreakdown": {
+    "1": 99,
+    "2": 27,
+    "3": 97,
+    "4": 236,
+    "5": 692
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0WauhFj0oZKdjwn1UOyfks3VxGBbbU38PMzT-HFc75kQ-MxZzgb97ebzVLTRDLNnoc5Nm23eykLzCZ1oh-G_7yG4xoTwUX-_LfxyrvoQCEifwWyiipeZksHfuR4cKuGp8e8Zk=w1200-h800-k-no",
+  "website": "http://www.tempetavern.com/",
+  "lat": 33.4150327,
+  "lng": -111.90854709999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

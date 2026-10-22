@@ -1,0 +1,46 @@
+{
+  "slug": "cup-of-joe-market-cafe-11-tempe",
+  "name": "Cup of Joe Market Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "11 E 7th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4230449,
+  "lng": -111.9393228,
+  "phone": "+14809688885",
+  "website": "https://cupofjoetempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cup+of+Joe+Market+Cafe/data=!4m7!3m6!1s0x872b0999024dc5b1:0x82e464ac598c4cc0!8m2!3d33.4230449!4d-111.9393228!16s%2Fg%2F11p06bbxy8!19sChIJscVNApkJK4cRwEyMWaxk5II?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9431774211020180672",
+  "placeId": "ChIJscVNApkJK4cRwEyMWaxk5II",
+  "googleRating": 3.6,
+  "googleReviewCount": 33,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPb21bHB9-n8J3x6BkxNZcVxUfZt02ioyq1WD_ujnALMjI08WE-tU8Tq0X4boKoGG2N-XyVfKqq0kfTqHCC_fGA59JEc0yBjzpkgDjoSbgWkFAQcj5CMSl_EajW7K2B7apsr_4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 3,
+    "3": 4,
+    "5": 19
+  },
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

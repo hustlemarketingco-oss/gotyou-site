@@ -2,7 +2,7 @@
   "slug": "the-way-station-restaurant-bar-tempe",
   "name": "The Way Station Restaurant & Bar",
   "category": "Bars & Pubs",
-  "googleCategory": "Bar",
+  "googleCategory": "New American restaurant",
   "secondaryCategories": [
     "Restaurant",
     "Lounge bar"
@@ -15,21 +15,10 @@
   "priceRange": "$20–30",
   "description": "Located in Tempe, The Way Station Restaurant & Bar is a casual, trendy bar & restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/thewaystationtempe"
@@ -40,5 +29,29 @@
   "groundgameId": "6a24378fd597993d111442a5",
   "seededAt": "2026-06-06T15:06:55Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJl_4F7VUIK4cR7dZQDX91yFU",
+  "googleCid": "6181319677110703853",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Way+Station+Restaurant+%26+Bar/data=!4m7!3m6!1s0x872b0855ed05fe97:0x55c8757f0d50d6ed!8m2!3d33.4286493!4d-111.9040249!16s%2Fg%2F11y485pf9v!19sChIJl_4F7VUIK4cR7dZQDX91yFU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 17,
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 13
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHSpivVP3HdDRxBAV59hj75reV-g3zCKYIXhVxNZwyIlf2Kndoivg_d9vA3BQqX1JhPuqGmN9TIH62vW80J035HKO-Gi8jE4MMfxwKinyD24RBFMlu_IwxyPiOyIQhjQlDCeWe=w1200-h800-k-no",
+  "website": "https://www.thewaystationtempe.com/",
+  "hours": {
+    "mon": "3:00 PM - 11:00 PM",
+    "tue": "3:00 PM - 11:00 PM",
+    "wed": "3:00 PM - 11:00 PM",
+    "thu": "3:00 PM - 11:00 PM",
+    "fri": "3:00 PM - 11:00 PM",
+    "sat": "3:00 PM - 11:00 PM",
+    "sun": "3:00 PM - 9:00 PM"
+  },
+  "lat": 33.4286493,
+  "lng": -111.9040249,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

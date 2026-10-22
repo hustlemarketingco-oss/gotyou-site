@@ -18,7 +18,7 @@
   "website": "https://www.locopatron.com/",
   "placeId": "ChIJXWP8dSgJK4cR7qYwkdd7Ivc",
   "googleRating": 4.3,
-  "googleReviewCount": 1810,
+  "googleReviewCount": 1822,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -35,5 +35,22 @@
   "groundgameId": "6a46b090613fef785fcad154",
   "seededAt": "2026-07-02T18:40:16Z",
   "updatedAt": "2026-07-02T18:40:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17807932042360432366",
+  "googleMapsUrl": "https://www.google.com/maps/place/Loco+Patron/data=!4m7!3m6!1s0x872b092875fc635d:0xf7227bd79130a6ee!8m2!3d33.4276617!4d-111.9402792!16s%2Fg%2F12m9cl9ym!19sChIJXWP8dSgJK4cR7qYwkdd7Ivc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 47,
+    "3": 163,
+    "4": 463,
+    "5": 1063
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqctDknq1QMWwQ5HB95h9oa7951CF62M2IfQn6T1SVs31HJMXRSH-nvLjFa3os1k3_wF4CHhw5xFMFkYcuTmw48CpF7jC2BUuLNtyf50pBROkJz0EP6CJJQYipXLv8iRKTOjZEdUZ1i0ZV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

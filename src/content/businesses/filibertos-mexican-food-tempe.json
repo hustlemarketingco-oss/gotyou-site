@@ -1,0 +1,54 @@
+{
+  "slug": "filibertos-mexican-food-tempe",
+  "name": "Filiberto's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Latin American restaurant",
+    "Restaurant"
+  ],
+  "address": "1158 W Washington St #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.442606399999995,
+  "lng": -111.95534959999999,
+  "phone": "+16022671422",
+  "website": "https://filibertos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Filiberto%27s+Mexican+Food/data=!4m7!3m6!1s0x872b0eca50cfbdc1:0x8d49bc7fc20f83fc!8m2!3d33.4426064!4d-111.9553496!16s%2Fg%2F1td2mywt!19sChIJwb3PUMoOK4cR_IMPwn-8SY0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10180875689550382076",
+  "placeId": "ChIJwb3PUMoOK4cR_IMPwn-8SY0",
+  "googleRating": 4,
+  "googleReviewCount": 1044,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQmW8ruE22TiWgtOW9QlwOz3J54KBfLRyzq4zx0USgun9oKAVLQAnQa5UC2Y95vtIKZsGEUDF6b087qssyhCxqXxkJBzdsGi3VDbYHSynkBgbQsiL3U1LV2viLILYUXyyMvim8=w1200-h800-k-no",
+  "description": "Mexican fast-food chain outlet specializing in tacos, burritos, tostadas & quesadillas.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 108,
+    "2": 38,
+    "3": 127,
+    "4": 217,
+    "5": 554
+  },
+  "hours": {
+    "mon": "6:30 AM - 8:00 PM",
+    "tue": "6:30 AM - 8:00 PM",
+    "wed": "6:30 AM - 8:00 PM",
+    "thu": "6:30 AM - 8:00 PM",
+    "fri": "6:30 AM - 8:00 PM",
+    "sat": "7:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

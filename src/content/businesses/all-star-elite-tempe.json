@@ -1,0 +1,41 @@
+{
+  "slug": "all-star-elite-tempe",
+  "name": "All Star Elite",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.381701299999996,
+  "lng": -111.96439099999999,
+  "phone": "+16029028414",
+  "website": "https://www.allstarelite.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/All+Star+Elite/data=!4m7!3m6!1s0x872b0f4f7a3aaae7:0xcfa76182820cfbf4!8m2!3d33.3817013!4d-111.964391!16s%2Fg%2F11q4d6pqjk!19sChIJ56o6ek8PK4cR9PsMgoJhp88?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14963035500117294068",
+  "placeId": "ChIJ56o6ek8PK4cR9PsMgoJhp88",
+  "googleRating": 2.8,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmvy8a0Whxf3jtIxHQFjmC_08AIAyMOoM0-wTRCu8ZWVFqcT_QBDobkcKLfvq9ps6xgo4UODNmmAXUwKK3ch7etsTHfLtgpCud2Iv050OH_wrS2oaNstH2eu1C2fCktAvDIJI7=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 8,
+    "3": 1,
+    "4": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "8:30 AM - 5:00 PM",
+    "tue": "8:30 AM - 5:00 PM",
+    "wed": "8:30 AM - 5:00 PM",
+    "thu": "8:30 AM - 5:00 PM",
+    "fri": "8:30 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

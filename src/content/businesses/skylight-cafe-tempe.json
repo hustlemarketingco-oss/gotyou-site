@@ -1,0 +1,27 @@
+{
+  "slug": "skylight-cafe-tempe",
+  "name": "Skylight Café",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "4525 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383653699999996,
+  "lng": -111.9088965,
+  "phone": "+14808390926",
+  "googleMapsUrl": "https://www.google.com/maps/place/Skylight+Caf%C3%A9/data=!4m7!3m6!1s0x872b07d2c200ab9b:0x6c2e775027991c4b!8m2!3d33.3836537!4d-111.9088965!16s%2Fg%2F11qg1pltsg!19sChIJm6sAwtIHK4cRSxyZJ1B3Lmw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7795299191170341963",
+  "placeId": "ChIJm6sAwtIHK4cRSxyZJ1B3Lmw",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLVjjyX1zlf7Z5kZF8E4OG8X59OmnhR-nmzMmEz0ve_f5dFoTPR-M-Dg98vM9GXsPKn8BTCUtm-k9vEzkzmfJ4yuhET9aB_mimmm094budPFMZNm993iBPAZd1Qvv1599As-oZRw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -19,30 +19,18 @@
   "lng": -111.9101287,
   "phone": "+14806870001",
   "website": "http://www.bravekbbq.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11777320940437331704",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brave+Korean+BBQ/data=!4m7!3m6!1s0x872b09588c2638c7:0xa37172ff14895ef8!8m2!3d33.4066479!4d-111.9101287!16s%2Fg%2F11q438ws8x!19sChIJxzgmjFgJK4cR-F6JFP9ycaM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11777320940437331704",
   "placeId": "ChIJxzgmjFgJK4cR-F6JFP9ycaM",
   "googleRating": 4,
-  "googleReviewCount": 639,
+  "googleReviewCount": 672,
   "priceRange": "$20–30",
   "description": "Brave Korean BBQ is a Tempe casual, cozy korean barbecue restaurant & asian restaurant known for alcohol & all you can eat.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/bravekoreanbbq"
@@ -62,5 +50,14 @@
   "groundgameId": "6a243776013a7bac39e714ed",
   "seededAt": "2026-06-06T15:06:30Z",
   "updatedAt": "2026-06-26T20:17:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 101,
+    "2": 29,
+    "3": 38,
+    "4": 97,
+    "5": 407
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6jvq57ID44_PdAfFUCyLxEarHVpP_jPMOjox3SBLEtNZ9KrGf4Dd_eo8fpJgtwJtH00z85gsnEwIvSxkmcsySj2CJcxgx9Js-ePxXoWjNka3LG4IOw9JBUfkio-6x43WMkS0-Aw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

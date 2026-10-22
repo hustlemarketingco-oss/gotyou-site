@@ -1,0 +1,51 @@
+{
+  "slug": "toni-guy-hair-salon-tempe",
+  "name": "TONI&GUY Hair Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Hairdresser"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1071",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4327214,
+  "lng": -111.9043411,
+  "phone": "+14804359833",
+  "website": "https://www.toniguy.com/hair-salons/arizona/tempe-market-place/",
+  "googleMapsUrl": "https://www.google.com/maps/place/TONI%26GUY+Hair+Salon/data=!4m7!3m6!1s0x872b09aaa996e57d:0x414d7da212b8dc3!8m2!3d33.4327214!4d-111.9043411!16s%2Fg%2F11c5bl2jf9!19sChIJfeWWqaoJK4cRw40rIdrXFAQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "294097207545269699",
+  "placeId": "ChIJfeWWqaoJK4cRw40rIdrXFAQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 326,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIMaiTah78Lx3GckK5h4f7I5VB7P6IhCoFE-T7y1fMnNfqYqmLnulRr7BZuyh8B4ukr8rhqlNt_Sm2wf0Z9nlwdGhAYepU8MUYwaD-tcCRldx4nwjOjHp5GdcxHqKXTNcuyxM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 9,
+    "3": 8,
+    "4": 17,
+    "5": 254
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

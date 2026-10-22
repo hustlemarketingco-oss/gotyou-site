@@ -16,7 +16,7 @@
   "website": "https://locations.modpizza.com/usa/az/tempe/2000-e-rio-salado-pkwy",
   "placeId": "ChIJy415y6oJK4cRRYobATU5yYQ",
   "googleRating": 4.4,
-  "googleReviewCount": 1350,
+  "googleReviewCount": 1369,
   "priceRange": "$",
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a342d066f2b78e28f913489",
   "seededAt": "2026-06-18T17:38:14Z",
   "updatedAt": "2026-06-18T17:38:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9568241783139961413",
+  "googleMapsUrl": "https://www.google.com/maps/place/MOD+Pizza/data=!4m7!3m6!1s0x872b09aacb798dcb:0x84c93935011b8a45!8m2!3d33.4322802!4d-111.9024621!16s%2Fg%2F11f2gt05m7!19sChIJy415y6oJK4cRRYobATU5yYQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 68,
+    "2": 35,
+    "3": 78,
+    "4": 231,
+    "5": 957
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHs85MkuY8X1QVH5znx3ceC3Z91ptwNvPTngZJTNwicDD4iSuWU-SZss2rVDr3yG87vM19wYnzKe8dEIUK5GheeRDywZu_dvV4ma00C09IE-LuNJUiPvK_8D25DJCUXXMMTiZw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

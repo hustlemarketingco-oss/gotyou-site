@@ -2,7 +2,7 @@
   "slug": "us-egg-brunch-cocktails-tempe",
   "name": "US Egg Brunch + Cocktails",
   "category": "Restaurant",
-  "googleCategory": "Brunch restaurant",
+  "googleCategory": "Breakfast restaurant",
   "secondaryCategories": [
     "Breakfast restaurant",
     "Diner",
@@ -19,13 +19,13 @@
   "website": "https://www.usegg.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
   "placeId": "ChIJ_-QQwS0HK4cRYTkAUTReTRw",
   "googleRating": 4.6,
-  "googleReviewCount": 3026,
+  "googleReviewCount": 3081,
   "priceRange": "$$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "6:30 AM - 2:30 PM",
@@ -42,5 +42,16 @@
   "groundgameId": "6a2c1cb71327fd76ed4ae564",
   "seededAt": "2026-06-12T14:50:31Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2039389785058982241",
+  "googleMapsUrl": "https://www.google.com/maps/place/US+Egg+Breakfast+and+Lunch/data=!4m7!3m6!1s0x872b072dc110e4ff:0x1c4d5e3451003961!8m2!3d33.3778064!4d-111.9375398!16s%2Fg%2F1w4vkd77!19sChIJ_-QQwS0HK4cRYTkAUTReTRw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 61,
+    "2": 56,
+    "3": 147,
+    "4": 578,
+    "5": 2239
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGcPJPkXnoilSbTSuzPMcA1hF-TBm5clDiEx5CW2xZxd6rtLtvK4SRwJZFBOZfxqSYfy-7RsbWx0vQ6JBEZYLzgTIMwoC2ggx-cCGI-sT6waZxvljUszI-hbLRdziuXu0Bo6Ppzbgw2t_f=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

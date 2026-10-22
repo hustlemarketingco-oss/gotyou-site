@@ -1,0 +1,46 @@
+{
+  "slug": "fx-tactical-tempe",
+  "name": "FX Tactical",
+  "category": "Shopping",
+  "googleCategory": "Police supply store",
+  "address": "2346 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3933877,
+  "lng": -111.8889311,
+  "phone": "+14804932500",
+  "website": "http://fxtactical.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/FX+Tactical/data=!4m7!3m6!1s0x872b0968cf856c4b:0x6d3b3bb54598ff47!8m2!3d33.3933877!4d-111.8889311!16s%2Fg%2F11jsmmpmkc!19sChIJS2yFz2gJK4cRR_-YRbU7O20?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7870950423502847815",
+  "placeId": "ChIJS2yFz2gJK4cRR_-YRbU7O20",
+  "googleRating": 4.5,
+  "googleReviewCount": 64,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQkJ0ww4xRlMCH7e9zoiT_KcwJFIMpalnhykLlQBDoknqMbsfxlQ0S4cWKa8DyYfpgsRAxg2XhvjZ3mP8y_lVYWnmXioof-lCfdHk9EYZeCNN3MIDxRa8zjovGpZLrwWJ1bFBo5hTSpEgq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 3,
+    "3": 3,
+    "4": 5,
+    "5": 50
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

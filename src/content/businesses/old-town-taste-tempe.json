@@ -17,31 +17,18 @@
   "lng": -111.9079215,
   "phone": "+14807027101",
   "website": "https://www.oldtowntaste.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5358816207763603890",
+  "googleMapsUrl": "https://www.google.com/maps/place/Old+Town+Taste/data=!4m7!3m6!1s0x872b096b9997bed7:0x4a5e56f2e05b01b2!8m2!3d33.4065971!4d-111.9079215!16s%2Fg%2F11fk4nz9lv!19sChIJ176XmWsJK4cRsgFb4PJWXko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5358816207763603890",
   "placeId": "ChIJ176XmWsJK4cRsgFb4PJWXko",
   "googleRating": 4.7,
-  "googleReviewCount": 1295,
+  "googleReviewCount": 1436,
   "priceRange": "$20–30",
   "description": "Located in Tempe, Old Town Taste is a casual chinese restaurant & asian restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:30 AM - 3:00 PM, 5:00 PM - 1:00 AM",
@@ -58,5 +45,14 @@
   "groundgameId": "6a2437e9254df8c2e0ac4328",
   "seededAt": "2026-06-06T15:08:25Z",
   "updatedAt": "2026-07-13T18:04:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 55,
+    "2": 14,
+    "3": 37,
+    "4": 58,
+    "5": 1272
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnJpwzUEq0sUevXBIoL5TASu5PhJmu1vqcO9ZrjWXIj7QCjDDXB6c0nFu7h7AsMI6yKIeq8TQVf2yxP80rKWkLvTYfcqk7dbHO9x_nmgR7mOXP0ClB7suTUGDNE7dDNcTFCfO5hycWfFfU=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

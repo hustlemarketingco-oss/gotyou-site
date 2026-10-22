@@ -16,7 +16,7 @@
   "website": "https://www.kingsfishhouse.com/tempe",
   "placeId": "ChIJrUWmIwAJK4cRtmZfCnBBFr8",
   "googleRating": 4.3,
-  "googleReviewCount": 2351,
+  "googleReviewCount": 2379,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a344f65058ac42f3876cbf3",
   "seededAt": "2026-06-18T20:04:53Z",
   "updatedAt": "2026-06-18T20:04:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13769264860198037174",
+  "googleMapsUrl": "https://www.google.com/maps/place/King%27s+Fish+House/data=!4m7!3m6!1s0x872b090023a645ad:0xbf1641700a5f66b6!8m2!3d33.4323501!4d-111.9060821!16s%2Fg%2F1tqnm2n5!19sChIJrUWmIwAJK4cRtmZfCnBBFr8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 120,
+    "2": 76,
+    "3": 200,
+    "4": 454,
+    "5": 1529
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbVw_5TJ_8zD-98TLTEBmKbHADDNeVW-knOqcKNjAedry2LuI7MYon4Px5arsPBKQ4Fqh_8oBrNsXPBl_SmwWjfqPimlTZCCoqBRdUuttrGqB_PLh2an8gI9uZsr2KiwLyTIdL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -12,8 +12,8 @@
   "phone": "+14803464300",
   "website": "http://www.itsmatchamagic.com/",
   "placeId": "ChIJAZ17t-MJK4cRLO1W7jRP3sM",
-  "googleRating": 4.5,
-  "googleReviewCount": 26,
+  "googleRating": 4.6,
+  "googleReviewCount": 48,
   "hours": {
     "mon": "8:00 AM - 6:00 PM",
     "tue": "8:00 AM - 6:00 PM",
@@ -29,5 +29,21 @@
   "groundgameId": "6a32ef043e0e14aa9f9d9abb",
   "seededAt": "2026-06-17T19:01:24Z",
   "updatedAt": "2026-07-07T19:56:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14113805370981281068",
+  "googleMapsUrl": "https://www.google.com/maps/place/Matcha+Magic+-+NOW+OPEN!/data=!4m7!3m6!1s0x872b09e3b77b9d01:0xc3de4f34ee56ed2c!8m2!3d33.4149217!4d-111.9248434!16s%2Fg%2F11n9sgbzy5!19sChIJAZ17t-MJK4cRLO1W7jRP3sM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 39
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwZOmHn_waeKwYi5p1R5JUkqFt6KsLx0zmHiqVKZTXwJyN98P6Pjo5Zy9FTtwZ7syFjSr-gP3TLo9LojV7OVpMprt0HKfACDElx9gG5Y1oheQeCTh8jL0IvwjXLFdi6ExXsRBHu0cE3XwC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

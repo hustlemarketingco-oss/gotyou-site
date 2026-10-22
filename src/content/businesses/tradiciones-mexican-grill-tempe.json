@@ -1,0 +1,53 @@
+{
+  "slug": "tradiciones-mexican-grill-tempe",
+  "name": "Tradiciones Mexican Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Catering food and drink supplier",
+    "Taco restaurant"
+  ],
+  "address": "6440 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3624212,
+  "lng": -111.9291004,
+  "phone": "+14802659144",
+  "website": "https://cash.app/$tradicionesmg/l/CALL_CAESDUxYMEdTQUJNMzhCNUo/pickup",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tradiciones+Mexican+Grill/data=!4m7!3m6!1s0x872b074b17297d11:0x4fc3c8c4a0420401!8m2!3d33.3624212!4d-111.9291004!16s%2Fg%2F11lf6ynp_0!19sChIJEX0pF0sHK4cRAQRCoMTIw08?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5747658296282711041",
+  "placeId": "ChIJEX0pF0sHK4cRAQRCoMTIw08",
+  "googleRating": 4.8,
+  "googleReviewCount": 956,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewBsJRh94S1DLSbnrgvzm78-ptODeNOVE9hh6a5pAWurfRb9TJkGtmJfqT52sRUH8RNtDXqWS3Iu3MtAIM4-30BFsiCWSVTkV9l16yyB1fSR_-boH2H73CoGCavIBF-oC3pjR-Ulzbs7pY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 5,
+    "3": 14,
+    "4": 70,
+    "5": 853
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

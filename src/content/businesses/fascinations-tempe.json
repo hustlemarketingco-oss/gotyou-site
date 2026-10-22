@@ -1,0 +1,60 @@
+{
+  "slug": "fascinations-tempe",
+  "name": "Fascinations",
+  "category": "Shopping",
+  "googleCategory": "Adult entertainment store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Fashion accessories store",
+    "Gift shop",
+    "Health and beauty shop",
+    "Lingerie store",
+    "Novelty store",
+    "Women's clothing store"
+  ],
+  "address": "838 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.349781,
+  "lng": -111.950801,
+  "phone": "+14802220040",
+  "website": "https://fascinations.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fascinations/data=!4m7!3m6!1s0x872b0677f33793f3:0xb1ef5d5daf0ca69c!8m2!3d33.349781!4d-111.950801!16s%2Fg%2F1thlzxk4!19sChIJ85M383cGK4cRnKYMr11d77E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12821569321097275036",
+  "placeId": "ChIJ85M383cGK4cRnKYMr11d77E",
+  "googleRating": 4.7,
+  "googleReviewCount": 916,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepB3FCIBtxC5cg7bcpoYSnvbpYcrMhcxasGi1EPbkZ5z07WOk7mqO9lKr4k1SBu5w7tkiX0S_TccvsUjjo82Mp9DHxfzz3RFrPq5oyQgjB5gLAAPrEE7MkeVVNNouAGo7Jvqg7=w1200-h800-k-no",
+  "amenities": [
+    "In-store shopping",
+    "Onsite services",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 11,
+    "3": 25,
+    "4": 87,
+    "5": 767
+  },
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

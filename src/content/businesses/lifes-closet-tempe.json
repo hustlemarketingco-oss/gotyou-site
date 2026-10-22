@@ -1,0 +1,43 @@
+{
+  "slug": "lifes-closet-tempe",
+  "name": "LIFE'S CLOSET",
+  "category": "Shopping",
+  "googleCategory": "Vintage clothing store",
+  "address": "1717 S Dorsey Ln",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4102268,
+  "lng": -111.91585719999999,
+  "phone": "+16024136761",
+  "website": "http://www.lifescloset.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/LIFE%27S+CLOSET/data=!4m7!3m6!1s0x872b0f4c9917a0d1:0x5557cb0969930774!8m2!3d33.4102268!4d-111.9158572!16s%2Fg%2F11s751gtvf!19sChIJ0aAXmUwPK4cRdAeTaQnLV1U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6149607057484089204",
+  "placeId": "ChIJ0aAXmUwPK4cRdAeTaQnLV1U",
+  "googleRating": 4.6,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfisWu2DKTJPar-NF02rzkwpLLUWMNwc7DltrBtV3WIaMW0py0iyaLhSSbUN3iFd0mBMIrMhdoZp9cZMrx-WfLB7gOjqej6--NZHVH-Og9MGCjibMDyCGfmxdmh3KfRewZDMe_rZpoGSVSu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 10
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

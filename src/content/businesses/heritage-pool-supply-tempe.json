@@ -1,0 +1,45 @@
+{
+  "slug": "heritage-pool-supply-tempe",
+  "name": "Heritage Pool Supply",
+  "category": "Shopping",
+  "googleCategory": "Swimming pool supply store",
+  "secondaryCategories": [
+    "Wholesaler"
+  ],
+  "address": "1245 W Geneva Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3945672,
+  "lng": -111.95724849999999,
+  "phone": "+14803723047",
+  "website": "https://www.heritagepoolsupplygroup.com/en/distributor-network/PEPTEMP/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Heritage+Pool+Supply/data=!4m7!3m6!1s0x872b0f3cc51f3d79:0xce4ebb0bd4c3ed1a!8m2!3d33.3945672!4d-111.9572485!16s%2Fg%2F11f6y8pp_x!19sChIJeT0fxTwPK4cRGu3D1Au7Ts4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14866025079485230362",
+  "placeId": "ChIJeT0fxTwPK4cRGu3D1Au7Ts4",
+  "googleRating": 5,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7JfGcE7kDAcMYUvKu9uyXefhcyRxXz62S0sd34ZC9VBSneWQGV3pWWMgRRfTUVruD0bkDBySf1ea0XaKpBewELXElshrPFiSFCJRmNkmhE_g9ZMvJE949v5r84Btwlo0ja9uM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 21
+  },
+  "hours": {
+    "mon": "6:00 AM - 4:00 PM",
+    "tue": "6:00 AM - 4:00 PM",
+    "wed": "6:00 AM - 4:00 PM",
+    "thu": "6:00 AM - 4:00 PM",
+    "fri": "6:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

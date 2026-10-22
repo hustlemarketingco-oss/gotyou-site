@@ -1,0 +1,47 @@
+{
+  "slug": "hairflix-barbershop-by-vodi-tempe",
+  "name": "Hairflix Barbershop by Vodi",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "922 E Apache Blvd #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414935299999996,
+  "lng": -111.9245874,
+  "phone": "+16028605995",
+  "website": "https://www.instagram.com/hairflixby_vodi?igsh=dGM3bWxwbTBkbGly&utm_source=qr",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hairflix+Barbershop+by+Vodi/data=!4m7!3m6!1s0x872b09a1a3b7db49:0x9bf099afc0e723b3!8m2!3d33.4149353!4d-111.9245874!16s%2Fg%2F11w_fk0931!19sChIJSdu3o6EJK4cRsyPnwK-Z8Js?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11236650050424087475",
+  "placeId": "ChIJSdu3o6EJK4cRsyPnwK-Z8Js",
+  "googleRating": 5,
+  "googleReviewCount": 1290,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnetBkf28-99l0j1UU5WY8q2IIE44-iV6sq8OcgJRQU5z2Z2R9QirEShhZNjwG4Mpx-BmU_cMntxlAa7uoLYhkGagG8qhXUIHwqTOIvUseiVe_wfhtbNlfGa1zmMCJVWpb3JUvTCP-E7U=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 2,
+    "3": 3,
+    "4": 10,
+    "5": 1265
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "sunflower-pet-supply-tempe",
+  "name": "Sunflower Pet Supply",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "7650 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347939,
+  "lng": -111.9121668,
+  "phone": "+14807752891",
+  "website": "https://www.sunflowerpetsupply.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunflower+Pet+Supply/data=!4m7!3m6!1s0x872b06e329416789:0x48814bb7de1b98d2!8m2!3d33.347939!4d-111.9121668!16s%2Fg%2F1tk1nf_t!19sChIJiWdBKeMGK4cR0pgb3rdLgUg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5224540295803934930",
+  "placeId": "ChIJiWdBKeMGK4cR0pgb3rdLgUg",
+  "googleRating": 4.8,
+  "googleReviewCount": 83,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC_m5b4FiEGZEvQt2upP4oxVdd89MWdTktl4pNhIX-F6pJiRdQGNy7zRtxIeQpTbmiLxuW3YmD9xlGwafK6PuYLXYgIWCLkDUFwR7pRysBE0Q2yNRdFhRYcETaWQ23dc3NoC8=w1200-h800-k-no",
+  "description": "Pet supply store featuring health-conscious food, treats & supplements, plus grooming products.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 3,
+    "4": 1,
+    "5": 76
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

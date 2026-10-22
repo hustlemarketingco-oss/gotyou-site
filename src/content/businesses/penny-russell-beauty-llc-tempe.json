@@ -1,0 +1,37 @@
+{
+  "slug": "penny-russell-beauty-llc-tempe",
+  "name": "Penny Russell Beauty, LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "6469 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362674999999996,
+  "lng": -111.92776219999999,
+  "phone": "+14803595444",
+  "website": "https://penny-russell-beauty.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Penny+Russell+Beauty,+LLC/data=!4m7!3m6!1s0x872b07ca5fd2d621:0xcd74c0e685cf1694!8m2!3d33.362675!4d-111.9277622!16s%2Fg%2F11w_ms4n4q!19sChIJIdbSX8oHK4cRlBbPhebAdM0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14804669971393615508",
+  "placeId": "ChIJIdbSX8oHK4cRlBbPhebAdM0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_SJoLlt-QixexVNTnp5NHw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=150.3776&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 2:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 2:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

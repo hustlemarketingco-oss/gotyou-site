@@ -1,0 +1,52 @@
+{
+  "slug": "daniels-jewelers-tempe",
+  "name": "Daniel's Jewelers",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Jeweler",
+    "Jewelry repair service",
+    "Watch repair service",
+    "Watch store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 636",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383935,
+  "lng": -111.9645225,
+  "phone": "+16024919990",
+  "website": "https://stores.danielsjewelers.com/az/tempe/arizona-mills.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Daniel%27s+Jewelers/data=!4m7!3m6!1s0x872b0f5a05de3591:0xe3af5597c08b1551!8m2!3d33.383935!4d-111.9645225!16s%2Fg%2F11d_tyx0dd!19sChIJkTXeBVoPK4cRURWLwJdVr-M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16406426077792769361",
+  "placeId": "ChIJkTXeBVoPK4cRURWLwJdVr-M",
+  "googleRating": 4.5,
+  "googleReviewCount": 237,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccGyXgr6uLpdU4chis2j_Tc2vsDPp82stJv1Xf1BLgDIKQbaOMf9fJQsdqyxsmtjDmtzhijnGflo93lOonXbDmFv2aa94M1SNKeCmDdZ69np5c7YraDXYuRwyEh1_1u50izcdL8w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 2,
+    "3": 5,
+    "4": 9,
+    "5": 200
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "asu-gammage-tempe",
+  "name": "ASU Gammage",
+  "category": "Fun & Activities",
+  "googleCategory": "Performing arts theater",
+  "address": "1200 S Forest Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4162651,
+  "lng": -111.9380015,
+  "phone": "+14809653434",
+  "website": "https://www.asugammage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ASU+Gammage/data=!4m7!3m6!1s0x872b08dad011e465:0xb28cc40830990bf1!8m2!3d33.4162651!4d-111.9380015!16zL20vMGJ4XzBo!19sChIJZeQR0NoIK4cR8QuZMAjEjLI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12865873774944783345",
+  "placeId": "ChIJZeQR0NoIK4cR8QuZMAjEjLI",
+  "googleRating": 4.6,
+  "googleReviewCount": 4489,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOWIajEckK9mQP8ZuL2VZUHKGgXZhorgm65HUE-TmGprS-ndBpW1liZp706Aq7oL7N5bdrL8sn28Tbf4dI5QY7gEVR5n4A538SVsQlsN7uNHkEaspqBkLmqPl5r0wi2-15WDMk=w1200-h800-k-no",
+  "description": "This historic theater on the Arizona State University campus hosts many renowned arts performances.",
+  "amenities": [
+    "Assistive hearing loop",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 89,
+    "2": 56,
+    "3": 200,
+    "4": 766,
+    "5": 3378
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

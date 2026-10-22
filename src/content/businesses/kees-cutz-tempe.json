@@ -1,0 +1,39 @@
+{
+  "slug": "kees-cutz-tempe",
+  "name": "Kees Cutz",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "707 S Farmer Ave Ste",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4225752,
+  "lng": -111.9439584,
+  "phone": "+16023677467",
+  "website": "https://booksy.com/en-us/472600_kees-cutz_barber-shop_14724_tempe%23ba_s=seo",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kees+Cutz/data=!4m7!3m6!1s0x872b092cd5ef048f:0x41dd5d9eba2e9fc3!8m2!3d33.4225752!4d-111.9439584!16s%2Fg%2F11zdjgn179!19sChIJjwTv1SwJK4cRw58uup5d3UE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4746052518628204483",
+  "placeId": "ChIJjwTv1SwJK4cRw58uup5d3UE",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBwj5mLcP2wTMscHJ-m1Xc1XQsWcYcVS1IZSTj_HAIkn4OsluLy6DytHp1H8Vt-6r--m1ftwggO06SzPRppbB_5sQk_tsTgHj7-1Nnk7vRl3wl3TcfwPLxbfj9Z85ST7BUsB2MfV0PiW2y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ink-spot-tempe",
+  "name": "Ink Spot",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo and piercing shop",
+  "address": "227 S Smith Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.42764,
+  "lng": -111.9001931,
+  "googleMapsUrl": "https://www.google.com/maps/place/Ink+Spot/data=!4m7!3m6!1s0x872b090012687a79:0x5f538f5ec7c70d0d!8m2!3d33.42764!4d-111.9001931!16s%2Fg%2F11zgrklyyx!19sChIJeXpoEgAJK4cRDQ3Hx16PU18?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6868991493911547149",
+  "placeId": "ChIJeXpoEgAJK4cRDQ3Hx16PU18",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-HE3AGmtJ16yadexsSHo6A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=153.18805&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

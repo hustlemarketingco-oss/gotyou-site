@@ -1,0 +1,45 @@
+{
+  "slug": "legacy-ink-llc-tempe",
+  "name": "Legacy Ink LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo and piercing shop",
+  "address": "4325 S 48th St Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3860088,
+  "lng": -111.9778372,
+  "phone": "+16022933270",
+  "googleMapsUrl": "https://www.google.com/maps/place/Legacy+Ink+LLC/data=!4m7!3m6!1s0x872b0fb22e12c353:0x77b61c09bc7ba864!8m2!3d33.3860088!4d-111.9778372!16s%2Fg%2F11fsw7dscr!19sChIJU8MSLrIPK4cRZKh7vAkctnc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8626112964417267812",
+  "placeId": "ChIJU8MSLrIPK4cRZKh7vAkctnc",
+  "googleRating": 4.2,
+  "googleReviewCount": 109,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeD91sNjtps14W1Z2oPg8gHWbu2gaZdKFU28OBHDQVuq0YhBjkT8d17AQhpkhw-6Nqd_1w1UwdnZ9yW0-Zk-SSHfTXVIjIsarjLd8KsbdRdhaZBTQk7uRt9JJ_n05v0-GAKfDvC_8N41bmr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 3,
+    "3": 3,
+    "4": 2,
+    "5": 84
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

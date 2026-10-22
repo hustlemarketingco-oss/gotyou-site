@@ -1,0 +1,47 @@
+{
+  "slug": "suns-barbershop-tempe",
+  "name": "Suns Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1868 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4151153,
+  "lng": -111.9052658,
+  "phone": "+14805903466",
+  "website": "https://sunsbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Suns+Barbershop/data=!4m7!3m6!1s0x872b09ea6e3483fd:0x5dbe94e48de6fef5!8m2!3d33.4151153!4d-111.9052658!16s%2Fg%2F11q8gxdtpv!19sChIJ_YM0buoJK4cR9f7mjeSUvl0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6755000200456503029",
+  "placeId": "ChIJ_YM0buoJK4cR9f7mjeSUvl0",
+  "googleRating": 4.9,
+  "googleReviewCount": 1329,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU4w6ob6hibM-F7DQX8hxQ_OCH7ZSeN2BBpescZY7rbkrYQN9dXlL1TsBbtoX7vk7LwHDw-64bIN8rRCKGoStjY3atoiNPiv1-_Gbf6kkpw-2dRcO1AOAjcxq7mECWa0YuAw4AcJKOM_A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 9,
+    "3": 4,
+    "4": 9,
+    "5": 1284
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "lovisa-2000-tempe",
+  "name": "Lovisa",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Ear piercing service"
+  ],
+  "address": "2000 E Rio Salado Pkwy Shop#j4-1063",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4328619,
+  "lng": -111.9048748,
+  "website": "https://www.lovisa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lovisa/data=!4m7!3m6!1s0x872b09346224ff97:0xc5616710eea179e8!8m2!3d33.4328619!4d-111.9048748!16s%2Fg%2F11xg4jnzn9!19sChIJl_8kYjQJK4cR6Hmh7hBnYcU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14222762420633434600",
+  "placeId": "ChIJl_8kYjQJK4cR6Hmh7hBnYcU",
+  "googleRating": 4.4,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0r5nLWoDt31-25DZZ0Uj96Ob8PPndtrLFHzh0nhdzuV5QZKyha_YCGsIe6CKiXApo7ChBOhfaRdZ78N3BBN3ZwWi6Ez2ZUNZKU9OS4TEEzaykQ0v7KUKnxmtRRRqj57mIlOGygi91MXM3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 3,
+    "5": 12
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

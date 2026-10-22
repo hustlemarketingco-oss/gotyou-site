@@ -1,0 +1,56 @@
+{
+  "slug": "el-tlacoyo-tempe",
+  "name": "El Tlacoyo",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Family restaurant",
+    "Latin American restaurant",
+    "Seafood restaurant",
+    "Taco restaurant"
+  ],
+  "address": "2535 E University Dr #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4213969,
+  "lng": -111.88333349999999,
+  "phone": "+14808949543",
+  "website": "https://www.eltlacoyoaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Tlacoyo/data=!4m7!3m6!1s0x872b084720e01479:0x3f4205ec81a81ddc!8m2!3d33.4213969!4d-111.8833335!16s%2Fg%2F1txfpm9h!19sChIJeRTgIEcIK4cR3B2ogewFQj8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4558212286198062556",
+  "placeId": "ChIJeRTgIEcIK4cR3B2ogewFQj8",
+  "googleRating": 4.3,
+  "googleReviewCount": 443,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezd4Qh8MRJ__jywfYSRreajdjDNHVU9ysF1fHKvjKWE4CGltxvwaIwfl83QRXBPGfM5RMZEOn9s-5bgJMbd8rePHONkUMNjrzajvO2GvSDtOctJx6QEG9dqSaQ02iKYEp29Bcw=w1200-h800-k-no",
+  "description": "Down-to-earth eatery offering traditional Mexican grub such as tacos & carne asada, plus a bar area.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 14,
+    "3": 37,
+    "4": 72,
+    "5": 285
+  },
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "Closed",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

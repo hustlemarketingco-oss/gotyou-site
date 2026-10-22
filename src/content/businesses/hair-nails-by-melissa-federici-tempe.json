@@ -1,0 +1,48 @@
+{
+  "slug": "hair-nails-by-melissa-federici-tempe",
+  "name": "Hair & Nails by Melissa Federici",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon",
+    "Nail salon"
+  ],
+  "address": "1761 E Warner Rd #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3334,
+  "lng": -111.91268799999999,
+  "phone": "+16025107145",
+  "website": "http://mdfbeauty.wixsite.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair+%26+Nails+by+Melissa+Federici/data=!4m7!3m6!1s0x872b0797c87c4d03:0xdbf4f46b5358c8c4!8m2!3d33.3334!4d-111.912688!16s%2Fg%2F11cmr52b1j!19sChIJA018yJcHK4cRxMhYU2v09Ns?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15849561730420623556",
+  "placeId": "ChIJA018yJcHK4cRxMhYU2v09Ns",
+  "googleRating": 4.1,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW1uBpDBhTuvaXJBJ0nvkPP45zsrZw5S8PYqkfunqG3e2xyfUPn82Yvrfilb-gmLncYu9owV_g4lV2A1KberjJnvu4iwTQU2FrOS4E6iW_DHM2r6sfSdKALfXRv3FshRbZwWSXwg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "5": 24
+  },
+  "hours": {
+    "mon": "5:00 AM - 6:00 PM",
+    "tue": "5:00 AM - 6:00 PM",
+    "wed": "5:00 AM - 6:00 PM",
+    "thu": "5:00 AM - 6:00 PM",
+    "fri": "5:00 AM - 6:00 PM",
+    "sat": "5:00 AM - 6:00 PM",
+    "sun": "5:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "j-nails-spa-tempe",
+  "name": "J Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1740 E Broadway Rd Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4079625,
+  "lng": -111.9105816,
+  "phone": "+14804917883",
+  "website": "https://booking.galaxyaccess.us/jnailsspa7883",
+  "googleMapsUrl": "https://www.google.com/maps/place/J+Nails+%26+Spa/data=!4m7!3m6!1s0x872b09f99a48669f:0x70cf9f82279fdfa1!8m2!3d33.4079625!4d-111.9105816!16s%2Fg%2F11zj_q0d_0!19sChIJn2ZImvkJK4cRod-fJ4Kfz3A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8128891233786388385",
+  "placeId": "ChIJn2ZImvkJK4cRod-fJ4Kfz3A",
+  "googleRating": 4.9,
+  "googleReviewCount": 905,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepcXd5Yw3SqfFWW5QJeVtAJ3YL1lqEpJoDcOiAzO8_q0VD7tfKwmnBtQFIljlXYa9F7utE_8w6ik44a8KiKMlE4WTO8mLl38xs9Fylsf9CuXQMsRGQSpqULKb0HrCNpFjm28hC-dosE0PZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 8,
+    "3": 3,
+    "4": 13,
+    "5": 872
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

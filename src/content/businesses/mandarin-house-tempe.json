@@ -1,0 +1,52 @@
+{
+  "slug": "mandarin-house-tempe",
+  "name": "Mandarin House",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant"
+  ],
+  "address": "1825 E Baseline Rd Ste 2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3779809,
+  "lng": -111.9062993,
+  "phone": "+14808388988",
+  "website": "https://www.mandarinhousetempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mandarin+House/data=!4m7!3m6!1s0x872b063296a26e99:0x8f47c514d6d1677a!8m2!3d33.3779809!4d-111.9062993!16s%2Fg%2F1wk4dj31!19sChIJmW6iljIGK4cRemfR1hTFR48?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10324437364064216954",
+  "placeId": "ChIJmW6iljIGK4cRemfR1hTFR48",
+  "googleRating": 4.1,
+  "googleReviewCount": 494,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ25HTNuZZgoij1SyWKxErJeCoJR3Klf1VGrNsnXSi4PrzhIsWJU5AxCPXFBh0qJ39pQA1iVh29AVTwAhzIx-gKwhVGZzB7DWi1YKk84FGKCZSsPMpD9voE-N0psTGwNVPGTfQag=w1200-h800-k-no",
+  "description": "No-nonsense restaurant serving Chinese standards amid simple decor for dine-in or takeout.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 27,
+    "3": 29,
+    "4": 86,
+    "5": 299
+  },
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "Closed",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

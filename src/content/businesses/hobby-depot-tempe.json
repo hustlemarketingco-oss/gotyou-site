@@ -1,0 +1,47 @@
+{
+  "slug": "hobby-depot-tempe",
+  "name": "Hobby Depot",
+  "category": "Shopping",
+  "googleCategory": "Hobby store",
+  "address": "109 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391867,
+  "lng": -111.9375743,
+  "phone": "+14809681880",
+  "website": "http://www.thehobbydepot.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hobby+Depot/data=!4m7!3m6!1s0x872b08afc5405c97:0xd715f569ccc3fbcd!8m2!3d33.391867!4d-111.9375743!16s%2Fg%2F1tn067t8!19sChIJl1xAxa8IK4cRzfvDzGn1Fdc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15498563527421197261",
+  "placeId": "ChIJl1xAxa8IK4cRzfvDzGn1Fdc",
+  "googleRating": 4.4,
+  "googleReviewCount": 183,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7oscsFrKyL-g3GOJbRNT6pif5lD0Zwx4BBwycdiKzEmJrQGrzc8IaeHHOuddbdDs5agoASQnsS1RDjWh2EKfMcbzTvNEWSTckYwpn0KhIG8Izm6moaBLaf7R_oOffJgqgpZuN=w1200-h800-k-no",
+  "description": "Hobby shop for plastic models & accessories, model railroads, rockets, slot cars & other items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 9,
+    "3": 11,
+    "4": 28,
+    "5": 128
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

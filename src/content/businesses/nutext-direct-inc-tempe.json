@@ -1,0 +1,41 @@
+{
+  "slug": "nutext-direct-inc-tempe",
+  "name": "NUText Direct, Inc.",
+  "category": "Shopping",
+  "googleCategory": "Book store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Gift shop"
+  ],
+  "address": "918 S Park Ln #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4198217,
+  "lng": -111.97517239999999,
+  "phone": "+18662430077",
+  "website": "https://www.bkstr.com/nationalstore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-961",
+  "googleMapsUrl": "https://www.google.com/maps/place/NUText+Direct,+Inc./data=!4m7!3m6!1s0x872b0edff442a12d:0x41df92502223d340!8m2!3d33.4198217!4d-111.9751724!16s%2Fg%2F1tm88xbn!19sChIJLaFC9N8OK4cRQNMjIlCS30E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4746673405139604288",
+  "placeId": "ChIJLaFC9N8OK4cRQNMjIlCS30E",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BV33wKHqTmejLCnIfVkMeg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=311.64948&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

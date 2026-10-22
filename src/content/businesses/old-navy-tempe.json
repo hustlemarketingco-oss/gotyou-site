@@ -1,0 +1,55 @@
+{
+  "slug": "old-navy-tempe",
+  "name": "Old Navy",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Baby clothing store",
+    "Children's clothing store",
+    "Jeans shop",
+    "Men's clothing store",
+    "Women's clothing store"
+  ],
+  "address": "55 S McClintock Dr #135",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.431104999999995,
+  "lng": -111.90832049999999,
+  "phone": "+16232085203",
+  "website": "https://oldnavy.gap.com/stores/az/tempe/oldnavy-2000.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Old+Navy/data=!4m7!3m6!1s0x872b0901e93e359f:0x8244bcf088c074a4!8m2!3d33.431105!4d-111.9083205!16s%2Fg%2F1ts3g226!19sChIJnzU-6QEJK4cRpHTAiPC8RII?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9386835264619443364",
+  "placeId": "ChIJnzU-6QEJK4cRpHTAiPC8RII",
+  "googleRating": 4.3,
+  "googleReviewCount": 630,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5SeQq5k8lbMNM22Iv77UNcqWbXVG1yiyr-004Q9_6cnJQ7gorPSd8j1jPa6WyicMxbuiljuRzUzrSA-LXKJe_Tf-KkwSyuFa_WuTDWKyIACPShk1SbKI2i8WPUXcb4DfcXOnn95QHBSwT=w1200-h800-k-no",
+  "description": "Chain with a wide range of clothing for the family from jeans to loungewear, plus fun accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 18,
+    "3": 75,
+    "4": 159,
+    "5": 357
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "extreme-lifestyle-tempe",
+  "name": "Extreme Lifestyle",
+  "category": "Shopping",
+  "googleCategory": "Novelty store",
+  "address": "5000 S Arizona Mills Cir #418",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3797591,
+  "lng": -111.96503879999999,
+  "phone": "+16023772132",
+  "website": "http://www.extreme-lifestyle.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Extreme+Lifestyle/data=!4m7!3m6!1s0x872b0f59e74d9ac7:0x22d9cecce44c59ed!8m2!3d33.3797591!4d-111.9650388!16s%2Fg%2F11c5svjjyv!19sChIJx5pN51kPK4cR7VlM5MzO2SI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2511265646634621421",
+  "placeId": "ChIJx5pN51kPK4cR7VlM5MzO2SI",
+  "googleRating": 4.9,
+  "googleReviewCount": 391,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkIBzKs9g94ykBBMn3BbKn9qSsDZ1F6RowIJA2UiFA7fP9RmItMcjsx7Hdmzn4ArfFfhg8mCbB0wLPpMk5ac70m0AX2BTa7C9O84Ol35fS3vfK5Ai7XYMma-0mq9hiZPFAlUiBFCBbNB7V=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 7,
+    "4": 12,
+    "5": 364
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

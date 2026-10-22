@@ -1,0 +1,27 @@
+{
+  "slug": "jemllc-tempe",
+  "name": "JEMllc",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "1133 W 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4252888,
+  "lng": -111.956105,
+  "phone": "+14803523518",
+  "googleMapsUrl": "https://www.google.com/maps/place/JEMllc/data=!4m7!3m6!1s0x872b0f9e95ea0771:0x5b18109c064583a3!8m2!3d33.4252888!4d-111.956105!16s%2Fg%2F11y18tv_tn!19sChIJcQfqlZ4PK4cRo4NFBpwQGFs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6564014719198659491",
+  "placeId": "ChIJcQfqlZ4PK4cRo4NFBpwQGFs",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2Nu-fJVOnOCwGtA9Ntc-gA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=217.99779&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

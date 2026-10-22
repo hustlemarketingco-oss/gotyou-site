@@ -1,0 +1,43 @@
+{
+  "slug": "az-finest-barbershop-tempe",
+  "name": "Az Finest Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1328 W University Dr #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4222071,
+  "lng": -111.9596782,
+  "phone": "+16233097889",
+  "googleMapsUrl": "https://www.google.com/maps/place/Az+Finest+Barbershop/data=!4m7!3m6!1s0x872b0f354aad2103:0x8fa72b55947a476b!8m2!3d33.4222071!4d-111.9596782!16s%2Fg%2F11yx8hfpwy!19sChIJAyGtSjUPK4cRa0d6lFUrp48?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10351289915097630571",
+  "placeId": "ChIJAyGtSjUPK4cRa0d6lFUrp48",
+  "googleRating": 4.6,
+  "googleReviewCount": 37,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_BZU4Tfp-HkD3PyW0EkiFZuo5LTeW9EecfJaSiyGNaBBBdRjg5mid8B0DV8xhFqwQnjtMyQ2KnicXFSIHK2uWGd3DfUpMy47c04tjEngL2N-HY-cmba5eTLz8uHPSU3Az6Q46lL3MIF1O=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "5": 33
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "adidas-outlet-store-tempe",
+  "name": "adidas Outlet Store Tempe",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Exercise equipment store",
+    "Shoe store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3821,
+  "lng": -111.96491999999999,
+  "phone": "+14803550053",
+  "website": "https://www.adidas.com/us/stores/united-states/tempe/5000-s-arizona-mills-circle/9990108934",
+  "googleMapsUrl": "https://www.google.com/maps/place/adidas+Outlet+Store+Tempe/data=!4m7!3m6!1s0x872b0f4b93ebc0ef:0x66d4672061f8a45c!8m2!3d33.3821!4d-111.96492!16s%2Fg%2F11fn4m55y3!19sChIJ78Drk0sPK4cRXKT4YSBn1GY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7409660675711607900",
+  "placeId": "ChIJ78Drk0sPK4cRXKT4YSBn1GY",
+  "googleRating": 4.3,
+  "googleReviewCount": 372,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyTdmUpCNmDy_7aphlCwzLKjyLv8IXpFNkaZI0AiH59MVF4Fi57zWGEJvRNtxVaVVVSqju6qmiMWxn12ok86CfJTUcrfSuH8CDL1QA8ApbiqJl7Fu1hrrEA353rgex92MEBb_LGw=w1200-h800-k-no",
+  "description": "Retail store featuring the brand's signature athletic footwear, clothes & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 9,
+    "3": 28,
+    "4": 87,
+    "5": 224
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

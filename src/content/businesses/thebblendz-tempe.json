@@ -1,0 +1,38 @@
+{
+  "slug": "thebblendz-tempe",
+  "name": "TheBBlendz",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "707 S Farmer Ave Ste 122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4220478,
+  "lng": -111.94400739999999,
+  "phone": "+16024195499",
+  "website": "https://bblendz41.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/TheBBlendz/data=!4m7!3m6!1s0x872b09c35f6fc323:0xc1e3f1bcc20cefca!8m2!3d33.4220478!4d-111.9440074!16s%2Fg%2F11yvpkx9cm!19sChIJI8NvX8MJK4cRyu8Mwrzx48E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13971276262045183946",
+  "placeId": "ChIJI8NvX8MJK4cRyu8Mwrzx48E",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE3M2FkcADWeuTLLM1dW4-tY69aKLnr80h8ilFiOHgi8Vs5OWThToxW21vytwDUrnwr1_tKCvVzqVzTv8uoKBAZ2GzUwu8cRnhDnTh4FvPKqdRIslGu4_T_J_ulqKg4jMTK67TVJSGclH6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

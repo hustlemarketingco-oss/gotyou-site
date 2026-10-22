@@ -1,0 +1,45 @@
+{
+  "slug": "az-gold-tempe",
+  "name": "AZ GOLD",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "address": "5000 S Arizona Mills Cir #681",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3852447,
+  "lng": -111.96447549999999,
+  "phone": "+16025961811",
+  "website": "http://azgoldazmills.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZ+GOLD/data=!4m7!3m6!1s0x872b0fc20d9be84b:0x46c6c1d04b91ee48!8m2!3d33.3852447!4d-111.9644755!16s%2Fg%2F11ppgnnl2b!19sChIJS-ibDcIPK4cRSO6RS9DBxkY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5099976728408878664",
+  "placeId": "ChIJS-ibDcIPK4cRSO6RS9DBxkY",
+  "googleRating": 4.8,
+  "googleReviewCount": 385,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdNTSgLC0Fwkx7ES-vG8jReHCq3Wch1y8o8PO8FRu8sNf1BkPR05V9rx5zR8Tn9YhRA9W7ka0Ea7PB8-tFS4E3vTAzZXSjCId-G-O7d3Lg_G1gYtNLYe93CraR8d5a3OVtlj2RdHbfUe0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "5": 367
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

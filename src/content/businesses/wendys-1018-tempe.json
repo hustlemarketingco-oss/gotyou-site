@@ -17,7 +17,7 @@
   "website": "https://locations.wendys.com/united-states/az/tempe/1018-e-baseline-rd",
   "placeId": "ChIJX_V7nCMGK4cROXNu4orqVcM",
   "googleRating": 4,
-  "googleReviewCount": 1559,
+  "googleReviewCount": 1569,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 3:00 AM",
@@ -34,5 +34,21 @@
   "groundgameId": "6a2c1dce85c993e511d03530",
   "seededAt": "2026-06-12T14:55:10Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14075414092641628985",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x872b06239c7bf55f:0xc355ea8ae26e7339!8m2!3d33.3787437!4d-111.924371!16s%2Fg%2F11ddwvllyf!19sChIJX_V7nCMGK4cROXNu4orqVcM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 152,
+    "2": 75,
+    "3": 186,
+    "4": 396,
+    "5": 760
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwtZ7g_ib3gfsYw1wGbnjZrceZGuWUVHHUHOLLJiZjGVKlb0Mj8k4GJ1lVy-ZULTGUGN3OX2FnaBYR7-kpf559OkzDL2KTOX-bsi-b66VKjro0lZUXcrLGBL-K1q80adgwGNE4-Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

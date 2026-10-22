@@ -15,29 +15,17 @@
   "lng": -111.940859,
   "phone": "+14804004922",
   "website": "https://macdaddywingzsandcheeze.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3268021227047724655",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mac+Daddy+Wingz+and+Cheeze/data=!4m7!3m6!1s0x872b09f8af1ac68f:0x2d5a57fdc49da66f!8m2!3d33.3947953!4d-111.9409561!16s%2Fg%2F11nftl269j!19sChIJj8Yar_gJK4cRb6adxP1XWi0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3268021227047724655",
   "placeId": "ChIJj8Yar_gJK4cRb6adxP1XWi0",
   "googleRating": 4.9,
-  "googleReviewCount": 290,
+  "googleReviewCount": 373,
   "priceRange": "$10–20",
   "description": "Mac Daddy Wingz and Cheeze is a Tempe casual, trendy american restaurant & cajun restaurant known for comfort food & quick bite.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/macdaddy_az"
@@ -57,5 +45,14 @@
   "groundgameId": "6a243a184842f5436eb28739",
   "seededAt": "2026-06-06T15:17:44Z",
   "updatedAt": "2026-08-06T19:19:37Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 3,
+    "4": 15,
+    "5": 347
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUCJSGoiP7SqVA0UAoDTtkVnFuiAFMKP9nKyNM_a2I59Pw5zk7mr1S9W9gkFxm30xAGLgroT1FScwcLABeYStf9zd8xpYV-8dAqZ5eiOIPq2I9tEYTJixfhzYSdiR8HhiBdta9tFltMGU=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

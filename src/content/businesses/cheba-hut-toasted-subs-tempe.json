@@ -23,7 +23,7 @@
   "website": "https://chebahut.com/locations/tempeaz/",
   "placeId": "ChIJOaTXR9UIK4cRo9bhk6rkDnw",
   "googleRating": 4.6,
-  "googleReviewCount": 2229,
+  "googleReviewCount": 2395,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a2753927016ed509b85f9be",
   "seededAt": "2026-06-08T23:43:14Z",
   "updatedAt": "2026-08-05T22:01:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8939333731653637795",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cheba+Hut+%22Toasted%22+Subs/data=!4m7!3m6!1s0x872b08d547d7a439:0x7c0ee4aa93e1d6a3!8m2!3d33.4227367!4d-111.9515061!16s%2Fg%2F1tg8k5n5!19sChIJOaTXR9UIK4cRo9bhk6rkDnw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 85,
+    "2": 26,
+    "3": 78,
+    "4": 278,
+    "5": 1928
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPXPyI5QViyf_tkIfU1WnLRfAHeo9cdO2yIxXjLlbPcl2WoiRgwUGXZLLNxXUp8EIx3ZA0uzxk7mH3TbGKTdFob1uNZvUjp5tdgFaw5TDvieMDIorOyX0mJq7n2XcClpP-C6gC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

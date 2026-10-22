@@ -1,0 +1,42 @@
+{
+  "slug": "her-honey-spot-llc-tempe",
+  "name": "Her Honey Spot LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 W 6th St Ste 110 room #120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241242,
+  "lng": -111.94196,
+  "phone": "+16232612178",
+  "googleMapsUrl": "https://www.google.com/maps/place/Her+Honey+Spot+LLC/data=!4m7!3m6!1s0x872b085b35246ebb:0x5f8e6d7e0c0ee7bb!8m2!3d33.4241242!4d-111.94196!16s%2Fg%2F11pkfrpxrm!19sChIJu24kNVsIK4cRu-cODH5tjl8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6885561268431677371",
+  "placeId": "ChIJu24kNVsIK4cRu-cODH5tjl8",
+  "googleRating": 5,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzCPLhG29LyNggP9esK8N6MlkNZUOMhD6SYaq8Ur5720QK-VWOzvoZakCo4aMAJtFYiOB5YXYME8f48DZ5QMtpNtWqxyOm4VwFFACRmhAZOu7rNukhJII_Ey1Gs70jDxT9QVIA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 31
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

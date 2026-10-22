@@ -2,7 +2,7 @@
   "slug": "chickenhug-tempe",
   "name": "ChickenHug",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Chicken restaurant",
   "address": "2070 E Apache Blvd #103",
   "city": "Tempe",
   "state": "AZ",
@@ -13,7 +13,7 @@
   "website": "https://chickenhug.com/",
   "placeId": "ChIJFTfM3XMJK4cRgdxB48twKGE",
   "googleRating": 4.9,
-  "googleReviewCount": 446,
+  "googleReviewCount": 527,
   "sameAs": [
     "https://www.instagram.com/chickenhug/"
   ],
@@ -32,5 +32,22 @@
   "groundgameId": "6a3cacdce7b829c8e2c0235a",
   "seededAt": "2026-06-25T04:21:48Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7000969641740852353",
+  "googleMapsUrl": "https://www.google.com/maps/place/ChickenHug/data=!4m7!3m6!1s0x872b0973ddcc3715:0x612870cbe341dc81!8m2!3d33.4150768!4d-111.8973116!16s%2Fg%2F11xtxm8nwk!19sChIJFTfM3XMJK4cRgdxB48twKGE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 5,
+    "4": 10,
+    "5": 504
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX01TQLmDUIiJDQhWZnb-eY9Xm7V1LmoavRShynDPu9iZf-o7yMJ0pKTLEEeHA1p0vyf8EA00MwRzcbskuDPnBs9YHbAnMmfUUSYXkW_UvGkiGbtslrBhLB__KoVeaYH4rvNWwvhxFvRw_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "xquisite-salon-tempe",
+  "name": "Xquisite Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1761 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3338107,
+  "lng": -111.9123834,
+  "phone": "+14806287632",
+  "googleMapsUrl": "https://www.google.com/maps/place/Xquisite+Salon/data=!4m7!3m6!1s0x872b079e8ae506bb:0x77cda957512c6372!8m2!3d33.3338107!4d-111.9123834!16s%2Fg%2F11xyrt98nl!19sChIJuwblip4HK4cRcmMsUVepzXc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8632742253228221298",
+  "placeId": "ChIJuwblip4HK4cRcmMsUVepzXc",
+  "googleRating": 5,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVYAubhFpPyEaEmq90hGo_nJJOHjjEJ32TZacOH01L8Mf3gDzxw74cqRkRmaVrIWtYw2wNnQq43pMJwadfYLvji4GbJ0bNW3H-ewfh9yPtV-48ScSZHRF5XHHkOib-X3ttIh1-bcpCiXs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 10
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

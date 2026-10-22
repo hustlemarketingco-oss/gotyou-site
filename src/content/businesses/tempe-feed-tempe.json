@@ -1,0 +1,47 @@
+{
+  "slug": "tempe-feed-tempe",
+  "name": "Tempe Feed",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "1041 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216299,
+  "lng": -111.9536469,
+  "phone": "+14809663884",
+  "website": "http://tempefeed.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Feed/data=!4m7!3m6!1s0x872b0f2ac2856ba5:0xd02526115b1da233!8m2!3d33.4216299!4d-111.9536469!16s%2Fg%2F1v7pyyqs!19sChIJpWuFwioPK4cRM6IdWxEmJdA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14998435990012273203",
+  "placeId": "ChIJpWuFwioPK4cRM6IdWxEmJdA",
+  "googleRating": 4.8,
+  "googleReviewCount": 573,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLJJIBhzqbBVnKTJ5W_C2J5b0NOOEuo3JkWQ7CD7g_s338_093pRPUhOpD-wzMcro8-PO6PBpamHXsw-U0avYLSJGi3o9e9oM1ZeA__qnWqML5WyEtXsNNlD5f1U1p0dyRyrLvs7PmCWfj=w1200-h800-k-no",
+  "description": "Long-standing source for dog, cat, bird, poultry, small-animal, pig & horse food & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 4,
+    "3": 7,
+    "4": 39,
+    "5": 516
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:30 PM",
+    "tue": "8:00 AM - 5:30 PM",
+    "wed": "8:00 AM - 5:30 PM",
+    "thu": "8:00 AM - 5:30 PM",
+    "fri": "8:00 AM - 5:30 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

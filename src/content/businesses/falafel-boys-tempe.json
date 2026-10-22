@@ -1,0 +1,37 @@
+{
+  "slug": "falafel-boys-tempe",
+  "name": "Falafel boys",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1858 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4151599,
+  "lng": -111.9058757,
+  "phone": "+15053164470",
+  "googleMapsUrl": "https://www.google.com/maps/place/Falafel+boys/data=!4m7!3m6!1s0x872b094df2824a79:0x1bf05c5cc4fb5d1d!8m2!3d33.4151599!4d-111.9058757!16s%2Fg%2F11p1mtvk7g!19sChIJeUqC8k0JK4cRHV37xFxc8Bs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2013210586946166045",
+  "placeId": "ChIJeUqC8k0JK4cRHV37xFxc8Bs",
+  "googleRating": 5,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf61kRj9ifY0QeON1aeh8AbYRl5bITEG1hfU4uYp0OdLNT4VCfx0rW7kgzc3ybyzwKs42pzq1u41tCcsD5Qp0-GD2_FLCPmMnk8bchr94pF3g1BILpmMztRmGBsxsQ5O_1-OIUhqSoMrWJp=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 10
+  },
+  "hours": {
+    "mon": "4:00 PM - 12:00 AM",
+    "tue": "4:00 PM - 12:00 AM",
+    "wed": "4:00 PM - 12:00 AM",
+    "thu": "4:00 PM - 2:00 AM",
+    "fri": "4:00 PM - 2:00 AM",
+    "sat": "4:00 PM - 2:00 AM",
+    "sun": "4:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

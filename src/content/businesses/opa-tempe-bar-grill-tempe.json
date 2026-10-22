@@ -2,7 +2,7 @@
   "slug": "opa-tempe-bar-grill-tempe",
   "name": "Opa Tempe Bar & Grill",
   "category": "Restaurant",
-  "googleCategory": "Mediterranean restaurant",
+  "googleCategory": "Greek restaurant",
   "secondaryCategories": [
     "Bar",
     "Cafe",
@@ -21,11 +21,11 @@
   "lng": -111.9356804,
   "phone": "+14802928180",
   "website": "https://opatempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=7311395099050810289",
+  "googleMapsUrl": "https://www.google.com/maps/place/Opa+Tempe+Bar+%26+Grill/data=!4m7!3m6!1s0x872b06f775659a61:0x65774b1aeb749bb1!8m2!3d33.3777947!4d-111.9356804!16s%2Fg%2F11b5wpb7pr!19sChIJYZpldfcGK4cRsZt06xpLd2U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "7311395099050810289",
   "placeId": "ChIJYZpldfcGK4cRsZt06xpLd2U",
   "googleRating": 4.5,
-  "googleReviewCount": 1651,
+  "googleReviewCount": 1670,
   "description": "Located in Tempe, Opa Tempe Bar & Grill is a mediterranean restaurant & bar.",
   "hours": {
     "fri": "11:30 AM - 9:30 PM",
@@ -42,5 +42,20 @@
   "groundgameId": "6a243786e5e244fca18f8ff1",
   "seededAt": "2026-06-06T15:06:46Z",
   "updatedAt": "2026-06-26T21:08:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 78,
+    "2": 38,
+    "3": 82,
+    "4": 268,
+    "5": 1204
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFa63qAL8FZBDcCfiLaC_6LLxegBF7HnuXARE7OK1owgW72lQtRcrbqHILlgiHo7nXDkD8IKJJ0DSqHLfDpb0Rvn_bK7ADenxmM-oagabwCl7nj7W9Zz96arRaiuhRS4Z3oaIB=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

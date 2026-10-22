@@ -1,0 +1,36 @@
+{
+  "slug": "eclipse-paddlebar-tempe",
+  "name": "Eclipse PaddleBAR",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "address": "2015 E 5th St Ste 7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4248774,
+  "lng": -111.898737,
+  "phone": "+16028248442",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eclipse+PaddleBAR/data=!4m7!3m6!1s0x872b0991cb2c024f:0x931156142c634740!8m2!3d33.4248774!4d-111.898737!16s%2Fg%2F11f772v_zn!19sChIJTwIsy5EJK4cRQEdjLBRWEZM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10597346042823526208",
+  "placeId": "ChIJTwIsy5EJK4cRQEdjLBRWEZM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jrmER5fXLZmu5ko9eFa5LA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=354.66467&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

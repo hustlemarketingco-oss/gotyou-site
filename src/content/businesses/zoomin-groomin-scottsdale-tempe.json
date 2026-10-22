@@ -1,0 +1,42 @@
+{
+  "slug": "zoomin-groomin-scottsdale-tempe",
+  "name": "Zoomin Groomin Scottsdale",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "689 W Minton Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3804795,
+  "lng": -111.9515852,
+  "phone": "+16025609315",
+  "website": "https://zoomingroomin.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zoomin+Groomin+Scottsdale/data=!4m7!3m6!1s0x872b0746071284f5:0x2f6228968ae94528!8m2!3d33.3804795!4d-111.9515852!16s%2Fg%2F11xp3yg_6t!19sChIJ9YQSB0YHK4cRKEXpipYoYi8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3414336094541006120",
+  "placeId": "ChIJ9YQSB0YHK4cRKEXpipYoYi8",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpirsxIP27Mcaj4LSvRSR7wQCpQXF39Vw60rUgUYUNYzpUbHVxn1wYNO1jooxeAyOE7gBHBZgsAKQ2Dy_pADAAHyenko6IUENtScZfQlsCt1XZ8a_0uulAOH9r1uTR4421niYr_tGjE2KI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

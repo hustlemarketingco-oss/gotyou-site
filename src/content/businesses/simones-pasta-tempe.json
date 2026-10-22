@@ -1,0 +1,41 @@
+{
+  "slug": "simones-pasta-tempe",
+  "name": "Simone's Pasta",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+14804002018",
+  "website": "https://www.simonespasta.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Simone%27s+Pasta/data=!4m7!3m6!1s0x872b09fe145b4695:0x474fd98bbc4d0d83!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11y7jrtjn5!19sChIJlUZbFP4JK4cRgw1NvIvZT0c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5138564894035873155",
+  "placeId": "ChIJlUZbFP4JK4cRgw1NvIvZT0c",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "tue": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "wed": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "thu": "11:00 AM - 2:00 PM, 5:00 PM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 PM, 5:00 PM - 2:00 AM",
+    "sat": "5:00 PM - 2:00 AM",
+    "sun": "5:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

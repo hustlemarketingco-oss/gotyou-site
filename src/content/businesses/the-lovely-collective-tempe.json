@@ -1,0 +1,44 @@
+{
+  "slug": "the-lovely-collective-tempe",
+  "name": "The Lovely Collective",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "6601 S Rural Rd Ste 12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+14804422654",
+  "website": "https://www.thelovelycoaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Lovely+Collective/data=!4m7!3m6!1s0x872b0b1e2536b9ef:0x3a8a0afb4c2f084d!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11xt0zbcyt!19sChIJ77k2JR4LK4cRTQgvTPsKijo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4218196075417110605",
+  "placeId": "ChIJ77k2JR4LK4cRTQgvTPsKijo",
+  "googleRating": 5,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCVia5HdxAYXwca-0Z0cWxsFwS3LB1-lMZ1Z-R_zkhMn96ACxDcuBaLfA_Kkz1No8iWklBS-nq2e9ipuhMKwprgmY4tI2UNFMHqez2gqO6sGUfD7aTJlb_x41-qNikCB4JINrO0jk6s612=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 19
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

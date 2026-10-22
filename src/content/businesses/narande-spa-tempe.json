@@ -1,0 +1,51 @@
+{
+  "slug": "narande-spa-tempe",
+  "name": "Narande Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Day spa",
+  "secondaryCategories": [
+    "Massage therapist",
+    "Spa"
+  ],
+  "address": "2000 W Westcourt Way",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4040479,
+  "lng": -111.9708029,
+  "phone": "+16024312357",
+  "website": "http://www.marriott.com/hotels/hotel-information/fitness-spa-services/phxtm-phoenix-marriott-tempe-at-the-buttes/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Narande+Spa/data=!4m7!3m6!1s0x872b0f38dd097877:0x736bde6654887666!8m2!3d33.4040479!4d-111.9708029!16s%2Fg%2F1tvtbtkr!19sChIJd3gJ3TgPK4cRZnaIVGbea3M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8316985667956012646",
+  "placeId": "ChIJd3gJ3TgPK4cRZnaIVGbea3M",
+  "googleRating": 4,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1tHZNY5y9QqHtkoOd2CrujH1NzqvSVrnsukxbRRR6-7_YOxLYWBDzdklL4bTx9xrenB2IGiwtuvshUPu_iRkvOA3LAV6oWB6-NXXyWwS2rhxCGowS0elIXYRmgJWI3QcbvRRd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "3": 2,
+    "4": 8,
+    "5": 20
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hippies-r-us-tempe",
+  "name": "Hippies R Us",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "address": "5000 S Arizona Mills Cir #502",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3832233,
+  "lng": -111.9644216,
+  "phone": "+14026853743",
+  "website": "https://tempegems.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hippies+R+Us/data=!4m7!3m6!1s0x872b0f5b87b30689:0x22f089ddc9b7241c!8m2!3d33.3832233!4d-111.9644216!16s%2Fg%2F11l6bt2b57!19sChIJiQazh1sPK4cRHCS3yd2J8CI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2517663777365107740",
+  "placeId": "ChIJiQazh1sPK4cRHCS3yd2J8CI",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckAuJv940_nKkKC76RhDtNlVmq4uE4ZDnUFPH_IQLJT0tw8vG9OW1aq3HPEphYglLv_apv1Cn96nZPvkmF0ilHPRiQgriYNiVPi6bsiU_ysuKfG2y9unxI30rCHtltOLPZnktme8Dpu1ww=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

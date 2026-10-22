@@ -1,0 +1,34 @@
+{
+  "slug": "legendz-room-barber-shop-tempe",
+  "name": "LEGENDZ ROOM Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "405 W Southern Ave Unit 119",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.39231,
+  "lng": -111.94533679999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/LEGENDZ+ROOM+Barber+Shop/data=!4m7!3m6!1s0x872b0940a0749eeb:0x128fc09058ef2fa5!8m2!3d33.39231!4d-111.9453368!16s%2Fg%2F11yd1q62t9!19sChIJ6550oEAJK4cRpS_vWJDAjxI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1337499340552220581",
+  "placeId": "ChIJ6550oEAJK4cRpS_vWJDAjxI",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiZZ4pVd_YuyjuG5QVoqm2eBlZMHjS_osnnYPSrvjqFKyBdRz_EbsIR3OSuJc32xk-SYoAER3GKrQMJXFsrCzFG_aeEwiNbSHsmOFCcdDOzfdPTcLB6S61dl6HgYuPL0yHavTLKMKjhuE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

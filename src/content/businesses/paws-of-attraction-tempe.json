@@ -1,0 +1,44 @@
+{
+  "slug": "paws-of-attraction-tempe",
+  "name": "Paws of Attraction",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "3123 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394809699999996,
+  "lng": -111.93890379999999,
+  "phone": "+14809347188",
+  "website": "https://www.pawsofattractionsalon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paws+of+Attraction/data=!4m7!3m6!1s0x872b0995985d07b1:0xc852e472b958c5f2!8m2!3d33.3948097!4d-111.9389038!16s%2Fg%2F11wp68fxwk!19sChIJsQddmJUJK4cR8sVYuXLkUsg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14434850937062868466",
+  "placeId": "ChIJsQddmJUJK4cR8sVYuXLkUsg",
+  "googleRating": 4.9,
+  "googleReviewCount": 61,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-tOdTFIZXqFYHQdZaWa4KtkZk-d-Chgj3kTO99af-IzdxFvwgfl_mNxyjdV_bxUxCyixpRmYPuJwLlos0d9k7WxkDJxtwK7tYCwVs1Od3MUWYOplt9wkFJK7x6EeLGUMCmuBtmA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 59
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "best-deal-in-town-tempe",
+  "name": "Best Deal In Town",
+  "category": "Shopping",
+  "googleCategory": "Electronics store",
+  "secondaryCategories": [
+    "Department store",
+    "Discount store",
+    "Furniture store",
+    "Home theater store"
+  ],
+  "address": "5801 S McClintock Dr Unit 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.370815199999996,
+  "lng": -111.9107894,
+  "phone": "+14806567405",
+  "website": "http://www.bestdealaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Best+Deal+In+Town/data=!4m7!3m6!1s0x872b061b8d0e8631:0xdc50d7388a1aa45f!8m2!3d33.3708152!4d-111.9107894!16s%2Fg%2F1tgdp03p!19sChIJMYYOjRsGK4cRX6QaijjXUNw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15875425324316140639",
+  "placeId": "ChIJMYYOjRsGK4cRX6QaijjXUNw",
+  "googleRating": 4.7,
+  "googleReviewCount": 509,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFcjTff8GR_NJK1QrxYVtzhoWtSBY6Ab0dk--u5wkDZcZO--CrBj1ykPP_xHGwD6mImzn4uK3LjY2hJW-fYr47HmbXAylvdazjXG9e8ZAyfX9-oEJ_EUMg57fOXn-oUS9lIqsb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 9,
+    "3": 8,
+    "4": 36,
+    "5": 434
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

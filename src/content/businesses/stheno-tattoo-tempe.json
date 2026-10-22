@@ -1,0 +1,42 @@
+{
+  "slug": "stheno-tattoo-tempe",
+  "name": "Stheno Tattoo",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "address": "3163 S McClintock Dr Ste 29",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941365,
+  "lng": -111.9077353,
+  "phone": "+14806529049",
+  "googleMapsUrl": "https://www.google.com/maps/place/Stheno+Tattoo/data=!4m7!3m6!1s0x872b09f687f7b019:0x7cb2259371788850!8m2!3d33.3941365!4d-111.9077353!16s%2Fg%2F11whxrxscs!19sChIJGbD3h_YJK4cRUIh4cZMlsnw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8985285521751705680",
+  "placeId": "ChIJGbD3h_YJK4cRUIh4cZMlsnw",
+  "googleRating": 4,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2BZfBhlwBC-fZmUsYMTwZZpaT5vGrlg1gYOe3Yjwgo7O2-m6Vza1Peuflz29KLGDr-J7ej6TsxqyYNner2S8l3wNC0Q9lTJ2VYVAL9v27W1wgmQsQUjh448llp9hSsAZc-FS6hw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 6
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

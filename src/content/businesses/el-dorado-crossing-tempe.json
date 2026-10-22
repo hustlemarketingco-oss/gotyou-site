@@ -1,0 +1,46 @@
+{
+  "slug": "el-dorado-crossing-tempe",
+  "name": "EL Dorado Crossing",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "780 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495883,
+  "lng": -111.94978049999999,
+  "phone": "+14805261964",
+  "googleMapsUrl": "https://www.google.com/maps/place/EL+Dorado+Crossing/data=!4m7!3m6!1s0x872b0679d4fd3d4d:0x15cd22d33fc7de0c!8m2!3d33.3495883!4d-111.9497805!16s%2Fg%2F11fp8wgk0p!19sChIJTT391HkGK4cRDN7HP9MizRU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1570950135725678092",
+  "placeId": "ChIJTT391HkGK4cRDN7HP9MizRU",
+  "googleRating": 4.4,
+  "googleReviewCount": 202,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8IOAF7ziJfqz4b1QicLRNb6uVRzZQl9RhCnd4kCpwUhVncA1joO5wECD9nn2s2xzdJZQFwXhXQHqkGE6bqq7jOCXsloOcmV9bYvUClwBRKOA8FtARB3h7xdo02d0YO9oibGda=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 6,
+    "3": 26,
+    "4": 53,
+    "5": 116
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

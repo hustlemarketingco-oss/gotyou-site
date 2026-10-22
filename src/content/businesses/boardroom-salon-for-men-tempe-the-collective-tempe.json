@@ -1,0 +1,53 @@
+{
+  "slug": "boardroom-salon-for-men-tempe-the-collective-tempe",
+  "name": "Boardroom Salon for Men - Tempe - The Collective",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Facial spa",
+    "Hair removal service",
+    "Hair salon",
+    "Waxing hair removal service"
+  ],
+  "address": "1120 E Baseline Rd Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3786096,
+  "lng": -111.9236097,
+  "phone": "+16025602990",
+  "website": "https://www.boardroomsalon.com/locations/tempe-the-collective",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boardroom+Salon+for+Men+-+Tempe+-+The+Collective/data=!4m7!3m6!1s0x872b070078327911:0xc071ca264ffd3d93!8m2!3d33.3786096!4d-111.9236097!16s%2Fg%2F11j496gzv7!19sChIJEXkyeAAHK4cRkz39TybKccA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13867086993550032275",
+  "placeId": "ChIJEXkyeAAHK4cRkz39TybKccA",
+  "googleRating": 4.3,
+  "googleReviewCount": 165,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_6K40BP3eAl2ZJ9R2ke9l3NkydVX0jd9ZX-lh9xu-pvfd33h_SHzh_fdseJtLAZ1mdx-EfDxVNvKa3AK0_AjsqqElreRDOH3zUXgeaNls0l5YAz2rFf4yPz23xBbQS5zRThF2aA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 4,
+    "3": 2,
+    "4": 9,
+    "5": 129
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

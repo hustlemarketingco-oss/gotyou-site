@@ -1,0 +1,51 @@
+{
+  "slug": "cut-rite-barber-shop-salon-tempe",
+  "name": "Cut-Rite Barber Shop & Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Key duplication service",
+    "Shoe repair shop",
+    "Watch repair service"
+  ],
+  "address": "1039 E Lemon St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.416256499999996,
+  "lng": -111.92251279999999,
+  "phone": "+16236280473",
+  "website": "https://cut-ritebarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cut-Rite+Barber+Shop+%26+Salon/data=!4m7!3m6!1s0x872b08ef2ff9600b:0x448854f4c7d5ae9d!8m2!3d33.4162565!4d-111.9225128!16s%2Fg%2F1vn9pk7_!19sChIJC2D5L-8IK4cRna7Vx_RUiEQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4938290401713172125",
+  "placeId": "ChIJC2D5L-8IK4cRna7Vx_RUiEQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 221,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfG4oHrB-YFufFeWfmrx9eU53Ap8zgGUiZixbdkro15dBCtPiX5EqL1I_xZMrCFSCQRhyZ5n4YmrLP6ux_QBgKaGKs-MNuwME5xw7Fu4o5i4RRfrSnwiozeWPZ--IDvu89XVItsvQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 2,
+    "4": 8,
+    "5": 201
+  },
+  "hours": {
+    "mon": "9:30 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

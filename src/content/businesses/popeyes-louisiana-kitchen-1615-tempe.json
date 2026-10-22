@@ -1,0 +1,55 @@
+{
+  "slug": "popeyes-louisiana-kitchen-1615-tempe",
+  "name": "Popeyes Louisiana Kitchen",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Cajun restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "1615 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3485294,
+  "lng": -111.9646509,
+  "phone": "+15206408754",
+  "website": "https://www.popeyes.com/store-locator/store/restaurant_85017",
+  "googleMapsUrl": "https://www.google.com/maps/place/Popeyes+Louisiana+Kitchen/data=!4m7!3m6!1s0x872b05c5304844f3:0xaf16714a819c88b8!8m2!3d33.3485294!4d-111.9646509!16s%2Fg%2F11b6_qtlzg!19sChIJ80RIMMUFK4cRuIicgUpxFq8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12616395970941061304",
+  "placeId": "ChIJ80RIMMUFK4cRuIicgUpxFq8",
+  "googleRating": 3.6,
+  "googleReviewCount": 2498,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU2oPN_l2U0rmU4ZNPut6ugaMdUoHf1B6-t2yVd1Ezl8Wge4X5prd5e7Zb3AaMAhuS5EAIoI0PMxQuJiwiZLhrQ2ZjHu14WgrDOA3m8GllpxabLoq7G4bK1xvO3taiJS4Jb5GWbw=w1200-h800-k-no",
+  "description": "Louisiana-inspired fast-food chain known for its crispy fried chicken, chicken sandwiches & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 486,
+    "2": 157,
+    "3": 311,
+    "4": 489,
+    "5": 1055
+  },
+  "hours": {
+    "mon": "9:00 AM - 12:00 AM",
+    "tue": "9:00 AM - 12:00 AM",
+    "wed": "9:00 AM - 12:00 AM",
+    "thu": "9:00 AM - 1:00 AM",
+    "fri": "9:00 AM - 1:00 AM",
+    "sat": "9:00 AM - 1:00 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

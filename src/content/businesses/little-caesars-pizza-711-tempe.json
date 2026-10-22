@@ -1,0 +1,52 @@
+{
+  "slug": "little-caesars-pizza-711-tempe",
+  "name": "Little Caesars Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "711 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407204,
+  "lng": -111.92740699999999,
+  "phone": "+14804462844",
+  "website": "https://littlecaesars.com/en-us/store/1339",
+  "googleMapsUrl": "https://www.google.com/maps/place/Little+Caesars+Pizza/data=!4m7!3m6!1s0x872b08954c09e775:0xd830b9f33a25fdf1!8m2!3d33.407204!4d-111.927407!16s%2Fg%2F1wf229vj!19sChIJdecJTJUIK4cR8f0lOvO5MNg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15578155565378305521",
+  "placeId": "ChIJdecJTJUIK4cR8f0lOvO5MNg",
+  "googleRating": 3.5,
+  "googleReviewCount": 1279,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoayrbLIChRG2_K3VdUOLYFJZDSmHFbzBpGOmxl65cn-Yy-mEXChxpZJzr9zkSJbzMkq2BG-L2CoV4-3Ejq9smh-iP8VG75yO_Wwy_hQuhyhCQYGXMjO3hVuglJp6lJQyaI6Q=w1200-h800-k-no",
+  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 255,
+    "2": 91,
+    "3": 160,
+    "4": 260,
+    "5": 513
+  },
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

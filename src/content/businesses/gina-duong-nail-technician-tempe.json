@@ -1,0 +1,36 @@
+{
+  "slug": "gina-duong-nail-technician-tempe",
+  "name": "Gina Duong - Nail Technician",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "3320 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3920878,
+  "lng": -111.9110034,
+  "googleMapsUrl": "https://www.google.com/maps/place/Gina+Duong+-+Nail+Technician/data=!4m7!3m6!1s0x872b09044201bcbf:0xdcfb25be4f921a1b!8m2!3d33.3920878!4d-111.9110034!16s%2Fg%2F11zcjghlly!19sChIJv7wBQgQJK4cRGxqST74l-9w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15923362406807509531",
+  "placeId": "ChIJv7wBQgQJK4cRGxqST74l-9w",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=39lowdqz9KF6c5pt-4lm5A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=284.4289&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 AM",
+    "wed": "10:00 AM - 5:00 AM",
+    "thu": "10:00 AM - 5:00 AM",
+    "fri": "10:00 AM - 5:00 AM",
+    "sat": "10:00 AM - 5:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

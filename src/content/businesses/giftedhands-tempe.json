@@ -1,0 +1,36 @@
+{
+  "slug": "giftedhands-tempe",
+  "name": "Giftedhands",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241253,
+  "lng": -111.9419678,
+  "phone": "+15207099516",
+  "googleMapsUrl": "https://www.google.com/maps/place/Giftedhands/data=!4m7!3m6!1s0x872b09a19d3bc73b:0xa7dbc4886fe74c4!8m2!3d33.4241253!4d-111.9419678!16s%2Fg%2F11h_kcfl7b!19sChIJO8c7naEJK4cRxHT-hki8fQo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "755967332156601540",
+  "placeId": "ChIJO8c7naEJK4cRxHT-hki8fQo",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLBkJhUCHlQM-2HjQxPJDs_yW5Fc1MPUj94uZ2uib7VFOFVq8Cnhvr_9CBpa_wy9LiCpval4x6fISdvBspyPSCfxU6AhNFlPw8DcLkC4tZVv6yIZlNXB8Hv3PC12zILqnN0hvBkg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

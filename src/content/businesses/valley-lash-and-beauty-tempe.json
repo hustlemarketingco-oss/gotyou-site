@@ -1,0 +1,37 @@
+{
+  "slug": "valley-lash-and-beauty-tempe",
+  "name": "Valley Lash and Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "address": "S Evergreen Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3977475,
+  "lng": -111.8852146,
+  "phone": "+19099778614",
+  "website": "https://valleylashandbeauty.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Valley+Lash+and+Beauty/data=!4m7!3m6!1s0x872b090a7912b1d9:0x2ed2e0f9b9863c14!8m2!3d33.3977475!4d-111.8852146!16s%2Fg%2F11yxh51lmd!19sChIJ2bESeQoJK4cRFDyGufng0i4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3374006434017983508",
+  "placeId": "ChIJ2bESeQoJK4cRFDyGufng0i4",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 12:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 12:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

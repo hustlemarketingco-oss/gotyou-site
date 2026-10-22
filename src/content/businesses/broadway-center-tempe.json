@@ -1,0 +1,46 @@
+{
+  "slug": "broadway-center-tempe",
+  "name": "Broadway Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1537 W Broadway Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4073214,
+  "lng": -111.9655293,
+  "phone": "+18336100761",
+  "website": "https://curbline.com/properties",
+  "googleMapsUrl": "https://www.google.com/maps/place/Broadway+Center/data=!4m7!3m6!1s0x872b0fcddcdee5e9:0x192c4585584025aa!8m2!3d33.4073214!4d-111.9655293!16s%2Fg%2F11t7_l7kkk!19sChIJ6eXe3M0PK4cRqiVAWIVFLBk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1813901188937033130",
+  "placeId": "ChIJ6eXe3M0PK4cRqiVAWIVFLBk",
+  "googleRating": 4,
+  "googleReviewCount": 10,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F5LqgqIgczKPVoHS1_qI4w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=9.677435&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 2,
+    "4": 2,
+    "5": 5
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "five-below-5000-tempe",
+  "name": "Five Below",
+  "category": "Shopping",
+  "googleCategory": "Variety store",
+  "secondaryCategories": [
+    "Candy store",
+    "Fashion accessories store",
+    "Gift shop",
+    "Toy store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste. 166-A",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3847291,
+  "lng": -111.96363769999999,
+  "phone": "+14805429225",
+  "website": "https://locations.fivebelow.com/az/tempe/5000-arizona-mills-cir?utm_source=gmb&utm_medium=yext&y_source=1_MTM1Mzk0NzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Five+Below/data=!4m7!3m6!1s0x872b0f4c2f3f489f:0x44d0417b0436a083!8m2!3d33.3847291!4d-111.9636377!16s%2Fg%2F11hzmscty5!19sChIJn0g_L0wPK4cRg6A2BHtB0EQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4958535186342387843",
+  "placeId": "ChIJn0g_L0wPK4cRg6A2BHtB0EQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 698,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMI2SPQtuxLRxY62aByfy_xJu_MpWiKLuQHsX45RYC6jEvqh8Olj5OtunaYufOIDDD-BekgWfqHhyhbPi7YzYrxGXR-f0wfPUOLPx7sioFyXRuwCGei0Z1UDXzfZmJlPZwhWnj=w1200-h800-k-no",
+  "description": "Teen-oriented retail chain for a large assortment of games, snacks, jewelry, room decor & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 25,
+    "3": 77,
+    "4": 146,
+    "5": 426
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

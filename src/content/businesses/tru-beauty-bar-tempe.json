@@ -1,0 +1,42 @@
+{
+  "slug": "tru-beauty-bar-tempe",
+  "name": "Tru Beauty Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1448 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4455862,
+  "lng": -111.92695859999999,
+  "phone": "+16024562777",
+  "website": "https://trubeautybaraz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tru+Beauty+Bar/data=!4m7!3m6!1s0x872b095496fe6a3b:0x85fef485097309d0!8m2!3d33.4455862!4d-111.9269586!16s%2Fg%2F11x6p0mxp5!19sChIJO2r-llQJK4cR0AlzCYX0_oU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9655423503355283920",
+  "placeId": "ChIJO2r-llQJK4cR0AlzCYX0_oU",
+  "googleRating": 5,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHunT_GO_lkiIdKbSHN2Qhd0StAzXfhXR_uEJdmA6GvJ683k5soUBkYIbUHYr6PkO8F_3A0LOc84WsfX_xjaikHIpURkEAfcPuksS_O3KqcG0bz9V3XEK__Ge-28QXH5BwNQ8cCkGY4p9m=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 31
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

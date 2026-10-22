@@ -1,0 +1,45 @@
+{
+  "slug": "retro-rifle-tempe",
+  "name": "Retro Rifle",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1919 W Fairmont Dr #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.396099,
+  "lng": -111.9691039,
+  "phone": "+16232524680",
+  "website": "http://www.retro-rifle.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Retro+Rifle/data=!4m7!3m6!1s0x872b09e803df0709:0x21a093e63885315b!8m2!3d33.396099!4d-111.9691039!16s%2Fg%2F11jntsnpfc!19sChIJCQffA-gJK4cRWzGFOOaToCE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2423099216525341019",
+  "placeId": "ChIJCQffA-gJK4cRWzGFOOaToCE",
+  "googleRating": 4.7,
+  "googleReviewCount": 116,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfftbZ2lZU_R2OyGmB1HdOSfBo7uEOkV1k_rGPFJGKuzX09G5FAK49uNc5Zk3rtB1xoaFJSCG9rqFALj443W6X3hZg9GwHr9D-FThwznhNTplqIF7R0f5MDeEaIGfwl98IG3_USEg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "4": 3,
+    "5": 105
+  },
+  "hours": {
+    "mon": "10:00 AM - 4:00 PM",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

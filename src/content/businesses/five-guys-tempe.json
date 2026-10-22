@@ -20,7 +20,7 @@
   "website": "https://restaurants.fiveguys.com/680-mill-ave",
   "placeId": "ChIJMeEFK9gIK4cRCWTw3PTpYDQ",
   "googleRating": 4,
-  "googleReviewCount": 547,
+  "googleReviewCount": 556,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -37,5 +37,22 @@
   "groundgameId": "6a318c10cf63ca2641329e17",
   "seededAt": "2026-06-16T17:46:56Z",
   "updatedAt": "2026-07-07T20:30:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3774273725624509449",
+  "googleMapsUrl": "https://www.google.com/maps/place/Five+Guys/data=!4m7!3m6!1s0x872b08d82b05e131:0x3460e9f4dcf06409!8m2!3d33.4240829!4d-111.9402015!16s%2Fg%2F1tgdtlvt!19sChIJMeEFK9gIK4cRCWTw3PTpYDQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 64,
+    "2": 32,
+    "3": 56,
+    "4": 118,
+    "5": 286
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTjLRlvZvvUYIq_chghXj_cualFdxuihdPhVfkffAORtsCUbihNlFeVdrFN22lxUJzasCbRqhNdEyLCx8qKmzHYEnhLMqSdTdB8R2YcubqpG0Mk12u2C3aeHM6VYSkmgoj5CSS4Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

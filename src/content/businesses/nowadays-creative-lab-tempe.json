@@ -1,0 +1,52 @@
+{
+  "slug": "nowadays-creative-lab-tempe",
+  "name": "Nowadays Creative Lab",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Apparel company",
+    "Embroidery shop",
+    "Screen printer",
+    "Screen printing shop",
+    "T-shirt store"
+  ],
+  "address": "414 S Mill Ave Suite 120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259949,
+  "lng": -111.9401972,
+  "phone": "+13239199463",
+  "website": "http://www.nowadayslab.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nowadays+Creative+Lab/data=!4m7!3m6!1s0x872b08d800123dd1:0xee27ebfff47f37ee!8m2!3d33.4259949!4d-111.9401972!16s%2Fg%2F11ggt466fz!19sChIJ0T0SANgIK4cR7jd_9P_rJ-4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17160944389669730286",
+  "placeId": "ChIJ0T0SANgIK4cR7jd_9P_rJ-4",
+  "googleRating": 4.4,
+  "googleReviewCount": 51,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfT3FRmqsfXJYTa5Stx2B3zQYuAUtcrf0bwM2p8KbXBkeXrVZ1hjrOts-Q_7c4SSiEQjQp5f1QJUJmTONm74SVSO4xid0NcpFd_0cdtqbn7L4TBE8Yt013w3TsOmRxhKZreJkrt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "4": 2,
+    "5": 41
+  },
+  "hours": {
+    "mon": "2:00 PM - 8:00 PM",
+    "tue": "2:00 PM - 8:00 PM",
+    "wed": "2:00 PM - 8:00 PM",
+    "thu": "2:00 PM - 8:00 PM",
+    "fri": "2:00 PM - 8:00 PM",
+    "sat": "2:00 PM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

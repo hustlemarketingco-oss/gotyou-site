@@ -11,29 +11,18 @@
   "lng": -111.926987,
   "phone": "+14806992336",
   "website": "https://spacolis.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15277646749193560206",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spacoli%27s+Pizza+%26+Wings/data=!4m7!3m6!1s0x872b07fcd6b30efd:0xd4051ac62195608e!8m2!3d33.449695!4d-111.926987!16s%2Fg%2F1pzwgcfgq!19sChIJ_Q6z1vwHK4cRjmCVIcYaBdQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15277646749193560206",
   "placeId": "ChIJ_Q6z1vwHK4cRjmCVIcYaBdQ",
   "googleRating": 3.7,
-  "googleReviewCount": 36,
+  "googleReviewCount": 38,
   "priceRange": "$",
   "description": "Located in Tempe, Spacoli's Pizza & Wings is a casual pizza restaurant with quick bite, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -50,5 +39,14 @@
   "groundgameId": "6a2438340b829623629389f7",
   "seededAt": "2026-06-06T15:09:40Z",
   "updatedAt": "2026-06-06T15:09:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 1,
+    "3": 3,
+    "4": 9,
+    "5": 17
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKc6zNjncbqb4giOHUxiMafQgwDkctYOCYzjMG6gMFV_wGRLDumIkOpctQu45GpFm4lwifbYaEJVM4pZAqg0eKeLZcWlAH-i6o_QRScPBXMJxtyxDj5Mu0uctPxGGidfqhvxRw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

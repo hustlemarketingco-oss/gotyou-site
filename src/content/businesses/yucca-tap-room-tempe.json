@@ -16,21 +16,9 @@
   "priceRange": "$10–20",
   "description": "Neighborhood hangout showcasing nightly live music, a large beer & whiskey selection, plus bar food.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/yuccataproom"
@@ -41,5 +29,31 @@
   "groundgameId": "6a24379ef7a5c49049721c37",
   "seededAt": "2026-06-06T15:07:10Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJVeTUiq8IK4cRIFDl-z99g84",
+  "googleCid": "14880875307524771872",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yucca+Tap+Room/data=!4m7!3m6!1s0x872b08af8ad4e455:0xce837d3ffbe55020!8m2!3d33.3926526!4d-111.9405375!16s%2Fm%2F0k2rkw4!19sChIJVeTUiq8IK4cRIFDl-z99g84?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 1832,
+  "ratingBreakdown": {
+    "1": 62,
+    "2": 28,
+    "3": 110,
+    "4": 268,
+    "5": 1364
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA-oMECmlUmc3iFmSg_MoZkzN8SOG_MQH8X6pbqvsOTwtvzY4UhhrPZbsBe1w6QtQGvDUnvlbnfXgh-NKPltD5twpStJ7Z3d_H61WbU7nDOq3b_GtPi2qzDo5si1e3n1UjnBKPPA=w1200-h800-k-no",
+  "website": "https://yuccatap.com/",
+  "hours": {
+    "mon": "6:00 AM - 2:00 AM",
+    "tue": "6:00 AM - 2:00 AM",
+    "wed": "6:00 AM - 2:00 AM",
+    "thu": "6:00 AM - 2:00 AM",
+    "fri": "6:00 AM - 2:00 AM",
+    "sat": "6:00 AM - 2:00 AM",
+    "sun": "6:00 AM - 2:00 AM"
+  },
+  "lat": 33.3926526,
+  "lng": -111.94053749999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

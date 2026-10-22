@@ -16,12 +16,12 @@
   "website": "https://www.hawaiianbros.com/",
   "placeId": "ChIJ_bOXVtsJK4cRoJU2k0ggtWw",
   "googleRating": 4.8,
-  "googleReviewCount": 1504,
+  "googleReviewCount": 2008,
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 3:00 AM",
@@ -38,5 +38,16 @@
   "groundgameId": "6a51508c28eda66f682b7fda",
   "seededAt": "2026-07-10T20:05:32Z",
   "updatedAt": "2026-10-09T22:45:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7833202622960407968",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hawaiian+Bros+Island+Grill/data=!4m7!3m6!1s0x872b09db5697b3fd:0x6cb52048933695a0!8m2!3d33.4131223!4d-111.9266837!16s%2Fg%2F11zkg5txv_!19sChIJ_bOXVtsJK4cRoJU2k0ggtWw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 51,
+    "2": 18,
+    "3": 28,
+    "4": 91,
+    "5": 1820
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8w4nD7NaS3oIa2mfNNdak79OLf0hztwyr5EjZ6PVFUSyYOD_nOs6CdCe5kV0VuavYeqmsPWw0pR1vTfuyjDNnirX0Eri0Gx2UEYstHq39fqGeWjAyXXiqzcBkz777O42NHgI7NmUyilES=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

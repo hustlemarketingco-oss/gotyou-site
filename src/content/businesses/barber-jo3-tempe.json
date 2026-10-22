@@ -1,0 +1,42 @@
+{
+  "slug": "barber-jo3-tempe",
+  "name": "Barber Jo3",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "3163 S McClintock Dr Ste 13",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3940777,
+  "lng": -111.90753339999999,
+  "phone": "+14803408513",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barber+Jo3/data=!4m7!3m6!1s0x872b0993af3d7b13:0x74d9d3193a40f4f1!8m2!3d33.3940777!4d-111.9075334!16s%2Fg%2F11lq5kgvqb!19sChIJE3s9r5MJK4cR8fRAOhnT2XQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8419993083650831601",
+  "placeId": "ChIJE3s9r5MJK4cR8fRAOhnT2XQ",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRrBkwsnjoaTEybuaI5PpEejJIRjOqFJEGgqZFyf2_QBuRJjJEz-uWpwP4liZO-KAQsdD9S1EuPZMwXlapgRAOJKH41pMsCqPLLx-GWdh5s20Kj4jFtlJHkOFmI62ZNAMIi4A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "8:00 AM - 12:00 PM, 4:00 PM - 10:00 PM",
+    "tue": "8:00 AM - 12:00 PM, 4:00 PM - 10:00 PM",
+    "wed": "8:00 AM - 12:00 PM, 4:00 PM - 10:00 PM",
+    "thu": "8:00 AM - 12:00 PM, 4:00 PM - 10:00 PM",
+    "fri": "8:00 AM - 12:00 PM, 4:00 PM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "7:00 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

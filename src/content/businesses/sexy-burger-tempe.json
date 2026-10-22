@@ -2,7 +2,7 @@
   "slug": "sexy-burger-tempe",
   "name": "Sexy Burger",
   "category": "Fast Food",
-  "googleCategory": "Hamburger restaurant",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "American restaurant",
     "Bar",
@@ -18,17 +18,17 @@
   "lng": -111.9402793,
   "phone": "+14809077478",
   "website": "https://www.sexyburgeraz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=129346724505430813",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sexy+Burger/data=!4m7!3m6!1s0x872b09eff455f869:0x1cb88291f01ab1d!8m2!3d33.4258974!4d-111.9402793!16s%2Fg%2F11x0sdx6m0!19sChIJafhV9O8JK4cRHasBHymIywE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "129346724505430813",
   "placeId": "ChIJafhV9O8JK4cRHasBHymIywE",
   "googleRating": 4.7,
-  "googleReviewCount": 256,
+  "googleReviewCount": 304,
   "description": "Located in Tempe, Sexy Burger is a hamburger restaurant & american restaurant.",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -45,5 +45,14 @@
   "groundgameId": "6a2437873a236808d4a73b3f",
   "seededAt": "2026-06-06T15:06:47Z",
   "updatedAt": "2026-08-05T20:48:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 6,
+    "3": 9,
+    "4": 16,
+    "5": 264
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXnZo_4MeSayF-rb_gPVTc74P3r9wxXK7xuAcwC_xJnLd9dHI1m9HpM8zdhZkHTlBvPe_hT65153cD1Txyap6sL3IscwTodSSvp5fZD9eHoYZqE02xdoDBkzMn_ryM3M3ldiXkFepYTB5S=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

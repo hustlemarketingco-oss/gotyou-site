@@ -2,7 +2,7 @@
   "slug": "creations-boutique-tempe-marketplace-tempe",
   "name": "Creations Boutique Tempe Marketplace",
   "category": "Shopping",
-  "googleCategory": "Clothing store",
+  "googleCategory": "Boutique",
   "address": "2000 E Rio Salado Pkwy #1246",
   "city": "Tempe",
   "state": "AZ",
@@ -15,10 +15,8 @@
   "googleRating": 4.1,
   "googleReviewCount": 40,
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -35,5 +33,18 @@
   "groundgameId": "6a34358a7f9afe0355ea24d8",
   "seededAt": "2026-06-18T18:14:34Z",
   "updatedAt": "2026-07-27T18:02:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14133620679780688896",
+  "googleMapsUrl": "https://www.google.com/maps/place/Creations+Boutique+Tempe+Marketplace/data=!4m7!3m6!1s0x872b08d77b396475:0xc424b52008716400!8m2!3d33.4332232!4d-111.9026666!16s%2Fg%2F11bx45rk_v!19sChIJdWQ5e9cIK4cRAGRxCCC1JMQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 4,
+    "5": 28
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJMcWtXHzbUht8oCqzKLkZEgXZyS3uP14vDuuxElr_O9QmrA3EM5OcdNcfx6IlmFSJoF3VQAQ0HzpDPIKKCruTeA1efxEM98EW2UVrwzL_xgGXNnQB-V3Z6z5leHuc4vd4if_HUw=w1200-h800-k-no",
+  "secondaryCategories": [
+    "Fashion accessories store"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

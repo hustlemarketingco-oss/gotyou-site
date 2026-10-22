@@ -1,0 +1,43 @@
+{
+  "slug": "american-aviation-parts-tempe",
+  "name": "American Aviation Parts",
+  "category": "Shopping",
+  "googleCategory": "Aircraft supply store",
+  "secondaryCategories": [
+    "Aircraft maintenance company",
+    "Distribution service",
+    "Manufacturer",
+    "Reptile store"
+  ],
+  "address": "2015 E 5th St Ste 11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4250174,
+  "lng": -111.89854559999999,
+  "phone": "+18777228727",
+  "website": "https://www.americanaviationparts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/American+Aviation+Parts/data=!4m7!3m6!1s0x872b09a772db17a7:0x79466280e94e3f6!8m2!3d33.4250174!4d-111.8985456!16s%2Fg%2F11w7f6d3f6!19sChIJpxfbcqcJK4cR9uOUDihmlAc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "546173777048036342",
+  "placeId": "ChIJpxfbcqcJK4cR9uOUDihmlAc",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAk6tKFLj16oJUE2MnOxQ4JeTfwW8fPOUJkwyasDFSHwmu93rdhNu-F8msRujfIllAzzUSXhTJV6zGnULlrsMyiMXaBckYE3brq08mGzsvZqT2G4UbpgM7hLXumvwAfH-3PJM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "millard-mall-services-tempe",
+  "name": "Millard Mall Services",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Janitorial service"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383123,
+  "lng": -111.964485,
+  "googleMapsUrl": "https://www.google.com/maps/place/Millard+Mall+Services/data=!4m7!3m6!1s0x872b0f59e1444903:0x29dcf863bb77e540!8m2!3d33.383123!4d-111.964485!16s%2Fg%2F1v2kxx9b!19sChIJA0lE4VkPK4cRQOV3u2P43Ck?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3016558957662037312",
+  "placeId": "ChIJA0lE4VkPK4cRQOV3u2P43Ck",
+  "googleRating": 4.5,
+  "googleReviewCount": 94,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeF6bi9l3an6stQCYiV-ZObzFZKoVZxZNA7sbUmTb7qZTEo1eC9F8jeH7sBMc4cRg2EB_Stb6WP1UOiaQ6W3RAzWUcQrjzGpNj0G9aRICfBLLtsKz21XFgkqjSwkZ1vKS_6Htlo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 2,
+    "3": 9,
+    "4": 18,
+    "5": 64
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

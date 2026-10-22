@@ -1,0 +1,42 @@
+{
+  "slug": "creature-coffee-catering-phoenix-tempe",
+  "name": "Creature Coffee Catering Phoenix",
+  "category": "Restaurant",
+  "googleCategory": "Caterer",
+  "address": "2215 S 48th St D",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4039907,
+  "lng": -111.9773172,
+  "phone": "+16029053627",
+  "website": "https://creaturecoffee.co/pages/coffee-catering-mobile-coffee-cart-services-phoenix-az",
+  "googleMapsUrl": "https://www.google.com/maps/place/Creature+Coffee+Catering+Phoenix/data=!4m7!3m6!1s0x872b0fd3a7d9a83d:0x3c122d89b80c1ae2!8m2!3d33.4039907!4d-111.9773172!16s%2Fg%2F11nhhnr3xt!19sChIJPajZp9MPK4cR4hoMuIktEjw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4328572261378038498",
+  "placeId": "ChIJPajZp9MPK4cR4hoMuIktEjw",
+  "googleRating": 5,
+  "googleReviewCount": 66,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-xGbfpuCByKeZYnnKbnpoFsyTy3PTQirCKkxLv3xymaS6uyo79FtGC-KglTv-_d8H2nbhxOrNKd-WOm86CCFdwRnWikJd__MD5Uw02jlF-YGk-PmcWFnjog64LpmRyMZw_jJz93j9a33E=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 66
+  },
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

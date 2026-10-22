@@ -1,0 +1,41 @@
+{
+  "slug": "rootd-salon-collective-tempe",
+  "name": "Root’d Salon Collective",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1819 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3921874,
+  "lng": -111.90763989999999,
+  "phone": "+18045194955",
+  "googleMapsUrl": "https://www.google.com/maps/place/Root%E2%80%99d+Salon+Collective/data=!4m7!3m6!1s0x872b094de05de913:0x5a1c811873f2b0d1!8m2!3d33.3921874!4d-111.9076399!16s%2Fg%2F11yg0cx4zf!19sChIJE-ld4E0JK4cR0bDycxiBHFo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6493206704785895633",
+  "placeId": "ChIJE-ld4E0JK4cR0bDycxiBHFo",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6X6nYqzaIV5XC8fERadXIf2SjiYpwMc_04keAV-At7nyZ8i-HI9eajnj58mderz85OgZTCQbAcRuKhnt4xhAWCEBn_-_Kn3CcR9-t50p5PF1j2M5--2Ur9ayWjtF8K4_ctdlwRbQredY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

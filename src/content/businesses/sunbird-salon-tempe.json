@@ -1,0 +1,42 @@
+{
+  "slug": "sunbird-salon-tempe",
+  "name": "Sunbird Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2039 S Mill Ave Suite C studio 19",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061939,
+  "lng": -111.93942899999999,
+  "phone": "+14803764556",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunbird+Salon/data=!4m7!3m6!1s0x872b09aefe1b9cf7:0xb18e77395dd536eb!8m2!3d33.4061939!4d-111.939429!16s%2Fg%2F11vdb2rpfy!19sChIJ95wb_q4JK4cR6zbVXTl3jrE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12794294679677253355",
+  "placeId": "ChIJ95wb_q4JK4cR6zbVXTl3jrE",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaqA4J5JMaWXEmwaJ5S7zNg8iumNfERs3g7Z0GZssJ7qJ-P9VR_hbYRzayi8SOiQb_wTuHPw-ptVtj4MFWDQuwMzk0d-MiiAh-CRPBocPF6NjNJP6S5IcHSFthV1Lmc_-2FyxrCdioC4xG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "12:00 PM - 4:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

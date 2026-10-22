@@ -1,0 +1,42 @@
+{
+  "slug": "the-beauty-vibe-tempe",
+  "name": "The Beauty Vibe",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "123 E Baseline Rd Ste D108 Office #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+16029358055",
+  "website": "http://thebeautyvibeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Beauty+Vibe/data=!4m7!3m6!1s0x872b09c6ee11c2f5:0x6168d14880af56c5!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F11rd4vxxs0!19sChIJ9cIR7sYJK4cRxVavgEjRaGE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7019090128583743173",
+  "placeId": "ChIJ9cIR7sYJK4cRxVavgEjRaGE",
+  "googleRating": 5,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetXS-f10zd_5BcQ640jtp4z8htQHnIllNPNEhC_qoyNOtMMzDPrXMn6xDcWIfo0X42ywHDasTYxxLXnVBGDntra3Uh5OL5b3nHSGbVL8XEV1_Llpma2pXUUkn2Yp6cZ_Lfbzrd-A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 21
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "Closed",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

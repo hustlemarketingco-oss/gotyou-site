@@ -1,0 +1,55 @@
+{
+  "slug": "mcdonalds-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1325 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4070458,
+  "lng": -111.95865239999999,
+  "phone": "+14809661746",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/1325-W-BROADWAY/3570.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b0f3153af6e35:0x27293bcdc97f28e8!8m2!3d33.4070458!4d-111.9586524!16s%2Fg%2F1hc6wygpk!19sChIJNW6vUzEPK4cR6Ch_yc07KSc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2821852396559214824",
+  "placeId": "ChIJNW6vUzEPK4cR6Ch_yc07KSc",
+  "googleRating": 3.2,
+  "googleReviewCount": 2648,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0DJ-NZF2xSAV1sDUMFNgclNNFY9YW_0hh5KxVDAJ1O6ANS76L-n2Ke3mRL4ExSkFOuiWe0rOkxaISjcYhvRD6BOhkokvB8CaogfNDoyaqlPPXjFeGtKaKunw_9ylOnQMRMTvs=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 688,
+    "2": 194,
+    "3": 424,
+    "4": 454,
+    "5": 888
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

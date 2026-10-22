@@ -18,7 +18,7 @@
   "website": "https://locations.cinnabon.com/az/tempe/1401-west-southern-ave",
   "placeId": "ChIJi9lGU04PK4cRX7PfLfEbMS0",
   "googleRating": 4.2,
-  "googleReviewCount": 147,
+  "googleReviewCount": 146,
   "priceRange": "$",
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -26,5 +26,21 @@
   "groundgameId": "6a4961e2d902e20221125786",
   "seededAt": "2026-07-04T19:41:22Z",
   "updatedAt": "2026-07-04T19:41:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3256414728236282719",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cinnabon+at+Schlotzsky%27s/data=!4m7!3m6!1s0x872b0f4e5346d98b:0x2d311bf12ddfb35f!8m2!3d33.3917594!4d-111.9618527!16s%2Fg%2F11bwp1wl5t!19sChIJi9lGU04PK4cRX7PfLfEbMS0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 7,
+    "3": 13,
+    "4": 28,
+    "5": 88
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF2NfnkZ-60Xt4dAf5e5d7UHNA4IGJeet7MUlpYZ41Gkoc1_KaPrEk-XI3KBFnrYYFwiNl3_-YvcRz49vzW5bzPnGDVFtik0WX4u7D9OQcuLQNMaFMGo6vCRjYpwbMTC3UQptp=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

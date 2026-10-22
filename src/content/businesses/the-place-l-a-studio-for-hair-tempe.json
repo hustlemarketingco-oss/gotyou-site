@@ -1,0 +1,37 @@
+{
+  "slug": "the-place-l-a-studio-for-hair-tempe",
+  "name": "The Place l A Studio For Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1800 E Rio Salado Pkwy Ste 123",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+16026976471",
+  "website": "https://theplace.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Place+l+A+Studio+For+Hair/data=!4m7!3m6!1s0x872b0981e8015615:0x3aaea9cc4d2df4d4!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11wntrvzg9!19sChIJFVYB6IEJK4cR1PQtTcyprjo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4228503795080754388",
+  "placeId": "ChIJFVYB6IEJK4cR1PQtTcyprjo",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mo2oUSBvayUJBt6uxCWr3Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=218.79816&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 2:00 PM",
+    "wed": "9:30 AM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "9:30 AM - 5:00 PM",
+    "sat": "9:30 AM - 4:00 PM",
+    "sun": "10:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

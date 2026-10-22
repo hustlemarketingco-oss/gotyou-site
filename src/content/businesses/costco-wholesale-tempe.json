@@ -1,0 +1,50 @@
+{
+  "slug": "costco-wholesale-tempe",
+  "name": "Costco Wholesale",
+  "category": "Shopping",
+  "googleCategory": "Warehouse store",
+  "secondaryCategories": [
+    "Department store"
+  ],
+  "address": "1445 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3470262,
+  "lng": -111.962026,
+  "phone": "+14804966651",
+  "website": "https://www.costco.com/w/-/az/tempe/436",
+  "googleMapsUrl": "https://www.google.com/maps/place/Costco+Wholesale/data=!4m7!3m6!1s0x872b05d0780c0a8f:0x80edeffea9238e9c!8m2!3d33.3470262!4d-111.962026!16s%2Fg%2F1tg_m2hl!19sChIJjwoMeNAFK4cRnI4jqf7v7YA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9290345483373612700",
+  "placeId": "ChIJjwoMeNAFK4cRnI4jqf7v7YA",
+  "googleRating": 4.6,
+  "googleReviewCount": 7864,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzA_bleByVTgLMRZrXL9bSJ7B3CAps2fA7QQVGnH82zwllAMffpPoTYFBS6hCCbYVszd6F29o64f2znLbeR5_lYe22YZNMC2quxKdZxZhR-OyAGav7wMi1Ipf62AnTuZZUQyttV6fW5vTo=w1200-h800-k-no",
+  "description": "Members-only warehouse selling a huge variety of items including bulk groceries, electronics & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 227,
+    "2": 116,
+    "3": 353,
+    "4": 1514,
+    "5": 5654
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:30 PM",
+    "tue": "10:00 AM - 8:30 PM",
+    "wed": "10:00 AM - 8:30 PM",
+    "thu": "10:00 AM - 8:30 PM",
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "9:30 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "emmi-nails-spa-tempe",
+  "name": "Emmi Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1720 E Warner Rd Unit 7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352547,
+  "lng": -111.9126012,
+  "phone": "+14802076802",
+  "googleMapsUrl": "https://www.google.com/maps/place/Emmi+Nails+%26+Spa/data=!4m7!3m6!1s0x872b07f30668df6d:0xc4ebbd3317dbabbf!8m2!3d33.3352547!4d-111.9126012!16s%2Fg%2F11j2yn25l8!19sChIJbd9oBvMHK4cRv6vbFzO968Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14189643078102133695",
+  "placeId": "ChIJbd9oBvMHK4cRv6vbFzO968Q",
+  "googleRating": 4.9,
+  "googleReviewCount": 61,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4Z_dSCLOrcy_suyGR-m9mopbwy_DuPX_rhI00HGka2PQphjm2PKyCHsdDN0_3pX-ACqC2k6JOybfiGcEnfB1VJarLMdqu8qY3yBDwVVMhawen5snx5vm2FOWQlg8uCU9-9Ge9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 58
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 6:00 PM",
+    "wed": "9:30 AM - 6:00 PM",
+    "thu": "9:30 AM - 6:00 PM",
+    "fri": "9:30 AM - 6:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

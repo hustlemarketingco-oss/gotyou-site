@@ -1,0 +1,27 @@
+{
+  "slug": "hair-society-tempe",
+  "name": "Hair Society",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "Salon Boutique, 3163 S McClintock Dr Unit 14",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941617,
+  "lng": -111.9075745,
+  "phone": "+16026147323",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair+Society/data=!4m7!3m6!1s0x872b103655555555:0xc9b839ad6f2a20d7!8m2!3d33.3941617!4d-111.9075745!16s%2Fg%2F11gnprynzg!19sChIJVVVVVTYQK4cR1yAqb605uMk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14535431214395433175",
+  "placeId": "ChIJVVVVVTYQK4cR1yAqb605uMk",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q73AStLSY8UgQQyfUz7HDA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=74.43658&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

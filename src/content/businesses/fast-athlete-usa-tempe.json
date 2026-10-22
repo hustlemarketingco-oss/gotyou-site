@@ -1,0 +1,31 @@
+{
+  "slug": "fast-athlete-usa-tempe",
+  "name": "Fast Athlete USA",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Personal trainer"
+  ],
+  "address": "8380 S Kyrene Rd Ste 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3391082,
+  "lng": -111.9464084,
+  "phone": "+14808617568",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fast+Athlete+USA/data=!4m7!3m6!1s0x872b0686b7955b6b:0xe1f5cb5d85126039!8m2!3d33.3391082!4d-111.9464084!16s%2Fg%2F1tmpfd4s!19sChIJa1uVt4YGK4cROWAShV3L9eE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16282143630352867385",
+  "placeId": "ChIJa1uVt4YGK4cROWAShV3L9eE",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EE-cZj4EuEBbQKdqHRI86A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=280&pitch=-20&thumbfov=100",
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

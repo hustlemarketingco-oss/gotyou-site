@@ -1,0 +1,27 @@
+{
+  "slug": "tempe-elks-tempe",
+  "name": "Tempe Elks",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "2320 S Hardy Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.403151799999996,
+  "lng": -111.952683,
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Elks/data=!4m7!3m6!1s0x872b0f006307e815:0x3eae133831370e9e!8m2!3d33.4031518!4d-111.952683!16s%2Fg%2F11n3ln5lc4!19sChIJFegHYwAPK4cRng43MTgTrj4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4516568608363974302",
+  "placeId": "ChIJFegHYwAPK4cRng43MTgTrj4",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5MT8fIK0wjJfGjgcj1SOuQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=239.24307&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

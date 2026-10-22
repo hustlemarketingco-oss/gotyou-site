@@ -1,0 +1,51 @@
+{
+  "slug": "moon-massage-foot-spa-tempe",
+  "name": "Moon Massage & Foot Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Massage therapist",
+    "Reflexologist"
+  ],
+  "address": "Next to Discount Aquarium, 1753 E Broadway Rd Suite107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4062051,
+  "lng": -111.9096007,
+  "phone": "+14806873484",
+  "website": "https://www.moonfootspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Moon+Massage+%26+Foot+Spa/data=!4m7!3m6!1s0x872b09099b2ccccd:0x363adc118fd21ffd!8m2!3d33.4062051!4d-111.9096007!16s%2Fg%2F11hpxszn5n!19sChIJzcwsmwkJK4cR_R_SjxHcOjY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3907677594682793981",
+  "placeId": "ChIJzcwsmwkJK4cR_R_SjxHcOjY",
+  "googleRating": 4.6,
+  "googleReviewCount": 373,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgaHmzjwMmH6QJgSFyDpJ86J05_7_bPu5IL58_vjEixaBXfogQJVBWu5sxHV4GMAzSHhJhfkvy_-ZDW9xmPvGdOJLMLpSZzzuRIPgggp4Z9gEMefRzTPegjFbQ9QAL9P-WccUL-Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 7,
+    "3": 11,
+    "4": 10,
+    "5": 320
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

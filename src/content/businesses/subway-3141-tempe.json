@@ -1,0 +1,55 @@
+{
+  "slug": "subway-3141-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "3141 S McClintock Dr #8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394826099999996,
+  "lng": -111.9080237,
+  "phone": "+14808208218",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/3141-s-mcclintock-drive?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=2255&utm_campaign=evergreen-2020&y_source=1_MTQ5MDY0MDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b0886d372e465:0xe112c9c899915346!8m2!3d33.3948261!4d-111.9080237!16s%2Fg%2F1tfk9gy9!19sChIJZeRy04YIK4cRRlORmcjJEuE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16218247071521657670",
+  "placeId": "ChIJZeRy04YIK4cRRlORmcjJEuE",
+  "googleRating": 4,
+  "googleReviewCount": 517,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfP8Ngi-7AthyP7QeU5G6OdchIvZIeQzNBWzX7zaRdDIEyLThtz18rCWWa31wlzpNeeQouIPbdDuEhGA8dCaQoeoORUl6gZDtRMK4frdsd2SYWNJ9VQR3ci798JYd23ZyO7sJRwxg=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 72,
+    "2": 14,
+    "3": 36,
+    "4": 117,
+    "5": 278
+  },
+  "hours": {
+    "mon": "8:00 AM - 1:00 AM",
+    "tue": "8:00 AM - 1:00 AM",
+    "wed": "8:00 AM - 1:00 AM",
+    "thu": "8:00 AM - 1:00 AM",
+    "fri": "8:00 AM - 1:00 AM",
+    "sat": "9:00 AM - 1:00 AM",
+    "sun": "9:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

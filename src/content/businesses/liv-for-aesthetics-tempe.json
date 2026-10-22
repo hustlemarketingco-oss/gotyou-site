@@ -1,0 +1,53 @@
+{
+  "slug": "liv-for-aesthetics-tempe",
+  "name": "Liv for Aesthetics",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "secondaryCategories": [
+    "Beautician",
+    "Beauty salon",
+    "Eyebrow bar",
+    "Laser hair removal service",
+    "Medical spa",
+    "Permanent make-up clinic",
+    "Spa",
+    "Waxing hair removal service"
+  ],
+  "address": "209 E Baseline Rd E201 #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3772776,
+  "lng": -111.9371369,
+  "phone": "+14809007598",
+  "website": "http://livforaesthetics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Liv+for+Aesthetics/data=!4m7!3m6!1s0x872b07361dc8ffa1:0x737ce2a15791be84!8m2!3d33.3772776!4d-111.9371369!16s%2Fg%2F11qc1gj_wm!19sChIJof_IHTYHK4cRhL6RV6HifHM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8321775394060615300",
+  "placeId": "ChIJof_IHTYHK4cRhL6RV6HifHM",
+  "googleRating": 5,
+  "googleReviewCount": 246,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLed0qj1wAchWZe4NaXuK9axWRE0EVP1LV-i6hxL43E9w8yWAda749rf09f-VhxMHHu96x7clb3aYuFLSKCENmGOi_jBfH2k32TajXC-ZpnQfMrfCnhvq3S06IWsuKB8b9xSr1kHdjtkdg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 246
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

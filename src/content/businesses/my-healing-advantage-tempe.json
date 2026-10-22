@@ -1,0 +1,44 @@
+{
+  "slug": "my-healing-advantage-tempe",
+  "name": "My Healing Advantage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "4700 S McClintock Dr #190",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3827563,
+  "lng": -111.90979279999999,
+  "phone": "+14803740888",
+  "website": "http://www.myhealingadvantage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/My+Healing+Advantage/data=!4m7!3m6!1s0x872b071948a0f087:0x5229104880ef83c5!8m2!3d33.3827563!4d-111.9097928!16s%2Fg%2F11nntcrm50!19sChIJh_CgSBkHK4cRxYPvgEgQKVI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5920281088742097861",
+  "placeId": "ChIJh_CgSBkHK4cRxYPvgEgQKVI",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPJH-EEzgQCr5avWfARJ3t6a8_koR_I_2HIWp_mc_3inVbfBxVQDZAUPRpVVasQi9GEP3OB3XpypCuCIKXYMSzTY48j11g5--ymFpOQ4eCiKm2jxZfMwH7yJZ2ByFFmmCXF9vL8A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 12
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

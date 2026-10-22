@@ -1,0 +1,43 @@
+{
+  "slug": "flowers-by-impulse-tempe",
+  "name": "Flowers By Impulse",
+  "category": "Shopping",
+  "googleCategory": "Wholesale florist",
+  "address": "1031 W Geneva Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3944353,
+  "lng": -111.9530175,
+  "phone": "+14809684546",
+  "website": "http://www.flowersbyimpulse.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Flowers+By+Impulse/data=!4m7!3m6!1s0x872b0f4cd8480043:0xb4d105d18efb03a6!8m2!3d33.3944353!4d-111.9530175!16s%2Fg%2F1tmpkzm_!19sChIJQwBI2EwPK4cRpgP7jtEF0bQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13029201594564674470",
+  "placeId": "ChIJQwBI2EwPK4cRpgP7jtEF0bQ",
+  "googleRating": 3.4,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jx11WFZVaVMVQI3utg4woQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=178.34598&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 3
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

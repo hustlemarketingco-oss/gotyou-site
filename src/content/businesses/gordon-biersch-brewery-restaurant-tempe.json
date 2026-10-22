@@ -1,0 +1,43 @@
+{
+  "slug": "gordon-biersch-brewery-restaurant-tempe",
+  "name": "Gordon Biersch Brewery Restaurant",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar & grill",
+  "secondaryCategories": [
+    "American restaurant",
+    "Brewery",
+    "Brewpub",
+    "Hamburger restaurant",
+    "Sports bar"
+  ],
+  "address": "420 S Mill Ave #201",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4257683,
+  "lng": -111.9404229,
+  "website": "https://www.gordonbiersch.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gordon+Biersch+Brewery+Restaurant/data=!4m7!3m6!1s0x872b08d7ff23209b:0x6b84dbb9ec4bdc23!8m2!3d33.4257683!4d-111.9404229!16s%2Fg%2F1tppsf9w!19sChIJmyAj_9cIK4cRI9xL7LnbhGs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7747558850563922979",
+  "placeId": "ChIJmyAj_9cIK4cRI9xL7LnbhGs",
+  "googleRating": 4,
+  "googleReviewCount": 260,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpbQ7OZOPWz67ZGQOpg2Lx_nrK40ExAZUX_IyxTcBY2NGNjcEXSDLAr2X3WVtY9dKCt6LIEBnzOxdWjKlOvaG1gL7ZqF64CN2cVpJkzaNQmlPxaGNiTjJ1KhfVuxXGR5casAqr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 15,
+    "3": 34,
+    "4": 72,
+    "5": 118
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

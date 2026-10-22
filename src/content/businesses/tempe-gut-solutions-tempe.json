@@ -1,0 +1,47 @@
+{
+  "slug": "tempe-gut-solutions-tempe",
+  "name": "Tempe Gut Solutions",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Lymph drainage therapist",
+    "Weight loss service"
+  ],
+  "address": "4525 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3822751,
+  "lng": -111.9254828,
+  "phone": "+14802425423",
+  "website": "http://www.tempegutsolutions.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Gut+Solutions/data=!4m7!3m6!1s0x872b09fe8096b2e9:0xe2a4e651c1a1a2c7!8m2!3d33.3822751!4d-111.9254828!16s%2Fg%2F11rxmpp79v!19sChIJ6bKWgP4JK4cRx6KhwVHmpOI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16331431387567596231",
+  "placeId": "ChIJ6bKWgP4JK4cRx6KhwVHmpOI",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcX1ZVUpcMSddTVXJas1BtGPKvkZ9WL5FrIzt9ZeIqQsa1J5EKTgDAupIJ-FJDgEKcnXuO4-cyuhDtBjCHCqjh8f1-GcPvLoFesYY_KL9mdxb9jynALTBmTrXjIWeP7qKc9muwC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 11:00 AM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

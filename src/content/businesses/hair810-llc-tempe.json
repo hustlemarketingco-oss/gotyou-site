@@ -1,0 +1,44 @@
+{
+  "slug": "hair810-llc-tempe",
+  "name": "Hair810 Llc",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "3163 S McClintock Dr Ste 15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394268,
+  "lng": -111.90760689999999,
+  "phone": "+18102882809",
+  "website": "https://www.hair810.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair810+Llc/data=!4m7!3m6!1s0x872b098a116b5675:0x3623176037e220a!8m2!3d33.394268!4d-111.9076069!16s%2Fg%2F11m75tbpnw!19sChIJdVZrEYoJK4cRCiJ-A3YxYgM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "243811712765927946",
+  "placeId": "ChIJdVZrEYoJK4cRCiJ-A3YxYgM",
+  "googleRating": 4.6,
+  "googleReviewCount": 9,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T4fcyR87f1qGcE-7-WgA3A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=89.848434&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 11:00 AM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

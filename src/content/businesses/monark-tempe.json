@@ -1,0 +1,26 @@
+{
+  "slug": "monark-tempe",
+  "name": "Monark",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "address": "9025 S Kyrene Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.331648699999995,
+  "lng": -111.94416129999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Monark/data=!4m7!3m6!1s0x872b068489d6b147:0x4dc9cb1da65dbe4c!8m2!3d33.3316487!4d-111.9441613!16s%2Fg%2F11q1j8tdlp!19sChIJR7HWiYQGK4cRTL5dph3LyU0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5605234539444944460",
+  "placeId": "ChIJR7HWiYQGK4cRTL5dph3LyU0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b_LpBadbeixfQVxNfrPt4Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=323.58078&pitch=-4.3369017&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

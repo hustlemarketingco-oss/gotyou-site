@@ -15,29 +15,10 @@
   "priceRange": "$20–30",
   "description": "Japanese chain with a clubby vibe offering sushi, entrees, lunch specials & happy hours.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Romantic",
-    "Trendy",
-    "Upscale",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/KabukiJapaneseRestaurant"
@@ -48,5 +29,31 @@
   "groundgameId": "6a24381ad1e2fd0a23eb8eac",
   "seededAt": "2026-06-06T15:09:14Z",
   "updatedAt": "2026-06-12T22:05:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJu0BHGgAJK4cROSfUEQRcUVQ",
+  "googleCid": "6075738544848250681",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kabuki+Japanese+Restaurant/data=!4m7!3m6!1s0x872b09001a4740bb:0x54515c0411d42739!8m2!3d33.4330172!4d-111.9052015!16s%2Fg%2F1vs1sbhv!19sChIJu0BHGgAJK4cROSfUEQRcUVQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 3045,
+  "ratingBreakdown": {
+    "1": 145,
+    "2": 90,
+    "3": 240,
+    "4": 647,
+    "5": 1923
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdE5TF3Jb3FZIbOtEwPEK6ZcQwGS4ABYQXIcl3z7cCEALLo_rB7ejYtMCXFLWyYI5bu9JXHb1MHvSjUDUQ1J2IJkkACU3U8FF1E3IUv9V7_PPubWCUbqrnEjcVsmNjtoxkGhHHW=w1200-h800-k-no",
+  "website": "http://www.kabukirestaurants.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.4330172,
+  "lng": -111.90520149999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

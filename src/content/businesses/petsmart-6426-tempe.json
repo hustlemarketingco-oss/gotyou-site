@@ -1,0 +1,47 @@
+{
+  "slug": "petsmart-6426-tempe",
+  "name": "PetSmart",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "6426 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362897,
+  "lng": -111.91274779999999,
+  "phone": "+14802829016",
+  "website": "https://www.petsmart.com/stores/us/az/tempe-store3016.html?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
+  "googleMapsUrl": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x872b06495205df29:0x1767088b15abb80e!8m2!3d33.362897!4d-111.9127478!16s%2Fg%2F11clzj1bzt!19sChIJKd8FUkkGK4cRDrirFYsIZxc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1686325978930591758",
+  "placeId": "ChIJKd8FUkkGK4cRDrirFYsIZxc",
+  "googleRating": 4.4,
+  "googleReviewCount": 629,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvM1VFqfYagnO153qqYbUguHd6nxeRLh4szz2QQNzdvz9k-A66cctakFsDfpk38LLgSUFUDvf2PedHVjrULlXniqyZYBJd3z2E53AMR4lCtyjZsuUxEakPsPgxpUq9h2X5uIqttw=w1200-h800-k-no",
+  "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 29,
+    "2": 14,
+    "3": 37,
+    "4": 130,
+    "5": 419
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

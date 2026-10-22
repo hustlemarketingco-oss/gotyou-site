@@ -23,7 +23,7 @@
   "website": "https://dlitehealthyonthego.com/locations/mill/",
   "placeId": "ChIJz7ciZKUJK4cRRaxEa57otlg",
   "googleRating": 4.5,
-  "googleReviewCount": 394,
+  "googleReviewCount": 421,
   "priceRange": "$$",
   "hours": {
     "mon": "6:00 AM - 7:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a32e44554c135dcda5261a5",
   "seededAt": "2026-06-17T18:15:33Z",
   "updatedAt": "2026-06-29T23:19:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6392552488201137221",
+  "googleMapsUrl": "https://www.google.com/maps/place/d%27Lite+Healthy+On+The+Go/data=!4m7!3m6!1s0x872b09a56422b7cf:0x58b6e89e6b44ac45!8m2!3d33.3925732!4d-111.9375075!16s%2Fg%2F11j8m392tf!19sChIJz7ciZKUJK4cRRaxEa57otlg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 13,
+    "3": 17,
+    "4": 40,
+    "5": 328
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd276Ph5_m_-46OX3DtLNNl322wIvRC0E4UohXZoSym_MTaJK5HiykaoOuffBEpq44bsgY3N373Th_BI7cVdAex8LMkvc9leEwhl0Vsr9BZseRDwavQCbj0v_wa1UE6fRPESdZ_pR72T10=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

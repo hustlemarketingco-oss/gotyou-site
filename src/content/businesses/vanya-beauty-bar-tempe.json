@@ -1,0 +1,42 @@
+{
+  "slug": "vanya-beauty-bar-tempe",
+  "name": "Vanya Beauty Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "6469 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3627166,
+  "lng": -111.9278793,
+  "website": "https://vanyabeauty.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vanya+Beauty+Bar/data=!4m7!3m6!1s0x872b071dd6a0c77f:0xab32e1195adb0dfa!8m2!3d33.3627166!4d-111.9278793!16s%2Fg%2F11h_tf8pp0!19sChIJf8eg1h0HK4cR-g3bWhnhMqs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12336169828335947258",
+  "placeId": "ChIJf8eg1h0HK4cR-g3bWhnhMqs",
+  "googleRating": 5,
+  "googleReviewCount": 32,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxdgsRdPQKC8I8YDDcHfZXcnWEvWqBU6kfPoBrPwuWpyNYHbabKfKEYR33rtUuiGSkBl1bv1iWbf3CVpIoj6KpHAsFZbDTFP_CI7mtvuPsAnCbxcuYMN72h6CI4m5l9Pvn3PhAd_GRmZ4j=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 32
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

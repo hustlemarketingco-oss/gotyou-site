@@ -1,0 +1,37 @@
+{
+  "slug": "alidabarber-tempe",
+  "name": "Alidabarber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2201 S McClintock Dr #11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.404354,
+  "lng": -111.90880639999999,
+  "phone": "+15104470520",
+  "website": "https://alidabarber.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Alidabarber/data=!4m7!3m6!1s0x872b09b90aebec87:0x485837bffa9e5271!8m2!3d33.404354!4d-111.9088064!16s%2Fg%2F11zf39yk0v!19sChIJh-zrCrkJK4cRcVKe-r83WEg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5212977866364310129",
+  "placeId": "ChIJh-zrCrkJK4cRcVKe-r83WEg",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjnWWVQjSya505JhTfNCbKzZfEskDnNAXNJHPhofdVNTJcHMbsAgTVN-UZiZFehEN_ssrhQEs8HXzTcX7Utt4jkNLRQnqvU44zAsaXsd8to1QQqNrQYUxIaZqjulewYI3h7YK2u-prfYA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "2:30 PM - 5:30 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "kidstrong-south-tempe",
+  "name": "KidStrong South Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Physical fitness program",
+  "secondaryCategories": [
+    "Children's camp",
+    "Children's club",
+    "Children's party service",
+    "Gym"
+  ],
+  "address": "1840 E Warner Rd #120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335730999999996,
+  "lng": -111.9092203,
+  "phone": "+16232632640",
+  "website": "https://southtempe.kidstrong.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/KidStrong+South+Tempe/data=!4m7!3m6!1s0x872b074a374288ff:0x79ae2eebfc351434!8m2!3d33.335731!4d-111.9092203!16s%2Fg%2F11x_qz03_k!19sChIJ_4hCN0oHK4cRNBQ1_Osurnk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8767997115620463668",
+  "placeId": "ChIJ_4hCN0oHK4cRNBQ1_Osurnk",
+  "googleRating": 4.9,
+  "googleReviewCount": 266,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwwLIpKTQYscZRUfmiX_tIikBNJaPF80V11PqKxXnqFxh2Kz9TT74IIeplzE2WHCCU69SFXUKhJ7YOpgFjMbrQbNMGs2-f7vDLdapAe5sBKayZBPMMw17ipm7VY6pITqg2ShigTT1lw1_F=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "4": 2,
+    "5": 260
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "9:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

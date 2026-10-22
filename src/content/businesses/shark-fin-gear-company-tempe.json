@@ -1,0 +1,44 @@
+{
+  "slug": "shark-fin-gear-company-tempe",
+  "name": "Shark Fin Gear Company",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "6125 S Ash Ave B5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3655675,
+  "lng": -111.9413967,
+  "phone": "+14805041957",
+  "website": "https://sharkfingear.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shark+Fin+Gear+Company/data=!4m7!3m6!1s0x872b060d939aaaab:0xb4d2012b6a0c5e88!8m2!3d33.3655675!4d-111.9413967!16s%2Fg%2F11twq32c1h!19sChIJq6qakw0GK4cRiF4MaisB0rQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13029477957910683272",
+  "placeId": "ChIJq6qakw0GK4cRiF4MaisB0rQ",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkDGeZ2lpqi9ebphC1TBK8sZTsnetFJc9nh38PmPcYou66IlU7phYfoitGj7n5s9-wHXeeuojmrQ_bVxMgdDGepRWU4O8nsWBnBGFlLM_EfkSg0xrBzJUBbNUPVSwB1CfUJx_0mhUMAA1Z=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

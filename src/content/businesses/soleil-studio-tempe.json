@@ -1,0 +1,32 @@
+{
+  "slug": "soleil-studio-tempe",
+  "name": "Soleil Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "209 E Baseline Rd E201 #4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775182,
+  "lng": -111.93704319999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Soleil+Studio/data=!4m7!3m6!1s0x872b1307e3b1dd69:0x8f701fcc1f6acca8!8m2!3d33.3775182!4d-111.9370432!16s%2Fg%2F11vdkn835x!19sChIJad2x4wcTK4cRqMxqH8wfcI8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10335796106376170664",
+  "placeId": "ChIJad2x4wcTK4cRqMxqH8wfcI8",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrKFwPzs5tIw3YK5xVE534_B_1WyipZK-agpHSVZtkZ03xPVLj28NiKnXrSRZwfRolh7ZiEtNm5xKL5ywYCHa_d2MDTE9LYJpaKWgQTX5Q0PNx_3hh83b8Nns0pzzTAmQsWvNKQw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

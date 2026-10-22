@@ -1,0 +1,43 @@
+{
+  "slug": "then-they-danced-tempe",
+  "name": "Then They Danced",
+  "category": "Local Business",
+  "googleCategory": "Ballroom dance instructor",
+  "address": "931 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3475651,
+  "lng": -111.92785889999999,
+  "phone": "+14802539293",
+  "website": "https://thentheydanced.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Then+They+Danced/data=!4m7!3m6!1s0x872b0528297dcfdf:0x95fce32191f642b3!8m2!3d33.3475651!4d-111.9278589!16s%2Fg%2F11y3dw55rx!19sChIJ3899KSgFK4cRs0L2kSHj_JU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10807762939104608947",
+  "placeId": "ChIJ3899KSgFK4cRs0L2kSHj_JU",
+  "googleRating": 2.3,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZnBCZG60m7ZF5E0_UjMiHA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=77.09933&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 1
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 7:30 PM",
+    "wed": "11:30 AM - 8:00 PM",
+    "thu": "11:30 AM - 8:00 PM",
+    "fri": "11:00 AM - 7:30 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

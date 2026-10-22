@@ -1,0 +1,42 @@
+{
+  "slug": "so-golden-beauty-bar-tempe",
+  "name": "So golden beauty bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "600 E Curry Rd Apart 1015",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.441527799999996,
+  "lng": -111.9293156,
+  "phone": "+19103647888",
+  "website": "https://sogoldenbeautybar.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/So+golden+beauty+bar/data=!4m7!3m6!1s0x872b090038791355:0xa26ffa2f130ef833!8m2!3d33.4415278!4d-111.9293156!16s%2Fg%2F11ychb4g4b!19sChIJVRN5OAAJK4cRM_gOEy_6b6I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11704849036649363507",
+  "placeId": "ChIJVRN5OAAJK4cRM_gOEy_6b6I",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwQ-3f2gv2cXortPwkQKISg_F_DOmwipbEsACSb-8Q7CqpNTECin9dgkFTwSO8MjRLY1xTbXPgt0eAi3jovkd1jTyAST2gKPxZTAylz-JazHn4_NP1kTzpq8qYpPWyRXo6t9kzq3C2l8HF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:30 PM",
+    "wed": "8:00 AM - 6:30 PM",
+    "thu": "8:00 AM - 6:30 PM",
+    "fri": "8:00 AM - 6:30 PM",
+    "sat": "Open 24 hours",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

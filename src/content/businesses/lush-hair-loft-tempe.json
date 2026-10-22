@@ -1,0 +1,44 @@
+{
+  "slug": "lush-hair-loft-tempe",
+  "name": "Lush Hair Loft",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1825 E Guadalupe Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3613202,
+  "lng": -111.9099943,
+  "phone": "+14803781251",
+  "website": "https://www.lushhairloftaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lush+Hair+Loft/data=!4m7!3m6!1s0x872b0752668168af:0xc9200952e2ff6242!8m2!3d33.3613202!4d-111.9099943!16s%2Fg%2F11x2hm9stk!19sChIJr2iBZlIHK4cRQmL_4lIJIMk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14492593852478612034",
+  "placeId": "ChIJr2iBZlIHK4cRQmL_4lIJIMk",
+  "googleRating": 4.5,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-ISSnpzf8X3YgPqDMcUSdSbPI3ETCcF4uaUdY7UyjRHQeW0lytxmAkBYoGh7gK2TPRc7S9qRY7eDXGhvtx7uaFNqq88xDo-fQ71s-j4kc7XmDfA3aRLDw_0y8o6Kk1DCCYS7uyA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 15
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

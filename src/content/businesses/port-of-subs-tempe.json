@@ -23,13 +23,13 @@
   "website": "http://order.portofsubs.com/menu/port-subs-137",
   "placeId": "ChIJwb3PUMoOK4cRKBZOcNebykQ",
   "googleRating": 4.3,
-  "googleReviewCount": 171,
+  "googleReviewCount": 176,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Google Pay",
-    "Apple Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 7:00 PM",
@@ -46,5 +46,16 @@
   "groundgameId": "6a28b9a7a65fd230fc58bce4",
   "seededAt": "2026-06-10T01:11:03Z",
   "updatedAt": "2026-07-30T17:57:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4956945689479091752",
+  "googleMapsUrl": "https://www.google.com/maps/place/Port+of+Subs/data=!4m7!3m6!1s0x872b0eca50cfbdc1:0x44ca9bd7704e1628!8m2!3d33.4422245!4d-111.9554682!16s%2Fg%2F1ts_71wp!19sChIJwb3PUMoOK4cRKBZOcNebykQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 7,
+    "3": 9,
+    "4": 30,
+    "5": 116
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfevx-FHfRzwhIudyGLMTDwifAzdvDm8-PZi_84hcbOBUEBDTTPgwCSBXGRALbiOjinqeMdZG0kj19IfxXqOyqQldI-r_D_ciF_AoZXwcBHSxwiJ6Vb1XSlOlzeubAnUF0ZKwMWSQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

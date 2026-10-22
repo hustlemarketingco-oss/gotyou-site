@@ -16,12 +16,9 @@
   "website": "https://locations.princestreetpizza.com/tempe",
   "placeId": "ChIJOdQmKAAJK4cRt-820aE1dmA",
   "googleRating": 4.4,
-  "googleReviewCount": 429,
+  "googleReviewCount": 493,
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance"
   ],
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -38,5 +35,16 @@
   "groundgameId": "6a2c63d1d364453625b35300",
   "seededAt": "2026-06-12T19:53:53Z",
   "updatedAt": "2026-09-22T23:42:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6950802044008984503",
+  "googleMapsUrl": "https://www.google.com/maps/place/Prince+Street+Pizza/data=!4m7!3m6!1s0x872b09002826d439:0x607635a1d136efb7!8m2!3d33.4240319!4d-111.9402556!16s%2Fg%2F11xvv4gwl7!19sChIJOdQmKAAJK4cRt-820aE1dmA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 22,
+    "3": 22,
+    "4": 27,
+    "5": 384
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLew4YnjDpbx3j0Jv6gthnbqnOHgrpI__vIBNoIZBV9TL_GoEu5CjdkTM4fB2T-zJRKrPgCuc2LE-0hhhyHXEsHDCC9qKpGcSGKjRj-96M7dBgTs_JsLy8ZAPtdyqWTybWWb6fs2u7_VG1E=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

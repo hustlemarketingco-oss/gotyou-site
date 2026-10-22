@@ -1,0 +1,54 @@
+{
+  "slug": "taco-bell-1415-tempe",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1415 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3486895,
+  "lng": -111.9611226,
+  "phone": "+14808930714",
+  "website": "https://locations.tacobell.com/az/tempe/1415-west-elliot-road.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=037545&utm_content=website&y_source=1_NjE0NjMxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x872b05da602693e1:0xf9b466a912430559!8m2!3d33.3486895!4d-111.9611226!16s%2Fg%2F1tf9ywry!19sChIJ4ZMmYNoFK4cRWQVDEqlmtPk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17993119287593862489",
+  "placeId": "ChIJ4ZMmYNoFK4cRWQVDEqlmtPk",
+  "googleRating": 3.9,
+  "googleReviewCount": 874,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd98WZ5BnizkftclK76MKpcXcxGGPsAHncwUDAGuUJnt4QO-tIPxgboezK1goenmoMMFMnNrNLvHQHWGbJAiI2YMp7yaRnT9kqRBCkW1Oh3nO-izIskjP19uwfzvhazmEivQJPFiQ=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 113,
+    "2": 40,
+    "3": 126,
+    "4": 167,
+    "5": 428
+  },
+  "hours": {
+    "mon": "9:00 AM - 1:00 AM",
+    "tue": "9:00 AM - 1:00 AM",
+    "wed": "9:00 AM - 1:00 AM",
+    "thu": "9:00 AM - 1:00 AM",
+    "fri": "9:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

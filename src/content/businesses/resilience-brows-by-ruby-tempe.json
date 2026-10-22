@@ -1,0 +1,42 @@
+{
+  "slug": "resilience-brows-by-ruby-tempe",
+  "name": "Resilience Brows By Ruby",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyebrow bar",
+  "address": "2110 S Mill Ave Studio 7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4053778,
+  "lng": -111.9402789,
+  "phone": "+14807880126",
+  "website": "https://resiliencebrows.squarespace.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Resilience+Brows+By+Ruby/data=!4m7!3m6!1s0x872ba5006def08a5:0x7866ccc019fe30f6!8m2!3d33.4053778!4d-111.9402789!16s%2Fg%2F11x1p08jj4!19sChIJpQjvbQClK4cR9jD-GcDMZng?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8675846857617715446",
+  "placeId": "ChIJpQjvbQClK4cR9jD-GcDMZng",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2vJC37Kt9FETucyAcVb4psDiOWe2BVYtP4wtpMVdIe181Bz7D2CYOwVKXwi11lERocamasydFPETDBV36oYj-tAhrS47mUAxuZYKEuzT3-WKsVrk2F4ZekzTWknBCglpf7ykOl9AwEcg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "11:00 AM - 5:00 PM",
+    "tue": "11:00 AM - 5:00 PM",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 2:00 PM",
+    "sat": "11:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

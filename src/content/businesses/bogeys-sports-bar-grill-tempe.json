@@ -11,22 +11,10 @@
   "priceRange": "$10–20",
   "description": "This unpretentious neighborhood haunt features TVs, games & a menu of burgers, pizza & wings.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/607490405998294"
@@ -37,5 +25,31 @@
   "groundgameId": "6a2438c562ce8d1c93d45830",
   "seededAt": "2026-06-06T15:12:05Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJnYyBIkAGK4cREKtUL9T06aY",
+  "googleCid": "12027413472033942288",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bogeys+Sports+Bar+%26+Grill/data=!4m7!3m6!1s0x872b064022818c9d:0xa6e9f4d42f54ab10!8m2!3d33.3629125!4d-111.927659!16s%2Fg%2F1v5k3gwy!19sChIJnYyBIkAGK4cREKtUL9T06aY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 1112,
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 21,
+    "3": 72,
+    "4": 213,
+    "5": 724
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHYQkw68sYJbVDpcgFpMou3QcSNqhG1FlSeiF7o0V6YVJN54cPw9gUNyK29i-cMaHOeNVyBytKARvlWicpvxzvLiXRuUXI1-JtB-n4bQTB4BDcKEBWJrFaz8bsAw6p8BAFrXERdpNtW0AI=w1200-h800-k-no",
+  "website": "https://bogeystempe.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "lat": 33.3629125,
+  "lng": -111.92765899999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "charlotte-russe-tempe",
+  "name": "Charlotte Russe",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Fashion accessories store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #640",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383044999999996,
+  "lng": -111.964472,
+  "phone": "+14808389107",
+  "website": "https://charlotterusse.com/pages/store-locator",
+  "googleMapsUrl": "https://www.google.com/maps/place/Charlotte+Russe/data=!4m7!3m6!1s0x872b0f59e1444903:0x360a0d3ceafe2db5!8m2!3d33.383045!4d-111.964472!16s%2Fg%2F1v3dslgd!19sChIJA0lE4VkPK4cRtS3-6jwNCjY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3893939383106940341",
+  "placeId": "ChIJA0lE4VkPK4cRtS3-6jwNCjY",
+  "googleRating": 3.7,
+  "googleReviewCount": 100,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzAS5JOji2Gb2l1qNc69WKAGX_rLdB5ViAnVFBrT8XEqMJZkE51bWj3OyB9HGDJ9mb7d8qFFhLWV3IBeuwmb_h0L14iLosT9V6WWzpXBnyGn9b_ZoxRoLBkyCwdt3M9u-_l-P6v20HUuUj=w1200-h800-k-no",
+  "description": "Retail chain carrying trendy clothing, shoes, intimate apparel & accessories aimed at young women.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 4,
+    "3": 8,
+    "4": 11,
+    "5": 54
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -17,13 +17,13 @@
   "phone": "+14802560769",
   "website": "https://eatatthetacocart.com/",
   "placeId": "ChIJzXRsSgAJK4cRulGinXx_-qU",
-  "googleRating": 4.9,
-  "googleReviewCount": 45,
+  "googleRating": 4.8,
+  "googleReviewCount": 104,
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 5:00 PM",
@@ -40,5 +40,16 @@
   "groundgameId": "6a3438c910b63ada964b7cd4",
   "seededAt": "2026-06-18T18:28:25Z",
   "updatedAt": "2026-07-29T20:16:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11960011933633106362",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Taco+Cart+-+Tempe/data=!4m7!3m6!1s0x872b09004a6c74cd:0xa5fa7f7c9da251ba!8m2!3d33.4078138!4d-111.9509513!16s%2Fg%2F11y0qc1d3y!19sChIJzXRsSgAJK4cRulGinXx_-qU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 94
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesh7k164MNk5JF7Q7LDi9S746Lbt4Jh42YVnhV3NWXT2MHrxjog4C7J1O5xyCpcsd4g41e7yM0jU8HTE4Ivgcgfc1F8npl5sfUq70xYpiX6HTQX6gK1itEWBLPJsXDJZFRf2R02iQBbUpm=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

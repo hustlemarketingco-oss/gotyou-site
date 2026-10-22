@@ -21,21 +21,15 @@
   "lng": -111.9246099,
   "phone": "+14808315322",
   "website": "https://www.amf.com/location/amf-tempe-village-lanes/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6187081474938692849",
+  "googleMapsUrl": "https://www.google.com/maps/place/AMF+Tempe+Village+Lanes/data=!4m7!3m6!1s0x872b0620f3baa22d:0x55dcedd2261ee4f1!8m2!3d33.3847829!4d-111.9246099!16s%2Fg%2F1tg165ts!19sChIJLaK68yAGK4cR8eQeJtLt3FU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6187081474938692849",
   "placeId": "ChIJLaK68yAGK4cR8eQeJtLt3FU",
   "googleRating": 4.4,
-  "googleReviewCount": 1777,
+  "googleReviewCount": 1806,
   "description": "Long-standing chain of bowling alleys featuring casual grub & pitchers, leagues & party events.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "3:00 PM - 1:00 AM",
@@ -52,5 +46,14 @@
   "groundgameId": "6a24385d17f82245a1c9dd12",
   "seededAt": "2026-06-06T15:10:21Z",
   "updatedAt": "2026-06-06T15:10:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 75,
+    "2": 36,
+    "3": 145,
+    "4": 433,
+    "5": 1117
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGYH9qzQDAjG5AUHRUrt-TBBJ055dKT-MedZwdm6Xac4xFA9gmM4EsgzUx4aL0F554FhI_fp15LN8RW_QMvu21cAI1TRejz2j7Mja7usMAvGrSBX9pDMydm3XLMIij0pwqjLAJXA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

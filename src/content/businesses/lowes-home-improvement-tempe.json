@@ -1,0 +1,56 @@
+{
+  "slug": "lowes-home-improvement-tempe",
+  "name": "Lowe's Home Improvement",
+  "category": "Shopping",
+  "googleCategory": "Home improvement store",
+  "secondaryCategories": [
+    "Appliance store",
+    "Building materials supplier",
+    "Flooring store",
+    "Furniture store",
+    "Garden center",
+    "Hardware store",
+    "Outdoor furniture store",
+    "Paint store"
+  ],
+  "address": "777 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.376461,
+  "lng": -111.929769,
+  "phone": "+14804581870",
+  "website": "https://www.lowes.com/store/AZ-Tempe/3000?cm_mmc=lod-_-c-_-lcl-_-awr-_-yxt-_-go-_-3000-_-na-_-0-_-0&y_source=1_MTE4MzM5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lowe%27s+Home+Improvement/data=!4m7!3m6!1s0x872b0618684ee8f1:0x4267de450350f687!8m2!3d33.376461!4d-111.929769!16s%2Fg%2F1vzn607h!19sChIJ8ehOaBgGK4cRh_ZQA0XeZ0I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4785037517094188679",
+  "placeId": "ChIJ8ehOaBgGK4cRh_ZQA0XeZ0I",
+  "googleRating": 4.1,
+  "googleReviewCount": 2153,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRfXUfGhp9JvJ87guQFohg1B0_n9hTrgHcoI_-J7NJC98B_f8hWlPn-bcdkKTLQO7Oi5ERLfLexocHqCCUo4eEuWO_YU0yrDpPNTe8lN3KQp4bUqqD6DjO31Rk7np03yQhqXKS17iuRi1B=w1200-h800-k-no",
+  "description": "Home improvement chain for appliances & gardening supplies, plus tools & hardware.",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 213,
+    "2": 86,
+    "3": 161,
+    "4": 479,
+    "5": 1214
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -14,27 +14,10 @@
   "priceRange": "$1–10",
   "description": "Located in Tempe, The Cafe @ Regroup is a casual, cozy coffee shop & coffee store with coffee & quick bite, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/regroupcoffeeandbicycles"
@@ -45,5 +28,30 @@
   "groundgameId": "6a243945ecb86edc6e6a9f9b",
   "seededAt": "2026-06-06T15:14:13Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJxzNAC8UJK4cRRi96HKWQ380",
+  "googleCid": "14834734736403476294",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Cafe+@+Regroup/data=!4m7!3m6!1s0x872b09c50b4033c7:0xcddf90a51c7a2f46!8m2!3d33.4426703!4d-111.9260763!16s%2Fg%2F11j7z4grt0!19sChIJxzNAC8UJK4cRRi96HKWQ380?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 103,
+  "ratingBreakdown": {
+    "2": 1,
+    "3": 2,
+    "4": 7,
+    "5": 93
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcza2Ht_doqfXOGYszd8k2Sm8iRCYwhs33_INtt-NqdaJBIboEdkvrZyw8l_0zIlxpc92qLBg_BBaFtdMdKWK_iSjJbm85m0JJN24tN49ybCcMPX_-A329PY1WbVw7ny7t5ltsKBw=w1200-h800-k-no",
+  "website": "http://www.regroupwithus.com/coffee",
+  "hours": {
+    "mon": "Closed",
+    "tue": "6:30 AM - 12:00 PM",
+    "wed": "6:30 AM - 12:00 PM",
+    "thu": "6:30 AM - 12:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "6:30 AM - 2:00 PM",
+    "sun": "6:30 AM - 2:00 PM"
+  },
+  "lat": 33.442670299999996,
+  "lng": -111.92607629999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "tempe-family-ymca-tempe",
+  "name": "Tempe Family YMCA",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Day care center",
+    "Non-profit organization",
+    "Preschool",
+    "Social services organization",
+    "Sports club",
+    "Summer camp organizer",
+    "Swimming school",
+    "Youth care service"
+  ],
+  "address": "7070 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3559042,
+  "lng": -111.9290985,
+  "phone": "+14807300240",
+  "website": "https://valleyymca.org/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Family+YMCA/data=!4m7!3m6!1s0x872b06682a4e1cdd:0x217401356cfc86fc!8m2!3d33.3559042!4d-111.9290985!16s%2Fg%2F1tk1zhqn!19sChIJ3RxOKmgGK4cR_Ib8bDUBdCE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2410553029523441404",
+  "placeId": "ChIJ3RxOKmgGK4cR_Ib8bDUBdCE",
+  "googleRating": 4.4,
+  "googleReviewCount": 234,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ3BcPbtiSVTzRa1v5ssSz4Tb6PL-h_1cYEHkY3oodRLQjymk7g8hbjUF41EOaN_4jT06pghSIN4Af4UQ5kQF1nONufTLdo_9y8nZ6x8b_y4vRVSOO-DZxavlABFELJSEuHyLDMg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 6,
+    "3": 13,
+    "4": 35,
+    "5": 164
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "8:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

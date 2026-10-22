@@ -1,0 +1,41 @@
+{
+  "slug": "anjel-lashes-tempe",
+  "name": "Anjel Lashes",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "address": "123 E Baseline Rd Suite D-103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775178,
+  "lng": -111.93753079999999,
+  "phone": "+14806732458",
+  "googleMapsUrl": "https://www.google.com/maps/place/Anjel+Lashes/data=!4m7!3m6!1s0x872b07df2b0e3a5d:0x43d1b3f82f040025!8m2!3d33.3775178!4d-111.9375308!16s%2Fg%2F11t41rwbn6!19sChIJXToOK98HK4cRJQAEL_iz0UM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4886884949195751461",
+  "placeId": "ChIJXToOK98HK4cRJQAEL_iz0UM",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQgKXwWqKYUwIUQdpIlb8S1ceAuqeFzsp5AcXxD4BwucWfuzapMZVEYRhmoTSedj0X7oCv3Ef75MGNzi1Qd_6Wdgg_PD5sa613HJoAut55RXTCPD_oLIRhah4ENqC-DW4Iu-U1qGGMgV4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 4:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

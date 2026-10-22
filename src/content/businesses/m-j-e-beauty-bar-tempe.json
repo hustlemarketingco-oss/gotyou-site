@@ -1,0 +1,43 @@
+{
+  "slug": "m-j-e-beauty-bar-tempe",
+  "name": "M.J.E beauty bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1051 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216279,
+  "lng": -111.95390289999999,
+  "phone": "+16028835253",
+  "googleMapsUrl": "https://www.google.com/maps/place/M.J.E+beauty+bar/data=!4m7!3m6!1s0x872b0fec0cb8426f:0x97bbd58475fe572!8m2!3d33.4216279!4d-111.9539029!16s%2Fg%2F11q2tt3db2!19sChIJb0K4DOwPK4cRcuVfR1i9ewk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "683347955329000818",
+  "placeId": "ChIJb0K4DOwPK4cRcuVfR1i9ewk",
+  "googleRating": 4.8,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu1_nk8aw_BRI1qKfsWc31OzoExDgq0AaMWNLIJmjyisRhlCM-K9G-XUIFkou4uYtxKxOXN14quDCFzW1ymFRrQbe0DGRm1XMDM2lKenpCvUtDo2KgkUHiUiOcr1dKF_qmADV5t_5zRTYR=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 15
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

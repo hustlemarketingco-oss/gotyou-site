@@ -22,8 +22,8 @@
   "phone": "+14802194101",
   "website": "https://locations.dunkindonuts.com/en/az/tempe/1740-e-broadway-rd/349308&y_source=1_MTIxMDgxMDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJWUGig4wIK4cRzwKlKiY0_7U",
-  "googleRating": 3.7,
-  "googleReviewCount": 832,
+  "googleRating": 3.6,
+  "googleReviewCount": 853,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 8:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3ed99cebc98d4b3570fa01",
   "seededAt": "2026-06-26T19:57:16Z",
   "updatedAt": "2026-07-02T18:33:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13114257978455032527",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x872b088c83a24159:0xb5ff34262aa502cf!8m2!3d33.4079755!4d-111.9108013!16s%2Fg%2F119t_9v1s!19sChIJWUGig4wIK4cRzwKlKiY0_7U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 179,
+    "2": 55,
+    "3": 79,
+    "4": 137,
+    "5": 403
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvRttESTjIOSoPQWUX4KgtzkK1RZRj6im6pf1AALr8zz6qpk3YSmVFyUw9wMqe0JbJMIsinHUwC-X7e6uOla_rlO35-5LhPqO3uxUnoBB5PtKj_1z6fImsc-URpB2G203SgDaMlw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

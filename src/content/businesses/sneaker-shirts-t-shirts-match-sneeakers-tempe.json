@@ -1,0 +1,42 @@
+{
+  "slug": "sneaker-shirts-t-shirts-match-sneeakers-tempe",
+  "name": "Sneaker Shirts - T-shirts Match Sneeakers",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "3224 S Fair Ln",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394087299999995,
+  "lng": -111.97669719999999,
+  "website": "https://sneakerthreads.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sneaker+Shirts+-+T-shirts+Match+Sneeakers/data=!4m7!3m6!1s0x872b0fd14e41bbe5:0x7b564ad450b63d30!8m2!3d33.3940873!4d-111.9766972!16s%2Fg%2F11h022cs_p!19sChIJ5btBTtEPK4cRMD22UNRKVns?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8887373190409895216",
+  "placeId": "ChIJ5btBTtEPK4cRMD22UNRKVns",
+  "googleRating": 1.4,
+  "googleReviewCount": 9,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RywasS-V7sBHRoXIMRyHlQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=349.5072&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:00 AM - 3:00 PM",
+    "tue": "9:00 AM - 3:00 PM",
+    "wed": "9:00 AM - 3:00 PM",
+    "thu": "9:00 AM - 3:00 PM",
+    "fri": "9:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

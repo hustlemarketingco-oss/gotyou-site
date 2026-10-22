@@ -1,0 +1,36 @@
+{
+  "slug": "rac-products-tempe",
+  "name": "Rac Products",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "secondaryCategories": [
+    "Auto parts store"
+  ],
+  "address": "5020 S Ash Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.379742,
+  "lng": -111.942988,
+  "phone": "+18005171988",
+  "website": "https://www.racproducts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rac+Products/data=!4m7!3m6!1s0x872b0603230293ff:0xfbb435b900b07324!8m2!3d33.379742!4d-111.942988!16s%2Fg%2F1263_sk78!19sChIJ_5MCIwMGK4cRJHOwALk1tPs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18137180668024615716",
+  "placeId": "ChIJ_5MCIwMGK4cRJHOwALk1tPs",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bmg5487zLDb9nroYpEE5Rw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=254.74393&pitch=0&thumbfov=100",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

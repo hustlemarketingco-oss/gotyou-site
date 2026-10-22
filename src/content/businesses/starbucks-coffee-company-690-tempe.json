@@ -17,35 +17,17 @@
   "lat": 33.42407,
   "lng": -111.92765,
   "phone": "+14809313934",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13346386917267019966",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b09d2e72876cf:0xb937e430669f18be!8m2!3d33.42407!4d-111.92765!16s%2Fg%2F11ybnhds31!19sChIJz3Yo59IJK4cRvhifZjDkN7k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13346386917267019966",
   "placeId": "ChIJz3Yo59IJK4cRvhifZjDkN7k",
-  "googleRating": 4.3,
-  "googleReviewCount": 33,
+  "googleRating": 4.2,
+  "googleReviewCount": 39,
   "priceRange": "$10–20",
   "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "5:00 AM - 8:00 PM",
@@ -62,5 +44,12 @@
   "groundgameId": "6a243956851f98bd9d1580f9",
   "seededAt": "2026-06-06T15:14:30Z",
   "updatedAt": "2026-06-06T15:14:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 7,
+    "4": 4,
+    "5": 28
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeabCVXwIg1N-ktCbx-yc7s9tibuYQ3VYguG6h9OzdcPPKxdGDL_7WPbWoemv56vJ2s1t7S4LJGtRFLdrGUpAQewczbtdvc0lZuWJ0P2-b4kEvofGvjdzcu9f-KiUFN2-JY-XBkhFvfJZA6=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

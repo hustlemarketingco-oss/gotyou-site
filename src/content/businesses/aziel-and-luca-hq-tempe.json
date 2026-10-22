@@ -1,0 +1,42 @@
+{
+  "slug": "aziel-and-luca-hq-tempe",
+  "name": "Aziel and Luca HQ",
+  "category": "Shopping",
+  "googleCategory": "Baby clothing store",
+  "address": "2404 W 12th St #4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4163384,
+  "lng": -111.9742965,
+  "phone": "+14807257584",
+  "website": "https://azielandluca.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aziel+and+Luca+HQ/data=!4m7!3m6!1s0x872b0f38e3d01c17:0xf896e8572a458ace!8m2!3d33.4163384!4d-111.9742965!16s%2Fg%2F11vstcwl3c!19sChIJFxzQ4zgPK4cRzopFKlfolvg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17912760028981725902",
+  "placeId": "ChIJFxzQ4zgPK4cRzopFKlfolvg",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qn2Bq0ceTSFl9R5-mXUk7A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=323.52823&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 3:00 PM",
+    "tue": "10:00 AM - 3:00 PM",
+    "wed": "10:00 AM - 3:00 PM",
+    "thu": "10:00 AM - 3:00 PM",
+    "fri": "10:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

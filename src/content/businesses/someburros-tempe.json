@@ -16,7 +16,7 @@
   "website": "http://www.someburros.com/",
   "placeId": "ChIJIWU2vukIK4cRVbtrchI5OvU",
   "googleRating": 4.3,
-  "googleReviewCount": 1127,
+  "googleReviewCount": 1151,
   "priceRange": "$",
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a359a5735489160cb6c0465",
   "seededAt": "2026-06-19T19:36:55Z",
   "updatedAt": "2026-10-09T22:44:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17670498839333419861",
+  "googleMapsUrl": "https://www.google.com/maps/place/Someburros/data=!4m7!3m6!1s0x872b08e9be366521:0xf53a3912726bbb55!8m2!3d33.4139263!4d-111.9266984!16s%2Fg%2F11f_ltnny0!19sChIJIWU2vukIK4cRVbtrchI5OvU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 80,
+    "2": 55,
+    "3": 83,
+    "4": 190,
+    "5": 743
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcx178jaTcUQUSpb2Ihrxq-vXJtvR83WpO6CY09OBqH7xo5zOR5PllolTJ0j53mbx3zdRM17VK6aGVZgn3iz96TgoEWelfpuYno665bvkNsdxQs1ph3Geaw7IwJA45cImUZ9NxYXQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,46 @@
+{
+  "slug": "primetime-cards-and-games-tempe",
+  "name": "Primetime Cards and Games",
+  "category": "Shopping",
+  "googleCategory": "Game store",
+  "address": "1250 E Apache Blvd Unit 113",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4154912,
+  "lng": -111.9184561,
+  "phone": "+16025384555",
+  "website": "https://primetimetempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Primetime+Cards+and+Games/data=!4m7!3m6!1s0x872b09175ea9f1c5:0xc975ca534355cc55!8m2!3d33.4154912!4d-111.9184561!16s%2Fg%2F11sc1x23f3!19sChIJxfGpXhcJK4cRVcxVQ1PKdck?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14516731432859454549",
+  "placeId": "ChIJxfGpXhcJK4cRVcxVQ1PKdck",
+  "googleRating": 4.7,
+  "googleReviewCount": 515,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCH8Qbn_C10uWpShW7Smp5SRDO1rPXD4sNfebirAr2TbfCsHq36zYUL0G8aOAxzkKPSHwHX7BI-RVqEVxYD5cENWf067qEQop6_P54lMR7gnYvi1a58-AvafrFSOkEfrQSOfWVvPpIULMi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 6,
+    "3": 7,
+    "4": 8,
+    "5": 466
+  },
+  "hours": {
+    "mon": "1:00 PM - 9:00 PM",
+    "tue": "1:00 PM - 9:00 PM",
+    "wed": "1:00 PM - 9:00 PM",
+    "thu": "1:00 PM - 9:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "palette-collective-tempe",
+  "name": "Palette Collective",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Barber shop",
+    "Coworking space",
+    "Eyebrow bar",
+    "Eyelash salon",
+    "Hair salon",
+    "Medical spa",
+    "Nail salon",
+    "Tattoo shop"
+  ],
+  "address": "7720 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3481309,
+  "lng": -111.96531139999999,
+  "phone": "+14806608885",
+  "website": "https://www.palettecollective.studio/tempe-directory?utm_source=apple_maps&utm_medium=organic&utm_campaign=yext",
+  "googleMapsUrl": "https://www.google.com/maps/place/Palette+Collective/data=!4m7!3m6!1s0x872b05c53891fa0f:0xef82f666be9c746e!8m2!3d33.3481309!4d-111.9653114!16s%2Fg%2F11gh2ptqct!19sChIJD_qROMUFK4cRbnScvmb2gu8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17258627643182183534",
+  "placeId": "ChIJD_qROMUFK4cRbnScvmb2gu8",
+  "googleRating": 4.5,
+  "googleReviewCount": 88,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBJlSHZ1UBXakqcOmPZDnL1tlCtHS5Cuh1dLhf6Nek6OouuP_GTZbAW1Fa9InYLQ1n2WG8Vs7DRFLFZVv-dwEKNDcTeU8zfJq6gcTe0XZYOqfH0QzJ8qX4mliKWLyut1p7XIkBUg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 2,
+    "4": 9,
+    "5": 70
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "perfume-gallery-tempe",
+  "name": "PERFUME GALLERY",
+  "category": "Shopping",
+  "googleCategory": "Perfume store",
+  "address": "5000 S Arizona Mills Cir Ste TT39",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3835183,
+  "lng": -111.9648603,
+  "phone": "+16026919551",
+  "website": "http://perfumegalleryaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/PERFUME+GALLERY/data=!4m7!3m6!1s0x872b0fc07662b429:0x110534d2132257f3!8m2!3d33.3835183!4d-111.9648603!16s%2Fg%2F11h_wrd034!19sChIJKbRidsAPK4cR81ciE9I0BRE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1226444550397122547",
+  "placeId": "ChIJKbRidsAPK4cR81ciE9I0BRE",
+  "googleRating": 3,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdj70jdOLG2OcRv0EHcRcWF_pG0TwEFKEF0uUkDTYrrISOE_Ucj042k8JwLwXlRRMBBVKoC6mu3Rc4XLT_Huke1bktld1UBYIcQGD2RKp3GXUQmHo4Kh7o-qaqFwDiYTEN2Yyf92g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

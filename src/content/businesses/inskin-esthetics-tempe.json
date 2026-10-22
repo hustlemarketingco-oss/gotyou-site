@@ -1,0 +1,42 @@
+{
+  "slug": "inskin-esthetics-tempe",
+  "name": "INSKIN Esthetics",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "933 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "phone": "+17316163035",
+  "website": "https://www.inskinesthetics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/INSKIN+Esthetics/data=!4m7!3m6!1s0x872b09621e74a95d:0x2303b5b047873c06!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11ybvl_ctv!19sChIJXal0HmIJK4cRBjyHR7C1AyM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2523059984976526342",
+  "placeId": "ChIJXal0HmIJK4cRBjyHR7C1AyM",
+  "googleRating": 5,
+  "googleReviewCount": 19,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L1IfbHyIVhSqnf7Jzho7Cg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=170.24954&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 19
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

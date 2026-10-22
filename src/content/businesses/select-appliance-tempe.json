@@ -1,0 +1,48 @@
+{
+  "slug": "select-appliance-tempe",
+  "name": "Select Appliance",
+  "category": "Shopping",
+  "googleCategory": "Appliance store",
+  "address": "214 S Rockford Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4279084,
+  "lng": -111.8974257,
+  "phone": "+14808331234",
+  "website": "https://www.selectappliance.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Select+Appliance/data=!4m7!3m6!1s0x872b0810efd04ded:0x6ca20c872137003c!8m2!3d33.4279084!4d-111.8974257!16s%2Fg%2F1261vtj6f!19sChIJ7U3Q7xAIK4cRPAA3IYcMomw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7827832876840714300",
+  "placeId": "ChIJ7U3Q7xAIK4cRPAA3IYcMomw",
+  "googleRating": 4.7,
+  "googleReviewCount": 190,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR5Nq9dJQWYbGAnMNsvsviG-zpxcBUW_K6vJh1EKU223XoYgB0PCtBrrW-ywjP5N9wSYczna5j_aGI-XNEesHZMdSVcK7L2ENNoOhzgb2wvELrgwMeB9Sv0vxkzXh2JtTEEswB=w1200-h800-k-no",
+  "description": "Local family-owned & operated appliance store selling new discount fridges, washers dryers & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 3,
+    "3": 3,
+    "4": 20,
+    "5": 157
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -18,26 +18,10 @@
   "priceRange": "$1–10",
   "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Organic dishes",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://facebook.com/starbucks"
@@ -48,5 +32,31 @@
   "groundgameId": "6a243966d0dddd939d5a039d",
   "seededAt": "2026-06-06T15:14:46Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJfTgUbjoPK4cRF2K8je9Bqpo",
+  "googleCid": "11144792725012636183",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b0f3a6e14387d:0x9aaa41ef8dbc6217!8m2!3d33.40713!4d-111.96515!16s%2Fg%2F11bwny6l2z!19sChIJfTgUbjoPK4cRF2K8je9Bqpo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 1297,
+  "ratingBreakdown": {
+    "1": 129,
+    "2": 49,
+    "3": 115,
+    "4": 246,
+    "5": 758
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYOwS4BaN3jwdclCG39EzFLcx9aT6dikeNv3kQUNbyYWbagerwNw7P2fycUzCFLyBXicvAdNHALvPPsAKYpK2tE5gtzABzxclTXxuApGjCg7H1NtS6XCO1nd6Rc9VCi8e9a0ocbfzKgIg=w1200-h800-k-no",
+  "website": "https://www.starbucks.com/store-locator/store/1009254/",
+  "hours": {
+    "mon": "3:00 AM - 10:00 PM",
+    "tue": "3:00 AM - 10:00 PM",
+    "wed": "3:00 AM - 10:00 PM",
+    "thu": "3:00 AM - 10:00 PM",
+    "fri": "3:00 AM - 10:00 PM",
+    "sat": "4:00 AM - 10:00 PM",
+    "sun": "4:00 AM - 10:00 PM"
+  },
+  "lat": 33.407129999999995,
+  "lng": -111.96515,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

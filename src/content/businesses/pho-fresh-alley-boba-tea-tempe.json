@@ -1,0 +1,59 @@
+{
+  "slug": "pho-fresh-alley-boba-tea-tempe",
+  "name": "Pho Fresh Alley & Boba Tea",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian fusion restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Bubble tea store",
+    "Delivery Chinese restaurant",
+    "Delivery Restaurant",
+    "Takeout Restaurant",
+    "Noodle shop",
+    "Pho restaurant",
+    "Tea house"
+  ],
+  "address": "1000 E Apache Blvd Suite #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414934599999995,
+  "lng": -111.92406109999999,
+  "phone": "+14802479000",
+  "website": "http://phofreshalleyandbobatea.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pho+Fresh+Alley+%26+Boba+Tea/data=!4m7!3m6!1s0x872b09fa4fe44437:0xe24fa4b59dd2c4d4!8m2!3d33.4149346!4d-111.9240611!16s%2Fg%2F11fkdtxby7!19sChIJN0TkT_oJK4cR1MTSnbWkT-I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16307433875675727060",
+  "placeId": "ChIJN0TkT_oJK4cR1MTSnbWkT-I",
+  "googleRating": 4.2,
+  "googleReviewCount": 517,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRT2ZMDuL067c8D-8ImN14Y-LATuA_wt9R-mFihPpQcmmn1djX-APrH2uX6zAeJFDsa5c-0931EZIKoCDdcoOIDmPj6pu7miiMmPjc2l-w-bD4_0dFC6Kmqa1As59fw00gGDE=w1200-h800-k-no",
+  "description": "Unfussy eatery serving Vietnamese noodle soup & grilled pork dishes, plus bubble tea & milkshakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 16,
+    "3": 32,
+    "4": 78,
+    "5": 337
+  },
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

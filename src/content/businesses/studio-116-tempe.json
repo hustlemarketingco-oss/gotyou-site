@@ -1,0 +1,33 @@
+{
+  "slug": "studio-116-tempe",
+  "name": "Studio 116",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1805 E Elliot Rd #116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3478554,
+  "lng": -111.9095359,
+  "phone": "+14802009711",
+  "googleMapsUrl": "https://www.google.com/maps/place/Studio+116/data=!4m7!3m6!1s0x872b07070b046b5d:0xa05a704b72150b7b!8m2!3d33.3478554!4d-111.9095359!16s%2Fg%2F11hd_kndl0!19sChIJXWsECwcHK4cRewsVcktwWqA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11554671263311268731",
+  "placeId": "ChIJXWsECwcHK4cRewsVcktwWqA",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d6tE450dpMpA57BThtwgIA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=178.27309&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

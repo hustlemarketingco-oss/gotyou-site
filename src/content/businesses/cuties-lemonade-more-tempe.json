@@ -2,7 +2,7 @@
   "slug": "cuties-lemonade-more-tempe",
   "name": "Cuties Lemonade & More",
   "category": "Restaurant",
-  "googleCategory": "Caterer",
+  "googleCategory": "Food court",
   "secondaryCategories": [
     "Catering food and drink supplier",
     "Food court"
@@ -15,25 +15,17 @@
   "lng": -111.9648654,
   "phone": "+14806252130",
   "website": "http://cutieslemonade.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17838986325529362779",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cuties+Lemonade+%26+More/data=!4m7!3m6!1s0x872b1b326fec0001:0xf790cf8c4e3a815b!8m2!3d33.3850558!4d-111.9648654!16s%2Fg%2F11hczl6_ll!19sChIJAQDsbzIbK4cRW4E6TozPkPc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17838986325529362779",
   "placeId": "ChIJAQDsbzIbK4cRW4E6TozPkPc",
   "googleRating": 4.5,
-  "googleReviewCount": 137,
+  "googleReviewCount": 138,
   "priceRange": "$1–10",
   "description": "Located in Tempe, Cuties Lemonade & More is a casual, trendy caterer & catering food and drink supplier with takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/cutieslemonade"
@@ -53,5 +45,14 @@
   "groundgameId": "6a2437b752b03b626171a6ae",
   "seededAt": "2026-06-06T15:07:35Z",
   "updatedAt": "2026-06-06T15:07:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 2,
+    "4": 6,
+    "5": 116
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8_vyIgqzL7_prcnyFXB_uIEs6ajObDjLmlWM-4JiFUptjWNCOnQX952GzqFrCAnmPhrwUhJ09NBcTtVqse1ZYQ2NRzQghvHzcTnjEHY8f4rjCVGG7X4ImfXUN3Cjw4a36neETRSxPz-y-=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

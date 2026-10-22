@@ -1,0 +1,50 @@
+{
+  "slug": "wangs-closet-tempe",
+  "name": "Wang's Closet",
+  "category": "Shopping",
+  "googleCategory": "Vintage clothing store",
+  "secondaryCategories": [
+    "Collectibles store",
+    "Shoe store"
+  ],
+  "address": "1810 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493686,
+  "lng": -111.92690499999999,
+  "phone": "+14809478245",
+  "website": "http://www.wangsvintage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wang%27s+Closet/data=!4m7!3m6!1s0x872b091536265025:0x27d5b7f5aadf81e!8m2!3d33.4493686!4d-111.926905!16s%2Fg%2F11c2lcfpgc!19sChIJJVAmNhUJK4cRHvitWn9bfQI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "179400162705012766",
+  "placeId": "ChIJJVAmNhUJK4cRHvitWn9bfQI",
+  "googleRating": 4.3,
+  "googleReviewCount": 221,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcP1JxagOwvtK7clCbzyEJUJ-3uWfcorlJx-rPCTjIVJHfadFNSyTXHDpb7zqEjEeJ1Gosm-EgSM3sqszdquinQ15V117e0UefewmrJ0957uGMq3L21hGMwKSUAnWW03Uq8FiUB=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 8,
+    "3": 6,
+    "4": 18,
+    "5": 163
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

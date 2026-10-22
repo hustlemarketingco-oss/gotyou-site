@@ -1,0 +1,57 @@
+{
+  "slug": "walgreens-1825-tempe",
+  "name": "Walgreens",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Contact lenses supplier",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Perfume store",
+    "Stationery store",
+    "Vitamin & supplements store"
+  ],
+  "address": "1825 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3340779,
+  "lng": -111.90983519999999,
+  "phone": "+14808209984",
+  "website": "https://www.walgreens.com/locator/walgreens-1825+e+warner+rd-tempe-az-85284/id=4376",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walgreens/data=!4m7!3m6!1s0x872b06e35b72476b:0xa81c60c9a665a744!8m2!3d33.3340779!4d-111.9098352!16s%2Fg%2F1thq150n!19sChIJa0dyW-MGK4cRRKdlpslgHKg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12113663516916164420",
+  "placeId": "ChIJa0dyW-MGK4cRRKdlpslgHKg",
+  "googleRating": 3.1,
+  "googleReviewCount": 55,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdq7XAAm3Bu2qj4GVj-ZlePwZzHG6k_6JEDkvxdWvRuHdoGm8kNUKO5AbPbXxjNMXrz9raGlWgT5QYi09IByLdaW5MRq2_Dt0W_MlUag9kU_n0_DQZaPY9CfmjurmV1jD5O4Xd5zw=w1200-h800-k-no",
+  "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 21
+  },
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

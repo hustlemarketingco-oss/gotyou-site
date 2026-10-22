@@ -1,0 +1,54 @@
+{
+  "slug": "cobblestone-auto-spa-9969-tempe",
+  "name": "Cobblestone Auto Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Car wash",
+  "secondaryCategories": [
+    "Car detailing service",
+    "Car repair and maintenance service",
+    "Convenience store",
+    "Oil change service"
+  ],
+  "address": "9969 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3208057,
+  "lng": -111.9614532,
+  "phone": "+16232832323",
+  "website": "https://cobblestone.com/location/s-priest/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cobblestone+Auto+Spa/data=!4m7!3m6!1s0x872b04237fbeca37:0xf8f2ba6f52b665b!8m2!3d33.3208057!4d-111.9614532!16s%2Fg%2F11cs5w49q_!19sChIJN8q-fyMEK4cRW2Yr9aYrjw8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1121162828316370523",
+  "placeId": "ChIJN8q-fyMEK4cRW2Yr9aYrjw8",
+  "googleRating": 4,
+  "googleReviewCount": 580,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYz_5ALGaV4mtYBnbK7MVXh-B7EGRdsa0AdRgELtB6TuJe4m2DJIJx0LAXBsGz8WquuBZPjrVYkemc7nHoWmjtDl-lzaHfxmmhvKhF1uprYtfyDb0yRtT7lC1bBc1ZjvUxj7q0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 114,
+    "2": 28,
+    "3": 9,
+    "4": 21,
+    "5": 408
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

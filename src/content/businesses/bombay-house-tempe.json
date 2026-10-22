@@ -18,11 +18,11 @@
   "lng": -111.9085606,
   "phone": "+14807302555",
   "website": "http://www.bombayhousetempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1874860215228940102",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bombay+House/data=!4m7!3m6!1s0x872b07545d9f7b55:0x1a04d76eac3bbf46!8m2!3d33.3774336!4d-111.9085606!16s%2Fg%2F11wtlv27_2!19sChIJVXufXVQHK4cRRr87rG7XBBo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1874860215228940102",
   "placeId": "ChIJVXufXVQHK4cRRr87rG7XBBo",
   "googleRating": 4.7,
-  "googleReviewCount": 490,
+  "googleReviewCount": 568,
   "description": "Located in Tempe, Bombay House is a indian restaurant & biryani restaurant.",
   "hours": {
     "fri": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
@@ -39,5 +39,20 @@
   "groundgameId": "6a243779b43d6a515a349d72",
   "seededAt": "2026-06-06T15:06:33Z",
   "updatedAt": "2026-07-10T19:08:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 12,
+    "3": 14,
+    "4": 43,
+    "5": 480
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegBXohg8vc3Oto4696g4FNvdcXtAG_WuA9pnc7nGsi6c9HCDReO0JXu8qclxTnr_9_c6R3Ua-PlWRtGDqCux1dNUrt5exXy2hFisGRWdiJP0VtJgt1x4socLduHDSZwUmlIBKaXI-Hqx6V=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

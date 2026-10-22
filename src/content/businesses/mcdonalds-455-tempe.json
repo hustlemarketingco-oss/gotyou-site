@@ -1,0 +1,55 @@
+{
+  "slug": "mcdonalds-455-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "455 W Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.363219799999996,
+  "lng": -111.9451502,
+  "phone": "+14807554433",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/455-W-GUADALUPE-RD/21151.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b061056b570b1:0x609aed428373133c!8m2!3d33.3632198!4d-111.9451502!16s%2Fg%2F1wf229tw!19sChIJsXC1VhAGK4cRPBNzg0LtmmA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6961137043983504188",
+  "placeId": "ChIJsXC1VhAGK4cRPBNzg0LtmmA",
+  "googleRating": 3.1,
+  "googleReviewCount": 707,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEXHnxQ5uir4_W4qyhNhqIoVWI4IkaaGY7r3VZ-TfcnBo7eDUHayVxacyWTC98HxFDvCOPZKX5fLgofB0QqRW3hiaiIZtoPszv1uV-b8v4GWNYKd1aR-CxMgdwFJc2tNJDrFQ=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 216,
+    "2": 53,
+    "3": 93,
+    "4": 107,
+    "5": 238
+  },
+  "hours": {
+    "mon": "4:30 AM - 12:00 AM",
+    "tue": "4:30 AM - 12:00 AM",
+    "wed": "4:30 AM - 12:00 AM",
+    "thu": "4:30 AM - 12:00 AM",
+    "fri": "4:30 AM - 12:00 AM",
+    "sat": "4:30 AM - 12:00 AM",
+    "sun": "4:30 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

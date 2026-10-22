@@ -1,0 +1,44 @@
+{
+  "slug": "studio-vavavoom-tempe",
+  "name": "Studio VaVaVoom",
+  "category": "Health & Beauty",
+  "googleCategory": "Dance school",
+  "address": "825 E McKellips Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.450883,
+  "lng": -111.927233,
+  "phone": "+14802965255",
+  "website": "http://www.burlesqueaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Studio+VaVaVoom/data=!4m7!3m6!1s0x872b096abe8fe42d:0x2e4e5af604b509e3!8m2!3d33.450883!4d-111.927233!16s%2Fg%2F11bbwn_jbh!19sChIJLeSPvmoJK4cR4wm1BPZaTi4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3336704386615544291",
+  "placeId": "ChIJLeSPvmoJK4cR4wm1BPZaTi4",
+  "googleRating": 4.7,
+  "googleReviewCount": 32,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedSSEoLiibjrRsg7sxpuQUIAzlg-HirdUMTmmnHbOwseCWgev0PKuJbtE5ob5LOIh1GifyYVRhiUczdjn3xep-WiDemDJh9-8cpRiYzqGPOuFnEaCgnOxIpPJ-HS5FGb8G7SpK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 29
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

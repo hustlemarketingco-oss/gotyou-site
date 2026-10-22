@@ -1,0 +1,45 @@
+{
+  "slug": "tilted-kilt-pub-and-eatery-tempe-az-tempe",
+  "name": "Tilted Kilt Pub and Eatery Tempe, AZ",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Bar & grill",
+    "English restaurant",
+    "Irish pub",
+    "Sports bar"
+  ],
+  "address": "1617 W Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.333947699999996,
+  "lng": -111.9652457,
+  "phone": "+14805920102",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tilted+Kilt+Pub+and+Eatery+Tempe,+AZ/data=!4m7!3m6!1s0x872b068173b69bbf:0x4bdec7ee0dcb755!8m2!3d33.3339477!4d-111.9652457!16s%2Fg%2F1tfq9pm8!19sChIJv5u2c4EGK4cRVbfc4H7svQQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "341689176432621397",
+  "placeId": "ChIJv5u2c4EGK4cRVbfc4H7svQQ",
+  "googleRating": 4,
+  "googleReviewCount": 1474,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRgkfPMjybs0qq3I3bljhsr_P800LhO3H16uElSnTucaBVnz1cgK4y1sGpz0qG6omdrnXW5rVr7DBHgsJHgelRQHj2mhV96fOv6viZ4OxMum5eXUaaSBKuXjtxFFaN8uJn6u53=w1200-h800-k-no",
+  "description": "UK-inspired pub chain with kilt-clad waitresses serving bar food, such as burgers & wings.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 103,
+    "2": 79,
+    "3": 194,
+    "4": 375,
+    "5": 723
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

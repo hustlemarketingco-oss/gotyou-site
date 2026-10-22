@@ -11,18 +11,15 @@
   "lng": -111.9398086,
   "phone": "+14804467272",
   "website": "https://harkins.com/theatres/valley-art",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17886234253443449135",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harkins+Theatres+Valley+Art/data=!4m7!3m6!1s0x872b08d81bdf1007:0xf838ab49c5ebc12f!8m2!3d33.4250998!4d-111.9398086!16s%2Fg%2F1ttpbs1v!19sChIJBxDfG9gIK4cRL8HrxUmrOPg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17886234253443449135",
   "placeId": "ChIJBxDfG9gIK4cRL8HrxUmrOPg",
   "googleRating": 4.6,
   "googleReviewCount": 167,
   "description": "Modern multiplex chain showing blockbusters & a few independent films; some venues offer childcare.",
   "amenities": [
-    "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards"
+    "Assisted listening devices",
+    "Wheelchair accessible entrance"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -30,5 +27,13 @@
   "groundgameId": "6a24384062bea07965bf3106",
   "seededAt": "2026-06-06T15:09:52Z",
   "updatedAt": "2026-06-12T22:03:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 10,
+    "4": 37,
+    "5": 117
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKOTfNSWTWtwpED_OQhD8Xen7EKC0sKJyXKQ8JR1SCJF8bTvyqIQuKYnePYV9rW3ShxCWEJYGrnmp0k_Ll27DpKQj5E0iAqkOIS91Jwt6ggHkwSI9piD236RWvKWB1AP6BLK9Y9A=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

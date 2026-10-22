@@ -1,0 +1,53 @@
+{
+  "slug": "sushi-time-tempe",
+  "name": "Sushi Time",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "5136 S Rural Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3790887,
+  "lng": -111.9301715,
+  "phone": "+14807307764",
+  "website": "https://onlineorder.hotsaucepos.com/store/sushitime",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sushi+Time/data=!4m7!3m6!1s0x872b0618c650fa95:0x9e3100d625d202ca!8m2!3d33.3790887!4d-111.9301715!16s%2Fg%2F1td_hqdp!19sChIJlfpQxhgGK4cRygLSJdYAMZ4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11398893051608957642",
+  "placeId": "ChIJlfpQxhgGK4cRygLSJdYAMZ4",
+  "googleRating": 4.6,
+  "googleReviewCount": 557,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetnRIEsfxhAIqKxFdHgDWYhH6i-1oQuF0zvqgnRyQWBe5lqjK78IlP_WgE3a2GwP35PBDJyYmmANVqzojn53f9vF5oJZkBX89Qg-WFaxV4macUpYb--ifO7WEM6ySdHdiFee1J7kN01LHp=w1200-h800-k-no",
+  "description": "This unassuming strip-mall outlet provides sushi & Japanese staples in spare accommodations.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 13,
+    "3": 28,
+    "4": 54,
+    "5": 442
+  },
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

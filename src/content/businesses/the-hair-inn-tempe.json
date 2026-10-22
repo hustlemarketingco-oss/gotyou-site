@@ -1,0 +1,33 @@
+{
+  "slug": "the-hair-inn-tempe",
+  "name": "The Hair Inn",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2111 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4050057,
+  "lng": -111.9089214,
+  "phone": "+14809662505",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Hair+Inn/data=!4m7!3m6!1s0x872b0f4fba6bfec1:0x36ea2c5c4a44f368!8m2!3d33.4050057!4d-111.9089214!16s%2Fg%2F1tdgkqp3!19sChIJwf5ruk8PK4cRaPNESlws6jY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3957023997493048168",
+  "placeId": "ChIJwf5ruk8PK4cRaPNESlws6jY",
+  "googleRating": 4.3,
+  "googleReviewCount": 6,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-EZzau4ApcDIRhn4eK_lew&cb_client=search.gws-prod.grass&w=408&h=240&yaw=71.912575&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 5
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

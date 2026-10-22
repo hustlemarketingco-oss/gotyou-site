@@ -2,7 +2,7 @@
   "slug": "cafe-zupas-tempe",
   "name": "Cafe Zupas",
   "category": "Fast Food",
-  "googleCategory": "Fast food restaurant",
+  "googleCategory": "Health food restaurant",
   "secondaryCategories": [
     "Health food restaurant"
   ],
@@ -14,11 +14,11 @@
   "lng": -111.9414971,
   "phone": "+14808701888",
   "website": "https://cafezupas.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1773930621913936364",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Zupas/data=!4m7!3m6!1s0x872b095e5e6d6731:0x189e44807f5e31ec!8m2!3d33.4216522!4d-111.9414971!16s%2Fg%2F11mlwtr6qz!19sChIJMWdtXl4JK4cR7DFef4BEnhg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1773930621913936364",
   "placeId": "ChIJMWdtXl4JK4cR7DFef4BEnhg",
-  "googleRating": 4.8,
-  "googleReviewCount": 146,
+  "googleRating": 4.6,
+  "googleReviewCount": 171,
   "description": "Counter-serve local chain serving hearty soups, innovative salads & diverse sandwiches.",
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -35,5 +35,20 @@
   "groundgameId": "6a24376daa3be3108304b929",
   "seededAt": "2026-06-06T15:06:21Z",
   "updatedAt": "2026-08-04T19:32:07Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 1,
+    "3": 5,
+    "4": 5,
+    "5": 149
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKxKn__6A0XppGWxmPiwnVaaT-khGyXu0QAv0CPuKuWwAWZwRFu-pO3e1dSFuhapO-iK6d6lMBkLz_9q20BXzJTBcY-agAvzwPBorb4sLgiYsI_P6GGKzjtazlgvWhZjnaqIwZlmKNIaGK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

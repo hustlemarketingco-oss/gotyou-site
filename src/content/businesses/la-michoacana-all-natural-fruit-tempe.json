@@ -10,24 +10,15 @@
   "lat": 33.3948402,
   "lng": -111.9409027,
   "phone": "+14802091954",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10269548458714313305",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Michoacana+All+Natural+Fruit/data=!4m7!3m6!1s0x872b09fc4935c335:0x8e84c3e9ad53b259!8m2!3d33.3948402!4d-111.9409027!16s%2Fg%2F11ln_7jt0d!19sChIJNcM1SfwJK4cRWbJTrenDhI4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10269548458714313305",
   "placeId": "ChIJNcM1SfwJK4cRWbJTrenDhI4",
-  "googleRating": 4.1,
-  "googleReviewCount": 30,
+  "googleRating": 4.2,
+  "googleReviewCount": 38,
   "description": "Located in Tempe, La Michoacana All Natural Fruit is a casual, trendy ice cream shop. Popular for solo dining.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "9:00 AM - 9:00 PM",
@@ -44,5 +35,12 @@
   "groundgameId": "6a2436220fb32b4830c5943f",
   "seededAt": "2026-06-06T15:00:50Z",
   "updatedAt": "2026-08-06T19:20:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 7,
+    "3": 1,
+    "5": 30
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNPeWr4l0XWJ0dT9ty3QLNXuaJ0SDRUBw3G_F_sgS9RngaxXWWxs7lGaKyQ7zyHVzLt5hebpGan8EoycDOuznCr9zp0VVbGk8y5Ga9qk90YgKyhh2qpJYjl0TzgpXKdH8mTXda=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

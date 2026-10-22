@@ -2,7 +2,7 @@
   "slug": "pedal-haus-brewery-tempe",
   "name": "Pedal Haus Brewery",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Brewery",
   "secondaryCategories": [
     "Beer garden",
     "Sports bar",
@@ -22,7 +22,7 @@
   "website": "https://pedalhausbrewery.com/tempe-location",
   "placeId": "ChIJhWoaddcIK4cRJ_lyprUAkPY",
   "googleRating": 4.5,
-  "googleReviewCount": 2027,
+  "googleReviewCount": 2085,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a397b2de3b41b544ed75342",
   "seededAt": "2026-06-22T18:13:01Z",
   "updatedAt": "2026-06-22T18:13:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17766701310158240039",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pedal+Haus+Brewery+-+Tempe/data=!4m7!3m6!1s0x872b08d7751a6a85:0xf69000b5a672f927!8m2!3d33.4232907!4d-111.9415306!16s%2Fg%2F11bw4vjh5p!19sChIJhWoaddcIK4cRJ_lyprUAkPY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 98,
+    "2": 47,
+    "3": 100,
+    "4": 380,
+    "5": 1460
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLft3oBEPxaiKqw5iO2jNBDir6BraU5DxEL5KLQNXlXUJFCCo9hNqjvZWmiTBEWTD5ZT10mz2l6HXVm078GDE88WyiffLo3HVPoADndUEqV2ugWgYaMiO6A78xcapw-jvl7O2rA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

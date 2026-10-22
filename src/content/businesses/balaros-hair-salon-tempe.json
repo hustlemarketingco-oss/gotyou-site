@@ -1,0 +1,52 @@
+{
+  "slug": "balaros-hair-salon-tempe",
+  "name": "Balaros Hair Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Eyelash salon",
+    "Hair extension technician",
+    "Lymph drainage therapist",
+    "Nail salon",
+    "Hairdresser"
+  ],
+  "address": "115 W 6th St ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241242,
+  "lng": -111.94196,
+  "phone": "+16024319001",
+  "website": "https://www.instagram.com/balaroshair/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Balaros+Hair+Salon/data=!4m7!3m6!1s0x872b0f6a1f4a70e5:0xf56aced26a340278!8m2!3d33.4241242!4d-111.94196!16s%2Fg%2F1tdpb21f!19sChIJ5XBKH2oPK4cReAI0atLOavU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17684174289943921272",
+  "placeId": "ChIJ5XBKH2oPK4cReAI0atLOavU",
+  "googleRating": 4.9,
+  "googleReviewCount": 56,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MKIO5Q_9Lvd6Glw2IsyslQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=100&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 54
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

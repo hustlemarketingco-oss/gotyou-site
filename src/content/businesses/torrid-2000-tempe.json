@@ -1,0 +1,58 @@
+{
+  "slug": "torrid-2000-tempe",
+  "name": "Torrid",
+  "category": "Shopping",
+  "googleCategory": "Plus size clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Jeans shop",
+    "Dress store",
+    "Fashion accessories store",
+    "Lingerie store",
+    "Shoe store",
+    "Swimwear store",
+    "Underwear store"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1124",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.433479999999996,
+  "lng": -111.90280999999999,
+  "phone": "+14809663018",
+  "website": "https://www.torrid.com/?utm_source=GMBlisting&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Torrid/data=!4m7!3m6!1s0x872b09aacc79d5f3:0x88a4d1230506a1c5!8m2!3d33.43348!4d-111.90281!16s%2Fg%2F11b5pjh743!19sChIJ89V5zKoJK4cRxaEGBSPRpIg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9846224633677128133",
+  "placeId": "ChIJ89V5zKoJK4cRxaEGBSPRpIg",
+  "googleRating": 4.5,
+  "googleReviewCount": 303,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdj9pX3_z_AQsy0kLhbT3oOKTFxFT2NCzv4LViIuzSFReMpps5LrDAtOTjgKr-V9ZF5l_ljFN3j2LPblP0GoxO7QV3ctMznHcCRcS7aaQiuQ6LbKVpb-rf03A0K5nHfJco15dDO=w1200-h800-k-no",
+  "description": "Women's clothing chain known for its trendy plus-size cocktail dresses, jeans, lingerie & footwear.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 6,
+    "3": 19,
+    "4": 47,
+    "5": 221
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

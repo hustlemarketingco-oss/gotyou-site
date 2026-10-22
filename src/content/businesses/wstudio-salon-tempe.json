@@ -1,0 +1,29 @@
+{
+  "slug": "wstudio-salon-tempe",
+  "name": "wstudio salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "227 E Baseline Rd j003",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777584,
+  "lng": -111.9359006,
+  "phone": "+14802038396",
+  "website": "https://www.wstudio.salon/location",
+  "googleMapsUrl": "https://www.google.com/maps/place/wstudio+salon/data=!4m7!3m6!1s0x872b061b94afffff:0xd3b4df0787de2a91!8m2!3d33.3777584!4d-111.9359006!16s%2Fg%2F11v0byh0dt!19sChIJ__-vlBsGK4cRkSrehwfftNM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15255063061247961745",
+  "placeId": "ChIJ__-vlBsGK4cRkSrehwfftNM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VB968Jxb9c5xs69Dv7cS2w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=248.56105&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

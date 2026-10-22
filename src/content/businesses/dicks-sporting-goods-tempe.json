@@ -1,0 +1,57 @@
+{
+  "slug": "dicks-sporting-goods-tempe",
+  "name": "DICK'S Sporting Goods",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "secondaryCategories": [
+    "Baseball goods store",
+    "Bicycle Shop",
+    "Clothing store",
+    "Exercise equipment store",
+    "Golf shop",
+    "Outdoor clothing and equipment shop",
+    "Outdoor sports store",
+    "Shoe store"
+  ],
+  "address": "8550 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.337148299999996,
+  "lng": -111.9710382,
+  "phone": "+14805920938",
+  "website": "https://stores.dickssportinggoods.com/az/tempe/362/?seo=localpack",
+  "googleMapsUrl": "https://www.google.com/maps/place/DICK%27S+Sporting+Goods/data=!4m7!3m6!1s0x872b05ccc2b21c89:0x3580428b9b63a2a3!8m2!3d33.3371483!4d-111.9710382!16s%2Fg%2F1tggt_0j!19sChIJiRyywswFK4cRo6Jjm4tCgDU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3855154448404030115",
+  "placeId": "ChIJiRyywswFK4cRo6Jjm4tCgDU",
+  "googleRating": 3.9,
+  "googleReviewCount": 1248,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJMbhiK1Ln74ntHeR4Qgkp5nJ57p5dvl0DL2FwjRfUlpI9_7hfuf7rxeXhuWvKmejPU8Lmc6cEj4OsUOu_-KCE1Q68cd-XkdbNfrNryUjXLg65nqATGHQQ6Y9dz80AcRGM8ZMaeA=w1200-h800-k-no",
+  "description": "Sporting goods chain with equipment, apparel & footwear for athletics, outdoor recreation & fitness.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 146,
+    "2": 66,
+    "3": 128,
+    "4": 289,
+    "5": 619
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

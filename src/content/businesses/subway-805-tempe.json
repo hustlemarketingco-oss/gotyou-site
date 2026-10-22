@@ -1,0 +1,55 @@
+{
+  "slug": "subway-805-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "805 W Baseline Rd Suite 3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3772125,
+  "lng": -111.95147349999999,
+  "phone": "+14803452526",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/805-west-baseline-road",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b060097a255a5:0x334f5388573b9bff!8m2!3d33.3772125!4d-111.9514735!16s%2Fg%2F1thlzxk1!19sChIJpVWilwAGK4cR_5s7V4hTTzM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3697265664138648575",
+  "placeId": "ChIJpVWilwAGK4cR_5s7V4hTTzM",
+  "googleRating": 3.8,
+  "googleReviewCount": 188,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0HHJW8onjQQNkAceiaTQ5DFIuBUWAABoHDCXG_n5ZSitvP-iQ4rZfLYS8AzlScsyutu4B1OB5DbafE7jjKDR0SsvxmaL3hSBA-IowI_9LVT5aKcr0yVSv5vB3-NBaCTQ_PVwG=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 12,
+    "3": 8,
+    "4": 31,
+    "5": 101
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

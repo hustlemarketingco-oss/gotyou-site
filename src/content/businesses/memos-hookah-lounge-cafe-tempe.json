@@ -1,0 +1,48 @@
+{
+  "slug": "memos-hookah-lounge-cafe-tempe",
+  "name": "Memo's Hookah Lounge & Cafe",
+  "category": "Bars & Pubs",
+  "googleCategory": "Hookah bar",
+  "address": "1845 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4066408,
+  "lng": -111.9072509,
+  "phone": "+14809686446",
+  "googleMapsUrl": "https://www.google.com/maps/place/Memo%27s+Hookah+Lounge+%26+Cafe/data=!4m7!3m6!1s0x872b088bb53299e1:0xcb8c9fdee3555914!8m2!3d33.4066408!4d-111.9072509!16s%2Fg%2F1th0nc7c!19sChIJ4ZkytYsIK4cRFFlV496fjMs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14667273866084440340",
+  "placeId": "ChIJ4ZkytYsIK4cRFFlV496fjMs",
+  "googleRating": 4.5,
+  "googleReviewCount": 154,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7CcI2nOnw8g5LnzRRiGAIKWfgO3IrHynHyU4vidDIVIzodZpRH1K9INlxu10bmBPrp2P3pprekHKnLuApzqUUl8zxVOy8zNGGi_z8B9qMHwfZ2fGClURcyzkly2qgD3NUb27mHbxxFIPs=w1200-h800-k-no",
+  "description": "Bustling hookah bar/club featuring a wide selection of tobacco flavors, plus karaoke & DJ nights.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 3,
+    "3": 8,
+    "4": 15,
+    "5": 120
+  },
+  "hours": {
+    "mon": "10:00 AM - 2:00 AM",
+    "tue": "10:00 AM - 2:00 AM",
+    "wed": "10:00 AM - 2:00 AM",
+    "thu": "10:00 AM - 2:00 AM",
+    "fri": "10:00 AM - 4:00 AM",
+    "sat": "10:00 AM - 4:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

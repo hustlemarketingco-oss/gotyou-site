@@ -2,7 +2,7 @@
   "slug": "pokeworks-tempe",
   "name": "Pokeworks",
   "category": "Asian & Pacific",
-  "googleCategory": "Sushi restaurant",
+  "googleCategory": "Poke bar",
   "secondaryCategories": [
     "Chicken restaurant",
     "Seafood restaurant",
@@ -23,7 +23,7 @@
   "website": "http://www.pokeworks.com/",
   "placeId": "ChIJHxU7HssJK4cRyqGeyo3f2ns",
   "googleRating": 4.8,
-  "googleReviewCount": 1026,
+  "googleReviewCount": 1199,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a2b64499bea9592300f61dd",
   "seededAt": "2026-06-12T01:43:37Z",
   "updatedAt": "2026-07-10T20:55:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8924691411670835658",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pokeworks/data=!4m7!3m6!1s0x872b09cb1e3b151f:0x7bdadf8dca9ea1ca!8m2!3d33.4229772!4d-111.936434!16s%2Fg%2F11swfq2v5s!19sChIJHxU7HssJK4cRyqGeyo3f2ns?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 8,
+    "3": 12,
+    "4": 55,
+    "5": 1101
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHWwydrf4mfnHYYZF8jNy9GiGfSYRUJhBBdImJKCdZNd2HcD8QgrsQJ8Hs1zAIyYtd37wTMMFiHEkbBxpqTnzFrhd_Ip42OlkijzUOuRfrojhyaUxM7vQdxsDkxbFtPcXHy634Da1H-bI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

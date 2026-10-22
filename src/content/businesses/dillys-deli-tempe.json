@@ -1,0 +1,54 @@
+{
+  "slug": "dillys-deli-tempe",
+  "name": "Dilly's Deli",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Catering food and drink supplier",
+    "Deli",
+    "Lunch restaurant"
+  ],
+  "address": "3330 S Price Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3924361,
+  "lng": -111.8935472,
+  "phone": "+14804911196",
+  "website": "https://dillysdeli.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dilly%27s+Deli/data=!4m7!3m6!1s0x872b07d8067ed6f7:0xe863fa41f0a4e03c!8m2!3d33.3924361!4d-111.8935472!16s%2Fg%2F1tvtbtj0!19sChIJ99Z-BtgHK4cRPOCk8EH6Y-g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16745503000610791484",
+  "placeId": "ChIJ99Z-BtgHK4cRPOCk8EH6Y-g",
+  "googleRating": 4.5,
+  "googleReviewCount": 824,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5qSU2_8zHcNESuwn825BO7NhrlQGBT0fQix-s3gppYfYfFYlZvJwyAv2OJMXDDFEvlfxAGTmnC4g3tFqA_bRdBI7nzFCZ2MSbnZF58OFqD8EEAwjiiwE3BT5Nj7MFVsjKWm2GYjBe60Ih=w1200-h800-k-no",
+  "description": "Casual counter-serve sandwich shop featuring fresh housemade breads, plus soups & salads.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 26,
+    "3": 51,
+    "4": 131,
+    "5": 594
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "all-about-golf-tempe",
+  "name": "All About Golf",
+  "category": "Shopping",
+  "googleCategory": "Golf shop",
+  "address": "1828 E University Dr Ste 7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4224258,
+  "lng": -111.9076518,
+  "phone": "+14806997863",
+  "website": "http://allaboutgolf.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/All+About+Golf/data=!4m7!3m6!1s0x872b08f9cb81c0ef:0xce52fd46b313f29d!8m2!3d33.4224258!4d-111.9076518!16s%2Fg%2F11g8p9_sn3!19sChIJ78CBy_kIK4cRnfITs0b9Us4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14867223799997395613",
+  "placeId": "ChIJ78CBy_kIK4cRnfITs0b9Us4",
+  "googleRating": 4.8,
+  "googleReviewCount": 124,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdalP7SP7F2VRfHcj0-xMqmFXYbcApX9DqJjx-lu2X8zsDbXYBMeOfyg3iPQ-b4Mr6ZilJUjE4Pv19WlvLiQHor0gVOkW1kOgEDRMsHnDrbui2JVTuNe96YIa4HLVj0DQpYMkx7G0c7tFvj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 114
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

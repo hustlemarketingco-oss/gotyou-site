@@ -1,0 +1,46 @@
+{
+  "slug": "spa-olivia-tempe",
+  "name": "Spa Olivia",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "4690 S Lakeshore Dr #1036",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.379826,
+  "lng": -111.92294559999999,
+  "phone": "+14804289168",
+  "website": "https://square.site/book/RWEFD0VQKVDQ8/spa-olivia-mesa-az",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spa+Olivia/data=!4m7!3m6!1s0x872bafed000561e5:0xbc0bb4b9df93e818!8m2!3d33.379826!4d-111.9229456!16s%2Fg%2F11sxx5yyjv!19sChIJ5WEFAO2vK4cRGOiT37m0C7w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13550122614287231000",
+  "placeId": "ChIJ5WEFAO2vK4cRGOiT37m0C7w",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqvttS5Rc4oSWZQQydgYG4xpGhnrS44e4iWLbpA6OUoTppEkQX0a8gaNZ9NFudWLmc5US_b9u57hvXMbMWkhvRY-75yGMs8XCCgSso31s0KFCLZphinhNqgRR4zv4HUuKiwg28=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 9
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:30 PM",
+    "tue": "Closed",
+    "wed": "9:00 AM - 7:30 PM",
+    "thu": "9:00 AM - 7:30 PM",
+    "fri": "9:00 AM - 5:30 PM",
+    "sat": "9:00 AM - 5:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

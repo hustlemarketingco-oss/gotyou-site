@@ -1,0 +1,46 @@
+{
+  "slug": "universal-police-supply-tempe",
+  "name": "Universal Police Supply",
+  "category": "Shopping",
+  "googleCategory": "Police supply store",
+  "address": "2090 E University Dr #115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4227759,
+  "lng": -111.8958639,
+  "phone": "+14809682118",
+  "website": "http://www.mypolicestore.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Universal+Police+Supply/data=!4m7!3m6!1s0x872b085a6595bbdd:0x1690ab7928c425c7!8m2!3d33.4227759!4d-111.8958639!16s%2Fg%2F1td9f6gn!19sChIJ3buVZVoIK4cRxyXEKHmrkBY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1625988002344084935",
+  "placeId": "ChIJ3buVZVoIK4cRxyXEKHmrkBY",
+  "googleRating": 4.5,
+  "googleReviewCount": 172,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfre5hGJ90i1Dskj494BhfokFFqHYIThW7ndPMWTSIo56jFkkFRxw56DzFEpmTWsH-3ra7tNS0X3eZS9Fmf2Q7Bx1NgW1rwHSQCEqsOBjwyfxvQ3LJB39XNSPwLaMZmZH_nz-qF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 8,
+    "4": 30,
+    "5": 124
+  },
+  "hours": {
+    "mon": "8:00 AM - 4:30 PM",
+    "tue": "8:00 AM - 4:30 PM",
+    "wed": "8:00 AM - 4:30 PM",
+    "thu": "8:00 AM - 4:30 PM",
+    "fri": "8:00 AM - 4:30 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

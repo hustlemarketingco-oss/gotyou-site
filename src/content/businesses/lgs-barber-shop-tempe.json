@@ -1,0 +1,47 @@
+{
+  "slug": "lgs-barber-shop-tempe",
+  "name": "LG's Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1726 E Southern Ave #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941306,
+  "lng": -111.9107803,
+  "phone": "+14807756909",
+  "website": "http://lgsbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/LG%27s+Barber+Shop/data=!4m7!3m6!1s0x872b062391561fc1:0x485d2834021d5f53!8m2!3d33.3941306!4d-111.9107803!16s%2Fg%2F1hc32tr0h!19sChIJwR9WkSMGK4cRU18dAjQoXUg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5214368147403792211",
+  "placeId": "ChIJwR9WkSMGK4cRU18dAjQoXUg",
+  "googleRating": 4.4,
+  "googleReviewCount": 289,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK233zEZ_tzJowSU5C0yuUQ8fJ4jEVz-p_eEpAIXc3VqM7Y71tX9ZPpqWxetJNAPwW_hnQaRIW6qVY4gxOHRUcII9nHGSv07n7klniOvBp8VWTgCTYeihiCje_jhGd7Qd-lywe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 5,
+    "3": 12,
+    "4": 10,
+    "5": 234
+  },
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

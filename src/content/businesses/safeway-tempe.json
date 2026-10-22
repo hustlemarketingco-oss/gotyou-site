@@ -21,27 +21,17 @@
   "lng": -111.9251615,
   "phone": "+14808296824",
   "website": "https://local.safeway.com/safeway/az/tempe/926-e-broadway-rd.html",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12512885454175154552",
+  "googleMapsUrl": "https://www.google.com/maps/place/Safeway/data=!4m7!3m6!1s0x872b08eb1f672da9:0xada6b30643433178!8m2!3d33.4090163!4d-111.9251615!16s%2Fg%2F1tm88x9m!19sChIJqS1nH-sIK4cReDFDQwazpq0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12512885454175154552",
   "placeId": "ChIJqS1nH-sIK4cReDFDQwazpq0",
   "googleRating": 4.2,
-  "googleReviewCount": 3337,
+  "googleReviewCount": 3384,
   "priceRange": "$$",
   "description": "Longtime supermarket chain carrying brand-name & house-label groceries, plus a deli, bakery & more.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Paid parking lot",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/133462486729980"
@@ -61,5 +51,14 @@
   "groundgameId": "6a2439802e7a1bd3ac10853e",
   "seededAt": "2026-06-06T15:15:12Z",
   "updatedAt": "2026-06-06T15:15:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 199,
+    "2": 109,
+    "3": 307,
+    "4": 866,
+    "5": 1903
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbNHm_iTdAZYLYs35Xr4A8qXNXolok22_zCeSzsw8eim4H0v433TjNtcDduyhIa9sV4GQ13I8ZFRgpCFuzHFv15DSfqY98Z856LBtA5trf1raKKfrsRCJFPagHNfKkGtw1qoFkDLOspWM=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

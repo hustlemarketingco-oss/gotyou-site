@@ -1,0 +1,51 @@
+{
+  "slug": "landis-cyclery-tempe",
+  "name": "Landis Cyclery",
+  "category": "Shopping",
+  "googleCategory": "Bicycle Shop",
+  "secondaryCategories": [
+    "Bicycle rental service",
+    "Bicycle repair shop"
+  ],
+  "address": "2180 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393334599999996,
+  "lng": -111.89290969999999,
+  "phone": "+14808399383",
+  "website": "https://landiscyclery.com/about/tempe-north-pg406.htm",
+  "googleMapsUrl": "https://www.google.com/maps/place/Landis+Cyclery/data=!4m7!3m6!1s0x872b087821dddc59:0xa2a577d0671eb28d!8m2!3d33.3933346!4d-111.8929097!16s%2Fg%2F1td6sprw!19sChIJWdzdIXgIK4cRjbIeZ9B3paI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11719905342268551821",
+  "placeId": "ChIJWdzdIXgIK4cRjbIeZ9B3paI",
+  "googleRating": 4.7,
+  "googleReviewCount": 609,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzP6Y_G-CuD0VarJVeiKLIiyMPIwPS4eXri4aPxqDdoUI37xGmMeCxxUcEVEbBkgYtw2sj44mXtNREog7HBjMubL3OLgW4XK_y8kjiWRogTkVcf6w3y-DMBnlc0Bvv5Xgwgeh6OYgcZ1c=w1200-h800-k-no",
+  "description": "Full-service shop, part of a longtime local chain, offering new bicycles, parts & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 31,
+    "2": 8,
+    "3": 3,
+    "4": 25,
+    "5": 542
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -15,8 +15,8 @@
   "phone": "+16029055251",
   "website": "https://www.cascadiapizzaco.com/tempe",
   "placeId": "ChIJcXMirDsHK4cRu4O-MqwH3_8",
-  "googleRating": 4.9,
-  "googleReviewCount": 300,
+  "googleRating": 4.8,
+  "googleReviewCount": 487,
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
     "tue": "11:00 AM - 8:00 PM",
@@ -32,5 +32,21 @@
   "groundgameId": "6a3eeeb1d14a366a73b1f709",
   "seededAt": "2026-06-26T21:27:13Z",
   "updatedAt": "2026-06-26T21:28:24Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18437463835645215675",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cascadia+Pizza+Co./data=!4m7!3m6!1s0x872b073bac227371:0xffdf07ac32be83bb!8m2!3d33.3786152!4d-111.9236043!16s%2Fg%2F11yv86hzrv!19sChIJcXMirDsHK4cRu4O-MqwH3_8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 4,
+    "3": 9,
+    "4": 8,
+    "5": 455
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerRLuQESgTXVw6PpQ-jfLHDZV3UP5z_CGOdIyK4Z5BK6w6qxaSQp8WhTgEwui8whhvDw7t_TEMqfvwRVXpl9USUn5WZJazNHS1O7gz85ZeW4XlXtUp65UuLiaIri4F2_tmXwfpuJdoLGP_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

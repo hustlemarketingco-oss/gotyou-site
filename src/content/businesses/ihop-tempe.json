@@ -19,7 +19,7 @@
   "website": "https://restaurants.ihop.com/en-us/az/tempe/breakfast-705-s-rural-ave-3388",
   "placeId": "ChIJWU-P0-AIK4cRpuUQzwdT3N0",
   "googleRating": 4,
-  "googleReviewCount": 2972,
+  "googleReviewCount": 3072,
   "priceRange": "$",
   "hours": {
     "mon": "Open 24 hours",
@@ -36,5 +36,21 @@
   "groundgameId": "6a32ddcd70b8b3ac7a3f8b17",
   "seededAt": "2026-06-17T17:47:57Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15986744070262285734",
+  "googleMapsUrl": "https://www.google.com/maps/place/IHOP/data=!4m7!3m6!1s0x872b08e0d38f4f59:0xdddc5307cf10e5a6!8m2!3d33.4234768!4d-111.9258366!16s%2Fg%2F11bwg36bsr!19sChIJWU-P0-AIK4cRpuUQzwdT3N0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 405,
+    "2": 104,
+    "3": 262,
+    "4": 514,
+    "5": 1787
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVIFbZwRsswZYDjPsy5bCa8cEAjvFbsoP_CByoDtjIvTS4TFhLXFnXNQhga4ne_oUX9fInkbZg1FMCC9boS-GsV4wLf7R4ZrHnLARi07rspKCzt23jfBEDD9p9Lca0dLjxd6skAA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

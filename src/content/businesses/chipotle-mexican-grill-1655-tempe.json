@@ -1,0 +1,57 @@
+{
+  "slug": "chipotle-mexican-grill-1655-tempe",
+  "name": "Chipotle Mexican Grill",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1655 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348634,
+  "lng": -111.965379,
+  "phone": "+16232313098",
+  "website": "https://locations.chipotle.com/az/tempe/1655-w-elliot-rd?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=3457",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chipotle+Mexican+Grill/data=!4m7!3m6!1s0x872b057ffdd18851:0xd8f598805a537086!8m2!3d33.348634!4d-111.965379!16s%2Fg%2F11j4qsn7ml!19sChIJUYjR_X8FK4cRhnBTWoCY9dg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15633569358525198470",
+  "placeId": "ChIJUYjR_X8FK4cRhnBTWoCY9dg",
+  "googleRating": 3.6,
+  "googleReviewCount": 640,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHA6zYNqdPATK1b5eOtdCZdjHNZErpnb0pnHTO9oQ53YULQs6VT7S411HTLxDUfqscJPCCeIlHdV6ja954nIqK4B--S2DGE7TRYxa4R-V6qnfPejfowmgnjmXE0siSnso5-lkM=w1200-h800-k-no",
+  "description": "Casual restaurant offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 141,
+    "2": 26,
+    "3": 62,
+    "4": 104,
+    "5": 307
+  },
+  "hours": {
+    "mon": "10:45 AM - 11:00 PM",
+    "tue": "10:45 AM - 11:00 PM",
+    "wed": "10:45 AM - 11:00 PM",
+    "thu": "10:45 AM - 11:00 PM",
+    "fri": "10:45 AM - 11:00 PM",
+    "sat": "10:45 AM - 11:00 PM",
+    "sun": "10:45 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

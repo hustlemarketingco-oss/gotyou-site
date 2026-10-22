@@ -19,8 +19,8 @@
   "phone": "+14806817781",
   "website": "http://nightowlaz.com/",
   "placeId": "ChIJT8kGJxAJK4cRuBClWBbXbAc",
-  "googleRating": 4.7,
-  "googleReviewCount": 162,
+  "googleRating": 4.6,
+  "googleReviewCount": 250,
   "hours": {
     "mon": "11:00 AM - 12:00 AM",
     "tue": "11:00 AM - 12:00 AM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a2765561cf560201a6c409f",
   "seededAt": "2026-06-09T00:59:02Z",
   "updatedAt": "2026-06-12T22:05:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "535038946726711480",
+  "googleMapsUrl": "https://www.google.com/maps/place/Night+Owl+Pizza+%26+Drinks+Tempe/data=!4m7!3m6!1s0x872b09102706c94f:0x76cd71658a510b8!8m2!3d33.3998743!4d-111.9400992!16s%2Fg%2F11xf4jcm0n!19sChIJT8kGJxAJK4cRuBClWBbXbAc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 4,
+    "3": 12,
+    "4": 29,
+    "5": 197
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeNZqQIkvqJUh4FJ1oDb4qEsc3kwvOkP8PeKaBo7TGMu9gSR8hOVROzdB5LUeWhbYjGR_LUsn_eYECBTiYTLh6HuXQAXgsexYLx0V2tN287LlpcMmtHm_MA8Yjk1ZratO7AvQEedZmkzS0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

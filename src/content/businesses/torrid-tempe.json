@@ -1,0 +1,57 @@
+{
+  "slug": "torrid-tempe",
+  "name": "Torrid",
+  "category": "Shopping",
+  "googleCategory": "Plus size clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Jeans shop",
+    "Dress store",
+    "Fashion accessories store",
+    "Lingerie store",
+    "Shoe store",
+    "Swimwear store",
+    "Underwear store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 553",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383167,
+  "lng": -111.96508999999999,
+  "phone": "+14808391059",
+  "website": "https://www.torrid.com/?utm_source=GMBlisting&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Torrid/data=!4m7!3m6!1s0x872b0f59ef553373:0x98e34b987761aa03!8m2!3d33.383167!4d-111.96509!16s%2Fg%2F11g7_g830x!19sChIJczNV71kPK4cRA6phd5hL45g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11016732231688366595",
+  "placeId": "ChIJczNV71kPK4cRA6phd5hL45g",
+  "googleRating": 4.4,
+  "googleReviewCount": 201,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqRDzbxa6AzI8xAhR4LxLJIzXLRv7XwE9MnRolYAnGWDnRG4-WQ6uEFhZDTz69CRd12KdKKW-InD5F5mdUfqpqgx1PWj6tbPJRPl3aTmk_3Z66NMgZYteuB0A0BD6kdc8oN5bYXC3aiN4l=w1200-h800-k-no",
+  "description": "Women's clothing chain known for its trendy plus-size cocktail dresses, jeans, lingerie & footwear.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 5,
+    "3": 13,
+    "4": 36,
+    "5": 135
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

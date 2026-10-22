@@ -1,0 +1,55 @@
+{
+  "slug": "petco-tempe",
+  "name": "Petco",
+  "category": "Shopping",
+  "googleCategory": "Pet store",
+  "secondaryCategories": [
+    "Fish store",
+    "Goldfish store",
+    "Pet supply store",
+    "Reptile store",
+    "Tropical fish store"
+  ],
+  "address": "1835 E Guadalupe Rd #112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3615798,
+  "lng": -111.90952999999999,
+  "phone": "+14808200603",
+  "website": "https://stores.petco.com/az/tempe/pet-supplies-tempe-az-915.html?utm_source=google&utm_campaign=locallist_915_pcc",
+  "googleMapsUrl": "https://www.google.com/maps/place/Petco/data=!4m7!3m6!1s0x872b064bc2431d29:0x9bda32e90de6de45!8m2!3d33.3615798!4d-111.90953!16s%2Fg%2F1w0r0chd!19sChIJKR1DwksGK4cRRd7mDeky2ps?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11230344597343755845",
+  "placeId": "ChIJKR1DwksGK4cRRd7mDeky2ps",
+  "googleRating": 4.4,
+  "googleReviewCount": 1010,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftiDtappUYfJLw_T3t_Csxvh8ZOCdLUpQyFgcD4sg6YC27dYUI7rj1TVl0I-Xl6e9GM69hYm6ioG3_yobnXoeySTNF9slKRh5MblpoAayM_pYtUgmVxsL-c8ZAQ66c0Vr3Dim_ABO6b95d=w1200-h800-k-no",
+  "description": "Chain with pet food & supplies such as toys, beds & pet technology products, plus medication.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 62,
+    "2": 24,
+    "3": 71,
+    "4": 166,
+    "5": 687
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -18,13 +18,13 @@
   "website": "https://elpaisanotogo.com/",
   "placeId": "ChIJZSmaHdMJK4cRSFd1xrfcnNg",
   "googleRating": 4.7,
-  "googleReviewCount": 955,
+  "googleReviewCount": 996,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "9:00 AM - 3:00 AM",
@@ -41,5 +41,16 @@
   "groundgameId": "6a3438c401d757808542071b",
   "seededAt": "2026-06-18T18:28:20Z",
   "updatedAt": "2026-07-14T20:21:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15608593090426001224",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Paisano+Restaurant+at+The+Carmin/data=!4m7!3m6!1s0x872b09d31d9a2965:0xd89cdcb7c6755748!8m2!3d33.4149414!4d-111.9241473!16s%2Fg%2F11fjtxwv8s!19sChIJZSmaHdMJK4cRSFd1xrfcnNg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 13,
+    "3": 19,
+    "4": 58,
+    "5": 871
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3R32BZsrQ6t364sk40iPrbgkvJeelOW_5Yfm7Kz1tjvAbg6aB-XotxIUMM6d8wuNSPFOpL7dilEPLqi2fzoLElj2xETBQc1IK0AhtCHAoIIZ53Nc5uTMvhGzM8KEDTMudJPEe=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

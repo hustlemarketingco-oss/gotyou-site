@@ -11,26 +11,16 @@
   "lng": -111.9477767,
   "phone": "+13149731627",
   "website": "http://www.alkalineactivated.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11441403432480964508",
+  "googleMapsUrl": "https://www.google.com/maps/place/Alkaline+Juice+Bar/data=!4m7!3m6!1s0x872b092bed532a4d:0x9ec807cd7cf67f9c!8m2!3d33.4292544!4d-111.9477767!16s%2Fg%2F11rq24xdk2!19sChIJTSpT7SsJK4cRnH_2fM0HyJ4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11441403432480964508",
   "placeId": "ChIJTSpT7SsJK4cRnH_2fM0HyJ4",
   "googleRating": 3.4,
   "googleReviewCount": 5,
   "description": "Located in Tempe, Alkaline Juice Bar is a casual, trendy juice shop with takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "7:00 AM - 7:00 PM",
@@ -47,5 +37,11 @@
   "groundgameId": "6a24391a3af5630212c72cfc",
   "seededAt": "2026-06-06T15:13:30Z",
   "updatedAt": "2026-06-06T15:13:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDwt8o4-fBsfbjG9rv2NmbDtQLMqlniA2-SnRcFlxm-NzW5dQjR3wothx-9ipFl6p1k6TeVeBrUTt6nQTo54DgEDUW84YmADY2_klu8Dfp10s_w3N4KyT3cqGeaqZD7woCHB14zw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

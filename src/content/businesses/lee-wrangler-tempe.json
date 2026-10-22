@@ -1,0 +1,48 @@
+{
+  "slug": "lee-wrangler-tempe",
+  "name": "Lee | Wrangler",
+  "category": "Shopping",
+  "googleCategory": "Outlet store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Jeans shop"
+  ],
+  "address": "5000 S Arizona Mills Cir #188",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3842072,
+  "lng": -111.963861,
+  "phone": "+16026139220",
+  "website": "https://locations.wrangler.com/us/az/tempe/0000001538/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lee+%7C+Wrangler/data=!4m7!3m6!1s0x872b0fbb5562856b:0x8dbd318e1290130c!8m2!3d33.3842072!4d-111.963861!16s%2Fg%2F11kq6xzjb4!19sChIJa4ViVbsPK4cRDBOQEo4xvY0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10213374016212701964",
+  "placeId": "ChIJa4ViVbsPK4cRDBOQEo4xvY0",
+  "googleRating": 4.1,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK8OvVPH6tD5snA2AqvHDDtScANkUoi8AWSgFC7XnMeO1bmJ3U0SZXushzdnhyPR-1Hg88hZJforO0_QlH-Nu9EAcSjUGk76Gt6TeTPdoKQiM1aR_9PKfmoAQuRGE-Hiu2Fzdtqw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 7
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

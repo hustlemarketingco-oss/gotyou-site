@@ -1,0 +1,37 @@
+{
+  "slug": "naomiz-nails-and-lashes-az-tempe",
+  "name": "NaomiZ Nails And Lashes.AZ",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1976 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3787456,
+  "lng": -111.9013379,
+  "phone": "+16027590836",
+  "googleMapsUrl": "https://www.google.com/maps/place/NaomiZ+Nails+And+Lashes.AZ/data=!4m7!3m6!1s0x872b07df8a172df7:0xc1d96606935c2093!8m2!3d33.3787456!4d-111.9013379!16s%2Fg%2F11njh5lc2c!19sChIJ9y0Xit8HK4cRkyBckwZm2cE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13968307897694429331",
+  "placeId": "ChIJ9y0Xit8HK4cRkyBckwZm2cE",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mw2qy2UqGmbYxoVAfu_wYQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=177.70471&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 12:00 AM",
+    "wed": "12:00 AM - 6:00 AM, 8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

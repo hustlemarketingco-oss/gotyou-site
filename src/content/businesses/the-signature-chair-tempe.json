@@ -1,0 +1,44 @@
+{
+  "slug": "the-signature-chair-tempe",
+  "name": "The Signature Chair",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "707 S Farmer Ave Ste 122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4220478,
+  "lng": -111.94400739999999,
+  "phone": "+14802400859",
+  "website": "http://thesignaturechair.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Signature+Chair/data=!4m7!3m6!1s0x872b09649f2eb239:0x275be2434777ba12!8m2!3d33.4220478!4d-111.9440074!16s%2Fg%2F11zk1t87wz!19sChIJObIun2QJK4cRErp3R0PiWyc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2836109168949574162",
+  "placeId": "ChIJObIun2QJK4cRErp3R0PiWyc",
+  "googleRating": 4,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZibyCdvzU8wkthuTWiZsWzHYpbRlvL-hiuZCes92Ol2ViQHe90QknMNHU8JcMuR8lvgfjKePz_SeOLoLzFLd_aHW5WD5BtLPKVOZfKzZ4j5yAmhIt1gB2U-23sk5ZtLOHaYtHwTiKBfk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 3
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:30 PM",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

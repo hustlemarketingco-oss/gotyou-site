@@ -1,0 +1,36 @@
+{
+  "slug": "yucca-nail-spa-tempe",
+  "name": "Yucca Nail Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "6601 S Rural Rd suite 29",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+16232821601",
+  "website": "http://yucca.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yucca+Nail+Spa/data=!4m7!3m6!1s0x872b059e09096897:0x93c52fbb0b74ee8a!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11ss9ry281!19sChIJl2gJCZ4FK4cRiu50C7svxZM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10647969374385008266",
+  "placeId": "ChIJl2gJCZ4FK4cRiu50C7svxZM",
+  "googleRating": 3.4,
+  "googleReviewCount": 12,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SVadYBdSbftE5ullrHhRwg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=43.487892&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "5": 7
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

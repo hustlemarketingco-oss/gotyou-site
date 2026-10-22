@@ -11,23 +11,17 @@
   "lng": -111.9136162,
   "phone": "+14807551844",
   "website": "https://local.safeway.com/safeway/az/tempe/1515-e-elliot-rd.html",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5550641266755395988",
+  "googleMapsUrl": "https://www.google.com/maps/place/Safeway+Bakery/data=!4m7!3m6!1s0x872b0657aa912f65:0x4d07d6d2d4946194!8m2!3d33.3481721!4d-111.9136162!16s%2Fg%2F11sc784xfm!19sChIJZS-RqlcGK4cRlGGU1NLWB00?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5550641266755395988",
   "placeId": "ChIJZS-RqlcGK4cRlGGU1NLWB00",
-  "googleRating": 3,
-  "googleReviewCount": 2,
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
   "priceRange": "$$",
   "description": "Located in Tempe, Safeway Bakery is a bakery with coffee, takeout & delivery.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/122880034460785"
@@ -47,5 +41,11 @@
   "groundgameId": "6a2439c96238084151f859f2",
   "seededAt": "2026-06-06T15:16:25Z",
   "updatedAt": "2026-06-06T15:16:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMt1OzuNQc4JzJOJskhrGI8WjUtSCeUgDaPoorvHIipssC0vz3jK1tdmFyf6jWSlcThcD3kjl6lnBllD5DU7_E6AqdXWjJ7d83SDumP7ERrMAVkQP-ZYCZ8JI9rrSX5iFT486kmwP48yyc=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

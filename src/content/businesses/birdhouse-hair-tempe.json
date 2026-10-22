@@ -1,0 +1,45 @@
+{
+  "slug": "birdhouse-hair-tempe",
+  "name": "Birdhouse Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2308 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4031497,
+  "lng": -111.9266638,
+  "phone": "+14804449936",
+  "website": "https://www.birdhousehairtempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Birdhouse+Hair/data=!4m7!3m6!1s0x872b05c819065d39:0x91ce1af91b6559e4!8m2!3d33.4031497!4d-111.9266638!16s%2Fg%2F11glybc53h!19sChIJOV0GGcgFK4cR5FllG_kazpE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10506364637910751716",
+  "placeId": "ChIJOV0GGcgFK4cR5FllG_kazpE",
+  "googleRating": 4.9,
+  "googleReviewCount": 35,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f1pSEDAXK5LlsJrRETHtHg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=288.03998&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 34
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 2:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 2:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

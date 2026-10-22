@@ -1,0 +1,48 @@
+{
+  "slug": "dennys-restaurant-4403-tempe",
+  "name": "Denny's Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Diner"
+  ],
+  "address": "4403 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.384709799999996,
+  "lng": -111.9260133,
+  "phone": "+14808399392",
+  "website": "https://locations.dennys.com/AZ/TEMPE/248553?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/Denny%27s+Restaurant/data=!4m7!3m6!1s0x872b06206ee806bf:0xb5ccf5a322a4d2a5!8m2!3d33.3847098!4d-111.9260133!16s%2Fg%2F1td4vr46!19sChIJvwbobiAGK4cRpdKkIqP1zLU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13100115497123631781",
+  "placeId": "ChIJvwbobiAGK4cRpdKkIqP1zLU",
+  "googleRating": 4,
+  "googleReviewCount": 2877,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE_IOQDv8G4i9DYwSTBEtn5Si5A76X9GrF-Np5qhKyOaG5U0mkpry2BnV7Y8QDvHxCVA0OpEPdOdj4n_W6GfVuE91Rjt8yteM3tC3ayX50g1NJ7gQQ5cnIWz3aOEiuTzoMu1-T=w1200-h800-k-no",
+  "description": "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
+  "ratingBreakdown": {
+    "1": 257,
+    "2": 137,
+    "3": 338,
+    "4": 646,
+    "5": 1499
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

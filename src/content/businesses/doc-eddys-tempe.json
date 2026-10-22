@@ -15,28 +15,18 @@
   "lng": -111.926899,
   "phone": "+14808310635",
   "website": "http://www.docandeddystempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=7201819227019108886",
+  "googleMapsUrl": "https://www.google.com/maps/place/Doc+%26+Eddy%27s/data=!4m7!3m6!1s0x872b062214fd09e3:0x63f2006e1b0d6216!8m2!3d33.379226!4d-111.926899!16s%2Fg%2F1tdr3sdy!19sChIJ4wn9FCIGK4cRFmING24A8mM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "7201819227019108886",
   "placeId": "ChIJ4wn9FCIGK4cRFmING24A8mM",
   "googleRating": 4.2,
-  "googleReviewCount": 1713,
+  "googleReviewCount": 1746,
   "priceRange": "$20–30",
   "description": "Roomy hangout featuring classic pub food & a late-night happy hour, plus karaoke & trivia nights.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 2:00 AM",
@@ -53,5 +43,14 @@
   "groundgameId": "6a2438c4a2c02b9b2d9a7765",
   "seededAt": "2026-06-06T15:12:04Z",
   "updatedAt": "2026-06-06T15:12:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 196,
+    "2": 36,
+    "3": 106,
+    "4": 359,
+    "5": 1049
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLds8zO8QsbwjjFtG42KYBaiKnf19-zkA4m8a0LJAN_L0LZvR2z75a07rVovv2Dmseh9cZtqm96-729Hsrz778QBIGR_X_JGH-yZBRE1RDkm9LYQpy2i5baquqcyQF0GouLFaWLmUQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

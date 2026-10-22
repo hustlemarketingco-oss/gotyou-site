@@ -1,0 +1,43 @@
+{
+  "slug": "perfumes-4u-tempe",
+  "name": "Perfumes 4U",
+  "category": "Shopping",
+  "googleCategory": "Perfume store",
+  "address": "5000 S Arizona Mills Cir Ste 678",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3822652,
+  "lng": -111.9644347,
+  "phone": "+14806405247",
+  "website": "http://www.perfumes4u.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Perfumes+4U/data=!4m7!3m6!1s0x872b0fb85b76892f:0x63fdd981facaeca0!8m2!3d33.3822652!4d-111.9644347!16s%2Fg%2F11vjdvhy5_!19sChIJL4l2W7gPK4cRoOzK-oHZ_WM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7205154131144273056",
+  "placeId": "ChIJL4l2W7gPK4cRoOzK-oHZ_WM",
+  "googleRating": 4.7,
+  "googleReviewCount": 51,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfsaGy7eiV5wE8n_8fxTr1kmEpStILO4lBmwsF-rhqFhMBPMFrQWnGJ4DH07BZW13KaUuZ_cvJpzHzQdpOuUV5LN-FCMUHRn3DR7f08eKJetyzuyVnXm8AtweUxQ44YwtCO1jG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "5": 47
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

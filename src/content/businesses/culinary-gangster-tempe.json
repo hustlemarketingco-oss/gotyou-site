@@ -1,0 +1,47 @@
+{
+  "slug": "culinary-gangster-tempe",
+  "name": "Culinary Gangster",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Restaurant",
+    "Salad shop",
+    "Sandwich shop"
+  ],
+  "address": "501 S Mill Ave #200",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4252605,
+  "lng": -111.9397394,
+  "phone": "+14802071978",
+  "website": "https://culinarygangsterusa.com/tempe?utm_source=google",
+  "googleMapsUrl": "https://www.google.com/maps/place/Culinary+Gangster/data=!4m7!3m6!1s0x872b09554eadbf99:0x1b4e8875a3021975!8m2!3d33.4252605!4d-111.9397394!16s%2Fg%2F11ntl11_q6!19sChIJmb-tTlUJK4cRdRkCo3WIThs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1967660126034860405",
+  "placeId": "ChIJmb-tTlUJK4cRdRkCo3WIThs",
+  "googleRating": 4.7,
+  "googleReviewCount": 34,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcCeZBF6lJBEQ8LBYJ50TURryE4Uf1mbv_oLsKJknKKnoJWi7hUYCJGtE8gXE9Zf8uTFT8I3R3EljN4U1D8lFATVUXpkIcwAQjsAwdw8Ts3ZC0n3OW_ztEYqSyuHhEZvJZaQ0y-TCqhUMe=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "5": 30
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

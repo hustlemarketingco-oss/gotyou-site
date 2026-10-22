@@ -1,0 +1,53 @@
+{
+  "slug": "bath-body-works-tempe",
+  "name": "Bath & Body Works",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty supply store",
+  "secondaryCategories": [
+    "Candle store",
+    "Cosmetics store",
+    "Gift basket store",
+    "Perfume store"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.432845199999996,
+  "lng": -111.90397899999999,
+  "phone": "+14805579877",
+  "website": "https://www.bathandbodyworks.com/?cm_mmc=local_BBW02043",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bath+%26+Body+Works/data=!4m7!3m6!1s0x872b08d82b05e131:0x4237ed51b24313d7!8m2!3d33.4328452!4d-111.903979!16s%2Fg%2F1tfbtbpj!19sChIJMeEFK9gIK4cR1xNDslHtN0I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4771543265361204183",
+  "placeId": "ChIJMeEFK9gIK4cR1xNDslHtN0I",
+  "googleRating": 4.6,
+  "googleReviewCount": 681,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchlzWdb6YW09TmbvGW9TVlH_8WlJvu6hYvZhyBxInb-rjmZ1yir3m1Z3S6VmXmf6q70lhuh36SFdnyfE5rBhvtRMTnuuByDOhmLPPesWJeUIWjSv0STTrXNnRmPaw3qy4TSWCgKg=w1200-h800-k-no",
+  "description": "Chain with housebrand lotions & soaps in a range of scents, plus candles & home fragrances.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 7,
+    "3": 27,
+    "4": 114,
+    "5": 511
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

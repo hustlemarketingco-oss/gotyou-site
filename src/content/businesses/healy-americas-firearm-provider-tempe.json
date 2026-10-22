@@ -1,0 +1,49 @@
+{
+  "slug": "healy-americas-firearm-provider-tempe",
+  "name": "HEALY America's Firearm Provider",
+  "category": "Shopping",
+  "googleCategory": "Gun shop",
+  "secondaryCategories": [
+    "Ammunition supplier"
+  ],
+  "address": "1809 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3774759,
+  "lng": -111.907209,
+  "phone": "+14806215555",
+  "website": "https://www.healyarms.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/HEALY+America%27s+Firearm+Provider/data=!4m7!3m6!1s0x872ba9cd3cc5f5b7:0xa7ed3f3b13152db!8m2!3d33.3774759!4d-111.907209!16s%2Fg%2F1hdznmtg8!19sChIJt_XFPM2pK4cR21IxsfPTfgo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "756274831048135387",
+  "placeId": "ChIJt_XFPM2pK4cR21IxsfPTfgo",
+  "googleRating": 4.7,
+  "googleReviewCount": 306,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAECWrujG3J2XWkTw_cz2Vz6ArUMqX1tFuOP1uAQYREU4UXYYz3YP6zxP5v7tH-u_sBuma3tVK9SSe9J_7hIy8U5C9wEmTkvBT4jYkG4tOtlZHF3QbWurN_WzUIpiVjFYLNY_Z8w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 273
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

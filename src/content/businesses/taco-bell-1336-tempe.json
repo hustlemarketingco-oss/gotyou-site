@@ -1,0 +1,57 @@
+{
+  "slug": "taco-bell-1336-tempe",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Tex-Mex restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "1336 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4221609,
+  "lng": -111.9600442,
+  "phone": "+14805901809",
+  "website": "https://locations.tacobell.com/az/tempe/1336-w--university-drive.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=035132&utm_content=website&y_source=1_MTM0MjIzNzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x872b0fa32acce4f7:0x26bcdb2b686a417f!8m2!3d33.4221609!4d-111.9600442!16s%2Fg%2F11h7d9f1y_!19sChIJ9-TMKqMPK4cRf0FqaCvbvCY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2791346848544735615",
+  "placeId": "ChIJ9-TMKqMPK4cRf0FqaCvbvCY",
+  "googleRating": 3.7,
+  "googleReviewCount": 792,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLef1S1U-3iSZuhH_Pg5hLck2sVHvYm5S90qsijPMvT060eXpRFt46XzmK7LRHn8X5uGlVkO4zR5VgRakmqFP004TQovHvjHDDUyurmZ4T7AEGHCr3l30Rqa8-0vZOEJs0zTWtbYRw=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 138,
+    "2": 47,
+    "3": 96,
+    "4": 151,
+    "5": 360
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

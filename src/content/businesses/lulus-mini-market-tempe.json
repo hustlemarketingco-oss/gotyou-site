@@ -1,0 +1,44 @@
+{
+  "slug": "lulus-mini-market-tempe",
+  "name": "Lulu's Mini Market",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "address": "11 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377471899999996,
+  "lng": -111.9398574,
+  "phone": "+14807552330",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lulu%27s+Mini+Market/data=!4m7!3m6!1s0x872b061ca99f256b:0x400355df4f30d7cf!8m2!3d33.3774719!4d-111.9398574!16s%2Fg%2F1261rrw6b!19sChIJayWfqRwGK4cRz9cwT99VA0A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4612624860952188879",
+  "placeId": "ChIJayWfqRwGK4cRz9cwT99VA0A",
+  "googleRating": 4.2,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqvB0mS_KIWrE5-t1qeyLVXtq3mK5W9WKwHL2Ry3Q-U5X22FjgZlT2FEPwXtONRJALb_shC0QSDgkLSJaMK-nthyaAUScnchuK1dTO0LCSaawBLFdvep0O-B0dPaTrg4fyc-bVwpgaaXUA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 2,
+    "4": 2,
+    "5": 12
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "walmart-supercenter-tempe",
+  "name": "Walmart Supercenter",
+  "category": "Shopping",
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Bakery",
+    "Clothing store",
+    "Electronics store",
+    "Furniture store",
+    "General store",
+    "Grocery store",
+    "Hardware store",
+    "Home goods store"
+  ],
+  "address": "800 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3937987,
+  "lng": -111.9278428,
+  "phone": "+14809660264",
+  "website": "https://www.walmart.com/store/5768-tempe-az/?veh=seo_loc",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walmart+Supercenter/data=!4m7!3m6!1s0x872b08987db298d9:0xea9522fb495dc8af!8m2!3d33.393799!4d-111.927843!16s%2Fg%2F11b7q2hynp!19sChIJ2ZiyfZgIK4cRr8hdSfsileo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16903455239068043439",
+  "placeId": "ChIJ2ZiyfZgIK4cRr8hdSfsileo",
+  "googleRating": 3.8,
+  "googleReviewCount": 9762,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctfvoXG22PRhk-jrz7ZVUHc4Ltvzv0qz0MHsK3AS95oSL9O1eo2Scpr-uJj036lKJzfLNPUkKg2mGxcvcG1jkoshpNZ29ZQ3WwR_Fglka3WZ0isjwTGNw0BZ5CKRW5CmfRkKkreTgaqSMb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 994,
+    "2": 656,
+    "3": 1648,
+    "4": 2165,
+    "5": 4299
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "buffalo-exchange-tempe",
+  "name": "Buffalo Exchange",
+  "category": "Shopping",
+  "googleCategory": "Used clothing store",
+  "secondaryCategories": [
+    "Consignment shop",
+    "Costume store",
+    "Thrift store",
+    "Vintage clothing store"
+  ],
+  "address": "227 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421610099999995,
+  "lng": -111.9432314,
+  "phone": "+14809682557",
+  "website": "https://www.buffaloexchange.com/locations/phoenix/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buffalo+Exchange/data=!4m7!3m6!1s0x872b08d71db6cc1d:0xce67560db7cfe512!8m2!3d33.4216101!4d-111.9432314!16s%2Fg%2F1v_nczmt!19sChIJHcy2HdcIK4cREuXPtw1WZ84?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14872950911332771090",
+  "placeId": "ChIJHcy2HdcIK4cREuXPtw1WZ84",
+  "googleRating": 3.4,
+  "googleReviewCount": 429,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcP2DfjZIubL5KZN7m8niVj2hsmIVxtrQDMtrnl27kNX-0DoAi4uVcWXo8r75cP-Sh7YfYcON9TtM82CYw-A5VegGLgTzdyu5BJjI8dTiySsY8MwgPaYIdpXamijOoia6SoVRx9=w1200-h800-k-no",
+  "description": "Hip chain that buys, sells, trades trendy vintage & used clothing plus accessories for men & women.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 103,
+    "2": 44,
+    "3": 38,
+    "4": 73,
+    "5": 171
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

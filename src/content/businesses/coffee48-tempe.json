@@ -10,32 +10,16 @@
   "lat": 33.4080108,
   "lng": -111.9173596,
   "website": "https://www.coffee48.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4835324895258750641",
+  "googleMapsUrl": "https://www.google.com/maps/place/Coffee48/data=!4m7!3m6!1s0x872b09000052e067:0x431a865fa3802eb1!8m2!3d33.4080108!4d-111.9173596!16s%2Fg%2F11vs7vj7c3!19sChIJZ-BSAAAJK4cRsS6Ao1-GGkM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4835324895258750641",
   "placeId": "ChIJZ-BSAAAJK4cRsS6Ao1-GGkM",
   "googleRating": 4.7,
-  "googleReviewCount": 164,
+  "googleReviewCount": 179,
   "priceRange": "$1–10",
   "description": "Coffee48 is a casual, cozy coffee shop in Tempe, serving up coffee, takeout & delivery. A favorite among college students diners.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay",
-    "Coffee",
-    "Pets: Inside"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "8:30 AM - 6:00 PM",
@@ -52,5 +36,14 @@
   "groundgameId": "6a2438f23e9f699101c18162",
   "seededAt": "2026-06-06T15:12:50Z",
   "updatedAt": "2026-07-20T19:02:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 7,
+    "3": 4,
+    "4": 10,
+    "5": 153
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQJAzOYR_wu0gngz--No9QGTKudcjfaH8U0g4bWfb_JKrjEZhQV7k9wqGeNiqP_0sy6tv_pYyIlEugn2-WRF0Opnq0AljC1qbr9PTFAd3Qwo5JAOjLf-hd-YNPXYCaiHeYdTUJPg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

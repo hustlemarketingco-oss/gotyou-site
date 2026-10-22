@@ -1,0 +1,36 @@
+{
+  "slug": "starbucks-630-tempe",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "630 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.378577199999995,
+  "lng": -111.94736069999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x872b07006c8da4b3:0x1e50ccaa5faaa7b6!8m2!3d33.3785772!4d-111.9473607!16s%2Fg%2F11yp8dmg_l!19sChIJs6SNbAAHK4cRtqeqX6rMUB4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2184470851396216758",
+  "placeId": "ChIJs6SNbAAHK4cRtqeqX6rMUB4",
+  "googleRating": 2.8,
+  "googleReviewCount": 15,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebXpOitNR1hdmFbgYe15O2tkyPk20DATF71MuWzNtkIv_DiJyo3G2Qxn4sG_ymEjMJuJ0EheVJXWvq1pWKSz5c6LETT4oivAkC-rnT9ynUhJPxwanVXUB5IcapDjq3AKZNupdv7rbIBWZ3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "3": 1,
+    "5": 6
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

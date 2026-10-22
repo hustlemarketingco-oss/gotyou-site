@@ -1,0 +1,33 @@
+{
+  "slug": "ray-decandia-tempe",
+  "name": "Ray DeCandia",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "107 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377793,
+  "lng": -111.93876999999999,
+  "phone": "+14808384642",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ray+DeCandia/data=!4m7!3m6!1s0x872b061b67714625:0xfe2543fbfaea9b59!8m2!3d33.377793!4d-111.93877!16s%2Fg%2F11ddxrb5gk!19sChIJJUZxZxsGK4cRWZvq-vtDJf4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18313118209297521497",
+  "placeId": "ChIJJUZxZxsGK4cRWZvq-vtDJf4",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-o5yC73NqJfYhqLNIfUCcw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=179.21556&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

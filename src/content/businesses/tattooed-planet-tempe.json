@@ -1,0 +1,46 @@
+{
+  "slug": "tattooed-planet-tempe",
+  "name": "Tattooed Planet",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "address": "204 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4225304,
+  "lng": -111.93646109999999,
+  "phone": "+14804499946",
+  "website": "https://tattooedplanetaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tattooed+Planet/data=!4m7!3m6!1s0x872b08d965c3f7c5:0x6da35e4b3f54a838!8m2!3d33.4225304!4d-111.9364611!16s%2Fg%2F1v42g849!19sChIJxffDZdkIK4cROKhUP0teo20?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7900261848616052792",
+  "placeId": "ChIJxffDZdkIK4cROKhUP0teo20",
+  "googleRating": 4.6,
+  "googleReviewCount": 751,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYSGu2Nhh3btvdY3w_cfaDtHFcAGoWFO80iqkeyuubZjuuM64t5-VdCeOo4qlz32ohlBPqkreD5_4MqAMZ4Y0YgvlbYCZ3Rt1iH4q-R3XNoUMn4F-oLoVjEHpjlBK2lg8au363=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 8,
+    "3": 4,
+    "4": 17,
+    "5": 664
+  },
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "12:00 PM - 1:00 AM",
+    "sat": "12:00 PM - 1:00 AM",
+    "sun": "12:00 PM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "arizona-yoga-co-tempe",
+  "name": "Arizona Yoga Co.",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "address": "414 S Mill Ave Ste B102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "phone": "+14807190019",
+  "website": "http://www.arizonayogaco.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Yoga+Co./data=!4m7!3m6!1s0x872b093cdc208183:0x9ca5640cf7c9d6ac!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F11jm8jp5g7!19sChIJg4Eg3DwJK4cRrNbJ9wxkpZw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11287538047933601452",
+  "placeId": "ChIJg4Eg3DwJK4cRrNbJ9wxkpZw",
+  "googleRating": 5,
+  "googleReviewCount": 43,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC_sW0gUrFsKZKOuk-fc1j20T7A7tDT3v1H6Mt8Rnf6GJDKzVxFork2laaYAezUC2xMvcRndJ1Y11ysOpTHPf1FzY2BJ8LpE6JFad1zdMLtjOwdKm5dOzUX9PEJC5ryEwGLRt7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 42
+  },
+  "hours": {
+    "mon": "11:45 AM - 8:30 PM",
+    "tue": "5:45 AM - 8:30 PM",
+    "wed": "11:45 AM - 8:30 PM",
+    "thu": "5:45 AM - 8:30 PM",
+    "fri": "11:45 AM - 8:30 PM",
+    "sat": "8:45 AM - 6:30 PM",
+    "sun": "8:45 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

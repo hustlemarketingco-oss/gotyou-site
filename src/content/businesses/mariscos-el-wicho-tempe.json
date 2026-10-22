@@ -16,13 +16,13 @@
   "website": "https://mariscoselwicho.com/",
   "placeId": "ChIJ2xXRkWATK4cRu5aaI4ZxGtw",
   "googleRating": 4.7,
-  "googleReviewCount": 297,
+  "googleReviewCount": 316,
   "priceRange": "$$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 7:30 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a57cfb70204f257533449c2",
   "seededAt": "2026-07-15T18:21:43Z",
   "updatedAt": "2026-07-30T18:20:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15860113858675513019",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mariscos+El+Wicho/data=!4m7!3m6!1s0x872b136091d115db:0xdc1a7186239a96bb!8m2!3d33.4077218!4d-111.9530977!16s%2Fg%2F11d_yy4_kq!19sChIJ2xXRkWATK4cRu5aaI4ZxGtw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 5,
+    "3": 6,
+    "4": 20,
+    "5": 270
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzG6lFt4aGBvQiZE83hIiNaKkZ_SDmaIMPC84wvJ3xLo8JebGoQ6IBMEU1ie8InWQwa4sCVPrwtbmGbJWA1m-8Ae0S20cx_wyKkHNPyG4nixqu6hBT1npsq97JzwSk79pDqENO=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

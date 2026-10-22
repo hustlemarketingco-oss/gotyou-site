@@ -1,0 +1,58 @@
+{
+  "slug": "frys-2700-tempe",
+  "name": "Fry's",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Bakery",
+    "Butcher shop",
+    "Cheese shop",
+    "Deli",
+    "Florist",
+    "Grocery delivery service",
+    "Health food store",
+    "Liquor store"
+  ],
+  "address": "2700 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.379052699999995,
+  "lng": -111.9767809,
+  "phone": "+16024381756",
+  "website": "https://www.frysfood.com/stores/grocery/az/tempe/48th-st-baseline/660/00043?cid=loc_66000043_gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fry%27s/data=!4m7!3m6!1s0x872b0f60626f9ea5:0x16bdf2e0213ef67b!8m2!3d33.3790527!4d-111.9767809!16s%2Fg%2F1tfwqfdb!19sChIJpZ5vYmAPK4cRe_Y-IeDyvRY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1638732883877099131",
+  "placeId": "ChIJpZ5vYmAPK4cRe_Y-IeDyvRY",
+  "googleRating": 4.2,
+  "googleReviewCount": 2088,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3JCAPlv3Zr_nrx26sSwGYyV4deSgX6H-aoHF_ijlvG75LOC3LvPnp-y5UWaaGTkBdKDqnbbag3ralwTuglgKgdUzRmcjD5iKzfo2C5WQlVHl7Mo4xHCJkvWLjX1WZ7pqZUgKd=w1200-h800-k-no",
+  "description": "Outpost of a grocery store chain with typical offerings like produce, meat & household supplies.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 143,
+    "2": 59,
+    "3": 257,
+    "4": 502,
+    "5": 1127
+  },
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

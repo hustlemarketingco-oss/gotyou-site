@@ -1,0 +1,57 @@
+{
+  "slug": "cvs-tempe",
+  "name": "CVS",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Beer store",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Liquor store",
+    "Perfume store",
+    "Stationery store"
+  ],
+  "address": "1750 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4080795,
+  "lng": -111.9096776,
+  "phone": "+14805570970",
+  "website": "https://www.cvs.com/store-locator/tempe-az-pharmacies/1750-e-broadway-rd-tempe-az-85282/storeid=33?WT.mc_id=LS_GOOGLE_FS_33",
+  "googleMapsUrl": "https://www.google.com/maps/place/CVS/data=!4m7!3m6!1s0x872b088b7096fb67:0x2cfc1ef86815fc3c!8m2!3d33.40808!4d-111.909678!16s%2Fg%2F1tm8ffws!19sChIJZ_uWcIsIK4cRPPwVaPge_Cw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3241499884046908476",
+  "placeId": "ChIJZ_uWcIsIK4cRPPwVaPge_Cw",
+  "googleRating": 3.3,
+  "googleReviewCount": 251,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVJTRqEA0NhZ5yu_PzuQICvJqeKeQx1Z5wS0ef9oB_8ccOoFUeqbd3kt5aKvuC6L0r0Rg9Up40HmFIHh8Jm5ra9D6yfALP0OZ3eDg0zLi09bL_eRc5R1xxZoKJeu49sjiSDXlc=w1200-h800-k-no",
+  "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 5,
+    "3": 15,
+    "4": 23,
+    "5": 116
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

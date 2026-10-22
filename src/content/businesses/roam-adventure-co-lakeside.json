@@ -1,0 +1,43 @@
+{
+  "slug": "roam-adventure-co-lakeside",
+  "name": "Roam Adventure Co.",
+  "category": "Shopping",
+  "googleCategory": "Outdoor sports store",
+  "address": "5800 AZ-260",
+  "city": "Lakeside",
+  "state": "AZ",
+  "zip": "85929",
+  "lat": 33.3540257,
+  "lng": -111.9692403,
+  "phone": "+15123801960",
+  "website": "https://roamadventureco.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Roam+Adventure+Co./data=!4m7!3m6!1s0x872b05a1f6ae5cab:0x66ac86ffe5b6c514!8m2!3d33.3540257!4d-111.9692403!16s%2Fg%2F11zjrm30pr!19sChIJq1yu9qEFK4cRFMW25f-GrGY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7398436721491625236",
+  "placeId": "ChIJq1yu9qEFK4cRFMW25f-GrGY",
+  "googleRating": 4.6,
+  "googleReviewCount": 20,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFAW3mGGkFwyUDjbvGDOS6ZO7LrQKNXp0wnOuVHB4LKRTxhjaQ9IRE904TRxPLsz7IuAsWhIc-482QdHdMBfwgdNQ6IwzCTOmFP6m32C86wPcRG9GnhQDm7Dtf-UJO9MfOgrdR8bSf7EpF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 18
+  },
+  "hours": {
+    "mon": "7:30 AM - 4:00 PM",
+    "tue": "7:30 AM - 4:00 PM",
+    "wed": "7:30 AM - 4:00 PM",
+    "thu": "7:30 AM - 4:00 PM",
+    "fri": "7:30 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

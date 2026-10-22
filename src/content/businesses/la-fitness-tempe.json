@@ -1,0 +1,47 @@
+{
+  "slug": "la-fitness-tempe",
+  "name": "LA Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "address": "63 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3916509,
+  "lng": -111.9381288,
+  "phone": "+14808290622",
+  "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=38&utm_source=google&utm_medium=googlemaps&utm_campaign=maps",
+  "googleMapsUrl": "https://www.google.com/maps/place/LA+Fitness/data=!4m7!3m6!1s0x872b08a51513d821:0xc6374dd8f4e0508e!8m2!3d33.3916509!4d-111.9381288!16s%2Fg%2F1tdblg8t!19sChIJIdgTFaUIK4cRjlDg9NhNN8Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14282970337445433486",
+  "placeId": "ChIJIdgTFaUIK4cRjlDg9NhNN8Y",
+  "googleRating": 4.3,
+  "googleReviewCount": 1189,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea2KhfHViDY2kGMJZCGyYkCaTeuw6TGBophO5fEUfOlkJedIlko-yEKkK8Z0lNcp7CnS2XYEkvixqVTTRA3GO1mADt115-rbaZnQrB88z0nARiBDLP5l2VdbUN2ISD3XxgMOqY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 125,
+    "2": 41,
+    "3": 58,
+    "4": 114,
+    "5": 851
+  },
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "5:00 AM - 11:00 PM",
+    "wed": "5:00 AM - 11:00 PM",
+    "thu": "5:00 AM - 11:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

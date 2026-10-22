@@ -1,0 +1,42 @@
+{
+  "slug": "revolution-training-system-tempe",
+  "name": "Revolution Training System",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Athletic club",
+    "Personal trainer",
+    "Sports club"
+  ],
+  "address": "606 W Southern Ave #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393372,
+  "lng": -111.94817099999999,
+  "phone": "+16025793608",
+  "website": "http://revolutiontrainingsystem.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Revolution+Training+System/data=!4m7!3m6!1s0x872b08b26952fbe3:0x50551c511af5a32b!8m2!3d33.393372!4d-111.948171!16s%2Fg%2F1yf_9mdbl!19sChIJ4_tSabIIK4cRK6P1GlEcVVA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5788564030724875051",
+  "placeId": "ChIJ4_tSabIIK4cRK6P1GlEcVVA",
+  "googleRating": 4.8,
+  "googleReviewCount": 70,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1sjW_CxIawieVvqRYn9Q5ntr-qqhFI_0-Ef2tVeoLsdA_92dAxtdFHLPDdUJbc2VyKwH6r052yxu9lbElEVWAHNkm5auu-Nf8eokHp89Dn_47-BA4ytz4ZqSuVOEzmzQTLKYX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 1,
+    "4": 3,
+    "5": 63
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

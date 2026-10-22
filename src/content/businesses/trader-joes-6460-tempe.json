@@ -1,0 +1,58 @@
+{
+  "slug": "trader-joes-6460-tempe",
+  "name": "Trader Joe's",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Cheese shop",
+    "Health food store",
+    "Liquor store",
+    "Natural goods store",
+    "Organic food store",
+    "Produce market",
+    "Supermarket",
+    "Wine store"
+  ],
+  "address": "6460 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3618135,
+  "lng": -111.91224749999999,
+  "phone": "+14808384142",
+  "website": "https://locations.traderjoes.com/az/tempe/93/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trader+Joe%27s/data=!4m7!3m6!1s0x872b06495cca0b6f:0xfc6420cc7f1add97!8m2!3d33.3618135!4d-111.9122475!16s%2Fg%2F1ts1sprd!19sChIJbwvKXEkGK4cRl90af8wgZPw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18186697257906789783",
+  "placeId": "ChIJbwvKXEkGK4cRl90af8wgZPw",
+  "googleRating": 4.7,
+  "googleReviewCount": 2228,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNBrQgT9LXx09f0UkAi0Il_FZhg9YW4aZWfLf77TJxXR-nx8z7hDvYpzaLvMsbPC5dvWWmmMnG0owNjFFOQuLmoYY3YCcBplaR8wsNEDG69V82_gS50HH-533p9Rb8ONOnGLnMV67CYqus=w1200-h800-k-no",
+  "description": "Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 17,
+    "3": 63,
+    "4": 339,
+    "5": 1784
+  },
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

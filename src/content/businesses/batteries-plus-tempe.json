@@ -1,0 +1,54 @@
+{
+  "slug": "batteries-plus-tempe",
+  "name": "Batteries Plus",
+  "category": "Shopping",
+  "googleCategory": "Car battery store",
+  "secondaryCategories": [
+    "Battery store",
+    "Cell phone accessory store",
+    "Key duplication service",
+    "Light bulb supplier",
+    "Lighting store"
+  ],
+  "address": "3404 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3914544,
+  "lng": -111.9096314,
+  "phone": "+14805819220",
+  "website": "https://www.batteriesplus.com/store-locator/az/tempe/batteries-plus-333?utm_source=gmb&utm_medium=local&utm_campaign=bpb&storecode=333",
+  "googleMapsUrl": "https://www.google.com/maps/place/Batteries+Plus/data=!4m7!3m6!1s0x872b08819f3ca3bf:0xd7100c3510a96e30!8m2!3d33.3914544!4d-111.9096314!16s%2Fg%2F1tfrbn2z!19sChIJv6M8n4EIK4cRMG6pEDUMENc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15496899739834215984",
+  "placeId": "ChIJv6M8n4EIK4cRMG6pEDUMENc",
+  "googleRating": 4.6,
+  "googleReviewCount": 297,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4IjIuD27ySZpO4B-JBCW1Jr33iloaVd5akiX7_W8_ZDCwLSvbYiaJknGWXwtxZiBKWcrZqNPLhyIy9inr083AB6m5hfTzyKkcWYQGKHPJUUWoYZBawMmoaPCzcE_7smnLic8o3g=w1200-h800-k-no",
+  "description": "Chain selling batteries for watches, phones & vehicles, plus replacement lightbulbs.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 3,
+    "3": 4,
+    "4": 19,
+    "5": 249
+  },
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

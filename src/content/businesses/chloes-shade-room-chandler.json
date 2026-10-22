@@ -1,0 +1,45 @@
+{
+  "slug": "chloes-shade-room-chandler",
+  "name": "Chloe's Shade Room",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1655 W Chandler Blvd #1",
+  "city": "Chandler",
+  "state": "AZ",
+  "zip": "85224",
+  "lat": 33.361154299999995,
+  "lng": -111.928255,
+  "phone": "+14803956690",
+  "website": "https://chloesshaderoom.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chloe%27s+Shade+Room/data=!4m7!3m6!1s0x872bab2bafeba013:0x4f093057203cc570!8m2!3d33.3611543!4d-111.928255!16s%2Fg%2F11hfkjqd9_!19sChIJE6DrryurK4cRcMU8IFcwCU8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5695136354547844464",
+  "placeId": "ChIJE6DrryurK4cRcMU8IFcwCU8",
+  "googleRating": 4.3,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2O-Gc4COv22xGAz5O0LF9BhFlufBIWV12zw6S_-FjfCllCNkKju63GEz_LhKy6NGNnipq609xEssVtw3Ff0oxgqWdB6CO6eDKCpC6tPzorgpZm6Pm9z17XLPMNNskvCsR7ZZP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

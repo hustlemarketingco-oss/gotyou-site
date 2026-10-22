@@ -1,0 +1,43 @@
+{
+  "slug": "platinum-society-salon-tempe",
+  "name": "Platinum Society Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "6601 S Rural Rd Ste 13",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+14803399778",
+  "website": "https://platinumsociety.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Platinum+Society+Salon/data=!4m7!3m6!1s0x872b071779ab0b85:0x91340f817da7ed68!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11n4wv_9jg!19sChIJhQureRcHK4cRaO2nfYEPNJE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10463004883121859944",
+  "placeId": "ChIJhQureRcHK4cRaO2nfYEPNJE",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgrEJOX2UPlVK6QZ2mq-k0zF8GyQf3asMfUkL5mEXqY_J5HOimGlN--M5GSw4ipHwvNV05P7gBkds7IwsTdPJlvjb7eZKuMYajvWIc2MfYFiga-sg5oQmL0y3I1a4HMlJnQSNVKtcmF18=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

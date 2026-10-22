@@ -11,25 +11,16 @@
   "lng": -111.9600817,
   "phone": "+14809669002",
   "website": "https://www.instagram.com/arai_pastry?igsh=amxiaTFlNHhyZGU5",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12759792523619180673",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arai+Pastry/data=!4m7!3m6!1s0x872b0f29da534779:0xb113e3b22a01a081!8m2!3d33.4213323!4d-111.9600817!16s%2Fg%2F1tfvhp71!19sChIJeUdT2ikPK4cRgaABKrLjE7E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12759792523619180673",
   "placeId": "ChIJeUdT2ikPK4cRgaABKrLjE7E",
   "googleRating": 4.8,
-  "googleReviewCount": 222,
+  "googleReviewCount": 229,
   "priceRange": "$10–20",
   "description": "Low-key Japanese/French bakery & cafe with sweets, sandwiches & intricately decorated custom cakes.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Gift card",
-    "Google Pay"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "12:00 PM - 6:00 PM",
@@ -46,5 +37,14 @@
   "groundgameId": "6a24390f5bbc07c1256facd1",
   "seededAt": "2026-06-06T15:13:19Z",
   "updatedAt": "2026-09-14T02:55:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 4,
+    "4": 15,
+    "5": 202
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7OwCOMgSQ9jvGfwipghTWPfHpw1_Ha6hPiTrs-UUcGZiaJY5x1Zaj2ZxTyDigG7ph4WGM47LfEdBthkU2s9WIX2I5rru0OzzjYwjVcb36AuczUvVD2o3pnhy9kftvMNMdNjpsG3kFahJi=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

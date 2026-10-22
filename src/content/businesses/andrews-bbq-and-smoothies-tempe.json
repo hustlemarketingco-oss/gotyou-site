@@ -15,25 +15,17 @@
   "lng": -111.9303952,
   "phone": "+14802444227",
   "website": "http://andrewsbbq.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4481334804350584791",
+  "googleMapsUrl": "https://www.google.com/maps/place/Andrew%27s+BBQ+and+Smoothies/data=!4m7!3m6!1s0x872b066acb5ed697:0x3e30e642ece947d7!8m2!3d33.3648135!4d-111.9303952!16s%2Fg%2F1tg6k_yb!19sChIJl9Zey2oGK4cR10fp7ELmMD4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4481334804350584791",
   "placeId": "ChIJl9Zey2oGK4cR10fp7ELmMD4",
   "googleRating": 4.4,
-  "googleReviewCount": 188,
+  "googleReviewCount": 198,
   "priceRange": "$10–20",
   "description": "No-nonsense, counter-service spot featuring slow-smoked BBQ, brisket, sandwiches & classic sides.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Quick bite"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "10:00 AM - 9:00 PM",
@@ -50,5 +42,14 @@
   "groundgameId": "6a2439fa1bae999cd391fed3",
   "seededAt": "2026-06-06T15:17:14Z",
   "updatedAt": "2026-06-06T15:17:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 8,
+    "3": 12,
+    "4": 27,
+    "5": 139
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMEv9geuSr7swkAkhh4A4BlL_iEJUhY6D6HDuNwERFnmBj9nKoUBd7j4Q7c1Ll5pLC_h7vnMw-yZCgsF0JsN90gDf7QBQmBqPYYMrNkPMdzOcAWQPX5u8nApazZhG0FhJ7UofCGxfFApU=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

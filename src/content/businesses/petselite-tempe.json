@@ -1,0 +1,26 @@
+{
+  "slug": "petselite-tempe",
+  "name": "PetsElite",
+  "category": "Shopping",
+  "googleCategory": "Pet store",
+  "address": "1216 E Vista Del Cerro Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4101201,
+  "lng": -111.9177472,
+  "phone": "+16234326174",
+  "googleMapsUrl": "https://www.google.com/maps/place/PetsElite/data=!4m7!3m6!1s0x872b09143152e86f:0x71b9c3eddf7b9269!8m2!3d33.4101201!4d-111.9177472!16s%2Fg%2F11n40fjnv8!19sChIJb-hSMRQJK4cRaZJ73-3DuXE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8194796423401411177",
+  "placeId": "ChIJb-hSMRQJK4cRaZJ73-3DuXE",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

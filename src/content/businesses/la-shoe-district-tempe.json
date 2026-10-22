@@ -1,0 +1,42 @@
+{
+  "slug": "la-shoe-district-tempe",
+  "name": "LA Shoe District",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3823754,
+  "lng": -111.9642161,
+  "phone": "+14804911568",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/la-shoe-district",
+  "googleMapsUrl": "https://www.google.com/maps/place/LA+Shoe+District/data=!4m7!3m6!1s0x872b0f59d87c0001:0x7b9c7cc0fe1146a!8m2!3d33.3823754!4d-111.9642161!16s%2Fg%2F11q2z004_8!19sChIJAQB82FkPK4cRahThD8zHuQc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "556695708210631786",
+  "placeId": "ChIJAQB82FkPK4cRahThD8zHuQc",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsiq5X447meytq2W1w8kXb6gBRecN00conpqQOdX92Rs0eRUtJXvWLwAgOVTK2M0C6qOVE_iEj4pu3YyM20yHQ7RZPfUq2KEfzW27GBiiRAwtzknBQhvKNY97-iiCwVB5r9BxGDg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

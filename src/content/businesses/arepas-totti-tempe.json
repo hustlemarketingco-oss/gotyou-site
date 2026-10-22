@@ -15,38 +15,18 @@
   "lng": -111.9040883,
   "phone": "+14077321867",
   "website": "https://www.arepastotti.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6802461975545070383",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arepa%27s+Totti/data=!4m7!3m6!1s0x872b099d8de65981:0x5e6733203277432f!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11lrn0783p!19sChIJgVnmjZ0JK4cRL0N3MiAzZ14?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6802461975545070383",
   "placeId": "ChIJgVnmjZ0JK4cRL0N3MiAzZ14",
   "googleRating": 4.2,
-  "googleReviewCount": 520,
+  "googleReviewCount": 519,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Arepa's Totti is a casual venezuelan restaurant & food court with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Coffee",
-    "Organic dishes",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "Closed",
@@ -63,5 +43,14 @@
   "groundgameId": "6a2437be3f32875ab4495330",
   "seededAt": "2026-06-06T15:07:42Z",
   "updatedAt": "2026-07-27T19:49:24Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 66,
+    "2": 22,
+    "3": 20,
+    "4": 66,
+    "5": 345
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_2IDn2Ex-Nm38OH7fBbLRJowW3EpyyR-6PS9AyCo3LNFsuYk2TSufMDLYdwtfEprNtJF02x2l9IjI2ltk1cqufNBPsrRsulajqWW8EeIdt1-XxeMpCZdKZEBFWiWBrBRO5GGB6Q=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

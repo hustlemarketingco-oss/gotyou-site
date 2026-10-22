@@ -1,0 +1,40 @@
+{
+  "slug": "tempe-bicycle-tempe",
+  "name": "Tempe Bicycle",
+  "category": "Shopping",
+  "googleCategory": "Bicycle Shop",
+  "secondaryCategories": [
+    "Bicycle rental service",
+    "Bicycle repair shop",
+    "Used bicycle shop"
+  ],
+  "address": "715 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4231665,
+  "lng": -111.9258223,
+  "phone": "+14809666896",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Bicycle/data=!4m7!3m6!1s0x872b08e7329ae3b7:0xc297ff867591fd77!8m2!3d33.4231665!4d-111.9258223!16s%2Fg%2F1tf75zvf!19sChIJt-OaMucIK4cRd_2RdYb_l8I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14021956917804531063",
+  "placeId": "ChIJt-OaMucIK4cRd_2RdYb_l8I",
+  "googleRating": 2.8,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCyAl9YuX8wIpjlc3saP_J8RlNkUt3Su2vAlshVII_y0hXrfNG0oU7OMnO6bojRgYQ6TVAeHNdS53x6DeXEjWCZHE0SXfR1G3poiTqoV24u-zftpTYPOKcNHX95DQtunwieY0C=w1200-h800-k-no",
+  "description": "Spacious store offering bikes, parts & accessories plus repair & rental services.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "4": 3,
+    "5": 5
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

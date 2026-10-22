@@ -1,0 +1,53 @@
+{
+  "slug": "rallys-tempe",
+  "name": "Rally's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Chicken restaurant",
+    "Hamburger restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1410 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422308199999996,
+  "lng": -111.9617629,
+  "phone": "+14809686434",
+  "website": "https://checkersandrallys.com/location/-838552?y_source=1_MzI0ODY3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rally%27s/data=!4m7!3m6!1s0x872b0ed7d709d2db:0xda909e8c65bcb6dc!8m2!3d33.4223082!4d-111.9617629!16s%2Fg%2F1vntkc2m!19sChIJ29IJ19cOK4cR3La8ZYyekNo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15749262222754100956",
+  "placeId": "ChIJ29IJ19cOK4cR3La8ZYyekNo",
+  "googleRating": 3.6,
+  "googleReviewCount": 2456,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl-zkC4dnXG8dRFSntN_UIXdzKAcvqwtFBJzyGonuAiStIqE956T4xcrzB1XUD2QhKmyhAi2O3c0_HedH0ANXnlxpsYQipk5h-FJWl2FGAsa0fsNU1DjxRzYRkwyYRSsFaGNK6QHeveiYC=w1200-h800-k-no",
+  "description": "Restaurant serving fast-food classics like burgers, hot dogs, french fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 454,
+    "2": 188,
+    "3": 290,
+    "4": 456,
+    "5": 1068
+  },
+  "hours": {
+    "mon": "9:00 AM - 2:00 AM",
+    "tue": "9:00 AM - 2:00 AM",
+    "wed": "9:00 AM - 2:00 AM",
+    "thu": "9:00 AM - 2:00 AM",
+    "fri": "9:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

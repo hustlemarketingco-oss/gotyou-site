@@ -1,0 +1,47 @@
+{
+  "slug": "ivy-nails-tempe",
+  "name": "Ivy Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "5000 S Arizona Mills Cir Ste 473",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.381524399999996,
+  "lng": -111.9653378,
+  "phone": "+14807093421",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/ivy-nails",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ivy+Nails/data=!4m7!3m6!1s0x872b0f42e0bdca1f:0x6df8e421f9f1c423!8m2!3d33.3815244!4d-111.9653378!16s%2Fg%2F11sxll5mvy!19sChIJH8q94EIPK4cRI8Tx-SHk-G0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7924334378936812579",
+  "placeId": "ChIJH8q94EIPK4cRI8Tx-SHk-G0",
+  "googleRating": 4.3,
+  "googleReviewCount": 183,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYBPF67au3g-Gw5endOKES6ddYYFqkCWc_G5V3i67LqQwkD8ZUL5-ThiJf9bwskvRn3178-TLrHmES3hbznWqdJI7o2aJgg8mXR3AA9YDmgJxjWHNjxgs5810CjsOlkBrPO3tTGnMpTzDE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 3,
+    "3": 1,
+    "4": 4,
+    "5": 149
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

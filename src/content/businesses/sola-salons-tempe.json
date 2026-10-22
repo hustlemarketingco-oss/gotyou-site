@@ -1,0 +1,54 @@
+{
+  "slug": "sola-salons-tempe",
+  "name": "Sola Salons",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Barber shop",
+    "Eyebrow bar",
+    "Eyelash salon",
+    "Hair removal service",
+    "Hair salon",
+    "Massage therapist",
+    "Nail salon",
+    "Skin care clinic"
+  ],
+  "address": "933 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "phone": "+15205251525",
+  "website": "https://www.solasalonstudios.com/locations/tempe?utm_source=gmb&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sola+Salons/data=!4m7!3m6!1s0x872b091c0ea6441f:0x2b67552a08e56c43!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11nwbsszbm!19sChIJH0SmDhwJK4cRQ2zlCCpVZys?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3127562105258339395",
+  "placeId": "ChIJH0SmDhwJK4cRQ2zlCCpVZys",
+  "googleRating": 4.6,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCd_D6RlEPUT0UGw030BKdpzWr42b045wI6yyV1U7FGf73TjN5aaXNFGOcp4KfL2NhqwWAADYlHC1aFdEE1YpDeasF-o4Vqi6sOJHuSiQz3IAZj7wUrk4Suu_5HyZHhiEP9Ly6mIu8DBk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 10
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "recess-games-food-bar-tempe",
   "name": "Recess | Games, Food & Bar",
   "category": "Fun & Activities",
-  "googleCategory": "Event venue",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Adventure sports center",
     "Bar & grill",
@@ -20,23 +20,10 @@
   "priceRange": "$30–40",
   "description": "Recess | Games, Food & Bar is a Tempe casual, trendy event venue & adventure sports center known for alcohol & beer, takeout.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Organic dishes"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/recessaz"
@@ -47,5 +34,31 @@
   "groundgameId": "6a24385607ac71b47ba4cbe7",
   "seededAt": "2026-06-06T15:10:14Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ-_rCf2oPK4cRA9Zevx2sbPY",
+  "googleCid": "17756756674579715587",
+  "googleMapsUrl": "https://www.google.com/maps/place/Recess+%7C+Games,+Food+%26+Bar/data=!4m7!3m6!1s0x872b0f6a7fc2fafb:0xf66cac1dbf5ed603!8m2!3d33.4334081!4d-111.9033198!16s%2Fg%2F11gdkq5_y0!19sChIJ-_rCf2oPK4cRA9Zevx2sbPY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 1994,
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 13,
+    "3": 32,
+    "4": 129,
+    "5": 1784
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdotY_PcLcQ40cNKmQYC-wf2CHKvXjVZvlPGdQGmM6XTgsOhLbTJMD784tm3UO2j-I8kOwJUcENwla5TCSBbMNz7nLRtt7aacHYwzG7dVrxWq-DNooCE_CF6URbBGU6vqMJasKTBNYniP4=w1200-h800-k-no",
+  "website": "https://recessaz.com/",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 9:00 PM"
+  },
+  "lat": 33.4334081,
+  "lng": -111.90331979999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

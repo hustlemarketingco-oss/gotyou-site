@@ -1,0 +1,50 @@
+{
+  "slug": "francis-sons-car-wash-tempe",
+  "name": "Francis & Sons Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "secondaryCategories": [
+    "Car detailing service"
+  ],
+  "address": "6505 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3611398,
+  "lng": -111.9103593,
+  "phone": "+14807756393",
+  "website": "https://francisandsonscarwash.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Francis+%26+Sons+Car+Wash/data=!4m7!3m6!1s0x872b0649500c1ce3:0x6dbecdbb091ff12d!8m2!3d33.3611398!4d-111.9103593!16s%2Fg%2F1tdy0bw8!19sChIJ4xwMUEkGK4cRLfEfCbvNvm0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7907984198904836397",
+  "placeId": "ChIJ4xwMUEkGK4cRLfEfCbvNvm0",
+  "googleRating": 3.5,
+  "googleReviewCount": 377,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKIp9vkSsd1-lgebYlyhCa9Czc6PxJx_alBluSelmJBk6d9JIem1DrYHniXBaetMtjIiOAFSRF7_ztIQRLH3ayVILK7ZTQzy8Il3rPkEb6KGQocGGX6XmJw5y7IJursTXmz4x0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 25,
+    "3": 31,
+    "4": 45,
+    "5": 184
+  },
+  "hours": {
+    "mon": "7:30 AM - 6:00 PM",
+    "tue": "7:30 AM - 6:00 PM",
+    "wed": "7:30 AM - 6:00 PM",
+    "thu": "7:30 AM - 6:00 PM",
+    "fri": "7:30 AM - 6:00 PM",
+    "sat": "7:30 AM - 6:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

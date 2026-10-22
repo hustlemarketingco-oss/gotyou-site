@@ -15,26 +15,10 @@
   "priceRange": "$20–30",
   "description": "Regional chain serving slow-cooked meats & other Southern-style eats, plus cocktails.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/lucillesbbq"
@@ -45,5 +29,31 @@
   "groundgameId": "6a2437e002a699b3c3f60479",
   "seededAt": "2026-06-06T15:08:16Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ_-uiuqoJK4cR3FD1UOnZqAs",
+  "googleCid": "840160926613459164",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lucille%27s+Smokehouse+Bar-B-Que/data=!4m7!3m6!1s0x872b09aabaa2ebff:0xba8d9e950f550dc!8m2!3d33.4337778!4d-111.9038028!16s%2Fg%2F1tpn30kt!19sChIJ_-uiuqoJK4cR3FD1UOnZqAs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 4513,
+  "ratingBreakdown": {
+    "1": 337,
+    "2": 253,
+    "3": 438,
+    "4": 897,
+    "5": 2588
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdY5wHDyUv3PpA85GjOqu0SYa_0ci7v6eiVAgMerelZ_e6Ze7DiNoFlmW3lxVLcfbiGzzKEofm1COSQD1mWslOBLnMzdF6HemonYYK_OQebwQRvEUMrXMjmWGP3zKXkS49yZ70=w1200-h800-k-no",
+  "website": "http://www.lucillesbbq.com/",
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "11:00 AM - 9:30 PM"
+  },
+  "lat": 33.4337778,
+  "lng": -111.9038028,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

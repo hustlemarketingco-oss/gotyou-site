@@ -1,0 +1,47 @@
+{
+  "slug": "virtual-tee-systems-tempe",
+  "name": "Virtual Tee Systems",
+  "category": "Shopping",
+  "googleCategory": "Golf shop",
+  "secondaryCategories": [
+    "Contractor",
+    "Home cinema installation"
+  ],
+  "address": "1828 E University Dr #4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4224475,
+  "lng": -111.9074885,
+  "phone": "+14805257743",
+  "website": "https://www.virtualtee.golf/pages/phoenix?utm_source=localfx&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Virtual+Tee+Systems/data=!4m7!3m6!1s0x872b0b3c4bd6f29f:0xda5081dfd2e00069!8m2!3d33.4224475!4d-111.9074885!16s%2Fg%2F11y2sqh2cl!19sChIJn_LWSzwLK4cRaQDg0t-BUNo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15731216296720728169",
+  "placeId": "ChIJn_LWSzwLK4cRaQDg0t-BUNo",
+  "googleRating": 4.9,
+  "googleReviewCount": 30,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduPEA4cV7XfboOh9kky0gNlxEVPIKh3hSy0iuWmAR3qI8bbONHPDsK-e_dzR7Et766cW5-esei8yaYrwQ-CeNKHRV9R6sZWhOPSHw2E6RHrwDcgtbMxpCxpJDMDsGfWZDk_1zMSRlw37Pl=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 29
+  },
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

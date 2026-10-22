@@ -1,0 +1,48 @@
+{
+  "slug": "massage101-tempe",
+  "name": "Massage101",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Massage therapist"
+  ],
+  "address": "655 W Warner Rd Ste 123",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3330303,
+  "lng": -111.94823149999999,
+  "phone": "+16233326001",
+  "website": "https://101massageaz.wixsite.com/101massage",
+  "googleMapsUrl": "https://www.google.com/maps/place/Massage101/data=!4m7!3m6!1s0x872b07b61dd01159:0x1f5bf6de5c49e309!8m2!3d33.3330303!4d-111.9482315!16s%2Fg%2F11mcjp2336!19sChIJWRHQHbYHK4cRCeNJXN72Wx8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2259671072947954441",
+  "placeId": "ChIJWRHQHbYHK4cRCeNJXN72Wx8",
+  "googleRating": 4.7,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepjxwr3Hvx-UruHZUtcUN6-tBP1bFsoOkclBNTQxb5OHXQPvPCtKW_y2BLCwlR0Vyn51WPGlDqCY97-iG5aYKdiml0wDLj6QFFeuMIONMfvC6o6feUQGsmbeFqtpVHzZNGzgcdtK1aA3sd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 12
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

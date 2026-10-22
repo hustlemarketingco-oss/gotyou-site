@@ -1,0 +1,49 @@
+{
+  "slug": "next-level-studio-tempe",
+  "name": "Next Level Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "secondaryCategories": [
+    "Body piercing shop"
+  ],
+  "address": "2103 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.405302999999996,
+  "lng": -111.908801,
+  "phone": "+14809686639",
+  "website": "https://www.nextleveltattoostudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Next+Level+Studio/data=!4m7!3m6!1s0x872b088bdf02ded3:0x8425c83d4b92b1ee!8m2!3d33.405303!4d-111.908801!16s%2Fg%2F11c20q5q1c!19sChIJ094C34sIK4cR7rGSSz3IJYQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9522237152731247086",
+  "placeId": "ChIJ094C34sIK4cR7rGSSz3IJYQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 275,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU9Qw2jH_JieksZFmA3TlLO42MoE7SnlnHRFQU3mzdSxV1_7z6RBtgxdGhr9hadGmCg8YPlAo_J8byRL0fc9TSVou83J4e5jFJSLtyqV-zkHSJ8wPg_p4z5TjUXW5xE1AXOLvNEQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 3,
+    "3": 4,
+    "4": 4,
+    "5": 252
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

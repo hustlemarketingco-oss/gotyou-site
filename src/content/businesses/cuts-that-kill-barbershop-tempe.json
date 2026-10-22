@@ -1,0 +1,43 @@
+{
+  "slug": "cuts-that-kill-barbershop-tempe",
+  "name": "Cuts that Kill Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "933 E Broadway Rd Ste 8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061829,
+  "lng": -111.9246575,
+  "phone": "+16027366151",
+  "website": "http://cutsthatkillbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cuts+that+Kill+Barbershop/data=!4m7!3m6!1s0x872b099c0bab46a9:0x341ee168cb18dae!8m2!3d33.4061829!4d-111.9246575!16s%2Fg%2F11z5b1tbyc!19sChIJqUarC5wJK4cRro2xjBbuQQM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "234730436217114030",
+  "placeId": "ChIJqUarC5wJK4cRro2xjBbuQQM",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5saGisoIr6kbnd_owNlNkuY0riU63Wnc0aTmSolhvfPoa53c3gu8nfdAHiHycD7lGvF3v4sKNimILsaATorpGcRxH518fgmN_LX__sndJVm1T5c82R3gcdYmTC5-ldfRLrPxDRTWHHo_5=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

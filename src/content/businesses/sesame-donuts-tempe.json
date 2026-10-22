@@ -15,33 +15,17 @@
   "lng": -111.939161,
   "phone": "+14804046535",
   "website": "http://www.sesamedonuts.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1289403221515620946",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sesame+Donuts/data=!4m7!3m6!1s0x872b0994d39c0f9d:0x11e4e165feaed252!8m2!3d33.3934969!4d-111.939161!16s%2Fg%2F11sjlf5blx!19sChIJnQ-c05QJK4cRUtKu_mXh5BE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1289403221515620946",
   "placeId": "ChIJnQ-c05QJK4cRUtKu_mXh5BE",
   "googleRating": 4.9,
-  "googleReviewCount": 746,
+  "googleReviewCount": 811,
   "priceRange": "$1–10",
   "description": "Outpost of a local chain bakery selling classic & specialty donuts, pastries & coffee.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Apple Pay",
-    "Credit card",
-    "Cash",
-    "Google Pay",
-    "Coffee",
-    "Pets: Inside"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "6:00 AM - 8:00 PM",
@@ -58,5 +42,14 @@
   "groundgameId": "6a2437ca58c67223e3edc1fd",
   "seededAt": "2026-06-06T15:07:54Z",
   "updatedAt": "2026-07-22T19:38:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 6,
+    "4": 12,
+    "5": 788
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3XT3riP4s9KWEaPzVzytio12BvUImqGFfkgFIG_TU0c8wv334-iE-hdc51Gq81MfR2eHH0rzZmDR7cih5zMqzm7jMYj9GwQ9U-FvJP7tYJlxDq77u8SJWj0lxm8DkP4HjTmDiKA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

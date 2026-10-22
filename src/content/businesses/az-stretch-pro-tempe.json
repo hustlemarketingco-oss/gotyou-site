@@ -1,0 +1,42 @@
+{
+  "slug": "az-stretch-pro-tempe",
+  "name": "AZ Stretch Pro",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "2333 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391517,
+  "lng": -111.88988219999999,
+  "phone": "+14806050264",
+  "website": "http://azstretchpro.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZ+Stretch+Pro/data=!4m7!3m6!1s0x44300e43b86cf919:0xb747e486da185161!8m2!3d33.391517!4d-111.8898822!16s%2Fg%2F11s7tw6w1p!19sChIJGflsuEMOMEQRYVEY2obkR7c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13206775700123046241",
+  "placeId": "ChIJGflsuEMOMEQRYVEY2obkR7c",
+  "googleRating": 5,
+  "googleReviewCount": 15,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1wKdc9hqMFpCSqr9zVe0Cw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=93.45729&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 15
+  },
+  "hours": {
+    "mon": "9:00 AM - 2:00 PM",
+    "tue": "9:00 AM - 2:00 PM",
+    "wed": "9:00 AM - 2:00 PM",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

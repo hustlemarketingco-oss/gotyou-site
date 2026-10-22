@@ -1,0 +1,41 @@
+{
+  "slug": "proyecto-coffee-bar-tempe",
+  "name": "Proyecto Coffee Bar",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee stand",
+  "address": "2626 S Hardy Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4005187,
+  "lng": -111.9528787,
+  "phone": "+14804856390",
+  "website": "http://proyectocoffee.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Proyecto+Coffee+Bar/data=!4m7!3m6!1s0x872b0fa6be607ae9:0xb017abb272fe00ee!8m2!3d33.4005187!4d-111.9528787!16s%2Fg%2F11w_cp4czl!19sChIJ6XpgvqYPK4cR7gD-crKrF7A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12688799258061439214",
+  "placeId": "ChIJ6XpgvqYPK4cR7gD-crKrF7A",
+  "googleRating": 4.4,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7izQNvixrddFwZCkW-TKEQ2RrQ_xZY3i-ksb4z6CBetm7O0vrIjRbfkVYKQFpQ6l0WwYTIoc-bGYytIHOpaJEodeALfc5gnEwORkzVDhN1qFMBvxYjv4kXtlLOqpFNdc0uhqD=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "4": 1,
+    "5": 15
+  },
+  "hours": {
+    "mon": "8:00 AM - 3:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

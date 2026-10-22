@@ -1,0 +1,31 @@
+{
+  "slug": "heather-massage-and-spa-tempe",
+  "name": "Heather Massage and spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "727 E Taylor St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4539134,
+  "lng": -111.9281455,
+  "phone": "+14025431747",
+  "googleMapsUrl": "https://www.google.com/maps/place/Heather+Massage+and+spa/data=!4m7!3m6!1s0x872b094046a1d679:0x2051498b91935f31!8m2!3d33.4539134!4d-111.9281455!16s%2Fg%2F11zy27qgyc!19sChIJedahRkAJK4cRMV-TkYtJUSA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2328723346118893361",
+  "placeId": "ChIJedahRkAJK4cRMV-TkYtJUSA",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

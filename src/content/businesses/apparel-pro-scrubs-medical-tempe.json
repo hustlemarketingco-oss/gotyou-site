@@ -1,0 +1,49 @@
+{
+  "slug": "apparel-pro-scrubs-medical-tempe",
+  "name": "Apparel Pro Scrubs & Medical",
+  "category": "Shopping",
+  "googleCategory": "Uniform store",
+  "secondaryCategories": [
+    "Medical equipment supplier"
+  ],
+  "address": "2150 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422232799999996,
+  "lng": -111.9716813,
+  "phone": "+14808944632",
+  "website": "http://www.apparelprousa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Apparel+Pro+Scrubs+%26+Medical/data=!4m7!3m6!1s0x872b0edf22e2b525:0xe636e11f6a805957!8m2!3d33.4222328!4d-111.9716813!16s%2Fg%2F1hd_5jx7x!19sChIJJbXiIt8OK4cRV1mAah_hNuY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16588693802512832855",
+  "placeId": "ChIJJbXiIt8OK4cRV1mAah_hNuY",
+  "googleRating": 4.8,
+  "googleReviewCount": 249,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6pfwR0aDN_69hjtBGwdZUQ2O6h0Pe1lPLny87f7prkCDMsWYRX46tdDTENxj4JLyKGqW3_jwYSnCqXC9aBN7MH8PCPSi2CYzhTMLP332sDguCAydDl3Eunn48vDuEuVnTVGm9zQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 1,
+    "3": 7,
+    "4": 9,
+    "5": 223
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

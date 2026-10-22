@@ -1,0 +1,27 @@
+{
+  "slug": "salon-beauremy-tempe",
+  "name": "Salon Beauremy",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1840 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3358576,
+  "lng": -111.9083682,
+  "phone": "+14803165239",
+  "googleMapsUrl": "https://www.google.com/maps/place/Salon+Beauremy/data=!4m7!3m6!1s0x872b06e333574053:0x5b610cf4538c0272!8m2!3d33.3358576!4d-111.9083682!16s%2Fg%2F11kc8my8fn!19sChIJU0BXM-MGK4cRcgKMU_QMYVs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6584558373705613938",
+  "placeId": "ChIJU0BXM-MGK4cRcgKMU_QMYVs",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G7I1Ao0XHobB-bO9a0tWKA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=337.54596&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

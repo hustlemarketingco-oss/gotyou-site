@@ -1,0 +1,58 @@
+{
+  "slug": "burlington-tempe",
+  "name": "Burlington",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Baby clothing store",
+    "Children's clothing store",
+    "Department store",
+    "Discount store",
+    "Home goods store",
+    "Jewelry store",
+    "Luggage store",
+    "Men's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 525",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3824956,
+  "lng": -111.9654769,
+  "phone": "+14808974700",
+  "website": "https://www.burlington.com/stores/az/tempe/287?utm_source=google&utm_medium=organic&utm_campaign=maps",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burlington/data=!4m7!3m6!1s0x872b0f59e1444903:0x5a1f076ccc0ac8c3!8m2!3d33.3824956!4d-111.9654769!16s%2Fg%2F1wzt2vdl!19sChIJA0lE4VkPK4cRw8gKzGwHH1o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6493917351552665795",
+  "placeId": "ChIJA0lE4VkPK4cRw8gKzGwHH1o",
+  "googleRating": 4.3,
+  "googleReviewCount": 857,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-c2q1ky1PGgKf3f5AWj2q67fZtKBVP7z_p3rVEkUy44OItIPBoXNfIUwzEFa70QLLcvgnIPtOZqSL7RhJPI21Qhpd9Mh8wvI40BiInkB3QX1ItUUWDlPg_Mmak-l3dA4Jotgicajq8WP7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 45,
+    "2": 29,
+    "3": 90,
+    "4": 177,
+    "5": 516
+  },
+  "hours": {
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 11:00 PM",
+    "fri": "9:00 AM - 11:30 PM",
+    "sat": "9:00 AM - 11:30 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

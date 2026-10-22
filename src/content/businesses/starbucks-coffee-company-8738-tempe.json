@@ -1,0 +1,56 @@
+{
+  "slug": "starbucks-coffee-company-8738-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "address": "8738 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.334933,
+  "lng": -111.9672322,
+  "phone": "+14803182766",
+  "website": "https://www.starbucks.com/store-locator/store/1023547",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b05397ee918a7:0xcc70bc23a005528a!8m2!3d33.334933!4d-111.9672322!16s%2Fg%2F11gybp6cg0!19sChIJpxjpfjkFK4cRilIFoCO8cMw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14731481242323473034",
+  "placeId": "ChIJpxjpfjkFK4cRilIFoCO8cMw",
+  "googleRating": 4.3,
+  "googleReviewCount": 595,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJqqvCyHup5M61BGnYMtYmZ-53GSyoiGTVtR1AAlpkM-Ye7mgbkMekcRKjjSz5KvioeSOlMJtFQ3x9PL_VN6h5N4vW1B7twSGHTJ7k1hviGwH4oWaPmH-T2zGXPcAcQudyLnnNsg=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 17,
+    "3": 38,
+    "4": 82,
+    "5": 406
+  },
+  "hours": {
+    "mon": "4:00 AM - 9:00 PM",
+    "tue": "4:00 AM - 9:00 PM",
+    "wed": "4:00 AM - 9:00 PM",
+    "thu": "4:00 AM - 9:00 PM",
+    "fri": "4:00 AM - 9:00 PM",
+    "sat": "4:00 AM - 9:00 PM",
+    "sun": "4:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

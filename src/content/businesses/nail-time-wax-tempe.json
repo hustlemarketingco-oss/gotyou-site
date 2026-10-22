@@ -1,0 +1,49 @@
+{
+  "slug": "nail-time-wax-tempe",
+  "name": "Nail Time & Wax",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Waxing hair removal service"
+  ],
+  "address": "840 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3931822,
+  "lng": -111.9266722,
+  "phone": "+14804272312",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nail+Time+%26+Wax/data=!4m7!3m6!1s0x872b0898f31956db:0x31a8294188491b58!8m2!3d33.3931822!4d-111.9266722!16s%2Fg%2F1wfvn381!19sChIJ21YZ85gIK4cRWBtJiEEpqDE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3578155265381964632",
+  "placeId": "ChIJ21YZ85gIK4cRWBtJiEEpqDE",
+  "googleRating": 4.1,
+  "googleReviewCount": 193,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLch21lZgORykGx4Q15qTn2z7Vi22YzQLGrmyEkVOOHozguP75KOADmnY7KkmEJtxwOjp06XWfJ9vXFnqORrFqvxgnMQCaDdxwcDjfDxDPDRuRUbivh-N6Qp3qnNQhX3dDAtPuWfWg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 7,
+    "3": 5,
+    "4": 17,
+    "5": 134
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "9:00 AM - 6:30 PM",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

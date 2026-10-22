@@ -1,0 +1,48 @@
+{
+  "slug": "glenrosa-restaurant-tempe",
+  "name": "Glenrosa Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "1415 N Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.444973399999995,
+  "lng": -111.9481326,
+  "phone": "+14805309875",
+  "website": "https://grassclippingsaz.com/pages/glenrosa-bar-and-restaurant",
+  "googleMapsUrl": "https://www.google.com/maps/place/Glenrosa+Restaurant/data=!4m7!3m6!1s0x872b091fbb26e481:0xed82bad5c06cb914!8m2!3d33.4449734!4d-111.9481326!16s%2Fg%2F11x119w3g2!19sChIJgeQmux8JK4cRFLlswNW6gu0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17114446961180457236",
+  "placeId": "ChIJgeQmux8JK4cRFLlswNW6gu0",
+  "googleRating": 4,
+  "googleReviewCount": 101,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKYFJJsAR687FBufzXbXUPaan3hxq0Qb9z60OQQNWY1_pqB5Mn9zjtTg3xNVJ-DuSONPHBvZirt622ke2D6hQN901Wm1T00AaG2rknSAe26YNN5FmyvW4xYsIQ2UmgTlAL-P5bT9ddo7Nq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 5,
+    "3": 8,
+    "4": 7,
+    "5": 65
+  },
+  "hours": {
+    "mon": "4:00 PM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "Closed",
+    "sun": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

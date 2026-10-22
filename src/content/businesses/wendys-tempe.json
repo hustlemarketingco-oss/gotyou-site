@@ -15,8 +15,8 @@
   "phone": "+14809422707",
   "website": "https://locations.wendys.com/united-states/az/tempe/1250-west-broadway-rd",
   "placeId": "ChIJGfc3HQAPK4cRbrQ_WMwPX54",
-  "googleRating": 2.4,
-  "googleReviewCount": 89,
+  "googleRating": 2.5,
+  "googleReviewCount": 112,
   "hours": {
     "mon": "6:30 AM - 2:00 AM",
     "tue": "6:30 AM - 2:00 AM",
@@ -32,5 +32,21 @@
   "groundgameId": "6a2c1dcda946ad10c1e0a533",
   "seededAt": "2026-06-12T14:55:09Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11411857351108441198",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x872b0f001d37f719:0x9e5f0fcc583fb46e!8m2!3d33.4078682!4d-111.9578849!16s%2Fg%2F11xnh2nkzw!19sChIJGfc3HQAPK4cRbrQ_WMwPX54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 16,
+    "3": 4,
+    "4": 10,
+    "5": 29
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-LnF7Vzeky92hEY0Fzc2rPUkP4Tf_CaYeUk5ocoTnYoiDY8J05wYEtmJxiFPy246KiTg-miNdVNAnjaFml9jU1DZKPygOWMknnsBkrq_03CLSI_hnmxXnIIlyFQNXJ5YLiIRjIg8rmIxm=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

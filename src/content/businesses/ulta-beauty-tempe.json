@@ -1,0 +1,52 @@
+{
+  "slug": "ulta-beauty-tempe",
+  "name": "Ulta Beauty",
+  "category": "Shopping",
+  "googleCategory": "Cosmetics store",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Hairdresser"
+  ],
+  "address": "55 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.431812,
+  "lng": -111.9082337,
+  "phone": "+14809688200",
+  "website": "https://www.ulta.com/stores/tempe-az-185",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ulta+Beauty/data=!4m7!3m6!1s0x872b0901e93e359f:0x53f053fc6c90f6aa!8m2!3d33.431812!4d-111.9082337!16s%2Fg%2F1tdlc5dn!19sChIJnzU-6QEJK4cRqvaQbPxT8FM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6048426643176879786",
+  "placeId": "ChIJnzU-6QEJK4cRqvaQbPxT8FM",
+  "googleRating": 4.1,
+  "googleReviewCount": 1092,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIbmU877Hd0qDxgiigEbR2oI4Wddc4V96vfoISf_tD-w4tJ3pHkMDtgYh_L87Ii8BadroEqufMMnLliY-iUsBzff3A_8pBw4-vwyACVKPj14RemFltUWlugOBVNtfrL2WOM435oAfRef4h=w1200-h800-k-no",
+  "description": "Chain with a diverse selection of cosmetics & other beauty products, plus on-site salon services.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 132,
+    "2": 52,
+    "3": 75,
+    "4": 183,
+    "5": 650
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "bashas-tempe",
+  "name": "Bashas'",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "address": "1761 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3332879,
+  "lng": -111.9121825,
+  "phone": "+14808399778",
+  "website": "http://www.bashas.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bashas%27/data=!4m7!3m6!1s0x872b07dd9b801f13:0xbceee52691080bc7!8m2!3d33.3332879!4d-111.9121825!16s%2Fg%2F11t1h71tf0!19sChIJEx-Am90HK4cRxwsIkSbl7rw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13614070677392329671",
+  "placeId": "ChIJEx-Am90HK4cRxwsIkSbl7rw",
+  "googleRating": 4.3,
+  "googleReviewCount": 188,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQlqR573Jy-Q0xr6yljossrn0T2RHK0TqziLR5eUgv-QVGKDsgGmRFAs6NyLrVarqUCc2Bq9fvGnw4D4nD6RKXfUo51VsGQZO99bET2yw6I_QCwOW_BTUa26mRlLmmqkMvcMs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 9,
+    "3": 12,
+    "4": 32,
+    "5": 121
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "6:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

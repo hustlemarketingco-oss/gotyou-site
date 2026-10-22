@@ -1,0 +1,46 @@
+{
+  "slug": "steve-madden-tempe",
+  "name": "Steve Madden",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "5000 S Arizona Mills Cir Spc 301",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382435,
+  "lng": -111.9638913,
+  "phone": "+14807307099",
+  "website": "https://www.stevemadden.com/pages/store-locator/arizona-mills",
+  "googleMapsUrl": "https://www.google.com/maps/place/Steve+Madden/data=!4m7!3m6!1s0x872b0f59e1444903:0x58cfd964f203358f!8m2!3d33.382435!4d-111.9638913!16s%2Fg%2F11byyrmqwb!19sChIJA0lE4VkPK4cRjzUD8mTZz1g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6399572623097017743",
+  "placeId": "ChIJA0lE4VkPK4cRjzUD8mTZz1g",
+  "googleRating": 4.2,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLTq-Kg3As7yAeCXjgsuNgrbTteCY6wINHDiqJrznGkdVG6xkvCoFQsDsq6L38TFFIzWcQCNsSNA7B0xDxJsDci4kT8IUP0Mhgr1dsUeVA2L24LNywgnAuVCBkYFokger96vYY=w1200-h800-k-no",
+  "description": "Chain retailer featuring a variety of fashion-forward footwear & accessories for men & women.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "3": 5,
+    "4": 5,
+    "5": 34
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

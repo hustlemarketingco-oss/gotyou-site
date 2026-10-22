@@ -1,0 +1,52 @@
+{
+  "slug": "the-salvation-army-thrift-store-donation-center-tempe",
+  "name": "The Salvation Army Thrift Store & Donation Center",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Non-profit organization",
+    "Second hand store",
+    "Used clothing store",
+    "Vintage clothing store"
+  ],
+  "address": "2324 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4544144,
+  "lng": -111.92705099999999,
+  "phone": "+14809454758",
+  "website": "http://phoenixarc.salvationarmy.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Salvation+Army+Thrift+Store+%26+Donation+Center/data=!4m7!3m6!1s0x872b096a1788f297:0x4ba3c4224d2044ee!8m2!3d33.4544144!4d-111.927051!16s%2Fg%2F1tcyxx03!19sChIJl_KIF2oJK4cR7kQgTSLEo0s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5450415625650324718",
+  "placeId": "ChIJl_KIF2oJK4cR7kQgTSLEo0s",
+  "googleRating": 4.3,
+  "googleReviewCount": 247,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9mzuG9DPE8x78-NmRYFxHCLrog0pkx48p-Fx-jlkyVSy1OER53DUYqTLFxuXqP2laFZ4gTyDbl76n-w46lH5VWlRt_GyUlcdD9XtvqiTGOhnyUQLAx1_ybFl-ODRkctnAT5q9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 12,
+    "3": 20,
+    "4": 44,
+    "5": 156
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

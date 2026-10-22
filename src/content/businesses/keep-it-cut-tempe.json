@@ -1,0 +1,51 @@
+{
+  "slug": "keep-it-cut-tempe",
+  "name": "Keep It Cut - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Barber shop"
+  ],
+  "address": "5118 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3799041,
+  "lng": -111.92972619999999,
+  "phone": "+14808313879",
+  "website": "https://keepitcut.com/locations-page/keep-it-cut-tempe-kiwanis/?y_source=1_ODA0MDEwNzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Keep+It+Cut+-+Tempe/data=!4m7!3m6!1s0x872b0618ca7ae9a3:0xc011260b5120b085!8m2!3d33.3799041!4d-111.9297262!16s%2Fg%2F11bxd8kkhd!19sChIJo-l6yhgGK4cRhbAgUQsmEcA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13839884959933837445",
+  "placeId": "ChIJo-l6yhgGK4cRhbAgUQsmEcA",
+  "googleRating": 4.6,
+  "googleReviewCount": 436,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLft2pna8q9yCzgTWy8ehYYEq6drtdgwLhLADyGb1GVIh6OKREykMfNF65xQaviyE3QvOuv45kAWa-WRxQBv20Y4Cm3L9-EFma3U6oodr0k0yZ4sRjWzEbpHmW0bcsCUtZf0adIV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 5,
+    "3": 12,
+    "4": 24,
+    "5": 362
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

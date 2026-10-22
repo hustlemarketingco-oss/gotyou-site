@@ -1,0 +1,42 @@
+{
+  "slug": "tuleys-flowershop-tempe",
+  "name": "Tuley's Flowershop",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "address": "2016 E Wildermuth Ave Ste 1130",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4139026,
+  "lng": -111.89944419999999,
+  "phone": "+15207050110",
+  "website": "https://tuleysflowershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tuley%27s+Flowershop/data=!4m7!3m6!1s0x872b0bbc2589a5f1:0x1175651c792e98c1!8m2!3d33.4139026!4d-111.8994442!16s%2Fg%2F11zbpvymy_!19sChIJ8aWJJbwLK4cRwZgueRxldRE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1258022843886508225",
+  "placeId": "ChIJ8aWJJbwLK4cRwZgueRxldRE",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfix-7oJabWEtitIjy6Nrcdu5BotGrips4CtQO84LBCmpJ5Hp9QeQ6gz_wrkss3l-EVDrIAcdF2BeVWVSwvcqK1CnD-2GAE5J9WAQmWPnJ17o93Z44m-EB6bjkRWJ9Nce8dbvEhGEfTNRap=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -11,25 +11,18 @@
   "lng": -111.9232535,
   "phone": "+14803076037",
   "website": "https://www.menchies.com/locations/frozen-yogurt-the-collective-az",
-  "googleMapsUrl": "https://www.google.com/maps?cid=7963906615788000651",
+  "googleMapsUrl": "https://www.google.com/maps/place/Menchie%27s+Frozen+Yogurt/data=!4m7!3m6!1s0x872b077b70f6b91f:0x6e857adf5a6d558b!8m2!3d33.3786124!4d-111.9232535!16s%2Fg%2F11h7k15zn0!19sChIJH7n2cHsHK4cRi1VtWt96hW4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "7963906615788000651",
   "placeId": "ChIJH7n2cHsHK4cRi1VtWt96hW4",
   "googleRating": 4.5,
-  "googleReviewCount": 173,
+  "googleReviewCount": 180,
   "priceRange": "$",
   "description": "Cheerful self-serve chain with dozens of frozen yogurt flavors & toppings, sold by weight.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "12:00 PM - 11:00 PM",
@@ -46,5 +39,14 @@
   "groundgameId": "6a2435ecb3ee3e34a1e8cdb7",
   "seededAt": "2026-06-06T14:59:56Z",
   "updatedAt": "2026-08-09T21:54:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 4,
+    "4": 27,
+    "5": 135
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHwDkmBfNVPVedVDMOOdvUqvpG81MX7ydvtIbH192QUCh8XktIqbhrK2Oinq46VnkcZ6mZgCGRq842ZeJuoXAkDCtJ6Wbw3rWpC5QqJ3MgmINZvgPsZNBTfUuTjIGeDMBPhKY=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

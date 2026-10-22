@@ -1,0 +1,46 @@
+{
+  "slug": "phenix-salon-suites-tempe",
+  "name": "Phenix Salon Suites",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1761 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.333287999999996,
+  "lng": -111.9129615,
+  "phone": "+16026164344",
+  "website": "http://phenixsalonaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phenix+Salon+Suites/data=!4m7!3m6!1s0x872b06e4ee51d0e9:0xcad7feb57a1d02d4!8m2!3d33.333288!4d-111.9129615!16s%2Fg%2F11dxdrvxz5!19sChIJ6dBR7uQGK4cR1AIderX-18o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14616431171045491412",
+  "placeId": "ChIJ6dBR7uQGK4cR1AIderX-18o",
+  "googleRating": 4.6,
+  "googleReviewCount": 43,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIIa91TzNHkhFWNvuUbIB7gzBvDTcq5B_F059nWOhOeiLUUyzxCCkkWiinCmkIQxaO822duttPQqiAgQLwNNZdDPNX5yihnspDBtnYHgmdnQbPHgwkheTkoGH2gzzedtXetJM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 1,
+    "4": 2,
+    "5": 37
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

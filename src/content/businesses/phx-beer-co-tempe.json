@@ -15,24 +15,18 @@
   "lng": -111.9648248,
   "phone": "+16022755049",
   "website": "https://www.phxbeerco.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=119970887258830271",
+  "googleMapsUrl": "https://www.google.com/maps/place/PHX+Beer+Co./data=!4m7!3m6!1s0x872b0e7144e97551:0x1aa38e2e67375bf!8m2!3d33.3568521!4d-111.9648248!16s%2Fg%2F1th87lbx!19sChIJUXXpRHEOK4cRv3Vz5uI4qgE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "119970887258830271",
   "placeId": "ChIJUXXpRHEOK4cRv3Vz5uI4qgE",
   "googleRating": 4.4,
-  "googleReviewCount": 230,
+  "googleReviewCount": 229,
   "priceRange": "$",
   "description": "Microbrewery in an old warehouse with tours & tastings, plus a no-frills taproom serving pizza.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "3:00 PM - 8:00 PM",
@@ -49,5 +43,14 @@
   "groundgameId": "6a24379f4646a6c6395e69ab",
   "seededAt": "2026-06-06T15:07:11Z",
   "updatedAt": "2026-06-06T15:07:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 2,
+    "3": 9,
+    "4": 32,
+    "5": 166
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhC7gnAY3hxZWSSPJ3vJpPwvmNdLcfbR4FA_d6n6KqXEU_23CDmzhQtC4Ox74sEpk2B9-ak0nfLN7FWgYPnM39dOuTsR5zlgeg3mxg87dkJPtj_DjOGCMzN2Mrdt5drbJhpLoc=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

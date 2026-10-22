@@ -17,8 +17,8 @@
   "phone": "+16028033800",
   "website": "https://www.dragonflame.us/",
   "placeId": "ChIJ4zMk1-4IK4cReN3nM6hiMrA",
-  "googleRating": 4.6,
-  "googleReviewCount": 3713,
+  "googleRating": 4.5,
+  "googleReviewCount": 3814,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 11:00 PM",
@@ -35,5 +35,21 @@
   "groundgameId": "6a3edc8a0de20ff34c6ba944",
   "seededAt": "2026-06-26T20:09:46Z",
   "updatedAt": "2026-06-26T20:09:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12696318774075710840",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dragon+Flame+Chinese+Grill+%E9%BE%99%E7%84%B1%E7%83%A7%E7%83%A4/data=!4m7!3m6!1s0x872b08eed72433e3:0xb03262a833e7dd78!8m2!3d33.4165547!4d-111.9254906!16s%2Fg%2F11c2q3m4tx!19sChIJ4zMk1-4IK4cReN3nM6hiMrA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 275,
+    "2": 71,
+    "3": 85,
+    "4": 243,
+    "5": 3140
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT7gS-1uymTX09ZIBP7gzpdOjsNH2vmgYmiFaD6cvAca0VsgHaGeEr9K-gZp_Yee9e3ylLW5BXvdjL-KVo6iK_fwAQBdMZVIg24FqCOyOpSL-HcL1vgKACVQLwRWTL8HtX97w0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

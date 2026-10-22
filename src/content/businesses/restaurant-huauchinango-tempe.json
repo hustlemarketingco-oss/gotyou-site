@@ -15,7 +15,7 @@
   "phone": "+14802338669",
   "placeId": "ChIJ5YCwg78JK4cRcSJcPhUDtkA",
   "googleRating": 4.8,
-  "googleReviewCount": 150,
+  "googleReviewCount": 162,
   "priceRange": "$",
   "hours": {
     "mon": "9:00 AM - 6:00 PM",
@@ -32,5 +32,21 @@
   "groundgameId": "6a74d8df39a978670ccdcb0a",
   "seededAt": "2026-08-06T18:56:31Z",
   "updatedAt": "2026-08-06T18:59:51Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4662917853964149361",
+  "googleMapsUrl": "https://www.google.com/maps/place/Restaurant+Huauchinango/data=!4m7!3m6!1s0x872b09bf83b080e5:0x40b603153e5c2271!8m2!3d33.4216073!4d-111.943868!16s%2Fg%2F11lmhtp33y!19sChIJ5YCwg78JK4cRcSJcPhUDtkA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 4,
+    "4": 10,
+    "5": 145
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_EtS8-kR4hhpC_RprVk1ZqK25JM9rcioUociIcU2nO7oVdyHJHHBOrogkFTLyoc1TG0SLyJb3R49_aDA1xTSu6BgVaoskflGfi1qxrland4Pwb34J7QqJwjFmAXInZDlZtDPfpA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

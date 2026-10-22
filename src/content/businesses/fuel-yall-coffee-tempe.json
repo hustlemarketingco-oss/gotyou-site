@@ -1,0 +1,33 @@
+{
+  "slug": "fuel-yall-coffee-tempe",
+  "name": "Fuel Yall Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "1730 E Warner Rd #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3353719,
+  "lng": -111.9118714,
+  "phone": "+14802568763",
+  "website": "https://www.fuelyallcoffee.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fuel+Yall+Coffee/data=!4m7!3m6!1s0x872b076138b6b281:0x8b0026809f5b40b7!8m2!3d33.3353719!4d-111.9118714!16s%2Fg%2F11zxj8nn0g!19sChIJgbK2OGEHK4cRt0Bbn4AmAIs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10016047905143210167",
+  "placeId": "ChIJgbK2OGEHK4cRt0Bbn4AmAIs",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTlbehkFeHS3wJWjoc-3bUXp2Fn9Srv2TwRGPh5hfkpxkTNAjI2sBEcmfStFGMyZjC8diHrDFLMRdQrh4ZTJayRxIXZvBAKak989YSBhlfns9D6va8O5kA5WdFyjgmzXs910L07zTucn_w=w1200-h800-k-no",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

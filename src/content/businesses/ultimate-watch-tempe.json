@@ -1,0 +1,27 @@
+{
+  "slug": "ultimate-watch-tempe",
+  "name": "ultimate watch",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "8749 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352801,
+  "lng": -111.92782799999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/ultimate+watch/data=!4m7!3m6!1s0x872b070007948e6b:0xcaa016b4746af7f2!8m2!3d33.3352801!4d-111.927828!16s%2Fg%2F11xc_trqg1!19sChIJa46UBwAHK4cR8vdqdLQWoMo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14600694956238239730",
+  "placeId": "ChIJa46UBwAHK4cR8vdqdLQWoMo",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MyhVP2DLZ55EjUnqxU1jAw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=273.1672&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

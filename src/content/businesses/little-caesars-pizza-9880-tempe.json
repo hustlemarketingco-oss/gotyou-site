@@ -1,0 +1,52 @@
+{
+  "slug": "little-caesars-pizza-9880-tempe",
+  "name": "Little Caesars Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "9880 S Rural Rd Ste B108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3221106,
+  "lng": -111.9294864,
+  "phone": "+14807855333",
+  "website": "https://littlecaesars.com/en-us/store/9065",
+  "googleMapsUrl": "https://www.google.com/maps/place/Little+Caesars+Pizza/data=!4m7!3m6!1s0x872b069551cc66ed:0x3970e44dbdb9ece0!8m2!3d33.3221106!4d-111.9294864!16s%2Fg%2F1tfntgp_!19sChIJ7WbMUZUGK4cR4Oy5vU3kcDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4139059080100179168",
+  "placeId": "ChIJ7WbMUZUGK4cR4Oy5vU3kcDk",
+  "googleRating": 3.8,
+  "googleReviewCount": 350,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgBp_IWS32axgXHuiDYCcILR6F15O4vADG1PZmjEMrrgldFgyEjY7fQKZg3g06PwF_teOEfTGnkiqur-N7x8e1YoNh3Rrde6AoEmAIbyfXyrMg6T3qKKB8QFcYU_Vv_fb6z4cH=w1200-h800-k-no",
+  "description": "Carry-out chain featuring chicken wings, signature breadsticks & pizza tossed from housemade dough.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 59,
+    "2": 21,
+    "3": 41,
+    "4": 54,
+    "5": 175
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

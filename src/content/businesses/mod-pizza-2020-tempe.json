@@ -16,7 +16,7 @@
   "website": "https://locations.modpizza.com/usa/az/tempe/2020-e-elliot-rd",
   "placeId": "ChIJbdpdXqoHK4cR19F-x5jksPk",
   "googleRating": 4.5,
-  "googleReviewCount": 895,
+  "googleReviewCount": 905,
   "priceRange": "$",
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a342d0cc009cbf6e5f712c0",
   "seededAt": "2026-06-18T17:38:20Z",
   "updatedAt": "2026-06-18T17:38:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17992131856178270679",
+  "googleMapsUrl": "https://www.google.com/maps/place/MOD+Pizza/data=!4m7!3m6!1s0x872b07aa5e5dda6d:0xf9b0e498c77ed1d7!8m2!3d33.3497973!4d-111.9015692!16s%2Fg%2F11bw4sr9r6!19sChIJbdpdXqoHK4cR19F-x5jksPk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 18,
+    "3": 42,
+    "4": 172,
+    "5": 637
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1Wdy2FPylCROwviLPIcLYC8pPPli7aUfQQwU8UdsWNj6vEfRFbFyEDsjT2Kt5Dkfbtz3YjQvjiwMPakC5_Vu_PqymyJDYtoXSDBXmp4qF-i-9xiCASyMcl5llVWlxSAzMD5I=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

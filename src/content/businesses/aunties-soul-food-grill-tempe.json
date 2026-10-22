@@ -1,0 +1,45 @@
+{
+  "slug": "aunties-soul-food-grill-tempe",
+  "name": "Auntie’s Soul Food & Grill",
+  "category": "Restaurant",
+  "googleCategory": "Soul food restaurant",
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4262191,
+  "lng": -111.9039952,
+  "website": "https://tempefoodcourt.com/s/auntie's-soul-food-and-grill/1900-e-5th-st-tempe/4a881d07-0b14-4e3a-8809-c3d6bafa5617",
+  "googleMapsUrl": "https://www.google.com/maps/place/Auntie%E2%80%99s+Soul+Food+%26+Grill/data=!4m7!3m6!1s0x872b090006193675:0x2a368382dea552e6!8m2!3d33.4262191!4d-111.9039952!16s%2Fg%2F11zcgqthmm!19sChIJdTYZBgAJK4cR5lKl3oKDNio?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3041763196439712486",
+  "placeId": "ChIJdTYZBgAJK4cR5lKl3oKDNio",
+  "googleRating": 4.3,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwI0K8aPOik0UZvrWA18YGAlEBJHRwQdjU3oFM_3esm2YOueNfWhPsdTh8GX6BsZgWshGcRX210Xs2pbqPtBxYAbnQ3SujDABRr_Ngdrb78OdL9WuAPgV--cVa-n3jcltK-YVtft57idI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

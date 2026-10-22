@@ -16,21 +16,8 @@
   "priceRange": "$1–10",
   "description": "Located in Tempe, Bones and Brü is a casual, cozy coffee shop & cafe with coffee & private dining room, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/bonesandbru"
@@ -41,5 +28,29 @@
   "groundgameId": "6a24391f8d58f67ca4e4e031",
   "seededAt": "2026-06-06T15:13:35Z",
   "updatedAt": "2026-06-09T01:18:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ2YWI_sITK4cRQYQAJVwD49s",
+  "googleCid": "15844511608312202305",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bones+and+Br%C3%BC/data=!4m7!3m6!1s0x872b13c2fe8885d9:0xdbe3035c25008441!8m2!3d33.4293582!4d-111.944678!16s%2Fg%2F11vknm265t!19sChIJ2YWI_sITK4cRQYQAJVwD49s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 48,
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 46
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-P6yMrRP-W2b78lazqce9tBvMadiSFkTzLNKqrOLAjcPceJJZ934AhzK3v_eryY1DHSWyjLzWHcbxIwB8unTi77eTRIWZXX8cKMezDnNC7Elihz4BiS-O6DyrHYYh9-JxTUMGyfjyw_Ut=w1200-h800-k-no",
+  "website": "http://bonesandbru.com/",
+  "hours": {
+    "mon": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM",
+    "tue": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM",
+    "wed": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM",
+    "thu": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM",
+    "fri": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM",
+    "sat": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM",
+    "sun": "7:00 AM - 11:00 AM, 3:00 PM - 7:00 PM"
+  },
+  "lat": 33.429358199999996,
+  "lng": -111.944678,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "gemini-barber-studio-tempe",
+  "name": "Gemini Barber Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7720 S Priest Dr Ste 18",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348132,
+  "lng": -111.96532339999999,
+  "phone": "+16023015138",
+  "website": "https://unit.link/cutsbymandoaz",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gemini+Barber+Studio/data=!4m7!3m6!1s0x872b05a2749921ab:0xc011f3eeeff35e39!8m2!3d33.348132!4d-111.9653234!16s%2Fg%2F11yp6y55f_!19sChIJqyGZdKIFK4cROV7z7-7zEcA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13840111337439714873",
+  "placeId": "ChIJqyGZdKIFK4cROV7z7-7zEcA",
+  "googleRating": 5,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXWxC5cc2j-jOsFEuKSpDSu9iz6Dg1hUbNLKl4hfavjyruST4FASq4RQgPT-4IwOyrAd0j5KQmBE0I95NynMW8Gi0-HhdJ0rhyXdjtRnIzEKQ3HLY6Gy38oL1f-snjLk8rfO2zIWi4GUdu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 21
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

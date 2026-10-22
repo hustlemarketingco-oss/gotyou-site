@@ -1,0 +1,46 @@
+{
+  "slug": "gentleman-joes-barbershop-tempe",
+  "name": "Gentleman Joe's Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "5000 S Arizona Mills Cir #398",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3810611,
+  "lng": -111.96470559999999,
+  "phone": "+14804568737",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/gentleman-joes-barbershop",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gentleman+Joe%27s+Barbershop/data=!4m7!3m6!1s0x872b0f59e1444903:0xa50d9c71e86c7efd!8m2!3d33.3810611!4d-111.9647056!16s%2Fg%2F1vqmjv73!19sChIJA0lE4VkPK4cR_X5s6HGcDaU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11893334204000009981",
+  "placeId": "ChIJA0lE4VkPK4cR_X5s6HGcDaU",
+  "googleRating": 3.7,
+  "googleReviewCount": 164,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN46vE81cibGwzoxZm8kfsyn5hIoEbn5yt6rQTHaLxOSbOTQ1KJboE662pFYZKTuS7kWPbv3TbqmIaqHdHmjy98kC1jocQ60prV5p88JBPYVvB-RF7Z5wdWyqeGYIn9TOkmSFvcn-9hqgb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 7,
+    "3": 4,
+    "4": 15,
+    "5": 96
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

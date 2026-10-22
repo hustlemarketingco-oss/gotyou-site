@@ -2,7 +2,7 @@
   "slug": "genuine-fresche-tempe",
   "name": "Genuine Fresche - Tempe",
   "category": "Coffee & Cafe",
-  "googleCategory": "Acai shop",
+  "googleCategory": "Açaí shop",
   "secondaryCategories": [
     "Juice shop",
     "Vegetarian restaurant",
@@ -18,13 +18,12 @@
   "website": "http://genuinefresche.com/",
   "placeId": "ChIJuUAw6YMIK4cR28YyoVhZAGQ",
   "googleRating": 4.1,
-  "googleReviewCount": 294,
+  "googleReviewCount": 301,
   "priceRange": "$",
   "amenities": [
-    "Google Pay",
-    "Apple Pay",
-    "Cash",
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "8:00 AM - 7:00 PM",
@@ -41,5 +40,16 @@
   "groundgameId": "6a4ea13a5f6d49f630fa92ec",
   "seededAt": "2026-07-08T19:12:58Z",
   "updatedAt": "2026-07-27T20:06:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7205857640989247195",
+  "googleMapsUrl": "https://www.google.com/maps/place/Genuine+Fresche+-+Tempe/data=!4m7!3m6!1s0x872b0883e93040b9:0x64005958a132c6db!8m2!3d33.3941004!4d-111.9107511!16s%2Fg%2F1hjgwnjnf!19sChIJuUAw6YMIK4cR28YyoVhZAGQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 17,
+    "3": 17,
+    "4": 39,
+    "5": 193
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccIBDoC4lCx3cOrsjwccSUvnjmJp-LAwQ_vD9wDzfbOKWTDfYhHsICbc3Og_H21dSEkpGfwoBch56wsqh0xdYAMd00N0hfVEg_SgatmgH2O3RRLEno5sW1TeXqVZT67M6EgOISUA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

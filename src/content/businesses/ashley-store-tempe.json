@@ -1,0 +1,58 @@
+{
+  "slug": "ashley-store-tempe",
+  "name": "Ashley Store",
+  "category": "Shopping",
+  "googleCategory": "Furniture store",
+  "secondaryCategories": [
+    "Bedroom furniture store",
+    "Children's furniture store",
+    "Home goods store",
+    "Kitchen furniture store",
+    "Lighting store",
+    "Mattress store",
+    "Office furniture store",
+    "Outdoor furniture store"
+  ],
+  "address": "8515 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.338148,
+  "lng": -111.96855099999999,
+  "phone": "+14805625900",
+  "website": "https://stores.ashleyfurniture.com/store/us/arizona/tempe/8515-s-emerald-dr/?utm_source=G&utm_medium=localSEO&utm_campaign=google",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ashley+Store/data=!4m7!3m6!1s0x872b05ccf7f72b3b:0xfea8df330d9f7dc8!8m2!3d33.338148!4d-111.968551!16s%2Fg%2F11f__5stgm!19sChIJOyv398wFK4cRyH2fDTPfqP4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18350162092085968328",
+  "placeId": "ChIJOyv398wFK4cRyH2fDTPfqP4",
+  "googleRating": 4.3,
+  "googleReviewCount": 2941,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8R_Qsk-EB86FWVvKxD1cFS-bSHgyGj74VFNazf9HjXPGcZyEIXt_31QKvmfl8_IM6--GVdWnveyOoSlDjihvK2ugjxWaarS-jglwJF5tvSr170WKdhwqxYIez-bluge60XimirxV4nldk=w1200-h800-k-no",
+  "description": "Retail chain with a variety of signature home furniture, decor, & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 356,
+    "2": 67,
+    "3": 85,
+    "4": 134,
+    "5": 2299
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

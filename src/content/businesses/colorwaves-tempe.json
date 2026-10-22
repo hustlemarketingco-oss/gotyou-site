@@ -1,0 +1,44 @@
+{
+  "slug": "colorwaves-tempe",
+  "name": "Colorwaves",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "9020 S McClintock Dr #28",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332380199999996,
+  "lng": -111.9120878,
+  "phone": "+14808394305",
+  "googleMapsUrl": "https://www.google.com/maps/place/Colorwaves/data=!4m7!3m6!1s0x872b06e4605b6c55:0x16c98f910acc12e9!8m2!3d33.3323802!4d-111.9120878!16s%2Fg%2F1tfjllh4!19sChIJVWxbYOQGK4cR6RLMCpGPyRY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1642001392267432681",
+  "placeId": "ChIJVWxbYOQGK4cR6RLMCpGPyRY",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oWObfSf20Kt0nnDAackhOg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=89.39481&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

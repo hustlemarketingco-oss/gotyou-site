@@ -1,0 +1,44 @@
+{
+  "slug": "coyote-coffee-equipment-tempe",
+  "name": "Coyote Coffee Equipment",
+  "category": "Shopping",
+  "googleCategory": "Store",
+  "address": "2727 W Baseline Rd Ste 17",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.376903,
+  "lng": -111.9770729,
+  "phone": "+14809669122",
+  "website": "http://www.coyotecoffeeequipment.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Coyote+Coffee+Equipment/data=!4m7!3m6!1s0x872b0859dd698fff:0x7d85bc4f96b0eedd!8m2!3d33.376903!4d-111.9770729!16s%2Fg%2F1ptyjd7g_!19sChIJ_49p3VkIK4cR3e6wlk-8hX0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9044842476660125405",
+  "placeId": "ChIJ_49p3VkIK4cR3e6wlk-8hX0",
+  "googleRating": 4.8,
+  "googleReviewCount": 24,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdAgb0foEIITCjkBIvRoI5vCVIgHGsTHQWkfU_rqdI2gRb2_D-kC2VUnH7I1NviiOvItNpDzU9kzCWOL5xhq7rdC-JTQSWlMVs3Nz4w8DWlAHdwUkD-3RSDfLZ-ibMRmJFQ6nW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 3,
+    "5": 20
+  },
+  "hours": {
+    "mon": "8:00 AM - 3:00 PM",
+    "tue": "8:00 AM - 3:00 PM",
+    "wed": "8:00 AM - 3:00 PM",
+    "thu": "8:00 AM - 3:00 PM",
+    "fri": "8:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "vibranium-athletics-tempe",
+  "name": "Vibranium Athletics",
+  "category": "Health & Beauty",
+  "googleCategory": "Physical fitness program",
+  "address": "2465 W 12th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4154438,
+  "lng": -111.9772608,
+  "phone": "+15052702433",
+  "website": "http://www.juicefitlife.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vibranium+Athletics/data=!4m7!3m6!1s0x872b0f5766c45793:0xc04930527fa079fe!8m2!3d33.4154438!4d-111.9772608!16s%2Fg%2F11rpsxkmx7!19sChIJk1fEZlcPK4cR_nmgf1IwScA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13855658859468716542",
+  "placeId": "ChIJk1fEZlcPK4cR_nmgf1IwScA",
+  "googleRating": 4.4,
+  "googleReviewCount": 32,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0VjaQ3axx_hnCb6yL36IztMG4yyKBW7EDsKxlCMPTIjrrNwuoC-4UGqm2ssyVOODPs8Tsrd00jt0Sc3XafTYVxDEEhQBbtQxIwakB8ifr3eOqacGPj1Mojbv3jgTS8IcikZwS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "5": 27
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

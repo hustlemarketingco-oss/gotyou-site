@@ -1,0 +1,45 @@
+{
+  "slug": "bodybyraquel-tempe",
+  "name": "BodyByRaquel",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Skin care clinic"
+  ],
+  "address": "51 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3487355,
+  "lng": -111.93845929999999,
+  "phone": "+14806520703",
+  "website": "http://bodybyraquel.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/BodyByRaquel/data=!4m7!3m6!1s0x872b077691bbcd1f:0xe3dc8479cd4db933!8m2!3d33.3487355!4d-111.9384593!16s%2Fg%2F11wc22vj8z!19sChIJH827kXYHK4cRM7lNzXmE3OM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16419144000156318003",
+  "placeId": "ChIJH827kXYHK4cRM7lNzXmE3OM",
+  "googleRating": 5,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7o34qm0szdqxYp_E_kW0WAeFEGTPPF1NHJktX2PNsJSDwEObeM1TMZAXtEg0Jcb-8uQLCf41Wpj7REZiWM5ifVnasO5IWM4wv8qvS2vMS05psqYifgOLDWVKc110MlWZ-XP0D=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 18
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

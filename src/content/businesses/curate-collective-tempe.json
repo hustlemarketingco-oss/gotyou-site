@@ -1,0 +1,43 @@
+{
+  "slug": "curate-collective-tempe",
+  "name": "Curate Collective",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1775 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.420963199999996,
+  "lng": -111.91043619999999,
+  "phone": "+14804895246",
+  "website": "https://www.instagram.com/curatecollectiveaz",
+  "googleMapsUrl": "https://www.google.com/maps/place/Curate+Collective/data=!4m7!3m6!1s0x872b097f98bfa995:0xff03e9dc745a3bbd!8m2!3d33.4209632!4d-111.9104362!16s%2Fg%2F11wfmrjfp8!19sChIJlam_mH8JK4cRvTtadNzpA_8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18375788037655903165",
+  "placeId": "ChIJlam_mH8JK4cRvTtadNzpA_8",
+  "googleRating": 4.8,
+  "googleReviewCount": 34,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3nnaqQiq-IXxP5YVCCSHSGDlrmradXQnyFbu4d8FHQ9GwRUiHOjT2_s254JulIY2FGNJXGfi6cANnccfTSvMVtDuSEBGI0YoCxGGw0u9VZzvUhHytu7sRcU2W5KDri8jcWwWQew=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 32
+  },
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

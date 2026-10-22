@@ -17,10 +17,13 @@
   "website": "https://www.hhc.ooo/location/927-e-university-dr-tempe-arizona-85288",
   "placeId": "ChIJm0ih5bQJK4cRFlcu0BYdg7I",
   "googleRating": 4.6,
-  "googleReviewCount": 1581,
+  "googleReviewCount": 1706,
   "priceRange": "$$",
   "amenities": [
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
@@ -37,5 +40,16 @@
   "groundgameId": "6a3a1c6d6dd7d8a26ee51de0",
   "seededAt": "2026-06-23T05:41:01Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12863156944519452438",
+  "googleMapsUrl": "https://www.google.com/maps/place/Houston+TX+Hot+Chicken/data=!4m7!3m6!1s0x872b09b4e5a1489b:0xb2831d16d02e5716!8m2!3d33.4216469!4d-111.9252006!16s%2Fg%2F11t7222kq7!19sChIJm0ih5bQJK4cRFlcu0BYdg7I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 87,
+    "2": 28,
+    "3": 46,
+    "4": 93,
+    "5": 1452
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8YGnnHTYWFq3hxxLdUrgchACprM4OgzFmkh3ftM3ByyYms8XvXX51qGJBseUeJtO6V7lZHfKMiDBsXEQrXnjSOs70sVo6k5eR33uxHCNnBsEJO6-dkJuPh9ATjTnCtaq8z7s57g=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

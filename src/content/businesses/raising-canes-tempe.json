@@ -1,0 +1,54 @@
+{
+  "slug": "raising-canes-tempe",
+  "name": "Raising Canes",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Chicken restaurant",
+    "Southern restaurant (US)"
+  ],
+  "address": "1781 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3342197,
+  "lng": -111.9116935,
+  "phone": "+14807553464",
+  "website": "https://locations.raisingcanes.com/az/tempe/1781-east-warner-road",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raising+Canes/data=!4m7!3m6!1s0x872b073fee942381:0x76b11254516d2fe2!8m2!3d33.3342197!4d-111.9116935!16s%2Fg%2F11j426w4yk!19sChIJgSOU7j8HK4cR4i9tUVQSsXY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8552637320705945570",
+  "placeId": "ChIJgSOU7j8HK4cR4i9tUVQSsXY",
+  "googleRating": 4.4,
+  "googleReviewCount": 1816,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduVTGaacpTi1Dl_eUNRs-d2D4McISVvTT-bq65fud2uU1pI3Gjabf_m3NfgSoG4ZqF0qIADa6VWbzRH_XVnPeNAd6xz77E5YJIUB02lsJ9ZSfdjSFYTFEK9R1EC8xDRn83y1A-uA=w1200-h800-k-no",
+  "description": "Fast-food chain specializing in fried chicken fingers, crinkle-cut fries & Texas toast.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 91,
+    "2": 71,
+    "3": 115,
+    "4": 315,
+    "5": 1224
+  },
+  "hours": {
+    "mon": "9:00 AM - 1:00 AM",
+    "tue": "9:00 AM - 1:00 AM",
+    "wed": "9:00 AM - 1:00 AM",
+    "thu": "9:00 AM - 1:00 AM",
+    "fri": "9:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

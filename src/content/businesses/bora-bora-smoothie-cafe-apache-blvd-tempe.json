@@ -20,8 +20,8 @@
   "phone": "+14805809873",
   "website": "https://boraborausa.com/",
   "placeId": "ChIJESBo7XUJK4cR2UmRT3UJAWs",
-  "googleRating": 4.8,
-  "googleReviewCount": 176,
+  "googleRating": 4.7,
+  "googleReviewCount": 216,
   "hours": {
     "mon": "7:00 AM - 12:00 AM",
     "tue": "7:00 AM - 12:00 AM",
@@ -37,5 +37,22 @@
   "groundgameId": "6a3ee65896288d05f2d27b50",
   "seededAt": "2026-06-26T20:51:36Z",
   "updatedAt": "2026-07-10T18:07:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7710454436485745113",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bora+Bora+Smoothie+Cafe+-Apache+Blvd/data=!4m7!3m6!1s0x872b0975ed682011:0x6b0109754f9149d9!8m2!3d33.4144929!4d-111.9088306!16s%2Fg%2F11y12yq4wk!19sChIJESBo7XUJK4cR2UmRT3UJAWs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 7,
+    "3": 6,
+    "4": 3,
+    "5": 191
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGE_DZ_9XyMjdlTeUXCV6LYl9Q5BUlKQhQLOtysB0n2_1k65h5hPpuhx9pS_qbH78eXoxiKxgxYrc_IT3kvM_hmEfnwI-8TCzo9viy1vYA5rSjael6Mj92PNQ_w2s3O4fmC_tFy2-NB96Z=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

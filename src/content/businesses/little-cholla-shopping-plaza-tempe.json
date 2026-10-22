@@ -1,0 +1,47 @@
+{
+  "slug": "little-cholla-shopping-plaza-tempe",
+  "name": "Little Cholla Shopping Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Event venue"
+  ],
+  "address": "2001 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414333,
+  "lng": -111.89987889999999,
+  "phone": "+14802106004",
+  "website": "https://www.instagram.com/littlechollaculdesac",
+  "googleMapsUrl": "https://www.google.com/maps/place/Little+Cholla+Shopping+Plaza/data=!4m7!3m6!1s0x872b09c87fdd4d41:0xba0f26b133b73ba7!8m2!3d33.414333!4d-111.8998789!16s%2Fg%2F11tmn8xs_k!19sChIJQU3df8gJK4cRpzu3M7EmD7o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13406977158223969191",
+  "placeId": "ChIJQU3df8gJK4cRpzu3M7EmD7o",
+  "googleRating": 4.7,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6dVtMGbjwZw1jt5iRX3Xvq1aMEmMr6CCsj8GExPqOoZ2aZMz6si_s6F0NCAcEXDCHwPzNdy8j3aDNrURnPtBQqY0WjMjeAr-rrenFncHxAVGbSNVebXTl0tLbG7iaK82IQbFb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 7
+  },
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

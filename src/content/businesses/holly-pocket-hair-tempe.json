@@ -1,0 +1,44 @@
+{
+  "slug": "holly-pocket-hair-tempe",
+  "name": "Holly Pocket Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "933 E Broadway Rd Ste 33",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "phone": "+14356690227",
+  "website": "https://hollypockethair.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Holly+Pocket+Hair/data=!4m7!3m6!1s0x872b097ad2a30be5:0x84a0488c450db320!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11zj3wnkcb!19sChIJ5Quj0noJK4cRILMNRYxIoIQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9556718176571339552",
+  "placeId": "ChIJ5Quj0noJK4cRILMNRYxIoIQ",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwzmULKs1B5CmSev2gjI2SsTur6x-jATHUbMnAxBFKObop6IOpXx6MyOY7fRHBXH0PYioRpXCzisR_8IHL7KEkNdPqnv_vWQoue4L7ZcgAl8COgCOTfkLbla7LATnSl3evO4u5ujKkySzX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

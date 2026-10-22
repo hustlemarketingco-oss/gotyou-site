@@ -1,0 +1,50 @@
+{
+  "slug": "dragon-snake-mma-fitness-tempe",
+  "name": "Dragon-Snake MMA & Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Martial arts school",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym",
+    "Martial arts club",
+    "Muay Thai boxing gym"
+  ],
+  "address": "425 S McClintock Dr #3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.425807999999996,
+  "lng": -111.908726,
+  "phone": "+14805482432",
+  "website": "http://dragonsnakemma.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dragon-Snake+MMA+%26+Fitness/data=!4m7!3m6!1s0x872b097431adce07:0xb480c78bdd362e71!8m2!3d33.425808!4d-111.908726!16s%2Fg%2F11c30v21wn!19sChIJB86tMXQJK4cRcS423YvHgLQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13006615127371689585",
+  "placeId": "ChIJB86tMXQJK4cRcS423YvHgLQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4wc3zuC9_BWo0Qf4FUn7FbB-WWu3z4LA7LUI_5rihBbd9trIfsLJMEzEXcE-dBCZM6U9iVuWo4j_6kwqAk17dbXY3jQySfi2jl6C8AoINhTA8pX0PDtPDyArHlNqr0F2NLYs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 49
+  },
+  "hours": {
+    "mon": "5:00 PM - 8:00 PM",
+    "tue": "5:00 PM - 8:00 PM",
+    "wed": "5:00 PM - 8:00 PM",
+    "thu": "5:00 PM - 8:00 PM",
+    "fri": "5:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 1:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

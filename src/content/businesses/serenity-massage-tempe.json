@@ -1,0 +1,46 @@
+{
+  "slug": "serenity-massage-tempe",
+  "name": "Serenity Massage Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "7650 S McClintock Dr #111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347939,
+  "lng": -111.9121668,
+  "phone": "+14807552323",
+  "website": "http://www.serenitymassagetempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Serenity+Massage+Tempe/data=!4m7!3m6!1s0x872b073176772fb3:0x4f739d1ab2f4f864!8m2!3d33.347939!4d-111.9121668!16s%2Fg%2F11s5904mk8!19sChIJsy93djEHK4cRZPj0shqdc08?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5725092289315141732",
+  "placeId": "ChIJsy93djEHK4cRZPj0shqdc08",
+  "googleRating": 4.8,
+  "googleReviewCount": 163,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccEIA7Yfz5o3X-2ZzrAcwSUW5CfalN_UJLM45ABxhLdgnX8HKPnqeqQjLD5w5B0YuyNtX-dUvwNkEZQI0HUtaW8X3lyGZGrHYS1_czJmWrPOPpF6srd1bu-uGKOc4TC5nMAxvq5A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 150
+  },
+  "hours": {
+    "mon": "9:30 AM - 9:30 PM",
+    "tue": "9:30 AM - 9:30 PM",
+    "wed": "9:30 AM - 9:30 PM",
+    "thu": "9:30 AM - 9:30 PM",
+    "fri": "9:30 AM - 9:30 PM",
+    "sat": "9:30 AM - 9:30 PM",
+    "sun": "9:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

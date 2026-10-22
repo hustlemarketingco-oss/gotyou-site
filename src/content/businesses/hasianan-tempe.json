@@ -1,0 +1,26 @@
+{
+  "slug": "hasianan-tempe",
+  "name": "Hasianan",
+  "category": "Restaurant",
+  "googleCategory": "Oaxacan restaurant",
+  "address": "1610 S Priest Dr #111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4112602,
+  "lng": -111.96184389999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Hasianan/data=!4m7!3m6!1s0x872b0f0051879b53:0xc7edda492da10e04!8m2!3d33.4112602!4d-111.9618439!16s%2Fg%2F11njblk3h6!19sChIJU5uHUQAPK4cRBA6hLUna7cc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14406410790861082116",
+  "placeId": "ChIJU5uHUQAPK4cRBA6hLUna7cc",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

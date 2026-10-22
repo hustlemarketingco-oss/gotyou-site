@@ -16,13 +16,13 @@
   "website": "https://kalosgrill.com/",
   "placeId": "ChIJWzKbtpcPK4cRVJNVNFIg1f4",
   "googleRating": 4.1,
-  "googleReviewCount": 342,
+  "googleReviewCount": 340,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "9:00 AM - 8:00 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a34380389e2e09cc38b0c01",
   "seededAt": "2026-06-18T18:25:07Z",
   "updatedAt": "2026-07-29T20:26:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18362618593110496084",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kalos+grill/data=!4m7!3m6!1s0x872b0f97b69b325b:0xfed5205234559354!8m2!3d33.407223!4d-111.9655549!16s%2Fg%2F11h_6r7kvt!19sChIJWzKbtpcPK4cRVJNVNFIg1f4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 47,
+    "2": 18,
+    "3": 19,
+    "4": 24,
+    "5": 232
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyx8kapn79pVhgnM1DZTKg7Zi4Fo0X6WR7CmfytjuWSWsp2FXH1hhX8Jercqh5j146T6fdqV5zR8QhXcHUgY3xzB02FR5rl133q80Qbl14Y-54TeE8LiVCE4VLdOnJja-uceD4=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,49 @@
+{
+  "slug": "your-health-station-tempe",
+  "name": "Your Health Station",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Pain management physician",
+    "Reflexologist"
+  ],
+  "address": "1700 E Elliot Rd #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495819,
+  "lng": -111.91385849999999,
+  "phone": "+14808979495",
+  "googleMapsUrl": "https://www.google.com/maps/place/Your+Health+Station/data=!4m7!3m6!1s0x872b0656db0849ef:0x9c01d0e9c8e2d513!8m2!3d33.3495819!4d-111.9138585!16s%2Fg%2F11bbt5cfcb!19sChIJ70kI21YGK4cRE9XiyOnQAZw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11241495847409734931",
+  "placeId": "ChIJ70kI21YGK4cRE9XiyOnQAZw",
+  "googleRating": 4.2,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeX6LFnN1qylkWUfOLcf8PmiqEJot8-zdAnfN5qLNAVI3m0kqsiJXMG4-4nIq4ZPi0ev3kK3hBWE0AjbRlG8BzcCrP4ZLgVLwAqTK3U3zmHs6jDPCDoRDPe66i-6boVVqm4XswTpw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 2,
+    "5": 14
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

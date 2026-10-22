@@ -14,11 +14,11 @@
   "lng": -111.9121993,
   "phone": "+16028874979",
   "website": "https://hotchicken.org/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6644010144112184674",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nashville+Hot+Chicken/data=!4m7!3m6!1s0x872b0974a1fe89d5:0x5c3444064be60d62!8m2!3d33.3941425!4d-111.9121993!16s%2Fg%2F11vsyknhmw!19sChIJ1Yn-oXQJK4cRYg3mSwZENFw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6644010144112184674",
   "placeId": "ChIJ1Yn-oXQJK4cRYg3mSwZENFw",
   "googleRating": 4.6,
-  "googleReviewCount": 371,
+  "googleReviewCount": 403,
   "description": "Located in Tempe, Nashville Hot Chicken is a fast food restaurant & halal restaurant.",
   "hours": {
     "fri": "12:00 PM - 12:00 AM",
@@ -35,5 +35,20 @@
   "groundgameId": "6a24376b0e01d5f2b2e5bf99",
   "seededAt": "2026-06-06T15:06:19Z",
   "updatedAt": "2026-07-09T19:26:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 13,
+    "3": 14,
+    "4": 10,
+    "5": 342
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRMewPYucFVp_Wk4M9wkeXk4-z_lxC1O8Xv0cdkBTpJedcL2B0lPhae1md0HdkU0S0Tm4eYam8cgx9ONlr7Xb0fCHn_c7NOGvcmg7DbcGODGsNmDRCe7ULM2pOR0xpasPZJ4ap9n9kanUe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

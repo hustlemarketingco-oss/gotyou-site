@@ -1,0 +1,33 @@
+{
+  "slug": "whole-foods-market-floral-tempe",
+  "name": "Whole Foods Market Floral",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "address": "750 S Ash Ave Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422352599999996,
+  "lng": -111.9432039,
+  "website": "https://www.wholefoodsmarket.com/departments/floral",
+  "googleMapsUrl": "https://www.google.com/maps/place/Whole+Foods+Market+Floral/data=!4m7!3m6!1s0x872b090057898329:0x55455bf0ce71a377!8m2!3d33.4223526!4d-111.9432039!16s%2Fg%2F11wthn15g7!19sChIJKYOJVwAJK4cRd6NxzvBbRVU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6144418356430742391",
+  "placeId": "ChIJKYOJVwAJK4cRd6NxzvBbRVU",
+  "googleRating": 4.5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2YBYg6ifr0RqczbucHECDA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=251.45334&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 2,
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

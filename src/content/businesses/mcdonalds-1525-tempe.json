@@ -1,0 +1,54 @@
+{
+  "slug": "mcdonalds-1525-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1525 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348737,
+  "lng": -111.96381489999999,
+  "phone": "+14806361044",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/1525-W-ELLIOT-RD/36459.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b05dac9296e63:0xff377a2bb0943247!8m2!3d33.348737!4d-111.9638149!16s%2Fg%2F1ptys192c!19sChIJY24pydoFK4cRRzKUsCt6N_8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18390301931455394375",
+  "placeId": "ChIJY24pydoFK4cRRzKUsCt6N_8",
+  "googleRating": 3.3,
+  "googleReviewCount": 2511,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYDCAuKs-zUzo6vIsz7rB3VKapo2klGl3cezp7cJO6xVG64ZJMg_6Yt1MtV4KfIiBHF4HtL4Bpl-YAsuhLIfY5r10-nmgAYwAwKEcaL3IokrS2nsRDbeMiTvFsQgsQ97uBwDoqSg=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 594,
+    "2": 210,
+    "3": 413,
+    "4": 461,
+    "5": 833
+  },
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "5:00 AM - 11:00 PM",
+    "wed": "5:00 AM - 11:00 PM",
+    "thu": "5:00 AM - 11:00 PM",
+    "fri": "5:00 AM - 11:00 PM",
+    "sat": "5:00 AM - 11:00 PM",
+    "sun": "5:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

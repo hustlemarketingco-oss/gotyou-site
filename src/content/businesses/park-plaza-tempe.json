@@ -1,0 +1,46 @@
+{
+  "slug": "park-plaza-tempe",
+  "name": "Park Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "19 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377473,
+  "lng": -111.9400057,
+  "website": "http://parkplaza.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Park+Plaza/data=!4m7!3m6!1s0x872b061b5f62adfd:0xd7b24ce692484a6e!8m2!3d33.377473!4d-111.9400057!16s%2Fg%2F1vzv43lb!19sChIJ_a1iXxsGK4cRbkpIkuZMstc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15542569817189403246",
+  "placeId": "ChIJ_a1iXxsGK4cRbkpIkuZMstc",
+  "googleRating": 4.2,
+  "googleReviewCount": 305,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhg8MsO0oCIlw5-H6Z6yIFsXJAAOc5hDXAyNPxCkhviqUV_w0fmU2_wQXDqLbTEVyV1JVnLx-o83CwFXEUb6knrqcQWXtn97A3H3Vx_Hy7BtfnWEvYU8PWMHMOkcD9zFdA_MtRRQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 14,
+    "3": 42,
+    "4": 77,
+    "5": 162
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

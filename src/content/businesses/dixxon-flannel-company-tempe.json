@@ -1,0 +1,46 @@
+{
+  "slug": "dixxon-flannel-company-tempe",
+  "name": "Dixxon Flannel Company",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "7200 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3534906,
+  "lng": -111.9636139,
+  "phone": "+18778742013",
+  "website": "http://www.dixxon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dixxon+Flannel+Company/data=!4m7!3m6!1s0x872b0856a8d7b95f:0x65b5ace5c029937f!8m2!3d33.3534906!4d-111.9636139!16s%2Fg%2F11bx2l4zl1!19sChIJX7nXqFYIK4cRf5MpwOWstWU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7328954071386788735",
+  "placeId": "ChIJX7nXqFYIK4cRf5MpwOWstWU",
+  "googleRating": 4.4,
+  "googleReviewCount": 1775,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_UJ5xmODXck-jqNGoV5pEFP3uEW6Tv73mQM5oeGrkDcjzNL3i7uwQPnccm3darXfRBGkGq3Nw4OsK6X4jDWhe7O0j213xby-8U5C0yIPe4uNQGOs3yLiCtbc0E7wP5AWc8vR5XtdlEu7O=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 195,
+    "2": 63,
+    "3": 48,
+    "4": 81,
+    "5": 1388
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

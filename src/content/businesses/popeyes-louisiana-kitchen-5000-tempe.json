@@ -1,0 +1,43 @@
+{
+  "slug": "popeyes-louisiana-kitchen-5000-tempe",
+  "name": "Popeyes Louisiana Kitchen",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Delivery service",
+    "Family restaurant"
+  ],
+  "address": "5000 S Arizona Mills Cir Fc05",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382099,
+  "lng": -111.964918,
+  "phone": "+14806580988",
+  "website": "https://www.popeyes.com/store-locator/store/restaurant_889484",
+  "googleMapsUrl": "https://www.google.com/maps/place/Popeyes+Louisiana+Kitchen/data=!4m7!3m6!1s0x872b0fc69dcbf963:0xc34fb5cfbe4d44e2!8m2!3d33.382099!4d-111.964918!16s%2Fg%2F11zf0dtn1h!19sChIJY_nLncYPK4cR4kRNvs-1T8M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14073667264411682018",
+  "placeId": "ChIJY_nLncYPK4cR4kRNvs-1T8M",
+  "googleRating": 2.6,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeatfOkl8GBY83uq-3zn4FgfekITClwWXjIsCs51T2GEWci6fjIVlIhLjq-h3yGlF4sjS1KI_-NxqBH28hiClDk-wflBNn2BbXMcbsdnQCOU2KU8fzIu0ttlRYqW8SD4w1-mpv6uOwv7bc=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

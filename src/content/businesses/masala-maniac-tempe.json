@@ -11,11 +11,11 @@
   "lng": -111.9402085,
   "phone": "+14806429709",
   "website": "http://www.masalamaniac.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8510965800641115721",
+  "googleMapsUrl": "https://www.google.com/maps/place/Masala+Maniac/data=!4m7!3m6!1s0x872b094afbbe96d1:0x761d064d7ab63649!8m2!3d33.4261581!4d-111.9402085!16s%2Fg%2F11w9z9m11p!19sChIJ0Za--0oJK4cRSTa2ek0GHXY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8510965800641115721",
   "placeId": "ChIJ0Za--0oJK4cRSTa2ek0GHXY",
   "googleRating": 4.2,
-  "googleReviewCount": 83,
+  "googleReviewCount": 100,
   "description": "Located in Tempe, Masala Maniac is a indian restaurant.",
   "hours": {
     "fri": "11:30 AM - 9:30 PM",
@@ -32,5 +32,20 @@
   "groundgameId": "6a24377f93956f18a96ca138",
   "seededAt": "2026-06-06T15:06:39Z",
   "updatedAt": "2026-06-06T15:06:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 2,
+    "3": 3,
+    "4": 10,
+    "5": 71
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckVpkDYL9CAC-1981jx5S-9paQNLKOWNj0YU30UATLxfMF-IVJPfgO1rXwErnCri9IF7iocxw7HylxEoAQZfgIkKZgDsebm3GWxo_9SdvFfuHXp3VIs99OrseCmYF2-n_W1uu75BLHpOAf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

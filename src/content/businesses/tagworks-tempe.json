@@ -1,0 +1,36 @@
+{
+  "slug": "tagworks-tempe",
+  "name": "TagWorks",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "PetSmart, 1140 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3507957,
+  "lng": -111.957,
+  "phone": "+18774739174",
+  "googleMapsUrl": "https://www.google.com/maps/place/TagWorks/data=!4m7!3m6!1s0x872b0510049e5b91:0xb0658a417641d9ef!8m2!3d33.3507957!4d-111.957!16s%2Fg%2F11h033lsz6!19sChIJkVueBBAFK4cR79lBdkGKZbA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12710717537084627439",
+  "placeId": "ChIJkVueBBAFK4cR79lBdkGKZbA",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwuTZdGJHLJVtG_hMRgdrOfMafx4_BXlrVB67gzABvhu5oSI2IpyJbOlJOivyZGSZyg-aqn6JoHtwhJsG8FTmNbuO4odIHDbTnJ-CqIlJT4ZK7gapdVpKJ-kI3mK0iwJ_szKra=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

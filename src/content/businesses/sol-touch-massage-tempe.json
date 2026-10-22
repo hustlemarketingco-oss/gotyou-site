@@ -1,0 +1,48 @@
+{
+  "slug": "sol-touch-massage-tempe",
+  "name": "Sol Touch Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Sports massage therapist",
+  "secondaryCategories": [
+    "Massage therapist"
+  ],
+  "address": "2121 S Mill Ave #115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4056163,
+  "lng": -111.93944049999999,
+  "phone": "+16027415346",
+  "website": "http://soltouchmassage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sol+Touch+Massage/data=!4m7!3m6!1s0x872b08c7ef1f3a91:0xf3789f34d95cd311!8m2!3d33.4056163!4d-111.9394405!16s%2Fg%2F1ptwdcqwm!19sChIJkTof78cIK4cREdNc2TSfePM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17543947397755622161",
+  "placeId": "ChIJkTof78cIK4cREdNc2TSfePM",
+  "googleRating": 4.9,
+  "googleReviewCount": 368,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdepR0zzg-NSlsFwnL8Aa3CyZVuA3rUv9DnCwpjJrAI_FNc1M6UA6_MHDjJ1IfDlna7TRZsA1uDHQzelPlRlFXS8TcEJtpyyyzzlUmN9AZ_5mhKz-IvWHJlbjPwpMO-LsvPMbv9Do_rIY8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "3": 1,
+    "4": 11,
+    "5": 349
+  },
+  "hours": {
+    "mon": "8:15 AM - 9:45 PM",
+    "tue": "8:15 AM - 9:45 PM",
+    "wed": "8:15 AM - 9:45 PM",
+    "thu": "8:15 AM - 9:45 PM",
+    "fri": "8:15 AM - 9:45 PM",
+    "sat": "8:15 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

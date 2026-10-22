@@ -18,33 +18,18 @@
   "lng": -111.9088297,
   "phone": "+14809662761",
   "website": "http://www.sunnysaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14748819117741526457",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunny%27s+Diner/data=!4m7!3m6!1s0x872b08f9e8fb8d79:0xccae54d851794db9!8m2!3d33.4217481!4d-111.9088297!16s%2Fg%2F11r9nk3lf!19sChIJeY376PkIK4cRuU15UdhUrsw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14748819117741526457",
   "placeId": "ChIJeY376PkIK4cRuU15UdhUrsw",
   "googleRating": 4.3,
-  "googleReviewCount": 2406,
+  "googleReviewCount": 2440,
   "priceRange": "$10–20",
   "description": "This East Coast-style diner offers a large, internationally inspired menu of breakfast & lunch fare.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "6:00 AM - 3:00 PM",
@@ -61,5 +46,14 @@
   "groundgameId": "6a2437e22e7a1bd3ac1083bd",
   "seededAt": "2026-06-06T15:08:18Z",
   "updatedAt": "2026-07-22T20:34:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 121,
+    "2": 88,
+    "3": 192,
+    "4": 503,
+    "5": 1536
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbSiejp6f-5-5MsIlDONR91jEqJLD5rzAdxrAFfOx8lPuT6At9OSp0XVSN22J5Un_BzmiYDavbV4gyATCXmCoMxBjwxePHnU3UvMahjKDeq9cULyXgxNyNZUAlUof6tCynn6g=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

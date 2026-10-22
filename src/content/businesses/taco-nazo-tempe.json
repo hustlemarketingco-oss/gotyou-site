@@ -16,14 +16,14 @@
   "lng": -111.9615046,
   "phone": "+14809020828",
   "placeId": "ChIJ4TgDsU8PK4cR53vLqRZYAiA",
-  "googleRating": 4.4,
-  "googleReviewCount": 636,
+  "googleRating": 4.3,
+  "googleReviewCount": 652,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "8:00 AM - 9:00 PM",
@@ -40,5 +40,17 @@
   "groundgameId": "6a2c1d48e0cf1b1fe2f0a1bd",
   "seededAt": "2026-06-12T14:52:56Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2306502813528325095",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Nazo/data=!4m7!3m6!1s0x872b0f4fb10338e1:0x20025816a9cb7be7!8m2!3d33.3918452!4d-111.9615046!16s%2Fg%2F1tgjlrqy!19sChIJ4TgDsU8PK4cR53vLqRZYAiA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 18,
+    "3": 39,
+    "4": 86,
+    "5": 456
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaQBf2gQlygpLT2TuPWre6skzFVCdzDkp1m8FRvOfHdwKqz9Ly4ZDipPGf1CfNtbcgOva6IDWM8jEb1jPeeutaZmlXKg3ozJMTwFNi2iBinzV9GTSPORs-w42wvz--Y1Qx4dgR=w1200-h800-k-no",
+  "website": "https://taconazo.shop/",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "chopstick-express-tempe",
+  "name": "Chopstick Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Delivery Chinese restaurant",
+    "Delivery Restaurant"
+  ],
+  "address": "939 E Guadalupe Rd #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3632397,
+  "lng": -111.9276163,
+  "phone": "+14808316685",
+  "website": "https://www.chopsticktempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chopstick+Express/data=!4m7!3m6!1s0x872b06400e334a7b:0xe95cb860ebfb2686!8m2!3d33.3632397!4d-111.9276163!16s%2Fg%2F1tdn93y3!19sChIJe0ozDkAGK4cRhib762C4XOk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16815517835110065798",
+  "placeId": "ChIJe0ozDkAGK4cRhib762C4XOk",
+  "googleRating": 4.2,
+  "googleReviewCount": 424,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDQJxrd0P8VABOXbHYQdxRwnw-tGlv2CTubdqTUfiep85zS75_zcCvWZhB48qM7vO_-R-TYSjZvOSs40ADBUs2YjUXe0BtpIoBlH8pC7CNWeCpq1EyhDTQmS1ao9JI8NfuX3Bq=w1200-h800-k-no",
+  "description": "Chinese restaurant serving up stir-fries & chow mein in spare surroundings with a few tables.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 15,
+    "3": 27,
+    "4": 52,
+    "5": 280
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 8:30 PM",
+    "sat": "11:00 AM - 8:30 PM",
+    "sun": "11:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

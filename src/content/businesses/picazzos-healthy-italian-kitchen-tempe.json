@@ -11,30 +11,10 @@
   "priceRange": "$20–30",
   "description": "Easygoing eatery serving a mainly gluten-free menu of specialty pizzas & pastas, with vegan options.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Organic dishes",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/Picazzos"
@@ -45,5 +25,31 @@
   "groundgameId": "6a24364305adb12f240a4911",
   "seededAt": "2026-06-06T15:01:23Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJU0oaloYGK4cRFFVuVkoG2y4",
+  "googleCid": "3376299261991736596",
+  "googleMapsUrl": "https://www.google.com/maps/place/Picazzo%27s+Healthy+Italian+Kitchen/data=!4m7!3m6!1s0x872b0686961a4a53:0x2edb064a566e5514!8m2!3d33.3350137!4d-111.944569!16s%2Fg%2F1tf0r29t!19sChIJU0oaloYGK4cRFFVuVkoG2y4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 1710,
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 38,
+    "3": 71,
+    "4": 303,
+    "5": 1248
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyFV-fWh53D6-xjwbPgPjE3MeXQVrXlIrEEy8WRjXggGCrEo6sGytEfB3rxvf_QduoL9Us6OeBD0IPtTBeYyyChKQLSA28drsuCYeEmrF5YH-7ivLASTzEJ7U7cZgXmyPOoCAkSg=w1200-h800-k-no",
+  "website": "https://picazzos.com/",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "lat": 33.3350137,
+  "lng": -111.944569,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

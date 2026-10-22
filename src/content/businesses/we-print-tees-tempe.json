@@ -1,0 +1,26 @@
+{
+  "slug": "we-print-tees-tempe",
+  "name": "We Print Tees",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "617 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4236329,
+  "lng": -111.9083366,
+  "googleMapsUrl": "https://www.google.com/maps/place/We+Print+Tees/data=!4m7!3m6!1s0x872b08f9a0fa9629:0xf6e2a080ff19298!8m2!3d33.4236329!4d-111.9083366!16s%2Fg%2F11vbpppkq8!19sChIJKZb6oPkIK4cRmJLxDwgqbg8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1111872372122686104",
+  "placeId": "ChIJKZb6oPkIK4cRmJLxDwgqbg8",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GOxYjFIohQI6uJ6upQdFGQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=24.873228&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

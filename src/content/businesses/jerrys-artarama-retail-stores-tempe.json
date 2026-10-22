@@ -1,0 +1,55 @@
+{
+  "slug": "jerrys-artarama-retail-stores-tempe",
+  "name": "Jerry's Artarama Retail Stores - Tempe",
+  "category": "Shopping",
+  "googleCategory": "Art supply store",
+  "secondaryCategories": [
+    "Airbrushing supply store",
+    "Craft store",
+    "Drafting equipment supplier",
+    "Paint store",
+    "Picture frame shop",
+    "Screen printing supply store"
+  ],
+  "address": "4421 S Rural Rd #1-3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383647599999996,
+  "lng": -111.9250636,
+  "phone": "+14807756787",
+  "website": "http://www.jerrysretailstores.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jerry%27s+Artarama+Retail+Stores+-+Tempe/data=!4m7!3m6!1s0x872b05f0f5d12967:0x4a2a186f1852588d!8m2!3d33.3836476!4d-111.9250636!16s%2Fg%2F1td38q4v!19sChIJZynR9fAFK4cRjVhSGG8YKko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5344110773257001101",
+  "placeId": "ChIJZynR9fAFK4cRjVhSGG8YKko",
+  "googleRating": 4.7,
+  "googleReviewCount": 350,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvSZLVxhmpVZprk-_G5FJiYPPuf91y-3gq2uoL9wxuvlcLvuCAzDhpHgDyM1s9hyU_QklmYLZkymvqk0UPWe1sKfHwZuMCfaY3NvfhNIRrMnIMbVv7ib2n7iq7hh7gAeMZsyydCA=w1200-h800-k-no",
+  "description": "Retailer selling an extensive selection of art supplies, from paints to paper & portfolios.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 10,
+    "3": 9,
+    "4": 39,
+    "5": 284
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

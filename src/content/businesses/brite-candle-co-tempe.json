@@ -1,0 +1,47 @@
+{
+  "slug": "brite-candle-co-tempe",
+  "name": "Brite Candle Co.",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Candle store",
+    "Perfume store"
+  ],
+  "address": "2016 E Wildermuth Ave Unit 1128",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4139216,
+  "lng": -111.8994584,
+  "phone": "+14802569515",
+  "website": "http://britecandleco.shop/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brite+Candle+Co./data=!4m7!3m6!1s0x872b0900726364f1:0x2b4579d6766e02f0!8m2!3d33.4139216!4d-111.8994584!16s%2Fg%2F11vyw_n86b!19sChIJ8WRjcgAJK4cR8AJudtZ5RSs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3118032279040819952",
+  "placeId": "ChIJ8WRjcgAJK4cR8AJudtZ5RSs",
+  "googleRating": 5,
+  "googleReviewCount": 88,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAg8Ak2a-QgRg46PV2n0I0xgpc7QF-AZMuclA1j5rdXyDstjzMv8WBKcnavP8DrxkQuXwNXnE3v8wBDqwptt-2LosdPs8h-efRVhwyLPz1_gPALwGLHuPaLoiMVN6GaVbnc5kazS_vqSK_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 87
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

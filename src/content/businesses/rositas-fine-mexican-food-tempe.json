@@ -1,0 +1,54 @@
+{
+  "slug": "rositas-fine-mexican-food-tempe",
+  "name": "Rosita's Fine Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Latin American restaurant",
+    "Restaurant"
+  ],
+  "address": "960 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422689999999996,
+  "lng": -111.95180119999999,
+  "phone": "+14809660852",
+  "website": "http://rositasfinemexicanfood.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rosita%27s+Fine+Mexican+Food/data=!4m7!3m6!1s0x872b08d6f5cae653:0x322eb12378d91b77!8m2!3d33.42269!4d-111.9518012!16s%2Fg%2F1tdxqy7g!19sChIJU-bK9dYIK4cRdxvZeCOxLjI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3616022316734552951",
+  "placeId": "ChIJU-bK9dYIK4cRdxvZeCOxLjI",
+  "googleRating": 4.1,
+  "googleReviewCount": 1656,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLE6f4dp-paptuV1IyjVBk9Bhxty0orwbQu38RgTU-tohJ9vzmH9wKcUADawjikYBpHn2amSK_y4Dx-AjvAmls7aqs_wDyoi1MTehaVpQqZLzJcBdoUhmZIy_QAvyo9Qyv2MY=w1200-h800-k-no",
+  "description": "Local institution known for classic Mexican fare made from generations-old recipes, plus margaritas.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 135,
+    "2": 69,
+    "3": 164,
+    "4": 351,
+    "5": 937
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "performance-arizona-tempe",
+  "name": "Performance Arizona",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Boxing gym",
+    "Martial arts school",
+    "Self defense school",
+    "Wellness center"
+  ],
+  "address": "1737 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406441099999995,
+  "lng": -111.9104229,
+  "phone": "+14807881178",
+  "website": "http://performance-arizona.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Performance+Arizona/data=!4m7!3m6!1s0x872b096e7dc0eea3:0xfaf1ef07e111b416!8m2!3d33.4064411!4d-111.9104229!16s%2Fg%2F11fkmwttx_!19sChIJo-7AfW4JK4cRFrQR4Qfv8fo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18082496795989095446",
+  "placeId": "ChIJo-7AfW4JK4cRFrQR4Qfv8fo",
+  "googleRating": 4.8,
+  "googleReviewCount": 150,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-ytdMcefZW-ha96lZ3geYnxyPUZVQh16Euo1lHY462plROc2WRGzQkXV9txVAjPrQYnsDqXmk-yOtL3ku2yZazU8Br4M6oCtdEDAq6bHCWLmQy1ObJPFoua7GlwA1D1imrMjD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 1,
+    "4": 2,
+    "5": 142
+  },
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

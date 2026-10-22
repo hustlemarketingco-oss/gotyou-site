@@ -22,7 +22,7 @@
   "website": "https://locations.ikessandwich.com/az/tempe/605/",
   "placeId": "ChIJoToNLtgIK4cR72FDyxzYPKk",
   "googleRating": 4.7,
-  "googleReviewCount": 1009,
+  "googleReviewCount": 1008,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a319a8b18768aa5df87c17f",
   "seededAt": "2026-06-16T18:48:43Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12194859509193335279",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ike%27s+Love+%26+Sandwiches/data=!4m7!3m6!1s0x872b08d82e0d3aa1:0xa93cd81ccb4361ef!8m2!3d33.4238553!4d-111.9394426!16s%2Fg%2F11b66smnmz!19sChIJoToNLtgIK4cR72FDyxzYPKk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 14,
+    "3": 26,
+    "4": 62,
+    "5": 868
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgMIt7Qv-4xglL7AIQAgNfPym8OEIp_qy3K-2PatGLKjV1kwHJhkszKtdjQH7hOV16azucjMBfvtNaY1OAW3iM6gTXRO33YNHT1I4qGHhY9n_YeQewj8AI6BaoURHeYg6kb_anQvP1LEZ2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

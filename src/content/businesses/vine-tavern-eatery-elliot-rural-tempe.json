@@ -2,7 +2,7 @@
   "slug": "vine-tavern-eatery-elliot-rural-tempe",
   "name": "Vine Tavern & Eatery - Elliot & Rural",
   "category": "Bars & Pubs",
-  "googleCategory": "Bar",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Restaurant",
     "Bar & grill",
@@ -17,24 +17,10 @@
   "priceRange": "$10–20",
   "description": "Irish-American chain venue serving draft beers & basic sports bar fare in down-to-earth surrounds.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegan options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/149139225160518"
@@ -45,5 +31,31 @@
   "groundgameId": "6a24387aabc5e92264f4afb3",
   "seededAt": "2026-06-06T15:10:50Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJberH3V0GK4cRDm06AXb9Js4",
+  "googleCid": "14854839104196734222",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vine+Tavern+%26+Eatery+-+Elliot+%26+Rural/data=!4m7!3m6!1s0x872b065dddc7ea6d:0xce26fd76013a6d0e!8m2!3d33.348714!4d-111.926683!16s%2Fg%2F1xgrnd72!19sChIJberH3V0GK4cRDm06AXb9Js4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 1052,
+  "ratingBreakdown": {
+    "1": 57,
+    "2": 46,
+    "3": 98,
+    "4": 246,
+    "5": 605
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUkxJActAU1Z84Q-AqSCXqocqkOym6S6j2G9Y5NeisAuMHO_t2FSEYCldobMHrHo9kQCK-SyZVGUr_OKV58DzBw7Cj5Ej4LUlk167Wcom5oIcBusFV-ZsrUUATN4AU0B3_hPKT=w1200-h800-k-no",
+  "website": "http://elliot-rural.vinetavern.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.348714,
+  "lng": -111.926683,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

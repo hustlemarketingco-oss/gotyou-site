@@ -1,0 +1,42 @@
+{
+  "slug": "inkbytre-tattoos-tempe",
+  "name": "InkByTre Tattoos",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo artist",
+  "address": "7720 S Priest Dr Unit 41",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348130999999995,
+  "lng": -111.965351,
+  "phone": "+17194669298",
+  "website": "http://inkbytre.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/InkByTre+Tattoos/data=!4m7!3m6!1s0x4349958a1492264f:0x5bc4421148846e6c!8m2!3d33.348131!4d-111.965351!16s%2Fg%2F11qgjxsw74!19sChIJTyaSFIqVSUMRbG6ESBFCxFs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6612482794885246572",
+  "placeId": "ChIJTyaSFIqVSUMRbG6ESBFCxFs",
+  "googleRating": 5,
+  "googleReviewCount": 65,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjBkMx0B5XCRnaa8PBwXktLr9a18MK31SiILQb_UctUyvQraDMTF0pIddln5UClwdZk_PRIjye3tiuAhSoJ8uoqNNm0Lsp-0HzrOF9nUIYj0XrSvT4ifnDFUmlnBgY2PUa9HK6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 65
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

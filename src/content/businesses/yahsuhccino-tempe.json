@@ -10,21 +10,13 @@
   "lat": 33.4251563,
   "lng": -111.9352638,
   "phone": "+14805183953",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1716054033442057985",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yahsuhccino/data=!4m7!3m6!1s0x872b09b9cc3e60f5:0x17d0a60d26b0af01!8m2!3d33.4251563!4d-111.9352638!16s%2Fg%2F11xp6ck92k!19sChIJ9WA-zLkJK4cRAa-wJg2m0Bc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1716054033442057985",
   "placeId": "ChIJ9WA-zLkJK4cRAa-wJg2m0Bc",
   "description": "Located in Tempe, Yahsuhccino is a casual coffee shop with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "Coffee"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 8:00 PM",
@@ -41,5 +33,7 @@
   "groundgameId": "6a24392d87f7aa3d02db0f7b",
   "seededAt": "2026-06-06T15:13:49Z",
   "updatedAt": "2026-06-30T18:44:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_r-PsekF6gN07AmM-40p3g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=276.70517&pitch=0&thumbfov=100",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

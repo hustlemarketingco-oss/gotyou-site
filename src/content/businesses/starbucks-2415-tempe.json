@@ -1,0 +1,30 @@
+{
+  "slug": "starbucks-2415-tempe",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "2415 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777496,
+  "lng": -111.9745933,
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x872b0f002ebc8b75:0x66f6bfa6c8ec3742!8m2!3d33.3777496!4d-111.9745933!16s%2Fg%2F11zzvb8zwk!19sChIJdYu8LgAPK4cRQjfsyKa_9mY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7419328159195871042",
+  "placeId": "ChIJdYu8LgAPK4cRQjfsyKa_9mY",
+  "hours": {
+    "mon": "3:30 AM - 9:00 PM",
+    "tue": "3:30 AM - 9:00 PM",
+    "wed": "3:30 AM - 9:00 PM",
+    "thu": "3:30 AM - 9:00 PM",
+    "fri": "3:30 AM - 9:00 PM",
+    "sat": "3:30 AM - 9:00 PM",
+    "sun": "3:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

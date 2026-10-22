@@ -1,0 +1,55 @@
+{
+  "slug": "rocket-a-go-go-tempe",
+  "name": "Rocket a Go~Go",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Art gallery",
+    "Fashion accessories store",
+    "Jewelry store",
+    "Men's clothing store",
+    "Plus size clothing store",
+    "Women's clothing store"
+  ],
+  "address": "15 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391531199999996,
+  "lng": -111.93885829999999,
+  "phone": "+14804344433",
+  "website": "http://www.rocketagogo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rocket+a+Go~Go/data=!4m7!3m6!1s0x872b08a55e67ed81:0x8bc962931d26fd1f!8m2!3d33.3915312!4d-111.9388583!16s%2Fg%2F1jglswv_0!19sChIJge1nXqUIK4cRH_0mHZNiyYs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10072690425579633951",
+  "placeId": "ChIJge1nXqUIK4cRH_0mHZNiyYs",
+  "googleRating": 4.8,
+  "googleReviewCount": 715,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy6AuIh1ly3gw2nmBpUyhWf5raf08HO4Is5n9kasrCPTz1EZpXxZUOq5Bcdhjk43PTHygftSd0a3OqITw2wPb09PTX5wADyXB8soEVfHUAN7zjlOTsBXwyNX9yfyi0PFPs3DlA=w1200-h800-k-no",
+  "description": "Secondhand shop that buys, sells & trades trendy clothing, shoes, accessories & local art work.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 7,
+    "3": 12,
+    "4": 51,
+    "5": 632
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

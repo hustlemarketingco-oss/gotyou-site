@@ -1,0 +1,53 @@
+{
+  "slug": "dennys-restaurant-1994-tempe",
+  "name": "Denny's Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Diner"
+  ],
+  "address": "1994 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378758499999996,
+  "lng": -111.96897349999999,
+  "phone": "+16024311818",
+  "website": "https://locations.dennys.com/AZ/TEMPE/246644?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/Denny%27s+Restaurant/data=!4m7!3m6!1s0x872b0f58ae8dfd7b:0x213cc846210a26eb!8m2!3d33.3787585!4d-111.9689735!16s%2Fg%2F1tgvf2j4!19sChIJe_2NrlgPK4cR6yYKIUbIPCE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2395009305381840619",
+  "placeId": "ChIJe_2NrlgPK4cR6yYKIUbIPCE",
+  "googleRating": 4.5,
+  "googleReviewCount": 7692,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIyZD4E-DcqP6zu8ZqTemYtNZ1bnPaq41-GWBviLcFin3tX7UTkbusDuiDUnM0QJl041L2oOuGu1rXMY7_mlWanvSklnaLmtOfo-QUX-vtF-cOpFQxvlXhmBzqcHAWa1I9dAbS=w1200-h800-k-no",
+  "description": "Casual diner chain dishing up classic American comfort fare, including all-day breakfast favorites.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 367,
+    "2": 175,
+    "3": 468,
+    "4": 961,
+    "5": 5721
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

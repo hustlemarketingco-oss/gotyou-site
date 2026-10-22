@@ -18,8 +18,8 @@
   "phone": "+14802091770",
   "website": "https://harmonykitchenaz.com/",
   "placeId": "ChIJVy5wpZIIK4cR4hF0-2Xy8nw",
-  "googleRating": 4.6,
-  "googleReviewCount": 442,
+  "googleRating": 4.7,
+  "googleReviewCount": 532,
   "priceRange": "$$",
   "hours": {
     "mon": "11:30 AM - 11:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a3edc887a2900dfb8debb6b",
   "seededAt": "2026-06-26T20:09:44Z",
   "updatedAt": "2026-07-20T18:55:00Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9003525124891349474",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harmony+Kitchen/data=!4m7!3m6!1s0x872b0892a5702e57:0x7cf2f265fb7411e2!8m2!3d33.4083042!4d-111.916804!16s%2Fg%2F11gbl4vjcx!19sChIJVy5wpZIIK4cR4hF0-2Xy8nw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 12,
+    "3": 13,
+    "4": 32,
+    "5": 453
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAA4IpzL-sfWilIcYuitSgb8bKk3alciIBVeLp6aXFp_OAE9wrLX4BvDha93DMooX56B8TTBC4TWiV8A-nQz3_1tuUwMJZnQRbwWXEUOgvLXXoZL1y0kufHWCR-Q6ZLvpfhg-WyqFBwCw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

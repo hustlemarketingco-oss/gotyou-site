@@ -1,0 +1,57 @@
+{
+  "slug": "cvs-855-tempe",
+  "name": "CVS",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Beer store",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Liquor store",
+    "Perfume store",
+    "Stationery store"
+  ],
+  "address": "855 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348740299999996,
+  "lng": -111.9293132,
+  "phone": "+14804563602",
+  "website": "https://www.cvs.com/store-locator/tempe-az-pharmacies/855-e-elliot-road-corner-of-rural-tempe-az-85284/storeid=5950?WT.mc_id=LS_GOOGLE_FS_5950",
+  "googleMapsUrl": "https://www.google.com/maps/place/CVS/data=!4m7!3m6!1s0x872b06675001b975:0x7ce1f8d1c6616578!8m2!3d33.3487403!4d-111.9293132!16s%2Fg%2F1tfshw85!19sChIJdbkBUGcGK4cReGVhxtH44Xw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8998747110323086712",
+  "placeId": "ChIJdbkBUGcGK4cReGVhxtH44Xw",
+  "googleRating": 3.4,
+  "googleReviewCount": 135,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDHU8RXjCAaS5KU_aOgw-kow0VjMpa2VTxgtqiplBUaE8D0J6gxhgrndY9abKnwKZ6cPA77ZrZeuLMGiWHwa1Lyci5cVIzBcWjP0bE1L-fHw3jrOS_vX6e8FSm3Qktm-ZHxlJaeQ=w1200-h800-k-no",
+  "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 44,
+    "2": 7,
+    "3": 6,
+    "4": 5,
+    "5": 73
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

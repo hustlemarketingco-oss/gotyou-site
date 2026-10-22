@@ -17,8 +17,8 @@
   "phone": "+16028981455",
   "website": "https://saltandstraw.com/",
   "placeId": "ChIJ36XE3FcJK4cROdIzTb223vU",
-  "googleRating": 4.9,
-  "googleReviewCount": 81,
+  "googleRating": 4.8,
+  "googleReviewCount": 113,
   "hours": {
     "mon": "11:00 AM - 11:00 PM",
     "tue": "11:00 AM - 11:00 PM",
@@ -34,5 +34,20 @@
   "groundgameId": "6a3041da960a84df20814a79",
   "seededAt": "2026-06-15T18:18:02Z",
   "updatedAt": "2026-07-06T18:55:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17716798908282425913",
+  "googleMapsUrl": "https://www.google.com/maps/place/Salt+%26+Straw/data=!4m7!3m6!1s0x872b0957dcc4a5df:0xf5deb6bd4d33d239!8m2!3d33.4242023!4d-111.9276489!16s%2Fg%2F11ynvb152q!19sChIJ36XE3FcJK4cROdIzTb223vU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "4": 5,
+    "5": 102
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLceUlp_R2peutduj90k1WnzopMl5QXBid445fxLbFK_rHYgPQHHgbiqZqICClO1s4C3lMU5l6FXsYE3rqzPQQ8kdek_Lmj2vinmgxCVWx3xUXiItzOm-d2x0cJ8TkPHjnB5y8f7d8tl_l_p=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "sweet-wax-bar-tempe",
+  "name": "Sweet Wax Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "address": "1976 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3787456,
+  "lng": -111.9013379,
+  "phone": "+13609721431",
+  "website": "https://sweetwaxbar.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sweet+Wax+Bar/data=!4m7!3m6!1s0x872b09f9abdc1c21:0x83f436f47603fe5a!8m2!3d33.3787456!4d-111.9013379!16s%2Fg%2F11nhk2lwz4!19sChIJIRzcq_kJK4cRWv4DdvQ29IM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9508285136865853018",
+  "placeId": "ChIJIRzcq_kJK4cRWv4DdvQ29IM",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdzH0GhjhEevIKCXa8gIdRlLpSr3UzLWv-j4CIwffYFsqFEOo47XE8wdYZCD9J_BWMwJov7tymSOYzYsSrGb3ENSR2v08_tTEVKAifFwCw0wkItGuRcAYft1EXUELFVo48ndi5dCwmacpD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "9:00 AM - 2:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

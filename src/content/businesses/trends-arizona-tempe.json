@@ -1,0 +1,48 @@
+{
+  "slug": "trends-arizona-tempe",
+  "name": "Trends Arizona",
+  "category": "Shopping",
+  "googleCategory": "Vintage clothing store",
+  "secondaryCategories": [
+    "Thrift store"
+  ],
+  "address": "1827 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493748,
+  "lng": -111.9254673,
+  "phone": "+15094389565",
+  "website": "https://vincentcustom.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trends+Arizona/data=!4m7!3m6!1s0x872b09750d18c79b:0x7ad3d1d8c93c57b3!8m2!3d33.4493748!4d-111.9254673!16s%2Fg%2F11v60k2_9q!19sChIJm8cYDXUJK4cRs1c8ydjR03o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8850648421732472755",
+  "placeId": "ChIJm8cYDXUJK4cRs1c8ydjR03o",
+  "googleRating": 4.6,
+  "googleReviewCount": 53,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTbCqEsb-jIiXtGdOXnU1aLZ9RCGtTVlOnkXOsJspvDk6gjUDETmp_8Z7JgWeAqdQe2KH42CdF-5KesQ-iXt2xSJoq4O8P_VXHu7MbIFJFwhymQ7cq-AMm57SaAwSWuOOhdiZW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "4": 2,
+    "5": 46
+  },
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

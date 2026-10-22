@@ -1,0 +1,49 @@
+{
+  "slug": "jcpenney-salon-tempe",
+  "name": "JCPenney Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Beauty supply store"
+  ],
+  "address": "1900 E Rio Salado Pkwy Ste 140",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430206999999996,
+  "lng": -111.90338969999999,
+  "phone": "+14808293555",
+  "website": "https://www.jcpenney.com/locations/az/tempe/salon-tempe-az-2902.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/JCPenney+Salon/data=!4m7!3m6!1s0x872b08550a7e95f1:0xf584f6a6e06cc0ea!8m2!3d33.430207!4d-111.9033897!16s%2Fg%2F1q6j434tg!19sChIJ8ZV-ClUIK4cR6sBs4Kb2hPU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17691536432808378602",
+  "placeId": "ChIJ8ZV-ClUIK4cR6sBs4Kb2hPU",
+  "googleRating": 4.4,
+  "googleReviewCount": 83,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciPZ9_wEnTExN6ndQC86isXwfkUEpBvQFmxY0ZxsXMIrT9yZyg7WLK8lCOB_acb0EoepVHUjTFZuoanFz4oNYon0iWKfZ6x2QXq_r_ZXSL8mz1k7YW7DihCrv4CI7nTKL73xvHCg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "3": 1,
+    "4": 4,
+    "5": 68
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

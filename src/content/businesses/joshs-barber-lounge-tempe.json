@@ -1,0 +1,44 @@
+{
+  "slug": "joshs-barber-lounge-tempe",
+  "name": "Josh’s Barber Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "4415 S Rural Rd Ste 6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.384085,
+  "lng": -111.92495849999999,
+  "phone": "+16025742666",
+  "googleMapsUrl": "https://www.google.com/maps/place/Josh%E2%80%99s+Barber+Lounge/data=!4m7!3m6!1s0x872b07e9fc9058d1:0x39cce1b2fdf53ea6!8m2!3d33.384085!4d-111.9249585!16s%2Fg%2F11r_xhyw5q!19sChIJ0ViQ_OkHK4cRpj71_bLhzDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4164951914292002470",
+  "placeId": "ChIJ0ViQ_OkHK4cRpj71_bLhzDk",
+  "googleRating": 4.8,
+  "googleReviewCount": 25,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JturrcHKyyvOdqJwojR1FA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=113.74742&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 23
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

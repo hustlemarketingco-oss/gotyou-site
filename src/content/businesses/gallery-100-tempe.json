@@ -1,0 +1,43 @@
+{
+  "slug": "gallery-100-tempe",
+  "name": "Gallery 100",
+  "category": "Local Business",
+  "googleCategory": "Art gallery",
+  "address": "Visitor entrance thru south doors, 65 E University Dr Rm 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.420767399999995,
+  "lng": -111.93881499999999,
+  "website": "https://art.asu.edu/galleries-and-facilities/gallery-100",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gallery+100/data=!4m7!3m6!1s0x872b08da0df9cad7:0x46647f833e885da8!8m2!3d33.4207674!4d-111.938815!16s%2Fg%2F11_q4x23z!19sChIJ18r5DdoIK4cRqF2IPoN_ZEY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5072319281992588712",
+  "placeId": "ChIJ18r5DdoIK4cRqF2IPoN_ZEY",
+  "googleRating": 4.7,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAuajHD2uFJwK9PSug_-9LFZAFaHspZE7rdR6o6y8yK75ExgKqPijbZJz9CtttVJ_FeQiXnIMFfXY9PfNhgKjgiC9u3YYrho8p9AhuVRFAR129mvXWFCw2J8inOpjduHJGJdGYtQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "5": 5
+  },
+  "hours": {
+    "mon": "12:00 PM - 5:00 PM",
+    "tue": "12:00 PM - 5:00 PM",
+    "wed": "12:00 PM - 5:00 PM",
+    "thu": "12:00 PM - 5:00 PM",
+    "fri": "12:00 PM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "modified-aesthetics-at-dark-hearts-studio-tempe",
+  "name": "Modified Aesthetics at Dark Hearts Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2039 S Mill Ave #28",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406140199999996,
+  "lng": -111.9394183,
+  "phone": "+16025291335",
+  "website": "https://darkheartsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Modified+Aesthetics+at+Dark+Hearts+Studio/data=!4m7!3m6!1s0x872b07056caed503:0x450c54ad6c92ea7c!8m2!3d33.4061402!4d-111.9394183!16s%2Fg%2F11nx08g6xq!19sChIJA9WubAUHK4cRfOqSbK1UDEU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4975444792165198460",
+  "placeId": "ChIJA9WubAUHK4cRfOqSbK1UDEU",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHpxBpG92LJNyooGA_fGf3427gprrk-HLhXFVr6ZWlXdBZDL6vxZIgcIO2wYepzggt96qBp-TgTew9SxD1QfZ8HvBSu2C79O5NliiXKU5wAaA2s09kutCTlA4mS8RWxThBaL8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

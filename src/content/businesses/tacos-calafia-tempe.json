@@ -15,14 +15,14 @@
   "phone": "+14806407593",
   "website": "https://bit.ly/3DT8c1T",
   "placeId": "ChIJV5nIAokJK4cRAyvfoCkY7V8",
-  "googleRating": 4.6,
-  "googleReviewCount": 696,
+  "googleRating": 4.5,
+  "googleReviewCount": 726,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "8:00 AM - 9:00 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a3438c38a858f5f7f4dd018",
   "seededAt": "2026-06-18T18:28:19Z",
   "updatedAt": "2026-07-21T21:34:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6912207570155285251",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tacos+Calafia/data=!4m7!3m6!1s0x872b098902c89957:0x5fed1829a0df2b03!8m2!3d33.426353!4d-111.94021!16s%2Fg%2F11szdvqwsb!19sChIJV5nIAokJK4cRAyvfoCkY7V8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 19,
+    "3": 20,
+    "4": 39,
+    "5": 600
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1B-5toJ-6bEyAaoDQcMla5Empg_KV4tHzOl3dGE1v6AmHGZrnTu9MTEYrpxRV_Ce0DgEP2RP9eyjQjETSKO_5P1CZ_EYLx9Imdg9jHJ_bwzPt3-I6pvJbdBN8MsKGj7zjRG0C=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

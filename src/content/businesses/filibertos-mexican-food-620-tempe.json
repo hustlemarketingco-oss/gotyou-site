@@ -1,0 +1,54 @@
+{
+  "slug": "filibertos-mexican-food-620-tempe",
+  "name": "Filiberto's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "620 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378631999999996,
+  "lng": -111.9469981,
+  "phone": "+14808041903",
+  "website": "https://farebites.com/RestaurantMenu/Menu/43",
+  "googleMapsUrl": "https://www.google.com/maps/place/Filiberto%27s+Mexican+Food/data=!4m7!3m6!1s0x872b0f33fb355d7f:0x143c21473b2e4b9e!8m2!3d33.378632!4d-111.9469981!16s%2Fg%2F1tfzbncq!19sChIJf101-zMPK4cRnksuO0chPBQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1458076969180482462",
+  "placeId": "ChIJf101-zMPK4cRnksuO0chPBQ",
+  "googleRating": 3.7,
+  "googleReviewCount": 1852,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9csJacAy9QkG5Tp325FLeYZxbB3GCI0hz2j6mompbWCg-BzIjnDn5dPIaDTqxqGE2mzuUCz9IT95oxu5fOadk949MuGlo8UkNAGtv5BVCAuF7neqRE8f8v5_HizLRwIXV--kP=w1200-h800-k-no",
+  "description": "Mexican fast-food chain outlet specializing in tacos, burritos, tostadas & quesadillas.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 316,
+    "2": 121,
+    "3": 238,
+    "4": 364,
+    "5": 813
+  },
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -21,7 +21,7 @@
   "website": "https://ethiopianfamousrestaurantaz.com/",
   "placeId": "ChIJN9qYQgMJK4cRAkHc41JwMbk",
   "googleRating": 4.7,
-  "googleReviewCount": 141,
+  "googleReviewCount": 147,
   "priceRange": "$$",
   "hours": {
     "mon": "Closed",
@@ -38,5 +38,20 @@
   "groundgameId": "6a2c1cdc7dfb9f525bbc0648",
   "seededAt": "2026-06-12T14:51:08Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13344570672187982082",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ethiopian+Famous+Restaurant/data=!4m7!3m6!1s0x872b09034298da37:0xb9317052e3dc4102!8m2!3d33.4212707!4d-111.9246646!16s%2Fg%2F11y4xf1ymy!19sChIJN9qYQgMJK4cRAkHc41JwMbk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 9,
+    "3": 2,
+    "4": 8,
+    "5": 128
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpax2ounckA9YA1GVwITKWwacuLDzX6FuT84JKIiliX4Tv9HwvdWCxpipQkd_YwlXmTtbUB4_Pc8Hmg1YrDppe9t3onzqXN2bAIKhTcm_VcByeyHa-e8IUe5IQxsLT0g-XIntEnFlYKsZj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

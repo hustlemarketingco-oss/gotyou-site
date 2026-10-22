@@ -1,0 +1,38 @@
+{
+  "slug": "dakis-hair-az-tempe",
+  "name": "Dakis Hair AZ",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1712 E Guadalupe Rd #123",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3644482,
+  "lng": -111.9131709,
+  "phone": "+16023217005",
+  "website": "https://dakis-hair-az.ueniweb.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dakis+Hair+AZ/data=!4m7!3m6!1s0x872b07044de11c47:0x2d7d53a41ea5ea6d!8m2!3d33.3644482!4d-111.9131709!16s%2Fg%2F11hzbvss13!19sChIJRxzhTQQHK4cRbeqlHqRTfS0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3277868068149521005",
+  "placeId": "ChIJRxzhTQQHK4cRbeqlHqRTfS0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XUDPGwdB14z61nMmm1X0QA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=9.785143&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "Closed",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

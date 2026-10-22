@@ -1,0 +1,55 @@
+{
+  "slug": "mcdonalds-1205-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1205 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85280",
+  "lat": 33.415782199999995,
+  "lng": -111.92590829999999,
+  "phone": "+14808296604",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/1205-S-RURAL-RD/11664.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b08e851b7bc53:0x39bcaa2a0400ac1e!8m2!3d33.4157822!4d-111.9259083!16s%2Fg%2F1tk8cl15!19sChIJU7y3UegIK4cRHqwABCqqvDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4160387253215996958",
+  "placeId": "ChIJU7y3UegIK4cRHqwABCqqvDk",
+  "googleRating": 3.5,
+  "googleReviewCount": 2146,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerXNs8otE444D4EpVz46tha_rhvrF3crk__14fS3mgtyr5zQXi9Q5d1LkJ602q2RBq6xXiyEEJZF8Gb7tSQDgoGGnMahQ0yb4T2E5VtSXk614J12r_2PWhsTVm1SzpulBlnF1XxYiwh4k=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 401,
+    "2": 156,
+    "3": 356,
+    "4": 451,
+    "5": 782
+  },
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "5:00 AM - 10:00 PM",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

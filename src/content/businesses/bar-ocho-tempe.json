@@ -1,0 +1,41 @@
+{
+  "slug": "bar-ocho-tempe",
+  "name": "Bar Ocho",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "715 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4231683,
+  "lng": -111.9257928,
+  "phone": "+14809445227",
+  "website": "https://www.bar8ocho.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+Ocho/data=!4m7!3m6!1s0x872b0900705a65ab:0x38a197eaea707601!8m2!3d33.4231683!4d-111.9257928!16s%2Fg%2F11zgz3tl8g!19sChIJq2VacAAJK4cRAXZw6uqXoTg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4080709772585760257",
+  "placeId": "ChIJq2VacAAJK4cRAXZw6uqXoTg",
+  "googleRating": 4.5,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdZEbH-cptP3Z14M9dE8rZItZq-kQsYPV3ougQkl_BYMJ4SEGu218s7QO_h9pvDNatcADuqgS75wkQOrDcgWhq7P5ivvVtxaesmobSjFiMlWZeH1HY_1I514jF065XLIv0A0GNAqEuVvzo=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 1,
+    "4": 1,
+    "5": 17
+  },
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 1:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

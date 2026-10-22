@@ -1,0 +1,53 @@
+{
+  "slug": "love-child-resale-tempe",
+  "name": "Love Child Resale",
+  "category": "Shopping",
+  "googleCategory": "Children's store",
+  "secondaryCategories": [
+    "Boutique",
+    "Children's clothing store",
+    "Clothing store",
+    "Used clothing store"
+  ],
+  "address": "6444 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3620186,
+  "lng": -111.91261689999999,
+  "phone": "+14802076110",
+  "website": "http://www.lovechildresale.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Love+Child+Resale/data=!4m7!3m6!1s0x872b06e4c939116f:0x422110b7363d4acc!8m2!3d33.3620186!4d-111.9126169!16s%2Fg%2F1hc5qkss9!19sChIJbxE5yeQGK4cRzEo9NrcQIUI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4765108259809741516",
+  "placeId": "ChIJbxE5yeQGK4cRzEo9NrcQIUI",
+  "googleRating": 4.5,
+  "googleReviewCount": 127,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOpmRATRqiUXT5pOpIXij109M83WN027erSJ_ybexotJKyBp01d0fbe7WrYtZkp8Mwu8JVQw1gT7g5U4n16iU6TnCfvmstkBxHnGAO_cizAH2KDxZMGR54NYXjvvZxPeu-Gpnd=w1200-h800-k-no",
+  "description": "This secondhand store specializes in children's clothing, toys & books sold on consignment.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 5,
+    "3": 5,
+    "4": 11,
+    "5": 100
+  },
+  "hours": {
+    "mon": "10:30 AM - 6:00 PM",
+    "tue": "10:30 AM - 6:00 PM",
+    "wed": "10:30 AM - 6:00 PM",
+    "thu": "10:30 AM - 6:00 PM",
+    "fri": "10:30 AM - 6:00 PM",
+    "sat": "10:30 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

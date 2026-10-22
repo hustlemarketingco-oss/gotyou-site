@@ -1,0 +1,51 @@
+{
+  "slug": "htc-studios-tempe",
+  "name": "HTC Studios",
+  "category": "Health & Beauty",
+  "googleCategory": "Body piercing shop",
+  "secondaryCategories": [
+    "Ear piercing service",
+    "Jewelry store",
+    "Tattoo shop"
+  ],
+  "address": "808 S Ash Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4211868,
+  "lng": -111.94256419999999,
+  "phone": "+14807844460",
+  "website": "https://www.beststudioever.com/tempe-campus",
+  "googleMapsUrl": "https://www.google.com/maps/place/HTC+Studios/data=!4m7!3m6!1s0x872b08d717b65f21:0x9b4c522f500c0377!8m2!3d33.4211868!4d-111.9425642!16s%2Fg%2F1tk8p1bg!19sChIJIV-2F9cIK4cRdwMMUC9STJs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11190409537268745079",
+  "placeId": "ChIJIV-2F9cIK4cRdwMMUC9STJs",
+  "googleRating": 4.5,
+  "googleReviewCount": 814,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV3LXak141ZjL5PN9zkT3ITqeU6mfE0gM1Qo5ybv0VHU_luD_KQDSchEO7C1aSmQ6SGYSTu-nzCb4zy_t30Tua_Rs5qrcRV6h5wa846KGzKKJPKyTR6AwwSYVl2epIyyxYO9YR6OjXBijl=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 61,
+    "2": 14,
+    "3": 22,
+    "4": 46,
+    "5": 671
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

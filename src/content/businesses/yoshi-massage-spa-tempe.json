@@ -1,0 +1,43 @@
+{
+  "slug": "yoshi-massage-spa-tempe",
+  "name": "YOSHI MASSAGE SPA",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "4415 S Rural Rd #7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3838812,
+  "lng": -111.9249356,
+  "phone": "+14808979466",
+  "googleMapsUrl": "https://www.google.com/maps/place/YOSHI+MASSAGE+SPA/data=!4m7!3m6!1s0x872b076877a91be9:0xfb83ac3dca374dce!8m2!3d33.3838812!4d-111.9249356!16s%2Fg%2F11mrcvz2gl!19sChIJ6Rupd2gHK4cRzk03yj2sg_s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18123518706854612430",
+  "placeId": "ChIJ6Rupd2gHK4cRzk03yj2sg_s",
+  "googleRating": 3,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N8PN3KOTHFDAlwD0ID7hKA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=138.65329&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 2
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

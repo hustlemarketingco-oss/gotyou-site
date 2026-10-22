@@ -1,0 +1,37 @@
+{
+  "slug": "onthamove-barbershop-tempe",
+  "name": "OnThaMove Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "707 S Farmer Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4228537,
+  "lng": -111.94410909999999,
+  "phone": "+16233408742",
+  "website": "https://book.thecut.co/QueceThaGreat",
+  "googleMapsUrl": "https://www.google.com/maps/place/OnThaMove+Barbershop/data=!4m7!3m6!1s0x872b0902475bd0e5:0x8305b3823d087ba5!8m2!3d33.4228537!4d-111.9441091!16s%2Fg%2F11lf93yx8y!19sChIJ5dBbRwIJK4cRpXsIPYKzBYM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9441149565803199397",
+  "placeId": "ChIJ5dBbRwIJK4cRpXsIPYKzBYM",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftEdgPJ1BuUmiAfjH_Q9JQ55RjgpzdsMHcy6I9havAlRxyQuYoA1pr0XGrrDC7ka0q7rtXeBStA4446QdGKJjuDYbKU7e6ZBWPiyxAZV7rHN54tMU7RHBXb0hqqc6gxrMI5rUqNQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -11,23 +11,8 @@
   "priceRange": "$10–20",
   "description": "The Cafe and Coffeehouse @ Honeymoon Sweets is a Tempe casual, cozy coffee shop known for coffee & comfort food, takeout.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/HoneymoonSweets"
@@ -38,5 +23,27 @@
   "groundgameId": "6a2439afea0ece71a74efadd",
   "seededAt": "2026-06-06T15:15:59Z",
   "updatedAt": "2026-06-09T01:18:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJHYZF5sYJK4cRPZxJTarAogQ",
+  "googleCid": "334041160052481085",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Cafe+and+Coffeehouse+@+Honeymoon+Sweets/data=!4m7!3m6!1s0x872b09c6e645861d:0x4a2c0aa4d499c3d!8m2!3d33.3933065!4d-111.9482562!16s%2Fg%2F11vy1xd0qf!19sChIJHYZF5sYJK4cRPZxJTarAogQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 4,
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGPlvfZaPnV8xJQwSBqR6pDEugDiSYLhbV3D65zOvydE6uWpKjqCaSRzDso8FpncVNnLO2kgfluywK_NGWDAMHjdKSSSTbfECIbR_-86xNaewpqK7HuOyFmDRJIJ63_T58uE30TFN77cdR=w1200-h800-k-no",
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "lat": 33.3933065,
+  "lng": -111.94825619999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "starbucks-1800-tempe",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "1800 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+14802142667",
+  "website": "https://www.starbucks.com/store-locator?map=33.42193,-111.93678,12z&place=Tempe,%20AZ%2085281,%20USA",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x872b08ff83daaaab:0x4a24830f06113e30!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11zj_lh9sv!19sChIJq6rag_8IK4cRMD4RBg-DJEo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5342539158517792304",
+  "placeId": "ChIJq6rag_8IK4cRMD4RBg-DJEo",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mo2oUSBvayUJBt6uxCWr3Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=218.79816&pitch=0&thumbfov=100",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

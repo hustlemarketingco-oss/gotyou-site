@@ -1,0 +1,53 @@
+{
+  "slug": "knee-deep-denim-tempe",
+  "name": "Knee Deep Denim",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Clothing wholesaler",
+    "Fashion accessories store",
+    "Lingerie store",
+    "Swimwear store",
+    "Vintage clothing store"
+  ],
+  "address": "512 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425076,
+  "lng": -111.94030959999999,
+  "phone": "+16028425697",
+  "website": "http://kneedeepdenim.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Knee+Deep+Denim/data=!4m7!3m6!1s0x872b0b537cc59657:0x4b2f0133dad3aa1d!8m2!3d33.425076!4d-111.9403096!16s%2Fg%2F11h4s6334r!19sChIJV5bFfFMLK4cRHarT2jMBL0s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5417550198976260637",
+  "placeId": "ChIJV5bFfFMLK4cRHarT2jMBL0s",
+  "googleRating": 4.8,
+  "googleReviewCount": 35,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVtK56b833-toAkGRNHV7t7UF3uHO2dbroBRo3DeDbFSm7Jj1em-hHTbjfW5b8Hq3HuxKD4PmfiWlWzaEGtKOWppK7Q568kxtlNrq-BBtnOMyg7DxFmA9u50J5aojGJQLesK3e=w1200-h800-k-no",
+  "amenities": [
+    "Assistive hearing loop",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "2": 2,
+    "5": 33
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

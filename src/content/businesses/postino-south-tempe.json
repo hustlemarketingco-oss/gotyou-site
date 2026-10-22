@@ -19,7 +19,7 @@
   "website": "https://www.postino.com/locations/postino-south-tempe",
   "placeId": "ChIJecall_AHK4cROw58jczXBHg",
   "googleRating": 4.6,
-  "googleReviewCount": 1454,
+  "googleReviewCount": 1486,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 11:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a3a00650da4172315956170",
   "seededAt": "2026-06-23T03:41:25Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8648274458005212731",
+  "googleMapsUrl": "https://www.google.com/maps/place/Postino+South+Tempe/data=!4m7!3m6!1s0x872b07f097a5c679:0x7804d7cc8d7c0e3b!8m2!3d33.335284!4d-111.9278231!16s%2Fg%2F11kxllblsq!19sChIJecall_AHK4cROw58jczXBHg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 43,
+    "2": 35,
+    "3": 67,
+    "4": 188,
+    "5": 1153
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctP2djD8cTOfF86IqHVHmFvORew0Z9k-jfKPIo-tZK8GHHCf0_MHVd-wiJCrVDPx6YUODiZNV0mTBHfYTVSOo5cOkv96NviWfZWIVVQ252-cewDwhZT2EWdAPQqIzVLAXFwOgE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

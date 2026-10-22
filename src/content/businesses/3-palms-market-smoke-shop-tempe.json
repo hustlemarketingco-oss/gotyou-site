@@ -1,0 +1,50 @@
+{
+  "slug": "3-palms-market-smoke-shop-tempe",
+  "name": "3 Palms Market & Smoke Shop",
+  "category": "Shopping",
+  "googleCategory": "Market",
+  "secondaryCategories": [
+    "Beer store",
+    "Tobacco shop",
+    "Vaporizer store"
+  ],
+  "address": "2115 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4048666,
+  "lng": -111.90879269999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/3+Palms+Market+%26+Smoke+Shop/data=!4m7!3m6!1s0x872b08895fc2e635:0x9b51628779d396fa!8m2!3d33.4048666!4d-111.9087927!16s%2Fg%2F1tftfscm!19sChIJNebCX4kIK4cR-pbTeYdiUZs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11191834882996410106",
+  "placeId": "ChIJNebCX4kIK4cR-pbTeYdiUZs",
+  "googleRating": 4.3,
+  "googleReviewCount": 175,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAIxCHUmPA-YSyt8jvz5yPYgPmIxZFnSrNREdVEE70GdJWDo3uSy54KJCLTyVB-KGMqRzWzNm12FsFrGTSk1GBJBqbTCNkFp_zXKevfbf7Guoezp4BW7SAIgekHWjxxBk1Nwgzhw=w1200-h800-k-no",
+  "description": "Neighborhood convenience store selling the basics, including sandwiches & an assortment of beer.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 5,
+    "3": 12,
+    "4": 29,
+    "5": 116
+  },
+  "hours": {
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 11:00 PM",
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

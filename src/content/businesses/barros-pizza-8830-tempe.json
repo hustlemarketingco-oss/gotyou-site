@@ -1,0 +1,55 @@
+{
+  "slug": "barros-pizza-8830-tempe",
+  "name": "Barro's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Delivery service",
+    "Italian restaurant",
+    "Restaurant"
+  ],
+  "address": "8830 S Kyrene Rd #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3329519,
+  "lng": -111.94655689999999,
+  "phone": "+14808317676",
+  "website": "https://barrospizza.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barro%27s+Pizza/data=!4m7!3m6!1s0x872b06840313165f:0xd32e8e607ac47d1!8m2!3d33.3329519!4d-111.9465569!16s%2Fg%2F1hjh6vf_b!19sChIJXxYTA4QGK4cR0UesB-boMg0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "951078545997449169",
+  "placeId": "ChIJXxYTA4QGK4cR0UesB-boMg0",
+  "googleRating": 4.5,
+  "googleReviewCount": 938,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNB_iykak16UNwTrQI-uM9WaVLlMtZi0KicvGYIusu6EjEZL0XyNVi50A0Nl728hfsXoC6ninXtwd9WVEzGs1Y8YLDoJ4D6FG4nt4T1L5P5AVbQFQLha-8FrHmqzUV78HtgFHFrpaY3sr9=w1200-h800-k-no",
+  "description": "Regional chain serving thick- & thin-crust pies, wings & sandwiches in a simple setting.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 37,
+    "2": 15,
+    "3": 40,
+    "4": 197,
+    "5": 649
+  },
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

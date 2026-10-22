@@ -1,0 +1,41 @@
+{
+  "slug": "padmagold-llc-tempe",
+  "name": "PadmaGold LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "1801 S Jentilly Ln c16",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4084333,
+  "lng": -111.92309189999999,
+  "phone": "+16025618711",
+  "googleMapsUrl": "https://www.google.com/maps/place/PadmaGold+LLC/data=!4m7!3m6!1s0x872b095b3590efbb:0xf6eef88fe0e9d977!8m2!3d33.4084333!4d-111.9230919!16s%2Fg%2F11g3_97gfd!19sChIJu--QNVsJK4cRd9np4I_47vY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17793432474624842103",
+  "placeId": "ChIJu--QNVsJK4cRd9np4I_47vY",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_-MTHyAZcSKfbXEVWN38NxkmOBdkhrXaRnhoxwb90PLBE3lj9WDxAfjUZ5XbJOCDsTHT_-fpZ8oinbrCew2V3eYYC-pSNSuiHP86GFJd3sllKD03siu1PnabyrcVJZe5OCeo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "10:30 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

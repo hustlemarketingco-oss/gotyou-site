@@ -1,0 +1,46 @@
+{
+  "slug": "russos-new-york-pizzeria-italian-kitchen-tempe",
+  "name": "Russo's New York Pizzeria & Italian Kitchen",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "address": "521 S College Ave #109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4246617,
+  "lng": -111.9347674,
+  "phone": "+16233098685",
+  "website": "https://www.nypizzeria.com/locations/tempe-az",
+  "googleMapsUrl": "https://www.google.com/maps/place/Russo%27s+New+York+Pizzeria+%26+Italian+Kitchen/data=!4m7!3m6!1s0x872b09624d8b70e5:0x6fb00067ebb41be2!8m2!3d33.4246617!4d-111.9347674!16s%2Fg%2F11npx_5f0j!19sChIJ5XCLTWIJK4cR4hu062cAsG8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8047932980447157218",
+  "placeId": "ChIJ5XCLTWIJK4cR4hu062cAsG8",
+  "googleRating": 5,
+  "googleReviewCount": 72,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmwICZ5gv3eSBoVcA_wRg74khNAV6I-3oRoASd_av37ZOGAjkOUkQPGj20M_ODCeHQVtg9Vi8K9-xweI68G6tpKsaCxEEyxPifnDtU9hQtYROrOJEAr0-EMthbi4NS5AHc1YyJVyXkKuBI=w1200-h800-k-no",
+  "description": "Casual chain serving pizza along with soups, sandwiches & pastas.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 71
+  },
+  "hours": {
+    "mon": "11:30 AM - 10:00 PM",
+    "tue": "11:30 AM - 10:00 PM",
+    "wed": "11:30 AM - 10:00 PM",
+    "thu": "11:30 AM - 10:00 PM",
+    "fri": "11:30 AM - 11:00 PM",
+    "sat": "11:30 AM - 11:00 PM",
+    "sun": "2:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

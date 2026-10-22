@@ -1,0 +1,55 @@
+{
+  "slug": "legoland-discovery-center-arizona-tempe",
+  "name": "LEGOLAND Discovery Center Arizona",
+  "category": "Fun & Activities",
+  "googleCategory": "Children's amusement center",
+  "secondaryCategories": [
+    "Amusement center",
+    "Amusement park",
+    "Children's museum",
+    "Museum",
+    "Tourist attraction"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 135",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3856183,
+  "lng": -111.9634524,
+  "phone": "+14805657081",
+  "website": "https://www.legolanddiscoverycenter.com/arizona/?utm_source=local-listing&utm_medium=organic&utm_campaign=tickets",
+  "googleMapsUrl": "https://www.google.com/maps/place/LEGOLAND+Discovery+Center+Arizona/data=!4m7!3m6!1s0x872b0f59e42b18cd:0x7e56643ee4fd0846!8m2!3d33.3856183!4d-111.9634524!16s%2Fg%2F11cnwpldpp!19sChIJzRgr5FkPK4cRRgj95D5kVn4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9103573918068574278",
+  "placeId": "ChIJzRgr5FkPK4cRRgj95D5kVn4",
+  "googleRating": 4.3,
+  "googleReviewCount": 4323,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2QmCxCGAkygWiIhRBzRMxecpAKAVwta36FaaSrTwwaoz2uLEStXl0RsEPf7SMpJD-Zay3CNl7Cb3YasOu2ZyJJb4eD7DhB2QwZKlGHfgmCdb1sEaA7a81SYVimQ2jP8v9oLq7GQ=w1200-h800-k-no",
+  "description": "Upbeat amusement center featuring family-friendly exhibits, 4D movies, rides & a Lego factory tour.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 194,
+    "2": 143,
+    "3": 420,
+    "4": 904,
+    "5": 2662
+  },
+  "hours": {
+    "mon": "11:00 AM - 5:00 PM",
+    "tue": "11:00 AM - 5:00 PM",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

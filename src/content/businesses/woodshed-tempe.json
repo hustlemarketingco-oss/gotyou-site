@@ -2,7 +2,7 @@
   "slug": "woodshed-tempe",
   "name": "Woodshed",
   "category": "Bars & Pubs",
-  "googleCategory": "Cocktail bar",
+  "googleCategory": "Bar",
   "secondaryCategories": [
     "Bar & grill",
     "Bar",
@@ -17,26 +17,17 @@
   "lng": -111.940115,
   "phone": "+14808319663",
   "website": "http://facebook.com/caseyswoodshed",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5329430549217123896",
+  "googleMapsUrl": "https://www.google.com/maps/place/Woodshed/data=!4m7!3m6!1s0x872b061b57cbb4f1:0x49f5f0d915339e38!8m2!3d33.377411!4d-111.940115!16s%2Fg%2F1tnplgcg!19sChIJ8bTLVxsGK4cROJ4zFdnw9Uk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5329430549217123896",
   "placeId": "ChIJ8bTLVxsGK4cROJ4zFdnw9Uk",
   "googleRating": 4.3,
-  "googleReviewCount": 555,
+  "googleReviewCount": 566,
   "priceRange": "$10–20",
   "description": "Long-standing sports bar serving up classic American eats amid casual digs with pool tables.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Debit cards",
-    "Pets: Inside"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "6:00 AM - 2:00 AM",
@@ -53,5 +44,14 @@
   "groundgameId": "6a2438b3ba6d563aa2a967c7",
   "seededAt": "2026-06-06T15:11:47Z",
   "updatedAt": "2026-06-06T15:11:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 24,
+    "3": 39,
+    "4": 79,
+    "5": 382
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwgGrROvcXENwDTDieWF_OGEF80Qu7qr9IgPMIMAdFsW8Ye6W00BKrkNH-Haqle8y4Td5qsT-86NQidXsvqI8KcwcAjZ31XhwlxMY3vpgTZp189Zxnr4CoT_3QhPj3t5q-jB0sbQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

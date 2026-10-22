@@ -1,0 +1,56 @@
+{
+  "slug": "precision-graphics-tempe",
+  "name": "Precision Graphics",
+  "category": "Shopping",
+  "googleCategory": "Screen printing shop",
+  "secondaryCategories": [
+    "Banner store",
+    "Clothing store",
+    "Custom t-shirt store",
+    "Digital printer",
+    "Embroidery shop",
+    "Men's clothing store",
+    "Promotional products supplier",
+    "Screen printer"
+  ],
+  "address": "1715 W 4th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4260683,
+  "lng": -111.9658585,
+  "phone": "+14809677015",
+  "website": "http://www.azprecisiongraphics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Precision+Graphics/data=!4m7!3m6!1s0x872b0ed9894ffe1d:0x861449bb2da99bff!8m2!3d33.4260683!4d-111.9658585!16s%2Fg%2F1tc_fqs4!19sChIJHf5PidkOK4cR_5upLbtJFIY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9661428168890358783",
+  "placeId": "ChIJHf5PidkOK4cR_5upLbtJFIY",
+  "googleRating": 4.8,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTlKA3lBn9dyJ19A-N13NIyDxa4fEnm51fmfM4mkgVKz8bS0QGnyCm2F9Or9FggJg9SeHfZPeCJfsqRE2odglkUkp87nsCKZ3KzuaRwSHFrPGghs0-0cWJVD2iPZGF_IRw4dd7jRJt66pc=w1200-h800-k-no",
+  "description": "Sizable retailer of apparel & promotional gear plus custom printing & embroidery services.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 24
+  },
+  "hours": {
+    "mon": "7:30 AM - 4:00 PM",
+    "tue": "7:30 AM - 4:00 PM",
+    "wed": "7:30 AM - 4:00 PM",
+    "thu": "7:30 AM - 4:00 PM",
+    "fri": "7:30 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "stretch-factory-tempe",
+  "name": "Stretch Factory Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Fitness center",
+    "Sports massage therapist"
+  ],
+  "address": "1801 S Jentilly Ln #a-14",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4084333,
+  "lng": -111.92309189999999,
+  "phone": "+14807889453",
+  "googleMapsUrl": "https://www.google.com/maps/place/Stretch+Factory+Tempe/data=!4m7!3m6!1s0x872b097a84a27b65:0xd52147425595c928!8m2!3d33.4084333!4d-111.9230919!16s%2Fg%2F11qswtp49q!19sChIJZXuihHoJK4cRKMmVVUJHIdU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15357634554539395368",
+  "placeId": "ChIJZXuihHoJK4cRKMmVVUJHIdU",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bEy89suVAtXfBpEOoiYfMw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=2.0008106&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

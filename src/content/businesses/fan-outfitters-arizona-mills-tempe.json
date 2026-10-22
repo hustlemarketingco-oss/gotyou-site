@@ -1,0 +1,49 @@
+{
+  "slug": "fan-outfitters-arizona-mills-tempe",
+  "name": "Fan Outfitters Arizona Mills",
+  "category": "Shopping",
+  "googleCategory": "Hat shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Embroidery service",
+    "Embroidery shop",
+    "Sports memorabilia store",
+    "Sportswear store"
+  ],
+  "address": "5000 S Arizona Mills Cir #418",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3821959,
+  "lng": -111.9647384,
+  "phone": "+14804284980",
+  "website": "https://fanoutfitters.com/?_s=bm-LIDS-RETAIL-GMB",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fan+Outfitters+Arizona+Mills/data=!4m7!3m6!1s0x872b0f814af81967:0x4f6d5039911e62f6!8m2!3d33.3821959!4d-111.9647384!16s%2Fg%2F11y2q7cnc7!19sChIJZxn4SoEPK4cR9mIekTlQbU8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5723318909635814134",
+  "placeId": "ChIJZxn4SoEPK4cR9mIekTlQbU8",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXhHe9uMdnH18jd7JZFPdfzFDluca_sQbyaUEuqjGdq1nkmilaWWUnRV5ULZ980X0rlFABR2X5_78cza5OFpmBLpTH7gNrK_R63WLPf6W-rIGxN4egG84TK0oUs-bLvNNQWBOzuAc9gdA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

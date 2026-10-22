@@ -1,0 +1,50 @@
+{
+  "slug": "arizona-combat-sports-tempe",
+  "name": "Arizona Combat Sports",
+  "category": "Health & Beauty",
+  "googleCategory": "Martial arts school",
+  "secondaryCategories": [
+    "Boxing gym",
+    "Self defense school"
+  ],
+  "address": "1425 W 14th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.412776199999996,
+  "lng": -111.96245189999999,
+  "phone": "+14805171960",
+  "website": "http://azcombatsports.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Combat+Sports/data=!4m7!3m6!1s0x872b08f4f9ef8fd1:0xada84ffe3b92b25f!8m2!3d33.4127762!4d-111.9624519!16s%2Fg%2F1tddb9gs!19sChIJ0Y_v-fQIK4cRX7KSO_5PqK0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12513339517988680287",
+  "placeId": "ChIJ0Y_v-fQIK4cRX7KSO_5PqK0",
+  "googleRating": 5,
+  "googleReviewCount": 251,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLew_KTd9v-2ob9_GbXa6hIsGPk8scj-JcmIdR6Aqgfe30QM2njXa3Ehgt5pXBH5st7hjnNQ6IL9d8DiPPnKWD3pgx02BjrXEP4srdQ5QBUT-RCagh860Cc4lQhTYQmeDedfZiLs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "4": 2,
+    "5": 247
+  },
+  "hours": {
+    "mon": "6:30 AM - 8:30 AM, 11:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
+    "tue": "6:30 AM - 8:30 AM, 11:00 AM - 2:00 PM, 4:30 PM - 8:00 PM",
+    "wed": "6:00 AM - 8:30 AM, 11:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
+    "thu": "6:30 AM - 8:30 AM, 11:00 AM - 2:00 PM, 4:30 PM - 8:00 PM",
+    "fri": "12:00 PM - 2:00 PM, 4:00 PM - 7:00 PM",
+    "sat": "11:00 AM - 12:00 PM",
+    "sun": "11:00 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

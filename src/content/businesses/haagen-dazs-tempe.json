@@ -11,18 +11,8 @@
   "priceRange": "$$",
   "description": "Counter-service chain offering scoops of ice cream & sorbet plus sundaes, shakes & smoothies.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/HaagenDazsUS"
@@ -33,5 +23,30 @@
   "groundgameId": "6a24363033681f485cf90093",
   "seededAt": "2026-06-06T15:01:04Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJt2BbnD0PK4cRw0xlKURcYFI",
+  "googleCid": "5935845756696349891",
+  "googleMapsUrl": "https://www.google.com/maps/place/H%C3%A4agen-Dazs/data=!4m7!3m6!1s0x872b0f3d9c5b60b7:0x52605c4429654cc3!8m2!3d33.3828996!4d-111.9650839!16s%2Fg%2F11hgwk6h_z!19sChIJt2BbnD0PK4cRw0xlKURcYFI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.3,
+  "googleReviewCount": 43,
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 2,
+    "4": 3,
+    "5": 22
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciswid2eA5n7VDWvkFt5CpyFVl0D7FMifzfvv1sQQNrIJGXpfx58xXXGQusJJT2SmQ3JyJGa2Z4ptM0H5KtO2s7YKr_3Jccu4A3W6c0Z0Q00hjScG5lV8D8OJEXBRGJXcM7wTLxsCKh08=w1200-h800-k-no",
+  "website": "https://www.icecream.com/us/en/brands/haagen-dazs/shops/all-shops/arizona-mills",
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "lat": 33.3828996,
+  "lng": -111.9650839,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

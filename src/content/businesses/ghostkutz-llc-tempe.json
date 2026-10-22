@@ -1,0 +1,42 @@
+{
+  "slug": "ghostkutz-llc-tempe",
+  "name": "GhostKutz LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 W 6th St #122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424036799999996,
+  "lng": -111.94197179999999,
+  "phone": "+16238069511",
+  "website": "http://ghostkutzllc.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/GhostKutz+LLC/data=!4m7!3m6!1s0x872b09e3a7edf5b3:0x1b78a1a472801910!8m2!3d33.4240368!4d-111.9419718!16s%2Fg%2F11s87d57vx!19sChIJs_Xtp-MJK4cREBmAcqSheBs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1979509763897039120",
+  "placeId": "ChIJs_Xtp-MJK4cREBmAcqSheBs",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxzDiVYzQVGc11sGRDS_Hw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=194.05971&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

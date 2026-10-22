@@ -1,0 +1,54 @@
+{
+  "slug": "filibertos-mexican-food-8825-tempe",
+  "name": "Filiberto's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "8825 S Jewel St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.334010899999996,
+  "lng": -111.9680056,
+  "phone": "+14804769084",
+  "website": "https://filibertosmexicanfood.shop/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Filiberto%27s+Mexican+Food/data=!4m7!3m6!1s0x872b057fa955845f:0x8ffa48fe65b2dcf4!8m2!3d33.3340109!4d-111.9680056!16s%2Fg%2F11gjsybnt4!19sChIJX4RVqX8FK4cR9NyyZf5I-o8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10374684949066472692",
+  "placeId": "ChIJX4RVqX8FK4cR9NyyZf5I-o8",
+  "googleRating": 4.2,
+  "googleReviewCount": 1362,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLIfKh8AqlUKKDY36M6Wk5b0ltI6XbcjIfq_s8SwDDzyDGz9fGRK1A8j9cvuCkjNQdKY2MntCI8hjqRlLPUi5s4kQIW7ZAxi_usJW1yDauqROugMG3X6ZRPKBiZSzJNYI26m8=w1200-h800-k-no",
+  "description": "Mexican fast-food chain outlet specializing in tacos, burritos, tostadas & quesadillas.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 112,
+    "2": 67,
+    "3": 93,
+    "4": 254,
+    "5": 836
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

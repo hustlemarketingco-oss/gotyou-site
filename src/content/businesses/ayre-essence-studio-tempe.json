@@ -1,0 +1,43 @@
+{
+  "slug": "ayre-essence-studio-tempe",
+  "name": "Ayre Essence Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "933 E Broadway Rd Ste 19",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "phone": "+12244770010",
+  "website": "http://aellc.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ayre+Essence+Studio/data=!4m7!3m6!1s0x872b093cc4d7670b:0x8a13d0b3873121e9!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11y0nwntcz!19sChIJC2fXxDwJK4cR6SExh7PQE4o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9949525471277425129",
+  "placeId": "ChIJC2fXxDwJK4cR6SExh7PQE4o",
+  "googleRating": 5,
+  "googleReviewCount": 37,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjHRxURR7aBhpEiWFRXOQAWyGeV1ve4HHZu7ShTnbwcd_C16pRo7gGjv8zT2CsnEicz3okoSEw56VLGAMbXkOaxO-cfaMEXM0a3np5C1eiRMZ9WrTSiKCdQ-fykJs92sQqfzEFA_KevfFn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 37
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "Closed",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

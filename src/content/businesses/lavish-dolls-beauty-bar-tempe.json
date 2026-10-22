@@ -1,0 +1,44 @@
+{
+  "slug": "lavish-dolls-beauty-bar-tempe",
+  "name": "Lavish Dolls Beauty Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1821 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493455,
+  "lng": -111.92566529999999,
+  "phone": "+14806655389",
+  "website": "http://www.shoplavishdolls.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lavish+Dolls+Beauty+Bar/data=!4m7!3m6!1s0x872b09ec1039c5e5:0x24fee12a00ccea3f!8m2!3d33.4493455!4d-111.9256653!16s%2Fg%2F11q22jf42s!19sChIJ5cU5EOwJK4cRP-rMACrh_iQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2665815599968217663",
+  "placeId": "ChIJ5cU5EOwJK4cRP-rMACrh_iQ",
+  "googleRating": 4,
+  "googleReviewCount": 8,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q3EsJAkYzAcVEfGcze1ylw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=3.328463&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

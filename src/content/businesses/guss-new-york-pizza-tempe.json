@@ -18,7 +18,7 @@
   "website": "http://gusnewyorkpizza.com/",
   "placeId": "ChIJT4ZZ-uYIK4cR1GhsC7H14F4",
   "googleRating": 4,
-  "googleReviewCount": 2508,
+  "googleReviewCount": 2545,
   "priceRange": "$$",
   "hours": {
     "mon": "Open 24 hours",
@@ -35,5 +35,22 @@
   "groundgameId": "6a2c63d308f2ed83fbf39240",
   "seededAt": "2026-06-12T19:53:55Z",
   "updatedAt": "2026-07-28T18:25:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6836734375098083540",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gus%27s+New+York+Pizza/data=!4m7!3m6!1s0x872b08e6fa59864f:0x5ee0f5b10b6c68d4!8m2!3d33.4212791!4d-111.9258086!16s%2Fg%2F1tdylp36!19sChIJT4ZZ-uYIK4cR1GhsC7H14F4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 390,
+    "2": 98,
+    "3": 164,
+    "4": 405,
+    "5": 1488
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_m9scO5VtdS_6c2Ot8Riz-vlH8Gyobhb4k8HBf-LiS45Z8-n0F5BYeoq1_wXYp9N7XmmRt_S_IOX9aD_yUrR_MYaOw3D5SFo-8JvVEZlCNovvHOGTYcUT3YamUzVuiZhiQu4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -2,7 +2,7 @@
   "slug": "urban-boba-tea-house-asu-tempe",
   "name": "Urban Boba Tea House - ASU Tempe",
   "category": "Coffee & Cafe",
-  "googleCategory": "Tea house",
+  "googleCategory": "Bubble tea store",
   "address": "1015 S Rural Rd #103",
   "city": "Tempe",
   "state": "AZ",
@@ -13,13 +13,11 @@
   "website": "http://urbanbobatempe.com/",
   "placeId": "ChIJsTUqZegIK4cRRMA_READhfA",
   "googleRating": 4.5,
-  "googleReviewCount": 386,
+  "googleReviewCount": 393,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "mon": "12:00 PM - 8:30 PM",
@@ -36,5 +34,19 @@
   "groundgameId": "6a276580c11ebb1dc6671661",
   "seededAt": "2026-06-09T00:59:44Z",
   "updatedAt": "2026-07-16T19:11:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17331262315563040836",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urban+Boba+Tea+House+-+ASU+Tempe/data=!4m7!3m6!1s0x872b08e8652a35b1:0xf0850340443fc044!8m2!3d33.4173005!4d-111.9259904!16s%2Fg%2F11g8ksxbrn!19sChIJsTUqZegIK4cRRMA_READhfA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 11,
+    "3": 22,
+    "4": 58,
+    "5": 289
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelVZ-cE6IKcjkNdeRrrfRQaDwA0ppH8drdF42-2eSQP3VCpNaeUBM5M1JORmtIoTOc2GieqF60czakfP2CvWOs3OJ4TKtBZGc52pLBs6pIdar4D4CQ09EJzPY1YiE5nOmkNlkXJQ=w1200-h800-k-no",
+  "secondaryCategories": [
+    "Tea house"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "gilly-hicks-tempe",
+  "name": "Gilly Hicks",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3826112,
+  "lng": -111.96428979999999,
+  "phone": "+14802121060",
+  "website": "https://www.hollisterco.com/shop/us/clothing-stores/US/Tempe/AZ/51926",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gilly+Hicks/data=!4m7!3m6!1s0x872b0fea9a5b7175:0x8c257564a9120444!8m2!3d33.3826112!4d-111.9642898!16s%2Fg%2F11v60xwqgh!19sChIJdXFbmuoPK4cRRAQSqWR1JYw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10098606814641914948",
+  "placeId": "ChIJdXFbmuoPK4cRRAQSqWR1JYw",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=upNng8MD2-CqKo0UwHqU9g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=237.2232&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

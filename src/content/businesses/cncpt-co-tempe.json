@@ -1,0 +1,43 @@
+{
+  "slug": "cncpt-co-tempe",
+  "name": "CNCPT CO.",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "address": "1828 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4224475,
+  "lng": -111.9074885,
+  "phone": "+16025035187",
+  "googleMapsUrl": "https://www.google.com/maps/place/CNCPT+CO./data=!4m7!3m6!1s0x872b09f8395f6be7:0x965d19ce4fc04c16!8m2!3d33.4224475!4d-111.9074885!16s%2Fg%2F11lgq93nj9!19sChIJ52tfOfgJK4cRFkzAT84ZXZY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10834844652415241238",
+  "placeId": "ChIJ52tfOfgJK4cRFkzAT84ZXZY",
+  "googleRating": 4.7,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGfo7im4o70OP1SoP87kf4_vUP_MHrUkoY4s49gDUDkfg5lDIX6SCPPGnKPgMmiZX9tzXuVEua3UEkN78RnQtzjnqVUawjry2EfsOxVOL2tR7H99fS6PjwAIVoNG4bWi7uuSO0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 10
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

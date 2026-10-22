@@ -16,7 +16,7 @@
   "website": "https://www.tempeeats.com/",
   "placeId": "ChIJOeDvodgJK4cRiommicaYA_k",
   "googleRating": 4.1,
-  "googleReviewCount": 655,
+  "googleReviewCount": 827,
   "priceRange": "$$",
   "sameAs": [
     "https://www.instagram.com/tempeeats/"
@@ -36,5 +36,22 @@
   "groundgameId": "6a3ca96158574171a21d8ac5",
   "seededAt": "2026-06-25T04:06:57Z",
   "updatedAt": "2026-07-10T20:12:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17943353318854527370",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Eats+Food+Hall+%26+Bar/data=!4m7!3m6!1s0x872b09d8a1efe039:0xf90398c689a6898a!8m2!3d33.3924468!4d-111.9382382!16s%2Fg%2F11ns790lg9!19sChIJOeDvodgJK4cRiommicaYA_k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 48,
+    "3": 58,
+    "4": 64,
+    "5": 555
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciOeuDsTIU4XRT-9xz8UYL0A0KVPmKMMUMfDgirH0HbkNCNCcFbPqUpLxJRoDt-ct7X-Ewg7_ud0Hgpwaj-Xaa5_fZLYz13t4FW2W7T2GufjSwgyZqYkHOs4O6oUcSZeMithhD0g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

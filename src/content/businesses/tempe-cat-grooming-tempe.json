@@ -1,0 +1,42 @@
+{
+  "slug": "tempe-cat-grooming-tempe",
+  "name": "Tempe Cat Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "3310 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922221,
+  "lng": -111.91097529999999,
+  "phone": "+14808977734",
+  "website": "https://www.tempecatgrooming.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Cat+Grooming/data=!4m7!3m6!1s0x872b09d2e9dbb48f:0x7b8b8de8e2c0f536!8m2!3d33.3922221!4d-111.9109753!16s%2Fg%2F11njpkfc90!19sChIJj7Tb6dIJK4cRNvXA4uiNi3s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8902365119804142902",
+  "placeId": "ChIJj7Tb6dIJK4cRNvXA4uiNi3s",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgpWkGlPszHBk8cipPUNOOxoZtuy66xsIueizhtbJbIzvUFAWPN-_LrRp5QZFzDRuQiYh81VQPsxqgrnLX1jBRIEtaP9ZyVMr12Y21ERm37a1obasUhdcXGmphHZDTXEH9KHnJb2F4EkPd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

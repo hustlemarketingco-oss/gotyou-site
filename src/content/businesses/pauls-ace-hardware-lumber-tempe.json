@@ -1,0 +1,57 @@
+{
+  "slug": "pauls-ace-hardware-lumber-tempe",
+  "name": "Paul's Ace Hardware & Lumber",
+  "category": "Shopping",
+  "googleCategory": "Hardware store",
+  "secondaryCategories": [
+    "Building materials supplier",
+    "Door supplier",
+    "Dry wall supply store",
+    "Electrical supply store",
+    "Home improvement store",
+    "Lumber store",
+    "Paint store",
+    "Plumbing supply store"
+  ],
+  "address": "1153 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406998,
+  "lng": -111.957898,
+  "phone": "+14809661791",
+  "website": "http://www.acehardware.com/store-details/08054",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paul%27s+Ace+Hardware+%26+Lumber/data=!4m7!3m6!1s0x872b0f33fea158b3:0xb6d5080318b73d36!8m2!3d33.406998!4d-111.957898!16s%2Fg%2F1tdm_zm4!19sChIJs1ih_jMPK4cRNj23GAMI1bY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13174445094334840118",
+  "placeId": "ChIJs1ih_jMPK4cRNj23GAMI1bY",
+  "googleRating": 4.6,
+  "googleReviewCount": 418,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCn2o6aK6OnQpSlp1chibs_MC_7HsXG_z-3TfjifChky0MnVN38kEMxOD0j5LU2-x0-26QAd9fJS10cfUfUy2O6Lsu7hWuZHjm4DzFQbYxpDHxeqyMNgipuu4n0UqCpz0Kwo3qmual9-EW=w1200-h800-k-no",
+  "description": "Hardware store stocking household tools, garden supplies, home decor & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 2,
+    "3": 5,
+    "4": 44,
+    "5": 342
+  },
+  "hours": {
+    "mon": "6:00 AM - 7:00 PM",
+    "tue": "6:00 AM - 7:00 PM",
+    "wed": "6:00 AM - 7:00 PM",
+    "thu": "6:00 AM - 7:00 PM",
+    "fri": "6:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

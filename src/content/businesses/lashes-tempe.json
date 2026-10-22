@@ -1,0 +1,27 @@
+{
+  "slug": "lashes-tempe",
+  "name": "Lashes",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2111 E Broadway Rd #15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4072374,
+  "lng": -111.89675229999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Lashes/data=!4m7!3m6!1s0x872b090061711835:0x64abade60f64c918!8m2!3d33.4072374!4d-111.8967523!16s%2Fg%2F11z55h3x0l!19sChIJNRhxYQAJK4cRGMlkD-atq2Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7254082828422662424",
+  "placeId": "ChIJNRhxYQAJK4cRGMlkD-atq2Q",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jwhxNn0GEdPDmy_SH0QvKw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=146.66731&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

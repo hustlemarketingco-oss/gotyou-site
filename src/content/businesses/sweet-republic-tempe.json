@@ -14,32 +14,17 @@
   "lng": -111.9273109,
   "phone": "+14802928557",
   "website": "https://www.sweetrepublic.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6863938615665830546",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sweet+Republic/data=!4m7!3m6!1s0x872b09f61eb2c873:0x5f419bcde2d92a92!8m2!3d33.4332468!4d-111.9274898!16s%2Fg%2F11hrtyfh1b!19sChIJc8iyHvYJK4cRkirZ4s2bQV8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6863938615665830546",
   "placeId": "ChIJc8iyHvYJK4cRkirZ4s2bQV8",
   "googleRating": 4.5,
-  "googleReviewCount": 253,
+  "googleReviewCount": 262,
   "priceRange": "$$",
   "description": "Local chain serving handcrafted ice cream scoops, sundaes & shakes in a casual setting.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Outside"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "2:00 PM - 11:00 PM",
@@ -56,5 +41,14 @@
   "groundgameId": "6a24361a4fc9455d01ec791a",
   "seededAt": "2026-06-06T15:00:42Z",
   "updatedAt": "2026-09-14T22:03:00Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 6,
+    "3": 13,
+    "4": 38,
+    "5": 196
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtVllLAlr-3TE9mX5htVVDQqLdSF6Z4dNgwJmSOivPoOC-tz3_XsAXXtIN5j-lalf24iLgm7AjptAEH1gVbJobiMxwP-zeWdIlu2gbcV_p8nu4JCEeutfxKmaSod8c5NLR0JPFMJ7Xu8Nc=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "the-heights-cafe-tempe",
+  "name": "The Heights Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "1625 W Fountainhead Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4020319,
+  "lng": -111.96598929999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Heights+Cafe/data=!4m7!3m6!1s0x872b0fc1d8092593:0xf611857f3fce0409!8m2!3d33.4020319!4d-111.9659893!16s%2Fg%2F11x1_lz_4x!19sChIJkyUJ2MEPK4cRCQTOP3-FEfY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17731099989512160265",
+  "placeId": "ChIJkyUJ2MEPK4cRCQTOP3-FEfY",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdERpNp45p-lcpX12-0APiaz3oziVo6mWzMZc2euGOZg0zPLxYafBkKl32q0ShBsN0JXTng2w5wvtKGUaxdLpIKv5dnMuI-4AV9ooOX_-2QEnOYSsVKLqwZ91Hb1vkOzWor63-8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

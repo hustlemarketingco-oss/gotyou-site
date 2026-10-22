@@ -1,0 +1,54 @@
+{
+  "slug": "fiesta-flowers-plants-gifts-tempe",
+  "name": "Fiesta Flowers Plants & Gifts",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Flower delivery",
+    "Flower designer",
+    "Gift shop"
+  ],
+  "address": "744 W Elliot Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496945,
+  "lng": -111.9487558,
+  "phone": "+14807770060",
+  "website": "https://fiestaflowersaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fiesta+Flowers+Plants+%26+Gifts/data=!4m7!3m6!1s0x872b05d8010fce3d:0x9cc097a534c51a7d!8m2!3d33.3496945!4d-111.9487558!16s%2Fg%2F1tg_gj1g!19sChIJPc4PAdgFK4cRfRrFNKWXwJw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11295194601255934589",
+  "placeId": "ChIJPc4PAdgFK4cRfRrFNKWXwJw",
+  "googleRating": 4.9,
+  "googleReviewCount": 627,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG86gL6vI7CyBX6Kr5a5ZDA6TqmDnfOlfUTF_oS2tnAtAZMTfE6Xuj7N5ag22JlqqqmwUiyEUYJR_5QdiWum2X_JnCNiwR4lF6VHxShXI524wmHyaDbTpch98zKVP-5VY8scvNow=w1200-h800-k-no",
+  "description": "Family-run florist with arrangements, plants & gifts, plus canine-themed bouquets.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 9,
+    "5": 607
+  },
+  "hours": {
+    "mon": "8:30 AM - 6:00 PM",
+    "tue": "8:30 AM - 6:00 PM",
+    "wed": "8:30 AM - 6:00 PM",
+    "thu": "8:30 AM - 6:00 PM",
+    "fri": "8:30 AM - 6:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

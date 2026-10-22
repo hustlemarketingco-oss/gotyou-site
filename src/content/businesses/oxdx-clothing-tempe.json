@@ -1,0 +1,44 @@
+{
+  "slug": "oxdx-clothing-tempe",
+  "name": "OXDX Clothing",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Print shop"
+  ],
+  "address": "1821 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493455,
+  "lng": -111.92566529999999,
+  "website": "https://www.oxdxclothing.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/OXDX+Clothing/data=!4m7!3m6!1s0x872b099937364bb9:0x7c84b181c6c22f0!8m2!3d33.4493455!4d-111.9256653!16s%2Fg%2F11pyvz9b4f!19sChIJuUs2N5kJK4cR8CJsHBhLyAc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "560780720535773936",
+  "placeId": "ChIJuUs2N5kJK4cR8CJsHBhLyAc",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfafMAftgeInVzRlFjffZCJ8UDVU1tJPWamG3ChLd1HlFbshT3ysY-vBBL-sl7ODDS6pv5rRqfU_84dajT7dK6ePmOc0kelJywv6LrqwhKWTu8pDyUuRWBEw72KsyEJ6q9PKAjo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "12:00 PM - 6:00 PM",
+    "fri": "12:00 PM - 6:00 PM",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

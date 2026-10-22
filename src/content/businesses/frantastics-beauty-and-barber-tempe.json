@@ -1,0 +1,42 @@
+{
+  "slug": "frantastics-beauty-and-barber-tempe",
+  "name": "Frantastic's Beauty and Barber",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "7707 S Kyrene Rd Room 1 Suite 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347996699999996,
+  "lng": -111.945076,
+  "phone": "+14808258817",
+  "website": "http://www.beautybarberaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Frantastic%27s+Beauty+and+Barber/data=!4m7!3m6!1s0x4d08d63c7e6d7bc3:0x472c1e73787544ec!8m2!3d33.3479967!4d-111.945076!16s%2Fg%2F11s3r0xz9y!19sChIJw3ttfjzWCE0R7ER1eHMeLEc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5128507556959175916",
+  "placeId": "ChIJw3ttfjzWCE0R7ER1eHMeLEc",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfexYvcNQr0RvanV7gWqocbIOenvgWcAGm5kt8XRgd0jv9il1yUiQ07A99jDwF59aEALlT_j1ryXv2BxEQe_D4WNttB6dDMjJCoQTRythz9Du47wh7ld5LVzjFeIBE9gK66K8wX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 9
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

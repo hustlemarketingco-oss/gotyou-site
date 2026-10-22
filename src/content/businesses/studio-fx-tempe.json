@@ -1,0 +1,33 @@
+{
+  "slug": "studio-fx-tempe",
+  "name": "Studio FX",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "9020 S McClintock Dr Studio 15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332380199999996,
+  "lng": -111.9120878,
+  "phone": "+14808205885",
+  "googleMapsUrl": "https://www.google.com/maps/place/Studio+FX/data=!4m7!3m6!1s0x872b06e4605b6c55:0xf034de81fe2e03cb!8m2!3d33.3323802!4d-111.9120878!16s%2Fg%2F1w0sdb1q!19sChIJVWxbYOQGK4cRywMu_oHeNPA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17308703917788234699",
+  "placeId": "ChIJVWxbYOQGK4cRywMu_oHeNPA",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kWsZSHkLA3rfNgjzzFAc5A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=184.95549&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

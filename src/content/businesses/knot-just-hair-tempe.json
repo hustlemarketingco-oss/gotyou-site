@@ -1,0 +1,49 @@
+{
+  "slug": "knot-just-hair-tempe",
+  "name": "Knot Just Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Barber shop",
+    "Hair salon"
+  ],
+  "address": "931 E Elliot Rd #118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3475651,
+  "lng": -111.92785889999999,
+  "phone": "+14809040811",
+  "googleMapsUrl": "https://www.google.com/maps/place/Knot+Just+Hair/data=!4m7!3m6!1s0x872b071b8338c917:0x7ebc677252cff089!8m2!3d33.3475651!4d-111.9278589!16s%2Fg%2F11tg7r8wmw!19sChIJF8k4gxsHK4cRifDPUnJnvH4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9132287885113815177",
+  "placeId": "ChIJF8k4gxsHK4cRifDPUnJnvH4",
+  "googleRating": 4.8,
+  "googleReviewCount": 28,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcX762WYqIMQDTOCr20pGhz2MH7U3dsjTUjDaMECAmRgGtpQz-E-f-0Za0scf1uW_TpGAXQ-fWIadlU2Qpa_qKqhrh9TfKml3LtjbamqH2ktq4_fe1TUiYxXlnDyeNqcYEVmZpd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "4": 1,
+    "5": 25
+  },
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -17,37 +17,18 @@
   "lng": -111.9402394,
   "phone": "+14808293536",
   "website": "http://www.414pizza.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11436833654807104078",
+  "googleMapsUrl": "https://www.google.com/maps/place/414+Pub+Pizza+%26+Karaoke+-+Tempe/data=!4m7!3m6!1s0x872b08d7fff6c88f:0x9eb7cb9d36028a4e!8m2!3d33.4260928!4d-111.9402394!16s%2Fg%2F1tk6_zkl!19sChIJj8j2_9cIK4cRTooCNp3Lt54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11436833654807104078",
   "placeId": "ChIJj8j2_9cIK4cRTooCNp3Lt54",
   "googleRating": 4.2,
-  "googleReviewCount": 1164,
+  "googleReviewCount": 1175,
   "priceRange": "$20–30",
   "description": "Easygoing joint offering typical pizzas, salads & subs, in addition to a full bar & nightly karaoke.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "6:00 PM - 2:00 AM",
@@ -64,5 +45,14 @@
   "groundgameId": "6a24388acd9f1d7b2736b4fa",
   "seededAt": "2026-06-06T15:11:06Z",
   "updatedAt": "2026-06-06T15:11:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 121,
+    "2": 35,
+    "3": 70,
+    "4": 189,
+    "5": 760
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzIi_p3UKr9mLnk5hbQKyAnt_FUtLXXHRrrBRp63ReYb3fXv53_WkC8Bhfstf_1HwR7yHmvXalQmtjJpXqXOaYCRCpLXGK0La4eLRUJcbGXu-R9SGHYvAez0BT_PNU1i35iAAqLGs6kqse=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

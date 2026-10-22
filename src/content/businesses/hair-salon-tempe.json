@@ -1,0 +1,27 @@
+{
+  "slug": "hair-salon-tempe",
+  "name": "hair salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "975 E Elliot Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3485636,
+  "lng": -111.9266208,
+  "phone": "+15209996883",
+  "googleMapsUrl": "https://www.google.com/maps/place/hair+salon/data=!4m7!3m6!1s0x872b074aedc35ec5:0xbf8dc6e0f1bae94c!8m2!3d33.3485636!4d-111.9266208!16s%2Fg%2F11wc0zyygh!19sChIJxV7D7UoHK4cRTOm68eDGjb8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13802907102390970700",
+  "placeId": "ChIJxV7D7UoHK4cRTOm68eDGjb8",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vtX2LDVEPCgU-SrYd5S6Ag&cb_client=search.gws-prod.grass&w=408&h=240&yaw=72.936714&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

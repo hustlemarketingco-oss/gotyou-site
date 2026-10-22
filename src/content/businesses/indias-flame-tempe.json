@@ -16,11 +16,11 @@
   "lng": -111.925281,
   "phone": "+14804560155",
   "website": "http://indiasflame.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=284885170665876677",
+  "googleMapsUrl": "https://www.google.com/maps/place/India%27s+Flame/data=!4m7!3m6!1s0x872b07f158e66e0f:0x3f41d8da750ecc5!8m2!3d33.3832249!4d-111.925281!16s%2Fg%2F11glycbtkh!19sChIJD27mWPEHK4cRxexQp40d9AM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "284885170665876677",
   "placeId": "ChIJD27mWPEHK4cRxexQp40d9AM",
   "googleRating": 4.3,
-  "googleReviewCount": 1291,
+  "googleReviewCount": 1324,
   "description": "Easygoing restaurant offering familiar meat & vegetarian Indian eats, with a lunch buffet.",
   "hours": {
     "fri": "11:00 AM - 9:30 PM",
@@ -37,5 +37,20 @@
   "groundgameId": "6a24378063b574dd8a1f6c55",
   "seededAt": "2026-06-06T15:06:40Z",
   "updatedAt": "2026-07-10T18:28:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 108,
+    "2": 54,
+    "3": 95,
+    "4": 167,
+    "5": 900
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOfXH990kBXHQM71SYu-_-m_5n0SjiLY24sZaKb6HizLCj6gZ7hHUsrs8SL0v3B8iix-3IOSU8X17rFOKfZeJP8niwjI3ZZ1-ReYg5xByj3VWW8aPqy9Nvp2hXVNZnTWGtZao=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

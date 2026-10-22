@@ -1,0 +1,47 @@
+{
+  "slug": "apache-central-center-tempe",
+  "name": "Apache Central Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Real estate developer"
+  ],
+  "address": "1334 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4151154,
+  "lng": -111.91572989999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Apache+Central+Center/data=!4m7!3m6!1s0x872b08f1e5f1a2f7:0x6a70dcaf5be4612!8m2!3d33.4151154!4d-111.9157299!16s%2Fg%2F11bwflsfy6!19sChIJ96Lx5fEIK4cREka-9coNpwY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "479367050695689746",
+  "placeId": "ChIJ96Lx5fEIK4cREka-9coNpwY",
+  "googleRating": 3.7,
+  "googleReviewCount": 83,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDxyawBZHAAdaeQwxDVac0fyE8iFCSipiynksxve8eYwH3i2cNQbNUUt1Cc9vuK-BLFbjb3G8JzaHPzG7yny-tCEVDT1OsXRIyqOPc9U8sZcEUozXnUouvtQXkqDrf8X_jkErN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 7,
+    "3": 19,
+    "4": 17,
+    "5": 33
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:30 PM",
+    "tue": "9:00 AM - 9:30 PM",
+    "wed": "9:00 AM - 9:30 PM",
+    "thu": "9:00 AM - 9:30 PM",
+    "fri": "9:00 AM - 9:30 PM",
+    "sat": "9:00 AM - 9:30 PM",
+    "sun": "9:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

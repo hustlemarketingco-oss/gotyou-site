@@ -1,0 +1,54 @@
+{
+  "slug": "mcdonalds-625-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "625 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377759999999995,
+  "lng": -111.9314521,
+  "phone": "+14808388687",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/625-E-BASELINE-RD/36416.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b060c8ef0a459:0x550ed3508357b096!8m2!3d33.37776!4d-111.9314521!16s%2Fg%2F1ptvxtp6q!19sChIJWaTwjgwGK4cRlrBXg1DTDlU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6129068485652230294",
+  "placeId": "ChIJWaTwjgwGK4cRlrBXg1DTDlU",
+  "googleRating": 3.4,
+  "googleReviewCount": 1761,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4EvIpgn2pKQRBfTL_yo5B1HtVc5SOHIJ6_qQ9kv_7nh0YDA6F5oPVf7uOeJheF5v-RTB_dPoaOLeffKOIqJAjPzoi_eNHGL8VZXVmTUXGnC6lrQ5hcBFeM-qQyOhikfTTQPU=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 361,
+    "2": 120,
+    "3": 287,
+    "4": 365,
+    "5": 628
+  },
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "5:00 AM - 11:00 PM",
+    "wed": "5:00 AM - 11:00 PM",
+    "thu": "5:00 AM - 11:00 PM",
+    "fri": "5:00 AM - 11:00 PM",
+    "sat": "Open 24 hours",
+    "sun": "4:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

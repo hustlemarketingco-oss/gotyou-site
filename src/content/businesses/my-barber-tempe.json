@@ -1,0 +1,22 @@
+{
+  "slug": "my-barber-tempe",
+  "name": "My barber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1800 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "googleMapsUrl": "https://www.google.com/maps/place/My+barber/data=!4m7!3m6!1s0x872b09002c6d99e7:0x841391a58c6f8c6d!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11zd8bwnjc!19sChIJ55ltLAAJK4cRbYxvjKWRE4Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9517110577775742061",
+  "placeId": "ChIJ55ltLAAJK4cRbYxvjKWRE4Q",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mo2oUSBvayUJBt6uxCWr3Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=218.79816&pitch=0&thumbfov=100",
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

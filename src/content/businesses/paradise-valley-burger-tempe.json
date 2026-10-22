@@ -11,11 +11,11 @@
   "lng": -111.9292867,
   "phone": "+14803971847",
   "website": "http://pvburgercompany.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16946258237762957751",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paradise+Valley+Burger/data=!4m7!3m6!1s0x872b07084e415095:0xeb2d341505e5f1b7!8m2!3d33.3778979!4d-111.9292867!16s%2Fg%2F11tsz62_3p!19sChIJlVBBTggHK4cRt_HlBRU0Les?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16946258237762957751",
   "placeId": "ChIJlVBBTggHK4cRt_HlBRU0Les",
   "googleRating": 4.5,
-  "googleReviewCount": 357,
+  "googleReviewCount": 379,
   "description": "Located in Tempe, Paradise Valley Burger is a hamburger restaurant.",
   "hours": {
     "fri": "10:30 AM - 10:00 PM",
@@ -32,5 +32,20 @@
   "groundgameId": "6a24378868b6ffde23529390",
   "seededAt": "2026-06-06T15:06:48Z",
   "updatedAt": "2026-06-12T22:03:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 17,
+    "3": 23,
+    "4": 44,
+    "5": 280
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwArFaYFMNvx4HTmX2kgBvjrWYeS1e9tj1JSKjlWQi8M_avaw6xUDYM0JMOx-cviPKlabG6doJhLq3zusgPxw34hubIa4oLrkx4tnb5kcJrCO0ZETpb2gxQZVDhjp6OPbN5Dl_-s7NeP-I=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

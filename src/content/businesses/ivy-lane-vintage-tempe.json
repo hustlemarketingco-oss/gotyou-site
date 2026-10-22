@@ -1,0 +1,34 @@
+{
+  "slug": "ivy-lane-vintage-tempe",
+  "name": "Ivy Lane Vintage",
+  "category": "Shopping",
+  "googleCategory": "Vintage clothing store",
+  "secondaryCategories": [
+    "Clothing store"
+  ],
+  "address": "524 W Broadway Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407979399999995,
+  "lng": -111.94670149999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Ivy+Lane+Vintage/data=!4m7!3m6!1s0x872b09c528eaca5d:0x7506d75bdb0d4265!8m2!3d33.4079794!4d-111.9467015!16s%2Fg%2F11fk92skwt!19sChIJXcrqKMUJK4cRZUIN21vXBnU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8432664141814907493",
+  "placeId": "ChIJXcrqKMUJK4cRZUIN21vXBnU",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK5cMdfpxUhRNdCg7YHpHQL_1rbDf05aGUiUdp3kcv__ar5rj1szfV40vjtxfcFU5YJX-m1oJjYplDPo1NfNsx_gbpGFFUXgkIOZefLe5tapWG5algky8d2RAdbh3KmP5WOfDNIw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 9
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -17,13 +17,13 @@
   "website": "https://tacospotaz.order.online/store/the-taco-spot-broadway-30918684",
   "placeId": "ChIJfxV3uhAJK4cRiGq00zpsvuY",
   "googleRating": 4.8,
-  "googleReviewCount": 982,
+  "googleReviewCount": 1202,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Apple Pay",
-    "Cash",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "9:00 AM - 9:00 PM",
@@ -40,5 +40,16 @@
   "groundgameId": "6a3438c7d9d91fd1fa0759f4",
   "seededAt": "2026-06-18T18:28:23Z",
   "updatedAt": "2026-07-23T19:19:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16626845874214169224",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Spot+-+Tempe/data=!4m7!3m6!1s0x872b0910ba77157f:0xe6be6c3ad3b46a88!8m2!3d33.4075828!4d-111.947124!16s%2Fg%2F11whqbzly2!19sChIJfxV3uhAJK4cRiGq00zpsvuY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 11,
+    "3": 15,
+    "4": 39,
+    "5": 1109
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJurhxFIo0qKinjrg3tadqgjgpRT25mcSj2ItbcXkvnHzV6SzKl9lxwuo2q8k8rM8Nsk59vHVelbQrFKnjar5gY3tphR_NrfK7whCB7hYmCaKLS1rXVh-fuYWBp_maTFir6ypx=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

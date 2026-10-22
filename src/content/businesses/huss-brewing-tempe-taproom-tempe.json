@@ -14,20 +14,15 @@
   "lng": -111.9651336,
   "phone": "+16022755049",
   "website": "https://www.hussbrewing.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=7353937957174912184",
+  "googleMapsUrl": "https://www.google.com/maps/place/Huss+Brewing+Tempe+Taproom/data=!4m7!3m6!1s0x872b05c2afe31943:0x660e6f9bf5ac24b8!8m2!3d33.3568119!4d-111.9649462!16s%2Fg%2F1pp2tlbld!19sChIJQxnjr8IFK4cRuCSs9ZtvDmY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "7353937957174912184",
   "placeId": "ChIJQxnjr8IFK4cRuCSs9ZtvDmY",
   "googleRating": 4.7,
-  "googleReviewCount": 242,
+  "googleReviewCount": 247,
   "description": "Craft brewery offering a range of beers (porter to lager) & serving 20+ styles in an airy taproom.",
   "amenities": [
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "3:00 PM - 8:00 PM",
@@ -44,5 +39,14 @@
   "groundgameId": "6a2437991e461e6400d6c53e",
   "seededAt": "2026-06-06T15:07:05Z",
   "updatedAt": "2026-06-06T15:07:05Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "3": 9,
+    "4": 31,
+    "5": 201
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZCaMym9SOQlDcKSUqEof0aKJeDfXCwSC79mjZoNOqpu7_PO2B7bH7MAHPwreM3n8sEbl1EnRCWHgnepKU-BNhiCakaf9hSkx2znsGN17GVN3izwIqVB1SmhAZSlrExSbv8rg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "pure-beauty-llc-tempe",
+  "name": "Pure Beauty LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "123 E Baseline Rd Ste D207",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+16027305818",
+  "website": "https://purebeautyllc.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pure+Beauty+LLC/data=!4m7!3m6!1s0x494ff1046356f32f:0xefe6446400e49745!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F11x1tfbmgg!19sChIJL_NWYwTxT0kRRZfkAGRE5u8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17286579416010626885",
+  "placeId": "ChIJL_NWYwTxT0kRRZfkAGRE5u8",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S329R43bsNP0mBIMQtJsJg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=347.16925&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "6:00 PM - 9:30 PM",
+    "wed": "6:30 PM - 9:30 PM",
+    "thu": "7:00 PM - 9:30 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

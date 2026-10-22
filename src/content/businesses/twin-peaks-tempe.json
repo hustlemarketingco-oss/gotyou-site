@@ -17,7 +17,7 @@
   "website": "https://twinpeaksrestaurant.com/locations/tempe-az",
   "placeId": "ChIJVTtZMf0JK4cRcqJLmmVqWYM",
   "googleRating": 4.6,
-  "googleReviewCount": 4158,
+  "googleReviewCount": 4450,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 12:00 AM",
@@ -34,5 +34,21 @@
   "groundgameId": "6a289350f9d6746333ac6a72",
   "seededAt": "2026-06-09T22:27:28Z",
   "updatedAt": "2026-06-09T22:27:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9464713076508697202",
+  "googleMapsUrl": "https://www.google.com/maps/place/Twin+Peaks/data=!4m7!3m6!1s0x872b09fd31593b55:0x83596a659a4ba272!8m2!3d33.4321987!4d-111.9023996!16s%2Fg%2F11m__knstn!19sChIJVTtZMf0JK4cRcqJLmmVqWYM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 179,
+    "2": 93,
+    "3": 147,
+    "4": 463,
+    "5": 3568
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHfxIvTcv8bzzonBDLeXE6P0DWIqlQaYgaWVsi341NVSSm3cjj7fC3u7WGhaI0qUorgrRrXjK8Z2VOcdmR8WvkUoEoQvegRCTsVUgtn5QFZOm0zFUMNpB2rk7Z12KJgrJABSB50nTLUEQF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

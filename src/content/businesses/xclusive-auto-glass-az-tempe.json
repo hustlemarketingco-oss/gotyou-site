@@ -1,0 +1,50 @@
+{
+  "slug": "xclusive-auto-glass-az-tempe",
+  "name": "Xclusive Auto Glass AZ",
+  "category": "Shopping",
+  "googleCategory": "Auto glass shop",
+  "secondaryCategories": [
+    "Auto glass repair service",
+    "Auto window tinting service"
+  ],
+  "address": "1325 W Auto Dr #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3426873,
+  "lng": -111.95812459999999,
+  "phone": "+16022910234",
+  "website": "https://www.xclusiveautoaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Xclusive+Auto+Glass+AZ/data=!4m7!3m6!1s0x872b0547149ed1af:0x80745af31145d4bc!8m2!3d33.3426873!4d-111.9581246!16s%2Fg%2F11j3t8fmgw!19sChIJr9GeFEcFK4cRvNRFEfNadIA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9256123134166553788",
+  "placeId": "ChIJr9GeFEcFK4cRvNRFEfNadIA",
+  "googleRating": 4.9,
+  "googleReviewCount": 277,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJphJNgbpYFl3VwQQwDCshRHLrBza6kE3QvdLfJBgazE5503cvwkXc-2GEeQkm7F8c7JrVl4u__KmFiYTgtFY2flDDCOyEFsbmXHI7SOoAtnysO65IQwHk6w5H9syxW47T0HRh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 1,
+    "5": 269
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

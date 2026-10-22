@@ -1,0 +1,43 @@
+{
+  "slug": "elevate-sports-massage-tempe",
+  "name": "Elevate Sports Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Sports massage therapist",
+  "address": "125 W Gemini Dr Ste 10",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3664084,
+  "lng": -111.94023229999999,
+  "phone": "+16029358398",
+  "website": "http://elevatemassagephx.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Elevate+Sports+Massage/data=!4m7!3m6!1s0x872b074229c7209b:0x3edb24f58ada0b7e!8m2!3d33.3664084!4d-111.9402323!16s%2Fg%2F11s33262d0!19sChIJmyDHKUIHK4cRfgvaivUk2z4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4529254487266298750",
+  "placeId": "ChIJmyDHKUIHK4cRfgvaivUk2z4",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4VtJVYCnS-oY-rccSf6ZtCAHkYJCLfneLhauojQZ9tiOOEZIZNoEeJJ11Fxcv2rTBft1HNLGB77OvslXaFsdhZGpxfHHB5hl5lwIZZzGq6pyw6J7PSBtvygwZIruuu1LASWHhyA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 4:30 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

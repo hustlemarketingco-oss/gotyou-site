@@ -22,7 +22,7 @@
   "website": "https://zzeeks.com/",
   "placeId": "ChIJ0xJYSqUIK4cRr1VkhmsgZDY",
   "googleRating": 4.4,
-  "googleReviewCount": 816,
+  "googleReviewCount": 822,
   "priceRange": "$",
   "hours": {
     "mon": "10:30 AM - 11:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a306c62c4a50a8b85d772c6",
   "seededAt": "2026-06-15T21:19:30Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3919293221907486127",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zesty+Zzeeks+Pizza+%26+Wings/data=!4m7!3m6!1s0x872b08a54a5812d3:0x3664206b866455af!8m2!3d33.3944499!4d-111.9385085!16s%2Fg%2F11b6lpcytn!19sChIJ0xJYSqUIK4cRr1VkhmsgZDY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 31,
+    "3": 39,
+    "4": 98,
+    "5": 596
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZc1Zr3UBobB9TNRvHz_s7EMcD_ndfI00eNCxMPDL8mEO2R_UIsus0LyWvxo_OMkzY389zfxBHWQ7NQjvHnU3MF3U1fEFbMBSaGD4i7MK8lea1soT8iO-VVT6PFFCm_FPnyjI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

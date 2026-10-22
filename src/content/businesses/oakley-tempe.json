@@ -1,0 +1,53 @@
+{
+  "slug": "oakley-tempe",
+  "name": "Oakley",
+  "category": "Shopping",
+  "googleCategory": "Sunglasses store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Shoe store",
+    "Sportswear store",
+    "Watch store"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1079 Ste #1079",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4326785,
+  "lng": -111.9035222,
+  "phone": "+14809660261",
+  "website": "https://stores.oakley.com/us/az/tempe/2000-east-rio-salado-pkwy-ste-1079?y_source=1_MTU2ODYyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Oakley/data=!4m7!3m6!1s0x872b08543eea7bab:0x350e88123dc00a19!8m2!3d33.4326785!4d-111.9035222!16s%2Fg%2F1vpq7bwb!19sChIJq3vqPlQIK4cRGQrAPRKIDjU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3823142745610914329",
+  "placeId": "ChIJq3vqPlQIK4cRGQrAPRKIDjU",
+  "googleRating": 4.7,
+  "googleReviewCount": 272,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcM_GRboHkPFTBmirHR6QAYsxr1UuDa0ewpaGuFchQiBAF5pAMU7BbhEAuYbf1ipbhpUdbiBPfxIRTrxgbzdjwOoAZXUCCkYo6rj0p3FRPscBLm6m1RX8urcMErx2sew0xFabZ7=w1200-h800-k-no",
+  "description": "Chain retailer known for its sporty line of sunglasses, plus goggles, apparel & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 4,
+    "3": 12,
+    "4": 22,
+    "5": 227
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

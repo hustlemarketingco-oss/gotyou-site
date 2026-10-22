@@ -1,0 +1,38 @@
+{
+  "slug": "permanent-jewelry-by-marah-tempe",
+  "name": "Permanent Jewelry by Marah",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "address": "2039 S Mill Ave Ste A, room 8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061939,
+  "lng": -111.93942899999999,
+  "phone": "+14802693664",
+  "googleMapsUrl": "https://www.google.com/maps/place/Permanent+Jewelry+by+Marah/data=!4m7!3m6!1s0x872b09612f79f57f:0xc39a60482a04e854!8m2!3d33.4061939!4d-111.939429!16s%2Fg%2F11vyqs0n1t!19sChIJf_V5L2EJK4cRVOgEKkhgmsM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14094683846868265044",
+  "placeId": "ChIJf_V5L2EJK4cRVOgEKkhgmsM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=16FIQSt61kgsfk47El18tg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=315.8992&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "10:30 AM - 8:00 PM",
+    "sun": "10:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "momentum-salon-and-body-tempe",
+  "name": "Momentum Salon and Body",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1006 E Warner Rd Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3354424,
+  "lng": -111.9272048,
+  "phone": "+14809407377",
+  "website": "http://momentumsalon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Momentum+Salon+and+Body/data=!4m7!3m6!1s0x872b0684c4eaf84d:0xf524258cde41d07b!8m2!3d33.3354424!4d-111.9272048!16s%2Fg%2F1tk6_zk1!19sChIJTfjqxIQGK4cRe9BB3owlJPU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17664284925408432251",
+  "placeId": "ChIJTfjqxIQGK4cRe9BB3owlJPU",
+  "googleRating": 4.6,
+  "googleReviewCount": 68,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy2YIgtxQ8JE8oj9bY2PEmrIH5YH8QjdgLDQPrLIwOF4OveqaqPrsMQ_YGGT5ZyNiv-kscqFq3262OzyQkoleZT4H5l8vEPHXBweFURSF90FVsXtskvgZHslquI3wOPDrMN5xgcygaf3_u=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "4": 3,
+    "5": 58
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

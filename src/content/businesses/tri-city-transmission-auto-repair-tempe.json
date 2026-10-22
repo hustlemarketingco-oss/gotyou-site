@@ -1,0 +1,57 @@
+{
+  "slug": "tri-city-transmission-auto-repair-tempe",
+  "name": "Tri-City Transmission & Auto Repair",
+  "category": "Shopping",
+  "googleCategory": "Transmission shop",
+  "secondaryCategories": [
+    "Auto air conditioning service",
+    "Auto repair shop",
+    "Brake shop",
+    "Car repair and maintenance service",
+    "Engine rebuilding service",
+    "Oil change service",
+    "Radiator shop"
+  ],
+  "address": "2005 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.429012799999995,
+  "lng": -111.90004429999999,
+  "phone": "+14809685062",
+  "website": "https://tricitytransmission.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tri-City+Transmission+%26+Auto+Repair/data=!4m7!3m6!1s0x872b08541793e179:0x1b9017a5734d29b0!8m2!3d33.4290128!4d-111.9000443!16s%2Fg%2F1tksj7v_!19sChIJeeGTF1QIK4cRsClNc6UXkBs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1986113435041868208",
+  "placeId": "ChIJeeGTF1QIK4cRsClNc6UXkBs",
+  "googleRating": 4.7,
+  "googleReviewCount": 629,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjwZ2CVXpiNnEREG8pQ5s4AQ1yppkli_HQ6anwFTxDrpFflldm6CFl7lYX-g_XlbmF-g41BFXFHnu-0sS_44JYHeZMhBBvQ6dmcjvZvEW2g-tbpxGf4v-NT_caxEteDj6oa_dRyoyduM5X=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 6,
+    "3": 6,
+    "4": 11,
+    "5": 572
+  },
+  "hours": {
+    "mon": "7:00 AM - 5:30 PM",
+    "tue": "7:00 AM - 5:30 PM",
+    "wed": "7:00 AM - 5:30 PM",
+    "thu": "7:00 AM - 5:30 PM",
+    "fri": "7:00 AM - 5:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "pretty-vault-boutique-tempe",
+  "name": "Pretty Vault Boutique",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "250 S Wilson St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4276243,
+  "lng": -111.946389,
+  "phone": "+19706440838",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pretty+Vault+Boutique/data=!4m7!3m6!1s0x872b092fa99df5a3:0x7ff293e1d4fcbd8f!8m2!3d33.4276243!4d-111.946389!16s%2Fg%2F11y7sjpx_k!19sChIJo_WdqS8JK4cRj7381OGT8n8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9219593985331084687",
+  "placeId": "ChIJo_WdqS8JK4cRj7381OGT8n8",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d7MNc0A1VQLXa9PVU1p9LQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=15.231899&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "burger-king-301-tempe",
+  "name": "Burger King",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Family restaurant"
+  ],
+  "address": "301 E Orange St.",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.4177357,
+  "lng": -111.9343663,
+  "phone": "+14809653516",
+  "website": "https://burgerking.com/store-locator/store/11081",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x872b08d75b753919:0x6ff866c6e0c2ac87!8m2!3d33.4177357!4d-111.9343663!16s%2Fg%2F1tz76fn3!19sChIJGTl1W9cIK4cRh6zC4MZm-G8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8068311736794655879",
+  "placeId": "ChIJGTl1W9cIK4cRh6zC4MZm-G8",
+  "googleRating": 3.7,
+  "googleReviewCount": 141,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMrwB6J-OhQcMkq8Z4Bw28Jz-Jq-5cy_jMGdM39PaY3aK8IHw53Igi3CGhxXE6NbGL7UmT3ovjDS2SH_y4_7xrEoag7zStbaqqoD0Su9_JohVHSQgRn66nYGwrNpXrVUlbElDa=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 8,
+    "3": 15,
+    "4": 39,
+    "5": 55
+  },
+  "hours": {
+    "mon": "7:30 AM - 8:30 PM",
+    "tue": "7:30 AM - 8:30 PM",
+    "wed": "7:30 AM - 8:30 PM",
+    "thu": "7:30 AM - 8:30 PM",
+    "fri": "7:30 AM - 8:30 PM",
+    "sat": "10:30 AM - 3:30 PM",
+    "sun": "10:30 AM - 3:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

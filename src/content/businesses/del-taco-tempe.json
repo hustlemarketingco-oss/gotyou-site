@@ -21,7 +21,7 @@
   "website": "https://locations.deltaco.com/us/az/tempe/1331-n-scottsdale-rd",
   "placeId": "ChIJUYQjzDsJK4cRQZqdqjNUd6I",
   "googleRating": 3.6,
-  "googleReviewCount": 612,
+  "googleReviewCount": 660,
   "priceRange": "$",
   "hours": {
     "mon": "Open 24 hours",
@@ -38,5 +38,21 @@
   "groundgameId": "6a34268cd0a37f5c68ca1d04",
   "seededAt": "2026-06-18T17:10:36Z",
   "updatedAt": "2026-06-18T17:10:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11706918337255414337",
+  "googleMapsUrl": "https://www.google.com/maps/place/Del+Taco/data=!4m7!3m6!1s0x872b093bcc238451:0xa2775433aa9d9a41!8m2!3d33.443799!4d-111.926183!16s%2Fg%2F11q8xlq57r!19sChIJUYQjzDsJK4cRQZqdqjNUd6I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 147,
+    "2": 35,
+    "3": 65,
+    "4": 122,
+    "5": 291
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftvV-KWWhxl4trcCjYWSgtbNXikkeC0n97unKeUyYWer0Tb0998cFjIp0Z7BMms_sg-Kp6kZwXGEvSvegOXGaomDbn0sE7Zv4795e76hotKFFCSX_rAGFsBHI0bTnrlH3xRCI9uw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

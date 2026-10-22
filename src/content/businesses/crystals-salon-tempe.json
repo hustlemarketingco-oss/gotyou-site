@@ -1,0 +1,32 @@
+{
+  "slug": "crystals-salon-tempe",
+  "name": "Crystal's Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1730 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.350048799999996,
+  "lng": -111.91368329999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Crystal%27s+Salon/data=!4m7!3m6!1s0x872b07007f490735:0x1692339f0eeefff1!8m2!3d33.3500488!4d-111.9136833!16s%2Fg%2F11njqfdpyp!19sChIJNQdJfwAHK4cR8f_uDp8zkhY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1626419173677531121",
+  "placeId": "ChIJNQdJfwAHK4cR8f_uDp8zkhY",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=moNGlFRw6ojLnyk5GAVriQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=37.45168&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

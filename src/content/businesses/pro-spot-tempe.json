@@ -1,0 +1,41 @@
+{
+  "slug": "pro-spot-tempe",
+  "name": "PRO SPOT",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "address": "5000 S Arizona Mills Cir Ste 602",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383859,
+  "lng": -111.96469909999999,
+  "phone": "+14806301012",
+  "googleMapsUrl": "https://www.google.com/maps/place/PRO+SPOT/data=!4m7!3m6!1s0x872b0f0020296f17:0xd7c7e9e46db96b5a!8m2!3d33.383859!4d-111.9646991!16s%2Fg%2F11nqr8d539!19sChIJF28pIAAPK4cRWmu5beTpx9c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15548653405822610266",
+  "placeId": "ChIJF28pIAAPK4cRWmu5beTpx9c",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSGlBCgQyWcumyhdtS89RxPjXEG299BXBIjh86hnqj8gZClEo-6K2q6hecbUc6VWnofakMjCeAwnz6GuvlkCWBjuB1OjFrRjY8-yGbnIa2gKK4WKwD7LGnxiW9NrOWI6qXM0SHsIq_6exM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

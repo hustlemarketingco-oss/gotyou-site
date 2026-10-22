@@ -16,13 +16,11 @@
   "website": "http://someburros.com/",
   "placeId": "ChIJE6uCbxsGK4cR5odFKiEylvc",
   "googleRating": 4.4,
-  "googleReviewCount": 2448,
+  "googleReviewCount": 2504,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Google Pay",
-    "Cash",
-    "Apple Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
@@ -39,5 +37,16 @@
   "groundgameId": "6a359a5987b09754b7df271f",
   "seededAt": "2026-06-19T19:36:57Z",
   "updatedAt": "2026-07-23T20:00:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17840502091899308006",
+  "googleMapsUrl": "https://www.google.com/maps/place/Someburros/data=!4m7!3m6!1s0x872b061b6f82ab13:0xf79632212a4587e6!8m2!3d33.377488!4d-111.938986!16s%2Fg%2F1vc6dwbp!19sChIJE6uCbxsGK4cR5odFKiEylvc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 130,
+    "2": 82,
+    "3": 167,
+    "4": 480,
+    "5": 1645
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyP5yac7mUs8v_bjt1-JZddYOMc9uU40MDoE5Kyx4nKCjmcZhG_sJmtAUtMFLuJ71QDpoz45uaBgBEDpdEDPtGer9N3_jMTKCO275lSVMriUYaOzDRWR8VoiHBWUXxrKnR6Gr4=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

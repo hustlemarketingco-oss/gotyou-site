@@ -1,0 +1,43 @@
+{
+  "slug": "lustre-hair-tempe",
+  "name": "Lustré Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2155 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4214671,
+  "lng": -111.8933016,
+  "phone": "+14802109863",
+  "website": "https://www.vagaro.com/lustrehair",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lustr%C3%A9+Hair/data=!4m7!3m6!1s0x872b09bd570e8caf:0x96e5f4cec4eaf49!8m2!3d33.4214671!4d-111.8933016!16s%2Fg%2F11nj96btxm!19sChIJr4wOV70JK4cRSa9O7Exfbgk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "679585377766256457",
+  "placeId": "ChIJr4wOV70JK4cRSa9O7Exfbgk",
+  "googleRating": 5,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT6WchQSjfw4sCSjmstxn39R87KcngglnkxGAocy4URYMY8n58r218Z-WiTAxNmG7WjuI1zbUrQ8dzGLHWmGVgF0Rj-XPwcdqVmHDyz7DsMEdHjIf3slcbaBTC_H_0h3jxJkCwjoQeGsU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 17
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

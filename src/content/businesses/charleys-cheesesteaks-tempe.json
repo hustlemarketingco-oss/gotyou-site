@@ -1,0 +1,49 @@
+{
+  "slug": "charleys-cheesesteaks-tempe",
+  "name": "Charleys Cheesesteaks",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "address": "5000 S Arizona Mills Cir FC9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3847117,
+  "lng": -111.96492479999999,
+  "phone": "+16232927778",
+  "website": "https://order.charleys.com/menu/arizona-mills/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Charleys+Cheesesteaks/data=!4m7!3m6!1s0x872b0f0091aa4337:0x680228191cc7d777!8m2!3d33.3847117!4d-111.9649248!16s%2Fg%2F11ls29cb4t!19sChIJN0OqkQAPK4cRd9fHHBkoAmg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7494596818220078967",
+  "placeId": "ChIJN0OqkQAPK4cRd9fHHBkoAmg",
+  "googleRating": 3,
+  "googleReviewCount": 136,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLee610yyNFsxgDClFOTSsLmthg8V_ZRgAz1SwnF4LqmuUUpGEu7Me75ZJDAC-BBw3uc_XfVNdWWdq816NMlHVka_XsYyvoegbf7a5iPj2-DPievQwjVXbmQqhL1OF33x0kceVM9mZh3tE8=w1200-h800-k-no",
+  "description": "Counter-service chain offering a range of Philly-style cheesesteaks, loaded fries & lemonades.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 57,
+    "2": 3,
+    "3": 11,
+    "4": 13,
+    "5": 52
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

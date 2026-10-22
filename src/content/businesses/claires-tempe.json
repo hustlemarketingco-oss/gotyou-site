@@ -1,0 +1,54 @@
+{
+  "slug": "claires-tempe",
+  "name": "Claire's",
+  "category": "Health & Beauty",
+  "googleCategory": "Ear piercing service",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Boutique",
+    "Children's store",
+    "Cosmetics store",
+    "Costume jewelry shop"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1233",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4335447,
+  "lng": -111.90207389999999,
+  "phone": "+14809214265",
+  "website": "https://stores.claires.com/az/tempe/6268.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Claire%27s/data=!4m7!3m6!1s0x872b08543eea7bab:0x748dc801ad6bcc5!8m2!3d33.4335447!4d-111.9020739!16s%2Fg%2F1w_vnr05!19sChIJq3vqPlQIK4cRxbzWGoDcSAc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "524911799352868037",
+  "placeId": "ChIJq3vqPlQIK4cRxbzWGoDcSAc",
+  "googleRating": 4.3,
+  "googleReviewCount": 125,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMoQKsjC9VB-3eT84hb7fw8hZGNhwFFlcCgjYYJcQNnHnuWHMxATE9huuXhFzy9ACZ8EcuGoTTNMlosL4B4jmDcds1DEvric2cXidhPCoTW5Wgfbzm3_JKu1AA9S1VSFh1IyPjmg=w1200-h800-k-no",
+  "description": "Chain retailer for an array of jewelry & fashion accessories, plus beauty & make-up products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 4,
+    "3": 11,
+    "4": 15,
+    "5": 86
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

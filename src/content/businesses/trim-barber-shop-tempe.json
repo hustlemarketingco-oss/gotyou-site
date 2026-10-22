@@ -1,0 +1,46 @@
+{
+  "slug": "trim-barber-shop-tempe",
+  "name": "Trim Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1335 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4212426,
+  "lng": -111.9602462,
+  "phone": "+14802454585",
+  "website": "http://tempe-trimbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trim+Barber+Shop/data=!4m7!3m6!1s0x872b0f29c6ee9cef:0x44288a83980ae10e!8m2!3d33.4212426!4d-111.9602462!16s%2Fg%2F11bv30j_rz!19sChIJ75zuxikPK4cRDuEKmIOKKEQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4911327691443724558",
+  "placeId": "ChIJ75zuxikPK4cRDuEKmIOKKEQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 198,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaFrNFMvojXtAc5reOpfgU0YtotUAp-i-PaleMhpDYTwVP8bjxFcc5sFVkoFShEIntWCThj9EcehcQlv4xu3uvkodpT4Kgw7B1RbVGBaMznmwibKF1UTaoe51N8WvYW2tjHA6X=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 4,
+    "3": 6,
+    "4": 7,
+    "5": 167
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:45 PM",
+    "wed": "10:00 AM - 5:45 PM",
+    "thu": "10:00 AM - 5:45 PM",
+    "fri": "10:00 AM - 5:45 PM",
+    "sat": "10:12 AM - 4:48 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "freds-flowers-tempe",
+  "name": "Fred's Flowers",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Flower delivery",
+    "Flower designer",
+    "Wedding planner",
+    "Wedding service"
+  ],
+  "address": "1860 E Warner Rd Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3353755,
+  "lng": -111.90720119999999,
+  "phone": "+14808973733",
+  "website": "http://www.freds-flowers.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fred%27s+Flowers/data=!4m7!3m6!1s0x872b06e2dbdc9b29:0x738b8f58fd07dfec!8m2!3d33.3353755!4d-111.9072012!16s%2Fg%2F1vxvj9ss!19sChIJKZvc2-IGK4cR7N8H_ViPi3M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8325905948489539564",
+  "placeId": "ChIJKZvc2-IGK4cR7N8H_ViPi3M",
+  "googleRating": 4.8,
+  "googleReviewCount": 153,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfveTss_xH0EqWOm4pRkG9KW3klu00QisJORid_b-HGfjkHjNYXJ-PCGrBWa5c-tXJ7FYE8wDJLwaLx8om18tFDsiOOi1WJjJMbJ3hX_F0wpekjInkcjV82_sPzljO3GV5RapKuCQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 143
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

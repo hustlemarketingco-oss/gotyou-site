@@ -1,0 +1,33 @@
+{
+  "slug": "the-salon-tempe",
+  "name": "\"The Salon\"",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "S Kachina Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3478886,
+  "lng": -111.9094794,
+  "googleMapsUrl": "https://www.google.com/maps/place/%22The+Salon%22/data=!4m7!3m6!1s0x872b0655c3ee3781:0x3fd630841ca5730a!8m2!3d33.3478886!4d-111.9094794!16s%2Fg%2F11g6lvwshk!19sChIJgTfuw1UGK4cRCnOlHIQw1j8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4599917413379961610",
+  "placeId": "ChIJgTfuw1UGK4cRCnOlHIQw1j8",
+  "googleRating": 4.7,
+  "googleReviewCount": 6,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d6tE450dpMpA57BThtwgIA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=151.82643&pitch=-3.5362437&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "5": 5
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

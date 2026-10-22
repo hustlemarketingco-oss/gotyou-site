@@ -1,0 +1,27 @@
+{
+  "slug": "lateeshopltd-tempe",
+  "name": "Lateeshopltd",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "936 E Weber Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4442638,
+  "lng": -111.9249157,
+  "website": "https://lateeshopltd.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lateeshopltd/data=!4m7!3m6!1s0x872b09a55ad89bdd:0x1f9fd1ae665e31b0!8m2!3d33.4442638!4d-111.9249157!16s%2Fg%2F11yf4mst4r!19sChIJ3ZvYWqUJK4cRsDFeZq7Rnx8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2278770483444724144",
+  "placeId": "ChIJ3ZvYWqUJK4cRsDFeZq7Rnx8",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kc-XSoU9nMGBu5Zz3Q1NPQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=13.522853&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

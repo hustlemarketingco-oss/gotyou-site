@@ -1,0 +1,48 @@
+{
+  "slug": "family-fitness-forum-tempe",
+  "name": "Family Fitness Forum",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Gym"
+  ],
+  "address": "1500 N Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.444300999999996,
+  "lng": -111.95619599999999,
+  "phone": "+16024522546",
+  "website": "http://www.familyfitnessforum.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Family+Fitness+Forum/data=!4m7!3m6!1s0x872b0eca28ea817b:0xcb849033f4a038f9!8m2!3d33.444301!4d-111.956196!16s%2Fg%2F1tf71d7m!19sChIJe4HqKMoOK4cR-Tig9DOQhMs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14665004839447050489",
+  "placeId": "ChIJe4HqKMoOK4cR-Tig9DOQhMs",
+  "googleRating": 4.3,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0Qq-KxHWo7uICXra7sb6n0DLnivJmnyXNxImka2mlOdX0BExhnlPKCwD0C5vp_GYgruuLZILo1xep2ntzFdAJEYaqZQvm5fHOnVzCdB5OONs3Ev1ZuYwVu0-D2k-7SnTLDQSJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 10
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

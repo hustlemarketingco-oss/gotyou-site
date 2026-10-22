@@ -1,0 +1,37 @@
+{
+  "slug": "prxtty-fingers-tempe",
+  "name": "Prxtty Fingers",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4242397,
+  "lng": -111.941902,
+  "website": "https://prxttyfingers.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Prxtty+Fingers/data=!4m7!3m6!1s0x872b0929a09a48cf:0xe4dbb670c7a08143!8m2!3d33.4242397!4d-111.941902!16s%2Fg%2F11yfvv01tm!19sChIJz0iaoCkJK4cRQ4Ggx3C22-Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16490975056048980291",
+  "placeId": "ChIJz0iaoCkJK4cRQ4Ggx3C22-Q",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddg4dNbvVQn1kxiheKkpzUgFplBjpwODZUpCG56QWYmecY7Wax76vqNMOY8rjXIxlq-eZQjhfKBqKOxoys-tZrCFfByNoMkmJ4K_2LVXIHI9k2NjxTbURzVXla68H3XChbyY5-C0PgWmFT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

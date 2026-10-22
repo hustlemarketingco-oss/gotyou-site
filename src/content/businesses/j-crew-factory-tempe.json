@@ -1,0 +1,49 @@
+{
+  "slug": "j-crew-factory-tempe",
+  "name": "J.Crew Factory",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1021",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.432526599999996,
+  "lng": -111.90462459999999,
+  "phone": "+14809162143",
+  "website": "https://stores.factory.jcrew.com/us/az/tempe/2000-e-rio-salado-pkwy",
+  "googleMapsUrl": "https://www.google.com/maps/place/J.Crew+Factory/data=!4m7!3m6!1s0x872b093970b89ef9:0x8b6304ffc6624958!8m2!3d33.4325266!4d-111.9046246!16s%2Fg%2F11vw_vc62d!19sChIJ-Z64cDkJK4cRWElixv8EY4s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10043877090557839704",
+  "placeId": "ChIJ-Z64cDkJK4cRWElixv8EY4s",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLda9NqZfZJC_9h7Uz4o7K3ZN9jkTVKUzfXRDExddwQmfMs-A5yzbqvYunjvmfGIH9-GLeL-MdLOu29mJzAAy4UPxVQwxs7mU7k-P3jG4qQ6exVm9PMWCrAc-YWO2JNp_eY-afgjbQ=w1200-h800-k-no",
+  "description": "Chain outpost for classic, stylish apparel, shoes & accessories for men & women.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

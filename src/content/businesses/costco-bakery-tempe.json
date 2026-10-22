@@ -1,0 +1,33 @@
+{
+  "slug": "costco-bakery-tempe",
+  "name": "Costco Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "1445 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3472119,
+  "lng": -111.96191069999999,
+  "phone": "+14804966651",
+  "website": "https://www.costco.com/w/-/az/tempe/436",
+  "googleMapsUrl": "https://www.google.com/maps/place/Costco+Bakery/data=!4m7!3m6!1s0x872b05d078223d25:0x16685d16ce972c72!8m2!3d33.3472119!4d-111.9619107!16s%2Fg%2F11z21ltzq0!19sChIJJT0ieNAFK4cRciyXzhZdaBY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1614642818949000306",
+  "placeId": "ChIJJT0ieNAFK4cRciyXzhZdaBY",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lFCzrxt3pCh6BdRrElDNsQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=128.8739&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

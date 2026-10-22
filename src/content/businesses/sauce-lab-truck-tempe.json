@@ -1,0 +1,31 @@
+{
+  "slug": "sauce-lab-truck-tempe",
+  "name": "Sauce lab truck",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "2309 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421436899999996,
+  "lng": -111.88934119999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Sauce+lab+truck/data=!4m7!3m6!1s0x872b09004bd38b9d:0x408297261e4580d5!8m2!3d33.4214369!4d-111.8893412!16s%2Fg%2F11xg7dssq6!19sChIJnYvTSwAJK4cR1YBFHiaXgkA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4648443955372196053",
+  "placeId": "ChIJnYvTSwAJK4cR1YBFHiaXgkA",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2XfHWd8d9L3lgFbl12llwR3zbYJAt08ZNms6CsFN3iZRniuRPWHCm66R2fuaxNUkflzWBM-jD_rLTV2wRkD58jFym772Ex-pZR1g8xnDqqSk1vqRL9_Z2gHx1-uD3p5hT3GLrzamZurHjrRt6RqcxaWel5WUKs1oYFNmyk1gCjV6CdTgbVL_G0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

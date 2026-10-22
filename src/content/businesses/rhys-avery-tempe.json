@@ -1,0 +1,43 @@
+{
+  "slug": "rhys-avery-tempe",
+  "name": "Rhys & Avery",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "address": "1628 E Southern Ave Ste 9975",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3942599,
+  "lng": -111.91206349999999,
+  "phone": "+14804425023",
+  "website": "https://rhysandavery.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rhys+%26+Avery/data=!4m7!3m6!1s0x872b09f273f9cb6d:0xb6fc7aca25bca56a!8m2!3d33.3942599!4d-111.9120635!16s%2Fg%2F11kqsr9cs3!19sChIJbcv5c_IJK4cRaqW8Jcp6_LY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13185548817669072234",
+  "placeId": "ChIJbcv5c_IJK4cRaqW8Jcp6_LY",
+  "googleRating": 4,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdv7AZOlonw6qYbVF_7k6uKV0NMLU2bOe0qaEMWmutUkWBcojVVnle03AU7mBHtAdGtKoES6gjEWIkdXJm7m9y643Ms4KWMkQuHrPnNJDSiJNVaiFHcY5075mX7qAIbqktCYskX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 3
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

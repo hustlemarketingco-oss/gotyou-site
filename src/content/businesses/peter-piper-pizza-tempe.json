@@ -17,7 +17,7 @@
   "website": "https://locations.peterpiperpizza.com/az/tempe/1803-e-baseline-rd-ste-102",
   "placeId": "ChIJpSAOaTIGK4cR1S2MQGg03Gc",
   "googleRating": 3.9,
-  "googleReviewCount": 1182,
+  "googleReviewCount": 1202,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a3ed4edc63fe1bce1184a92",
   "seededAt": "2026-06-26T19:37:17Z",
   "updatedAt": "2026-06-26T19:37:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7483914303147093461",
+  "googleMapsUrl": "https://www.google.com/maps/place/Peter+Piper+Pizza/data=!4m7!3m6!1s0x872b0632690e20a5:0x67dc3468408c2dd5!8m2!3d33.3774743!4d-111.9082858!16s%2Fg%2F1tlqqg0z!19sChIJpSAOaTIGK4cR1S2MQGg03Gc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 131,
+    "2": 74,
+    "3": 149,
+    "4": 253,
+    "5": 595
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9KzhzDiSvchNuEKcV7TGxgpZ0fk63ZmIoe8HuRH8VPC_NXCNF425lz90sn4jBAymqra-T00ggV7bfZEaWKYIovHqFke8OvXnzkg2f0ujDSniXclHhkN8o8awKVRzFQBujSKP7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

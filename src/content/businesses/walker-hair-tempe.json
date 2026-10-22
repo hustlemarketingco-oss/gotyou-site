@@ -1,0 +1,42 @@
+{
+  "slug": "walker-hair-tempe",
+  "name": "Walker Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "4690 S Lakeshore Dr #1032",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3794555,
+  "lng": -111.92285299999999,
+  "phone": "+16023157743",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walker+Hair/data=!4m7!3m6!1s0x872b0778a6b76f83:0x6ca5c5b391196bce!8m2!3d33.3794555!4d-111.922853!16s%2Fg%2F11t43818l0!19sChIJg2-3pngHK4cRzmsZkbPFpWw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7828880902277655502",
+  "placeId": "ChIJg2-3pngHK4cRzmsZkbPFpWw",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7zVuDTHRKGHTgS73jC2goA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=83.874054&pitch=1.377146&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

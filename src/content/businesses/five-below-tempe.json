@@ -1,0 +1,53 @@
+{
+  "slug": "five-below-tempe",
+  "name": "Five Below",
+  "category": "Shopping",
+  "googleCategory": "Variety store",
+  "secondaryCategories": [
+    "Candy store",
+    "Fashion accessories store",
+    "Gift shop",
+    "Toy store"
+  ],
+  "address": "1800 E Rio Salado Pkwy Ste 160",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4301319,
+  "lng": -111.90762819999999,
+  "phone": "+14809675826",
+  "website": "https://locations.fivebelow.com/az/tempe/1800-e-rio-salado-pkwy?utm_source=gmb&utm_medium=yext&y_source=1_MTM1MzkzNDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Five+Below/data=!4m7!3m6!1s0x872b0ff8f8bfeb49:0x30dd9f0c3ce356fe!8m2!3d33.4301319!4d-111.9076282!16s%2Fg%2F11h5_yf_b9!19sChIJSeu_-PgPK4cR_lbjPAyf3TA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3521145358583551742",
+  "placeId": "ChIJSeu_-PgPK4cR_lbjPAyf3TA",
+  "googleRating": 4.4,
+  "googleReviewCount": 854,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBdhCNRyD4JBiNkmEh8E_0oxsk6fHe-guYHS8Qz9yZVeUXiR_3lAnwRKVU8OFZHBiciwknYibOr9YNfTZbttLDXCRxbwBThLl-JftOhiezMvVXd7-JvHPvS8ULH6BGTowjERNdkbwG1WRp=w1200-h800-k-no",
+  "description": "Teen-oriented retail chain for a large assortment of games, snacks, jewelry, room decor & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 19,
+    "3": 67,
+    "4": 166,
+    "5": 569
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

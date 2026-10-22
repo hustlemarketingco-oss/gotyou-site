@@ -1,0 +1,44 @@
+{
+  "slug": "awakening-nu-energy-tempe",
+  "name": "Awakening Nu Energy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Hypnotherapy service",
+    "Medical spa"
+  ],
+  "address": "Tempe, Chandler and",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4255104,
+  "lng": -111.94000539999999,
+  "phone": "+14802284333",
+  "googleMapsUrl": "https://www.google.com/maps/place/Awakening+Nu+Energy/data=!4m7!3m6!1s0x872b063df4e0c333:0x5f88d9b1aa730d81!8m2!3d33.4255104!4d-111.9400054!16s%2Fg%2F12qgh72v0!19sChIJM8Pg9D0GK4cRgQ1zqrHZiF8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6883991387527908737",
+  "placeId": "ChIJM8Pg9D0GK4cRgQ1zqrHZiF8",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uSlaQxalzK9MU4acs6cI2w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=341.5308&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

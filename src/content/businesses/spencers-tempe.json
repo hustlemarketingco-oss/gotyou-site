@@ -1,0 +1,54 @@
+{
+  "slug": "spencers-tempe",
+  "name": "Spencer's",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Adult entertainment store",
+    "Collectibles store",
+    "Jewelry store",
+    "Novelty store",
+    "T-shirt store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382701,
+  "lng": -111.96385559999999,
+  "phone": "+18335430751",
+  "website": "https://stores.spencersonline.com/az/tempe/arizona-mills-00032.html?utm_medium=referral&utm_source=google&utm_campaign=local_listing&utm_inex=e",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spencer%27s/data=!4m7!3m6!1s0x872b0f59e1444903:0x3b9e36e5379def2c!8m2!3d33.382701!4d-111.9638556!16s%2Fg%2F1vcq81fm!19sChIJA0lE4VkPK4cRLO-dN-U2njs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4295931452666539820",
+  "placeId": "ChIJA0lE4VkPK4cRLO-dN-U2njs",
+  "googleRating": 4.4,
+  "googleReviewCount": 225,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4PCbYx5id0lJcvUTNiXRDIY_syYtoarwlpxD8XcnmFw3Z5acUWXm470W-t2FmoTk0go19U4kLaR8QXnsZr6v6eGy8yPUaQgD0akfkyMJMfmnH8hthBjLtSTG4E0L-KQtc6g8d=w1200-h800-k-no",
+  "description": "Mall-based retail chain offering novelty goods & apparel, plus a selection of adult products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 5,
+    "3": 13,
+    "4": 40,
+    "5": 153
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

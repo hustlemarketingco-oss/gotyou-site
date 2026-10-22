@@ -1,0 +1,43 @@
+{
+  "slug": "portapedal-bike-inc-tempe",
+  "name": "Portapedal Bike Inc",
+  "category": "Shopping",
+  "googleCategory": "Bicycle Shop",
+  "address": "2054 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3933831,
+  "lng": -111.89808049999999,
+  "phone": "+14802456369",
+  "website": "http://portapedalbike.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Portapedal+Bike+Inc/data=!4m7!3m6!1s0x872b0878db84a559:0xcd19862975522037!8m2!3d33.3933831!4d-111.8980805!16s%2Fg%2F1tdz0f3j!19sChIJWaWE23gIK4cRNyBSdSmGGc0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14778991164813090871",
+  "placeId": "ChIJWaWE23gIK4cRNyBSdSmGGc0",
+  "googleRating": 5,
+  "googleReviewCount": 55,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTxfYM3rDALy4OjF23xWo9kggu4BJ5p1JDNOp61Mo97crUUWlzQClq81ohcSw8LWuBAjxhfOJfzD8SL62KH7VzD3M8OJqlps0Qtz7sw_wYYJ1kiijugZ4ud8jZDE2aFWxnETs=w1200-h800-k-no",
+  "description": "Bicycle shop focused on portable, folding bikes & high-quality commuting accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 55
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

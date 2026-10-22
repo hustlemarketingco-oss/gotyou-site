@@ -1,0 +1,48 @@
+{
+  "slug": "beauty-by-bentley-llc-tempe",
+  "name": "Beauty By Bentley LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Barber shop",
+    "Hair extension technician",
+    "Hairdresser"
+  ],
+  "address": "227 E Baseline Rd Bldg J3 suite 9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3777948,
+  "lng": -111.9358757,
+  "phone": "+16027153187",
+  "website": "https://www.styleseat.com/beautybybentley",
+  "googleMapsUrl": "https://www.google.com/maps/place/Beauty+By+Bentley+LLC/data=!4m7!3m6!1s0x872b0f45fc2daf15:0xcafb2c79c7b7f49b!8m2!3d33.3777948!4d-111.9358757!16s%2Fg%2F11tcn74r_c!19sChIJFa8t_EUPK4cRm_S3x3ks-8o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14626333116369204379",
+  "placeId": "ChIJFa8t_EUPK4cRm_S3x3ks-8o",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLda-QWi7ikdswlX_i-O6DFVfeHpKtZIG1uN1_0PqwRLvpYotNCP3RqZRljOG_tcg12GdHB6YK6o62ffATQlpxHDwxTdwiBhRNFeYi7sc2BzZSUM6lIEvl3XCeL2ZLYjge-YM-xIVg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "2:00 PM - 8:00 PM",
+    "tue": "4:00 PM - 8:00 PM",
+    "wed": "2:00 PM - 8:00 PM",
+    "thu": "2:00 PM - 8:00 PM",
+    "fri": "2:00 PM - 11:00 PM",
+    "sat": "8:00 AM - 11:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

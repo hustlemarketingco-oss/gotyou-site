@@ -1,0 +1,47 @@
+{
+  "slug": "food-city-725-tempe",
+  "name": "Food City",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "address": "725 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3772386,
+  "lng": -111.9506631,
+  "phone": "+14804563201",
+  "website": "https://myfoodcity.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Food+City/data=!4m7!3m6!1s0x872b0600c013563b:0xaf2957871b3a1dc9!8m2!3d33.3772386!4d-111.9506631!16s%2Fg%2F1tykvvqb!19sChIJO1YTwAAGK4cRyR06G4dXKa8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12621715668471520713",
+  "placeId": "ChIJO1YTwAAGK4cRyR06G4dXKa8",
+  "googleRating": 4.1,
+  "googleReviewCount": 1500,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2wdOCYdUCKMvv1529b5nHlFsB0IKL2D_D2JoLnukRA_3agpvCUUsH3yEmN0TNzqB8nZ0h_fPgmmiQHKeWjlwsBAfSNTWyvtq5xVWT1INy5US7gKihBsX6ipgf3PtxgW1P9uLg6_MR7-3Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 90,
+    "2": 57,
+    "3": 228,
+    "4": 378,
+    "5": 747
+  },
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

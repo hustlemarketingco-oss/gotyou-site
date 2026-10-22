@@ -18,13 +18,13 @@
   "website": "https://mastertacotempe.com/",
   "placeId": "ChIJn3iT4UkPK4cRio5L9E5XAiw",
   "googleRating": 4.2,
-  "googleReviewCount": 420,
+  "googleReviewCount": 430,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
@@ -41,5 +41,16 @@
   "groundgameId": "6a46b09a0e5952e856770824",
   "seededAt": "2026-07-02T18:40:26Z",
   "updatedAt": "2026-08-05T19:57:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3171193084239908490",
+  "googleMapsUrl": "https://www.google.com/maps/place/Master+Taco+Tempe/data=!4m7!3m6!1s0x872b0f49e193789f:0x2c02574ef44b8e8a!8m2!3d33.4071502!4d-111.9654255!16s%2Fg%2F11h7_jsj92!19sChIJn3iT4UkPK4cRio5L9E5XAiw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 25,
+    "3": 25,
+    "4": 58,
+    "5": 283
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiPYVuuuxNEAc24znRSuOhpUM9d9Ohy5K4LCWJZeItY-ssVqZqfLe0xDc1miEE6vNuumznLq8XowMxx84qOCEgh0oLfGVtXmXJf1t-T8MEtUj7MCspb6r117Wf1BTGTF6dv0ql=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

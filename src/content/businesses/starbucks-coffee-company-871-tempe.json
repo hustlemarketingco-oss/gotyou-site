@@ -18,25 +18,10 @@
   "priceRange": "$1–10",
   "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://facebook.com/starbucks"
@@ -47,5 +32,31 @@
   "groundgameId": "6a243963a372f03cf6e59ca5",
   "seededAt": "2026-06-06T15:14:43Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJQ9Q0LNUIK4cR3O0CUyeUT2E",
+  "googleCid": "7011986041456487900",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b08d52c34d443:0x614f94275302eddc!8m2!3d33.42167!4d-111.95195!16s%2Fg%2F1tfctpd_!19sChIJQ9Q0LNUIK4cR3O0CUyeUT2E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4,
+  "googleReviewCount": 638,
+  "ratingBreakdown": {
+    "1": 74,
+    "2": 30,
+    "3": 57,
+    "4": 121,
+    "5": 356
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlDlDlcMmt146YUE-dCl6QboP165hArsOIjT4EIXHWApiUSrOHMbgF-HS5QKr8VRoAacHrIAKvJIkx0y0oidK9xWsf1miEbXBBMn0rXB__19wqoqIfzG0UvqfuHSzUCaFJpi2_HQ=w1200-h800-k-no",
+  "website": "https://www.starbucks.com/store-locator/store/14887/",
+  "hours": {
+    "mon": "4:00 AM - 9:00 PM",
+    "tue": "4:00 AM - 9:00 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "4:00 AM - 9:00 PM",
+    "sat": "4:30 AM - 9:00 PM",
+    "sun": "4:30 AM - 9:00 PM"
+  },
+  "lat": 33.42167,
+  "lng": -111.95195,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

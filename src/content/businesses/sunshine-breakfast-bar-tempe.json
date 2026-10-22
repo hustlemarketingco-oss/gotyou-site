@@ -1,0 +1,57 @@
+{
+  "slug": "sunshine-breakfast-bar-tempe",
+  "name": "Sunshine Breakfast Bar",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar",
+    "Brunch restaurant",
+    "Cafe",
+    "Coffee shop",
+    "Diner",
+    "Family restaurant"
+  ],
+  "address": "788 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378718899999996,
+  "lng": -111.9301978,
+  "phone": "+16027777607",
+  "website": "https://www.sunshinebreakfastbar.com/locations-tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunshine+Breakfast+Bar/data=!4m7!3m6!1s0x872b071adb3dd99b:0x8e5775ce3cbc919c!8m2!3d33.3787189!4d-111.9301978!16s%2Fg%2F11xzhjtmfn!19sChIJm9k92xoHK4cRnJG8PM51V44?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10256796205002297756",
+  "placeId": "ChIJm9k92xoHK4cRnJG8PM51V44",
+  "googleRating": 4.5,
+  "googleReviewCount": 263,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLff7XbFVCM02XWkt1UN66s8naFJ8E7g-ngCdKeF7TCFtDoOyIu3Y-oXmYElNYiR2LsxkgUIW8OY2aknwoIvqquQL36SytSA3mkzQaHfLFt1_mJ46zrFvr8SG-xxSiy8-Y5WcIzh8luUtVjA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 12,
+    "3": 16,
+    "4": 20,
+    "5": 206
+  },
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

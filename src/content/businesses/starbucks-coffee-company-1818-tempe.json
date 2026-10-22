@@ -1,0 +1,54 @@
+{
+  "slug": "starbucks-coffee-company-1818-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "1818 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3793,
+  "lng": -111.90776,
+  "phone": "+14808319162",
+  "website": "https://www.starbucks.com/store-locator/store/1026638",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b07748075fc9d:0x11aad18f21e72c27!8m2!3d33.3793!4d-111.90776!16s%2Fg%2F11j0h31_jb!19sChIJnfx1gHQHK4cRJyznIY_RqhE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1273060257364913191",
+  "placeId": "ChIJnfx1gHQHK4cRJyznIY_RqhE",
+  "googleRating": 3.4,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2pId1Uous2s06_RJcJELR4BnC-_Fnm2VuTTLk0ccV01q5rt_O_5gvLe5NzYLeKJ6G_c4Ykl2A1u8gx9zFTm11W3WOA43c4LtZPvSq90QeyuXt4l2tGKDy_T0VoYCR7OvhnZ-E=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 3,
+    "4": 1,
+    "5": 10
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

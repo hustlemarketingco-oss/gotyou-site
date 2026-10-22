@@ -17,28 +17,10 @@
   "priceRange": "$1–10",
   "description": "Better Buzz Coffee - Tempe is a Tempe casual, cozy coffee shop & breakfast restaurant known for coffee & quick bite, takeout.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/betterbuzzcoffee"
@@ -49,5 +31,31 @@
   "groundgameId": "6a24393f92d01bb0a50336c9",
   "seededAt": "2026-06-06T15:14:07Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJpy-QZqwHK4cRU52WvEFquRo",
+  "googleCid": "1925687146247003475",
+  "googleMapsUrl": "https://www.google.com/maps/place/Better+Buzz+Coffee+Tempe/data=!4m7!3m6!1s0x872b07ac66902fa7:0x1ab96a41bc969d53!8m2!3d33.349653!4d-111.9462492!16s%2Fg%2F11w8jz5m_b!19sChIJpy-QZqwHK4cRU52WvEFquRo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 520,
+  "ratingBreakdown": {
+    "1": 45,
+    "2": 21,
+    "3": 20,
+    "4": 31,
+    "5": 403
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcf1AwGgt0XT-i2ed6fdF6DXhHRkcLrvWaltQKdpbU678U6pb81T9LozCZaULXkWCZfi_NoD1bX2MjiyC6w3klYCp6Gsl8WyOhUD_JkTUbY057BUt_p2eBBGdhcpVh6qMWpsG9CIg7078k=w1200-h800-k-no",
+  "website": "http://www.betterbuzzcoffee.com/",
+  "hours": {
+    "mon": "4:00 AM - 8:00 PM",
+    "tue": "4:00 AM - 8:00 PM",
+    "wed": "4:00 AM - 8:00 PM",
+    "thu": "4:00 AM - 8:00 PM",
+    "fri": "4:00 AM - 8:00 PM",
+    "sat": "4:00 AM - 8:00 PM",
+    "sun": "4:00 AM - 8:00 PM"
+  },
+  "lat": 33.349652999999996,
+  "lng": -111.9462492,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

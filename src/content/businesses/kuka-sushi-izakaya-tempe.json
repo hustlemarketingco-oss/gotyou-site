@@ -20,7 +20,7 @@
   "website": "http://kukasushi.com/",
   "placeId": "ChIJzYZ61uIJK4cRtItvjQKWXGk",
   "googleRating": 4.4,
-  "googleReviewCount": 727,
+  "googleReviewCount": 746,
   "priceRange": "$$",
   "hours": {
     "mon": "11:30 AM - 9:00 PM",
@@ -37,5 +37,22 @@
   "groundgameId": "6a2738c6e7917f424e93c825",
   "seededAt": "2026-06-08T21:48:54Z",
   "updatedAt": "2026-06-12T22:05:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7592108009546812340",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kuka+Sushi+%26+Izakaya/data=!4m7!3m6!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4!8m2!3d33.4145961!4d-111.9193594!16s%2Fg%2F11fhn1ydb4!19sChIJzYZ61uIJK4cRtItvjQKWXGk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 17,
+    "3": 39,
+    "4": 108,
+    "5": 534
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyTvXHmhMm8vakuwvOJRsIi7FzCn5lOutlEgvhjZWyxy8ehw6KTAlV-3TxqJG18qKDzWn22n4CRbr3amYZXxbuLEAVmEbtLEKIJOTq6mKH9yn0npvieZ6JButypr8DEQc8n3K1VA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "clockwork-pizza-tempe",
+  "name": "Clockwork Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "address": "7520 S Rural Rd Ste A9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3499572,
+  "lng": -111.92981569999999,
+  "phone": "+14807552250",
+  "website": "https://clockwork-az.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Clockwork+Pizza/data=!4m7!3m6!1s0x872b06677230478b:0x705c9efcdfb4dcde!8m2!3d33.3499572!4d-111.9298157!16s%2Fg%2F1tlwg2yq!19sChIJi0cwcmcGK4cR3ty03_yeXHA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8096521039027428574",
+  "placeId": "ChIJi0cwcmcGK4cR3ty03_yeXHA",
+  "googleRating": 4.7,
+  "googleReviewCount": 908,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX4AyH1uO4blI8tEcdvmV8hxwY0V9hjmn4BBX18NgfYNNcTxGvlCyGN7UfyD_l_kHUe2TTOwHINJBdfNdtCL0XVMqm9tlg7ruHvi-C_i32k-s9yOAUabP462ZL2LRVkjdcp_M=w1200-h800-k-no",
+  "description": "Straightforward counter-serve spot supplying NYC-style slices & pies, plus quick fare such as wraps.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 14,
+    "3": 27,
+    "4": 84,
+    "5": 750
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 11:00 PM",
+    "sat": "10:30 AM - 11:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

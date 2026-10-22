@@ -1,0 +1,47 @@
+{
+  "slug": "mission-grille-tempe",
+  "name": "Mission Grille",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "60 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426444,
+  "lng": -111.9391581,
+  "phone": "+14803171556",
+  "website": "https://www.destinationhotels.com/tempe-mission-palms/dining/tempe-restaurants?src=agn_sabre_prop_seo_phxdt_gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mission+Grille/data=!4m7!3m6!1s0x872b08d80cf29ca3:0x38cc9b7d708ba322!8m2!3d33.426444!4d-111.9391581!16s%2Fg%2F1hf6jm4p7!19sChIJo5zyDNgIK4cRIqOLcH2bzDg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4092817124434354978",
+  "placeId": "ChIJo5zyDNgIK4cRIqOLcH2bzDg",
+  "googleRating": 4.1,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNsBUHzWIsk3RFdh8wWRYcmGWDgak5PM9i5IWMoo2xBh6UXBkJuxj846GiXD9XN42MOaOI6pj5ejDqHsmfTKqiJi1OayrSOzckxvPiiNSo4opeam4318Uq7fyTcLWm0rkjvSLh=w1200-h800-k-no",
+  "description": "Modern dining room in the Tempe Mission Palms serving American eats with a buffet option.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "4": 2,
+    "5": 11
+  },
+  "hours": {
+    "mon": "7:00 AM - 1:30 PM",
+    "tue": "7:00 AM - 1:30 PM",
+    "wed": "7:00 AM - 1:30 PM",
+    "thu": "7:00 AM - 1:30 PM",
+    "fri": "7:00 AM - 1:30 PM",
+    "sat": "7:00 AM - 1:30 PM",
+    "sun": "7:00 AM - 1:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

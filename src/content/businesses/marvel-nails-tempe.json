@@ -1,0 +1,47 @@
+{
+  "slug": "marvel-nails-tempe",
+  "name": "Marvel Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "939 E Guadalupe Rd #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3632675,
+  "lng": -111.9275213,
+  "phone": "+14804914242",
+  "website": "http://marvelnailsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Marvel+Nails/data=!4m7!3m6!1s0x872b071ea3c0ffe5:0xaa7a89d72c8858e6!8m2!3d33.3632675!4d-111.9275213!16s%2Fg%2F11z2yl77cd!19sChIJ5f_Aox4HK4cR5liILNeJeqo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12284282490864556262",
+  "placeId": "ChIJ5f_Aox4HK4cR5liILNeJeqo",
+  "googleRating": 4.9,
+  "googleReviewCount": 189,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDQs5wtboSmK9p8h4nzGdBEzvC_i1nq8m6F4_-saFb4jb5ybfXN3_us-NGX4CEJOKslpz9osD36usxYbAJiFVW7jaCrNFdgcDArtHX7If_6XW6lsvErnO0fqBaiOhmpKfLpKqmWkcBq0om=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 2,
+    "4": 4,
+    "5": 182
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:30 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

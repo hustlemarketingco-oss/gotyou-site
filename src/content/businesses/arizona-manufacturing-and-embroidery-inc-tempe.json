@@ -1,0 +1,45 @@
+{
+  "slug": "arizona-manufacturing-and-embroidery-inc-tempe",
+  "name": "Arizona Manufacturing and Embroidery, Inc",
+  "category": "Shopping",
+  "googleCategory": "Golf shop",
+  "address": "1200 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.415149899999996,
+  "lng": -111.9614912,
+  "phone": "+18005286480",
+  "website": "http://www.amegolf.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Manufacturing+and+Embroidery,+Inc/data=!4m7!3m6!1s0x872b08f8f13acd91:0x3a75525ad2b6f7d7!8m2!3d33.4151499!4d-111.9614912!16s%2Fg%2F12j06tjgc!19sChIJkc068fgIK4cR1_e20lpSdTo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4212363576510707671",
+  "placeId": "ChIJkc068fgIK4cR1_e20lpSdTo",
+  "googleRating": 3.9,
+  "googleReviewCount": 15,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D5wEaclpq35XeR5HCGa2eg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=156.41318&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "4": 2,
+    "5": 9
+  },
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "cervantes-restaurant-tempe",
+  "name": "Cervantes Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "3318 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922898,
+  "lng": -111.9397934,
+  "phone": "+14809219113",
+  "website": "https://cervantesrestaurant.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cervantes+Restaurant/data=!4m7!3m6!1s0x872b08a565083a01:0x612a8f73afcd0eea!8m2!3d33.3922898!4d-111.9397934!16s%2Fg%2F1thd743t!19sChIJAToIZaUIK4cR6g7Nr3OPKmE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7001566297734319850",
+  "placeId": "ChIJAToIZaUIK4cR6g7Nr3OPKmE",
+  "googleRating": 3.4,
+  "googleReviewCount": 62,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCQyL0H7REyFx6XJlwlW-FvZE1AbUqkHDe6gEG8-E4JGSH5dl9GkswLdlkkal83nwoCK8nKbeXPhs6F98ddGt2UFINUTor9oXLk0xymKA2S_2YRMNbsoQoV9bkIDGzJM557lHn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 4,
+    "3": 9,
+    "4": 5,
+    "5": 28
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "6:00 PM - 11:00 PM",
+    "sat": "6:00 PM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

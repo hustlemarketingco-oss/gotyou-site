@@ -1,0 +1,47 @@
+{
+  "slug": "to-the-nines-barbershop-tempe",
+  "name": "To the Nines Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1840 E Warner Rd Ste 124",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3356446,
+  "lng": -111.9090322,
+  "phone": "+14805979734",
+  "website": "https://totheninesbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/To+the+Nines+Barbershop/data=!4m7!3m6!1s0x872b073377e72fdf:0xaaf76ddcfa98ec15!8m2!3d33.3356446!4d-111.9090322!16s%2Fg%2F11fkyycp1y!19sChIJ3y_ndzMHK4cRFeyY-txt96o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12319436101559839765",
+  "placeId": "ChIJ3y_ndzMHK4cRFeyY-txt96o",
+  "googleRating": 4.8,
+  "googleReviewCount": 588,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLktZmFciKdkXQyL5KDFaWQl8yDTaawMYlvSIQbtAV9eQrYRwo5SoFQADhSFGg7as_inJWk8eRizAIzQVb3fi39NEQUdZgjzEYsjzyMMqhZ4uJyf-rN88TnaNB1mNsjLXjJdu8B0bF8Ac5=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 1,
+    "3": 3,
+    "4": 6,
+    "5": 558
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

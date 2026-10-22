@@ -1,0 +1,50 @@
+{
+  "slug": "capri-jewelers-tempe",
+  "name": "Capri Jewelers",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Jewelry repair service"
+  ],
+  "address": "Marketplace, 2010 E Rio Salado Pkwy Ste 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4321269,
+  "lng": -111.90292389999999,
+  "phone": "+14804561620",
+  "website": "http://www.caprijewelersaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Capri+Jewelers/data=!4m7!3m6!1s0x872b0f59e1444903:0x97523322ef0fa763!8m2!3d33.4321269!4d-111.9029239!16s%2Fg%2F1tlgydp_!19sChIJA0lE4VkPK4cRY6cP7yIzUpc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10903833872950077283",
+  "placeId": "ChIJA0lE4VkPK4cRY6cP7yIzUpc",
+  "googleRating": 5,
+  "googleReviewCount": 2687,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccovDgiNJ6ZWdw29W1yMb2-fgbAYahmU_3rkazX4KQwy0KAUTxL6QiN3oPums1zOOsglcJjSorXF6kkLGc_lKDYbCZ3p6mD7a_0fdtlvJ0P01U0fLvRoubvLRHcWwV8FlPtUy4jtWBeD2w=w1200-h800-k-no",
+  "description": "Fine jewelry store specializing in pieces with carefully-sourced diamonds & gemstones.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 2,
+    "3": 9,
+    "4": 18,
+    "5": 2637
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

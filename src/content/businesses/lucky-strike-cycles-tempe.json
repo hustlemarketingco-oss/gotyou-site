@@ -12,7 +12,7 @@
   "website": "http://www.luckystrikecycles.com/",
   "placeId": "ChIJY_1VmQOpK4cRgKShk4ytAH0",
   "googleRating": 4.9,
-  "googleReviewCount": 65,
+  "googleReviewCount": 68,
   "hours": {
     "mon": "8:00 AM - 5:00 PM",
     "tue": "8:00 AM - 5:00 PM",
@@ -28,5 +28,18 @@
   "groundgameId": "6a32d4f78f6eb16baa544ca3",
   "seededAt": "2026-06-17T17:10:15Z",
   "updatedAt": "2026-06-17T17:10:16Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9007390074024862848",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lucky+Strike+Cycles/data=!4m7!3m6!1s0x872ba9039955fd63:0x7d00ad8c93a1a480!8m2!3d33.4244846!4d-111.9023844!16s%2Fg%2F11q86kwh69!19sChIJY_1VmQOpK4cRgKShk4ytAH0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCategory": "Motorcycle shop",
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 67
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWCalLJOzt0DR1YdURXGCjWRgZbRr-ydEIKrrQIjVx13WH9rCcSNuNGVJ-z8l49rpIebx_tJZ-gxsh_6GANkrwbahG31xwuxopxSspdQxIRHf3ME9o2AF58pa4pAW8cm7als1ksw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

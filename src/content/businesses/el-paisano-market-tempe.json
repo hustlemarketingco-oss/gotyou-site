@@ -2,7 +2,7 @@
   "slug": "el-paisano-market-tempe",
   "name": "El Paisano Market",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Mexican restaurant",
   "secondaryCategories": [
     "Market"
   ],
@@ -16,7 +16,7 @@
   "website": "http://elpaisanotogo.com/",
   "placeId": "ChIJzftOK-8IK4cRdadPJrbxpYU",
   "googleRating": 4.4,
-  "googleReviewCount": 906,
+  "googleReviewCount": 928,
   "priceRange": "$",
   "hours": {
     "mon": "8:00 AM - 3:00 AM",
@@ -33,5 +33,20 @@
   "groundgameId": "6a358f7982c5e799338d526d",
   "seededAt": "2026-06-19T18:50:33Z",
   "updatedAt": "2026-06-19T18:50:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9630369142830770037",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Paisano+Market/data=!4m7!3m6!1s0x872b08ef2b4efbcd:0x85a5f1b6264fa775!8m2!3d33.4164827!4d-111.9225461!16s%2Fg%2F1262r0vg9!19sChIJzftOK-8IK4cRdadPJrbxpYU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 81,
+    "2": 20,
+    "3": 42,
+    "4": 113,
+    "5": 672
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddenj9ex64locY8NgwtXkPWjPyBRqxw73jS_YLW2_NfQWdazRgaAZAAK6_4s-bE95mbcKQus4SAsc0x0DW-rs9ciqjLtohIikEqWzff0gW56v8ZsE4vw9LxNJIS3zr6FMkrCAVt4lNBtXf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

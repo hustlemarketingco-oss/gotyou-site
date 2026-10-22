@@ -22,7 +22,7 @@
   "website": "https://smashburger.com/locations/us/az/tempe/2000-e-rio-salado-pkwy",
   "placeId": "ChIJq3vqPlQIK4cRRo0-u7ReC80",
   "googleRating": 4.3,
-  "googleReviewCount": 986,
+  "googleReviewCount": 1017,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 9:30 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a357cb07accb076f5a87a69",
   "seededAt": "2026-06-19T17:30:24Z",
   "updatedAt": "2026-06-19T17:30:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14775007132847607110",
+  "googleMapsUrl": "https://www.google.com/maps/place/Smashburger/data=!4m7!3m6!1s0x872b08543eea7bab:0xcd0b5eb4bb3e8d46!8m2!3d33.4340902!4d-111.9019455!16s%2Fg%2F1tg6k_yh!19sChIJq3vqPlQIK4cRRo0-u7ReC80?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 35,
+    "3": 72,
+    "4": 157,
+    "5": 671
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLejmdH34IJmBbZVP37glcPMJ90DJdqIGFUOyCsNH1ApCmDb3KYfBN0Z35S0u7yBMIBVXhTqwDC1h1USpsx3AGzHhelXzV2tqem4Q4xlBMGPx9dcw9DPZlHvPLF5v4OHuGIYYeY_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

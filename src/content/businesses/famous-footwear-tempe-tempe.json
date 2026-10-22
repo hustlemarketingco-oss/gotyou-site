@@ -1,0 +1,47 @@
+{
+  "slug": "famous-footwear-tempe-tempe",
+  "name": "Famous Footwear",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "TEMPE MARKETPLACE, 1800 E Rio Salado Pkwy #110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430122499999996,
+  "lng": -111.90495899999999,
+  "phone": "+14803831533",
+  "website": "https://www.famousfootwear.com/stores/az/tempe/85281/tempe-marketplace-02426?PartnerID=organic_search_google_storelisting&utm_medium=organic&utm_source=search&utm_campaign=google&utm_content=storelisting",
+  "googleMapsUrl": "https://www.google.com/maps/place/Famous+Footwear/data=!4m7!3m6!1s0x872b084d765006dd:0xe84d7b9fb0e70612!8m2!3d33.4301225!4d-111.904959!16s%2Fg%2F1tfk9gy4!19sChIJ3QZQdk0IK4cREgbnsJ97Teg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16739171315803948562",
+  "placeId": "ChIJ3QZQdk0IK4cREgbnsJ97Teg",
+  "googleRating": 4.2,
+  "googleReviewCount": 443,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpueR2mm28u465IpLSJHjt21k-YPPC4vejbHHXaAQy57DHlS-k2MW3iFx8g3ejmDwCGx67QU5XRNRxT2zOxgBaNSSAoO1MhX3R8IcGHouwJTmmH5kPhPmVGZLOOsJE0PtyFK4x6YNe_U0=w1200-h800-k-no",
+  "description": "Chain store offering a wide variety of brand-name shoes at discounted prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 20,
+    "3": 50,
+    "4": 88,
+    "5": 253
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

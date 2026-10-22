@@ -14,21 +14,17 @@
   "lng": -111.9096993,
   "phone": "+16028616728",
   "website": "https://www.discountaquariumsaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9454757260042757189",
+  "googleMapsUrl": "https://www.google.com/maps/place/Discount+Aquarium+Fish+and+Reef/data=!4m7!3m6!1s0x872b6d86b5d4f92d:0x83360ba27264e445!8m2!3d33.4213307!4d-111.8933664!16s%2Fg%2F1tq8k099!19sChIJLfnUtYZtK4cRReRkcqILNoM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9454757260042757189",
   "placeId": "ChIJLfnUtYZtK4cRReRkcqILNoM",
   "googleRating": 4.4,
-  "googleReviewCount": 709,
+  "googleReviewCount": 721,
   "description": "Retailer of freshwater & saltwater fish as well as new/used aquariums, supplies & accessories.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/discountaquarium"
@@ -48,5 +44,14 @@
   "groundgameId": "6a243a12206984f1f27691ba",
   "seededAt": "2026-06-06T15:17:38Z",
   "updatedAt": "2026-06-06T15:17:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 34,
+    "3": 36,
+    "4": 63,
+    "5": 547
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccmT7PeF9GifGE2MVDmKcDcz5IAkSblGlierP-zCnU5I1TNDT3IEIfVR8g8FDUT-WBQvVKGxfnEyMLrCfzIDwJf9c1tFRFBcWRaAcelie6_pKgxmw5hd6BCL8umiJbcaCa4s0=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

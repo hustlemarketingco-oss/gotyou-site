@@ -1,0 +1,31 @@
+{
+  "slug": "fluff-brow-bar-tempe",
+  "name": "Fluff Brow Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "123 E Baseline Rd d208",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775419,
+  "lng": -111.93746089999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Fluff+Brow+Bar/data=!4m7!3m6!1s0x872b078209a79a3f:0xf38671832277c5bc!8m2!3d33.3775419!4d-111.9374609!16s%2Fg%2F11rq27vz1_!19sChIJP5qnCYIHK4cRvMV3IoNxhvM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17547837806128645564",
+  "placeId": "ChIJP5qnCYIHK4cRvMV3IoNxhvM",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EsuTHN3WKP80j5o3RrL-8g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=346.60355&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

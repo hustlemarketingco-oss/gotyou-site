@@ -1,0 +1,53 @@
+{
+  "slug": "dutch-bros-coffee-6461-tempe",
+  "name": "Dutch Bros Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Juice shop",
+    "Tea house"
+  ],
+  "address": "6461 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3628433,
+  "lng": -111.9283636,
+  "phone": "+18778992767",
+  "website": "https://www.dutchbros.com/locations/az/tempe/6461-s.-rural-rd.?y_source=1_MTUyMjg1MzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x872b08e86408e107:0x967ee4a77647066e!8m2!3d33.3628433!4d-111.9283636!16s%2Fg%2F1hc5h6t8p!19sChIJB-EIZOgIK4cRbgZHdqfkfpY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10844356360649770606",
+  "placeId": "ChIJB-EIZOgIK4cRbgZHdqfkfpY",
+  "googleRating": 4.6,
+  "googleReviewCount": 1930,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC9nH1BYs2v_VwyW6wxh6IlzmYLldntid7quHReQdwh-gV3jzL-U1U9DltYNnueZB1LW5nVI2zY_E57qyGOjnIDrq7noct70Dd9olImH2A0CIZeKfeA_6nntY_uI3kR8DQMIS8cRxKkKzo=w1200-h800-k-no",
+  "description": "Straightforward, late-night coffee drive-thru serving up espresso drinks & pastries from the window.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 85,
+    "2": 26,
+    "3": 77,
+    "4": 239,
+    "5": 1503
+  },
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "5:00 AM - 11:00 PM",
+    "wed": "5:00 AM - 11:00 PM",
+    "thu": "5:00 AM - 11:00 PM",
+    "fri": "5:00 AM - 11:00 PM",
+    "sat": "5:00 AM - 11:00 PM",
+    "sun": "5:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

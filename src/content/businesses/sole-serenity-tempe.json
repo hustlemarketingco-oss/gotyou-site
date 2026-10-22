@@ -1,0 +1,41 @@
+{
+  "slug": "sole-serenity-tempe",
+  "name": "Sole Serenity",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "5470 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.374349599999995,
+  "lng": -111.9200644,
+  "phone": "+14802161738",
+  "website": "http://www.soleserenity.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sole+Serenity/data=!4m7!3m6!1s0x872b0bea12fc747b:0xbd43fb623ed1179!8m2!3d33.3743496!4d-111.9200644!16s%2Fg%2F11b7d_t2q8!19sChIJe3T8EuoLK4cReRHtI7Y_1As?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "852376280999203193",
+  "placeId": "ChIJe3T8EuoLK4cReRHtI7Y_1As",
+  "googleRating": 5,
+  "googleReviewCount": 15,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNa-wLb__VRGt-lKjlbwRH0bbpslgNdN5bHqLW9UYQHbyLX0HnVu1zeukTuOqR9CAyaWhWC8rs1QQuViDGe4ZnRlJzbKYMvFX-3hHqaaBo7eG8rnwBA0cygmbb2uUdFkZQ8iw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 15
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

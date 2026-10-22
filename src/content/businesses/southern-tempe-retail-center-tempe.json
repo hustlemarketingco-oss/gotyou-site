@@ -1,0 +1,45 @@
+{
+  "slug": "southern-tempe-retail-center-tempe",
+  "name": "Southern Tempe Retail Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "2714 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932389,
+  "lng": -111.97702989999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Southern+Tempe+Retail+Center/data=!4m7!3m6!1s0x872b0f6a1c12b037:0xe1a453e4983969d3!8m2!3d33.3932389!4d-111.9770299!16s%2Fg%2F1wnbygxm!19sChIJN7ASHGoPK4cR02k5mORTpOE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16259212795985881555",
+  "placeId": "ChIJN7ASHGoPK4cR02k5mORTpOE",
+  "googleRating": 4.2,
+  "googleReviewCount": 81,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f-ctEKYi0vG9kksgNwqQqQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=356.94144&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 7,
+    "3": 10,
+    "4": 15,
+    "5": 47
+  },
+  "hours": {
+    "mon": "8:30 AM - 9:00 PM",
+    "tue": "8:30 AM - 9:00 PM",
+    "wed": "8:30 AM - 9:00 PM",
+    "thu": "8:30 AM - 9:00 PM",
+    "fri": "8:30 AM - 9:00 PM",
+    "sat": "8:30 AM - 9:00 PM",
+    "sun": "8:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

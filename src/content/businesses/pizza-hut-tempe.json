@@ -1,0 +1,52 @@
+{
+  "slug": "pizza-hut-tempe",
+  "name": "Pizza Hut",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Chicken wings restaurant",
+    "Pizza restaurant",
+    "Pizza Takeout"
+  ],
+  "address": "1712 E Guadalupe Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.364441299999996,
+  "lng": -111.9135086,
+  "phone": "+14808390383",
+  "website": "https://locations.pizzahut.com/az/tempe/1712-e-guadalupe-rd?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=300384",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pizza+Hut/data=!4m7!3m6!1s0x872b0649aa1489e5:0x49e2d1efe6ecd2ee!8m2!3d33.3644413!4d-111.9135086!16s%2Fg%2F1tcx_91r!19sChIJ5YkUqkkGK4cR7tLs5u_R4kk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5324048537807016686",
+  "placeId": "ChIJ5YkUqkkGK4cR7tLs5u_R4kk",
+  "googleRating": 4.1,
+  "googleReviewCount": 447,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPsII540NEN2kO_JKU5me1bxZgSrkwCDcZdD01yyVCV4W3JYXumC9UfztXmRbmTX3PnHDFE5JB6fx9NsYXWJIIGlkYMpinbclb726AtGw4jbkv-d8Dj1-J2JpXyAwd4o8jKTiJGA=w1200-h800-k-no",
+  "description": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 73,
+    "2": 19,
+    "3": 20,
+    "4": 34,
+    "5": 301
+  },
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

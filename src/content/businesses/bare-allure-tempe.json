@@ -1,0 +1,36 @@
+{
+  "slug": "bare-allure-tempe",
+  "name": "Bare Allure",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1761 E Warner Rd #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3334,
+  "lng": -111.91268799999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Bare+Allure/data=!4m7!3m6!1s0x872b07d8ddc42ba9:0xf68c95d5872ee185!8m2!3d33.3334!4d-111.912688!16s%2Fg%2F11fwdcltyy!19sChIJqSvE3dgHK4cRheEuh9WVjPY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17765739374398333317",
+  "placeId": "ChIJqSvE3dgHK4cRheEuh9WVjPY",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ofwNvl2vldzrUwe2wCaXQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=187.51318&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

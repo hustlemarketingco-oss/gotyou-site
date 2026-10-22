@@ -11,11 +11,11 @@
   "lng": -111.9404652,
   "phone": "+14802690104",
   "website": "https://edenteacoffee.org/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1889572262738509016",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eden+Tea+%26+Coffee+House/data=!4m7!3m6!1s0x872b09524d9aaeaf:0x1a391bf629f5bcd8!8m2!3d33.4181797!4d-111.9404652!16s%2Fg%2F11tshbd3_n!19sChIJr66aTVIJK4cR2Lz1KfYbORo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1889572262738509016",
   "placeId": "ChIJr66aTVIJK4cR2Lz1KfYbORo",
-  "googleRating": 4.7,
-  "googleReviewCount": 119,
+  "googleRating": 4.8,
+  "googleReviewCount": 121,
   "priceRange": "$1–10",
   "description": "Located in Tempe, Eden Tea & Coffee House is a casual, cozy coffee shop with coffee & quick bite, dine-in.",
   "amenities": [
@@ -46,5 +46,23 @@
   "groundgameId": "6a2438fd06d36686087f7ca5",
   "seededAt": "2026-06-06T15:13:01Z",
   "updatedAt": "2026-06-06T15:13:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "3": 1,
+    "4": 5,
+    "5": 111
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_1T-dFrGadUsgeM9gvbthnsJ1u9PMdw4AnChV2yhOQLEXniiZEGHioaPQfFlOKii1pPgJVZQMBqgf-UDYx86OTNtPT7iA8idjz6XplmWQY6PpAAVprWpqM4sZxP671Zz9Fn2O=w1200-h800-k-no",
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

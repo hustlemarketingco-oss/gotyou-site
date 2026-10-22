@@ -11,8 +11,8 @@
   "lng": -111.93895499999999,
   "website": "https://www.matchadarlin.com/",
   "placeId": "ChIJG4G8K7IJK4cRc1n87_MimDE",
-  "googleRating": 5,
-  "googleReviewCount": 4,
+  "googleRating": 4.9,
+  "googleReviewCount": 39,
   "hours": {
     "mon": "Closed",
     "tue": "8:00 AM - 3:00 PM",
@@ -28,5 +28,18 @@
   "groundgameId": "6a722dd9a1392c34ae6fd770",
   "seededAt": "2026-08-04T18:22:17Z",
   "updatedAt": "2026-08-04T18:24:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3573644735417178483",
+  "googleMapsUrl": "https://www.google.com/maps/place/Matcha+Darlin%27+Cafe+-+Tempe/data=!4m7!3m6!1s0x872b09b22bbc811b:0x319822f3effc5973!8m2!3d33.4065442!4d-111.938955!16s%2Fg%2F11nqx_pqxn!19sChIJG4G8K7IJK4cRc1n87_MimDE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 2,
+    "5": 36
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_euNDxB_PWe4HBr8BhKpL0k-TaXlu_QglcJuIQ4A58UtFmBqlcEu0RujEeX91zcqNomXDBX-0k1U2pFy3u2WXqQhYyWXNAcGQU9ldobknvpRMwbyyCZElaon_5BdXcxsTPtb2_3iy6VUL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

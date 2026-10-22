@@ -1,0 +1,27 @@
+{
+  "slug": "beeline-brew-co-tempe",
+  "name": "Beeline Brew Co.",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "address": "2015 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4250121,
+  "lng": -111.8986078,
+  "website": "https://www.beelinebrew.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Beeline+Brew+Co./data=!4m7!3m6!1s0x872b091e23b04877:0x8d41b006fa915c66!8m2!3d33.4250121!4d-111.8986078!16s%2Fg%2F11yc9jmp9t!19sChIJd0iwIx4JK4cRZlyR-gawQY0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10178610176854154342",
+  "placeId": "ChIJd0iwIx4JK4cRZlyR-gawQY0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jrmER5fXLZmu5ko9eFa5LA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=13.2730255&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

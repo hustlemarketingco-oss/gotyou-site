@@ -1,0 +1,46 @@
+{
+  "slug": "brandons-comics-tempe",
+  "name": "Brandon's Comics",
+  "category": "Shopping",
+  "googleCategory": "Comic book store",
+  "address": "1833 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922285,
+  "lng": -111.90723299999999,
+  "phone": "+14808380467",
+  "website": "https://brandonscomics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brandon%27s+Comics/data=!4m7!3m6!1s0x872b09c3fe7c17af:0xfe033365d61555b8!8m2!3d33.3922285!4d-111.907233!16s%2Fg%2F11gxg604xp!19sChIJrxd8_sMJK4cRuFUV1mUzA_4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18303529823040263608",
+  "placeId": "ChIJrxd8_sMJK4cRuFUV1mUzA_4",
+  "googleRating": 3.8,
+  "googleReviewCount": 264,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-clL_ZeC4dtCtRm0-mPCTATi9dofDY4xTsCfUfdYs6vSGclWtzc5uuDlKxVV-I_JgSmYI4o85wAH3qHyHJWLbRA2qYgdJo7wHd4-SaOJi2WA4_bpuOE3mc3IMZXmATLDqNhXeg1IojoDS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 67,
+    "2": 7,
+    "3": 6,
+    "4": 9,
+    "5": 175
+  },
+  "hours": {
+    "mon": "11:00 AM - 4:00 PM",
+    "tue": "11:00 AM - 4:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

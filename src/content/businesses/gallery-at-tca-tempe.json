@@ -1,0 +1,44 @@
+{
+  "slug": "gallery-at-tca-tempe",
+  "name": "Gallery at TCA",
+  "category": "Local Business",
+  "googleCategory": "Art gallery",
+  "address": "700 W Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4318174,
+  "lng": -111.94846109999999,
+  "phone": "+14803502867",
+  "website": "https://www.tempecenterforthearts.com/gallery/gallery-at-tca",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gallery+at+TCA/data=!4m7!3m6!1s0x872b09c0dc6ad7cd:0xdb19885df79e9156!8m2!3d33.4318174!4d-111.9484611!16s%2Fg%2F11khc9xqtb!19sChIJzddq3MAJK4cRVpGe912IGds?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15787799905891684694",
+  "placeId": "ChIJzddq3MAJK4cRVpGe912IGds",
+  "googleRating": 4.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxp-xmMxB4v-362o-Tdkttkaw13lOjk7I__02zsgYfWT2Lub80oV9pKbC3k1UP-m4ctD6WeWpmtWOcDlQdNMiHXWtNgRtdDmVi_gvfhtT-BuBulPE5sCDFWp_NZuFgfs6_yX0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

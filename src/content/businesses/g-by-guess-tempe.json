@@ -1,0 +1,55 @@
+{
+  "slug": "g-by-guess-tempe",
+  "name": "G by GUESS",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Jeans shop",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Shoe store",
+    "Sunglasses store",
+    "Swimwear store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir Spc 320",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382086099999995,
+  "lng": -111.96431249999999,
+  "phone": "+14807778884",
+  "website": "https://stores.guessfactory.com/us/en/az/tempe/5000-arizona-mills-circle-7001.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/G+by+GUESS/data=!4m7!3m6!1s0x872b0f59e1444903:0xcecc5604d92a424f!8m2!3d33.3820861!4d-111.9643125!16s%2Fg%2F1thlnjr8!19sChIJA0lE4VkPK4cRT0Iq2QRWzM4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14901379845885411919",
+  "placeId": "ChIJA0lE4VkPK4cRT0Iq2QRWzM4",
+  "googleRating": 4.3,
+  "googleReviewCount": 169,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOdAtMjU_2W4yvRQKwqPVds6xtHTMWk46NCv2yrZmPSfr6OLtS0c8jcOIkINXK1i3PnU9ks64lLzGOP2daBNyFU2A3FRJkA1ML8jLiMHXXWs7iVB6b_RqzBOWh02WariIH7mfH=w1200-h800-k-no",
+  "description": "Trendy clothing chain with a California aesthetic, selling the brand's denim, apparel & accessories.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 4,
+    "3": 10,
+    "4": 29,
+    "5": 111
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

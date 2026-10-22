@@ -16,7 +16,7 @@
   "website": "http://www.casareynoso.com/",
   "placeId": "ChIJ8fLFmboIK4cRfiDGmlXu0Ag",
   "googleRating": 4.5,
-  "googleReviewCount": 1901,
+  "googleReviewCount": 1962,
   "priceRange": "$$",
   "hours": {
     "mon": "Closed",
@@ -33,5 +33,22 @@
   "groundgameId": "6a398bd805b98b97b66753d7",
   "seededAt": "2026-06-22T19:24:08Z",
   "updatedAt": "2026-08-05T19:07:03Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "635269598895546494",
+  "googleMapsUrl": "https://www.google.com/maps/place/Casa+Reynoso/data=!4m7!3m6!1s0x872b08ba99c5f2f1:0x8d0ee559ac6207e!8m2!3d33.394785!4d-111.941126!16s%2Fg%2F1tfvtdkl!19sChIJ8fLFmboIK4cRfiDGmlXu0Ag?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 96,
+    "2": 54,
+    "3": 112,
+    "4": 245,
+    "5": 1455
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYgob_a7obfUn6rDsqdonaFImwhwrCQarXw8_58ii6nlqVTVlSAoDY1QHXO0X5Q7VjO7Vuizm0BHF5FmLj-kLpSbX03WEd0Mj9B1wX9OnwMaF8MfKYxFxOnZfS9QYMxcGD1y9JRcqDMnI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

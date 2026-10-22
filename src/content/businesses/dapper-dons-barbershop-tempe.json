@@ -1,0 +1,46 @@
+{
+  "slug": "dapper-dons-barbershop-tempe",
+  "name": "Dapper Don’s Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "25 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406576199999996,
+  "lng": -111.9394749,
+  "phone": "+14802280785",
+  "website": "http://www.dapperdons.vip/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dapper+Don%E2%80%99s+Barbershop/data=!4m7!3m6!1s0x872b08c7cc5df3d9:0x8e7bed0b4ad5501b!8m2!3d33.4065762!4d-111.9394749!16s%2Fg%2F11hbnz3qbk!19sChIJ2fNdzMcIK4cRG1DVSgvte44?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10267060408277094427",
+  "placeId": "ChIJ2fNdzMcIK4cRG1DVSgvte44",
+  "googleRating": 4.7,
+  "googleReviewCount": 188,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhsuDerdMu2SiY5srz1LIV5G5lWTmgVAk0-0QE5i16zAPaOsYy2f_3xEDOQwibw9T3PAVieWEcqF7fD4rCCwEqJcGac4_Cv1HA0P2teyGRH48EJ4NRbP9FZt-EXZYepD2tXdPG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 169
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

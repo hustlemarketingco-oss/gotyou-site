@@ -1,0 +1,43 @@
+{
+  "slug": "toy-plus-tempe",
+  "name": "Toy Plus",
+  "category": "Shopping",
+  "googleCategory": "Toy store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.380961,
+  "lng": -111.96443869999999,
+  "phone": "+14802524853",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/toy-plus",
+  "googleMapsUrl": "https://www.google.com/maps/place/Toy+Plus/data=!4m7!3m6!1s0x872b0f1432988fc7:0x2d7add59eaa26bc0!8m2!3d33.380961!4d-111.9644387!16s%2Fg%2F11tdbh7wwx!19sChIJx4-YMhQPK4cRwGui6lndei0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3277175057123797952",
+  "placeId": "ChIJx4-YMhQPK4cRwGui6lndei0",
+  "googleRating": 2.1,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeA2TvLbW7W1YQo3Ay6MoNI7LscaxaTUMSTEH_zTMwdoYAM2FjopisLdv0V7uAl-TSeThAUw9VWz0XXFcyoLqsMtc7--FW4zPsS87tq7KqRTa0CBjrCnAs9XnFG03R_u_q_2IqmKDI69gak=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

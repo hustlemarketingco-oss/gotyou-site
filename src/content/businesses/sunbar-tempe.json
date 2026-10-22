@@ -15,26 +15,10 @@
   "priceRange": "$20–30",
   "description": "Easygoing outdoor restaurant & bar serving hearty fare, including chicken wings & burgers.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Organic dishes",
-    "Vegan options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/SunbarTempe"
@@ -45,5 +29,31 @@
   "groundgameId": "6a2438b4ae0acf759d6390b5",
   "seededAt": "2026-06-06T15:11:48Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJQ9MmXrgJK4cRz7uenDRoDVs",
+  "googleCid": "6561014807323917263",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunbar+Tempe/data=!4m7!3m6!1s0x872b09b85e26d343:0x5b0d68349c9ebbcf!8m2!3d33.425784!4d-111.940887!16s%2Fg%2F11j027f4gr!19sChIJQ9MmXrgJK4cRz7uenDRoDVs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 687,
+  "ratingBreakdown": {
+    "1": 87,
+    "2": 32,
+    "3": 43,
+    "4": 105,
+    "5": 420
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR2iHzveWs973dQFUZz6ZSNXTCtGlo3MGtzI3MJU9hlpWBaextBjqqzRmTLnKYkP9_jJgu0-O28mLdCQjfb6LDtQiOsiUm2Z_kM0B0o-iWuQp-12M6S4of13CiKyc5ifmWMnY=w1200-h800-k-no",
+  "website": "https://www.sunbaraz.com/",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "9:00 PM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "lat": 33.425784,
+  "lng": -111.94088699999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

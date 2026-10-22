@@ -1,0 +1,41 @@
+{
+  "slug": "eagle-recreation-tempe",
+  "name": "Eagle Recreation",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "address": "1840 E Warner Rd #126",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3357209,
+  "lng": -111.9099571,
+  "phone": "+14803456109",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eagle+Recreation/data=!4m7!3m6!1s0x872b06e329416789:0x3c48f7245a7f61bf!8m2!3d33.3357209!4d-111.9099571!16s%2Fg%2F126107lys!19sChIJiWdBKeMGK4cRv2F_WiT3SDw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4343993576108024255",
+  "placeId": "ChIJiWdBKeMGK4cRv2F_WiT3SDw",
+  "googleRating": 2,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeq-FehjfO3P7X68XFXCnAHQ6mvZl6CsIQUoeXYcjToO2DsXyEkrV8J_JV79CuOX9UpYm2EN9y729nofNt0gMkCdGzAVWtcAFgeSU8iaVVi7lRln2QHooY0fYAbEol-_f_Mm8hf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 1
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

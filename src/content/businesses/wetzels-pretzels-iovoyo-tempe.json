@@ -1,0 +1,47 @@
+{
+  "slug": "wetzels-pretzels-iovoyo-tempe",
+  "name": "Wetzel's Pretzels",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Pretzel store"
+  ],
+  "address": "5000 S Arizona Mills Cir Spc TT35",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382098899999995,
+  "lng": -111.964918,
+  "phone": "+14807752588",
+  "website": "https://www.wetzels.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wetzel%27s+Pretzels/data=!4m7!3m6!1s0x872b0f51a6c725f1:0x8aa1af83aca07026!8m2!3d33.3820989!4d-111.964918!16s%2Fg%2F11x1nnm5vb!19sChIJ8SXHplEPK4cRJnCgrIOvoYo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9989458428556242982",
+  "placeId": "ChIJ8SXHplEPK4cRJnCgrIOvoYo",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzdNwiH5kWvxSga-BuI1urQCyocMxORXutahvK2w39tPcaP20y_EuPPwjUvK-af_20SZH3qaM6Y5j5Jnywodl1XQXPNhwO8UmwHe9inZN2Ht8ZDefwmV1qJlteE77gDoYyFIWO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 1
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

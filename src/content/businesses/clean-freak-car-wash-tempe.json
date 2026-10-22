@@ -1,0 +1,42 @@
+{
+  "slug": "clean-freak-car-wash-tempe",
+  "name": "Clean Freak Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "1604 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3933562,
+  "lng": -111.9124257,
+  "phone": "+16027828628",
+  "website": "http://cleanfreakcarwash.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Clean+Freak+Car+Wash/data=!4m7!3m6!1s0x872b098339f0250f:0x69b50bd96177e676!8m2!3d33.3933562!4d-111.9124257!16s%2Fg%2F11h8bv4p76!19sChIJDyXwOYMJK4cRduZ3YdkLtWk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7617007373038118518",
+  "placeId": "ChIJDyXwOYMJK4cRduZ3YdkLtWk",
+  "googleRating": 4,
+  "googleReviewCount": 733,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe73p1xkkyQkSP3DO9gBv3j3Qiuzv7v2zf8xEOmA8gxjZok_u23k2ATlyYCJATs6NIkXBOV1dGwljK3LnD2C5NQLi28Lq8tL1NrTkAEG0QSioWGkGidyRwcYxaiTR2b7lrYth9bHhgX4Os=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 105,
+    "2": 36,
+    "3": 57,
+    "4": 101,
+    "5": 434
+  },
+  "hours": {
+    "mon": "7:00 AM - 7:30 PM",
+    "tue": "7:00 AM - 7:30 PM",
+    "wed": "7:00 AM - 7:30 PM",
+    "thu": "7:00 AM - 7:30 PM",
+    "fri": "7:00 AM - 7:30 PM",
+    "sat": "7:00 AM - 7:30 PM",
+    "sun": "7:00 AM - 7:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -10,19 +10,15 @@
   "lat": 33.4091176,
   "lng": -111.9194697,
   "phone": "+14809343374",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8445610512288839373",
+  "googleMapsUrl": "https://www.google.com/maps/place/Heavenly+Wings+Bakery/data=!4m7!3m6!1s0x872b0987ae1d2367:0x7534d603a047f6cd!8m2!3d33.4091176!4d-111.9194697!16s%2Fg%2F11y8tpggf3!19sChIJZyMdrocJK4cRzfZHoAPWNHU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8445610512288839373",
   "placeId": "ChIJZyMdrocJK4cRzfZHoAPWNHU",
-  "googleRating": 5,
-  "googleReviewCount": 2,
+  "googleRating": 4,
+  "googleReviewCount": 3,
   "description": "Located in Tempe, Heavenly Wings Bakery is a bakery with takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "Open 24 hours",
@@ -39,5 +35,11 @@
   "groundgameId": "6a2439b6a88e34f0a7888c7a",
   "seededAt": "2026-06-06T15:16:06Z",
   "updatedAt": "2026-06-06T15:16:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 2
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKQ0p5hkopSQO7du0xqVipN9QgTgujJ5d9VOpqTERAudUcsAOp28Co6qAFP2V-w7DaVJutqZfAOZOtfrf2k2E1lKSONy8a7vHc2q0nfQktaBR0HUFNsV1jUvBcBfm4BC3TWgAP=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

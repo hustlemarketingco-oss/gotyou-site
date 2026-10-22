@@ -1,0 +1,42 @@
+{
+  "slug": "besties-bakeshop-tempe",
+  "name": "Besties Bakeshop",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "7420 S Rural Rd B7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3503697,
+  "lng": -111.92941569999999,
+  "phone": "+14805084047",
+  "website": "https://www.bestiesbakeshop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Besties+Bakeshop/data=!4m7!3m6!1s0x872b07899679a2b7:0x7f1cefc1ab830eed!8m2!3d33.3503697!4d-111.9294157!16s%2Fg%2F11z5d9vg77!19sChIJt6J5lokHK4cR7Q6Dq8HvHH8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9159459357249965805",
+  "placeId": "ChIJt6J5lokHK4cR7Q6Dq8HvHH8",
+  "googleRating": 5,
+  "googleReviewCount": 38,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1nlXAAlmd9SBcVY_yKZz1eHk1fpACzj-qLcbVWI0vLH_XjVbkknxHuQbZ-Ly_1n6rKCiDzRd5zMmhYrEcURFV2eXnnh8wFaudiRjZVQPuStuBT4qwfVw-Cw2Hc5fgPgGBlBMygHW6KoBa=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 38
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

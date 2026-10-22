@@ -1,0 +1,52 @@
+{
+  "slug": "phoenix-hot-tubs-swim-spas-tempe",
+  "name": "Phoenix Hot Tubs & Swim Spas",
+  "category": "Shopping",
+  "googleCategory": "Hot tub store",
+  "secondaryCategories": [
+    "Hot tub repair service",
+    "Swimming pool",
+    "Water testing service"
+  ],
+  "address": "1746 W Ruby Dr Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.341097399999995,
+  "lng": -111.96759859999999,
+  "phone": "+14803899799",
+  "website": "https://phoenix.swimspas.us/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phoenix+Hot+Tubs+%26+Swim+Spas/data=!4m7!3m6!1s0x872b05ce80f0474d:0x5a5e6a7a70a180d9!8m2!3d33.3410974!4d-111.9675986!16s%2Fg%2F11c6thhqj3!19sChIJTUfwgM4FK4cR2YChcHpqXlo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6511759185332502745",
+  "placeId": "ChIJTUfwgM4FK4cR2YChcHpqXlo",
+  "googleRating": 4.8,
+  "googleReviewCount": 300,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfS3Rcug36VMZi4UgYqBQ_aKk4xBxo7BUKWg34Hrdl2z3LaDT7FL6cpkRaSPXBxL3DKTuew57IvZOjugigdmmNXVfOKLe88Bt3stQ80gyrmPUJQfgIzvtnEnOyR2ZaD901MhZDIOw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 2,
+    "3": 4,
+    "4": 4,
+    "5": 276
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

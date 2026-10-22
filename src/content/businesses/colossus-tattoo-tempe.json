@@ -1,0 +1,44 @@
+{
+  "slug": "colossus-tattoo-tempe",
+  "name": "Colossus Tattoo",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "address": "3641, 225 W University Dr suite 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.42125,
+  "lng": -111.9432271,
+  "phone": "+14804314176",
+  "googleMapsUrl": "https://www.google.com/maps/place/Colossus+Tattoo/data=!4m7!3m6!1s0x872b08d71c0df301:0xbb0806b272f27921!8m2!3d33.42125!4d-111.9432271!16s%2Fg%2F11bc7f667f!19sChIJAfMNHNcIK4cRIXnycrIGCLs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13477029248408647969",
+  "placeId": "ChIJAfMNHNcIK4cRIXnycrIGCLs",
+  "googleRating": 4.8,
+  "googleReviewCount": 79,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9pVba0Jg2zc8QVUHTxnqc02k_WN3hJSq0o-S25blh8REe_99UV-a3meT-ni88SdNazJP3Kx8TZcHXtXlG7XIYHfvf3MVjhfvwvHSBorFzWqrXuzpt7ch7SoA6viRIy59WLhg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "4": 2,
+    "5": 73
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

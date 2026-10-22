@@ -14,31 +14,18 @@
   "lat": 33.448704,
   "lng": -111.926944,
   "phone": "+14809454364",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1194084698728238928",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jim%27s+Coney+Island+Cafe/data=!4m7!3m6!1s0x872b09166e71cb21:0x10923db4fb6d0f50!8m2!3d33.448704!4d-111.926944!16s%2Fg%2F1tghdlss!19sChIJIctxbhYJK4cRUA9t-7Q9khA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1194084698728238928",
   "placeId": "ChIJIctxbhYJK4cRUA9t-7Q9khA",
   "googleRating": 4.5,
-  "googleReviewCount": 976,
+  "googleReviewCount": 993,
   "priceRange": "$10–20",
   "description": "New York–style hot dogs & classic American breakfast & lunch fare offered in an old-fashioned diner.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "6:00 AM - 3:00 PM",
@@ -55,5 +42,14 @@
   "groundgameId": "6a2437e35c8a330fc90c97af",
   "seededAt": "2026-06-06T15:08:19Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 18,
+    "3": 65,
+    "4": 209,
+    "5": 673
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6Cm4Uz_67B4kwKBo2JZFeX3EWTieFFnjIM3kLoGjvqEp5dH74E-csHdxwfsXG1QB8cqfWfsw79NOc4RRNZiPwqANy3QZmPVePDL2Lnz__2nML6y7MklIXLuMpYd4OkkK170TY=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

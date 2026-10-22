@@ -1,0 +1,36 @@
+{
+  "slug": "courtyard-shops-tempe",
+  "name": "Courtyard Shops",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "414 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "googleMapsUrl": "https://www.google.com/maps/place/Courtyard+Shops/data=!4m7!3m6!1s0x872b0927ffe0b0df:0xcab690140ccefedf!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F11j005p8_f!19sChIJ37Dg_ycJK4cR3_7ODBSQtso?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14607020857211420383",
+  "placeId": "ChIJ37Dg_ycJK4cR3_7ODBSQtso",
+  "googleRating": 4.6,
+  "googleReviewCount": 111,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFbVxOhku8hvIk9oBjvd31i3nnhjw4VGfbrtbiLznr2-Pw6WF_LJ3ijcilIOdNGD-WNpxcf9dikSI_rNa44yBcG9FFYIFYNMiGRrNMBtr160zheEOUymigUGAtrUdQ4OMbRBFCUg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 13,
+    "4": 16,
+    "5": 80
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

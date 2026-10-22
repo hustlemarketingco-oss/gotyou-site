@@ -23,7 +23,7 @@
   "website": "https://locations.qdoba.com/us/az/tempe/1290-s-normal-ave",
   "placeId": "ChIJezLLbMMIK4cRThp6K35v5q4",
   "googleRating": 3.9,
-  "googleReviewCount": 318,
+  "googleReviewCount": 322,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 4:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a32e3a7e49fc2830550856d",
   "seededAt": "2026-06-17T18:12:55Z",
   "updatedAt": "2026-06-17T18:12:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12602883194928896590",
+  "googleMapsUrl": "https://www.google.com/maps/place/QDOBA+Mexican+Eats/data=!4m7!3m6!1s0x872b08c36ccb327b:0xaee66f7e2b7a1a4e!8m2!3d33.4179057!4d-111.9342894!16s%2Fg%2F12hk_5fnx!19sChIJezLLbMMIK4cRThp6K35v5q4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 20,
+    "3": 32,
+    "4": 87,
+    "5": 144
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGcIr86pvnDDFLnE9rm-Farc3fIaHoLlwm778rSzNu9wyjxURx58VYoNyuT-zAxkL3Fc-s9m3nTBfzrp64syrPL3KIKo7vPRNgTIe7k8eil4y4tIm30nUFwTGqVrxKo4BRhqxy=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,45 @@
+{
+  "slug": "eggroll-xpress-tempe",
+  "name": "Eggroll Xpress",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1805 E Elliot Rd #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3479597,
+  "lng": -111.9105728,
+  "phone": "+14803005297",
+  "website": "https://eggroll-xpress.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eggroll+Xpress/data=!4m7!3m6!1s0x872b07a8c4076305:0x25a30a188acbf139!8m2!3d33.3479597!4d-111.9105728!16s%2Fg%2F11nbm7xygd!19sChIJBWMHxKgHK4cROfHLihgKoyU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2712022501131284793",
+  "placeId": "ChIJBWMHxKgHK4cROfHLihgKoyU",
+  "googleRating": 4.9,
+  "googleReviewCount": 86,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn1f0zRANaiQpRXy6hNKR8sYuk69KyyKqP1b7vlKcCR4jlre-TIcl4jJq7nvMlaTIaALEHY6EYb8gofi6vy_EU0oq4xolrZMJ0bgOPn87ReRNgI5aV8PWKGOz86T-F8kcy24DkJUenabH7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 2,
+    "4": 4,
+    "5": 80
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

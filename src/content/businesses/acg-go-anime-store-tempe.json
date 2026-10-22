@@ -15,20 +15,9 @@
   "phone": "+14809019568",
   "description": "Located in Tempe, ACG Go Anime Store is a store & anime club with takeout & delivery. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/ACGGoFigure"
@@ -39,5 +28,31 @@
   "groundgameId": "6a243913f26fc35f9ccc2184",
   "seededAt": "2026-06-06T15:13:23Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJYZncAM0JK4cR-O-Xxj0zb4Q",
+  "googleCid": "9542902475839238136",
+  "googleMapsUrl": "https://www.google.com/maps/place/ACG+Go+Anime+Store/data=!4m7!3m6!1s0x872b09cd00dc9961:0x846f333dc697eff8!8m2!3d33.424506!4d-111.9348163!16s%2Fg%2F11rtqsjzzz!19sChIJYZncAM0JK4cR-O-Xxj0zb4Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 130,
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 4,
+    "3": 7,
+    "4": 12,
+    "5": 93
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVQJ_hTNqef3IchDZTG2E_yua-FOkH0i-PleneGllsfFlXrIepw2gINIuLuiLBmLw8WU-YSmxesOfqgRaALSV-GcK-qxW38AASgJ0wIoyE_eqXPRcCbB3K380MxWuRSFF-Ujz840AoBlPP=w1200-h800-k-no",
+  "website": "https://acg-go.com/",
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "lat": 33.424506,
+  "lng": -111.9348163,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

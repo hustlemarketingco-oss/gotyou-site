@@ -1,0 +1,44 @@
+{
+  "slug": "cactus-chico-chica-tempe",
+  "name": "Cactus Chico Chica",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Party store"
+  ],
+  "address": "8205 S Priest Dr Unit 11133",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3408224,
+  "lng": -111.96221659999999,
+  "phone": "+18134455416",
+  "website": "https://cactuschicochica.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cactus+Chico+Chica/data=!4m7!3m6!1s0x872b079b63530b75:0x4e99f2a7d6db9da8!8m2!3d33.3408224!4d-111.9622166!16s%2Fg%2F11h51f9y4b!19sChIJdQtTY5sHK4cRqJ3b1qfymU4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5663824809073286568",
+  "placeId": "ChIJdQtTY5sHK4cRqJ3b1qfymU4",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9NRcMbuQ4MiBewUx25_adw09XVwDZEza-Jz-8miy-d1CKuI5hXosnSvTZzy4MQ-6qBw60U1HQTKb_Uhalc7Or7dSu3DIsXhJPQ1vsu3bGfvd__qfHwOQXfx1vSIGsZNtD6X3r=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -16,7 +16,7 @@
   "website": "http://www.fattuesdayaz.com/",
   "placeId": "ChIJMeEFK9gIK4cRiSa6pZJfIFs",
   "googleRating": 4.2,
-  "googleReviewCount": 1397,
+  "googleReviewCount": 1408,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 2:00 AM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a397b2ea15d1e0bc265f93e",
   "seededAt": "2026-06-22T18:13:02Z",
   "updatedAt": "2026-07-07T20:30:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6566353340156487305",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fat+Tuesday/data=!4m7!3m6!1s0x872b08d82b05e131:0x5b205f92a5ba2689!8m2!3d33.4238118!4d-111.9402827!16s%2Fg%2F1tpf7ldz!19sChIJMeEFK9gIK4cRiSa6pZJfIFs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 125,
+    "2": 33,
+    "3": 120,
+    "4": 288,
+    "5": 842
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOoQZV7FkLadcjaup-fWSn807yMmedGdPVHk2B3hACytaEpWLMEJDdATqrcbbqrl5FzINMmxhOGlxaBVFDzHd4zzbZ8ANMK46oMItiiVD5eF14KSEf6TLqmobdoLMid9ufM935=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

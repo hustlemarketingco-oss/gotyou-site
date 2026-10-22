@@ -23,7 +23,7 @@
   "website": "https://locations.dunkindonuts.com/en/az/tempe/1830-e-warner-rd/348936&y_source=1_MTIxMDY2NDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJqeo3W-MGK4cRJb8pqhkDCDM",
   "googleRating": 3.5,
-  "googleReviewCount": 435,
+  "googleReviewCount": 441,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 8:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3ed9ab07506b51264f6ef1",
   "seededAt": "2026-06-26T19:57:31Z",
   "updatedAt": "2026-06-26T19:57:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3677192504511938341",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x872b06e35b37eaa9:0x33080319aa29bf25!8m2!3d33.3350898!4d-111.9093062!16s%2Fg%2F1v2gf6qd!19sChIJqeo3W-MGK4cRJb8pqhkDCDM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 26,
+    "3": 59,
+    "4": 71,
+    "5": 183
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmxQB72bZBc6MksjUXMGQeweTAHjWstKGc8-PFTgGTIPNoURsGSVznW39vD3UkFpZE8_oUyS6-EeFpxxif80QPmjpJ2id1dXZ_pbre4_-fpDpczlxHjgS0pbz0KAEkImgBlv1Q-g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

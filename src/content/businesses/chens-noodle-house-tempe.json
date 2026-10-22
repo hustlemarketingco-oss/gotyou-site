@@ -11,34 +11,18 @@
   "lng": -111.9224631,
   "phone": "+14809122773",
   "website": "https://www.chensnoodletempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8137568540921871260",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chen%27s+Noodle+House/data=!4m7!3m6!1s0x872b094a91d5837b:0x70ee7379290abb9c!8m2!3d33.4161146!4d-111.9224631!16s%2Fg%2F11v0mh94xt!19sChIJe4PVkUoJK4cRnLsKKXlz7nA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8137568540921871260",
   "placeId": "ChIJe4PVkUoJK4cRnLsKKXlz7nA",
   "googleRating": 4.4,
-  "googleReviewCount": 527,
+  "googleReviewCount": 564,
   "priceRange": "$10–20",
   "description": "Straightforward restaurant whipping up chow mein, noodle soup, hot pot & spicy skewers.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 11:00 PM",
@@ -55,5 +39,14 @@
   "groundgameId": "6a2437ee0d15673a1e8fe95e",
   "seededAt": "2026-06-06T15:08:30Z",
   "updatedAt": "2026-07-23T20:34:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 18,
+    "3": 28,
+    "4": 68,
+    "5": 409
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekdQyyK-K0nCyImeopUEmkNnfVd4msEhBMijbkjIj6F7TCKwN9CHCgRj5tbrYZhgEayl-v2laH0hCsfzpoTo51w3OJ48Sw4sYgMyR8p3AsMbd47DY-92Bbf4Y3HvhnVFHh1jHhMlklA72d=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

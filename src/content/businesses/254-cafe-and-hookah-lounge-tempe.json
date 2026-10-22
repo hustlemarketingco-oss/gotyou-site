@@ -1,0 +1,41 @@
+{
+  "slug": "254-cafe-and-hookah-lounge-tempe",
+  "name": "254 Cafe and hookah lounge",
+  "category": "Bars & Pubs",
+  "googleCategory": "Hookah bar",
+  "address": "818 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078138,
+  "lng": -111.9509513,
+  "phone": "+16026375100",
+  "googleMapsUrl": "https://www.google.com/maps/place/254+Cafe+and+hookah+lounge/data=!4m7!3m6!1s0x872b09002676fb05:0xc922c137bc8d4c4f!8m2!3d33.4078138!4d-111.9509513!16s%2Fg%2F11yg3h80s5!19sChIJBft2JgAJK4cRT0yNvDfBIsk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14493358995962416207",
+  "placeId": "ChIJBft2JgAJK4cRT0yNvDfBIsk",
+  "googleRating": 4.6,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyPrOCRujDvh31KS4BcZ50Exxp3ckuCJuIFbK4KcooUHeYzrGTpHyVvxTZdUGVhT2a3h79XLSH216hfFMIoydogK_2BXRNziy9fY8AHOC8m8qy09bqq5kGPJ4PhIYAHMY3o912KDoFISDU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 17
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "1:00 PM - 12:00 AM",
+    "wed": "1:00 PM - 12:00 AM",
+    "thu": "1:00 PM - 12:00 AM",
+    "fri": "2:00 PM - 4:00 AM",
+    "sat": "2:00 PM - 4:00 AM",
+    "sun": "2:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

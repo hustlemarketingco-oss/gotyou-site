@@ -2,7 +2,7 @@
   "slug": "thai-basil-tempe",
   "name": "Thai Basil",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Thai restaurant",
   "secondaryCategories": [
     "Asian restaurant",
     "Thai restaurant"
@@ -15,35 +15,18 @@
   "lng": -111.92589299999999,
   "phone": "+14805570101",
   "website": "https://www.thaibasilrural.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16496794912017722916",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thai+Basil/data=!4m7!3m6!1s0x872b08e85bb8c211:0xe4f063919749ae24!8m2!3d33.416289!4d-111.925893!16s%2Fg%2F1tcv6shv!19sChIJEcK4W-gIK4cRJK5Jl5Fj8OQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16496794912017722916",
   "placeId": "ChIJEcK4W-gIK4cRJK5Jl5Fj8OQ",
   "googleRating": 4.4,
-  "googleReviewCount": 1208,
+  "googleReviewCount": 1224,
   "priceRange": "$$",
   "description": "An extensive selection of standard Thai dishes draws diners to this casual eatery with beer & wine.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -60,5 +43,14 @@
   "groundgameId": "6a24380b2c610d1b7879935a",
   "seededAt": "2026-06-06T15:08:59Z",
   "updatedAt": "2026-09-22T14:57:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 63,
+    "2": 38,
+    "3": 80,
+    "4": 237,
+    "5": 806
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEJfMhmsZpiQrHy0xAqDMAlRtc5sMBINZfZKRpJ8jFbqGxMMf0A2nYYwbJPYoemc_FgtgfyNWF-cgdk6N9lBj6MnLHItnru4AK35CBeHeRSPyUiwDXzotQHzkpNFHUxL6t0VnhpKkMwSyr=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

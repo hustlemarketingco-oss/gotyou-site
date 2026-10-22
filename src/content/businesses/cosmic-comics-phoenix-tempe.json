@@ -1,0 +1,50 @@
+{
+  "slug": "cosmic-comics-phoenix-tempe",
+  "name": "Cosmic Comics Phoenix",
+  "category": "Shopping",
+  "googleCategory": "Comic book store",
+  "secondaryCategories": [
+    "Collectibles store",
+    "Game store",
+    "Record store"
+  ],
+  "address": "931 E Elliot Rd Ste 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3477584,
+  "lng": -111.92785169999999,
+  "phone": "+16184163115",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cosmic+Comics+Phoenix/data=!4m7!3m6!1s0x872b0dadfe43e9a7:0xe44f889f2dd8f426!8m2!3d33.3477584!4d-111.9278517!16s%2Fg%2F11wqdfrx_c!19sChIJp-lD_q0NK4cRJvTYLZ-IT-Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16451518181058081830",
+  "placeId": "ChIJp-lD_q0NK4cRJvTYLZ-IT-Q",
+  "googleRating": 4.5,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh1n36l-6U3p-QpS7v41KHms3LTyM--z6rHMzIWgIVKuN-JjunUZToeeSnNqIjE0hq5r7pNsEWYf6BoVi5ffnzW7Xa2iz9NMXKMakmZcxttsIzH6uT1ageS1Aob57fCyuQRi0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 14
+  },
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

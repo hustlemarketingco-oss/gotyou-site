@@ -1,0 +1,50 @@
+{
+  "slug": "famous-footwear-tempe",
+  "name": "Famous Footwear",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Outlet store"
+  ],
+  "address": "5000 S Arizona Mills Cir #251",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3830806,
+  "lng": -111.96397089999999,
+  "phone": "+16028245557",
+  "website": "https://www.famousfootwear.com/stores/az/tempe/85282/arizona-mills-03196?PartnerID=organic_search_google_storelisting&utm_medium=organic&utm_source=search&utm_campaign=google&utm_content=storelisting",
+  "googleMapsUrl": "https://www.google.com/maps/place/Famous+Footwear/data=!4m7!3m6!1s0x872b0f59e1444903:0xc31e23f3c522200!8m2!3d33.3830806!4d-111.9639709!16s%2Fg%2F1pv2p9n6c!19sChIJA0lE4VkPK4cRACJSPD_iMQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "878732163536790016",
+  "placeId": "ChIJA0lE4VkPK4cRACJSPD_iMQw",
+  "googleRating": 4.2,
+  "googleReviewCount": 197,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIHt8N_d1_b5xYjHZ5hTk8KQZEHrZe7g-IarYLHU3xzmTI_fT7aZnMui9VH5b-R0_v0Oocyi639Z3yHfrYxGKkxCRSPQRFWEYk-2OMloFTBxXCLFEEs7_3I2n5nYHGDpbB6nZV=w1200-h800-k-no",
+  "description": "Chain store offering a wide variety of brand-name shoes at discounted prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 5,
+    "3": 31,
+    "4": 45,
+    "5": 108
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

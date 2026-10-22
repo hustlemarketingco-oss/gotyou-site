@@ -16,7 +16,7 @@
   "website": "http://www.ottopizza.com/",
   "placeId": "ChIJ6-UEF9cIK4cRPVhvlfNZLtc",
   "googleRating": 4.7,
-  "googleReviewCount": 597,
+  "googleReviewCount": 616,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
@@ -33,5 +33,20 @@
   "groundgameId": "6a2c63d2675c316e48d7cf8b",
   "seededAt": "2026-06-12T19:53:54Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15505429469802223677",
+  "googleMapsUrl": "https://www.google.com/maps/place/Otto+Pizza/data=!4m7!3m6!1s0x872b08d71704e5eb:0xd72e59f3956f583d!8m2!3d33.4214404!4d-111.9426005!16s%2Fg%2F1v29ch58!19sChIJ6-UEF9cIK4cRPVhvlfNZLtc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 7,
+    "3": 17,
+    "4": 64,
+    "5": 509
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzVXMPx-3Jw2vwYmFEjINOKvoUkvSab2umOxCA1eswRdpZopVfmOb5el-H-bPdwZS3usXvt8kRMM-onhKDjTu4T5fI8JjKWyE9FBnuGdA76pG-FLDJj286J-A9J0rAFKgb47Oz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "lmage-salon-studios-tempe",
+  "name": "L'mage Salon Studios",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1712 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3644046,
+  "lng": -111.913062,
+  "phone": "+14802097364",
+  "website": "http://www.lmagestudios.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/L%27mage+Salon+Studios/data=!4m7!3m6!1s0x872b0649a9904b9f:0xd94bd29e09d021b7!8m2!3d33.3644046!4d-111.913062!16s%2Fg%2F11c2qlhg8t!19sChIJn0uQqUkGK4cRtyHQCZ7SS9k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15657840105694962103",
+  "placeId": "ChIJn0uQqUkGK4cRtyHQCZ7SS9k",
+  "googleRating": 4.5,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjpNyfkfBT5WJ_RIgawtX3NdKfYPKtTVKGhcdjVmibG6aIqBoZXRl0DYH5hRyIoTkFVK2iOY-VC5c4LZgnmASuO5OWdYvGw31TEeMCHacQuvusa7EcM8ZcwKqP69OzMKp5uh0c=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 2,
+    "4": 5,
+    "5": 22
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -12,8 +12,8 @@
   "phone": "+16232571090",
   "website": "https://sergioskitchen.com/",
   "placeId": "ChIJKyfpD_wTK4cRQ1f7jbDUL-A",
-  "googleRating": 4.5,
-  "googleReviewCount": 26,
+  "googleRating": 4.6,
+  "googleReviewCount": 28,
   "hours": {
     "mon": "8:00 AM - 1:00 PM",
     "tue": "8:00 AM - 1:00 PM",
@@ -29,5 +29,21 @@
   "groundgameId": "6a4c178830531ca3fc4dea3e",
   "seededAt": "2026-07-06T21:00:56Z",
   "updatedAt": "2026-07-06T21:00:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16154364243162650435",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chef+Sergio%27s+Kitchen/data=!4m7!3m6!1s0x872b13fc0fe9272b:0xe02fd4b08dfb5743!8m2!3d33.3496026!4d-111.9473!16s%2Fg%2F11str48x7b!19sChIJKyfpD_wTK4cRQ1f7jbDUL-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "2": 3,
+    "3": 1,
+    "4": 1,
+    "5": 23
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7DMtmJT11NIfKsFhrHtojcUuKJ1jr1ebDQ87zRdup7UuSttwO3bBjRz5aXrF3-OIpn8Uvwn3hXqiJZR6w2c1T2W2bO_bg46IWf-F4n1U1Yw_hjTIqEoZ0Sz8rZgL2BVn8cf7U-eAo5EI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

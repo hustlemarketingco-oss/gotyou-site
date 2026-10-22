@@ -15,14 +15,17 @@
   "lng": -111.9364016,
   "phone": "+14809684712",
   "website": "http://thechuckbox.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15307964607642553262",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Chuckbox/data=!4m7!3m6!1s0x872b08d96eeb4f47:0xd470d0b4a0c94bae!8m2!3d33.4221268!4d-111.9364016!16s%2Fg%2F1tt1t48g!19sChIJR0_rbtkIK4cRrkvJoLTQcNQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15307964607642553262",
   "placeId": "ChIJR0_rbtkIK4cRrkvJoLTQcNQ",
   "googleRating": 4.7,
-  "googleReviewCount": 5748,
+  "googleReviewCount": 5926,
   "description": "Basic, cash-only burger joint turning out charcoal-broiled patties plus beer & wine.",
   "amenities": [
-    "Cash"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:30 AM - 10:00 PM",
@@ -39,5 +42,14 @@
   "groundgameId": "6a24376e354ffb2c4779e8c5",
   "seededAt": "2026-06-06T15:06:22Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 122,
+    "2": 89,
+    "3": 234,
+    "4": 766,
+    "5": 4715
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRj2aY6vow9cMOFkPD9MwKBxOk3vSr9gyJTQFpfmHZmRKm6LMbdrAQJFbEyjXdkWXc-dn6OIN9rQ8j8LisoJ-H2ZPZGuKEVknlpvw2ajWdNmsrfF4F2lN2Uq9jLEp9iKkyViwVKHppteo=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

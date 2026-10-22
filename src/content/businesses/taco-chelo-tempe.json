@@ -15,8 +15,8 @@
   "phone": "+14802091731",
   "website": "https://tacochelo.com/",
   "placeId": "ChIJEeVsPQAJK4cRsr8hIrsEUzg",
-  "googleRating": 4.7,
-  "googleReviewCount": 401,
+  "googleRating": 4.8,
+  "googleReviewCount": 616,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a3438bd769f977d02596c7c",
   "seededAt": "2026-06-18T18:28:13Z",
   "updatedAt": "2026-08-11T19:58:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4058592890968981426",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Chelo+Tempe/data=!4m7!3m6!1s0x872b09003d6ce511:0x385304bb2221bfb2!8m2!3d33.4244367!4d-111.9347594!16s%2Fg%2F11w92g6nr7!19sChIJEeVsPQAJK4cRsr8hIrsEUzg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 6,
+    "3": 15,
+    "4": 26,
+    "5": 553
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1TXamjmbPb2VphTeU-FX-gIyPapIEIqnz2ioe_VaJKsygo1bTimYu15dobmpaBGnbJ0c7CCV0JWN2KJ38Tb7KkZnHbGoRjBmM0MsHNp2cr9bZ9dOT7AtYCq4CEUhnUyHunu3xv4q2s5Uv=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

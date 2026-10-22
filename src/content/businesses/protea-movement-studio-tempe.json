@@ -1,0 +1,52 @@
+{
+  "slug": "protea-movement-studio-tempe",
+  "name": "Protea Movement Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Fitness center",
+    "Meditation center",
+    "Physical fitness program",
+    "Pilates studio",
+    "Wellness center",
+    "Wellness program",
+    "Yoga instructor"
+  ],
+  "address": "850 W Elliot Rd Ste 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496088,
+  "lng": -111.9519231,
+  "phone": "+14805579095",
+  "website": "http://proteamovementstudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Protea+Movement+Studio/data=!4m7!3m6!1s0x872b0740ced41e47:0x81b383524410f0ad!8m2!3d33.3496088!4d-111.9519231!16s%2Fg%2F11wm_7vm0s!19sChIJRx7UzkAHK4cRrfAQRFKDs4E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9345958041076428973",
+  "placeId": "ChIJRx7UzkAHK4cRrfAQRFKDs4E",
+  "googleRating": 5,
+  "googleReviewCount": 45,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfo4b4XWim8iVCYLys9M9u71QvIRC-0HeBrUXbLv98JABFPWlub-muavKGHQl8dgyEZmdBDAx9PvTRNahCljv0f_gJ4CDDXW4rcf4Hig8NuTvrgTSsonAeVEQs2r-TCEvG-h9Z3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 45
+  },
+  "hours": {
+    "mon": "8:30 AM - 8:00 PM",
+    "tue": "8:30 AM - 8:00 PM",
+    "wed": "8:30 AM - 8:00 PM",
+    "thu": "8:30 AM - 8:00 PM",
+    "fri": "6:30 AM - 12:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "9:30 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

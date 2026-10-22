@@ -1,0 +1,51 @@
+{
+  "slug": "johnnys-doghouse-pet-grooming-boarding-tempe",
+  "name": "Johnny's Doghouse Pet Grooming & Boarding",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "secondaryCategories": [
+    "Dog day care center",
+    "Dog trainer",
+    "Pet boarding service"
+  ],
+  "address": "1290 N Scottsdale Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4420222,
+  "lng": -111.92763959999999,
+  "phone": "+14808927297",
+  "website": "https://www.johnnysdoghouse.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Johnny%27s+Doghouse+Pet+Grooming+%26+Boarding/data=!4m7!3m6!1s0x872ba8dd6b7b7b5d:0x80af12832f7816a6!8m2!3d33.4420222!4d-111.9276396!16s%2Fg%2F11bt_nwqch!19sChIJXXt7a92oK4cRphZ4L4MSr4A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9272650512425555622",
+  "placeId": "ChIJXXt7a92oK4cRphZ4L4MSr4A",
+  "googleRating": 4.8,
+  "googleReviewCount": 700,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMp9Q72YJN7T57wzG6H_7lIDtFr-HqWTbs_1VxJZjOXRCKZGLYX6Bm190cbYZRSZzOxfww9wSGJ4kxmiz8rDdDhysO0ozOpTXL5ee2opXKSkAGgBtS-4kGCLbgEMDlOL729hlI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 3,
+    "3": 3,
+    "4": 10,
+    "5": 663
+  },
+  "hours": {
+    "mon": "8:30 AM - 5:00 PM",
+    "tue": "8:30 AM - 5:00 PM",
+    "wed": "8:30 AM - 5:00 PM",
+    "thu": "8:30 AM - 5:00 PM",
+    "fri": "8:30 AM - 5:00 PM",
+    "sat": "8:30 AM - 5:00 PM",
+    "sun": "8:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

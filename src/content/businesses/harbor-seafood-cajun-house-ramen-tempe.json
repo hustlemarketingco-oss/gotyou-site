@@ -2,7 +2,7 @@
   "slug": "harbor-seafood-cajun-house-ramen-tempe",
   "name": "Harbor seafood Cajun house & Ramen",
   "category": "Asian & Pacific",
-  "googleCategory": "Ramen restaurant",
+  "googleCategory": "Seafood restaurant",
   "secondaryCategories": [
     "Cajun restaurant",
     "Chicken wings restaurant",
@@ -17,34 +17,18 @@
   "lng": -111.9536957,
   "phone": "+14805902045",
   "website": "https://www.harborseafoodtempeaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17645128037678672073",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harbor+seafood+Cajun+house+%26+Ramen/data=!4m7!3m6!1s0x872b0f2ae6e114cd:0xf4e016765e1f68c9!8m2!3d33.4077905!4d-111.9536957!16s%2Fg%2F11t3252ylb!19sChIJzRTh5ioPK4cRyWgfXnYW4PQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17645128037678672073",
   "placeId": "ChIJzRTh5ioPK4cRyWgfXnYW4PQ",
-  "googleRating": 4.5,
-  "googleReviewCount": 175,
+  "googleRating": 4.4,
+  "googleReviewCount": 184,
   "priceRange": "$20–30",
   "description": "Harbor seafood Cajun house & Ramen is a Tempe casual, cozy ramen restaurant & cajun restaurant known for alcohol & beer, takeout.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Organic dishes",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -61,5 +45,14 @@
   "groundgameId": "6a243814812e7f2a74b13bb6",
   "seededAt": "2026-06-06T15:09:08Z",
   "updatedAt": "2026-07-30T18:22:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 5,
+    "3": 11,
+    "4": 16,
+    "5": 138
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc5eDI5LKqeE8To4ttfa3VPM1SIhR_Es6BqgVyELk6EA2S6dlwCMwqUKIu9aB0w6d99Lh5um8IjOHD3trhorGHd52qzB5MUfe0I-qbPNS0UiKp8FQUCb-Od2L35icBynjao0WsMQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

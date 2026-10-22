@@ -1,0 +1,50 @@
+{
+  "slug": "the-tv-outlet-tempe",
+  "name": "The TV Outlet",
+  "category": "Shopping",
+  "googleCategory": "Electronics store",
+  "secondaryCategories": [
+    "Home theater store"
+  ],
+  "address": "8425 S Emerald Dr #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3400086,
+  "lng": -111.96826569999999,
+  "phone": "+16232522395",
+  "website": "http://www.thetvoutlet.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+TV+Outlet/data=!4m7!3m6!1s0x872b41c1937d7583:0x2f03e00ea9416e5b!8m2!3d33.3400086!4d-111.9682657!16s%2Fg%2F11c72qw7y5!19sChIJg3V9k8FBK4cRW25BqQ7gAy8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3387797698286546523",
+  "placeId": "ChIJg3V9k8FBK4cRW25BqQ7gAy8",
+  "googleRating": 5,
+  "googleReviewCount": 606,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcj5q8vDw-eAXjYjD4pfndBgYYUMvUY3iX8nJi8S_fiiAULVJ_JbFYgNKTTbgw83FdqrDpP8h2y08DTYl4jwqNrvlMGNzaGaNP5vkGEddKZAoZJRClPTB4ouEHftaNclUGyfBu5JQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "4": 5,
+    "5": 595
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

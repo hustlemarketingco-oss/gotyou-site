@@ -1,0 +1,46 @@
+{
+  "slug": "gallery-of-scientific-exploration-tempe",
+  "name": "Gallery of Scientific Exploration",
+  "category": "Fun & Activities",
+  "googleCategory": "Science museum",
+  "address": "781 E Terrace Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4182567,
+  "lng": -111.92850539999999,
+  "phone": "+14809655081",
+  "website": "https://sese.asu.edu/k12-field-trip-program",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gallery+of+Scientific+Exploration/data=!4m7!3m6!1s0x872b08dd583f34d7:0xd2701ee43332d978!8m2!3d33.4182567!4d-111.9285054!16s%2Fg%2F12qfdnvsk!19sChIJ1zQ_WN0IK4cReNkyM-QecNI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15163653910816807288",
+  "placeId": "ChIJ1zQ_WN0IK4cReNkyM-QecNI",
+  "googleRating": 4.7,
+  "googleReviewCount": 60,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtxE-zjhD8yhIvgpngFdEeJEOQ32XTCGHSkCQHU2BlY_WxXYIJ-BNDlOuHZ1B7PQoPR6fd_bioIGv2SWQ4YEgYw9zNUzuxg9BHQSYUwUTmkpmVzzcG-OAx_2g_7ZAYUeBvV7uhRw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 2,
+    "4": 9,
+    "5": 48
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

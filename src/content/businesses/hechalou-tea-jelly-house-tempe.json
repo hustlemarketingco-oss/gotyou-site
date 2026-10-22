@@ -14,27 +14,15 @@
   "lng": -111.9086529,
   "phone": "+12134319147",
   "website": "https://22764-hechalou-tea-and-jelly-house.multiscreensite.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14485733394764804996",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hechalou+Tea%26Jelly+house-Tempe/data=!4m7!3m6!1s0x872b09cd5ebb5945:0xc907a9c619f83384!8m2!3d33.4141879!4d-111.9086529!16s%2Fg%2F11y17q_khc!19sChIJRVm7Xs0JK4cRhDP4GcapB8k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14485733394764804996",
   "placeId": "ChIJRVm7Xs0JK4cRhDP4GcapB8k",
   "googleRating": 4.7,
-  "googleReviewCount": 140,
+  "googleReviewCount": 162,
   "description": "Located in Tempe, Hechalou Tea&Jelly house-Tempe is a bubble tea store & tea store with takeout & delivery.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -51,5 +39,14 @@
   "groundgameId": "6a2435fe2cbc6f96ffb7717e",
   "seededAt": "2026-06-06T15:00:14Z",
   "updatedAt": "2026-07-20T19:19:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 4,
+    "3": 4,
+    "4": 6,
+    "5": 142
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgV5zL38s3NY-Xppoz6PL6gz0DXLqAmRh_6CJVLw0ib_-zBUyPAKzrFL41pHJC5ZHrrfYqcmiH0mdK9hU2t-HsBOFcTmW3kS-gv5yAjG3qiIyK3B06Vn2rFfW3EOlMw2O0itByZHLOcT9d=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

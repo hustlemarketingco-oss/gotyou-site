@@ -2,7 +2,7 @@
   "slug": "hayden-house-cafe-tempe",
   "name": "Hayden House Cafe",
   "category": "Restaurant",
-  "googleCategory": "Breakfast restaurant",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Restaurant",
     "Lunch restaurant"
@@ -15,27 +15,18 @@
   "lng": -111.9386351,
   "phone": "+14804155206",
   "website": "https://haydenhousetempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15634558361575635520",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hayden+House+Cafe/data=!4m7!3m6!1s0x872b09c109b17c1f:0xd8f91bfe91d43a40!8m2!3d33.4308232!4d-111.9386351!16s%2Fg%2F11yln2k7bk!19sChIJH3yxCcEJK4cRQDrUkf4b-dg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15634558361575635520",
   "placeId": "ChIJH3yxCcEJK4cRQDrUkf4b-dg",
   "googleRating": 4.7,
-  "googleReviewCount": 27,
+  "googleReviewCount": 31,
   "priceRange": "$10–20",
   "description": "Hayden House Cafe is a casual breakfast restaurant & restaurant in Tempe, serving up coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "9:00 AM - 6:00 PM",
@@ -52,5 +43,12 @@
   "groundgameId": "6a2439420c5649241be1ed2e",
   "seededAt": "2026-06-06T15:14:10Z",
   "updatedAt": "2026-06-12T22:07:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "2": 2,
+    "4": 2,
+    "5": 27
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSPU3iiJQ7bTcChmCy_LWwOnmhkFXF2rG3bBTCY2vdL107_BqXAJFLhu-lHZ1RDg2yj7vAImI83XTCX3Xh1HAFzSSF076c_Sf18eT_G2ZsmIgheDTgxusDrWkxMZSWsct0UGVp-QDc47gb=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

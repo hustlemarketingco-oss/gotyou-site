@@ -15,34 +15,18 @@
   "lng": -111.9258165,
   "phone": "+14806992539",
   "website": "https://www.thaitanickitchen.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9616966605891036025",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thaitanic+Kitchen,+Thai+%26+Pho+Restaurant/data=!4m7!3m6!1s0x872b07a2e39f5e1f:0x8576542cd8ede379!8m2!3d33.3832903!4d-111.9258165!16s%2Fg%2F11mpbm_33b!19sChIJH16f46IHK4cReePt2CxUdoU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9616966605891036025",
   "placeId": "ChIJH16f46IHK4cReePt2CxUdoU",
   "googleRating": 4.6,
-  "googleReviewCount": 324,
+  "googleReviewCount": 359,
   "priceRange": "$10–20",
   "description": "Thaitanic Kitchen, Thai & Pho Restaurant is a Tempe casual, cozy thai restaurant & lunch restaurant known for coffee & comfort.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/thaitanickitchen_tempe"
@@ -62,5 +46,14 @@
   "groundgameId": "6a2439eb23b911cfd9e8f166",
   "seededAt": "2026-06-06T15:16:59Z",
   "updatedAt": "2026-07-10T18:28:05Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 4,
+    "3": 16,
+    "4": 28,
+    "5": 297
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe98gBa0AyDbfgxYXf8sw6C5nSUUIBrIJ0__Jzb_RDsZ7U0SKFIoxslHdomwXHCtgt-OPl1L2fKWr8e_MVKDuLDHTwTU0XCmUlB-IC7BqkaH_y5chgYSaASmn2wKYB5fTHNYwI=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

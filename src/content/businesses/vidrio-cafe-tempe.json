@@ -1,0 +1,43 @@
+{
+  "slug": "vidrio-cafe-tempe",
+  "name": "Vidrio Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "350 W Washington St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4378074,
+  "lng": -111.9444609,
+  "website": "https://vidrio.cafe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vidrio+Cafe/data=!4m7!3m6!1s0x872b09864ff6ff81:0x14c922e306095dfa!8m2!3d33.4378074!4d-111.9444609!16s%2Fg%2F11ylsm9_3b!19sChIJgf_2T4YJK4cR-l0JBuMiyRQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1497766709531598330",
+  "placeId": "ChIJgf_2T4YJK4cR-l0JBuMiyRQ",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVcSz5M6QJeK70UZO0IUahBaGb7NDTaXBVK8DuIxpBGYxdbJzebGZcY_mDMCGylT14-y7xogizpgGf8QnDpJ0YL_OZCNCK5Jm94ADLYrYhdkwcQrkTItTyHtAWR2FwfF-2CHmN-CChUwlX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "7:30 AM - 2:30 PM",
+    "tue": "7:30 AM - 2:30 PM",
+    "wed": "7:30 AM - 2:30 PM",
+    "thu": "7:30 AM - 2:30 PM",
+    "fri": "7:30 AM - 2:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

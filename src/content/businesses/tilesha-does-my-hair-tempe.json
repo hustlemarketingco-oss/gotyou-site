@@ -1,0 +1,42 @@
+{
+  "slug": "tilesha-does-my-hair-tempe",
+  "name": "tilesha does my hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4240956,
+  "lng": -111.9419782,
+  "phone": "+14802734855",
+  "website": "https://www.tileshadoesmyhair.com/contact-tilesha",
+  "googleMapsUrl": "https://www.google.com/maps/place/tilesha+does+my+hair/data=!4m7!3m6!1s0x872b08d7be66cd79:0x41ba57dec9232eb7!8m2!3d33.4240956!4d-111.9419782!16s%2Fg%2F11gsltbt96!19sChIJec1mvtcIK4cRty4jyd5XukE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4736194572502380215",
+  "placeId": "ChIJec1mvtcIK4cRty4jyd5XukE",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XYgInItqM3eJibUHbQ_d0Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=216.10599&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "8:30 AM - 2:30 PM",
+    "tue": "Closed",
+    "wed": "8:30 AM - 2:30 PM",
+    "thu": "Closed",
+    "fri": "8:30 AM - 2:30 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

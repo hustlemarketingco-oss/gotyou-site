@@ -1,0 +1,53 @@
+{
+  "slug": "five-below-1110-tempe",
+  "name": "Five Below",
+  "category": "Shopping",
+  "googleCategory": "Variety store",
+  "secondaryCategories": [
+    "Candy store",
+    "Fashion accessories store",
+    "Gift shop",
+    "Toy store"
+  ],
+  "address": "1110 W Elliot Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3506204,
+  "lng": -111.9565537,
+  "phone": "+14023560390",
+  "website": "https://locations.fivebelow.com/?q=33.34012,-111.937446&qp=Tempe,%20Arizona%2085284,%20United%20States&l=en",
+  "googleMapsUrl": "https://www.google.com/maps/place/Five+Below/data=!4m7!3m6!1s0x872b05a232715cc3:0x1d6b23b3ed92376f!8m2!3d33.3506204!4d-111.9565537!16s%2Fg%2F11tj8mtxs1!19sChIJw1xxMqIFK4cRbzeS7bMjax0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2119827305299851119",
+  "placeId": "ChIJw1xxMqIFK4cRbzeS7bMjax0",
+  "googleRating": 4.2,
+  "googleReviewCount": 60,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd8d2tXHZ5PvWP-c3hiawEgEACbLhmGKFT43RSgkYllfXQlQ287R26FbJvqPL_hAHTyXE7aA6wqSZA5cPLBsxkRsVtMdoLuCPIaWJbk0oJMwlsHqDQ0DSXKKFKhVSXqf0WiFtX=w1200-h800-k-no",
+  "description": "Teen-oriented retail chain for a large assortment of games, snacks, jewelry, room decor & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 4,
+    "3": 5,
+    "4": 6,
+    "5": 40
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

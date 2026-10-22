@@ -1,0 +1,50 @@
+{
+  "slug": "barber-blake-company-tempe",
+  "name": "Barber Blake & Company",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Hair salon"
+  ],
+  "address": "3415 S McClintock Dr #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3916792,
+  "lng": -111.90819719999999,
+  "phone": "+14802539580",
+  "website": "http://visibook.com/blakecompany",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barber+Blake+%26+Company/data=!4m7!3m6!1s0x872b09d7cb8f377f:0x7f8912c813a215bb!8m2!3d33.3916792!4d-111.9081972!16s%2Fg%2F11k6n06rkg!19sChIJfzePy9cJK4cRuxWiE8gSiX8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9189897165158356411",
+  "placeId": "ChIJfzePy9cJK4cRuxWiE8gSiX8",
+  "googleRating": 4.7,
+  "googleReviewCount": 39,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4pMF8bNkiFNXY2VKu7Xy7gbTUhjL_SZJT-TOmKcW14czIYVyLGoyM6JNcOCEqu6ryePQLs2wNZ0aDeY3dYakxtz5owscuX3yxz7WBqqBFBDsqgVsb1rcsw3GY8Nz9wRDK15zaLw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "4": 1,
+    "5": 35
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

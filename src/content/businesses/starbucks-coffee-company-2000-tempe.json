@@ -16,24 +16,10 @@
   "priceRange": "$1–10",
   "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
   "amenities": [
-    "No-contact delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Organic dishes",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://facebook.com/starbucks"
@@ -44,5 +30,29 @@
   "groundgameId": "6a24395242f3f3f1c30eacd9",
   "seededAt": "2026-06-06T15:14:26Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ-XzoGaYJK4cRU78C1RSGr9c",
+  "googleCid": "15541788263110066003",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x872b09a619e87cf9:0xd7af8614d502bf53!8m2!3d33.4325843!4d-111.9054139!16s%2Fg%2F11kk5gmmmj!19sChIJ-XzoGaYJK4cRU78C1RSGr9c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 11,
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 2,
+    "5": 7
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2rNT-c6UPgjfK0xEghwaFvsjuxyZd1fuqRy_NwqzPAky2RECuKhgTkiA_Kinp1kh90hYmawp1qoUMO2G2HaXWv0u72N1--dvyXbTLlzodgOfXnLz7ApLIdc1QLTbTkrGybapx=w1200-h800-k-no",
+  "website": "https://www.starbucks.com/",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "lat": 33.4325843,
+  "lng": -111.9054139,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

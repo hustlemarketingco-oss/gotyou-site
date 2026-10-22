@@ -1,0 +1,48 @@
+{
+  "slug": "rollins-family-market-tempe",
+  "name": "Rollins Family Market",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Supermarket"
+  ],
+  "address": "1090 W 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425925899999996,
+  "lng": -111.956227,
+  "phone": "+14809676488",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rollins+Family+Market/data=!4m7!3m6!1s0x872b0ed44c5b494b:0x14947f4273298233!8m2!3d33.4259259!4d-111.956227!16s%2Fg%2F1vzv43mp!19sChIJS0lbTNQOK4cRM4Ipc0J_lBQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1482950100688405043",
+  "placeId": "ChIJS0lbTNQOK4cRM4Ipc0J_lBQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 113,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn7dBVhhbmU5w6O3Tx2u2PLOCyYiI45T3BSrwVKsoiixf64iEhbSX3vweuZvUFZ4s6AGpb6_5eI78IOFltCy2-fTCoxsD9JLcDDxzLRCGGCE7qdhb91lkVV0GcySnIFDK0UXHFbg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 6,
+    "3": 11,
+    "4": 9,
+    "5": 67
+  },
+  "hours": {
+    "mon": "7:30 AM - 10:00 PM",
+    "tue": "7:30 AM - 10:00 PM",
+    "wed": "7:30 AM - 10:00 PM",
+    "thu": "7:30 AM - 10:00 PM",
+    "fri": "7:30 AM - 10:00 PM",
+    "sat": "7:30 AM - 10:00 PM",
+    "sun": "7:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "miracles-by-mia-tempe",
+  "name": "Miracles By Mia",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "115 W 6th St Ste 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241242,
+  "lng": -111.94196,
+  "website": "https://miraclesbymia.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Miracles+By+Mia/data=!4m7!3m6!1s0x872b090d61bbfddf:0xc0f04e32705a827f!8m2!3d33.4241242!4d-111.94196!16s%2Fg%2F11pbc1pd5c!19sChIJ3_27YQ0JK4cRf4JacDJO8MA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13902698028233032319",
+  "placeId": "ChIJ3_27YQ0JK4cRf4JacDJO8MA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxzDiVYzQVGc11sGRDS_Hw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=196.63866&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:15 AM - 9:00 PM",
+    "tue": "10:15 AM - 9:00 PM",
+    "wed": "10:15 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

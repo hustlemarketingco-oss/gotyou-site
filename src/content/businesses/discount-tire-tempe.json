@@ -1,0 +1,54 @@
+{
+  "slug": "discount-tire-tempe",
+  "name": "Discount Tire",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Auto parts store",
+    "Tire repair shop",
+    "Used tire shop",
+    "Wheel alignment service",
+    "Wheel store"
+  ],
+  "address": "8835 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.333326899999996,
+  "lng": -111.9105688,
+  "phone": "+14807520527",
+  "website": "https://www.discounttire.com/store/az/tempe/s/1352",
+  "googleMapsUrl": "https://www.google.com/maps/place/Discount+Tire/data=!4m7!3m6!1s0x872b06e49d3ea295:0x8ce80b06a03d314b!8m2!3d33.3333269!4d-111.9105688!16s%2Fg%2F1wk7r9rh!19sChIJlaI-neQGK4cRSzE9oAYL6Iw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10153377482992857419",
+  "placeId": "ChIJlaI-neQGK4cRSzE9oAYL6Iw",
+  "googleRating": 4.4,
+  "googleReviewCount": 951,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexaC0n0ezgb1e4r2xNXx3aWwLWgMYqSDj03HQayjGZGv-0jrs-aMfc1yQE21ACquKgUS-FAsXwwdbkuWDtj-oBKWVj88czvGqPhNtRuViDw0ol6zYn9sMkeXXM0Cg4k04GqwY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 89,
+    "2": 39,
+    "3": 24,
+    "4": 82,
+    "5": 717
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

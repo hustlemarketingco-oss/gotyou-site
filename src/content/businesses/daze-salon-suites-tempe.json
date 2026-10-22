@@ -1,0 +1,44 @@
+{
+  "slug": "daze-salon-suites-tempe",
+  "name": "Daze Salon Suites",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1310 E Broadway Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078641,
+  "lng": -111.9173457,
+  "phone": "+16027020915",
+  "website": "https://dazesalonsuites.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZOSdInAbQLn43iBkZD2Iy4TXU1AMdOFN_5X_3ykqMTSqlG4vnATSzL3d8_aem_khaa58qfXqVaBLktDCmEPg",
+  "googleMapsUrl": "https://www.google.com/maps/place/Daze+Salon+Suites/data=!4m7!3m6!1s0x872b096b5d2c8e39:0x7ef1b1b385d7572f!8m2!3d33.4078641!4d-111.9173457!16s%2Fg%2F11l2xnws3g!19sChIJOY4sXWsJK4cRL1fXhbOx8X4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9147287702768932655",
+  "placeId": "ChIJOY4sXWsJK4cRL1fXhbOx8X4",
+  "googleRating": 4.8,
+  "googleReviewCount": 25,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgDzAj75JcfqxQSmOWk2z3jRBCUBSf2V9tHVd-GYdiduhyiOFWDfoLJaZkGw2rqvwAUEbGV91KSWIrpbEVes3MTElC7cJG2cLDPPU3X7FOiFr6t9a9H-sR4YT5jYF9aWr1D9R6XVFVXl-t=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 24
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

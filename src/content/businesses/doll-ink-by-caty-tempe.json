@@ -1,0 +1,41 @@
+{
+  "slug": "doll-ink-by-caty-tempe",
+  "name": "Doll Ink By Caty",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo artist",
+  "address": "2210 S Mill Ave #7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.404393999999996,
+  "lng": -111.9403021,
+  "website": "https://venue.ink/@dollinkbycaty",
+  "googleMapsUrl": "https://www.google.com/maps/place/Doll+Ink+By+Caty/data=!4m7!3m6!1s0x872bafd27998003b:0xb117afb939e280c!8m2!3d33.404394!4d-111.9403021!16s%2Fg%2F11mrcfqx_h!19sChIJOwCYedKvK4cRDCiek_t6EQs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "797553829953284108",
+  "placeId": "ChIJOwCYedKvK4cRDCiek_t6EQs",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uHFvVjtL2P2bYG2xU2Cl1g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=166.04951&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:30 AM - 3:00 PM",
+    "tue": "10:30 AM - 3:00 PM",
+    "wed": "Closed",
+    "thu": "10:30 AM - 3:00 PM",
+    "fri": "10:30 AM - 3:00 PM",
+    "sat": "10:30 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

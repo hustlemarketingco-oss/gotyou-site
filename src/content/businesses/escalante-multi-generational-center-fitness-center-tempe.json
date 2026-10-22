@@ -1,0 +1,44 @@
+{
+  "slug": "escalante-multi-generational-center-fitness-center-tempe",
+  "name": "Escalante Multi-Generational Center - Fitness Center",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "address": "2150 E Orange St.",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4190233,
+  "lng": -111.89392,
+  "phone": "+14803505800",
+  "website": "https://www.tempe.gov/government/community-services/community-recreation-centers/escalante-multi-generational-center/facility-information",
+  "googleMapsUrl": "https://www.google.com/maps/place/Escalante+Multi-Generational+Center+-+Fitness+Center/data=!4m7!3m6!1s0x872b09c51157118d:0xee0fc61d97bc324c!8m2!3d33.4190233!4d-111.89392!16s%2Fg%2F11q25h7zgy!19sChIJjRFXEcUJK4cRTDK8lx3GD-4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17154147336079553100",
+  "placeId": "ChIJjRFXEcUJK4cRTDK8lx3GD-4",
+  "googleRating": 4.7,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb0JA_uTzHQkFwBcXl1koiaB7IX4_SnXLkJc8BOdTy84djl7f_EV1G4LCCDrxUcaaUdHTgV5kx3wKAI7QkxCu7tDLPmeDjFXVL5JVPjydOq1j_8Q2I9oJrKR42_8gVsG67c87OmqmJTwc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 9
+  },
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "1:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

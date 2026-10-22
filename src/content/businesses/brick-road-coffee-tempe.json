@@ -11,38 +11,18 @@
   "lng": -111.9249201,
   "phone": "+14805907246",
   "website": "http://www.brickroadcc.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9404575875106806368",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brick+Road+Coffee+-+Tempe/data=!4m7!3m6!1s0x872b07b2b99b6291:0x8283c3ee4af31a60!8m2!3d33.3838649!4d-111.9249201!16s%2Fg%2F11p191n3zn!19sChIJkWKbubIHK4cRYBrzSu7Dg4I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9404575875106806368",
   "placeId": "ChIJkWKbubIHK4cRYBrzSu7Dg4I",
   "googleRating": 4.7,
-  "googleReviewCount": 800,
+  "googleReviewCount": 859,
   "priceRange": "$1–10",
   "description": "Located in Tempe, Brick Road Coffee - Tempe is a casual, cozy coffee shop with coffee & quick bite, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay",
-    "Coffee",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "7:00 AM - 10:00 PM",
@@ -59,5 +39,14 @@
   "groundgameId": "6a2438f5abc5e92264f4afc6",
   "seededAt": "2026-06-06T15:12:53Z",
   "updatedAt": "2026-07-16T17:01:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 11,
+    "3": 15,
+    "4": 34,
+    "5": 761
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckhTd7VvDieyrn5nz9TeqaQsGjAlXdnJCLq9i0z_N5vOY5yUUnFrEWU4_azCs47g-n9xFl837jKBLS1OHi95reeiWOrYC7hauhPxfUdv5-4bJbn50fU8ii874SiaosNY2-58flImOEEo65=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -22,8 +22,8 @@
   "phone": "+14803076989",
   "website": "https://urbanhip-e.com/",
   "placeId": "ChIJu-OGvowJK4cR5GfmbapZBUw",
-  "googleRating": 4.9,
-  "googleReviewCount": 46,
+  "googleRating": 4.8,
+  "googleReviewCount": 122,
   "priceRange": "$$",
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
@@ -40,5 +40,23 @@
   "groundgameId": "6ab3142c5759cb2729002a67",
   "seededAt": "2026-09-22T23:50:04Z",
   "updatedAt": "2026-09-23T00:21:10Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5477883110289205220",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urban+Hip-E+Fresh+Kitchen/data=!4m7!3m6!1s0x872b098cbe86e3bb:0x4c0559aa6de667e4!8m2!3d33.4193172!4d-111.9402335!16s%2Fg%2F11zbmdd_6n!19sChIJu-OGvowJK4cR5GfmbapZBUw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 4,
+    "3": 1,
+    "4": 8,
+    "5": 108
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRW-voyfLHCVXtgLTPUyd9WZNQ85EJzwQ5sh_WnUFTaTlh8TbrKJgmPYdgDnlrNRezoTsdWB6kabh-Fl9GqdfLQtJJo6zv_QtiD9kPB6AD9QoSttEBEJyvECSAxZKuQlzSqjddIIqD3VDJ=w1200-h800-k-no",
+  "amenities": [
+    "Assisted listening devices",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

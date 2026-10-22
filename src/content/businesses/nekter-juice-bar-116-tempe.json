@@ -22,12 +22,13 @@
   "phone": "+14804013897",
   "website": "https://locations.nekterjuicebar.com/ll/us/az/tempe/116-e-university-dr-ste-103/",
   "placeId": "ChIJWwu1omMJK4cRwGVTxYlO6hE",
-  "googleRating": 3.4,
-  "googleReviewCount": 104,
+  "googleRating": 3.3,
+  "googleReviewCount": 108,
   "priceRange": "$$",
   "amenities": [
-    "Credit card",
-    "Cash"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "mon": "7:00 AM - 4:00 PM",
@@ -44,5 +45,16 @@
   "groundgameId": "6a3583a20038fb15d736459a",
   "seededAt": "2026-06-19T18:00:02Z",
   "updatedAt": "2026-08-06T19:33:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1290930596823131584",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nekter+Juice+Bar/data=!4m7!3m6!1s0x872b0963a2b50b5b:0x11ea4e89c55365c0!8m2!3d33.4221375!4d-111.9371215!16s%2Fg%2F11gy9n8v5x!19sChIJWwu1omMJK4cRwGVTxYlO6hE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 10,
+    "3": 2,
+    "4": 16,
+    "5": 47
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGBSKKZuc6H04MHBbywP9FKfHuM71s9E0iqHQIW_8WZEF-rqeyBtUSdSqWjKJTY8ZxSl6SnqPearANR2TIKe4MQ-D-kZnPFwFXmun44_gHeEfWUbRTjljJ3ySrA4OvzzNPCYUKQTLzQQZC=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

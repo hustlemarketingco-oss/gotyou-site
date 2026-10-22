@@ -2,7 +2,7 @@
   "slug": "bostons-bar-grille-tempe",
   "name": "Boston's Bar & Grille",
   "category": "Bars & Pubs",
-  "googleCategory": "Sports bar",
+  "googleCategory": "Bar",
   "secondaryCategories": [
     "Bar & grill",
     "Bar"
@@ -15,25 +15,17 @@
   "lng": -111.9120636,
   "phone": "+14808310822",
   "website": "https://www.bostonsbarngrille.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15463190156765212339",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boston%27s+Bar+%26+Grille/data=!4m7!3m6!1s0x872b0656c65d86cd:0xd6984985244eaeb3!8m2!3d33.3505428!4d-111.9120636!16s%2Fg%2F1tl4dhc1!19sChIJzYZdxlYGK4cRs65OJIVJmNY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15463190156765212339",
   "placeId": "ChIJzYZdxlYGK4cRs65OJIVJmNY",
   "googleRating": 4.2,
-  "googleReviewCount": 502,
+  "googleReviewCount": 506,
   "priceRange": "$10–20",
   "description": "Laid-back bar with American comfort food, sports on TV, off-track betting & karaoke nights.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/bostonsbarandgrille"
@@ -53,5 +45,14 @@
   "groundgameId": "6a2438ca53155b7ed43078b7",
   "seededAt": "2026-06-06T15:12:10Z",
   "updatedAt": "2026-06-06T15:12:10Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 21,
+    "3": 46,
+    "4": 119,
+    "5": 286
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoWewQ-3na6rVCVx0wwWZLSkwYrLXV7duV5MtC7v0giGuloSy6qlXZQDYp2bKIFWKgPZgIhuIbIyY-DdNt39xvXp0ofRSOUhTmldJCYtpE_szpaTF4Afy-us6Muy1EDXoFiI4C=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

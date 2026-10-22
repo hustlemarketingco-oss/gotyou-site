@@ -1,0 +1,44 @@
+{
+  "slug": "walmart-deli-tempe",
+  "name": "Walmart Deli",
+  "category": "Restaurant",
+  "googleCategory": "Jeweler",
+  "address": "1380 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3506484,
+  "lng": -111.9608524,
+  "phone": "+14803458686",
+  "website": "https://www.walmart.com/store/1746-tempe-az/deli?veh=seo_loc",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walmart+Deli/data=!4m7!3m6!1s0x872b05dba7d7ac11:0x1e230bf2f1661fbe!8m2!3d33.3506484!4d-111.9608524!16s%2Fg%2F11fyxcsnbf!19sChIJEazXp9sFK4cRvh9m8fILIx4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2171592583382704062",
+  "placeId": "ChIJEazXp9sFK4cRvh9m8fILIx4",
+  "googleRating": 4.5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HUyXrSQcyhKiTbQnufYswA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=73.9178&pitch=0&thumbfov=100",
+  "description": "Chain retailer with a vast selection including groceries, apparel, home goods & electronics.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 1
+  },
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 8:00 PM",
+    "sun": "6:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

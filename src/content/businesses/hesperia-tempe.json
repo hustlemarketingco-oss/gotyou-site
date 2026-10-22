@@ -1,0 +1,36 @@
+{
+  "slug": "hesperia-tempe",
+  "name": "Hesperia",
+  "category": "Shopping",
+  "googleCategory": "Men's clothing store",
+  "address": "1324 W University Dr Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422288,
+  "lng": -111.959581,
+  "website": "https://www.gethesperia.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hesperia/data=!4m7!3m6!1s0x872b0dc6e6d0f827:0x9a1de95b2c870904!8m2!3d33.422288!4d-111.959581!16s%2Fg%2F11y5t_l2x2!19sChIJJ_jQ5sYNK4cRBAmHLFvpHZo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11105288833963854084",
+  "placeId": "ChIJJ_jQ5sYNK4cRBAmHLFvpHZo",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbgN45hujPZqyz7NTDz_NndAIZF8Uf7stOyq-sC2fOgRAnT9lZ07GOo8u9rnWMz6T57gxyvHHTo-stQaRe3UKiJ_5NMdMzBb6UoPK7CD4A4_fhzs6rXoTmq0C_9xADSNq8mLm8y82EMDI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

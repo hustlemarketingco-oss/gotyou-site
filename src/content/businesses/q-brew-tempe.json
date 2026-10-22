@@ -11,26 +11,17 @@
   "lng": -111.9430628,
   "phone": "+14809683722",
   "website": "https://www.qandbrewtempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2472282423599163619",
+  "googleMapsUrl": "https://www.google.com/maps/place/Q+%26+Brew/data=!4m7!3m6!1s0x872b08afb2906a3b:0x224f4fc3fb11e8e3!8m2!3d33.3914869!4d-111.9430628!16s%2Fg%2F1vd95km5!19sChIJO2qQsq8IK4cR4-gR-8NPTyI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2472282423599163619",
   "placeId": "ChIJO2qQsq8IK4cR4-gR-8NPTyI",
   "googleRating": 4.6,
-  "googleReviewCount": 317,
+  "googleReviewCount": 322,
   "priceRange": "$10–20",
   "description": "Simple, laid-back hangout featuring pool tables & various leagues, plus a bar & sports on TV.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "11:00 AM - 2:00 AM",
@@ -47,5 +38,14 @@
   "groundgameId": "6a2438a609f1770e259efd9e",
   "seededAt": "2026-06-06T15:11:34Z",
   "updatedAt": "2026-06-06T15:11:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 4,
+    "3": 16,
+    "4": 51,
+    "5": 241
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelP1C-mEgTjG-3wtWlteTe5yqRN3kKOkqrgWV97l87NDV3HZU_Gn9zDDU0y5JyIBVfDlBdWRXNFOibVkU4TVqjkP08RCLmzn7R0bVNO3_DRpKhvDBqPgJNFpLcgO6XLfEr4red=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

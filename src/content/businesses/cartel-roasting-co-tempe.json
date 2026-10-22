@@ -15,8 +15,8 @@
   "lng": -111.934581,
   "website": "https://cartelroasting.co/",
   "placeId": "ChIJC246qYYJK4cRgPHZWwEBhQk",
-  "googleRating": 3.9,
-  "googleReviewCount": 12,
+  "googleRating": 4,
+  "googleReviewCount": 13,
   "hours": {
     "mon": "8:00 AM - 5:00 PM",
     "tue": "8:00 AM - 5:00 PM",
@@ -32,5 +32,21 @@
   "groundgameId": "6a342f81b6b8db9145eb4a12",
   "seededAt": "2026-06-18T17:48:49Z",
   "updatedAt": "2026-06-18T17:48:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "685955623591473536",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cartel+Roasting+Co./data=!4m7!3m6!1s0x872b0986a93a6e0b:0x98501015bd9f180!8m2!3d33.4208917!4d-111.934581!16s%2Fg%2F11kbkx_ndg!19sChIJC246qYYJK4cRgPHZWwEBhQk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 1,
+    "5": 9
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDDJ_XO7lh1Itf0606IvilqJWH0ZujuYPM-wKIm6UD_ioOW0g634M7bmBEGmSubsGfiMZm_T1uLfeu-hDFkN0DOKSUOxxumSx7k4Cl20NPzJoBniJGBD-yMflj0mY6qT-LhK7k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

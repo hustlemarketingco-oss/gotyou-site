@@ -1,0 +1,46 @@
+{
+  "slug": "swagger-sports-tempe",
+  "name": "Swagger Sports",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Uniform store"
+  ],
+  "address": "230 W Baseline Rd #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3786951,
+  "lng": -111.9424476,
+  "phone": "+14805906787",
+  "website": "https://www.swaggersportsgear.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Swagger+Sports/data=!4m7!3m6!1s0x872b076be6c2bda5:0xa2c956007e425004!8m2!3d33.3786951!4d-111.9424476!16s%2Fg%2F11h5rmr_l4!19sChIJpb3C5msHK4cRBFBCfgBWyaI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11730001264581431300",
+  "placeId": "ChIJpb3C5msHK4cRBFBCfgBWyaI",
+  "googleRating": 4.9,
+  "googleReviewCount": 28,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAHoi9mS6uMYN8JJ1x0BZ_AMgW78zw1BGlMYh7YvHc03zF5grkzu6dI0615UN4FeCzvX6hq0urKlZRn_oZCSQ06vDY_vE9k7k6IXQBmutmLoRDxJ3KdOrXRcuNutpvhkLemr9q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 27
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

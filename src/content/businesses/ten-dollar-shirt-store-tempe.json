@@ -1,0 +1,53 @@
+{
+  "slug": "ten-dollar-shirt-store-tempe",
+  "name": "Ten Dollar Shirt Store",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Apparel company",
+    "Commercial printer",
+    "Digital printer",
+    "Print shop",
+    "Screen printer",
+    "T-shirt store"
+  ],
+  "address": "1415 E University Dr a108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421315199999995,
+  "lng": -111.91561739999999,
+  "phone": "+14809660030",
+  "website": "https://tendollarshirtstore.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ten+Dollar+Shirt+Store/data=!4m7!3m6!1s0x872b1216e21925f3:0x8d66b745d78a9817!8m2!3d33.4213152!4d-111.9156174!16s%2Fg%2F119x59zk7!19sChIJ8yUZ4hYSK4cRF5iK10W3Zo0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10189032717569136663",
+  "placeId": "ChIJ8yUZ4hYSK4cRF5iK10W3Zo0",
+  "googleRating": 4.5,
+  "googleReviewCount": 24,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ySZ-h2xPjDryg7Ko0mNo_PxaD4G_o4MRQ9pc-oFtE6QwkUenSNeqfq7qGIobZFveRYQBNUYakm4dH0hjKl4Mtrx_6RHAIONIwAHaCmIH742x4gBCZpUk7RVf4GPtCROwLFE=w1200-h800-k-no",
+  "description": "Retail shop offering custom-printed designs on tanks, T-shirts, tote bags, aprons & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "4": 1,
+    "5": 20
+  },
+  "hours": {
+    "mon": "10:30 AM - 4:30 PM",
+    "tue": "10:30 AM - 4:30 PM",
+    "wed": "10:30 AM - 4:30 PM",
+    "thu": "10:30 AM - 4:30 PM",
+    "fri": "10:30 AM - 4:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

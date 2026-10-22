@@ -16,23 +16,23 @@
   "source": "groundgame",
   "placeId": "ChIJSw_KnC0GK4cRe-m150ujtEM",
   "googleCid": "4878703842754423163",
-  "googleMapsUrl": "https://maps.google.com/?cid=4878703842754423163",
+  "googleMapsUrl": "https://www.google.com/maps/place/Target/data=!4m7!3m6!1s0x872b062d9cca0f4b:0x43b4a34be7b5e97b!8m2!3d33.3796533!4d-111.9078304!16s%2Fg%2F1tnms5n9!19sChIJSw_KnC0GK4cRe-m150ujtEM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.3,
-  "googleReviewCount": 1053,
+  "googleReviewCount": 1059,
   "ratingBreakdown": {
     "1": 75,
     "2": 22,
     "3": 85,
-    "4": 238,
-    "5": 633
+    "4": 239,
+    "5": 638
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK-Xj3c0VCdO8ORUisGLZEuvgSNDrNOr_jQJTGq-fonP1B8783TpljSIIObvUrIAD6UkK1HwABUUM0VoznJ-CLXVZz2_v5Uy1SVR-ZEEttmJ5HcXrTmVmmaI87SS0MM4XuKC8tKw=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUSOj64bqbFv1CakF7T_VOhmVI1RK0cGWeQsCwmcoBE8yKn1HXqQ3Dy_n0VFm5L6bY_iRZTtgiFOwgFB9AK3kHr9OclEGDNhW85oBlrXxZIRmQY2FKJN-WFDTuJa3Au7u6Duji_A=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "8 AM - 10 PM",
     "tue": "8 AM - 10 PM",
@@ -44,5 +44,16 @@
   },
   "website": "https://www.target.com/sl/tempe/319",
   "lat": 33.3796533,
-  "lng": -111.9078304
+  "lng": -111.9078304,
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Baby store",
+    "Clothing store",
+    "Electronics store",
+    "Furniture store",
+    "Home goods store",
+    "Office supply store",
+    "Outdoor furniture store",
+    "Shoe store"
+  ]
 }

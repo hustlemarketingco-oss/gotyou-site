@@ -1,0 +1,50 @@
+{
+  "slug": "off-broadway-shoe-warehouse-tempe",
+  "name": "Off Broadway Shoe Warehouse",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Boot store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 485",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3821663,
+  "lng": -111.96481539999999,
+  "phone": "+14804915450",
+  "website": "https://www.rackroomshoes.com/store/3094?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3094",
+  "googleMapsUrl": "https://www.google.com/maps/place/Off+Broadway+Shoe+Warehouse/data=!4m7!3m6!1s0x872b0f59e1444903:0xa4869565bac312cf!8m2!3d33.3821663!4d-111.9648154!16s%2Fg%2F12hlk5yk7!19sChIJA0lE4VkPK4cRzxLDumWVhqQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11855327333256991439",
+  "placeId": "ChIJA0lE4VkPK4cRzxLDumWVhqQ",
+  "googleRating": 3.8,
+  "googleReviewCount": 84,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTg7OG8eG87drTyzrqOWYSzsu4vw5RRGYydr2mPz9Kfq8WPUePd63v1O6_u71Rxl6NBNrXtyhCtEJcSItaWuz_go9je7YN3FZ4R54lKg8-bB6OIwSpBsTiy8KEn3PZ_3Adw4NXFyqPhg=w1200-h800-k-no",
+  "description": "Shoe store chain stocking known-name brands for men, women, children & toddlers.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 1,
+    "3": 8,
+    "4": 19,
+    "5": 40
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

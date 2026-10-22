@@ -11,7 +11,7 @@
   "lng": -111.9379966,
   "phone": "+14808684765",
   "website": "https://massrecoveryaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2887978753235690548",
+  "googleMapsUrl": "https://www.google.com/maps/place/Massrecovery/data=!4m7!3m6!1s0x872b09e286c5b6c1:0x2814295ff97d2434!8m2!3d33.3915031!4d-111.9379966!16s%2Fg%2F11y4c09949!19sChIJwbbFhuIJK4cRNCR9-V8pFCg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2887978753235690548",
   "placeId": "ChIJwbbFhuIJK4cRNCR9-V8pFCg",
   "googleRating": 4.1,
@@ -19,21 +19,9 @@
   "priceRange": "$1–10",
   "description": "Located in Tempe, Massrecovery is a casual snack bar with healthy options & quick bite, takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "9:00 AM - 7:00 PM",
@@ -50,5 +38,11 @@
   "groundgameId": "6a2438d8ee03277a132ae639",
   "seededAt": "2026-06-06T15:12:24Z",
   "updatedAt": "2026-06-06T15:12:24Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 7
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSZKVN3MBnd8pbW0sjk7ntu5eQRJncWkDBcZG_3RgOUjSiU2KNtN0bmxJ12xG4EtBhIEPULqnDZ5fXfzjMQrWIAJ77cfwn0PRUSO7nzCMTpiVwofDLQwGkUzaBwwjQ4KKE-69Upg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

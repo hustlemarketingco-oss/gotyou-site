@@ -1,0 +1,36 @@
+{
+  "slug": "restaurant-mexico-tempe",
+  "name": "Restaurant Mexico",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "423 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425941699999996,
+  "lng": -111.93976669999999,
+  "website": "http://restaurantmexico.menutoeat.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Restaurant+Mexico/data=!4m7!3m6!1s0x872b08d8062ef55b:0xc50d02cb238c4718!8m2!3d33.4259417!4d-111.9397667!16s%2Fg%2F1thvt4q_!19sChIJW_UuBtgIK4cRGEeMI8sCDcU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14199008271667054360",
+  "placeId": "ChIJW_UuBtgIK4cRGEeMI8sCDcU",
+  "googleRating": 4.1,
+  "googleReviewCount": 143,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehdBdfiWLyuGEB_i5Zet2wC0t0VliI-o8L7ubv6QFnPiI73prvH_A6siqpb64d3min1quob9qJZo0cgPzYAsRD9jt7PBAVx7GIiYCBKrLZMRT5TCxVHfMBJ9aEKHHq4CUCYGcw=w1200-h800-k-no",
+  "description": "Long-running restaurant furnishing familiar Mexican platters with a Southwestern touch.",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 9,
+    "3": 19,
+    "4": 21,
+    "5": 84
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

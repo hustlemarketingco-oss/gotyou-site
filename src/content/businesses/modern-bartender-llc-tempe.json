@@ -19,17 +19,15 @@
   "lng": -111.9562547,
   "phone": "+14807450946",
   "website": "http://modernbartenderco.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=107566997827169795",
+  "googleMapsUrl": "https://www.google.com/maps/place/Modern+Bartender+LLC/data=!4m7!3m6!1s0x872b0fd04d78bad5:0x17e279d570b2e03!8m2!3d33.4006268!4d-111.9562547!16s%2Fg%2F11rhztbkcg!19sChIJ1bp4TdAPK4cRAy4LV50nfgE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "107566997827169795",
   "placeId": "ChIJ1bp4TdAPK4cRAy4LV50nfgE",
   "googleRating": 5,
-  "googleReviewCount": 23,
+  "googleReviewCount": 24,
   "description": "Located in Tempe, Modern Bartender LLC is a mobile caterer & business networking company.",
   "amenities": [
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.instagram.com/modern_bartenders"
@@ -40,5 +38,19 @@
   "groundgameId": "6a24388fffde39932526763b",
   "seededAt": "2026-06-06T15:11:11Z",
   "updatedAt": "2026-06-06T15:11:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "5": 24
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6oI3qRHrtRuRsZmv8NX2gekRQhWqeOOPShHepNlz8fRDpdr6LpPE0ANi8PXoCEp-_DC1HtWZXyKSiszmW3pMCQsasXlX8x__EppKd9EnRMiOqJ-Dfjos467Kw4SIqZ73Kel7W=w1200-h800-k-no",
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

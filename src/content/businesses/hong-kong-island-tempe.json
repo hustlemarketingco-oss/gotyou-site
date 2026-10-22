@@ -1,0 +1,42 @@
+{
+  "slug": "hong-kong-island-tempe",
+  "name": "Hong Kong Island",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Bubble tea store",
+  "address": "5000 S Arizona Mills Cir #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3849555,
+  "lng": -111.964068,
+  "phone": "+16024699252",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hong+Kong+Island/data=!4m7!3m6!1s0x872b0fe7b4ebc5ad:0x8831184c8c6b9aa4!8m2!3d33.3849555!4d-111.964068!16s%2Fg%2F11x8h9rl_9!19sChIJrcXrtOcPK4cRpJprjEwYMYg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9813651780069464740",
+  "placeId": "ChIJrcXrtOcPK4cRpJprjEwYMYg",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmDhHn9TcOrUbzHDAsgPH0Udjf_lRIdyqk5Zi0NV_eM3M8yCa3IfY0XQfWwORGVXUYFDQKN4NhJ_UhxoY6IN6JRIXBFAa6I7ZuqEAftEFXUy0hi-eUv_AOrpyono6ch_EgMv56S6BOryE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

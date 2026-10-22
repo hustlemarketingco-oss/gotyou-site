@@ -1,0 +1,42 @@
+{
+  "slug": "retail-therapy-az-tempe",
+  "name": "Retail Therapy AZ",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "address": "522 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4225146,
+  "lng": -111.9381597,
+  "phone": "+14808758027",
+  "website": "https://retailtherapyaz.us/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Retail+Therapy+AZ/data=!4m7!3m6!1s0x872b09eeaa9647b1:0xcef75040ff774884!8m2!3d33.4225146!4d-111.9381597!16s%2Fg%2F11mz9x3w_2!19sChIJsUeWqu4JK4cRhEh3_0BQ984?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14913476931154823300",
+  "placeId": "ChIJsUeWqu4JK4cRhEh3_0BQ984",
+  "googleRating": 5,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyg7CLX9vQeEIriGfidpYPxckdnvAPeetEaHm-vcBP_XDKBOrNzvlPvdp4vR0pxcY046640rTxUTS5vGpmyYcLK7hwthlUofbK5N4N37ej9nyUp0J7bKKDXj-UKX56dzmlTYZSHjnZTmrt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 26
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

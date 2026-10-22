@@ -1,0 +1,52 @@
+{
+  "slug": "boxlunch-tempe",
+  "name": "BoxLunch",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Collectibles store",
+    "Novelty store"
+  ],
+  "address": "5000 S Arizona Mills Cir Spc 593",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3841105,
+  "lng": -111.9649682,
+  "phone": "+14803782864",
+  "website": "https://www.boxlunch.com/stores-details?StoreId=4635",
+  "googleMapsUrl": "https://www.google.com/maps/place/BoxLunch/data=!4m7!3m6!1s0x872b0f9e25daebb1:0xeb32b6f3a29aad39!8m2!3d33.3841105!4d-111.9649682!16s%2Fg%2F11fnp_3157!19sChIJsevaJZ4PK4cROa2aovO2Mus?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16947809505269951801",
+  "placeId": "ChIJsevaJZ4PK4cROa2aovO2Mus",
+  "googleRating": 4.5,
+  "googleReviewCount": 157,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6_Zgm3N9CzoZ6toZCjsQ4DkpAUKo3jM02Y9naEQ65RYpmdemIdBiqJ3iPWIPDoAHdDNAmMxm-68nFf2qtWEQSc-eaBzp9FxBIVXIBDquNDjURw7qb6nNvfaXY3OJJSujLtt3R=w1200-h800-k-no",
+  "description": "Local chain specialty retailer selling apparel, accessories, home goods, gifts & novelties.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 9,
+    "4": 32,
+    "5": 110
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

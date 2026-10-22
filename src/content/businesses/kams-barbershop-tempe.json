@@ -1,0 +1,44 @@
+{
+  "slug": "kams-barbershop-tempe",
+  "name": "Kam's Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "4325 S 48th St Unit 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3860088,
+  "lng": -111.9778372,
+  "googleMapsUrl": "https://www.google.com/maps/place/Kam%27s+Barbershop/data=!4m7!3m6!1s0x872b0f2808a5b6f3:0xee599127ab392364!8m2!3d33.3860088!4d-111.9778372!16s%2Fg%2F11nmjcb69c!19sChIJ87alCCgPK4cRZCM5qyeRWe4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17174918253516497764",
+  "placeId": "ChIJ87alCCgPK4cRZCM5qyeRWe4",
+  "googleRating": 4.8,
+  "googleReviewCount": 115,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcofuML-GQ4DHXVvGiEeGalQxYNmcu5MwWo7ImEG5WeHqKXZ_cgmKgpRPi1EvHQav8ZdMkzI1Vtjb0P14d7I9z5ouglLnAA3_51HHSUjwsgaSgHcykLmmNper8kzCGXg59j6du9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 105
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

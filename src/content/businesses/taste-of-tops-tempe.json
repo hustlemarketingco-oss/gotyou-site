@@ -11,28 +11,17 @@
   "lng": -111.9448033,
   "phone": "+14809672520",
   "website": "http://www.topsliquors.com/tasteoftops",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5080961918248386675",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taste+of+Tops/data=!4m7!3m6!1s0x872b08d6ecda016f:0x468333f1ce7b8073!8m2!3d33.4214734!4d-111.9448033!16s%2Fg%2F1tgnb1_r!19sChIJbwHa7NYIK4cRc4B7zvEzg0Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5080961918248386675",
   "placeId": "ChIJbwHa7NYIK4cRc4B7zvEzg0Y",
   "googleRating": 4.7,
-  "googleReviewCount": 329,
+  "googleReviewCount": 332,
   "priceRange": "$10–20",
   "description": "This relaxed, bring-your-own-food taproom specializing in craft beers offers bottles & cans to go.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "12:00 PM - 12:00 AM",
@@ -49,5 +38,13 @@
   "groundgameId": "6a24386019916dba81428e92",
   "seededAt": "2026-06-06T15:10:24Z",
   "updatedAt": "2026-07-28T19:18:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 12,
+    "4": 51,
+    "5": 264
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_BS17C5bHsdqk0q4J2I0AYl1UbQFz1pZXN04MkTszKbLdok8MRymifN-JRtKsUb94y355SGpGBraT78tWc1HRbM_I1XFI6m_WTBWDZs-0vIqrYcwIcPmcskEpKFbJUfUp9rVZdQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

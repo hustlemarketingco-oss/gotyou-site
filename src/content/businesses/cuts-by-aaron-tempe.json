@@ -1,0 +1,42 @@
+{
+  "slug": "cuts-by-aaron-tempe",
+  "name": "Cuts By Aaron",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "933 E Broadway Rd Ste 2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "phone": "+14807038713",
+  "website": "https://www.cutsbyaaron.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cuts+By+Aaron/data=!4m7!3m6!1s0x872b09a6fdc5daa5:0x418e721fdcc62b42!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11wmxsgm_h!19sChIJpdrF_aYJK4cRQivG3B9yjkE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4723838540331756354",
+  "placeId": "ChIJpdrF_aYJK4cRQivG3B9yjkE",
+  "googleRating": 5,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoZ-eP5uP1clQMMvKa-bp0e9bkvPgyzkN2O3BANRvjs0U9xEDtenYUPNOHfB3MxO80ZORAfHl1dhysAm0ZA0Aiuqw71o2ckmO8JjGM_sms67wBTcqwNSzSaW3AdQczh0GXlDNl=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 31
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

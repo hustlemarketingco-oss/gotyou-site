@@ -1,0 +1,47 @@
+{
+  "slug": "centerpoint-on-mill-tempe",
+  "name": "Centerpoint on Mill",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "660 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4230228,
+  "lng": -111.9409883,
+  "phone": "+16022537900",
+  "googleMapsUrl": "https://www.google.com/maps/place/Centerpoint+on+Mill/data=!4m7!3m6!1s0x872b08d8262737d9:0xd607860042cd0235!8m2!3d33.4230228!4d-111.9409883!16s%2Fg%2F1v_z4ssb!19sChIJ2TcnJtgIK4cRNQLNQgCGB9Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15422442784632406581",
+  "placeId": "ChIJ2TcnJtgIK4cRNQLNQgCGB9Y",
+  "googleRating": 4.5,
+  "googleReviewCount": 2569,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctSK-K6ECm0MpbhI04jq3GfHtC9wQB7MM9-rkBDNKB8HVavAe65ZNK1OPOTuuotA12M8Zctk10aQhOZxMrXjo3kMfsWgVvAQYdTEmLqV2tPIP1Ax5e7RxCh0iADqWvBbNZYRNLiSs7fVLY=w1200-h800-k-no",
+  "description": "Pedestrian complex featuring restaurants & bars plus a movie theater & specialty shops.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 44,
+    "3": 226,
+    "4": 646,
+    "5": 1625
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

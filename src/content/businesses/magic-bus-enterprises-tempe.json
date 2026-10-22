@@ -1,0 +1,46 @@
+{
+  "slug": "magic-bus-enterprises-tempe",
+  "name": "Magic Bus Enterprises",
+  "category": "Shopping",
+  "googleCategory": "Auto body shop",
+  "secondaryCategories": [
+    "Graphic designer",
+    "Vehicle wrapping service"
+  ],
+  "address": "112 S Rockford Dr #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.42863,
+  "lng": -111.89754099999999,
+  "website": "https://magicbusaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Magic+Bus+Enterprises/data=!4m7!3m6!1s0x872b092b068e7bdd:0x336711acf52b5e19!8m2!3d33.42863!4d-111.897541!16s%2Fg%2F11gk009svl!19sChIJ3XuOBisJK4cRGV4r9awRZzM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3703948653080829465",
+  "placeId": "ChIJ3XuOBisJK4cRGV4r9awRZzM",
+  "googleRating": 5,
+  "googleReviewCount": 310,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSkJmMkNbOpDSgj7LKAzq_slVu91R-rW8msnHlXjLTMf8Zc_edROPNs5q4G90jitsybKuCD-JxDcldFXgOarXvs3NpIYlG4MX5znv8Zrw8Y3B8lHrGxSvQizDNWSH63j01Boo8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 310
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

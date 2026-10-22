@@ -1,0 +1,43 @@
+{
+  "slug": "blyss-beauty-tempe",
+  "name": "Blyss Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "123 E Baseline Rd Suite D205",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775178,
+  "lng": -111.93753079999999,
+  "website": "https://blyssbeauty.square.site/?fbclid=PAAaaYFcygTMaCpz11yoZSdcdswerR-vJCSVkOAxwOvZIcinkJScZ_DHI8gQ0",
+  "googleMapsUrl": "https://www.google.com/maps/place/Blyss+Beauty/data=!4m7!3m6!1s0x872b0fb3fa54c767:0x892c577a34500466!8m2!3d33.3775178!4d-111.9375308!16s%2Fg%2F11shvrqkt0!19sChIJZ8dU-rMPK4cRZgRQNHpXLIk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9884371464546681958",
+  "placeId": "ChIJZ8dU-rMPK4cRZgRQNHpXLIk",
+  "googleRating": 5,
+  "googleReviewCount": 52,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePmdbn5TZ0YVeb7Fsuxkne54sJyaEL4gFP_JBHoYuyH8FF6kx7W1VACs0rQNztjYq9MGAADWk9Ca322_Bys-c5a5DpM8ynaMopTHMsbEJ0eBCQO7Id8pTZTQkKYzl9FzLktoKk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 52
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

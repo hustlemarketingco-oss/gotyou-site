@@ -1,0 +1,47 @@
+{
+  "slug": "tempe-nails-and-wax-tempe",
+  "name": "Tempe Nails and Wax",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1726 E Southern Ave #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394095,
+  "lng": -111.910572,
+  "phone": "+14804916466",
+  "website": "http://tempenailsandwax.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Nails+and+Wax/data=!4m7!3m6!1s0x872b0883ffef2d29:0xb0f10238938ee45a!8m2!3d33.394095!4d-111.910572!16s%2Fg%2F11clksnyy9!19sChIJKS3v_4MIK4cRWuSOkzgC8bA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12749974462079624282",
+  "placeId": "ChIJKS3v_4MIK4cRWuSOkzgC8bA",
+  "googleRating": 4.1,
+  "googleReviewCount": 158,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvFjcfiOwuF48gh4mtlRgrWfGNOJzaFVfWlGnNlqrKbKqwf2lB-I7UingrlcTJ44k73m0Q1GEgDQVCLoujH7MPeIJUQsyGp_PHTOIhV2zTdlBhtyGJSvoKPLgX9CrKUxv97j9T=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 10,
+    "3": 3,
+    "4": 10,
+    "5": 111
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

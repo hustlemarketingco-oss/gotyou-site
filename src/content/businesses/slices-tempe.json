@@ -17,13 +17,13 @@
   "website": "https://slicestempemarketplace.com/home",
   "placeId": "ChIJq3vqPlQIK4cRPNF9QUv2qdo",
   "googleRating": 4.3,
-  "googleReviewCount": 442,
+  "googleReviewCount": 458,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -40,5 +40,16 @@
   "groundgameId": "6a2c63da8dc75e4cc043f93f",
   "seededAt": "2026-06-12T19:54:02Z",
   "updatedAt": "2026-07-10T18:48:09Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15756395574414135612",
+  "googleMapsUrl": "https://www.google.com/maps/place/Slices/data=!4m7!3m6!1s0x872b08543eea7bab:0xdaa9f64b417dd13c!8m2!3d33.4335291!4d-111.9019388!16s%2Fg%2F1tg68kty!19sChIJq3vqPlQIK4cRPNF9QUv2qdo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 15,
+    "3": 32,
+    "4": 75,
+    "5": 303
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOCMqLvzcMcLVhJ_rR0oYm4gRchPRU_Zut0eGCzMQzWyjR6ScAZzGW4FkO7VxFG_po4nz_qH0I7WyI_m--hHuDDM_8Ln7ErD7T4No6Tf7LvywX5AeQlQOMw_H2XmUYPnJq8Zwq=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "at-home-tempe",
+  "name": "At Home",
+  "category": "Shopping",
+  "googleCategory": "Home goods store",
+  "secondaryCategories": [
+    "Bedding store",
+    "Boutique",
+    "Furniture store",
+    "Outdoor furniture store",
+    "Picture frame shop",
+    "Rug store"
+  ],
+  "address": "1050 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3510322,
+  "lng": -111.95569549999999,
+  "phone": "+16023373037",
+  "website": "https://www.athome.com/store/arizona-tempe-south/",
+  "googleMapsUrl": "https://www.google.com/maps/place/At+Home/data=!4m7!3m6!1s0x872b0f59e1444903:0xa64fa9f18b7d896d!8m2!3d33.3510322!4d-111.9556955!16s%2Fg%2F11b6hyqbyh!19sChIJA0lE4VkPK4cRbYl9i_GpT6Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11983983988348651885",
+  "placeId": "ChIJA0lE4VkPK4cRbYl9i_GpT6Y",
+  "googleRating": 4.3,
+  "googleReviewCount": 1067,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBrzN0Ln15tgqw3UbXODAUtIQSf8xWa8U0nQicP2VF-tg2leWoB1t_e7DlFQ0_QssKWrSUhW_sPOGdRXSoaqKxWOJxHJe5RrfmGNV0s6CH-l8AEM6xD1enwghfXlWbVODvI_OKZToc8oiO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 56,
+    "2": 39,
+    "3": 92,
+    "4": 251,
+    "5": 629
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

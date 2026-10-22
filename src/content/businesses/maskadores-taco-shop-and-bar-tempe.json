@@ -1,0 +1,52 @@
+{
+  "slug": "maskadores-taco-shop-and-bar-tempe",
+  "name": "Maskadores Taco Shop and Bar",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Taco restaurant"
+  ],
+  "address": "1721 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3339431,
+  "lng": -111.9134392,
+  "phone": "+14802847000",
+  "website": "https://maskadorestacoshops.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Maskadores+Taco+Shop+and+Bar/data=!4m7!3m6!1s0x872b06e4e43ac9ed:0x49b494a8e396c665!8m2!3d33.3339431!4d-111.9134392!16s%2Fg%2F11gff92v__!19sChIJ7ck65OQGK4cRZcaW46iUtEk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5311033313670383205",
+  "placeId": "ChIJ7ck65OQGK4cRZcaW46iUtEk",
+  "googleRating": 4.7,
+  "googleReviewCount": 878,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcx4JTQ-h8JrgOWEwwT4WNNK8PYmNiXu3U8_oQIr4Z-1EabUNuPXAW6ZHjVH3TI-Gqk1JkGbqmWLibSxVb62ptyn19dTQqWtuCYdh83_VzoIFHq1yOFafaCfXj7JJ0E3Bmx1kxlig=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 12,
+    "3": 22,
+    "4": 95,
+    "5": 725
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

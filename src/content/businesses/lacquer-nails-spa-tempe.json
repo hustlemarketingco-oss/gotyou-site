@@ -1,0 +1,47 @@
+{
+  "slug": "lacquer-nails-spa-tempe",
+  "name": "Lacquer Nails & Spa Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "930 W Broadway Rd Ste 12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078778,
+  "lng": -111.9540425,
+  "phone": "+14803611529",
+  "website": "https://www.lacquernailsandspa.com/tempe-salon",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lacquer+Nails+%26+Spa+Tempe/data=!4m7!3m6!1s0x872b0f36508b41c1:0xaa08c225095bb8e6!8m2!3d33.4078778!4d-111.9540425!16s%2Fg%2F11g0g35c54!19sChIJwUGLUDYPK4cR5rhbCSXCCKo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12252256250588018918",
+  "placeId": "ChIJwUGLUDYPK4cR5rhbCSXCCKo",
+  "googleRating": 4.3,
+  "googleReviewCount": 1222,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgQrjTPyPpT1qhhIp9CHQ_EXDw79sdCV-mkpWAWZOgSIVDG8gY-sdXN8U_dS7j4Xiyn-xsQrs4FgKOy8SuEBCwc8O-YzTa6uYrRWlpjym7cu5XPB2W7ziF4T_WFjG_GHxfBTsD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 144,
+    "2": 45,
+    "3": 36,
+    "4": 58,
+    "5": 939
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

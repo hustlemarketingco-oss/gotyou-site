@@ -2,7 +2,7 @@
   "slug": "pier-54-tempe",
   "name": "Pier 54",
   "category": "Restaurant",
-  "googleCategory": "Seafood restaurant",
+  "googleCategory": "American restaurant",
   "secondaryCategories": [
     "Bar",
     "Hamburger restaurant",
@@ -18,26 +18,10 @@
   "priceRange": "$20–30",
   "description": "Relaxed waterfront bar/grill serving straightforward American fare inside or on a large patio.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Romantic",
-    "Trendy",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/Pier54"
@@ -48,5 +32,31 @@
   "groundgameId": "6a243a0ca4addc9dc52a0685",
   "seededAt": "2026-06-06T15:17:32Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJtfvb_ToGK4cR7NxxLTyBtA0",
+  "googleCid": "987556313761438956",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pier+54/data=!4m7!3m6!1s0x872b063afddbfbb5:0xdb4813c2d71dcec!8m2!3d33.3754754!4d-111.9198276!16s%2Fg%2F1v6p4rns!19sChIJtfvb_ToGK4cR7NxxLTyBtA0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.9,
+  "googleReviewCount": 1451,
+  "ratingBreakdown": {
+    "1": 157,
+    "2": 86,
+    "3": 171,
+    "4": 327,
+    "5": 710
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlPqqERkWKU8BDuSG8h9_s8tY4I3gKRGF0zGRviAVlJvBUs_Dsx6FLqzvy1THDhyLY5HdTgJuSCaKidStOXAlneHaqeRy8jHGgxnh9nCojRUBIz7aUCCKc0B4L4AjjrYF1neZCEwZhZWWg=w1200-h800-k-no",
+  "website": "https://www.pier54az.com/",
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.3754754,
+  "lng": -111.91982759999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

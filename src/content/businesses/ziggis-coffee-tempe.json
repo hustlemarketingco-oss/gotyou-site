@@ -19,13 +19,12 @@
   "website": "https://www.ziggiscoffee.com/",
   "placeId": "ChIJ-952-H4JK4cRG8uDnRgOJqs",
   "googleRating": 4.6,
-  "googleReviewCount": 116,
+  "googleReviewCount": 122,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "7:00 AM - 4:00 PM",
@@ -42,5 +41,16 @@
   "groundgameId": "6a32edd5bc2a38be37d70a58",
   "seededAt": "2026-06-17T18:56:21Z",
   "updatedAt": "2026-10-07T21:50:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12332560128485346075",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ziggi%27s+Coffee/data=!4m7!3m6!1s0x872b097ef876defb:0xab260e189d83cb1b!8m2!3d33.4144328!4d-111.9207398!16s%2Fg%2F11pkftb5_t!19sChIJ-952-H4JK4cRG8uDnRgOJqs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 6,
+    "4": 18,
+    "5": 93
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfke04MSuCRLa12aVpqDF15PjHPW_3gwHGhyl_RdD_9vnSHF4yxKJJ_W4oigcem6Rs7pjH1d2pdEL_RBqkMiZ2s_94GCe6WkpGAbRKDYuTZ8BQqw-7FjSry3izIIOaJMHTDkSfZz9VisZGH=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

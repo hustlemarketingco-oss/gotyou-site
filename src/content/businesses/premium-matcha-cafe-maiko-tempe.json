@@ -17,10 +17,12 @@
   "website": "http://www.matchaaz.com/",
   "placeId": "ChIJJc_ITi0JK4cRyYwmjOc6v10",
   "googleRating": 4.5,
-  "googleReviewCount": 376,
+  "googleReviewCount": 400,
   "priceRange": "$",
   "amenities": [
-    "Cash"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "mon": "11:00 AM - 9:30 PM",
@@ -37,5 +39,16 @@
   "groundgameId": "6a304a206bbe46e9a3cef2fd",
   "seededAt": "2026-06-15T18:53:20Z",
   "updatedAt": "2026-07-27T20:53:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6755182732242226377",
+  "googleMapsUrl": "https://www.google.com/maps/place/Premium+Matcha+Cafe+Maiko/data=!4m7!3m6!1s0x872b092d4ec8cf25:0x5dbf3ae78c268cc9!8m2!3d33.4224735!4d-111.9253206!16s%2Fg%2F11s1t5ggw2!19sChIJJc_ITi0JK4cRyYwmjOc6v10?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 14,
+    "3": 15,
+    "4": 45,
+    "5": 305
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLRCJpfi6QSP7oKBcitDFceIp82NMTPE1NVDlzJA14vY2uYWaG6bYDY8HKr3ZG4Ro0w0NKc8tZLekOITeoJ398u_yM1kH22bYtjhrmwvuVBKPr9saXQux9KnHzq88tLw6bnB-F1zlopjCx=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

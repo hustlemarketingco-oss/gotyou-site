@@ -1,0 +1,44 @@
+{
+  "slug": "nail-love-az-tempe",
+  "name": "Nail Love AZ",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "227 E Baseline Rd Ste J3#4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777948,
+  "lng": -111.9358757,
+  "phone": "+14802038199",
+  "website": "https://nailloveaz.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nail+Love+AZ/data=!4m7!3m6!1s0x872b099f84ea90f5:0xa476c9db27740bf5!8m2!3d33.3777948!4d-111.9358757!16s%2Fg%2F11t9vwtlc7!19sChIJ9ZDqhJ8JK4cR9Qt0J9vJdqQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11850881412568976373",
+  "placeId": "ChIJ9ZDqhJ8JK4cR9Qt0J9vJdqQ",
+  "googleRating": 5,
+  "googleReviewCount": 30,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFdoWhmdk5NVygYJ38oU72Ict8Nr0M8urH2Qw7-zTvmwAQe1mF-xFG1JuIY9_7qffaAjgAqWTHeWkxTjVvewN2yPGcwwbqrqqBWRUC5wS4Nc3EbykKyr64bs6EuJ1k7ehyOc5Sdg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 30
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:30 PM",
+    "tue": "10:00 AM - 6:30 PM",
+    "wed": "10:00 AM - 6:30 PM",
+    "thu": "10:00 AM - 6:30 PM",
+    "fri": "10:00 AM - 6:30 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

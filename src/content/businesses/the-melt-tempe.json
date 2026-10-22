@@ -11,11 +11,11 @@
   "lng": -111.927345,
   "phone": "+14806609716",
   "website": "https://www.themelt.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2772142017731597912",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Melt/data=!4m7!3m6!1s0x872b09158d6b7169:0x2678a07a49d39658!8m2!3d33.422903!4d-111.927345!16s%2Fg%2F11ydph4tzx!19sChIJaXFrjRUJK4cRWJbTSXqgeCY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2772142017731597912",
   "placeId": "ChIJaXFrjRUJK4cRWJbTSXqgeCY",
   "googleRating": 4.7,
-  "googleReviewCount": 255,
+  "googleReviewCount": 314,
   "description": "Sleek, counter-serve chain known for its grilled cheese, burgers, mac & cheese & fries.",
   "hours": {
     "fri": "10:00 AM - 2:00 AM",
@@ -32,5 +32,25 @@
   "groundgameId": "6a24364d7c0aefe915ea3244",
   "seededAt": "2026-06-06T15:01:33Z",
   "updatedAt": "2026-07-04T02:08:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 6,
+    "3": 8,
+    "4": 14,
+    "5": 271
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNrJvmRSpjhDwR2R3_DGYHkVld3R-BrHKQ7z94ulyayOF9sKB_c6N3VncvmeN7vD4Axjru62gcGEsJwlaE13THrswpy3pRrKhciP0wILiGDVc5uT9nTvIRXIpm3Dw1OlzeWj4s6a8yii4G=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Sandwich shop"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

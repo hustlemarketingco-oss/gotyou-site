@@ -1,0 +1,43 @@
+{
+  "slug": "vasca-aquarium-supply-tempe",
+  "name": "VASCA Aquarium Supply",
+  "category": "Shopping",
+  "googleCategory": "Aquarium shop",
+  "address": "1536 W Todd Dr Ste A102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3534474,
+  "lng": -111.96519749999999,
+  "phone": "+14808298122",
+  "website": "http://www.vascaaquariumsupply.com/AboutUs.asp",
+  "googleMapsUrl": "https://www.google.com/maps/place/VASCA+Aquarium+Supply/data=!4m7!3m6!1s0x872b05c339a43b13:0xc2d95777f164ee14!8m2!3d33.3534474!4d-111.9651975!16s%2Fg%2F11q2y_qrh0!19sChIJEzukOcMFK4cRFO5k8XdX2cI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14040349485966880276",
+  "placeId": "ChIJEzukOcMFK4cRFO5k8XdX2cI",
+  "googleRating": 4.4,
+  "googleReviewCount": 7,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GyG3V64xLQuvoicW7Bw6uA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=319.5722&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "8:00 AM - 4:30 PM",
+    "tue": "8:00 AM - 4:30 PM",
+    "wed": "8:00 AM - 4:30 PM",
+    "thu": "8:00 AM - 4:30 PM",
+    "fri": "8:00 AM - 4:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

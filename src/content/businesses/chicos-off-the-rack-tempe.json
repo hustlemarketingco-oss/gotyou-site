@@ -1,0 +1,56 @@
+{
+  "slug": "chicos-off-the-rack-tempe",
+  "name": "Chico's Off The Rack",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Jeans shop",
+    "Dress store",
+    "Fashion accessories store",
+    "Jewelry store",
+    "Outlet store",
+    "Shoe store",
+    "Swimwear store"
+  ],
+  "address": "5000 S Arizona Mills Cir Sp 380",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3811281,
+  "lng": -111.9643653,
+  "phone": "+14807752830",
+  "website": "https://www.chicos.com/locations/us/az/tempe/5000-arizona-mills-circle/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chico%27s+Off+The+Rack/data=!4m7!3m6!1s0x8824ea43c91e62bd:0x631cba009673ff04!8m2!3d33.3811281!4d-111.9643653!16s%2Fg%2F1v_vtcdh!19sChIJvWIeyUPqJIgRBP9zlgC6HGM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7141787620789714692",
+  "placeId": "ChIJvWIeyUPqJIgRBP9zlgC6HGM",
+  "googleRating": 4.4,
+  "googleReviewCount": 70,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF5zlP3C8WC7k2gKj9CcLKKdxlfalUWeGdVjo72FtjawDEiU5poYmetl7hfipfRu_ezeM32blUXP1Dn-wRD4iAwOjA7RXVRn3d5bLmqSDOLHz2jC6_ZSQsu4SuNKGZvHbk7Zk=w1200-h800-k-no",
+  "description": "Clothing chain offering women's fashions including careerwear, dressy separates & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 3,
+    "3": 12,
+    "4": 12,
+    "5": 43
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

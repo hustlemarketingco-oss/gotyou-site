@@ -1,0 +1,54 @@
+{
+  "slug": "starbucks-coffee-company-340-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "340 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.42257,
+  "lng": -111.93227999999999,
+  "phone": "+14805551212",
+  "website": "https://www.starbucks.com/store-locator/store/11842",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b08d803cd1ead:0xf333d0ca3a611448!8m2!3d33.42257!4d-111.93228!16s%2Fg%2F1tfbnsxx!19sChIJrR7NA9gIK4cRSBRhOsrQM_M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17524580142010143816",
+  "placeId": "ChIJrR7NA9gIK4cRSBRhOsrQM_M",
+  "googleRating": 3.6,
+  "googleReviewCount": 94,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2QeXBWNQx0li5w4OmOenGO7EvvulFmuzO5cFi0uIGh7spY-M6rWLgfmayM2H-PiOQIo7ecuDYgHLtVGMqtwBYIyCxw0RShsRB28_HHBLzL_TtW3xPwOQ5z2-l7Wpvb6ns_txS=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 3,
+    "3": 11,
+    "4": 18,
+    "5": 42
+  },
+  "hours": {
+    "mon": "7:30 AM - 5:00 PM",
+    "tue": "7:30 AM - 5:00 PM",
+    "wed": "7:30 AM - 5:00 PM",
+    "thu": "7:30 AM - 5:00 PM",
+    "fri": "7:30 AM - 5:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

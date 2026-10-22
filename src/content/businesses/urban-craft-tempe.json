@@ -1,0 +1,52 @@
+{
+  "slug": "urban-craft-tempe",
+  "name": "Urban Craft",
+  "category": "Restaurant",
+  "googleCategory": "New American restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Gastropub"
+  ],
+  "address": "4400 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3840753,
+  "lng": -111.92761739999999,
+  "phone": "+14808977444",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urban+Craft/data=!4m7!3m6!1s0x872b06203124a73b:0xef50cdaa2d796a8f!8m2!3d33.3840753!4d-111.9276174!16s%2Fg%2F11b69g5t3p!19sChIJO6ckMSAGK4cRj2p5LarNUO8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17244509103992695439",
+  "placeId": "ChIJO6ckMSAGK4cRj2p5LarNUO8",
+  "googleRating": 3.9,
+  "googleReviewCount": 78,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGTofx_boHCzWZ5cZ50fLnz1uiHiNDpKCbXJQzLd9CYUQQ8Wy9ad5UMtnaeEYLIsm9uqAfu6u-Bwk2Ww7llafwjMfMtpRBBFOr_SdiewjJm64NFY9-Q2vxRCD-UL5wzwTlMMrDtre9pr4j=w1200-h800-k-no",
+  "description": "Elevated bar snacks & American fare in a lively setting with ample patio seating & happy hour.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 5,
+    "3": 10,
+    "4": 21,
+    "5": 35
+  },
+  "hours": {
+    "mon": "5:00 PM - 10:00 PM",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "5:00 PM - 10:00 PM",
+    "sat": "5:00 PM - 10:00 PM",
+    "sun": "5:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -9,25 +9,16 @@
   "zip": "85281",
   "lat": 33.4139524,
   "lng": -111.8997474,
-  "googleMapsUrl": "https://www.google.com/maps?cid=2970811301828624083",
+  "googleMapsUrl": "https://www.google.com/maps/place/ReddHouse/data=!4m7!3m6!1s0x872b090073330755:0x293a71239435fed3!8m2!3d33.4139524!4d-111.8997474!16s%2Fg%2F11y79grh0f!19sChIJVQczcwAJK4cR0_41lCNxOik?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2970811301828624083",
   "placeId": "ChIJVQczcwAJK4cR0_41lCNxOik",
   "googleRating": 4.9,
-  "googleReviewCount": 26,
+  "googleReviewCount": 29,
   "priceRange": "$1–10",
   "description": "Located in Tempe, ReddHouse is a bakery with takeout & delivery.",
   "amenities": [
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 6:00 PM",
@@ -44,5 +35,11 @@
   "groundgameId": "6a2439a9a2d12cfa96a5f519",
   "seededAt": "2026-06-06T15:15:53Z",
   "updatedAt": "2026-07-29T18:51:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "4": 2,
+    "5": 27
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIrGwss-q40dtGUkYKV5hselqFy9gXcy5je-69CGtZBbxj25Dwclm23wz4eiIYxQiukAeY_jcE-o2o9Ww7KHdlpKMKkQfAov841jNQQWCCfUf67UInNx33SiAKrMK0J3eMjrxa=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

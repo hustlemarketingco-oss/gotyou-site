@@ -1,0 +1,42 @@
+{
+  "slug": "hair-x-alexis-tempe",
+  "name": "HAIR X ALEXIS",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1310 E Broadway Rd Ste 125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078343,
+  "lng": -111.9173163,
+  "phone": "+16027320086",
+  "website": "https://www.phorest.com/salon/dropdeadhairstudiomesalocation/book/services?staffId=yrxmWjnW8cwQ1Ok_4dNx8w",
+  "googleMapsUrl": "https://www.google.com/maps/place/HAIR+X+ALEXIS/data=!4m7!3m6!1s0x872b096c159e5f89:0x321de18455255480!8m2!3d33.4078343!4d-111.9173163!16s%2Fg%2F11vrlmj6kj!19sChIJiV-eFWwJK4cRgFQlVYThHTI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3611290434701448320",
+  "placeId": "ChIJiV-eFWwJK4cRgFQlVYThHTI",
+  "googleRating": 5,
+  "googleReviewCount": 16,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IcKpJjdVfK18_o5NQPqSjw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=288.69412&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 16
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

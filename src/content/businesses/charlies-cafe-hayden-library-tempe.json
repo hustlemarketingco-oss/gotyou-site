@@ -11,31 +11,15 @@
   "lng": -111.9346091,
   "phone": "+14805211024",
   "website": "https://flow.page/charliescafe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5944187453962950914",
+  "googleMapsUrl": "https://www.google.com/maps/place/Charlie%27s+Cafe+%7C+Hayden+Library/data=!4m7!3m6!1s0x872b09b672fd5d55:0x527dfefee7cb9902!8m2!3d33.4190234!4d-111.9346091!16s%2Fg%2F11x1qctp50!19sChIJVV39crYJK4cRApnL5_7-fVI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5944187453962950914",
   "placeId": "ChIJVV39crYJK4cRApnL5_7-fVI",
   "description": "Located in Tempe, Charlie's Cafe | Hayden Library is a casual cafe with coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Organic dishes",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "8:00 AM - 3:00 PM",
@@ -52,5 +36,7 @@
   "groundgameId": "6a24396062ce8d1c93d458a5",
   "seededAt": "2026-06-06T15:14:40Z",
   "updatedAt": "2026-06-06T15:14:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RVeEJABomilfJEj3zZ7aiQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=94.1445&pitch=0&thumbfov=100",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

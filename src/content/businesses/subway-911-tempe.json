@@ -1,0 +1,55 @@
+{
+  "slug": "subway-911-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "911 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4062826,
+  "lng": -111.9259392,
+  "phone": "+14809682129",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/911-e-broadway?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=54792&utm_campaign=evergreen-2020&y_source=1_MTQ4OTg3NjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b08ead4c511b9:0xed1cbef6259cdb53!8m2!3d33.4062826!4d-111.9259392!16s%2Fg%2F11h152c5q!19sChIJuRHF1OoIK4cRU9ucJfa-HO0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17085741050739088211",
+  "placeId": "ChIJuRHF1OoIK4cRU9ucJfa-HO0",
+  "googleRating": 3.9,
+  "googleReviewCount": 226,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEl4juCuUqnUbC1f6XrA446hxqmSJEfSCjVNbPuZUSKpBzCQ8FQ1mDEmfT0FqLDJZKCesOF47Y9ib9L70IaUzZoi8Sp7iIBLKo5SXAmWX6TlIMfMohhC_VHlxUjhcTMEmsLtoB=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 12,
+    "3": 13,
+    "4": 44,
+    "5": 119
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

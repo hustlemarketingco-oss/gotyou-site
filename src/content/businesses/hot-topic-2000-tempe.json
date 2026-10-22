@@ -1,0 +1,53 @@
+{
+  "slug": "hot-topic-2000-tempe",
+  "name": "Hot Topic",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Fashion accessories store",
+    "Music store",
+    "Novelty store",
+    "T-shirt store"
+  ],
+  "address": "2000 E Rio Salado Pkwy SPC 1129",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4337636,
+  "lng": -111.9024116,
+  "phone": "+14805579828",
+  "website": "https://www.hottopic.com/store-details?StoreId=0630",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hot+Topic/data=!4m7!3m6!1s0x872b08543eea7bab:0x5bbc9062c98e8150!8m2!3d33.4337636!4d-111.9024116!16s%2Fg%2F1td7cm0_!19sChIJq3vqPlQIK4cRUIGOyWKQvFs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6610317107035799888",
+  "placeId": "ChIJq3vqPlQIK4cRUIGOyWKQvFs",
+  "googleRating": 4.5,
+  "googleReviewCount": 352,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzbpLMhJFGZioQv8NxKOCC023BECCAzUoajQfPsWGa9J09GkzTxDj1L0oHAAhj3Qa72ykpOfdsKi2j3OhJ8wYMy9h3C8obZLrRF_Nf2CSNKMt3JJkGqKRprO4utMNNPwxHvN6bvg=w1200-h800-k-no",
+  "description": "Teen-oriented chain known for rock/pop-culture-inspired T-shirts, plus accessories & body jewelry.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 5,
+    "3": 27,
+    "4": 60,
+    "5": 249
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

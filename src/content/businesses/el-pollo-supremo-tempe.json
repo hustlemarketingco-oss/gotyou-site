@@ -15,10 +15,13 @@
   "phone": "+14809663713",
   "placeId": "ChIJP85HHNcIK4cRmMZROwXSemM",
   "googleRating": 4.7,
-  "googleReviewCount": 814,
+  "googleReviewCount": 822,
   "priceRange": "$",
   "amenities": [
-    "Cash"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
@@ -35,5 +38,16 @@
   "groundgameId": "6a3194f8439dc2a6d7c061f3",
   "seededAt": "2026-06-16T18:24:56Z",
   "updatedAt": "2026-08-06T19:05:37Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7168272676825450136",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Pollo+Supremo/data=!4m7!3m6!1s0x872b08d71c47ce3f:0x637ad2053b51c698!8m2!3d33.4215666!4d-111.942904!16s%2Fg%2F1tn01pr3!19sChIJP85HHNcIK4cRmMZROwXSemM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 18,
+    "3": 19,
+    "4": 70,
+    "5": 689
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3gwA7RgcqsJy0RBOoJl6uaS2lhKcct-fLfVqKhZcpq2h6lfXMje9ioXWjYC3RNsoXI09DwLBOTdCmeW48CI6BUpdpPhU4Gk0fVOL24lGS6KoijdSDnyeemH3JQIz3wjnmsG1MRg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

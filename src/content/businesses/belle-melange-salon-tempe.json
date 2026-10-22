@@ -1,0 +1,37 @@
+{
+  "slug": "belle-melange-salon-tempe",
+  "name": "Belle Melange Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "51 W Elliot Rd Ste 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348942699999995,
+  "lng": -111.9383355,
+  "googleMapsUrl": "https://www.google.com/maps/place/Belle+Melange+Salon/data=!4m7!3m6!1s0x872b044adfcc28c5:0x93f009b6b411dfc3!8m2!3d33.3489427!4d-111.9383355!16s%2Fg%2F1tflmx69!19sChIJxSjM30oEK4cRw98RtLYJ8JM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10660030998295732163",
+  "placeId": "ChIJxSjM30oEK4cRw98RtLYJ8JM",
+  "googleRating": 4.5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPmvD81OPe4HgouRFwKdeNtHVDjUQFzAdwPObbbSokOeIVirC_9yUhVS7tP6UsC00JyRtpNDq1_hCkQs2HpK2asGZgoFTOLxg5eVBDFnkkfNgpyEz-g5OAC_hOww9OCbC5Z7kY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 7
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

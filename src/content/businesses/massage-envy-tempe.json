@@ -21,7 +21,7 @@
   "website": "https://locations.massageenvy.com/arizona/tempe/1900-e-rio-salado-parkway.html",
   "placeId": "ChIJm_OvgVUIK4cRDX7j8p7gc48",
   "googleRating": 4.5,
-  "googleReviewCount": 416,
+  "googleReviewCount": 439,
   "hours": {
     "mon": "8:00 AM - 9:00 PM",
     "tue": "8:00 AM - 9:00 PM",
@@ -37,5 +37,21 @@
   "groundgameId": "6a32e62a0c9ba37126184f8f",
   "seededAt": "2026-06-17T18:23:38Z",
   "updatedAt": "2026-06-17T18:23:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10336852543029870093",
+  "googleMapsUrl": "https://www.google.com/maps/place/Massage+Envy/data=!4m7!3m6!1s0x872b085581aff39b:0x8f73e09ef2e37e0d!8m2!3d33.4303887!4d-111.9035828!16s%2Fg%2F1tfq9pn7!19sChIJm_OvgVUIK4cRDX7j8p7gc48?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 12,
+    "3": 12,
+    "4": 20,
+    "5": 361
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdspltTUyOlSpoEKsAvftRVKhk5h5d5oEjlHVoNA1bR3E8u4IIkR6FnqEZikPrOGiyjC3dCr9lGeWymHzKZ_RLK3nwFFvdNhZNQ4iq2499u36oTwKVyKUUvCYkynU9gIjMc9hBHOg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

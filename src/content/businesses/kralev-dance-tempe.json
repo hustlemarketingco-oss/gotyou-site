@@ -1,0 +1,48 @@
+{
+  "slug": "kralev-dance-tempe",
+  "name": "Kralev Dance",
+  "category": "Health & Beauty",
+  "googleCategory": "Dance school",
+  "secondaryCategories": [
+    "Ballroom dance instructor",
+    "Salsa classes"
+  ],
+  "address": "931 E Elliot Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347935899999996,
+  "lng": -111.9269102,
+  "phone": "+14804151119",
+  "website": "https://kralevdance.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kralev+Dance/data=!4m7!3m6!1s0x872b065e0e6aaaab:0x4e65331ab3ae92bf!8m2!3d33.3479359!4d-111.9269102!16s%2Fg%2F11fk0bcncr!19sChIJq6pqDl4GK4cRv5KusxozZU4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5648977497382884031",
+  "placeId": "ChIJq6pqDl4GK4cRv5KusxozZU4",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvRF9j5v5xl0gnLU78oH8VELViagv2p9R3DZQFXDmx3knviYCssCSfl8VO8OIgjTd8lxtSLfSD6Qu_5mBGKU2tXbVPrgKHivyq8qStadAdZtiVw7_xOwbUuppmVWvTscIGxrSt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

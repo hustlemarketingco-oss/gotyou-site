@@ -1,0 +1,48 @@
+{
+  "slug": "hair-land-tempe",
+  "name": "Hair Land",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty supply store",
+  "secondaryCategories": [
+    "Store"
+  ],
+  "address": "4325 S 48th St Unit 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3858508,
+  "lng": -111.9778455,
+  "phone": "+16024540523",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair+Land/data=!4m7!3m6!1s0x872b0f67c131b1f7:0x3af30b461e0b14ef!8m2!3d33.3858508!4d-111.9778455!16s%2Fg%2F1w3471yc!19sChIJ97ExwWcPK4cR7xQLHkYL8zo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4247751269320168687",
+  "placeId": "ChIJ97ExwWcPK4cR7xQLHkYL8zo",
+  "googleRating": 3.7,
+  "googleReviewCount": 158,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2oSaXyUx5NA1j2iuUz4w258VTszfcmT4qDWvvUQvDd4SHGv6GVAFBuA7_rl72Cd7KpiMV8HbjdAXONKySDXiYfCd1wYTFwFwf0VhxJIQ2L5iTYujKpxg2eSlvVvrHbfr6mgvB3nCKYWDeRVExPuC4w8j9yXa-1nGB9LWKAsq61W7gFixWZMJ8qlsU2ubWICVE_rGdc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 12,
+    "3": 25,
+    "4": 33,
+    "5": 66
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

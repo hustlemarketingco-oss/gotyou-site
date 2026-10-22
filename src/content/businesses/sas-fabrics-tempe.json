@@ -1,0 +1,46 @@
+{
+  "slug": "sas-fabrics-tempe",
+  "name": "SAS Fabrics",
+  "category": "Shopping",
+  "googleCategory": "Fabric store",
+  "address": "1700 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4151561,
+  "lng": -111.91056619999999,
+  "phone": "+14809667557",
+  "website": "https://www.sasfabrics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SAS+Fabrics/data=!4m7!3m6!1s0x872b08f4008e80fb:0x5dc36adc70c5c74!8m2!3d33.4151561!4d-111.9105662!16s%2Fg%2F1v2yz9_w!19sChIJ-4COAPQIK4cRdFwMx6023AU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "422272585062702196",
+  "placeId": "ChIJ-4COAPQIK4cRdFwMx6023AU",
+  "googleRating": 4.3,
+  "googleReviewCount": 888,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelkj-X7cv7ZfUlgl15euzn_LRjsAkTUS9TxgtpjEQORigWv3XTpRK2NSngcRn1ivh1UlH7LfN5hxE9x9qdo2OumjVbkv3CuxdXGVERb-0glQrpjOf-RZpaMcZafsLhopvkiUWb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 25,
+    "3": 57,
+    "4": 161,
+    "5": 587
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

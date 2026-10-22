@@ -23,7 +23,7 @@
   "website": "https://www.goldenrestaurantbakery.com/",
   "placeId": "ChIJldr3D10IK4cRxsmM2NfpOec",
   "googleRating": 4.6,
-  "googleReviewCount": 1461,
+  "googleReviewCount": 1483,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3da8f72a43534ca1917582",
   "seededAt": "2026-06-25T22:17:27Z",
   "updatedAt": "2026-07-01T22:13:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16661605409694206406",
+  "googleMapsUrl": "https://www.google.com/maps/place/Golden+Restaurant+%26+Bakery/data=!4m7!3m6!1s0x872b085d0ff7da95:0xe739e9d7d88cc9c6!8m2!3d33.4503057!4d-111.9251682!16s%2Fg%2F1hc9wft8c!19sChIJldr3D10IK4cRxsmM2NfpOec?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 69,
+    "2": 25,
+    "3": 63,
+    "4": 158,
+    "5": 1168
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyGbgJ8ts07mOjs3T030vTX9t3z8g0l2hSoLfY9qpDZVbVRhJY3byf7ue6eyT3qPX68B1GWrCO3HsURVHYi0lBIp89CkfhSbcjycDPv-M6LVilnxtrPqfaZH8KzMLHImk6sB8A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "the-burger-den-4403-tempe",
+  "name": "The Burger Den",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "4403 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3847547,
+  "lng": -111.92602629999999,
+  "phone": "+14808399392",
+  "website": "https://www.theburgerden.com/?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Burger+Den/data=!4m7!3m6!1s0x872b07ffa5293863:0x216a1f6ab2aac13e!8m2!3d33.3847547!4d-111.9260263!16s%2Fg%2F11t7zmyls7!19sChIJYzgppf8HK4cRPsGqsmofaiE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2407771493907480894",
+  "placeId": "ChIJYzgppf8HK4cRPsGqsmofaiE",
+  "googleRating": 2.2,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-7XugINYRiRBplM_FWewD091IMtMzuUdBZwZpx1-3IQEk4EiVFeBz0-y7SAz5B1VyLKbOcryeQjAYDnTrPHreSF4aOwJhNESSRfS4cY8PLJZHfnBn53HtS0nHV7EimF15t96F=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "5": 5
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

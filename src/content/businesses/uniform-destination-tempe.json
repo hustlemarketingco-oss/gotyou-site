@@ -1,0 +1,46 @@
+{
+  "slug": "uniform-destination-tempe",
+  "name": "Uniform Destination",
+  "category": "Shopping",
+  "googleCategory": "Uniform store",
+  "address": "5000 S Arizona Mills Cir #514",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3823851,
+  "lng": -111.9647913,
+  "phone": "+14808381442",
+  "website": "http://www.uniformdestination.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Uniform+Destination/data=!4m7!3m6!1s0x872b0f59e1444903:0xdd2a37518ec45d9e!8m2!3d33.3823851!4d-111.9647913!16s%2Fg%2F1260j_9wx!19sChIJA0lE4VkPK4cRnl3EjlE3Kt0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15936611054831033758",
+  "placeId": "ChIJA0lE4VkPK4cRnl3EjlE3Kt0",
+  "googleRating": 4.1,
+  "googleReviewCount": 122,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW6uZzUYbWTI2BVThvIfhdCyVi2a3K38RFShpN2DYsRGnHQlNO98xDz19Et7lCUNgixZNA6RE3lArDsfAelKVwd4yK1fI0zVII-fcUcz82P8SLtJVL720R18oofE2io-HVHxo7tg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 21,
+    "4": 19,
+    "5": 68
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

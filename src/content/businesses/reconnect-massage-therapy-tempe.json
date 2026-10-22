@@ -1,0 +1,41 @@
+{
+  "slug": "reconnect-massage-therapy-tempe",
+  "name": "Reconnect Massage Therapy",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "9030 S McClintock Dr #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332169799999996,
+  "lng": -111.9118094,
+  "website": "http://reconnectmassagetherapy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Reconnect+Massage+Therapy/data=!4m7!3m6!1s0x872b06e466d79ce7:0x8bdadc9185bd8c65!8m2!3d33.3321698!4d-111.9118094!16s%2Fg%2F12ll9h8v4!19sChIJ55zXZuQGK4cRZYy9hZHc2os?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10077609633767066725",
+  "placeId": "ChIJ55zXZuQGK4cRZYy9hZHc2os",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdckPP9VJIhZJyZWS5vOQYiiw8Dc6V8-Q5Qd-8Igxnv73R0wGBBWGsPPuZu1gFNPJDfbS0tmVfkjdoMZjSgpkcxuawGnY7f_MkthTVIA0tss-MslKbUcimkasOtfPGjCzOcMBZLHg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

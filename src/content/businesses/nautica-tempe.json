@@ -1,0 +1,52 @@
+{
+  "slug": "nautica-tempe",
+  "name": "Nautica",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Men's clothing store",
+    "Outerwear store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #262",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383123,
+  "lng": -111.964485,
+  "phone": "+14804912978",
+  "website": "https://stores.nautica.com/az/tempe/5000-s-arizona-mills-circle?utm_source=google&utm_medium=organic&utm_campaign=local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nautica/data=!4m7!3m6!1s0x872b0f2045e3d9cf:0x4305fa7c0d748049!8m2!3d33.383123!4d-111.964485!16s%2Fg%2F11sn_3v_r_!19sChIJz9njRSAPK4cRSYB0DXz6BUM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4829541586133352521",
+  "placeId": "ChIJz9njRSAPK4cRSYB0DXz6BUM",
+  "googleRating": 3.9,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNyMrWGkkeVw7aod9xYisaq9_5n2MnGVHnpOMdBcljKJwScx_Twnmn1ni-itzrPOITV6bPKBwS3GEiCogbkCBvQMrpYRigo_MviECUVVVkoc9HuogysRyyPxuPLmuTfqH8No-omA=w1200-h800-k-no",
+  "description": "Retail chain selling classic apparel, accessories & bedding inspired by the sea.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "4": 2,
+    "5": 10
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

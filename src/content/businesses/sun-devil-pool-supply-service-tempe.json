@@ -1,0 +1,50 @@
+{
+  "slug": "sun-devil-pool-supply-service-tempe",
+  "name": "Sun Devil Pool Supply & Service",
+  "category": "Shopping",
+  "googleCategory": "Swimming pool supply store",
+  "secondaryCategories": [
+    "Pool cleaning service",
+    "Swimming pool repair service"
+  ],
+  "address": "9880 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.322075999999996,
+  "lng": -111.928855,
+  "phone": "+14807530100",
+  "website": "http://www.sundevilpool.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sun+Devil+Pool+Supply+%26+Service/data=!4m7!3m6!1s0x872b069551cc66ed:0x30c657560d1bc64f!8m2!3d33.322076!4d-111.928855!16s%2Fg%2F1tfcz8g3!19sChIJ7WbMUZUGK4cRT8YbDVZXxjA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3514592586307978831",
+  "placeId": "ChIJ7WbMUZUGK4cRT8YbDVZXxjA",
+  "googleRating": 4.5,
+  "googleReviewCount": 113,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjwqm3CGLpein4ziqDKyQUwwEmLsCXpzds3XIdKffB0fxTxegPiurx7SSVQaCfmK70SlquvPoEklbNEmG-gTH2ExJ5jcGHYgkqBMA6H66cDdF5x78beXuvqm3XC5vl8gaVL182wekecJc=w1200-h800-k-no",
+  "description": "Pool filters, pumps, toys & supplies, plus cleaning & repairs are all offered at this retailer.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "4": 7,
+    "5": 92
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

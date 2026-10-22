@@ -1,0 +1,46 @@
+{
+  "slug": "az-tip-toes-nails-tempe",
+  "name": "AZ Tip & Toes Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "851 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421247,
+  "lng": -111.9516658,
+  "phone": "+14809663931",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZ+Tip+%26+Toes+Nails/data=!4m7!3m6!1s0x872b0926aaaaaaab:0x22cbfb1d4f635478!8m2!3d33.421247!4d-111.9516658!16s%2Fg%2F1td72g8x!19sChIJq6qqqiYJK4cReFRjTx37yyI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2507373720866346104",
+  "placeId": "ChIJq6qqqiYJK4cReFRjTx37yyI",
+  "googleRating": 4.4,
+  "googleReviewCount": 259,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn79vKtuxDQ-oIh0iu8cZWG2Z7Q4h2OBhjbW_3l_DOYVbJF6AXsUrNpmIyIeLEBmkBtv6zNdwTzKDZkNS5Eq8mEIc3kwNABQoF9zcSdm-pc7UzPLDcpzTzjIOFv49ZYOo81NEG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 6,
+    "3": 14,
+    "4": 28,
+    "5": 190
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

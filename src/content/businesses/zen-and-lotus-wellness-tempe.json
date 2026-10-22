@@ -1,0 +1,48 @@
+{
+  "slug": "zen-and-lotus-wellness-tempe",
+  "name": "Zen and Lotus Wellness",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Foot bath",
+    "Foot care",
+    "Reflexologist",
+    "Wellness center"
+  ],
+  "address": "2525 S Rural Rd Ste Studio 6S",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4017446,
+  "lng": -111.9253779,
+  "phone": "+14804364739",
+  "website": "http://www.zenandlotuswellness.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zen+and+Lotus+Wellness/data=!4m7!3m6!1s0x872b093cdeb9e78b:0xb45c156f6eea33dd!8m2!3d33.4017446!4d-111.9253779!16s%2Fg%2F11y97zhg2f!19sChIJi-e53jwJK4cR3TPqbm8VXLQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12996286193030804445",
+  "placeId": "ChIJi-e53jwJK4cR3TPqbm8VXLQ",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TXJmsByLROBL9qSNermYgw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=162.25568&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

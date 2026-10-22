@@ -1,0 +1,48 @@
+{
+  "slug": "salad-and-go-7800-tempe",
+  "name": "Salad and Go",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Salad shop"
+  ],
+  "address": "7800 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3470259,
+  "lng": -111.96363509999999,
+  "phone": "+14805917280",
+  "website": "https://www.saladandgo.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "googleMapsUrl": "https://www.google.com/maps/place/Salad+and+Go/data=!4m7!3m6!1s0x872b05f304fe9c73:0xeb198581c12c1a6!8m2!3d33.3470259!4d-111.9636351!16s%2Fg%2F11jpw78331!19sChIJc5z-BPMFK4cRpsESHFiYsQ4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1058794891604312486",
+  "placeId": "ChIJc5z-BPMFK4cRpsESHFiYsQ4",
+  "googleRating": 3.9,
+  "googleReviewCount": 362,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIWejWP07qYrqMH3HCSui3fxaIS9W6bEQ3KOnvuiiBndI9-xECYAbAcZp-BWfXmozO08m_hE7Vk9eaky2seZiCKA0yamGo4nqW9NtCUi8AExVWzFf1GGCRK7cV3gUZ87eF2lG02w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 64,
+    "2": 16,
+    "3": 15,
+    "4": 50,
+    "5": 217
+  },
+  "hours": {
+    "mon": "6:30 AM - 9:00 PM",
+    "tue": "6:30 AM - 9:00 PM",
+    "wed": "6:30 AM - 9:00 PM",
+    "thu": "6:30 AM - 9:00 PM",
+    "fri": "6:30 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

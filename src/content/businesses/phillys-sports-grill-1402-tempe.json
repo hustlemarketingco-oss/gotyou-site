@@ -15,20 +15,9 @@
   "priceRange": "$10–20",
   "description": "Cheesesteaks, burgers & beer served in an easygoing spot with flat-screen TVs & an outdoor patio.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://instagram.com/phillys_az"
@@ -39,5 +28,31 @@
   "groundgameId": "6a2438917556e92ecbc7e9e5",
   "seededAt": "2026-06-06T15:11:13Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ1zrKSi4PK4cRXNv4_O6Fk90",
+  "googleCid": "15966252365451418460",
+  "googleMapsUrl": "https://www.google.com/maps/place/Philly%27s+Sports+Grill/data=!4m7!3m6!1s0x872b0f2e4aca3ad7:0xdd9385eefcf8db5c!8m2!3d33.4129109!4d-111.9611776!16s%2Fg%2F11b7lq88jj!19sChIJ1zrKSi4PK4cRXNv4_O6Fk90?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 1570,
+  "ratingBreakdown": {
+    "1": 84,
+    "2": 56,
+    "3": 142,
+    "4": 376,
+    "5": 912
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU48122R9A-7iuosDdfL8NQD3-_HgsNBhHCtYp3lGMTj9mKjM3CNWDcCyLaTJj1l0WPge1pEC2xp7fDPu14-epmYyXt-Db-yo4dMw_1g0uG4mB46n6s1bnzoruHGYYYSDWfxMj=w1200-h800-k-no",
+  "website": "https://phillyssportsgrill.com/",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 2:00 AM"
+  },
+  "lat": 33.4129109,
+  "lng": -111.9611776,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

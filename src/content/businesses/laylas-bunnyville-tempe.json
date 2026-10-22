@@ -1,0 +1,51 @@
+{
+  "slug": "laylas-bunnyville-tempe",
+  "name": "Layla's Bunnyville",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Animal cafe",
+  "secondaryCategories": [
+    "Açaí shop",
+    "Restaurant"
+  ],
+  "address": "1701 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3341998,
+  "lng": -111.91345039999999,
+  "phone": "+15206197798",
+  "website": "https://www.laylasbunnyville.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Layla%27s+Bunnyville/data=!4m7!3m6!1s0x872b07d1b015bdf7:0x131a9d6709f2e7df!8m2!3d33.3341998!4d-111.9134504!16s%2Fg%2F11zjpjz2mz!19sChIJ970VsNEHK4cR3-fyCWedGhM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1376585701989214175",
+  "placeId": "ChIJ970VsNEHK4cR3-fyCWedGhM",
+  "googleRating": 4.9,
+  "googleReviewCount": 372,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCyMPQ5sZ03R7ymETm8VfHYafYYS5JtY-DQS2bWIYLCRwuiRD25H4xxoqauh3RnebHY5YyfU7pK_t_XFQTUQV2PYpLENsCKcMtbojY9MOM779qE5wUlgCuAQuXzeb1f2HYJyoYj8Bzj_DL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 6,
+    "3": 2,
+    "4": 3,
+    "5": 357
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "3:30 PM - 7:30 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

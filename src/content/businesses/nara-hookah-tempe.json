@@ -1,0 +1,44 @@
+{
+  "slug": "nara-hookah-tempe",
+  "name": "Nara Hookah",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "1290 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4429453,
+  "lng": -111.92756329999999,
+  "phone": "+16028741666",
+  "website": "https://narabar.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nara+Hookah/data=!4m7!3m6!1s0x872b0992bdee3d37:0xef6ef37399c23140!8m2!3d33.4429453!4d-111.9275633!16s%2Fg%2F11nqqs9tpf!19sChIJNz3uvZIJK4cRQDHCmXPzbu8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17252994900329378112",
+  "placeId": "ChIJNz3uvZIJK4cRQDHCmXPzbu8",
+  "googleRating": 4.9,
+  "googleReviewCount": 29,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLecUtPuuknOT0eIi5-TA4ZFj8lJJ99y2RHsNAqJ1I1yc75FjOxYPL3Oa1BVKrb2t4f2aWbq3HxKZlQpZ4XlYCQNagTUjpqmyXa3QzVN6JwH1_-4O0B2gh74F1Ohw4xmlEq0mqhWN4kZH0k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 28
+  },
+  "hours": {
+    "mon": "1:00 PM - 2:00 AM",
+    "tue": "1:00 PM - 2:00 AM",
+    "wed": "1:00 PM - 2:00 AM",
+    "thu": "1:00 PM - 2:00 AM",
+    "fri": "1:00 PM - 2:00 AM",
+    "sat": "1:00 PM - 2:00 AM",
+    "sun": "1:00 PM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -19,7 +19,7 @@
   "website": "https://restaurants.elpolloloco.com/az/tempe/1530-w-baseline",
   "placeId": "ChIJQWTgUwAPK4cRBEfVIR5cU58",
   "googleRating": 3.9,
-  "googleReviewCount": 57,
+  "googleReviewCount": 70,
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
     "tue": "10:00 AM - 10:00 PM",
@@ -35,5 +35,21 @@
   "groundgameId": "6a3d83916d4822d32a8a91e5",
   "seededAt": "2026-06-25T19:37:53Z",
   "updatedAt": "2026-06-25T19:37:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11480621159583926020",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Pollo+Loco/data=!4m7!3m6!1s0x872b0f0053e06441:0x9f535c1e21d54704!8m2!3d33.378973!4d-111.964731!16s%2Fg%2F11x5h6t15m!19sChIJQWTgUwAPK4cRBEfVIR5cU58?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 2,
+    "3": 6,
+    "4": 6,
+    "5": 43
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLsnkkrHUCj0MHVal-3MEoABqiMosFexGeySRKG51bQqkFegcfzx1V_JELPe4T4BJ9lHIAhdqSpgOaBTjVQTq7q21R7IcUU6Y2aYaH33QipBFE-A87WBoVYG2yVeEmr0UfpOEaM_6GBicV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "eos-fitness-1727-tempe",
+  "name": "EōS Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Indoor cycling",
+    "Personal trainer",
+    "Sauna",
+    "Weightlifting area",
+    "Yoga studio"
+  ],
+  "address": "1727 W Ranch Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3325137,
+  "lng": -111.9687798,
+  "phone": "+14806602480",
+  "website": "https://eosfitness.com/gym/tempe-warner-gym/?utm_source=local&utm_medium=organic&utm_campaign=evergreen_gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/E%C5%8DS+Fitness/data=!4m7!3m6!1s0x872b05b3b9ad1ccd:0xe585cc2fcd51a3b9!8m2!3d33.3325137!4d-111.9687798!16s%2Fg%2F11j6spqhwt!19sChIJzRytubMFK4cRuaNRzS_MheU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16538849712268223417",
+  "placeId": "ChIJzRytubMFK4cRuaNRzS_MheU",
+  "googleRating": 4.3,
+  "googleReviewCount": 1141,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9XSkLjkk0uZ4Ywq9zstKyG6W3XtDzzZduYVDtCE2OXzASO1C2J9G1UWJVHuFDafQLZGQiMQPcazjJ-H6K6EzGQGiyAsHHZBwUkRVkc3z_B6qUeUHJwHVYpWgOeDSNegPoDa10=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 149,
+    "2": 27,
+    "3": 38,
+    "4": 99,
+    "5": 828
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

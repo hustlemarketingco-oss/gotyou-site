@@ -20,8 +20,8 @@
   "phone": "+14809340375",
   "website": "https://www.nothingbundtcakes.com/find-a-bakery/az/tempe/bakery-916.html",
   "placeId": "ChIJSXA75cQJK4cR2YqfRq6xFjY",
-  "googleRating": 3.8,
-  "googleReviewCount": 36,
+  "googleRating": 4,
+  "googleReviewCount": 50,
   "priceRange": "$$",
   "hours": {
     "mon": "9:00 AM - 8:00 PM",
@@ -38,5 +38,20 @@
   "groundgameId": "6a34420f305195d8d97a6373",
   "seededAt": "2026-06-18T19:07:59Z",
   "updatedAt": "2026-08-06T20:09:55Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3897497889603029721",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nothing+Bundt+Cakes/data=!4m7!3m6!1s0x872b09c4e53b7049:0x3616b1ae469f8ad9!8m2!3d33.4323003!4d-111.9031267!16s%2Fg%2F11y91cg_b4!19sChIJSXA75cQJK4cR2YqfRq6xFjY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 35
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs3dJQcehcXcQSB12Wp8KUKiVKJ5CBUVhLJGbFpP1Zdx4tq_-l0GHC0pmd8sXlydumnT9JwPVMvyRX0c_uOYlolERoMFY5IPMmLgJ4-LyO2md2oPxBJT4Q6DbiigG5agtCKE5buZPD4biQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

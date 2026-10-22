@@ -1,0 +1,43 @@
+{
+  "slug": "knockout-fitness-tempe",
+  "name": "Knockout Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Boxing gym",
+  "address": "3217 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3937649,
+  "lng": -111.9386222,
+  "phone": "+14806798217",
+  "website": "https://knockout-fitness.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Knockout+Fitness/data=!4m7!3m6!1s0x872b097ca08144a9:0xf5ebd767a1f13e1e!8m2!3d33.3937649!4d-111.9386222!16s%2Fg%2F11x6jj3pjr!19sChIJqUSBoHwJK4cRHj7xoWfX6_U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17720493998917893662",
+  "placeId": "ChIJqUSBoHwJK4cRHj7xoWfX6_U",
+  "googleRating": 4.7,
+  "googleReviewCount": 37,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcA24Bqg2NP8I4YrLG4VDftaZLlx9Qdq5NL2Z099Z3MkzZjyt3qb4tId3_w7pBNydJnhmiB4R9O_8cXOHznUlJaFNkYYEfgKRF5QXW3RDml8INzTPeq9E0D-I8efl_04P5XALTj7kLZMSw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 34
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

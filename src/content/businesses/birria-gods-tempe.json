@@ -1,0 +1,45 @@
+{
+  "slug": "birria-gods-tempe",
+  "name": "Birria Gods",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "2155 E University Dr Unit 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421207599999995,
+  "lng": -111.8923866,
+  "phone": "+14804317224",
+  "website": "https://birriagods.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Birria+Gods/data=!4m7!3m6!1s0x872b0932e01a8253:0xf6502d6d5218bcf7!8m2!3d33.4212076!4d-111.8923866!16s%2Fg%2F11ycmgpth1!19sChIJU4Ia4DIJK4cR97wYUm0tUPY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17748736079019162871",
+  "placeId": "ChIJU4Ia4DIJK4cR97wYUm0tUPY",
+  "googleRating": 3.5,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekeET_U-4FXYRuD6yOGiksDFMtrnYuPoeuUz2CyW0pz5SzdgLNBB7x4RVKu2JIfoT5QRQZAQMXGzA15ppddJkHld8YSfGqxx9948WtyNye8WeDU60jd7Owgm-MZN7b_n_Wwfg0YKf8n-UA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 1:00 AM",
+    "tue": "9:00 AM - 1:00 AM",
+    "wed": "9:00 AM - 1:00 AM",
+    "thu": "9:00 AM - 1:00 AM",
+    "fri": "9:00 AM - 2:30 AM",
+    "sat": "9:00 AM - 2:30 AM",
+    "sun": "9:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

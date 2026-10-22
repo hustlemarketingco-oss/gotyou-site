@@ -1,0 +1,55 @@
+{
+  "slug": "subway-1320-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "1320 W Elliot Rd Suite 109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495036,
+  "lng": -111.9603453,
+  "phone": "+14808971816",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/1320-w-elliot-rd?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=12499&utm_campaign=evergreen-2020&y_source=1_MTQ4OTM4NjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b05da3e4fc3a5:0x1562528737ddb166!8m2!3d33.3495036!4d-111.9603453!16s%2Fg%2F1tf821m8!19sChIJpcNPPtoFK4cRZrHdN4dSYhU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1540884763225469286",
+  "placeId": "ChIJpcNPPtoFK4cRZrHdN4dSYhU",
+  "googleRating": 3.7,
+  "googleReviewCount": 326,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd6AsUK6Jo6TTz6_bZHdVd9rVpW_x_oUv23f0BP2wUaUX913sMcD6fS6xuQNfQXCSSzrLOAJLoRZCOe-BV_o3cShbKD3oGuZgITVlXKiq8Szq2hSc75UutWxMDUZ3lTY9Ry3GA=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 75,
+    "2": 13,
+    "3": 18,
+    "4": 52,
+    "5": 168
+  },
+  "hours": {
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 12:00 AM",
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

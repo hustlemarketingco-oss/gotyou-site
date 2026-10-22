@@ -1,0 +1,53 @@
+{
+  "slug": "muscle-factory-gym-tempe",
+  "name": "Muscle Factory Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Personal trainer",
+    "Weight loss service",
+    "Weightlifting area"
+  ],
+  "address": "1301 E University Dr Unit 125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4215739,
+  "lng": -111.91728739999999,
+  "phone": "+14809211110",
+  "website": "https://musclefactoryaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Muscle+Factory+Gym/data=!4m7!3m6!1s0x872b08e5312b17e7:0xaf98777aaaa9ca65!8m2!3d33.4215739!4d-111.9172874!16s%2Fg%2F1tn4ymm8!19sChIJ5xcrMeUIK4cRZcqpqnp3mK8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12652994521830378085",
+  "placeId": "ChIJ5xcrMeUIK4cRZcqpqnp3mK8",
+  "googleRating": 4.6,
+  "googleReviewCount": 269,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXzQFCF_tK0BNjxe6xX6gBXy0HZO4Q0iXXrm5IDhZNRaaJ5M4CRvkxT5O2uk-dw4e6qbKTJOkGAsYHkMnRm1qEVAqOhVlLTAqW5Jsd_IS-HMvXkfDrTncF4MkjK_UPZ7--eVsw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 5,
+    "3": 5,
+    "4": 16,
+    "5": 229
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

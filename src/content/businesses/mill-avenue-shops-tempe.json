@@ -1,0 +1,45 @@
+{
+  "slug": "mill-avenue-shops-tempe",
+  "name": "Mill Avenue Shops",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "414 S Mill Ave #114",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "googleMapsUrl": "https://www.google.com/maps/place/Mill+Avenue+Shops/data=!4m7!3m6!1s0x872b097cf0cbcd0f:0x6463b4045e471492!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F11h8l743c4!19sChIJD83L8HwJK4cRkhRHXgS0Y2Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7233823357341734034",
+  "placeId": "ChIJD83L8HwJK4cRkhRHXgS0Y2Q",
+  "googleRating": 4.5,
+  "googleReviewCount": 360,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1qrMD5LEsklqHC03J8KlHVg4sft7ljh-m0OgIaCIOctNky1o_Sn8YUQdnFhUWGjAcXMFRyYmC3-zZ6cOkWLfGgNbNn9TvMnq2Tr5kGatpG1iW4ylHPxlVqWeoo1DCwUmwViUW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 5,
+    "3": 23,
+    "4": 75,
+    "5": 249
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

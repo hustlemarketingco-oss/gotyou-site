@@ -20,13 +20,13 @@
   "website": "https://www.postino.com/locations/postino-annex",
   "placeId": "ChIJ9Wd6mGYGK4cRiWd0_bkohHg",
   "googleRating": 4.6,
-  "googleReviewCount": 2502,
+  "googleReviewCount": 2566,
   "priceRange": "$$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 11:00 PM",
@@ -43,5 +43,16 @@
   "groundgameId": "6a25b33ddf89d21dfac2ec65",
   "seededAt": "2026-06-07T18:06:53Z",
   "updatedAt": "2026-06-27T00:30:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8684110760763484041",
+  "googleMapsUrl": "https://www.google.com/maps/place/Postino+Annex/data=!4m7!3m6!1s0x872b0666987a67f5:0x788428b9fd746789!8m2!3d33.4238482!4d-111.9347356!16s%2Fg%2F11b67k5z2j!19sChIJ9Wd6mGYGK4cRiWd0_bkohHg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 60,
+    "2": 42,
+    "3": 114,
+    "4": 445,
+    "5": 1905
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc7eYa0nyaKVieYMv8xYIZdwfVDZj_OYZAWDck6P5Ag6XubzIqWP5wbur7_0uyVLtQdOVaIF_25GgBP2G2xCoiGvtmG_-06p610IzAtKRB3xUIGfbxcp99M81MFGrWyZHD02Nqyw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,47 @@
+{
+  "slug": "b-b-pools-tempe",
+  "name": "B & B Pools",
+  "category": "Shopping",
+  "googleCategory": "Swimming pool supply store",
+  "address": "1813 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377555199999996,
+  "lng": -111.9069317,
+  "phone": "+14808394340",
+  "website": "http://bandbpoolstempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/B+%26+B+Pools/data=!4m7!3m6!1s0x872b063260bb3a9f:0x8fdeacf14ad0698c!8m2!3d33.3775552!4d-111.9069317!16s%2Fg%2F1td6bbfq!19sChIJnzq7YDIGK4cRjGnQSvGs3o8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10366913544595728780",
+  "placeId": "ChIJnzq7YDIGK4cRjGnQSvGs3o8",
+  "googleRating": 4.7,
+  "googleReviewCount": 364,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTPlZtF02WgGQW_hlOw7NFvCsifKKFMwmofh7XoJf1KwMVzS27eAy0nGPn67Qz0g82B0GjmbJb8a4JCe3TB0Fzv4ttyUwIXdveKR0Jzqfs6sB13KOvn9T3UilKdrw_JiLXAeuXDox-VNY=w1200-h800-k-no",
+  "description": "Retailer for swimming pool chemicals, cleaning supplies, equipment & parts, plus repair services.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 6,
+    "3": 3,
+    "4": 20,
+    "5": 317
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "elite-lash-studio-tempe",
+  "name": "Elite Lash Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "209 E Baseline Rd suite e-108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377566,
+  "lng": -111.9373911,
+  "phone": "+14804923009",
+  "googleMapsUrl": "https://www.google.com/maps/place/Elite+Lash+Studio/data=!4m7!3m6!1s0x872b061b94aa18d7:0xa2795cbc42eff11f!8m2!3d33.377566!4d-111.9373911!16s%2Fg%2F11by_y4hzz!19sChIJ1xiqlBsGK4cRH_HvQrxceaI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11707490669972943135",
+  "placeId": "ChIJ1xiqlBsGK4cRH_HvQrxceaI",
+  "googleRating": 3.5,
+  "googleReviewCount": 22,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EsuTHN3WKP80j5o3RrL-8g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=3.419052&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 11
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

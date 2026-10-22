@@ -1,0 +1,43 @@
+{
+  "slug": "karaoke-nights-mill-towne-hall-tempe",
+  "name": "KARAOKE NIGHTS @ MILL TOWNE HALL",
+  "category": "Bars & Pubs",
+  "googleCategory": "Karaoke bar",
+  "address": "235 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377493799999996,
+  "lng": -111.9357277,
+  "phone": "+14809438663",
+  "website": "https://www.azmomdesigns.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/KARAOKE+NIGHTS+@+MILL+TOWNE+HALL/data=!4m7!3m6!1s0x872b07718ac64337:0xa4188dbf2b0aabb5!8m2!3d33.3774938!4d-111.9357277!16s%2Fg%2F11wc1q62dn!19sChIJN0PGinEHK4cRtasKK7-NGKQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11824356673861626805",
+  "placeId": "ChIJN0PGinEHK4cRtasKK7-NGKQ",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fwZvinxo2Zt2AOaVx67EcQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=108.99222&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "4:00 PM - 11:00 PM",
+    "tue": "4:00 PM - 12:00 AM",
+    "wed": "4:00 PM - 12:00 AM",
+    "thu": "4:00 PM - 12:00 AM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

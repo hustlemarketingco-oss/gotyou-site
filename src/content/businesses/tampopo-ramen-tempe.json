@@ -16,7 +16,7 @@
   "website": "http://tampoporamenaz.com/",
   "placeId": "ChIJWwYROoEIK4cRLh76V_5NPvY",
   "googleRating": 4.5,
-  "googleReviewCount": 1814,
+  "googleReviewCount": 1824,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a4e916bb5d4320d7a67ac18",
   "seededAt": "2026-07-08T18:05:31Z",
   "updatedAt": "2026-07-08T18:05:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17743705336679374382",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tampopo+Ramen/data=!4m7!3m6!1s0x872b08813a11065b:0xf63e4dfe57fa1e2e!8m2!3d33.3938104!4d-111.9086261!16s%2Fg%2F11bwqn5dhc!19sChIJWwYROoEIK4cRLh76V_5NPvY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 72,
+    "2": 57,
+    "3": 120,
+    "4": 299,
+    "5": 1276
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexO0cDGIeqXBwnAcB3uu0U2qcv67rEAjbzalpNQXVsKkg4DC6zK3sFSOsKNP1aENh82cvzlLz0l_D3WlkZAFXyv-Z1PtM3oQOiWjduxVjshAuXgXcbZ9HyJt1-TC30Cccbpbc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

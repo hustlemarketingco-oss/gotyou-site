@@ -1,0 +1,54 @@
+{
+  "slug": "camille-la-vie-tempe",
+  "name": "Camille La Vie",
+  "category": "Shopping",
+  "googleCategory": "Dress store",
+  "secondaryCategories": [
+    "Bridal shop",
+    "Formal wear store",
+    "Shoe store",
+    "Wedding store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #335",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3816694,
+  "lng": -111.963899,
+  "phone": "+16233037529",
+  "website": "https://camillelavie.com/pages/tempe-store",
+  "googleMapsUrl": "https://www.google.com/maps/place/Camille+La+Vie/data=!4m7!3m6!1s0x872b0f59e1444903:0x4654d671f1e7fed5!8m2!3d33.3816694!4d-111.963899!16s%2Fg%2F1tgfx2kw!19sChIJA0lE4VkPK4cR1f7n8XHWVEY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5067911265576812245",
+  "placeId": "ChIJA0lE4VkPK4cR1f7n8XHWVEY",
+  "googleRating": 4.4,
+  "googleReviewCount": 379,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPdYC7y_Uj5jlDuWpvb7b-C_LMme4fuQftUvQ8K0qE5mxyZXQXZAHASnBgLAbfp-Sd_xUD3L-fzW70aJTKCLVrCJrb90tX5nh6CP4xPYGC4XoJmwhR1Xf5TIatraR26pXpObKnmwTuOEMI=w1200-h800-k-no",
+  "description": "Dresses, shoes & accessories for special occasions, including prom, homecoming, weddings & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 10,
+    "3": 25,
+    "4": 38,
+    "5": 279
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

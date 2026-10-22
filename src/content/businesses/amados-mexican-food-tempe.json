@@ -1,0 +1,54 @@
+{
+  "slug": "amados-mexican-food-tempe",
+  "name": "Amado's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Fast food restaurant",
+    "Taco restaurant"
+  ],
+  "address": "6022 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3658741,
+  "lng": -111.91177359999999,
+  "phone": "+14807551913",
+  "website": "https://amadosmexicanfoodaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Amado%27s+Mexican+Food/data=!4m7!3m6!1s0x872b06361cce9e8d:0xf9a696f150bb677b!8m2!3d33.3658741!4d-111.9117736!16s%2Fg%2F1tg_xk6_!19sChIJjZ7OHDYGK4cRe2e7UPGWpvk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17989231724763768699",
+  "placeId": "ChIJjZ7OHDYGK4cRe2e7UPGWpvk",
+  "googleRating": 4.4,
+  "googleReviewCount": 1420,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIcZhH4meUBOrq7iryFysef1IPbLX_cdtj9zD3lYcIZJL6hdZl8mhZKfcvQEmr7skuzPDGzjtNIPJLlAoM6GcveTiwBCEvbi-espAET-ZOEMVnj7lpoMwDLV6QL15ktxLzM6ZrT8a4I2hI=w1200-h800-k-no",
+  "description": "Tacos, burritos & other Mexican staples turned out in basic counter-serve digs with booths & murals.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 78,
+    "2": 43,
+    "3": 109,
+    "4": 244,
+    "5": 946
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

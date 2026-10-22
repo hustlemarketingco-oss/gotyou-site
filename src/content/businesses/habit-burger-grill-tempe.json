@@ -1,0 +1,53 @@
+{
+  "slug": "habit-burger-grill-tempe",
+  "name": "Habit Burger & Grill",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "1817 E Guadalupe Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3628449,
+  "lng": -111.91068589999999,
+  "phone": "+14804568912",
+  "website": "https://order.habitburger.com/store/40/category",
+  "googleMapsUrl": "https://www.google.com/maps/place/Habit+Burger+%26+Grill/data=!4m7!3m6!1s0x872b064bdf16227d:0x969bc324e540fd93!8m2!3d33.3628449!4d-111.9106859!16s%2Fg%2F1tslk5h3!19sChIJfSIW30sGK4cRk_1A5STDm5Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10852482290311822739",
+  "placeId": "ChIJfSIW30sGK4cRk_1A5STDm5Y",
+  "googleRating": 4.1,
+  "googleReviewCount": 1484,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_UiX3iTpFQLO80QxXep8fHqkYtoR-01wMvCYt_Tb4MR_YRvyGt_GJyZxIEO1tejA1-VCpO5fBREO7LCrbyRcRt7N4Og-coO3oPxEmmRu4XBhKQsWPC-3F7Kn3SpzoXJhtHvaIuxA9GJ48=w1200-h800-k-no",
+  "description": "Charbroiled burgers star at this fast-food chain also offering deli-type sandwiches, salads & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 136,
+    "2": 60,
+    "3": 109,
+    "4": 326,
+    "5": 853
+  },
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "10:30 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

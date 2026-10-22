@@ -1,0 +1,46 @@
+{
+  "slug": "twist-stylez-salon-suites-tempe",
+  "name": "Twist & Stylez Salon & Suites",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "4646 S Ash Ave #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382717,
+  "lng": -111.94266259999999,
+  "phone": "+12023916335",
+  "googleMapsUrl": "https://www.google.com/maps/place/Twist+%26+Stylez+Salon+%26+Suites/data=!4m7!3m6!1s0x872b08983c46b38f:0xc122d91bd3430d1c!8m2!3d33.382717!4d-111.9426626!16s%2Fg%2F11bwpdr6hw!19sChIJj7NGPJgIK4cRHA1D0xvZIsE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13916924512059985180",
+  "placeId": "ChIJj7NGPJgIK4cRHA1D0xvZIsE",
+  "googleRating": 4.6,
+  "googleReviewCount": 168,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcumi92U-AARKXIsA6uGCENBVXObYnCKgcqRqyzJpfSrskq6GT6mFl0VYPZEk0FB3f6Ot3o-BO5xhKTd1gTgbHRVFBWJNJiS-0kgczbIvRhBnFP66NEMRXOFLemqUz79CxtxTnJ5w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 3,
+    "4": 15,
+    "5": 136
+  },
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

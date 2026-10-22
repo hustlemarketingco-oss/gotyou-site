@@ -1,0 +1,43 @@
+{
+  "slug": "the-glam-don-tempe",
+  "name": "The Glam Don",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "930 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078778,
+  "lng": -111.9540425,
+  "phone": "+14806258952",
+  "website": "https://theglamdon.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Glam+Don/data=!4m7!3m6!1s0x872b0fb211c85435:0xa2fa9a6d11ea6703!8m2!3d33.4078778!4d-111.9540425!16s%2Fg%2F11vys3gnly!19sChIJNVTIEbIPK4cRA2fqEW2a-qI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11743868771564676867",
+  "placeId": "ChIJNVTIEbIPK4cRA2fqEW2a-qI",
+  "googleRating": 4.2,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OozXh7sKwlEE2-haqPX0UQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=173.18002&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 4
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 1:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

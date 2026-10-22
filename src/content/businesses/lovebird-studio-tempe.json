@@ -1,0 +1,41 @@
+{
+  "slug": "lovebird-studio-tempe",
+  "name": "Lovebird Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Hairdresser"
+  ],
+  "address": "S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4199645,
+  "lng": -111.9402789,
+  "phone": "+14805591714",
+  "website": "http://lovebirdstudioaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lovebird+Studio/data=!4m7!3m6!1s0x872b09ac287a54bd:0xe7a41a47cb84c3f3!8m2!3d33.4199645!4d-111.9402789!16s%2Fg%2F11rtdwyrfs!19sChIJvVR6KKwJK4cR88OEy0capOc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16691495014601376755",
+  "placeId": "ChIJvVR6KKwJK4cR88OEy0capOc",
+  "googleRating": 5,
+  "googleReviewCount": 24,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0ihFsYWCOFblPrlcEUvKFhu2SCnntAlqNKYPJ2wiAhS83SerBWgFBR15dWM2wTXBx7X57vMX4mTbRdDkP0-4h0V-apzTMUCuGDaqiW29HXXIovNelgBMOBvsNizZMrqhOhLmiJbaLLwss=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 24
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

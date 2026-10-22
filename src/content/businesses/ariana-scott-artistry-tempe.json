@@ -1,0 +1,36 @@
+{
+  "slug": "ariana-scott-artistry-tempe",
+  "name": "Ariana Scott Artistry",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1761 E Warner Rd Unit 130",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3334,
+  "lng": -111.91268799999999,
+  "phone": "+14804661987",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ariana+Scott+Artistry/data=!4m7!3m6!1s0x872b07f8697b0811:0x6106c2eaab2f1690!8m2!3d33.3334!4d-111.912688!16s%2Fg%2F11h1f1_tq0!19sChIJEQh7afgHK4cRkBYvq-rCBmE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6991489784689399440",
+  "placeId": "ChIJEQh7afgHK4cRkBYvq-rCBmE",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK3sVE3ENPrstciEMfMEd-fYGSIy6KmNuXtN_PhcdHh2cQW48rhUjoup334Ei0MDoF34JTL3AIjzGhpYzZTbV3VT_ZVrvKPCXro-tvR04cKCk6EAmW0DbMUla-OGBarMVsgfc3wA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

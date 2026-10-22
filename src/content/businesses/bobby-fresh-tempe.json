@@ -1,0 +1,45 @@
+{
+  "slug": "bobby-fresh-tempe",
+  "name": "Bobby Fresh",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1920 E 3rd St #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4277677,
+  "lng": -111.9036155,
+  "phone": "+13236392919",
+  "website": "http://www.bobbyfresh.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bobby+Fresh/data=!4m7!3m6!1s0x872b0855f9163737:0x4178284e8fce640b!8m2!3d33.4277677!4d-111.9036155!16s%2Fg%2F1pty0gljr!19sChIJNzcW-VUIK4cRC2TOj04oeEE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4717564927555822603",
+  "placeId": "ChIJNzcW-VUIK4cRC2TOj04oeEE",
+  "googleRating": 3.1,
+  "googleReviewCount": 110,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdF6A5iqQMxN3aLOQwlZCaR_1UY2TXmg9P1IIEavIyh5ADwkB1rpsfi55pZZPSq5JgFPVFFh_wGxh7YN0ywkZGDd2uB8tOOHt5eWxASK3yMZ0H6nMb6thuMlXW4SBFqvB4frO3Grg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 2,
+    "4": 2,
+    "5": 56
+  },
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

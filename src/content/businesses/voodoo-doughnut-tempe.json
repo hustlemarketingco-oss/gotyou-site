@@ -16,7 +16,7 @@
   "website": "https://www.voodoodoughnut.com/",
   "placeId": "ChIJU5kNngAJK4cRTCNM7nb5stI",
   "googleRating": 4.3,
-  "googleReviewCount": 734,
+  "googleReviewCount": 767,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 12:00 AM",
@@ -33,5 +33,21 @@
   "groundgameId": "6a514b93a9c54baed6d1fc0e",
   "seededAt": "2026-07-10T19:44:19Z",
   "updatedAt": "2026-10-09T22:42:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15182471583018787660",
+  "googleMapsUrl": "https://www.google.com/maps/place/Voodoo+Doughnut/data=!4m7!3m6!1s0x872b09009e0d9953:0xd2b2f976ee4c234c!8m2!3d33.4136129!4d-111.9267482!16s%2Fg%2F11tggn9wv4!19sChIJU5kNngAJK4cRTCNM7nb5stI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 36,
+    "3": 62,
+    "4": 78,
+    "5": 533
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8GDgobFWpHvqOV307i1fImaMCGuFWyqnfeJPbycs3mS_tEguSP5RJWea3eqctknF4GGMwFZA4uJNFB_KYrfycjKASME4vDXPdO5h5KMvfvLCgNdSZO6LoEMce5Q3aJ-8szcYV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

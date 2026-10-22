@@ -1,0 +1,42 @@
+{
+  "slug": "apn-chic-tempe",
+  "name": "APN Chic",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Eyebrow bar",
+    "Facial spa"
+  ],
+  "address": "227 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777584,
+  "lng": -111.9359006,
+  "phone": "+14802697089",
+  "website": "https://apnchic.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/APN+Chic/data=!4m7!3m6!1s0x872b07b82bb8c05d:0x559adc5319e8b851!8m2!3d33.3777584!4d-111.9359006!16s%2Fg%2F11j93pvgr8!19sChIJXcC4K7gHK4cRUbjoGVPcmlU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6168484889112393809",
+  "placeId": "ChIJXcC4K7gHK4cRUbjoGVPcmlU",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUn5FvOT-pH7_Z_MpRWLAHPxh3gCNDd4BTR8g72h2Omvza5zWRvveQL-U34B9tnOdKFnJgdHFoEmyV0fuhiRHx-NN30g4RomfvY1aZaaQA6bYNVJFYT3HOrPhBgMFM7DrRGgf67g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "7:00 PM - 9:00 PM",
+    "tue": "7:00 PM - 9:00 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "7:00 AM - 9:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

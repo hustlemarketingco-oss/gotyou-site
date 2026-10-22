@@ -1,0 +1,46 @@
+{
+  "slug": "taste-of-philly-tempe",
+  "name": "Taste of Philly",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "website": "https://www.tasteofphilly.biz/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taste+of+Philly/data=!4m7!3m6!1s0x872b097dc7cbb339:0x23cac9c9868d46dd!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11w92dngl6!19sChIJObPLx30JK4cR3UaNhsnJyiM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2579095604006045405",
+  "placeId": "ChIJObPLx30JK4cR3UaNhsnJyiM",
+  "googleRating": 4.1,
+  "googleReviewCount": 89,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaFFE93c8C2f8d0SUy7375XVtjGoTFH8Luonpmn4aQ4WscjrsWkuT52-LyqkKaxd2viAgwf6ZM6-QqyOeDUnsSdg6Y2tS2OrYkq2AqnO5yV8seWcpOLzx7uExi1Sm8Pjot_1e3Lg=w1200-h800-k-no",
+  "description": "Local sandwich chain offering Philadelphia-style cheesesteaks & hoagies with all the trimmings.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 2,
+    "3": 3,
+    "4": 6,
+    "5": 63
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

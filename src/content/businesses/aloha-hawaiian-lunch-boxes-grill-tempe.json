@@ -2,7 +2,7 @@
   "slug": "aloha-hawaiian-lunch-boxes-grill-tempe",
   "name": "Aloha Hawaiian lunch boxes & grill",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Hawaiian restaurant",
   "address": "1900 E 5th St",
   "city": "Tempe",
   "state": "AZ",
@@ -10,33 +10,18 @@
   "lat": 33.4261186,
   "lng": -111.9040883,
   "phone": "+14807876255",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3569741958629042285",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aloha+Hawaiian+lunch+boxes+%26+grill/data=!4m7!3m6!1s0x872b095dddaea635:0x318a4565e7e4286d!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11vb14dsgq!19sChIJNaau3V0JK4cRbSjk52VFijE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3569741958629042285",
   "placeId": "ChIJNaau3V0JK4cRbSjk52VFijE",
   "googleRating": 3.8,
-  "googleReviewCount": 38,
+  "googleReviewCount": 37,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Aloha Hawaiian lunch boxes & grill is a casual restaurant with comfort food & quick bite, takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 2:00 AM",
@@ -53,5 +38,14 @@
   "groundgameId": "6a2439e508bed5b1c44ec376",
   "seededAt": "2026-06-06T15:16:53Z",
   "updatedAt": "2026-07-27T19:46:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 23
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4d8r8AIyXWH2XDHq4KowDH63wIx_3kbX5j4ftMPzs_8qbt7Q7NKD3e8s-caNurVpiDYPDU43Y4NNGmgPTKrIg9ZIyNFqy2tx3q9G-B2VWnroncSID_V-TruqfBGKkrhEFBxjx=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

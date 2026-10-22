@@ -1,0 +1,50 @@
+{
+  "slug": "posh-nail-lounge-tempe",
+  "name": "Posh Nail Lounge - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Eyelash salon"
+  ],
+  "address": "1825 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3614488,
+  "lng": -111.9100485,
+  "phone": "+14805906703",
+  "googleMapsUrl": "https://www.google.com/maps/place/Posh+Nail+Lounge+-+Tempe/data=!4m7!3m6!1s0x872b070c3bfd4939:0xd70770ef10dcbb1a!8m2!3d33.3614488!4d-111.9100485!16s%2Fg%2F11lgs6x7t0!19sChIJOUn9OwwHK4cRGrvcEO9wB9c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15494477215073876762",
+  "placeId": "ChIJOUn9OwwHK4cRGrvcEO9wB9c",
+  "googleRating": 4.3,
+  "googleReviewCount": 241,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWFAhYLzcEjCvlNA41J2hXQKC7WJWjw94UJfsy0sOyt6pD3zhtuPv7KScpNIgGPanJ_QMDuMThwQeePTJvXjxtwWxF36k7g7JVxP_tMRjQVtSFGnbQFB4gNpOz_9Agfx7pCZVgyKKwPHI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 8,
+    "3": 6,
+    "4": 13,
+    "5": 186
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

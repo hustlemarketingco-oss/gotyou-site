@@ -1,0 +1,52 @@
+{
+  "slug": "guitar-center-tempe",
+  "name": "Guitar Center",
+  "category": "Shopping",
+  "googleCategory": "Music store",
+  "secondaryCategories": [
+    "Guitar store",
+    "Musical instrument rental service",
+    "Musical instrument repair shop",
+    "Musical instrument store",
+    "Piano store"
+  ],
+  "address": "8538 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3369704,
+  "lng": -111.9701812,
+  "phone": "+14805929633",
+  "website": "https://stores.guitarcenter.com/az/tempe/151?source=4GOA5AJBA",
+  "googleMapsUrl": "https://www.google.com/maps/place/Guitar+Center/data=!4m7!3m6!1s0x872b05d9fe517ae5:0x1035d6025d7502cc!8m2!3d33.3369704!4d-111.9701812!16s%2Fg%2F1tg6k_y6!19sChIJ5XpR_tkFK4cRzAJ1XQLWNRA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1168074984018739916",
+  "placeId": "ChIJ5XpR_tkFK4cRzAJ1XQLWNRA",
+  "googleRating": 4.3,
+  "googleReviewCount": 1647,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiBj84N1Pf8w5nYBgBeNNOKvt8v3fQgqAtMIC4UYha5P8VpgmpZHBmkHBsb-K_icQph6q2wrZOKJQo8dyPtuelB27gvJSh9rW3Y3efDGLyQjGajEuJqRHR9kww2xOSDe8JYdecynJdw78=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 81,
+    "2": 67,
+    "3": 146,
+    "4": 296,
+    "5": 1057
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

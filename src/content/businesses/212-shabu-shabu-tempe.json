@@ -15,8 +15,8 @@
   "phone": "+14803664849",
   "website": "https://212shabu.com/",
   "placeId": "ChIJa99iYQAJK4cRdahUoqKeNGs",
-  "googleRating": 4.3,
-  "googleReviewCount": 12,
+  "googleRating": 4.1,
+  "googleReviewCount": 21,
   "priceRange": "$$",
   "hours": {
     "mon": "4:30 PM - 8:30 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a676278be4f93ce759e2188",
   "seededAt": "2026-07-27T13:51:52Z",
   "updatedAt": "2026-09-23T23:19:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7724973682192590965",
+  "googleMapsUrl": "https://www.google.com/maps/place/212+Shabu+Shabu/data=!4m7!3m6!1s0x872b09006162df6b:0x6b349ea2a254a875!8m2!3d33.4335833!4d-111.9274085!16s%2Fg%2F11ym7wk4fl!19sChIJa99iYQAJK4cRdahUoqKeNGs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 15
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2S3Jac562_hbiG8oGip6ug5Rxnu7ATRH1EFCWDFcJitmU14xF9afDXrQ9079hBOp-wMWinGm0oncJrvY6Zgo23K2-AGujuzrBcZMV7aKJpCXbshQWO9H6i6yXgPmJXFLb1loa1yyRQ3o=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

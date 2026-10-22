@@ -1,0 +1,41 @@
+{
+  "slug": "slix-mobile-detailing-tempe",
+  "name": "Slix Mobile Detailing",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "1733 E McKellips Rd Ste 112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4503864,
+  "lng": -111.91136,
+  "phone": "+14805739414",
+  "website": "https://slixmobiledetailing.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Slix+Mobile+Detailing/data=!4m7!3m6!1s0x872b09d5b8a5d0d7:0xeee209e87a054f69!8m2!3d33.4503864!4d-111.91136!16s%2Fg%2F11yhywr2yp!19sChIJ19CluNUJK4cRaU8FeugJ4u4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17213331619847688041",
+  "placeId": "ChIJ19CluNUJK4cRaU8FeugJ4u4",
+  "googleRating": 4.8,
+  "googleReviewCount": 68,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEF0UBWglK7s70BU-jrepYnAje4uIdOBI63hFXoYcNDJAc1ProCB-_0dMHp2SH2-J13uQ6ja6bbmNPd01GtMFpDjRh1bpTyKLzLuAYVfnn3ltjX6VHWveP6y5kk6oJymhq0Wwz_cUBV1iJ=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 2,
+    "4": 2,
+    "5": 63
+  },
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "6:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

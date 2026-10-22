@@ -1,0 +1,48 @@
+{
+  "slug": "blue-dragon-vapor-smoke-shop-tempe",
+  "name": "Blue Dragon Vapor & Smoke Shop.",
+  "category": "Shopping",
+  "googleCategory": "Vaporizer store",
+  "secondaryCategories": [
+    "Smoke shop"
+  ],
+  "address": "6473 S Rural Rd #2907",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362727,
+  "lng": -111.92785119999999,
+  "phone": "+14802844661",
+  "googleMapsUrl": "https://www.google.com/maps/place/Blue+Dragon+Vapor+%26+Smoke+Shop./data=!4m7!3m6!1s0x872b064023b3bb59:0xec42d8e389321b9a!8m2!3d33.362727!4d-111.9278512!16s%2Fg%2F11bvt38py2!19sChIJWbuzI0AGK4cRmhsyiePYQuw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17024408013184834458",
+  "placeId": "ChIJWbuzI0AGK4cRmhsyiePYQuw",
+  "googleRating": 4.6,
+  "googleReviewCount": 603,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBR60vI0WL267lr9LvbnlLm7moSSylAqKfulau9JyBJDQlhs0DWAUjh1YN81HqC-GqXb6TBu2K0TmfYazcbCmfVedfCZi-9EjS5QNIP2LqEiN5ST4mXUAVnvi2ZugKmM8metCZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 9,
+    "3": 10,
+    "4": 47,
+    "5": 503
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

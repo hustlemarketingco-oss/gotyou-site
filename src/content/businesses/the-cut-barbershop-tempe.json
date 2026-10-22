@@ -1,0 +1,47 @@
+{
+  "slug": "the-cut-barbershop-tempe",
+  "name": "The Cut Barbershop Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "780 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3495883,
+  "lng": -111.94978049999999,
+  "phone": "+14802928669",
+  "website": "https://the-cut-barbershop-tempe.chrone.work/?utm_source=googlemaps&utm_medium=googlemapsprofile&utm_campaign=googlemaps",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Cut+Barbershop+Tempe/data=!4m7!3m6!1s0x872b07c8e42c60c3:0xdf5b07858e4ab0ed!8m2!3d33.3495883!4d-111.9497805!16s%2Fg%2F11fhzf5765!19sChIJw2As5MgHK4cR7bBKjoUHW98?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16094465963537903853",
+  "placeId": "ChIJw2As5MgHK4cR7bBKjoUHW98",
+  "googleRating": 4.7,
+  "googleReviewCount": 202,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7jQP8jQlbXFUpwA4XAuY3cesTFvbcp3tNxOGP4fM4-6Ztn-_xYRUjC_0PB6APob8krvwuo1TARMq5laaAs4I9Xh_asWmfq0nG6_yyf3qQ4B4M7sPE2BPrj537oflV_Cia_yB3gw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 2,
+    "3": 2,
+    "4": 14,
+    "5": 174
+  },
+  "hours": {
+    "mon": "12:00 PM - 5:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

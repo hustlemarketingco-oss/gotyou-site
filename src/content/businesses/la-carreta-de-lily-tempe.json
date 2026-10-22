@@ -1,0 +1,43 @@
+{
+  "slug": "la-carreta-de-lily-tempe",
+  "name": "La Carreta de Lily",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382098899999995,
+  "lng": -111.964918,
+  "website": "https://www.simon.com/mall/arizona-mills/stores/la-carreta-de-lily",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Carreta+de+Lily/data=!4m7!3m6!1s0x872b0f006df89de1:0xa777138d6e52cdd4!8m2!3d33.3820989!4d-111.964918!16s%2Fg%2F11xmrk2x8h!19sChIJ4Z34bQAPK4cR1M1Sbo0Td6c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12067135224724770260",
+  "placeId": "ChIJ4Z34bQAPK4cR1M1Sbo0Td6c",
+  "googleRating": 3.4,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjz3gbXo4Okt6941-dtQNHW5D2j2k_4o1CcFgctobfW7TkCnSkMYLVKW3ZAsE_uWKs-FsEEBDRiPflXS7wMO75w6GK8RsxQYK6J69acFy9BsuzzWvTR94ZjnpF-vx3F3x6WtNBQltAxTtC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "4": 1,
+    "5": 4
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

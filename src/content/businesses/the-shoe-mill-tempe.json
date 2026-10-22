@@ -1,0 +1,47 @@
+{
+  "slug": "the-shoe-mill-tempe",
+  "name": "The Shoe Mill",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "398 S Mill Ave #100",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426671899999995,
+  "lng": -111.940249,
+  "phone": "+14809663139",
+  "website": "https://shoemill.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Shoe+Mill/data=!4m7!3m6!1s0x872b09280819ad49:0x7de7057f2702358f!8m2!3d33.4266719!4d-111.940249!16s%2Fg%2F1tj531f2!19sChIJSa0ZCCgJK4cRjzUCJ38F530?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9072226018034595215",
+  "placeId": "ChIJSa0ZCCgJK4cRjzUCJ38F530",
+  "googleRating": 4.7,
+  "googleReviewCount": 134,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQfgRpKNdorJHIDQ1ewScC5gM-s7PmnAEbH3ie8ZltCzrvF2FtELPbkdVqo5nBBEfjfdSa7-cps95QEbDGuna80WK-b0yN6pUKtCzh4zt_TcJEor7wmdRiDPrNLLL-xI7_NJvz8IkZnG5b=w1200-h800-k-no",
+  "description": "Offering a wide variety of women's boots, shoes & sneakers with a focus on wearability & comfort.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 4,
+    "4": 11,
+    "5": 113
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "barber-shop-tempe",
+  "name": "Barber shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1837 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4494537,
+  "lng": -111.92517149999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Barber+shop/data=!4m7!3m6!1s0x872b09003e3a1d6f:0x4ab2c4e78004e30a!8m2!3d33.4494537!4d-111.9251715!16s%2Fg%2F11vwtnq4s3!19sChIJbx06PgAJK4cRCuMEgOfEsko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5382581003225457418",
+  "placeId": "ChIJbx06PgAJK4cRCuMEgOfEsko",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UPWvLk4VgNJV1pe7aI3PoQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=137.85971&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

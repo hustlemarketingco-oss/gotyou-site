@@ -1,0 +1,45 @@
+{
+  "slug": "butterfly-massage-tempe",
+  "name": "Butterfly Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "3415 S McClintock Dr #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3917971,
+  "lng": -111.90829409999999,
+  "phone": "+16233301410",
+  "website": "http://butterflymassages.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Butterfly+Massage/data=!4m7!3m6!1s0x872b09c3a10f0825:0x38e7c90f4d0cd805!8m2!3d33.3917971!4d-111.9082941!16s%2Fg%2F11xmnqgxcc!19sChIJJQgPocMJK4cRBdgMTQ_J5zg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4100467053298505733",
+  "placeId": "ChIJJQgPocMJK4cRBdgMTQ_J5zg",
+  "googleRating": 4.8,
+  "googleReviewCount": 30,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfABLsIci7csGmJfeb3i7Qe7efOjSgLhtHXUycHRlS-rtBaFLDSADfw23xvC5Iw2vHwYLGmnIlfAXAzLenOdyhn5ktGIOL-pyxx_8qUxGOfiN-4Vt-9M3vl2Fmy51mR55GHbZXZ8f1MVS-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 28
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

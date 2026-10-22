@@ -1,0 +1,54 @@
+{
+  "slug": "goodwill-retail-store-and-donation-center-tempe",
+  "name": "Goodwill - Retail Store and Donation Center",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Donations center",
+    "Home goods store",
+    "Used clothing store",
+    "Used furniture store"
+  ],
+  "address": "1546 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941377,
+  "lng": -111.91297739999999,
+  "phone": "+14806597443",
+  "website": "https://www.goodwillaz.org/location/mcclintock-dr-southern-ave/?utm_source=local&utm_medium=organic&utm_campaign=gbp",
+  "googleMapsUrl": "https://www.google.com/maps/place/Goodwill+-+Retail+Store+and+Donation+Center/data=!4m7!3m6!1s0x872b0886b824ab63:0x59664d1e4afa4c38!8m2!3d33.3941377!4d-111.9129774!16s%2Fg%2F1pty_tqbn!19sChIJY6skuIYIK4cROEz6Sh5NZlk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6441921109502348344",
+  "placeId": "ChIJY6skuIYIK4cROEz6Sh5NZlk",
+  "googleRating": 3.8,
+  "googleReviewCount": 563,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmedtBsFKqXLca0MQtnRLrabO39mZ2mwTEC3S0BekJOJJWtPAjaRQWHTmzV60UDV_DKZz3y8H2e13VHXNrxZ4gn5CqGFA0Z2-0kavKnXq6Ei6CqyFmO98_ZfF9i-Wa-m1N-HgJ=w1200-h800-k-no",
+  "description": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 84,
+    "2": 28,
+    "3": 60,
+    "4": 126,
+    "5": 265
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

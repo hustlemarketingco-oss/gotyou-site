@@ -1,0 +1,55 @@
+{
+  "slug": "az-banners-llc-tempe",
+  "name": "AZ Banners LLC",
+  "category": "Shopping",
+  "googleCategory": "Sign shop",
+  "secondaryCategories": [
+    "Banner store",
+    "Business to business service",
+    "Decal supplier",
+    "Digital printer",
+    "Graphic designer",
+    "Print shop",
+    "Screen printing shop",
+    "Sticker manufacturer"
+  ],
+  "address": "738 S Perry Ln #4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.422882699999995,
+  "lng": -111.90535919999999,
+  "phone": "+14807180544",
+  "website": "https://www.azbanners.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZ+Banners+LLC/data=!4m7!3m6!1s0x872b0a2a7b56a2ab:0xe412348bfb348ff4!8m2!3d33.4228827!4d-111.9053592!16s%2Fg%2F1tf7sls0!19sChIJq6JWeyoKK4cR9I80-4s0EuQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16434255766047985652",
+  "placeId": "ChIJq6JWeyoKK4cR9I80-4s0EuQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 73,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgTQJ4Y2lE7CMc7Pp9YP8hCrMHlAQWIFOwp2OoJlJroUxqRyxYOqBHc_ZDX-BcmDSkhzBszne57wEE1LuRA7C71hyN8VuBsYBN6Np4hq4DCCS8VjpIqpg-IsSOLsTcnT7u5u8qR-qTO-xF=w1200-h800-k-no",
+  "description": "Simple shop creating custom vinyl banners, signs & car decals for various businesses.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 2,
+    "5": 70
+  },
+  "hours": {
+    "mon": "8:00 AM - 4:30 PM",
+    "tue": "8:00 AM - 4:30 PM",
+    "wed": "8:00 AM - 4:30 PM",
+    "thu": "8:00 AM - 4:30 PM",
+    "fri": "8:00 AM - 4:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

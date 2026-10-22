@@ -1,0 +1,46 @@
+{
+  "slug": "branded-body-shop-tempe",
+  "name": "Branded Body Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Body piercing shop",
+  "secondaryCategories": [
+    "Costume jewelry shop",
+    "Eyebrow bar"
+  ],
+  "address": "1800 E Rio Salado Pkwy #170",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430180199999995,
+  "lng": -111.90786639999999,
+  "phone": "+17017213025",
+  "website": "https://brandedbodyshop.squarespace.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Branded+Body+Shop/data=!4m7!3m6!1s0x872b0940716ad15b:0xe87add39729bb374!8m2!3d33.4301802!4d-111.9078664!16s%2Fg%2F11x1p81zq_!19sChIJW9FqcUAJK4cRdLObcjndeug?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16751945002763662196",
+  "placeId": "ChIJW9FqcUAJK4cRdLObcjndeug",
+  "googleRating": 5,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHMQEvSZ-Kse2uvXZY-3jA6_HlalN-Drgq0IXYCyEl3NVnKeFSO0RzP_XYvLAeerEpln1pyo079ozrMNJScDmBFZLCGGsHNZKLkU-gtSP15GaYG-HoD41bmBOrDeJA_wSGkfgbqyfdfxFO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 19
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

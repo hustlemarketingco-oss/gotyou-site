@@ -1,0 +1,47 @@
+{
+  "slug": "cobblestone-auto-spa-7425-tempe",
+  "name": "Cobblestone Auto Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Car wash",
+  "address": "7425 S Kyrene Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.351934199999995,
+  "lng": -111.94521599999999,
+  "phone": "+16232832323",
+  "website": "https://cobblestone.com/location/tempe-kyrene-elliot/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cobblestone+Auto+Spa/data=!4m7!3m6!1s0x872b074d4f2cce77:0x9be9af9cc4627013!8m2!3d33.3519342!4d-111.945216!16s%2Fg%2F11fjjpt6y7!19sChIJd84sT00HK4cRE3BixJyv6Zs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11234703833296957459",
+  "placeId": "ChIJd84sT00HK4cRE3BixJyv6Zs",
+  "googleRating": 4.5,
+  "googleReviewCount": 398,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHN2gBmq-pS7mXCfHTJYirTdDyjWJ8wods5Mao6UXz4teu2VPmwTmfN_ClegCYJNKGGgrQBRzvqZnVukV1-6J3PS8-fH0yMh9mFzhUZT3zfULGfTqe2Q5cQ2K0qDa8cSSSQyqN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 7,
+    "3": 8,
+    "4": 46,
+    "5": 304
+  },
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

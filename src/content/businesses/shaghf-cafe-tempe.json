@@ -21,38 +21,18 @@
   "lng": -111.9179616,
   "phone": "+14805904909",
   "website": "https://www.shaghfcafeaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15283947029163909963",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shaghf+Cafe/data=!4m7!3m6!1s0x872b0980cea6d1cf:0xd41b7cd85f33a34b!8m2!3d33.4154894!4d-111.9179616!16s%2Fg%2F11y3ysqb_9!19sChIJz9GmzoAJK4cRS6MzX9h8G9Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15283947029163909963",
   "placeId": "ChIJz9GmzoAJK4cRS6MzX9h8G9Q",
   "googleRating": 4.7,
-  "googleReviewCount": 987,
+  "googleReviewCount": 1065,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Shaghf Cafe is a casual, cozy coffee shop & cafe with coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "8:00 AM - 1:00 AM",
@@ -69,5 +49,14 @@
   "groundgameId": "6a24393a3944619fdf3a54c9",
   "seededAt": "2026-06-06T15:14:02Z",
   "updatedAt": "2026-07-21T20:05:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 55,
+    "2": 20,
+    "3": 23,
+    "4": 33,
+    "5": 934
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFG8y9sUnkKJhU7hQlhH-UwVL4OOleTOgmQb8RfeMglw0b3k0gZggXcilXbe3YC-tGTWwXP0aX3_XcLNF1p_BkZqS4ZLnid7aqvRlq2LXE5XpwoFrhl8sNBjWskm1ArrCT2KL-6puK6QT1=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

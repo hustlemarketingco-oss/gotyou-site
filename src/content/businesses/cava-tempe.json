@@ -19,11 +19,11 @@
   "lng": -111.9255633,
   "phone": "+14804805504",
   "website": "http://cava.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2149326212688020993",
+  "googleMapsUrl": "https://www.google.com/maps/place/CAVA/data=!4m7!3m6!1s0x872b091d4840b8e1:0x1dd3f0cd85b48601!8m2!3d33.4223092!4d-111.9255633!16s%2Fg%2F11ks09dndk!19sChIJ4bhASB0JK4cRAYa0hc3w0x0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2149326212688020993",
   "placeId": "ChIJ4bhASB0JK4cRAYa0hc3w0x0",
   "googleRating": 4.8,
-  "googleReviewCount": 1900,
+  "googleReviewCount": 2337,
   "description": "Mediterranean restaurant for thoughtful food with customizable greens & grains bowls, pitas & salad.",
   "hours": {
     "fri": "10:30 AM - 10:00 PM",
@@ -40,5 +40,20 @@
   "groundgameId": "6a2437723747dcce23097b84",
   "seededAt": "2026-06-06T15:06:26Z",
   "updatedAt": "2026-06-06T15:06:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 59,
+    "2": 31,
+    "3": 31,
+    "4": 106,
+    "5": 2110
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdb097gptZg2f9le4tT_hrs_Ldhq-MHjx8jvimQyF60pVip1e0HK4AvevbXwBe83YDgLJBvTl7At1DzC1azmj6PdVTMgDh4cXVZZMXUK8SHrWUPq3rw2Da7XwznWNzwplrytsf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

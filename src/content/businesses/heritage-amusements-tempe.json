@@ -1,0 +1,42 @@
+{
+  "slug": "heritage-amusements-tempe",
+  "name": "Heritage Amusements",
+  "category": "Fun & Activities",
+  "googleCategory": "Children's amusement center",
+  "secondaryCategories": [
+    "Amusement machine supplier",
+    "Amusement park ride",
+    "Amusement ride supplier"
+  ],
+  "address": "5000 S Arizona Mills Cir #600",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383123,
+  "lng": -111.964485,
+  "phone": "+18003045546",
+  "website": "http://heritageamusements.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Heritage+Amusements/data=!4m7!3m6!1s0x872b0f8ee2d20523:0x50d22eab1c905eac!8m2!3d33.383123!4d-111.964485!16s%2Fg%2F11vp_q_26m!19sChIJIwXS4o4PK4cRrF6QHKsu0lA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5823768580596981420",
+  "placeId": "ChIJIwXS4o4PK4cRrF6QHKsu0lA",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8RjzfKaJCIJRho5MoKl98Sep4BD8o4h1W-_ezO2T_a2jzY9NAXrPeNqDBpnNrfc7Rpet73gTTwmY_3zPswMK6vatZ9Z0wYGA7HA0DbFh71y2eumd-G7aUQfUQU0kHL3ePca8a=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

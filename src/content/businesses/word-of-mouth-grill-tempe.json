@@ -14,31 +14,18 @@
   "lng": -111.9116801,
   "phone": "+14806216247",
   "website": "http://www.wordofmouthgrill.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6702610707119147579",
+  "googleMapsUrl": "https://www.google.com/maps/place/Word+Of+Mouth+Grill/data=!4m7!3m6!1s0x872b078759e301ff:0x5d0474ed19910a3b!8m2!3d33.3480072!4d-111.9116801!16s%2Fg%2F11gjv0dbnm!19sChIJ_wHjWYcHK4cROwqRGe10BF0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6702610707119147579",
   "placeId": "ChIJ_wHjWYcHK4cROwqRGe10BF0",
   "googleRating": 4.6,
-  "googleReviewCount": 491,
+  "googleReviewCount": 534,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Word Of Mouth Grill is a casual barbecue restaurant & restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "4:00 PM - 8:00 PM",
@@ -55,5 +42,14 @@
   "groundgameId": "6a2439fb6ee4fc76436f7ca1",
   "seededAt": "2026-06-06T15:17:15Z",
   "updatedAt": "2026-06-06T15:17:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 17,
+    "3": 19,
+    "4": 36,
+    "5": 436
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbYVqs1SVlQxTeken1GrL2Rmc5-E7e920GnZZ0mM5U_aJ_kNVNOMYTJZSoDLIJtKOp_bb4pxFJsEoXsEqFVzI2mx_JwtXyf821XBo3tMShSWlZSkS_IKi_xACTyDU8FtzRONdyzFCMkaCr=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

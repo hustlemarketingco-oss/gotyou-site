@@ -17,7 +17,7 @@
   "website": "https://barrospizza.com/",
   "placeId": "ChIJW4e3qhwGK4cRE3LAR0Qrt1o",
   "googleRating": 4.4,
-  "googleReviewCount": 1933,
+  "googleReviewCount": 1956,
   "priceRange": "$",
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a44311488946c9c066961ca",
   "seededAt": "2026-06-30T21:11:48Z",
   "updatedAt": "2026-06-30T21:11:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6536740956413129235",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barro%27s+Pizza/data=!4m7!3m6!1s0x872b061caab7875b:0x5ab72b4447c07213!8m2!3d33.3790335!4d-111.9255186!16s%2Fg%2F1pp2tlfc1!19sChIJW4e3qhwGK4cRE3LAR0Qrt1o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 99,
+    "2": 47,
+    "3": 86,
+    "4": 381,
+    "5": 1343
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiwvfTuY9ctMHk8c9WsL1ghdYmXuArosD8WHKxBb_uBrJFDxP0N4ibGmFOENjnhiKeJJlGdWWmr_ebIyReP1_3B6IK2zpA0GCE6tcwzJJ-uwBlLzp4zThuq7Qc4_7JWlXkHlVtyllR91Ll=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

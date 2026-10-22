@@ -1,0 +1,47 @@
+{
+  "slug": "pueblo-anozira-tempe",
+  "name": "Pueblo Anozira",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1835 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3621468,
+  "lng": -111.9091421,
+  "phone": "+18338004343",
+  "website": "https://www.kimcorealty.com/properties/pueblo-anozira/118800/view",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pueblo+Anozira/data=!4m7!3m6!1s0x872b064bdc367e0b:0xefe6374246228fe9!8m2!3d33.3621468!4d-111.9091421!16s%2Fg%2F1ts2_r58!19sChIJC3423EsGK4cR6Y8iRkI35u8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17286564977492266985",
+  "placeId": "ChIJC3423EsGK4cR6Y8iRkI35u8",
+  "googleRating": 4.3,
+  "googleReviewCount": 1285,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLenMUCzyNwocIvAzGvVLglS98sBpQjj2eVULqm0YRnIZHGoW6hVSyK-cNvyn55jpgH-CBl-F0xFf8NcKKQVm3p09gofFOnB-HBGrj4a_ljFJvFAChoTC1tdv58NctpYX3pgzsSWtQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 37,
+    "3": 170,
+    "4": 350,
+    "5": 694
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

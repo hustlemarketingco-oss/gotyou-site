@@ -1,0 +1,51 @@
+{
+  "slug": "marvelous-nails-and-spa-tempe",
+  "name": "Marvelous Nails and Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Spa"
+  ],
+  "address": "655 W Warner Rd Ste 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332910399999996,
+  "lng": -111.9477015,
+  "phone": "+14805904993",
+  "website": "http://marvelousnailsspaaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Marvelous+Nails+and+Spa/data=!4m7!3m6!1s0x872b0683f2b3c78d:0x52197d55a1f38c60!8m2!3d33.3329104!4d-111.9477015!16s%2Fg%2F1tdf1tr7!19sChIJjcez8oMGK4cRYIzzoVV9GVI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5915897392270642272",
+  "placeId": "ChIJjcez8oMGK4cRYIzzoVV9GVI",
+  "googleRating": 4.6,
+  "googleReviewCount": 584,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzqZ8ClIUEcQne1cdI_3t8soR8i47jQC8NYUbDdZD588eqObFdpgpJaD4FZXyqajE4NnaWIdPIbVDS9tN3WrOY_WQ1AREEsha82kIQzUcSxc54XIEnYyUJHQcMPJIPSYzM1hkpoeRSrBya=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 11,
+    "3": 10,
+    "4": 22,
+    "5": 506
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 7:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "cabana-republic-tacos-burritos-bowls-tempe",
+  "name": "CABANA Republic - Tacos, Burritos & Bowls",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "921 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4216682,
+  "lng": -111.9255098,
+  "phone": "+14804046700",
+  "website": "https://cabanarepublicaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/CABANA+Republic+-+Tacos,+Burritos+%26+Bowls/data=!4m7!3m6!1s0x872b0968e9f2dae5:0x511ca2618e4bcd17!8m2!3d33.4216682!4d-111.9255098!16s%2Fg%2F11zytmn515!19sChIJ5dry6WgJK4cRF81LjmGiHFE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5844724956302920983",
+  "placeId": "ChIJ5dry6WgJK4cRF81LjmGiHFE",
+  "googleRating": 4.9,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVT4cH9441kKWXhq9nTVTHQMmJ84ZaI_BfK-IHY0YJa8rj-8AJ5Vfo2_xVa0LVvw97ZgN1d-tAD8McjHNXszKikBPGJH5kDSLfn3AGXqZY0kWHRXBeDEp3LYsHbtk6350tNBeLf2bjc5Di=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 49
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

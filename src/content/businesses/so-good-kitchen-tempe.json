@@ -1,0 +1,37 @@
+{
+  "slug": "so-good-kitchen-tempe",
+  "name": "SO GOOD KITCHEN",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "960 W University Dr #116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4226453,
+  "lng": -111.9511349,
+  "website": "http://so-good-restaurant.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SO+GOOD+KITCHEN/data=!4m7!3m6!1s0x872b098f992bf7c1:0xee5dbeb0d28b40b9!8m2!3d33.4226453!4d-111.9511349!16s%2Fg%2F11q2m3cd0q!19sChIJwfcrmY8JK4cRuUCL0rC-Xe4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17176094220516802745",
+  "placeId": "ChIJwfcrmY8JK4cRuUCL0rC-Xe4",
+  "googleRating": 4.5,
+  "googleReviewCount": 74,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8Jm24EZ8yJWzuwGQHoiwSa5lizqd8kJQAjx4flG6OU76cWFjzJ1OJ0JDkTx1jrJj4I63B5OJcWc0p1vabyrGuDHG-Jd4CIaAFB-SIj5AXSFaq1a7eDodxCPMfZeXEds5NeiPb7g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 4,
+    "3": 3,
+    "4": 3,
+    "5": 60
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "jack-in-the-box-942-tempe",
+  "name": "Jack in the Box",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Dessert restaurant",
+    "Hamburger restaurant",
+    "Delivery Restaurant",
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "942 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4077613,
+  "lng": -111.92483,
+  "phone": "+14809669080",
+  "website": "https://locations.jackinthebox.com/us/az/tempe/942-e-broadway-rd?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jack+in+the+Box/data=!4m7!3m6!1s0x872b08cb53988c2b:0xddf75e0c0f6c0cd5!8m2!3d33.4077613!4d-111.92483!16s%2Fg%2F1tjz8drz!19sChIJK4yYU8sIK4cR1QxsDwxe990?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15994356007520963797",
+  "placeId": "ChIJK4yYU8sIK4cR1QxsDwxe990",
+  "googleRating": 3.7,
+  "googleReviewCount": 860,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6yxEFkUXvn1XEwYt8Hj7ejpecrupRNb1b2Z9ObJnn0ubCDFSd-DGdeSClICPs_PGYoJ8HHgVS_Ye9x3kzcMJiYmrIsLXQd2s9Ljtzr3ykwZq2q_ePFBKNRH3YMYYbtEjAniwu=w1200-h800-k-no",
+  "description": "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 128,
+    "2": 44,
+    "3": 137,
+    "4": 171,
+    "5": 380
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

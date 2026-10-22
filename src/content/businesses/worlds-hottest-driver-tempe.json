@@ -1,0 +1,44 @@
+{
+  "slug": "worlds-hottest-driver-tempe",
+  "name": "World's Hottest Driver",
+  "category": "Shopping",
+  "googleCategory": "Golf shop",
+  "address": "5869 S Kyrene Rd #11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3695804,
+  "lng": -111.94539599999999,
+  "phone": "+18555127676",
+  "website": "https://www.worldshottestdrivers.com/contact-us/",
+  "googleMapsUrl": "https://www.google.com/maps/place/World%27s+Hottest+Driver/data=!4m7!3m6!1s0x872b060f23b8ce05:0xe2daa941f02d307c!8m2!3d33.3695804!4d-111.945396!16s%2Fg%2F11cs4fxws5!19sChIJBc64Iw8GK4cRfDAt8EGp2uI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16346563898162098300",
+  "placeId": "ChIJBc64Iw8GK4cRfDAt8EGp2uI",
+  "googleRating": 3.5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7NUyk3UcFfdNiSxAANM00ISi-ZG6dziy1v_6io3Fwz06sPKNQyRIwN-bkEEWHLcYYSUfpKskSYKyNAxkFBaekdKGQ7guYoX3y6zVNa1TWAPpRvVtk-PdxUaX6sFOhA9l_hdgF78F0mIms=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 3
+  },
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "unrealtime-tempe",
+  "name": "UnRealTime",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "600 E Curry Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4409875,
+  "lng": -111.9290753,
+  "phone": "+19073015046",
+  "googleMapsUrl": "https://www.google.com/maps/place/UnRealTime/data=!4m7!3m6!1s0x872b099fa1d8802b:0x1a47a3c1d3fdfb01!8m2!3d33.4409875!4d-111.9290753!16s%2Fg%2F11lml4_7w3!19sChIJK4DYoZ8JK4cRAfv908GjRxo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1893662221213235969",
+  "placeId": "ChIJK4DYoZ8JK4cRAfv908GjRxo",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MunEw2ezCFj9nUSmyjSvZw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=251.94029&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "reclectic-tempe",
+  "name": "Reclectic",
+  "category": "Shopping",
+  "googleCategory": "Outlet store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382207,
+  "lng": -111.96286339999999,
+  "phone": "+14807160822",
+  "website": "http://www.itsreclectic.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Reclectic/data=!4m7!3m6!1s0x872b0f9131f614ab:0xc6f83ca4d75c64ef!8m2!3d33.382207!4d-111.9628634!16s%2Fg%2F11ltp54clz!19sChIJqxT2MZEPK4cR72Rc16Q8-MY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14337276092419433711",
+  "placeId": "ChIJqxT2MZEPK4cR72Rc16Q8-MY",
+  "googleRating": 3.8,
+  "googleReviewCount": 130,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9XpyGQX6f_7ahZaQAuMsv0PDjs0b335K2YeL9v3TFELB4ARoigcCD7RkvxGOwZzV25DRFEF8xj_Ms73VwF98FCqppf1SXERbq1lwDFr5lFAD8il1vUDY7MvJh2F6tw8vuk-VOAipsluE4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 12,
+    "3": 12,
+    "4": 21,
+    "5": 67
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

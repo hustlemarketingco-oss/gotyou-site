@@ -2,7 +2,7 @@
   "slug": "the-tipsy-taps-grill-tempe",
   "name": "The Tipsy Taps & Grill",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Sports bar",
   "address": "7192 Price Rd",
   "city": "Tempe",
   "state": "AZ",
@@ -11,24 +11,10 @@
   "priceRange": "$20–30",
   "description": "Located in Tempe, The Tipsy Taps & Grill is a casual, trendy restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/tipsytaps"
@@ -39,5 +25,36 @@
   "groundgameId": "6a2438c156842a8c4bb7c4e5",
   "seededAt": "2026-06-06T15:12:01Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJi22qpFMHK4cRq0lZ07GiOVM",
+  "googleCid": "5997003263459281323",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Tipsy+Taps+%26+Grill/data=!4m7!3m6!1s0x872b0753a4aa6d8b:0x5339a2b1d35949ab!8m2!3d33.3549549!4d-111.8954715!16s%2Fg%2F11vz0zf9yx!19sChIJi22qpFMHK4cRq0lZ07GiOVM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 374,
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 13,
+    "3": 4,
+    "4": 17,
+    "5": 322
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLef4pd48re5XNhmVgCuJhLrtkwkFc76JBnKdvGJeLnZLt3U-BIp-UueOzHXXqhNtdQGFaiEVi3RQ1P5c33WFOWTOYs0xipKLLj3efLfPhxJFFgUyjV63ZJe8LQfIhsBARx3gDxnMdZOxXFa=w1200-h800-k-no",
+  "website": "https://www.tipsytaps.co/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "lat": 33.354954899999996,
+  "lng": -111.8954715,
+  "secondaryCategories": [
+    "American restaurant",
+    "Bar & grill",
+    "Restaurant"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

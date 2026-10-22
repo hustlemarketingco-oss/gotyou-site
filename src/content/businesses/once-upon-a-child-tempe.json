@@ -1,0 +1,56 @@
+{
+  "slug": "once-upon-a-child-tempe",
+  "name": "Once Upon A Child",
+  "category": "Shopping",
+  "googleCategory": "Children's clothing store",
+  "secondaryCategories": [
+    "Baby clothing store",
+    "Baby store",
+    "Children's book store",
+    "Children's furniture store",
+    "Shoe store",
+    "Thrift store",
+    "Toy store"
+  ],
+  "address": "1628 E Southern Ave #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394209499999995,
+  "lng": -111.9126864,
+  "phone": "+14807452543",
+  "website": "https://www.onceuponachildtempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Once+Upon+A+Child/data=!4m7!3m6!1s0x872b09cad516317b:0x1c23d469fbfaaaaf!8m2!3d33.3942095!4d-111.9126864!16s%2Fg%2F11fnxhq0bv!19sChIJezEW1coJK4cRr6r6-2nUIxw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2027697808911018671",
+  "placeId": "ChIJezEW1coJK4cRr6r6-2nUIxw",
+  "googleRating": 4.3,
+  "googleReviewCount": 194,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4SsRI5uDtdpNCZBanPN51vivk1CvkAZCJMObUMCrocmCThDKtW9stjDI2fvT9hVetcA5Td6wqNAfeuH6AePap04h20eINhEssSpm24Eiph2UA1X2Kc4iqoUifxtA3BqnKThNUXKOIo4c=w1200-h800-k-no",
+  "description": "Chain operation that buys & sells gently used items for children, including clothes, shoes & toys.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 3,
+    "3": 5,
+    "4": 12,
+    "5": 146
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "sweet-dreams-massage-tempe",
+  "name": "Sweet Dreams Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "4685 S Ash Ave # H-1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3817102,
+  "lng": -111.9413342,
+  "phone": "+16027546650",
+  "website": "https://sweetdreams.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sweet+Dreams+Massage/data=!4m7!3m6!1s0x872b07a508cac967:0x1de61264c392988!8m2!3d33.3817102!4d-111.9413342!16s%2Fg%2F11w2mwz7j3!19sChIJZ8nKCKUHK4cRiCk5TCZh3gE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "134651855983159688",
+  "placeId": "ChIJZ8nKCKUHK4cRiCk5TCZh3gE",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HpD6J196DjgESO3qzJ0BZg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=240.83968&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "3:00 PM - 7:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "3:00 PM - 7:00 PM",
+    "fri": "3:00 PM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

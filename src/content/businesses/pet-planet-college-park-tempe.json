@@ -1,0 +1,49 @@
+{
+  "slug": "pet-planet-college-park-tempe",
+  "name": "Pet Planet College Park",
+  "category": "Shopping",
+  "googleCategory": "Pet store",
+  "secondaryCategories": [
+    "Pet supply store"
+  ],
+  "address": "5150 S Rural Rd Ste 106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3790361,
+  "lng": -111.9292309,
+  "phone": "+14808979790",
+  "website": "http://www.shoppetplanet.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pet+Planet+College+Park/data=!4m7!3m6!1s0x872b06189c1f99a7:0x57490d37160603bc!8m2!3d33.3790361!4d-111.9292309!16s%2Fg%2F11b6pxl2j8!19sChIJp5kfnBgGK4cRvAMGFjcNSVc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6289572884843463612",
+  "placeId": "ChIJp5kfnBgGK4cRvAMGFjcNSVc",
+  "googleRating": 4.9,
+  "googleReviewCount": 454,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftatnX4W9mnZhfoT3bgWngNUwhcfo0dTMKRmfOrHKZrPsVuzuDExprQ7qo1WWJeRVWyUHDC2Q22sj5GEGvMfcYLNvE65TYXrfWh_lYgZVfIywp03docLgXEQsBUNdtAommRDyO2ERKQL92=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 3,
+    "4": 21,
+    "5": 425
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

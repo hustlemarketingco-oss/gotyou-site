@@ -1,0 +1,53 @@
+{
+  "slug": "tempe-camera-repair-inc-tempe",
+  "name": "Tempe Camera Repair Inc",
+  "category": "Shopping",
+  "googleCategory": "Camera store",
+  "secondaryCategories": [
+    "Camera repair shop",
+    "Equipment rental agency",
+    "Photo lab",
+    "Photo restoration service",
+    "Photography class"
+  ],
+  "address": "606 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4221492,
+  "lng": -111.9475774,
+  "phone": "+14809666954",
+  "website": "http://www.tempecamera.biz/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Camera+Repair+Inc/data=!4m7!3m6!1s0x872b08d4335f74f7:0xd48cb4bfdd16f0d4!8m2!3d33.4221492!4d-111.9475774!16s%2Fg%2F1tcx_927!19sChIJ93RfM9QIK4cR1PAW3b-0jNQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15315815168921235668",
+  "placeId": "ChIJ93RfM9QIK4cR1PAW3b-0jNQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 703,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLjwl4bCTtAQ90_OBHdrUF4uNLsNXaakDgROQn8-LxIjD8lhctsnrsylwq9PRUmlTcheXdyAZI9aI5qElrK3LswM8XP_0n4k90Nj4ddBefgxQJ5rufRcBz7Ai4cXQ8rXitZwnS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 20,
+    "3": 26,
+    "4": 64,
+    "5": 541
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

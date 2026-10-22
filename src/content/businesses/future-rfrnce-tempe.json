@@ -1,0 +1,47 @@
+{
+  "slug": "future-rfrnce-tempe",
+  "name": "Future Rfrnce",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "5000 S Arizona Mills Cir #518",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3824748,
+  "lng": -111.9648016,
+  "phone": "+16026127772",
+  "website": "http://futurerfrnce.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Future+Rfrnce/data=!4m7!3m6!1s0x872b0f68414ed2e9:0x468e695f7e64b8c9!8m2!3d33.3824748!4d-111.9648016!16s%2Fg%2F11j49jw0_9!19sChIJ6dJOQWgPK4cRybhkfl9pjkY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5084116888211208393",
+  "placeId": "ChIJ6dJOQWgPK4cRybhkfl9pjkY",
+  "googleRating": 4.5,
+  "googleReviewCount": 174,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0a7-F-ZIXOwTtryN12xCdk4aukOUuAW8Lp_XoLNFIudG3UR_p74q35VNmhvN1eJavbmJ_gBdHdbfAyx4C9KqdNp0jh6GDl6MiZYaToApM2L96TxXxmWpR926wOg92GFp5DOnrlQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 1,
+    "3": 9,
+    "4": 9,
+    "5": 139
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

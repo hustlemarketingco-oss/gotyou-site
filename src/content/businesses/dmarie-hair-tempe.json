@@ -1,0 +1,42 @@
+{
+  "slug": "dmarie-hair-tempe",
+  "name": "D'Marie Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1646 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4482976,
+  "lng": -111.92697989999999,
+  "phone": "+13134785276",
+  "website": "https://www.dmariehair.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/D%27Marie+Hair/data=!4m7!3m6!1s0x872b08d7be5cdc75:0xba7da9e7c8e758a5!8m2!3d33.4482976!4d-111.9269799!16s%2Fg%2F11q2y_zbb1!19sChIJddxcvtcIK4cRpVjnyOepfbo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13438083676116572325",
+  "placeId": "ChIJddxcvtcIK4cRpVjnyOepfbo",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3uTXr9ioTC4HCo3fJvcZQ5SLSwxGEpqyX7nD1WlGioLJxp67wJNUCP1IHHHf3WNqVKrVtY4qFSTqx6m1YAGnhgl6YknwdJqTSih3AnOXkD2BF9-GW0V2AgRCY4fWO7OWooTB9lQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "9:00 AM - 5:30 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "8:30 AM - 3:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

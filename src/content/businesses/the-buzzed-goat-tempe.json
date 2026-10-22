@@ -15,35 +15,18 @@
   "lng": -111.9082119,
   "phone": "+14805468960",
   "website": "http://www.thebuzzedgoat.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9911618209088551242",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Buzzed+Goat+Tempe/data=!4m7!3m6!1s0x872b097ba6fd4aff:0x898d243f4604394a!8m2!3d33.3913336!4d-111.9082119!16s%2Fg%2F11rmw900g3!19sChIJ_0r9pnsJK4cRSjkERj8kjYk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9911618209088551242",
   "placeId": "ChIJ_0r9pnsJK4cRSjkERj8kjYk",
   "googleRating": 4.7,
-  "googleReviewCount": 221,
+  "googleReviewCount": 249,
   "priceRange": "$10–20",
   "description": "Located in Tempe, The Buzzed Goat Tempe is a casual, cozy coffee shop & bar & grill with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "6:00 AM - 3:00 PM",
@@ -60,5 +43,14 @@
   "groundgameId": "6a2438deb0ed04c602eff222",
   "seededAt": "2026-06-06T15:12:30Z",
   "updatedAt": "2026-07-08T18:35:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 8,
+    "3": 4,
+    "4": 12,
+    "5": 216
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQySwnYHZ0eNQLfy6gtMvxUKyL9OM_rWwJv9dN2seDTK6uSIORwUl1T7_2qBdN0U2bNIoWaQ-vNcutTBt4DSg10bErNZdnzm6UGnlAmCrqb4poPQIDzP4y-3brkdQwrHZyi-OWGw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -11,31 +11,18 @@
   "lng": -111.902943,
   "phone": "+14809922845",
   "website": "https://betterbuzzcoffee.com/pages/tempe-market-station",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14743801457376140654",
+  "googleMapsUrl": "https://www.google.com/maps/place/Better+Buzz+Coffee+Tempe+Market+Station/data=!4m7!3m6!1s0x872b09687f5c4957:0xcc9c814f39ca9d6e!8m2!3d33.4289588!4d-111.9030404!16s%2Fg%2F11xh180gfn!19sChIJV0lcf2gJK4cRbp3KOU-BnMw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14743801457376140654",
   "placeId": "ChIJV0lcf2gJK4cRbp3KOU-BnMw",
   "googleRating": 4.6,
-  "googleReviewCount": 377,
+  "googleReviewCount": 595,
   "priceRange": "$1–10",
   "description": "Better Buzz Coffee Tempe Market Station is a Tempe casual, trendy coffee shop known for coffee & quick bite, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "4:30 AM - 8:00 PM",
@@ -52,5 +39,14 @@
   "groundgameId": "6a2435e3ffde399325267205",
   "seededAt": "2026-06-06T14:59:47Z",
   "updatedAt": "2026-07-23T18:06:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 37,
+    "2": 23,
+    "3": 12,
+    "4": 19,
+    "5": 504
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQj2RQlzhzSLd8ig0hy5u4fvOzsxhfpv2eSGaE-c68rTc4YB7PeQqXk6O61PJFk3ocd8loylNlI0A55zFi-oSC3s-CZQDsvsmDOGGUR9ehPCMdtINlUyDBmCFsoEaetmAbqczADxUvW3xS=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

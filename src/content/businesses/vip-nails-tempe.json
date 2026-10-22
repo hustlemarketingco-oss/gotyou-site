@@ -1,0 +1,45 @@
+{
+  "slug": "vip-nails-tempe",
+  "name": "VIP Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "7520 S Rural Rd #A6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3500868,
+  "lng": -111.92985139999999,
+  "phone": "+14806563785",
+  "website": "https://www.facebook.com/TempeVIPNails/",
+  "googleMapsUrl": "https://www.google.com/maps/place/VIP+Nails/data=!4m7!3m6!1s0x872b06670d450fbd:0x53477d803381d115!8m2!3d33.3500868!4d-111.9298514!16s%2Fg%2F11f5jmw8hs!19sChIJvQ9FDWcGK4cRFdGBM4B9R1M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6000903018067906837",
+  "placeId": "ChIJvQ9FDWcGK4cRFdGBM4B9R1M",
+  "googleRating": 3.3,
+  "googleReviewCount": 27,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpYvSoMj63CuXK646LS0Uol1Yo1H_2yTiHC3znQqMACZma248V1MI6uqsrGG6VCcFa-imR7L0vqbqgQJl0IE1vfVJbDxsXMvvbaZ1IF6S1Kum7AkHsU2C1PASE_alP1r4VNeNz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "4": 2,
+    "5": 14
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

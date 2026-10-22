@@ -1,0 +1,54 @@
+{
+  "slug": "smokin-lingerie-tempe",
+  "name": "Smokin' Lingerie",
+  "category": "Shopping",
+  "googleCategory": "Adult entertainment store",
+  "secondaryCategories": [
+    "Smoke shop"
+  ],
+  "address": "1450 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4456341,
+  "lng": -111.92699739999999,
+  "phone": "+14809415234",
+  "website": "http://www.smokinlingerie.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Smokin%27+Lingerie/data=!4m7!3m6!1s0x872b0915c37d61a5:0x72df09949b4fa503!8m2!3d33.4456341!4d-111.9269974!16s%2Fg%2F1txc7hg1!19sChIJpWF9wxUJK4cRA6VPm5QJ33I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8277345173995758851",
+  "placeId": "ChIJpWF9wxUJK4cRA6VPm5QJ33I",
+  "googleRating": 3.9,
+  "googleReviewCount": 34,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgj0zVXDTT7jzt1XAZS-_zUZa8X0YHO91ivhPQx9z19lQdevHHkhO68oNclAA3FGOGewbZ3oXdnyTFGJJVFXIgg96V_X8rK3y_neMf6VLR4GSaR77hEcl0UExtSFGyEJ4Lq6g=w1200-h800-k-no",
+  "amenities": [
+    "Small business",
+    "In-store shopping",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "LGBTQ+ friendly",
+    "Credit cards",
+    "Debit cards"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "3": 1,
+    "4": 5,
+    "5": 20
+  },
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 11:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

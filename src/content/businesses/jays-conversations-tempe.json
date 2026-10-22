@@ -1,0 +1,42 @@
+{
+  "slug": "jays-conversations-tempe",
+  "name": "Jay's Conversations",
+  "category": "Shopping",
+  "googleCategory": "Book store",
+  "address": "2036 E Wildermuth Ave Unit 1248",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4137536,
+  "lng": -111.89877519999999,
+  "phone": "+16023931205",
+  "website": "https://www.jaysconversations.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jay%27s+Conversations/data=!4m7!3m6!1s0x872b0982e2ee0d79:0xbce931ca9f4bfedb!8m2!3d33.4137536!4d-111.8987752!16s%2Fg%2F11z49c2gzt!19sChIJeQ3u4oIJK4cR2_5Ln8ox6bw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13612466095029747419",
+  "placeId": "ChIJeQ3u4oIJK4cR2_5Ln8ox6bw",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfutrvn2FLjW_hnJm1WWEN8AamEYm1vn-z_Wo4_-lYxeUmtUGVU5akLOLiOvQpsom7wwIG6eMxrAjVBDSMvsjNX7A_xcljuLr0O7yaQjqMV6qcFC99GZV6Z5AL7vpSqRVho8usaPh4Ahm0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

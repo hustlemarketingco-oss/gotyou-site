@@ -1,0 +1,56 @@
+{
+  "slug": "starbucks-coffee-company-1325-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "address": "1325 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3486,
+  "lng": -111.95939999999999,
+  "phone": "+14807568750",
+  "website": "https://www.starbucks.com/store-locator/store/13795/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b05c4d64144f7:0xc8461b0543483fd!8m2!3d33.3486!4d-111.9594!16s%2Fg%2F1tdpgnvb!19sChIJ90RB1sQFK4cR_YM0VLBhhAw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "901953235335807997",
+  "placeId": "ChIJ90RB1sQFK4cR_YM0VLBhhAw",
+  "googleRating": 4.1,
+  "googleReviewCount": 823,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHUwC3OsTtNMuwcLWvo-uzD-fpcotn278wGF6E9qismquTiSobA00iQrnuDKSjiBOHKfXR9_33cyUZtMgvpbwhOcbAviwef_ZDOxyX9C3sBSJqfewdN4azds8oY1A9R2KKL1ypIHPsgEs=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 34,
+    "3": 75,
+    "4": 170,
+    "5": 462
+  },
+  "hours": {
+    "mon": "4:00 AM - 9:00 PM",
+    "tue": "4:00 AM - 9:00 PM",
+    "wed": "4:00 AM - 9:00 PM",
+    "thu": "4:00 AM - 9:00 PM",
+    "fri": "4:00 AM - 9:00 PM",
+    "sat": "4:00 AM - 9:00 PM",
+    "sun": "4:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

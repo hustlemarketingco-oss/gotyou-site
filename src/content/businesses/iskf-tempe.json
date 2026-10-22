@@ -1,0 +1,37 @@
+{
+  "slug": "iskf-tempe",
+  "name": "ISKF Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Karate school",
+  "address": "7070 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3559662,
+  "lng": -111.92905379999999,
+  "phone": "+14803904310",
+  "website": "https://iskftempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ISKF+Tempe/data=!4m7!3m6!1s0x872b071ce22b1301:0x609eaf688da89270!8m2!3d33.3559662!4d-111.9290538!16s%2Fg%2F11tft2x_z_!19sChIJARMr4hwHK4cRcJKojWivnmA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6962194937549460080",
+  "placeId": "ChIJARMr4hwHK4cRcJKojWivnmA",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmIMVpTxQo09a_Qk65BRLsi_Z64oSwe1lQJiIkjNYklNuEIbZABItN-_GJYaPrH1U5VL0NeoFiKlT2OczASHeu1783seiVdIdvwzook5k0LSe-xxq4culyc_NXP3qA0kSQSmE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 PM - 8:00 PM",
+    "wed": "Closed",
+    "thu": "7:00 PM - 8:00 PM",
+    "fri": "Closed",
+    "sat": "9:00 AM - 11:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

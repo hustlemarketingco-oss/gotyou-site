@@ -1,0 +1,43 @@
+{
+  "slug": "rm-medical-massage-tempe",
+  "name": "RM MEDICAL MASSAGE",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "8400 S Kyrene Rd Ste 115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.337707,
+  "lng": -111.946264,
+  "phone": "+14806588274",
+  "website": "https://www.massagebook.com/biz/RMMedicalMassageLLC",
+  "googleMapsUrl": "https://www.google.com/maps/place/RM+MEDICAL+MASSAGE/data=!4m7!3m6!1s0x872b07e4a160717d:0x127a7145d0cb630c!8m2!3d33.337707!4d-111.946264!16s%2Fg%2F11qm0py_4y!19sChIJfXFgoeQHK4cRDGPL0EVxehI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1331501184511075084",
+  "placeId": "ChIJfXFgoeQHK4cRDGPL0EVxehI",
+  "googleRating": 4.8,
+  "googleReviewCount": 24,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9kRr6LkvHTaeBaCChlm8hw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=273.4154&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 23
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "crumbl-cookies-desserts-tempe",
   "name": "Crumbl – Cookies & Desserts",
   "category": "Desserts & Bakery",
-  "googleCategory": "Bakery",
+  "googleCategory": "Cookie shop",
   "secondaryCategories": [
     "Dessert shop",
     "Confectionery",
@@ -18,7 +18,7 @@
   "website": "https://crumblcookies.com/stores/az/mesa-area/tempe",
   "placeId": "ChIJjyeaZ3UJK4cRitmDl504cIw",
   "googleRating": 4.8,
-  "googleReviewCount": 2486,
+  "googleReviewCount": 2507,
   "hours": {
     "mon": "8:00 AM - 10:00 PM",
     "tue": "8:00 AM - 10:00 PM",
@@ -34,5 +34,20 @@
   "groundgameId": "6a6760f9621d61442ded7411",
   "seededAt": "2026-07-27T13:45:29Z",
   "updatedAt": "2026-07-27T13:47:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10119650612204525962",
+  "googleMapsUrl": "https://www.google.com/maps/place/Crumbl+Cookies/data=!4m7!3m6!1s0x872b0975679a278f:0x8c70389d9783d98a!8m2!3d33.4341253!4d-111.9273375!16s%2Fg%2F11fvvlnf8f!19sChIJjyeaZ3UJK4cRitmDl504cIw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 13,
+    "3": 44,
+    "4": 172,
+    "5": 2242
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7orpCsgBR2NIKO0snV1jYCDej0DmmVG267lGV-dj79cORL_KSTuqta2HN_Dozxb6cDeajYYpOTx0Wg51tuIh6H1j9P3UoyAtq7y-TCDLoSGfUh_m__v0SL7YRQBaN_2TkjFfCav8yWm6W=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

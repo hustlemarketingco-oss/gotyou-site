@@ -20,37 +20,17 @@
   "lng": -111.9347356,
   "phone": "+14805575245",
   "website": "https://www.cafetal.coffee/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9319173630268870356",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cafetal+Coffee+%26+Familia/data=!4m7!3m6!1s0x872b08d950344479:0x81545b0aa85d0ed4!8m2!3d33.4230136!4d-111.9347356!16s%2Fg%2F1v3gsc8q!19sChIJeUQ0UNkIK4cR1A5dqApbVIE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9319173630268870356",
   "placeId": "ChIJeUQ0UNkIK4cR1A5dqApbVIE",
   "googleRating": 4.8,
-  "googleReviewCount": 739,
+  "googleReviewCount": 792,
   "priceRange": "$10–20",
   "description": "ASU campus coffee shop serving sandwiches, pastries & espresso drinks to a student-heavy crowd.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free street parking",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "7:00 AM - 4:00 PM",
@@ -67,5 +47,14 @@
   "groundgameId": "6a2437c23bf747f8bc244718",
   "seededAt": "2026-06-06T15:07:46Z",
   "updatedAt": "2026-10-06T17:36:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 14,
+    "3": 23,
+    "4": 50,
+    "5": 694
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2eBWoG6g1D8d3-XCAxrJ1Op9u9DDi0IVFmQzjFXnknxIIhIDEWfzOuZmM5c4AEMIrcNyNgfSZyo3ErrSc_ZMJap8VERxucWOBjsC7R6Ze3URzW-kbuvF58Xo9lDIfq9u0G6zc=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

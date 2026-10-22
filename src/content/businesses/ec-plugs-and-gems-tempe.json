@@ -1,0 +1,41 @@
+{
+  "slug": "ec-plugs-and-gems-tempe",
+  "name": "EC Plugs and Gems",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Metaphysical supply store"
+  ],
+  "address": "414 S Mill Ave #125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "phone": "+14802167496",
+  "website": "https://www.ecplugsandgems.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/EC+Plugs+and+Gems/data=!4m7!3m6!1s0x872b090ba043d493:0x9c5e95a762e6f0b1!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F11zdrww9vj!19sChIJk9RDoAsJK4cRsfDmYqeVXpw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11267607863878938801",
+  "placeId": "ChIJk9RDoAsJK4cRsfDmYqeVXpw",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsz1UtNQ3PRRG4V78LsucaJnWkmnMOBHrBwkVi1YrRhocHhcLXExxfQKCRDSPFO2-vAFv9GBmTT-trOGs1C0s8rSE4j0ZGndkMvbXiDuYXsOl5BPdi1wfUrj0B-ygTbXCg7Ml-5z2QK64=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 5:00 PM",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

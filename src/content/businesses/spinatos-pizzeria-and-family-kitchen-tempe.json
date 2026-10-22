@@ -2,7 +2,7 @@
   "slug": "spinatos-pizzeria-and-family-kitchen-tempe",
   "name": "Spinato's Pizzeria and Family Kitchen",
   "category": "Pizza",
-  "googleCategory": "Pizza restaurant",
+  "googleCategory": "Italian restaurant",
   "secondaryCategories": [
     "Italian restaurant"
   ],
@@ -14,38 +14,18 @@
   "lng": -111.8976141,
   "phone": "+14809670020",
   "website": "http://spinatospizzeria.com/menus/tempe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8974241412636691136",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spinato%27s+Pizzeria+and+Family+Kitchen/data=!4m7!3m6!1s0x872b0856a258b327:0x7c8ae90468cf4ac0!8m2!3d33.4296807!4d-111.8976434!16s%2Fg%2F1tpll5w4!19sChIJJ7NYolYIK4cRwErPaATpinw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8974241412636691136",
   "placeId": "ChIJJ7NYolYIK4cRwErPaATpinw",
   "googleRating": 4.6,
-  "googleReviewCount": 3471,
+  "googleReviewCount": 3568,
   "priceRange": "$20–30",
   "description": "Branch of an informal, family-owned local chain serving pizzas, pastas & homestyle Italian eats.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -53,5 +33,23 @@
   "groundgameId": "6a2644e0551c1b0f81602ec5",
   "seededAt": "2026-06-08T04:28:16Z",
   "updatedAt": "2026-07-23T19:40:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 106,
+    "2": 74,
+    "3": 146,
+    "4": 544,
+    "5": 2698
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczpXr_JLXloJPqZjpcrtaPCpo4aBf1yDmHxAjBKbzhbhdUJnbG0Eb2lIQ19XWI1myi4XKwNKhVt-KwJzTEASlYKiNxlUl08ohErynPXl8Jy9IqGX7uSp7koskTavL3FeueY7g-khHDV5GW=w1200-h800-k-no",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

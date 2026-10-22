@@ -19,7 +19,7 @@
   "website": "https://www.pizzapiefactorytempe.com/",
   "placeId": "ChIJY3nR8yoPK4cRHQLTlj8PsWo",
   "googleRating": 4.6,
-  "googleReviewCount": 190,
+  "googleReviewCount": 196,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 1:00 AM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a2c63ce493226931bc51019",
   "seededAt": "2026-06-12T19:53:50Z",
   "updatedAt": "2026-08-04T18:10:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7687942804685914653",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pizza+Pie+Factory/data=!4m7!3m6!1s0x872b0f2af3d17963:0x6ab10f3f96d3021d!8m2!3d33.4230136!4d-111.9347356!16s%2Fg%2F1ptvs12pm!19sChIJY3nR8yoPK4cRHQLTlj8PsWo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 2,
+    "3": 8,
+    "4": 19,
+    "5": 158
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5r28TBH-GmEMMM4pGoo9dOg8waINBqFabN_Aef1JW8ZxXxKCxrVzkb193D59BRteccmGx4fRqkk323GCaFkMLWOZwtBLRUl7UsRlubN2ZBTDZl8Gaz0eBnLDGojJqovm2bAIc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

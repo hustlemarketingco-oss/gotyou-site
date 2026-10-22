@@ -14,21 +14,15 @@
   "lng": -111.9186144,
   "phone": "+14802411116",
   "website": "https://lighthousekava.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13982692972749051888",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lighthouse+Kava+Bar/data=!4m7!3m6!1s0x872b0961ed248403:0xc20c812cdc0ed7f0!8m2!3d33.4153516!4d-111.9186144!16s%2Fg%2F11x64pvr7k!19sChIJA4Qk7WEJK4cR8NcO3CyBDMI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13982692972749051888",
   "placeId": "ChIJA4Qk7WEJK4cR8NcO3CyBDMI",
   "googleRating": 4.8,
-  "googleReviewCount": 93,
+  "googleReviewCount": 96,
   "description": "Lighthouse Kava Bar is a tea house & coffee shop in Tempe, serving up takeout & delivery. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "12:00 PM - 2:00 AM",
@@ -45,5 +39,13 @@
   "groundgameId": "6a2438ee30287173428cbd33",
   "seededAt": "2026-06-06T15:12:46Z",
   "updatedAt": "2026-06-06T15:12:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 1,
+    "4": 1,
+    "5": 90
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7Q2af2k56OSyHmioDwsaofZGm-_yu5ZvVVSXpTQLWJfYyHK1d5NVlJcgIBFu8a6e6iPTudo_Ur4kaO_rir2plECsg7GlvQ4brf2emsydIEyR-BluVYSZGqDo4Uc_zzYd9G5havg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

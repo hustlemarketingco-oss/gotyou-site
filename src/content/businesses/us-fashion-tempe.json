@@ -1,0 +1,40 @@
+{
+  "slug": "us-fashion-tempe",
+  "name": "US Fashion",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3821867,
+  "lng": -111.96429189999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/US+Fashion/data=!4m7!3m6!1s0x872b0fd64d2fabc9:0xd166fa516613b84c!8m2!3d33.3821867!4d-111.9642919!16s%2Fg%2F11sx01kr8n!19sChIJyasvTdYPK4cRTLgTZlH6ZtE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15089022829063288908",
+  "placeId": "ChIJyasvTdYPK4cRTLgTZlH6ZtE",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMRuY8fsvcaaBvRu4vqr5PlBt-cZTzl4Svo-FpiYVwS3vZ7gN050dbe9UT-AcdZrhHUfVjD8q-cS2s38X9FSY1r8dVcERai8kXtLd6a1M8tEQnLj9fwPa3CVt35YOIG0x_g1tE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

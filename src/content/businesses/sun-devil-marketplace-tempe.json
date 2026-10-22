@@ -2,7 +2,7 @@
   "slug": "sun-devil-marketplace-tempe",
   "name": "Sun Devil Marketplace",
   "category": "Coffee & Cafe",
-  "googleCategory": "Cafe",
+  "googleCategory": "Clothing store",
   "secondaryCategories": [
     "Book store",
     "Clothing store",
@@ -18,22 +18,15 @@
   "lng": -111.9352286,
   "phone": "+14807274499",
   "website": "https://www.bkstr.com/arizonastatestore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-1235",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4985898607413126469",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sun+Devil+Marketplace/data=!4m7!3m6!1s0x872b08d8d7d83d0d:0x4531785df4f96545!8m2!3d33.4234107!4d-111.9352286!16s%2Fg%2F11b6s_n7kq!19sChIJDT3Y19gIK4cRRWX59F14MUU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4985898607413126469",
   "placeId": "ChIJDT3Y19gIK4cRRWX59F14MUU",
   "googleRating": 4.5,
-  "googleReviewCount": 99,
+  "googleReviewCount": 101,
   "description": "Located in Tempe, Sun Devil Marketplace is a cafe & book store.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 5:00 PM",
@@ -50,5 +43,14 @@
   "groundgameId": "6a24396ce93e02d906aff95c",
   "seededAt": "2026-06-06T15:14:52Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "3": 5,
+    "4": 22,
+    "5": 70
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUejaxuQuhojrOn3PwRy5LsA6sJyyDxKpA2cmxGsSbXug6seTeeiWf0brEnj1UETks6-HhrdPzU-3hz_8fMFGi3sgqinB4gL4HJZVlNz7o220RQ5PK1DyEZUCGMLslrkxZ4I-r=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

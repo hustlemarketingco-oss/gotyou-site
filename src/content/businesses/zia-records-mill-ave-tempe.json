@@ -1,0 +1,57 @@
+{
+  "slug": "zia-records-mill-ave-tempe",
+  "name": "Zia Records (Mill Ave - Tempe)",
+  "category": "Shopping",
+  "googleCategory": "Music store",
+  "secondaryCategories": [
+    "CD store",
+    "Comic book store",
+    "DVD store",
+    "Musical instrument store",
+    "Record store",
+    "Toy store",
+    "Used book store",
+    "Used CD store"
+  ],
+  "address": "3201 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941535,
+  "lng": -111.9385439,
+  "phone": "+14808291967",
+  "website": "https://www.ziarecords.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zia+Records+%28Mill+Ave+-+Tempe%29/data=!4m7!3m6!1s0x872b08d74156c98f:0x3171dfd4e3456c51!8m2!3d33.3941535!4d-111.9385439!16s%2Fg%2F1tdlhry5!19sChIJj8lWQdcIK4cRUWxF49TfcTE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3562874885665811537",
+  "placeId": "ChIJj8lWQdcIK4cRUWxF49TfcTE",
+  "googleRating": 4.6,
+  "googleReviewCount": 2966,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1mDoDlxTGrKEo2n80S9l63riqEK4mg4Sv1kzja9BdrdIIvURNn3hL_N7e-Oj9ojt4G8V3RfYF7u5VHXCc2ObvbDkQEpr3F7yj3KA4ZGUiDOQhcOJMED044s_W4A5_r6ey9UII0dDSgtxJ=w1200-h800-k-no",
+  "description": "Music & movie retailer with a large selection also selling novelty items, apparel & video games.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 49,
+    "3": 117,
+    "4": 458,
+    "5": 2250
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

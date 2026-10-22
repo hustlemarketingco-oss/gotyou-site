@@ -1,0 +1,36 @@
+{
+  "slug": "one-beauty-natural-beauty-tempe",
+  "name": "One Beauty Natural Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "780 W Elliot Rd Ste 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3495883,
+  "lng": -111.94978049999999,
+  "phone": "+13124819871",
+  "googleMapsUrl": "https://www.google.com/maps/place/One+Beauty+Natural+Beauty/data=!4m7!3m6!1s0x872b071e2dc05371:0x7dea774d7da5bafb!8m2!3d33.3495883!4d-111.9497805!16s%2Fg%2F11p6ww7g1p!19sChIJcVPALR4HK4cR-7qlfU136n0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9073195573995485947",
+  "placeId": "ChIJcVPALR4HK4cR-7qlfU136n0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5huKq-at6czpA3dU1YGZjg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=183.93202&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "3:00 PM - 8:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 10:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "texas-roadhouse-tempe",
+  "name": "Texas Roadhouse",
+  "category": "Restaurant",
+  "googleCategory": "Steak house",
+  "secondaryCategories": [
+    "American restaurant",
+    "Restaurant"
+  ],
+  "address": "8510 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3383681,
+  "lng": -111.9704409,
+  "phone": "+14809407427",
+  "website": "https://www.texasroadhouse.com/locations/arizona/tempe?utm_source=listing&utm_medium=search",
+  "googleMapsUrl": "https://www.google.com/maps/place/Texas+Roadhouse/data=!4m7!3m6!1s0x872b05cc8ee7a0a7:0x97f22d16249e1794!8m2!3d33.3383681!4d-111.9704409!16s%2Fg%2F11btrrfzwx!19sChIJp6DnjswFK4cRlBeeJBYt8pc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10948863217217968020",
+  "placeId": "ChIJp6DnjswFK4cRlBeeJBYt8pc",
+  "googleRating": 4.4,
+  "googleReviewCount": 7597,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5jmVCf7S1nrITU51jo4zmRJF3YoG3kmAk0d0YmIxNtj4ZugPptTKUHaJaiTWbBHv4duEaupVG0-UwrRqvisj02wtVSYXb93nMnMFKbuSvLv1qq4sA0Wb6a124khe5t1sDLTRP6a4ffSA=w1200-h800-k-no",
+  "description": "Lively chain steakhouse serving American fare with a Southwestern spin amid Texas-themed decor.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 399,
+    "2": 235,
+    "3": 493,
+    "4": 1364,
+    "5": 5106
+  },
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

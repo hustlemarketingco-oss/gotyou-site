@@ -1,0 +1,51 @@
+{
+  "slug": "baskin-robbins-southern-tempe",
+  "name": "Baskin-Robbins",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Cake shop",
+    "Dessert shop"
+  ],
+  "address": "Southern Palms Center, 3108 S McClintock Dr #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3960675,
+  "lng": -111.90947639999999,
+  "phone": "+14808203916",
+  "website": "https://locations.baskinrobbins.com/az/tempe/3108-s.-mcclintock-dr?utm_source=google&utm_medium=organic&utm_campaign=Yext",
+  "googleMapsUrl": "https://www.google.com/maps/place/Baskin-Robbins/data=!4m7!3m6!1s0x872b0886b8f1f955:0xa3f18bb2f52c10ea!8m2!3d33.3960675!4d-111.9094764!16s%2Fg%2F1tf6s7x3!19sChIJVfnxuIYIK4cR6hAs9bKL8aM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11813376898303267050",
+  "placeId": "ChIJVfnxuIYIK4cR6hAs9bKL8aM",
+  "googleRating": 4.4,
+  "googleReviewCount": 291,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTUvDTVJH9SpSdJTR8W18AjSapT0TmxUO4aN3oTr0d3H0YCSa4W0oB1KEM3Yqrby79OH3shc9P4JIEkDBbmw153tas-NnjD70N88v1uhxZwku0KaCTaPkOnc4t2uvl50QtwYc=w1200-h800-k-no",
+  "description": "Ice cream parlor chain known for its many ice cream flavors & sundaes, plus cakes, drinks & other treats.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 8,
+    "3": 20,
+    "4": 58,
+    "5": 189
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

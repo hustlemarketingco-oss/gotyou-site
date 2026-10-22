@@ -1,0 +1,29 @@
+{
+  "slug": "jovani-tempe",
+  "name": "Jovani",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2062 E Cameron Wy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.434261,
+  "lng": -111.8997777,
+  "phone": "+16234981531",
+  "website": "https://jovani38.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jovani/data=!4m7!3m6!1s0x872b090b34ff80d7:0xfd76df5a4f8d2b12!8m2!3d33.434261!4d-111.8997777!16s%2Fg%2F11z72g7sw5!19sChIJ14D_NAsJK4cREiuNT1rfdv0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18264030917822327570",
+  "placeId": "ChIJ14D_NAsJK4cREiuNT1rfdv0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QwYNEPNAwyy_-LSVQ1tccw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=314.90167&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "tas-art-studio-tempe",
+  "name": "Tas Art Studio",
+  "category": "Local Business",
+  "googleCategory": "Art studio",
+  "address": "209 E Baseline Rd Ste E208",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377523,
+  "lng": -111.9368806,
+  "phone": "+16027417974",
+  "website": "http://www.tasartstudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tas+Art+Studio/data=!4m7!3m6!1s0x872b061b94afffff:0xfa407cc83e73088e!8m2!3d33.377523!4d-111.9368806!16s%2Fg%2F11gmyx82jy!19sChIJ__-vlBsGK4cRjghzPsh8QPo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18032550107474495630",
+  "placeId": "ChIJ__-vlBsGK4cRjghzPsh8QPo",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9nYVUWB5hTeRjCvt1BYLs-HETIIXHJvyhgY3W8xJR1aqwEpxm14wfQPR6Pcb88eG1DGdJiTDLwDP7LBoYwzAMh-UszelBY6GQQCAbO1dHYqLNApmRgHzjG_lX0aFvi_bVAcZq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 4:00 PM",
+    "wed": "12:00 PM - 4:00 PM",
+    "thu": "12:00 PM - 4:00 PM",
+    "fri": "12:00 PM - 4:00 PM",
+    "sat": "12:00 PM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

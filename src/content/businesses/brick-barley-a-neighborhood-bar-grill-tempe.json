@@ -2,7 +2,7 @@
   "slug": "brick-barley-a-neighborhood-bar-grill-tempe",
   "name": "Brick & Barley - A Neighborhood Bar & Grill",
   "category": "Bars & Pubs",
-  "googleCategory": "Bar and grill",
+  "googleCategory": "Bar & grill",
   "secondaryCategories": [
     "Dog cafe",
     "Sports bar",
@@ -23,13 +23,13 @@
   "website": "http://brickandbarleyaz.com/",
   "placeId": "ChIJC2HElhsGK4cRJ02PzmjaDu4",
   "googleRating": 4.3,
-  "googleReviewCount": 1088,
+  "googleReviewCount": 1123,
   "priceRange": "$$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 2:00 AM",
@@ -46,5 +46,16 @@
   "groundgameId": "6a2c1ca77cdc2bcb0290ee34",
   "seededAt": "2026-06-12T14:50:15Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17153888174377749799",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brick+%26+Barley+-+A+Neighborhood+Bar+%26+Grill/data=!4m7!3m6!1s0x872b061b96c4610b:0xee0eda68ce8f4d27!8m2!3d33.377812!4d-111.93709!16s%2Fg%2F1tfp_966!19sChIJC2HElhsGK4cRJ02PzmjaDu4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 74,
+    "2": 45,
+    "3": 82,
+    "4": 240,
+    "5": 682
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrtes3ra6L-Nq7gOjJAPX2gclZcEF1Pjy9NNoJeDM57mebXeL9I8V8fbNMUKzgnm5lwN_r-8vE-mLSsOb04Rc5-3Hv4ljuRsUl46cARra7I_nvK_NmqHrl9zf6d9UDKSc7OS70=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "shirt52-tempe",
+  "name": "SHIRT52",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Clothing wholesaler",
+    "Embroidery service",
+    "Embroidery shop",
+    "Hat shop",
+    "Print shop",
+    "Promotional products supplier",
+    "Safety equipment supplier",
+    "Screen printer"
+  ],
+  "address": "1791 W University Dr #163",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4207891,
+  "lng": -111.96894739999999,
+  "phone": "+18665274478",
+  "website": "https://shirt52.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SHIRT52/data=!4m7!3m6!1s0x872b0ee7ed209fc9:0x85e77cb1d23de69b!8m2!3d33.4207891!4d-111.9689474!16s%2Fg%2F11gcjp3xxf!19sChIJyZ8g7ecOK4cRm-Y90rF854U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9648817829842904731",
+  "placeId": "ChIJyZ8g7ecOK4cRm-Y90rF854U",
+  "googleRating": 4.9,
+  "googleReviewCount": 123,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgY0rJjQaAaJWIDQapLfZjHdJo2RBJ4MaWyNPAKJQ2X2ZFn1bMz8auOtEA5Q9Ao24G15QS_V6xt0PCxP9GAX1p91aGYQEwNKJ6RQKq4cJQ3FxRowYlbFJvqYzqlT-s8KBDDH6R=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 121
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:30 PM",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "9:00 AM - 6:30 PM",
+    "sun": "9:00 AM - 6:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

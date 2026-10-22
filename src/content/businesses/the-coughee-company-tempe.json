@@ -2,7 +2,7 @@
   "slug": "the-coughee-company-tempe",
   "name": "The Coughee Company",
   "category": "Coffee & Cafe",
-  "googleCategory": "Tea house",
+  "googleCategory": "Coffee shop",
   "secondaryCategories": [
     "Cafe",
     "Coffee roastery",
@@ -19,7 +19,7 @@
   "lat": 33.406583,
   "lng": -111.9243626,
   "phone": "+14808186824",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10002276510453437517",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Coughee+Company/data=!4m7!3m6!1s0x872b0d218b70a707:0x8acf397deecf944d!8m2!3d33.406583!4d-111.9243626!16s%2Fg%2F11fk1kkv9r!19sChIJB6dwiyENK4cRTZTP7n05z4o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10002276510453437517",
   "placeId": "ChIJB6dwiyENK4cRTZTP7n05z4o",
   "googleRating": 4.5,
@@ -40,5 +40,12 @@
   "groundgameId": "6a243916ac7b796c9922745b",
   "seededAt": "2026-06-06T15:13:26Z",
   "updatedAt": "2026-06-06T15:13:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "2": 1,
+    "4": 1,
+    "5": 6
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefEhbQpasUODn9CdT3VcAFQa5e93VKyvRdkRq96u7Pgt2XQSPy1MtPHbmMUZZ-rn5eX4JIaEvIq_7Caql9GOVxo-xmxD_WLC-V8HVkoUp_zDdLDTegwoX8L2KvTuVs9HiuoQ7abQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

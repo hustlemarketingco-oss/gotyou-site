@@ -1,0 +1,41 @@
+{
+  "slug": "brecht-clothing-inc-tempe",
+  "name": "Brecht Clothing, Inc.",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Apparel company",
+    "Embroidery shop",
+    "Screen printer"
+  ],
+  "address": "2209 W 1st St #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.428396899999996,
+  "lng": -111.9747625,
+  "phone": "+18886677031",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brecht+Clothing,+Inc./data=!4m7!3m6!1s0x872b0edd6cd8c20d:0x136105c25c0a7640!8m2!3d33.4283969!4d-111.9747625!16s%2Fg%2F1thk96br!19sChIJDcLYbN0OK4cRQHYKXMIFYRM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1396403691787548224",
+  "placeId": "ChIJDcLYbN0OK4cRQHYKXMIFYRM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CWLOA1KnkO1-QqyGcM16OQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=212.90457&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "11:00 AM - 4:00 PM",
+    "tue": "11:00 AM - 4:00 PM",
+    "wed": "11:00 AM - 4:00 PM",
+    "thu": "11:00 AM - 4:00 PM",
+    "fri": "11:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

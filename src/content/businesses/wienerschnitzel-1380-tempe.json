@@ -15,8 +15,8 @@
   "phone": "+16023207917",
   "website": "https://www.wienerschnitzel.com/location/921-west-elliot-road-south-priest-drive-1380-west-elliot-road-tempe-az-85284/",
   "placeId": "ChIJb00lHwAFK4cRPWXDZrlAO3E",
-  "googleRating": 4.8,
-  "googleReviewCount": 44,
+  "googleRating": 4.7,
+  "googleReviewCount": 59,
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
     "tue": "10:00 AM - 10:00 PM",
@@ -32,5 +32,20 @@
   "groundgameId": "6a5535c9f28c1f942a04c7cc",
   "seededAt": "2026-07-13T19:00:25Z",
   "updatedAt": "2026-07-13T19:00:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8159186314948994365",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wienerschnitzel/data=!4m7!3m6!1s0x872b05001f254d6f:0x713b40b966c3653d!8m2!3d33.350694!4d-111.9603154!16s%2Fg%2F11yprrt152!19sChIJb00lHwAFK4cRPWXDZrlAO3E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 51
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBe7Gb0qA0RUTswYvmfWipSe6r0Fdt3SVwIOz7wMV1iRPJurCROJkZdNJWZfytTrQpuJYkWgKMR3TbzICFQ7nGHfJKAc0hU_vwkkUF2NUYTI4Ll00OU82HAVGv2jtDtw6Cysofpj5ZPJKA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

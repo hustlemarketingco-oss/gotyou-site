@@ -1,0 +1,46 @@
+{
+  "slug": "voila-hair-innovations-tempe",
+  "name": "VOILA! Hair Innovations",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "9020 S McClintock Dr Studio 15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332380199999996,
+  "lng": -111.9120878,
+  "phone": "+18024739020",
+  "website": "http://voilahairinnovations.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/VOILA!+Hair+Innovations/data=!4m7!3m6!1s0x872b06e4605b6c55:0x306b37484231f43e!8m2!3d33.3323802!4d-111.9120878!16s%2Fg%2F11ckvv7f26!19sChIJVWxbYOQGK4cRPvQxQkg3azA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3488943119816324158",
+  "placeId": "ChIJVWxbYOQGK4cRPvQxQkg3azA",
+  "googleRating": 4.3,
+  "googleReviewCount": 32,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTuWNSohAQh2cC4zgA1l66dTcuiAl1HjrjhkQMJd-Z-Ex9CEPYf5rS8guuGavf4xDdGiG9BRZjp_Ol9DhZpC4liBO3yUZLHsJyrkoj_nGUNl1XnYCw7w-uDeRzycyy9L23mFbCbA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "5": 26
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 11:30 AM, 4:00 PM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "2:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

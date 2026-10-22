@@ -1,0 +1,49 @@
+{
+  "slug": "inner-vision-yoga-tempe",
+  "name": "Inner Vision Yoga",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Massage therapist",
+    "Physical fitness program",
+    "Yoga instructor"
+  ],
+  "address": "937Q+54 In back parking lot West of Trader Joes At end of breezeway, 6448 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.361624,
+  "lng": -111.913022,
+  "phone": "+14806327899",
+  "website": "http://www.innervisionyoga.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Inner+Vision+Yoga/data=!4m7!3m6!1s0x872b066ad2f29a07:0x166e0b8345bca18f!8m2!3d33.361624!4d-111.913022!16s%2Fg%2F1tgpnh9n!19sChIJB5ry0moGK4cRj6G8RYMLbhY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1616241974711198095",
+  "placeId": "ChIJB5ry0moGK4cRj6G8RYMLbhY",
+  "googleRating": 4.9,
+  "googleReviewCount": 34,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9FzMyDc_lm3a-IUSU_5COA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=228.69806&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 2,
+    "5": 32
+  },
+  "hours": {
+    "mon": "8:30 AM - 11:30 AM, 4:00 PM - 6:30 PM",
+    "tue": "7:30 AM - 11:30 AM, 4:00 PM - 6:30 PM",
+    "wed": "8:30 AM - 11:30 PM",
+    "thu": "7:30 AM - 11:00 AM, 4:00 PM - 6:30 PM",
+    "fri": "9:00 AM - 11:00 AM, 4:00 PM - 5:30 PM",
+    "sat": "8:00 AM - 11:30 AM",
+    "sun": "8:30 AM - 11:30 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

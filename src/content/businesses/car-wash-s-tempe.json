@@ -1,0 +1,29 @@
+{
+  "slug": "car-wash-s-tempe",
+  "name": "Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "S Autoplex Loop",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348529899999996,
+  "lng": -111.9663363,
+  "googleMapsUrl": "https://www.google.com/maps/place/Car+Wash/data=!4m7!3m6!1s0x872b05c51699d2c9:0x5bfcdca4c99e7ba1!8m2!3d33.3485299!4d-111.9663363!16s%2Fg%2F11n__vq42j!19sChIJydKZFsUFK4cRoXueyaTc_Fs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6628415351897881505",
+  "placeId": "ChIJydKZFsUFK4cRoXueyaTc_Fs",
+  "googleRating": 3.8,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l5Df1RNdEUWOmLW-Mso1kg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=315.3743&pitch=-5.4321303&thumbfov=100",
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

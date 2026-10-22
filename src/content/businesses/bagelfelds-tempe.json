@@ -1,0 +1,51 @@
+{
+  "slug": "bagelfelds-tempe",
+  "name": "Bagelfelds - Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Bagel shop"
+  ],
+  "address": "5154 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3790477,
+  "lng": -111.92943799999999,
+  "phone": "+16028911449",
+  "website": "http://bagelfeld.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bagelfelds+-+Tempe/data=!4m7!3m6!1s0x872b071f3ce945f9:0x92c261c863392c31!8m2!3d33.3790477!4d-111.929438!16s%2Fg%2F11yt377mmw!19sChIJ-UXpPB8HK4cRMSw5Y8hhwpI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10575122388305390641",
+  "placeId": "ChIJ-UXpPB8HK4cRMSw5Y8hhwpI",
+  "googleRating": 4.6,
+  "googleReviewCount": 70,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX50vj2sJl-WYHqeJzJ7OHczFE8JVfpP47HBFD0XBb2P6xO49zUbp7cGMnk-yc4ru38UQplgVwq01YZ21wZL5BvfltVFIlEswglMxg70VF-8BmwfnjBJclXZ2XbvRUNbU2T65657eifTQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 7,
+    "5": 55
+  },
+  "hours": {
+    "mon": "6:00 AM - 1:00 PM",
+    "tue": "6:00 AM - 1:00 PM",
+    "wed": "6:00 AM - 1:00 PM",
+    "thu": "6:00 AM - 1:00 PM",
+    "fri": "6:00 AM - 1:00 PM",
+    "sat": "6:00 AM - 1:00 PM",
+    "sun": "6:00 AM - 1:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

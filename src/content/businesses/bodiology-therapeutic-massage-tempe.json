@@ -1,0 +1,47 @@
+{
+  "slug": "bodiology-therapeutic-massage-tempe",
+  "name": "Bodiology - Therapeutic Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Massage spa",
+    "Spa"
+  ],
+  "address": "201 E Southern Ave #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3923294,
+  "lng": -111.9364595,
+  "phone": "+14804485280",
+  "website": "https://bodiology.zoca.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bodiology+-+Therapeutic+Massage/data=!4m7!3m6!1s0x872b0974ca5b2285:0x9a786d947a976d41!8m2!3d33.3923294!4d-111.9364595!16s%2Fg%2F11s0tmqj0r!19sChIJhSJbynQJK4cRQW2XepRteJo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11130766963525512513",
+  "placeId": "ChIJhSJbynQJK4cRQW2XepRteJo",
+  "googleRating": 5,
+  "googleReviewCount": 55,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyIpefWEF0_J1QIEv67VvYnwjbgMwuN6_BpmyVA72Q3Z2nGB9mRjT0J4Z414BZfNh6210kDmSRvQC64Mc8QiNJXhR_SgE6X8eUl95be52_cC24EciD8FO-DtbVuf8RFZvM-koH-g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 55
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

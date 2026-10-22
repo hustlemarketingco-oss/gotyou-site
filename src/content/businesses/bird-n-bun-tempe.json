@@ -18,10 +18,9 @@
   "googleReviewCount": 10,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Google Pay",
-    "Apple Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "mon": "7:00 AM - 7:00 PM",
@@ -38,5 +37,13 @@
   "groundgameId": "6a67a66e352f098ea9dd375d",
   "seededAt": "2026-07-27T18:41:50Z",
   "updatedAt": "2026-07-27T18:42:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16146255462137285293",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bird-N-Bun/data=!4m7!3m6!1s0x872b0ff7998d3ad9:0xe01305cbd9674aad!8m2!3d33.4073214!4d-111.9655293!16s%2Fg%2F11jsrf6q9w!19sChIJ2TqNmfcPK4cRrUpn2csFE-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 7,
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfG3Y0Tz3qwBzAF9Td8jOGknqS5jyW2Ul5rVgX9wUabZ2YcGwgvckDdIRC8iVYI9h3lgmgOM8s0wxPYsfSpR63U6l5tqms-KCc89oVM0e-P5gHPVdhqCJiYCZbRTujn9afHvPo-=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -15,23 +15,16 @@
   "lng": -111.9318581,
   "phone": "+14809653191",
   "website": "https://www.bkstr.com/arizonastatestore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-1230",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9960499059253475916",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sun+Devil+Campus+Store+-+Tempe/data=!4m7!3m6!1s0x872b08dcebd9049f:0x8a3acd1f146a7a4c!8m2!3d33.4178293!4d-111.9318581!16s%2Fg%2F1tmpwflk!19sChIJnwTZ69wIK4cRTHpqFB_NOoo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9960499059253475916",
   "placeId": "ChIJnwTZ69wIK4cRTHpqFB_NOoo",
   "googleRating": 4.3,
-  "googleReviewCount": 1666,
+  "googleReviewCount": 1682,
   "description": "Main branch of Arizona State University shops with apparel & gifts plus textbooks & electronics.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "9:30 AM - 4:00 PM",
@@ -48,5 +41,14 @@
   "groundgameId": "6a243970167294aeb1cd1c70",
   "seededAt": "2026-06-06T15:14:56Z",
   "updatedAt": "2026-06-06T15:14:56Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 69,
+    "2": 41,
+    "3": 153,
+    "4": 419,
+    "5": 1000
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDNwhrdgZJ5eQSg6gJ3vxdIX9_o8999b-B2wOTVr8LMimDV-alJZCWFX2qNjMYezMCK8tGFF1mI2H58Ul1_zwXEPUkBDUKF63wuPxY7qtvpg9GRrzZApb61Bvc7fYTiGsvPy80=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

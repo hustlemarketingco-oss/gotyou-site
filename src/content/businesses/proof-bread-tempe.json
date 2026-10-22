@@ -2,7 +2,7 @@
   "slug": "proof-bread-tempe",
   "name": "Proof Bread",
   "category": "Coffee & Cafe",
-  "googleCategory": "Coffee shop",
+  "googleCategory": "Bakery",
   "secondaryCategories": [
     "Breakfast restaurant",
     "Cafe",
@@ -18,24 +18,16 @@
   "lng": -111.939815,
   "phone": "+14802708320",
   "website": "https://proofbread.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4795504729577122789",
+  "googleMapsUrl": "https://www.google.com/maps/place/Proof+Bread/data=!4m7!3m6!1s0x872b09da501138a5:0x428d0e24d5266be5!8m2!3d33.423557!4d-111.939815!16s%2Fg%2F11y0sj5487!19sChIJpTgRUNoJK4cR5Wsm1SQOjUI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4795504729577122789",
   "placeId": "ChIJpTgRUNoJK4cR5Wsm1SQOjUI",
   "googleRating": 4.8,
-  "googleReviewCount": 65,
+  "googleReviewCount": 84,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Proof Bread is a coffee shop & breakfast restaurant with coffee, takeout & delivery.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "7:00 AM - 4:00 PM",
@@ -52,5 +44,13 @@
   "groundgameId": "6a2439449ecde4e77fb641f2",
   "seededAt": "2026-06-06T15:14:12Z",
   "updatedAt": "2026-07-03T17:17:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 4,
+    "4": 3,
+    "5": 75
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe59XwVB0WJITZKU39S8Fc-2-CD7xHyyBpVI4p0v0i2gJXCnfagdWAlCSHNDwbks6CI5WMlikak8S1U1tIex4U52_ivh1-hNl9hZx2oX9z6rqxjj6ji1MNhx8wTYD86kPiJ4oedzmLw-y8=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

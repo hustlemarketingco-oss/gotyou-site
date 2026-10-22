@@ -11,11 +11,11 @@
   "lng": -111.9304701,
   "phone": "+14802844972",
   "website": "https://bahaaraindiankitchen.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10376752260656245026",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bahaara+Indian+Kitchen/data=!4m7!3m6!1s0x872b07470880553f:0x9001a133e2a5a922!8m2!3d33.3209824!4d-111.9304701!16s%2Fg%2F11ycg3rllp!19sChIJP1WACEcHK4cRIqml4jOhAZA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10376752260656245026",
   "placeId": "ChIJP1WACEcHK4cRIqml4jOhAZA",
   "googleRating": 4.7,
-  "googleReviewCount": 704,
+  "googleReviewCount": 874,
   "description": "Located in Tempe, Bahaara Indian Kitchen is a restaurant.",
   "hours": {
     "fri": "11:30 AM - 2:30 PM, 5:00 PM - 10:00 PM",
@@ -32,5 +32,23 @@
   "groundgameId": "6a24377a52b03b626171a68e",
   "seededAt": "2026-06-06T15:06:34Z",
   "updatedAt": "2026-06-06T15:06:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 15,
+    "3": 15,
+    "4": 43,
+    "5": 769
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcalsHpJBCjKs1saO1spIdSpoPch-LY93_YVVM3bbDjZqKGrYl2ZxMNzfrKoIDVs8NLCUKf0IM6zYk1lxkBdDQui0AqtsekRTeLhr9VlzZik0O7l-Hpijx4E_9qTk2QExJS27kEP4utH9y-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "secondaryCategories": [
+    "Indian restaurant"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

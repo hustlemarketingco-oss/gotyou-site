@@ -1,0 +1,44 @@
+{
+  "slug": "yucatecan-imports-tempe",
+  "name": "Yucatecan Imports",
+  "category": "Shopping",
+  "googleCategory": "Store",
+  "address": "414 S Mill Ave #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425916199999996,
+  "lng": -111.94051449999999,
+  "phone": "+14803039404",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yucatecan+Imports/data=!4m7!3m6!1s0x872b08d7fff6c88f:0x1670ae1dc8448029!8m2!3d33.4259162!4d-111.9405145!16s%2Fg%2F1vr1x2lm!19sChIJj8j2_9cIK4cRKYBEyB2ucBY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1616983709163225129",
+  "placeId": "ChIJj8j2_9cIK4cRKYBEyB2ucBY",
+  "googleRating": 4.6,
+  "googleReviewCount": 49,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpXLSb2LJf49Df6XZXQ1Qqrry0GcDpJnOgoC7XWnet1UTcfkDDfCX89Xg3gx-Sakif-08dSxPskFux4NmyE2-iN_n-y3IGAuWlC1vS0ZuB8tceiiaCXJkoyhonPK-T2ac-1dqr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 1,
+    "4": 4,
+    "5": 40
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

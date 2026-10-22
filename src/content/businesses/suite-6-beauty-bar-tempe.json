@@ -1,0 +1,36 @@
+{
+  "slug": "suite-6-beauty-bar-tempe",
+  "name": "Suite 6 Beauty Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "1720 E Warner Rd #6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352222,
+  "lng": -111.9126608,
+  "phone": "+14807038963",
+  "googleMapsUrl": "https://www.google.com/maps/place/Suite+6+Beauty+Bar/data=!4m7!3m6!1s0x872b06fb32fe616f:0x3b72a472c0bbc8bb!8m2!3d33.3352222!4d-111.9126608!16s%2Fg%2F11g4jbkdwt!19sChIJb2H-MvsGK4cRu8i7wHKkcjs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4283667008349522107",
+  "placeId": "ChIJb2H-MvsGK4cRu8i7wHKkcjs",
+  "googleRating": 5,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3R6q91mPJ4AA6Y4sPXTx2Elyqoa-CWY1SYwJNKHCrJczyeycQMx6F0A4TtjRJ4jaPJo7qNf5sptXSfh0BAK6xfuJYNHMNqQ0-D7y4sYnZw1DcG7xcTIN93XAbV5UrbEOu3DnN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 18
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

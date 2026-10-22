@@ -1,0 +1,26 @@
+{
+  "slug": "quemena-tempe",
+  "name": "Quemena",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "2634 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932838,
+  "lng": -111.8815728,
+  "googleMapsUrl": "https://www.google.com/maps/place/Quemena/data=!4m7!3m6!1s0x872b07001a2eb775:0x40a34c6ef8171528!8m2!3d33.3932838!4d-111.8815728!16s%2Fg%2F11y873clc7!19sChIJdbcuGgAHK4cRKBUX-G5Mo0A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4657650479123600680",
+  "placeId": "ChIJdbcuGgAHK4cRKBUX-G5Mo0A",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxJjVSRV_lW-NctgSBZsRw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=277.8644&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

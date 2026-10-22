@@ -9,16 +9,8 @@
   "zip": "85281",
   "description": "Located in Tempe, Nite Creamery is a casual, trendy ice cream shop with takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/nitecreamery"
@@ -29,5 +21,31 @@
   "groundgameId": "6a243612f0d7cebc7d9c25fb",
   "seededAt": "2026-06-06T15:00:34Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7aI7MzIJK4cR2RiUPAZQgnM",
+  "googleCid": "8323303049050462425",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nite+Creamery/data=!4m7!3m6!1s0x872b0932333ba2ed:0x738250063c9418d9!8m2!3d33.4149228!4d-111.9247036!16s%2Fg%2F11x0hb3bd3!19sChIJ7aI7MzIJK4cR2RiUPAZQgnM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 1485,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 4,
+    "3": 7,
+    "4": 39,
+    "5": 1428
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrD0-UiugpiVmp0aSOs-Ndvia48Eoj86v1BvGsSGOY5icveQ5hDqkWqkYT-JgcXF4sAVdCtotM4ZQBmOxL93tig7egS95NxPHhR1mkuJWoKUYJjML3KZQM0L81tY-UuYWujGA6VAfgR8c=w1200-h800-k-no",
+  "website": "http://nitecreamery.com/",
+  "hours": {
+    "mon": "5:00 PM - 12:00 AM",
+    "tue": "5:00 PM - 12:00 AM",
+    "wed": "5:00 PM - 12:00 AM",
+    "thu": "5:00 PM - 12:00 AM",
+    "fri": "5:00 PM - 12:00 AM",
+    "sat": "12:00 PM - 12:00 AM",
+    "sun": "12:00 PM - 12:00 AM"
+  },
+  "lat": 33.4149228,
+  "lng": -111.9247036,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

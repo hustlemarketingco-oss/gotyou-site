@@ -1,0 +1,50 @@
+{
+  "slug": "crazy-8-tempe",
+  "name": "Crazy 8",
+  "category": "Shopping",
+  "googleCategory": "Children's clothing store",
+  "secondaryCategories": [
+    "Baby clothing store",
+    "Clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #308",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3823704,
+  "lng": -111.96414329999999,
+  "phone": "+14804915607",
+  "website": "http://www.crazy8.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Crazy+8/data=!4m7!3m6!1s0x872b0f59e1444903:0xce53717adf4ed924!8m2!3d33.3823704!4d-111.9641433!16s%2Fg%2F1263qm8h4!19sChIJA0lE4VkPK4cRJNlO33pxU84?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14867351567426574628",
+  "placeId": "ChIJA0lE4VkPK4cRJNlO33pxU84",
+  "googleRating": 4,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVNvQpWfxZHCpakMwzUzieAYF-d_EGmVUA4UiQL2OLH-FOoEzBLnJSPrkIiYd_ayuJZBf9nW1yf6wDrNteumbx9fd5jygugJS1WKnbbY2bbPDbI9znFzFHSRdY0KLoCrEhgLXX=w1200-h800-k-no",
+  "description": "Children's apparel chain also selling sleepwear, shoes & accessories, plus school uniforms.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 3,
+    "4": 8,
+    "5": 12
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "elements-massage-tempe",
   "name": "Elements Massage - Tempe",
   "category": "Health & Beauty",
-  "googleCategory": "Wellness center",
+  "googleCategory": "Massage therapist",
   "secondaryCategories": [
     "Massage"
   ],
@@ -16,7 +16,7 @@
   "website": "http://www.elementsmassage.com/tempe",
   "placeId": "ChIJJ2xqnxgGK4cRkCZWEnxI9P4",
   "googleRating": 4.6,
-  "googleReviewCount": 287,
+  "googleReviewCount": 291,
   "hours": {
     "mon": "9:00 AM - 9:00 PM",
     "tue": "9:00 AM - 9:00 PM",
@@ -32,5 +32,21 @@
   "groundgameId": "6a397a661091f73e7dc2dcb6",
   "seededAt": "2026-06-22T18:09:42Z",
   "updatedAt": "2026-06-22T18:09:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "18371388477671876240",
+  "googleMapsUrl": "https://www.google.com/maps/place/Elements+Massage+-+Tempe/data=!4m7!3m6!1s0x872b06189f6a6c27:0xfef4487c12562690!8m2!3d33.3799813!4d-111.9297261!16s%2Fg%2F11b7fzksq_!19sChIJJ2xqnxgGK4cRkCZWEnxI9P4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 10,
+    "3": 3,
+    "4": 13,
+    "5": 245
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9G26BoY9oSFYJeJVE6vq7oRa5y9lm0EhNztTy8LBv4rrfSVzFcBrx0g3wR8fKZARG9txKtBQxzXkGpHvRKR7y8VghKSp4lcVVxwi6nC-ykclrQgQm-jIffpTi8UsfhD2dFzskIw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

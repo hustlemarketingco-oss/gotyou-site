@@ -1,0 +1,56 @@
+{
+  "slug": "nordstrom-rack-tempe",
+  "name": "Nordstrom Rack",
+  "category": "Shopping",
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Clothing store",
+    "Cosmetics store",
+    "Men's clothing store",
+    "Outlet store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "1900 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430112699999995,
+  "lng": -111.9020577,
+  "phone": "+14806034600",
+  "website": "https://stores.nordstromrack.com/us/az/tempe/1900-east-rio-salado-parkway?utm_source=google&utm_medium=organic&utm_campaign=rack&utm_content=150&utm_channel=low_nd_seo_local&sp_source=google&sp_campaign=rack",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nordstrom+Rack/data=!4m7!3m6!1s0x872b0855a9979c5f:0x50cff629a62a461!8m2!3d33.4301127!4d-111.9020577!16s%2Fg%2F11b6bpthk5!19sChIJX5yXqVUIK4cRYaRimmL_DAU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "363946468872201313",
+  "placeId": "ChIJX5yXqVUIK4cRYaRimmL_DAU",
+  "googleRating": 4.2,
+  "googleReviewCount": 1020,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_VNRDftvYErVhLjxyp4ZKuCTSL1OzIU8VbC8gC6iqbg_nq-4KOwk17h33bRe4PcBLU8PlNQUDZoiBL4AlIxM6jaA9PRExiLqjReLFzRvWcWmYWrUYnkjkX1UZTJPUoP8u_07GpC7OASKn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 37,
+    "3": 101,
+    "4": 241,
+    "5": 588
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

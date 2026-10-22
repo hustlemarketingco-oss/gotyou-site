@@ -1,0 +1,54 @@
+{
+  "slug": "starbucks-coffee-company-s-17gw-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "E Lemon St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.416579999999996,
+  "lng": -111.93422,
+  "phone": "+14805551212",
+  "website": "https://www.starbucks.com/store-locator/store/12981",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b08dce7603b99:0x6cecf52f9520eda3!8m2!3d33.41658!4d-111.93422!16s%2Fg%2F1vvr6p14!19sChIJmTtg59wIK4cRo-0glS_17Gw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7848917835314163107",
+  "placeId": "ChIJmTtg59wIK4cRo-0glS_17Gw",
+  "googleRating": 3.4,
+  "googleReviewCount": 32,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedJfOFhKBTABdQSk-cvMulAzcctLu9MhXFMqTRsB0G3r7oOgniuJyvV3cglDjlUQmXkTIiNVA8SsiUDcgwGf2bbLik-OTqTNUV7WQb6TJ3qw-jreHSbq2F-OsECRz_QLdXKTqh=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 4,
+    "3": 4,
+    "4": 3,
+    "5": 14
+  },
+  "hours": {
+    "mon": "7:30 AM - 5:00 PM",
+    "tue": "7:30 AM - 5:00 PM",
+    "wed": "7:30 AM - 5:00 PM",
+    "thu": "7:30 AM - 5:00 PM",
+    "fri": "7:30 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

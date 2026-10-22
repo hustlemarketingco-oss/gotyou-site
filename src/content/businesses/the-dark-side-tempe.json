@@ -10,26 +10,17 @@
   "lat": 33.4216073,
   "lng": -111.943868,
   "website": "https://www.facebook.com/thedarksideTFM/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11969375195768460469",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Dark+Side/data=!4m7!3m6!1s0x872b09d9a7de45bb:0xa61bc352f72694b5!8m2!3d33.4216073!4d-111.943868!16s%2Fg%2F11h9h0xw0v!19sChIJu0Xep9kJK4cRtZQm91LDG6Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11969375195768460469",
   "placeId": "ChIJu0Xep9kJK4cRtZQm91LDG6Y",
   "googleRating": 4.6,
-  "googleReviewCount": 72,
+  "googleReviewCount": 77,
   "priceRange": "$10–20",
   "description": "Located in Tempe, The Dark Side is a casual, cozy bar with alcohol & beer, takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "4:00 PM - 2:00 AM",
@@ -46,5 +37,14 @@
   "groundgameId": "6a243876b64a89f28704dffd",
   "seededAt": "2026-06-06T15:10:46Z",
   "updatedAt": "2026-06-25T21:24:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 9,
+    "5": 61
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEqcpKX0ukD_FfLbXNCtWFqCfVO5jG7T_hPCkcjdmUk9Ho6rQx-EsjyQ7rJ4XJ1w84XVfzV9OWNEabsylRmZAmYdOl0gweGYV0dO3-Lm5SqByhJD5D0aSFDCA9Eo47ASG2fKeaOEu75_Yi=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

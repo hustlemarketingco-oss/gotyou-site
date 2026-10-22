@@ -1,0 +1,47 @@
+{
+  "slug": "hairflix-barbershop-tempe",
+  "name": "Hairflix Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1301 E University Dr Unit 136",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4208175,
+  "lng": -111.9172687,
+  "phone": "+14805594539",
+  "website": "http://hairflixbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hairflix+Barbershop/data=!4m7!3m6!1s0x872b09c98abffb81:0x8851b1ed53b92bc5!8m2!3d33.4208175!4d-111.9172687!16s%2Fg%2F11pwjc1mxn!19sChIJgfu_iskJK4cRxSu5U-2xUYg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9822827895141772229",
+  "placeId": "ChIJgfu_iskJK4cRxSu5U-2xUYg",
+  "googleRating": 4.9,
+  "googleReviewCount": 2420,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcs0jk_5sB-NXIPWuEprRP0TpiEY4JvbazdI9fcpEjrGaC6MCmdSk56PNKB4Oz8rbs0ffMPQYIY7bxUB-J68VOWh81meUk2LJouIeKEr2m4ZjPqtMd5BcYehvnrgn0wJTW4EEU4u6XHK0E=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 67,
+    "2": 10,
+    "3": 7,
+    "4": 26,
+    "5": 2310
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "7:30 AM - 10:00 PM",
+    "thu": "7:30 AM - 10:00 PM",
+    "fri": "7:30 AM - 10:00 PM",
+    "sat": "7:30 AM - 9:00 PM",
+    "sun": "7:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "blade-and-piercing-tempe",
+  "name": "Blade and Piercing",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo and piercing shop",
+  "secondaryCategories": [
+    "Barber shop",
+    "Ear piercing service"
+  ],
+  "address": "1800 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+19517723813",
+  "website": "https://margaritaperez5.glossgenius.com/services",
+  "googleMapsUrl": "https://www.google.com/maps/place/Blade+and+Piercing/data=!4m7!3m6!1s0x872b09386f17c89d:0xdb070ca19963b66b!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11nr7z9vz_!19sChIJncgXbzgJK4cRa7ZjmaEMB9s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15782597307345909355",
+  "placeId": "ChIJncgXbzgJK4cRa7ZjmaEMB9s",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mo2oUSBvayUJBt6uxCWr3Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=218.79816&pitch=0&thumbfov=100",
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

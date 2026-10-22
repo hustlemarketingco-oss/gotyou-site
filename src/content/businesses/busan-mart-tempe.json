@@ -15,21 +15,16 @@
   "lng": -111.9174205,
   "phone": "+14805507633",
   "website": "http://busanmart.us/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1604672625802331587",
+  "googleMapsUrl": "https://www.google.com/maps/place/Busan+Mart/data=!4m7!3m6!1s0x872b091875726663:0x1644f14051bdc5c3!8m2!3d33.4078216!4d-111.9174205!16s%2Fg%2F11q406t04p!19sChIJY2ZydRgJK4cRw8W9UUDxRBY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1604672625802331587",
   "placeId": "ChIJY2ZydRgJK4cRw8W9UUDxRBY",
   "googleRating": 4.6,
-  "googleReviewCount": 273,
+  "googleReviewCount": 282,
   "description": "Located in Tempe, Busan Mart is a korean grocery store & grocery store with food & prepared foods, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.instagram.com/busanmart"
@@ -49,5 +44,14 @@
   "groundgameId": "6a24363ee634a1518af367f1",
   "seededAt": "2026-06-06T15:01:18Z",
   "updatedAt": "2026-07-06T18:00:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 5,
+    "3": 18,
+    "4": 35,
+    "5": 218
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0XnLYsKh_g1w8xkttAe7XXmlaNw2p_yE3uzozR3NFzP3poNraP6PXy-b1GmNdu4UrAlZBnRmu667PedSxLk9f-0jT6LflSbiNizJpbG4QJ2hmSUkg5MFBnc0oyJ0KUIiAGHg8TZKx_WY=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

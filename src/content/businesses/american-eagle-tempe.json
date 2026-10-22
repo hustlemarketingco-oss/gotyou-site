@@ -1,0 +1,56 @@
+{
+  "slug": "american-eagle-tempe",
+  "name": "American Eagle",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Jeans shop",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Swimwear store",
+    "T-shirt store",
+    "Underwear store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #282",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383046,
+  "lng": -111.964215,
+  "phone": "+14804911837",
+  "website": "https://storelocations.ae.com/us/az/tempe/02024-5000-south-arizona-mills.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/American+Eagle/data=!4m7!3m6!1s0x872b0f5a0c770911:0x407985804c10a21!8m2!3d33.383046!4d-111.964215!16s%2Fg%2F1tjdm67q!19sChIJEQl3DFoPK4cRIQrBBFiYBwQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "290368204792990241",
+  "placeId": "ChIJEQl3DFoPK4cRIQrBBFiYBwQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 189,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf52b6IfrbAvNwSMKCDOqTBwlXKaFSDGodWVkGUdf6XDl1af8S7MyK6DIA0fZh6JnCPR-79g_U1jhd0zLDBjIPLW5oWiyeXigGGfqJ7IHMEzJKYYeC6ZhZT1vf0v87agJ_8TniQJw=w1200-h800-k-no",
+  "description": "Chain selling trendy casualwear, shoes, accessories & loungewear for guys & girls.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 2,
+    "3": 18,
+    "4": 32,
+    "5": 128
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

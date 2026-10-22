@@ -2,7 +2,7 @@
   "slug": "red-robin-gourmet-burgers-and-brews-tempe",
   "name": "Red Robin Gourmet Burgers and Brews",
   "category": "Fast Food",
-  "googleCategory": "Hamburger restaurant",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "American restaurant",
     "Grill",
@@ -21,32 +21,18 @@
   "lng": -111.9075817,
   "phone": "+14808940655",
   "website": "https://www.redrobin.com/locations/az/tempe/tempe-marketplace-523",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14526468819848014850",
+  "googleMapsUrl": "https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/data=!4m7!3m6!1s0x872b0906b3b534f7:0xc998626d57d42c02!8m2!3d33.4324326!4d-111.9075817!16s%2Fg%2F1tggt_17!19sChIJ9zS1swYJK4cRAizUV21imMk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14526468819848014850",
   "placeId": "ChIJ9zS1swYJK4cRAizUV21imMk",
   "googleRating": 4.4,
-  "googleReviewCount": 3636,
+  "googleReviewCount": 3719,
   "priceRange": "$$",
   "description": "Chain for gourmet burgers & other American comfort fare.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 11:00 PM",
@@ -63,5 +49,14 @@
   "groundgameId": "6a24382b7556e92ecbc7e8f8",
   "seededAt": "2026-06-06T15:09:31Z",
   "updatedAt": "2026-06-12T22:05:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 125,
+    "2": 94,
+    "3": 261,
+    "4": 831,
+    "5": 2408
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGTKw9tAM0RGrsazGOLe8EFRLZApcU42PcNBq_0WNK-qtc4cUOAerioJKFWYrI9SHrNI2Pn0QAzODh_oJcDfObERDpKSIBDK3M3K7RwqrETXNrb3iONj_kMeBVSf9BWueSgdCg2g=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

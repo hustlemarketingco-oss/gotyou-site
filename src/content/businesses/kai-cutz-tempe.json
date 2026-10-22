@@ -1,0 +1,37 @@
+{
+  "slug": "kai-cutz-tempe",
+  "name": "Kai Cutz",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "933 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061569,
+  "lng": -111.92458239999999,
+  "website": "https://kaicutz35.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kai+Cutz/data=!4m7!3m6!1s0x872b0920bf71878f:0xc2413167287060d4!8m2!3d33.4061569!4d-111.9245824!16s%2Fg%2F11nvf76zh0!19sChIJj4dxvyAJK4cR1GBwKGcxQcI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13997523435974058196",
+  "placeId": "ChIJj4dxvyAJK4cR1GBwKGcxQcI",
+  "googleRating": 5,
+  "googleReviewCount": 35,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfl40_geGkYC8xGLvDIuQ1jKAXzDqULrABxDMYA6obBW5xTk_8IQ636sxWwLcfHuZ45FrYu_Uqac8aPtSyxuk0q1zxQOz3NPCa78Vq3d5Ixkry_TASCYZYNQDOQ3yW7EYyCxujgxNLmrUk=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 35
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

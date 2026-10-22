@@ -1,0 +1,45 @@
+{
+  "slug": "reflexology-spa-tempe",
+  "name": "Reflexology Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Foot massage parlor",
+  "secondaryCategories": [
+    "Massage spa"
+  ],
+  "address": "1817 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392207899999995,
+  "lng": -111.90769809999999,
+  "phone": "+16233327885",
+  "googleMapsUrl": "https://www.google.com/maps/place/Reflexology+Spa/data=!4m7!3m6!1s0x872b092d38b1ca53:0xc64a8cc767b55a0c!8m2!3d33.3922079!4d-111.9076981!16s%2Fg%2F11z2n8rsj4!19sChIJU8qxOC0JK4cRDFq1Z8eMSsY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14288387555852638732",
+  "placeId": "ChIJU8qxOC0JK4cRDFq1Z8eMSsY",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeln4YOMMsuNRq0u3VXhMTSMAKSpeS5Azsbzjjr4Pb_Wt8pJ55jA2sks5FtdnSPF5PBkSwRw5KcYeFsawPNLvYjk9Q70tJYs-HSeA9HL-v1lzfQTGxRfBW-c1ES8Ow9G0uwCN8V4tzmsUw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

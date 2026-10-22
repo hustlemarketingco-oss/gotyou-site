@@ -11,23 +11,10 @@
   "priceRange": "$10–20",
   "description": "Located in Tempe, IL Bosco Pizza is a casual, trendy pizza restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/ILBoscoaz"
@@ -38,5 +25,31 @@
   "groundgameId": "6a24382fb0b2a7818c4e69a1",
   "seededAt": "2026-06-06T15:09:35Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJz93TOwAHK4cR1GWeXR87aNc",
+  "googleCid": "15521721121633101268",
+  "googleMapsUrl": "https://www.google.com/maps/place/IL+Bosco+Pizza/data=!4m7!3m6!1s0x872b07003bd3ddcf:0xd7683b1f5d9e65d4!8m2!3d33.3622916!4d-111.9126248!16s%2Fg%2F11lz2fylk0!19sChIJz93TOwAHK4cR1GWeXR87aNc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 85,
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 4,
+    "4": 6,
+    "5": 73
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLceSI-9yu7zGAUKYbFaHqrY5-OEOq4jQRWktzSJqsifXEKQoF22Z1cQwxYtP5thaFlUeJwRGzIPTltLnsfrOlOfePn-ZOKrRGecy7AYgAqRmgrhWNbHnCSYkVlCw5hoBG8kMUxC0YfAueo=w1200-h800-k-no",
+  "website": "https://www.ilboscopizza.com/",
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "11:30 AM - 9:00 PM",
+    "sat": "11:30 AM - 9:00 PM",
+    "sun": "11:30 AM - 8:00 PM"
+  },
+  "lat": 33.3622916,
+  "lng": -111.91262479999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

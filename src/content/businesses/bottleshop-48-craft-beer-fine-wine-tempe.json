@@ -2,7 +2,7 @@
   "slug": "bottleshop-48-craft-beer-fine-wine-tempe",
   "name": "Bottleshop 48 - Craft Beer & Fine Wine",
   "category": "Shopping",
-  "googleCategory": "Wine store",
+  "googleCategory": "Beer store",
   "secondaryCategories": [
     "Beer store"
   ],
@@ -13,14 +13,10 @@
   "phone": "+14808200804",
   "description": "Located in Tempe, Bottleshop 48 - Craft Beer & Fine Wine is a wine store & beer store. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/bottleshop48"
@@ -31,5 +27,31 @@
   "groundgameId": "6a24386b977211e77d174a17",
   "seededAt": "2026-06-06T15:10:35Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7fZe2oMIK4cR-xsbsu_f2-I",
+  "googleCid": "16346905493049646075",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bottleshop+48+-+Craft+Beer+%26+Fine+Wine/data=!4m7!3m6!1s0x872b0883da5ef6ed:0xe2dbdfefb21b1bfb!8m2!3d33.3921608!4d-111.9110594!16s%2Fg%2F11by_d471w!19sChIJ7fZe2oMIK4cR-xsbsu_f2-I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 540,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 4,
+    "3": 14,
+    "4": 53,
+    "5": 462
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyZDeTF-zZ9P2CZem6tvDthGhWawk9qES1SXOxulxJUOyeJ7dsfUtJUQ1hG9lA2K5gs-J7Mt1cobyOyHku68ZyWxhHGUb7PrB-zaiJPfNlH8ZQl7XhaUJd8bMJbAgritwYB0kc9Q=w1200-h800-k-no",
+  "website": "http://www.bottleshop48.com/",
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "lat": 33.3921608,
+  "lng": -111.9110594,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

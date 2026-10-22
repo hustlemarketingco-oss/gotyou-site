@@ -19,8 +19,8 @@
   "phone": "+14808340573",
   "website": "https://www.chick-fil-a.com/locations/az/university-at-dorsey",
   "placeId": "ChIJDzA_-_YJK4cRxXRVb2NLx2w",
-  "googleRating": 4,
-  "googleReviewCount": 57,
+  "googleRating": 3.9,
+  "googleReviewCount": 103,
   "hours": {
     "mon": "6:00 AM - 10:00 PM",
     "tue": "6:00 AM - 10:00 PM",
@@ -36,5 +36,21 @@
   "groundgameId": "6a2c1b19ae813508adaae344",
   "seededAt": "2026-06-12T14:43:37Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7838316566903354565",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chick-fil-A/data=!4m7!3m6!1s0x872b09f6fb3f300f:0x6cc74b636f5574c5!8m2!3d33.422388!4d-111.919698!16s%2Fg%2F11ypxpc9j1!19sChIJDzA_-_YJK4cRxXRVb2NLx2w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 10,
+    "3": 5,
+    "4": 6,
+    "5": 66
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdo0V4H8tgIEH2_95__c2vKBJwcY8LamaB8s03X8eNQAKOKHR90dU8i03Uyg1JEl-qQYRU78Rrf2djqYc9ibmKKW-nRa8IIZ7zE6cWO9lYqaeyzR7ddhyZJ3-uNWL6ko1kAq_czAmAiyeo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

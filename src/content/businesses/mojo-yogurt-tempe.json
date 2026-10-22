@@ -2,7 +2,7 @@
   "slug": "mojo-yogurt-tempe",
   "name": "Mojo Yogurt",
   "category": "Desserts & Bakery",
-  "googleCategory": "Ice cream shop",
+  "googleCategory": "Frozen yogurt shop",
   "secondaryCategories": [
     "Dessert shop",
     "Confectionery",
@@ -18,7 +18,7 @@
   "website": "http://www.mojoyogurt.com/",
   "placeId": "ChIJq3vqPlQIK4cRVECzWm-uD2U",
   "googleRating": 4,
-  "googleReviewCount": 338,
+  "googleReviewCount": 344,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -35,5 +35,21 @@
   "groundgameId": "6a2765d20a5dc36c7b9f163e",
   "seededAt": "2026-06-09T01:01:06Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7282230915767681108",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mojo+Yogurt/data=!4m7!3m6!1s0x872b08543eea7bab:0x650fae6f5ab34054!8m2!3d33.43279!4d-111.904761!16s%2Fg%2F1tdgvvzh!19sChIJq3vqPlQIK4cRVECzWm-uD2U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 13,
+    "3": 31,
+    "4": 84,
+    "5": 175
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBt4fq3KwTheNL-aVwAcjlwuWmfwHIztCiIfOz8AIJDKKPCoiPPrLaiRGvoEzDFfkt1nKK28bKsfRVkMY5rCRy01Ve4oWfawAHUwvMtlQD5NAAupfhMXt2JyuJN4E9QLbHj4PBw8mGQRk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

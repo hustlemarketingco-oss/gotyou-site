@@ -1,0 +1,27 @@
+{
+  "slug": "snowdabarber-tempe",
+  "name": "SnowDaBarber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2700 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3797537,
+  "lng": -111.97712109999999,
+  "phone": "+17024703187",
+  "website": "http://snowdabarber15.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SnowDaBarber/data=!4m7!3m6!1s0x872b0fb61c6931cd:0x15c673e446254a8f!8m2!3d33.3797537!4d-111.9771211!16s%2Fg%2F11xw8p241d!19sChIJzTFpHLYPK4cRj0olRuRzxhU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1569068944451783311",
+  "placeId": "ChIJzTFpHLYPK4cRj0olRuRzxhU",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yUWRQdlyUNevjF9Vyzvduw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=23.339266&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

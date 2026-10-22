@@ -1,0 +1,50 @@
+{
+  "slug": "preppy-pet-tempe",
+  "name": "Preppy Pet Tempe",
+  "category": "Local Business",
+  "googleCategory": "Pet boarding service",
+  "secondaryCategories": [
+    "Dog day care center",
+    "Pet groomer"
+  ],
+  "address": "4415 S Rural Rd #1-5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.384069,
+  "lng": -111.92493499999999,
+  "phone": "+14803455522",
+  "website": "https://preppypet.com/local/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Preppy+Pet+Tempe/data=!4m7!3m6!1s0x872b06204398c6b1:0xa4f1383124f9b6d0!8m2!3d33.384069!4d-111.924935!16s%2Fg%2F1thq5rqg!19sChIJscaYQyAGK4cR0Lb5JDE48aQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11885342675332347600",
+  "placeId": "ChIJscaYQyAGK4cR0Lb5JDE48aQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 295,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdd06LOer5prn99ub8hfFtqWJe-FXsgm-LqpJvd3fVBeE5dUaELSa9rrVBXAnxFdybOMxP7jvG6hvnhrilmVpZyoMuaJuafWSge22LRfkusq1hXcVReTr0Mey9z_QaZpKSIyCuFCYtEqQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 4,
+    "3": 9,
+    "4": 19,
+    "5": 221
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "solstice-intimates-tempe",
+  "name": "Solstice Intimates",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Lingerie store",
+    "Swimwear store"
+  ],
+  "address": "225 W University Dr #107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421245,
+  "lng": -111.9430165,
+  "website": "http://www.solsticeintimates.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Solstice+Intimates/data=!4m7!3m6!1s0x872b08d721392f41:0xc7b5b73dfdfdf940!8m2!3d33.421245!4d-111.9430165!16s%2Fg%2F11g8_0k244!19sChIJQS85IdcIK4cRQPn9_T23tcc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14390609661214456128",
+  "placeId": "ChIJQS85IdcIK4cRQPn9_T23tcc",
+  "googleRating": 3.9,
+  "googleReviewCount": 35,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYnWBf3KZn6nz5WhYs8q4GWsRtpUb18BxVPG6tXznVPp-0VaUtKo0IqK3cdIJMZw-eohnFI4riw45itN-lBH_DX6g1VifilIJMQeyhnnEIVq-Rh1Vbw20djsN0MEST2wg2YnPxog=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "3": 1,
+    "5": 25
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

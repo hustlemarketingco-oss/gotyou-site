@@ -1,0 +1,54 @@
+{
+  "slug": "everything-just-rocks-tempe",
+  "name": "Everything Just Rocks",
+  "category": "Shopping",
+  "googleCategory": "Rock shop",
+  "secondaryCategories": [
+    "Gift shop",
+    "Jewelry store",
+    "Meditation center",
+    "Metaphysical supply store",
+    "Yoga studio"
+  ],
+  "address": "2235 W 1st St Unit 104-105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4279741,
+  "lng": -111.9745825,
+  "phone": "+16024184186",
+  "website": "https://www.everythingjustrocks.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Everything+Just+Rocks/data=!4m7!3m6!1s0x872b6b1b0138d4ef:0xe003273d71fecee9!8m2!3d33.4279741!4d-111.9745825!16s%2Fg%2F11clytrbrn!19sChIJ79Q4ARtrK4cR6c7-cT0nA-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16141788634285002473",
+  "placeId": "ChIJ79Q4ARtrK4cR6c7-cT0nA-A",
+  "googleRating": 4.8,
+  "googleReviewCount": 304,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLet0hXS7-tqcSsb5-h3PNaWclKby0cxmUkO3R0jZRsrittpOEXsRmcY4M8OZ8YiDcumTMLCiCuLC_NH1YlxdcT9GWt8kHQJVv2oXSYndvkIzwDE3zFlbOcDpJ-zrP6YHIDO9IVo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "3": 3,
+    "4": 23,
+    "5": 271
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

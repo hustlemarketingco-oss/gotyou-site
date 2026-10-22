@@ -17,13 +17,13 @@
   "website": "https://www.thebuffalospot.com/location/the-buffalo-spot-tempe/",
   "placeId": "ChIJhauEQjoPK4cRwBLCdBEaku0",
   "googleRating": 3.8,
-  "googleReviewCount": 892,
+  "googleReviewCount": 936,
   "priceRange": "$$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
@@ -40,5 +40,16 @@
   "groundgameId": "6a67a5c0bb290347aa2852fc",
   "seededAt": "2026-07-27T18:38:56Z",
   "updatedAt": "2026-08-05T19:58:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17118773795864318656",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Buffalo+Spot+-+Tempe/data=!4m7!3m6!1s0x872b0f3a4284ab85:0xed921a1174c212c0!8m2!3d33.4071813!4d-111.9656851!16s%2Fg%2F11f66h7qj5!19sChIJhauEQjoPK4cRwBLCdBEaku0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 169,
+    "2": 67,
+    "3": 67,
+    "4": 119,
+    "5": 514
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmDU75GJeXTP794FTCESePEAi_Noxoxt89tFX8IdC_ThYEtPwYhXLFFrkoWHZKgtYn6JiF3RyBBIrhDINTkCUoKj3sHNKd5r_TZDtnnJ3QWkxpE2rMBUlDch3Vvw3Aa8miRTPjyw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

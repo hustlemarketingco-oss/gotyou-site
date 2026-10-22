@@ -19,7 +19,7 @@
   "website": "https://www.theburritoexpress.com/",
   "placeId": "ChIJ4w8e--YIK4cRPmx6L-P87Sw",
   "googleRating": 4.4,
-  "googleReviewCount": 631,
+  "googleReviewCount": 654,
   "priceRange": "$",
   "hours": {
     "mon": "7:00 AM - 3:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a39a2f38cd79ea9da740764",
   "seededAt": "2026-06-22T21:02:43Z",
   "updatedAt": "2026-06-26T18:46:59Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3237521759833582654",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burrito+Express/data=!4m7!3m6!1s0x872b08e6fb1e0fe3:0x2cedfce32f7a6c3e!8m2!3d33.4068692!4d-111.9244945!16s%2Fg%2F11f310fwkw!19sChIJ4w8e--YIK4cRPmx6L-P87Sw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 17,
+    "3": 45,
+    "4": 79,
+    "5": 465
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7Da8v1hVrcY-izHpXXrJzQdG7Gn89yi2Mq5NBalIi2YYKkOyyX_iwLFA0C7k-QeaSkdF9vftWa7CfERAKxJwLZaEpY8DMX3lDn4GqcQeY1kQvPZI01jGIQ55TsXu-_RxbDT9EwchA6Rs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

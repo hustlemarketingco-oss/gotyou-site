@@ -1,0 +1,45 @@
+{
+  "slug": "tokyo-teriyaki-grill-tempe",
+  "name": "Tokyo Teriyaki & Grill",
+  "category": "Restaurant",
+  "googleCategory": "Syokudo and Teishoku restaurant",
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426016499999996,
+  "lng": -111.9040181,
+  "phone": "+14808751846",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tokyo+Teriyaki+%26+Grill/data=!4m7!3m6!1s0x872b0931d4e893cf:0xec6e6cb97f7b740f!8m2!3d33.4260165!4d-111.9040181!16s%2Fg%2F11t8cb5dhg!19sChIJz5Po1DEJK4cRD3R7f7lsbuw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17036673984352711695",
+  "placeId": "ChIJz5Po1DEJK4cRD3R7f7lsbuw",
+  "googleRating": 3.8,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaFLazOS0tTJ72E3Pm9gS_aDnVRBXNWr3ZuCvRHRtiI8o2GGiL8oybWQlTg55mEqdahBfWFvZQBphHLj9Yti9iwajjmjEse6NoSRiZSmfoErDqhsOvfIf_QT5rKWM0Vz4vy4NR=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 3
+  },
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "4:00 PM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

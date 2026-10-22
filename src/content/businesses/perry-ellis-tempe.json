@@ -1,0 +1,53 @@
+{
+  "slug": "perry-ellis-tempe",
+  "name": "Perry Ellis",
+  "category": "Shopping",
+  "googleCategory": "Men's clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Leather goods store",
+    "Outlet store",
+    "Sportswear store",
+    "Swimwear store",
+    "T-shirt store"
+  ],
+  "address": "5000 S Arizona Mills Cir #360",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3812516,
+  "lng": -111.9644289,
+  "phone": "+14808391564",
+  "website": "https://www.perryellis.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Perry+Ellis/data=!4m7!3m6!1s0x872b0f59e1444903:0xb9aa3f8966029d0f!8m2!3d33.3812516!4d-111.9644289!16s%2Fg%2F125_zp243!19sChIJA0lE4VkPK4cRD50CZok_qrk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13378575502411996431",
+  "placeId": "ChIJA0lE4VkPK4cRD50CZok_qrk",
+  "googleRating": 4.5,
+  "googleReviewCount": 137,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHLj-ENp_lBX_DWqS0rMzq1tvXssuwHm9Qn_TIMtLM1mPA_Mk7aAGi0ft_EjVHiW_pi_ZUfnXHKJGO45SoaEWHGHZtKwXEPvNHwksdxJ722uzgvHNQGVYoVAC6qFLGA7T6ew6I0A=w1200-h800-k-no",
+  "description": "Menswear designer & retail chain featuring tailored apparel, from suits to casualwear & accessories.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "3": 8,
+    "4": 21,
+    "5": 101
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

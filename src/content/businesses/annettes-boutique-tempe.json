@@ -1,0 +1,44 @@
+{
+  "slug": "annettes-boutique-tempe",
+  "name": "Annette's Boutique",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "4325 S 48th St Unit 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3860088,
+  "lng": -111.9778372,
+  "phone": "+16024138568",
+  "website": "http://annettesboutiqueaz.myshopify.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Annette%27s+Boutique/data=!4m7!3m6!1s0x872b0f8710250331:0xe30d297fcd03274!8m2!3d33.3860088!4d-111.9778372!16s%2Fg%2F11tjfkwssv!19sChIJMQMlEIcPK4cRdDLQ_JfSMA4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1022548665636500084",
+  "placeId": "ChIJMQMlEIcPK4cRdDLQ_JfSMA4",
+  "googleRating": 4.9,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIyNpd6RtRBcqJ1A9ukVfs7tVwM-w6-7-RwjuuYGsH0BmlZ33uNyie8NuZ0H1VBIDULGeEYZYzCfPKvA2YGOTmtWk24HisRnYulhasO9BgNlpKyFq9RgUgwpRYRp9gk5AQrpTW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 29
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "1:00 PM - 6:30 PM",
+    "fri": "3:00 PM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

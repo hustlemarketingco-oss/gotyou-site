@@ -1,0 +1,56 @@
+{
+  "slug": "eos-fitness-1840-tempe",
+  "name": "EōS Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Indoor cycling",
+    "Personal trainer",
+    "Sauna",
+    "Swimming pool",
+    "Weightlifting area",
+    "Yoga studio"
+  ],
+  "address": "1840 E Warner Rd Ste 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3354497,
+  "lng": -111.9100119,
+  "phone": "+14807185020",
+  "website": "https://eosfitness.com/gym/tempe/?utm_source=local&utm_medium=organic&utm_campaign=evergreen_gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/E%C5%8DS+Fitness/data=!4m7!3m6!1s0x872b06e2d6ef3fef:0x34d28fe02717aa3d!8m2!3d33.3354497!4d-111.9100119!16s%2Fg%2F11b90dt_5b!19sChIJ7z_v1uIGK4cRPaoXJ-CP0jQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3806262827972799037",
+  "placeId": "ChIJ7z_v1uIGK4cRPaoXJ-CP0jQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 2181,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWaXWmFKiv3-s1G02Jr54ryUy-Zrhd11kD4LEqdFjT8KHYN8aLSw2u6jYSZW_XpbzA1JW7XNT_nmV7K8apk2gwJ_y8x06TuKxECuAWpCKUxnI_uLiRoN8mN8URGhwtGNNVoIuyaA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 219,
+    "2": 57,
+    "3": 67,
+    "4": 173,
+    "5": 1665
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

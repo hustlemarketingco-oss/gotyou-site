@@ -1,0 +1,52 @@
+{
+  "slug": "golden-eggroll-tempe",
+  "name": "Golden Eggroll",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Delivery Restaurant"
+  ],
+  "address": "Parking lot, 3135 S 48th St #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3945872,
+  "lng": -111.9778197,
+  "phone": "+14809219929",
+  "website": "https://www.goldeneggrolltempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Golden+Eggroll/data=!4m7!3m6!1s0x872b0f4fb59cd4e9:0x63631f6549114f05!8m2!3d33.3945872!4d-111.9778197!16s%2Fg%2F1tdfckpt!19sChIJ6dSctU8PK4cRBU8RSWUfY2M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7161602352327249669",
+  "placeId": "ChIJ6dSctU8PK4cRBU8RSWUfY2M",
+  "googleRating": 4.1,
+  "googleReviewCount": 387,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWVMKjmrjXOYRlLofqnql2HAtJwalK4d-NIQIXoNRRrrWkhxY-GundFZhwkWaquW7XcUBo7kx0BM9ilYs6bjyWDzvpQAYOXsn16PkklcyNkXy0s7Acs4Cjk0sFzPPtiJiVoB2i=w1200-h800-k-no",
+  "description": "No-nonsense fast-food joint dishing up traditional Chinese food for takeout, delivery or dine-in.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 23,
+    "3": 28,
+    "4": 58,
+    "5": 240
+  },
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "10:30 AM - 9:30 PM",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

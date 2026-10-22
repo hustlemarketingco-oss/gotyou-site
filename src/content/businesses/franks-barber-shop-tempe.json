@@ -1,0 +1,44 @@
+{
+  "slug": "franks-barber-shop-tempe",
+  "name": "Frank’s Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1320 W Elliot Rd Ste 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.349507599999995,
+  "lng": -111.9603535,
+  "phone": "+14807560300",
+  "website": "http://www.franksbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Frank%E2%80%99s+Barber+Shop/data=!4m7!3m6!1s0x872b05003caf0399:0xa8708055b364f213!8m2!3d33.3495076!4d-111.9603535!16s%2Fg%2F11wtkm8ccz!19sChIJmQOvPAAFK4cRE_Jks1WAcKg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12137342101333799443",
+  "placeId": "ChIJmQOvPAAFK4cRE_Jks1WAcKg",
+  "googleRating": 4.2,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_mT8lTI2JkQPRt5IvPACoLXbC4JqnZCqR7i-eRsf_KVmxJiw7DAYxHPtAd89aQS1AZQxA7MKkcQS87bDuOjRmk5CRWeLB9JXxrZ1HFARYcKb5CELSEL5kfY9ABSeHQYIxJSXpPQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "5": 15
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

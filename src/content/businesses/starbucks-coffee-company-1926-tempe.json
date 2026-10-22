@@ -1,0 +1,56 @@
+{
+  "slug": "starbucks-coffee-company-1926-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "address": "1926 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.45093,
+  "lng": -111.92675,
+  "phone": "+14809416046",
+  "website": "https://www.starbucks.com/store-locator/store/7991/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b096ac0e73c3d:0x1dae9991272c2228!8m2!3d33.45093!4d-111.92675!16s%2Fg%2F1tc_fqr7!19sChIJPTznwGoJK4cRKCIsJ5GZrh0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2138815721754075688",
+  "placeId": "ChIJPTznwGoJK4cRKCIsJ5GZrh0",
+  "googleRating": 4.1,
+  "googleReviewCount": 612,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdY3WgKmm7OtV5iKwjgCIzJ1rDL0zsr5ZWPFhypYrbECwVhUBx-kxH60fdPUIHR88HxpmxLgwk7OrhALhWh4c8oA_BVkYKnKPFU1lkpQq_bgJiK49K6MGhNa9NEaAsAPXuRtPp1=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 59,
+    "2": 22,
+    "3": 58,
+    "4": 141,
+    "5": 332
+  },
+  "hours": {
+    "mon": "4:00 AM - 9:00 PM",
+    "tue": "4:00 AM - 9:00 PM",
+    "wed": "4:00 AM - 9:00 PM",
+    "thu": "4:00 AM - 9:00 PM",
+    "fri": "4:00 AM - 9:00 PM",
+    "sat": "4:00 AM - 9:00 PM",
+    "sun": "4:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

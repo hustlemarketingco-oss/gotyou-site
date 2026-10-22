@@ -19,11 +19,13 @@
   "website": "https://www.saucepizzaandwine.com/",
   "placeId": "ChIJQxHyiV8JK4cR8-G1n2DfYmA",
   "googleRating": 4,
-  "googleReviewCount": 245,
+  "googleReviewCount": 255,
   "priceRange": "$$",
   "amenities": [
-    "Cash",
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -40,5 +42,16 @@
   "groundgameId": "6a29b9c4e73af791fe739eca",
   "seededAt": "2026-06-10T19:23:48Z",
   "updatedAt": "2026-07-06T16:03:58Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6945359181448077811",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sauce+Pizza+%26+Wine/data=!4m7!3m6!1s0x872b095f89f21143:0x6062df609fb5e1f3!8m2!3d33.4230053!4d-111.9379645!16s%2Fg%2F11fnw34f8c!19sChIJQxHyiV8JK4cR8-G1n2DfYmA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 29,
+    "2": 11,
+    "3": 24,
+    "4": 53,
+    "5": 138
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAMJK9d8lcXMkEd9QacpeMj-D48_BjybToDPJmfwgFky2MkxTJt2zRM1JnebGNJ3q9KCZw9RDxbC3aplp7HWY-GI_AZyky8ahjca9USS3RIK9_tZEF7ZMqWl2NpOB8pw5v0Y_aEQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

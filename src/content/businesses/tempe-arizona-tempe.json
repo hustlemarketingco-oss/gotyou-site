@@ -1,0 +1,30 @@
+{
+  "slug": "tempe-arizona-tempe",
+  "name": "Tempe Arizona",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "1145 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3763248,
+  "lng": -111.9560793,
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Arizona/data=!4m7!3m6!1s0x872b05000c386331:0x32f7006c58073ed4!8m2!3d33.3763248!4d-111.9560793!16s%2Fg%2F11y0g3rrnv!19sChIJMWM4DAAFK4cR1D4HWGwA9zI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3672404486477266644",
+  "placeId": "ChIJMWM4DAAFK4cR1D4HWGwA9zI",
+  "googleRating": 1,
+  "googleReviewCount": 1,
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

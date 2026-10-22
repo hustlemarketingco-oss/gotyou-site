@@ -1,0 +1,52 @@
+{
+  "slug": "skycloud-reflexology-massage-tempe",
+  "name": "SKYCLOUD Reflexology & Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Foot massage parlor",
+    "Massage therapist",
+    "Reflexologist"
+  ],
+  "address": "1938 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4225211,
+  "lng": -111.9033953,
+  "phone": "+14806665300",
+  "website": "http://www.skycloudreflexology.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SKYCLOUD+Reflexology+%26+Massage/data=!4m7!3m6!1s0x872b09c173044c7f:0x96ebded20069f7b6!8m2!3d33.4225211!4d-111.9033953!16s%2Fg%2F11gy3hcq1h!19sChIJf0wEc8EJK4cRtvdpANLe65Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10875030718747637686",
+  "placeId": "ChIJf0wEc8EJK4cRtvdpANLe65Y",
+  "googleRating": 4.1,
+  "googleReviewCount": 125,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtqg0Bk7Z2Zjag7qBEnUK_ywUcJWdsMLTRAmlVkFzREXXcHOAGInMGwRNFjsfFnHgSUiRo4DtCcqtm6uay2ArL29E4PlhwVnQtuMJ5Rew_KC19ZdUNH-v77B4rm_AVDamaH4S_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 4,
+    "3": 3,
+    "4": 11,
+    "5": 85
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

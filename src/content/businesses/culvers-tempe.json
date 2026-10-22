@@ -2,7 +2,7 @@
   "slug": "culvers-tempe",
   "name": "Culver’s",
   "category": "Desserts & Bakery",
-  "googleCategory": "Ice cream shop",
+  "googleCategory": "American restaurant",
   "secondaryCategories": [
     "Dessert restaurant",
     "Fast food restaurant",
@@ -19,35 +19,18 @@
   "lng": -111.9298382,
   "phone": "+16023144445",
   "website": "http://www.culvers.com/restaurants/tempe-az-southern-ave/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11839635505410408663",
+  "googleMapsUrl": "https://www.google.com/maps/place/Culver%E2%80%99s/data=!4m7!3m6!1s0x872b08a25e8b0379:0xa44ed5c35a1700d7!8m2!3d33.3934667!4d-111.9298382!16s%2Fg%2F11b6xk6k9_!19sChIJeQOLXqIIK4cR1wAXWsPVTqQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11839635505410408663",
   "placeId": "ChIJeQOLXqIIK4cR1wAXWsPVTqQ",
   "googleRating": 4.5,
-  "googleReviewCount": 2976,
+  "googleReviewCount": 3041,
   "priceRange": "$10–20",
   "description": "Fast-food chain specializing in frozen custard & signature burgers made with Midwest beef & dairy.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 10:00 PM",
@@ -64,5 +47,14 @@
   "groundgameId": "6a2436354e36f81f71658263",
   "seededAt": "2026-06-06T15:01:09Z",
   "updatedAt": "2026-06-25T17:55:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 118,
+    "2": 83,
+    "3": 173,
+    "4": 603,
+    "5": 2064
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0N5-TCsRx0iNaVT7M-XtkMIhj0ZeSS7P_tchhq7lai1kGVe0Evjlm5w3uDDoEnlF_joYbzVm3TAYdNcmaeS_9g5m1H7F1gWX_SFaCG2eT0n8UNM5ENecHP5BYXRlbP3JP7Z9s=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

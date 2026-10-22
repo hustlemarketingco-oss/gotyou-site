@@ -1,0 +1,57 @@
+{
+  "slug": "aveda-institute-phoenix-tempe",
+  "name": "Aveda Institute Phoenix",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty school",
+  "secondaryCategories": [
+    "Barber school",
+    "Beauty salon",
+    "Hair salon",
+    "Make-up artist",
+    "Massage school",
+    "Nail salon",
+    "Spa",
+    "Trade school"
+  ],
+  "address": "8475 S Emerald Dr #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3388847,
+  "lng": -111.9688517,
+  "phone": "+14807941362",
+  "website": "https://avedainspiregreatness.com/phoenix-campus/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aveda+Institute+Phoenix/data=!4m7!3m6!1s0x872b05ccc2b219a7:0x7f93a0b00400994c!8m2!3d33.3388847!4d-111.9688517!16s%2Fg%2F12hs77f5_!19sChIJpxmywswFK4cRTJkABLCgk38?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9192867942235150668",
+  "placeId": "ChIJpxmywswFK4cRTJkABLCgk38",
+  "googleRating": 4.9,
+  "googleReviewCount": 4123,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0DaUHTtLv4x7YG3lcVcLUgZrCo1Vyys8QZoVC1qvCvdcjaT9zyQ9jnP7fMRDIm15eCprgAbe7jeYYIMjhTC-CJIlG7TsMEoroCSXBL-3PrmHx77WqXfhdnd_c98ODGhUW9jk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 66,
+    "2": 10,
+    "3": 13,
+    "4": 33,
+    "5": 4001
+  },
+  "hours": {
+    "mon": "12:00 PM - 4:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

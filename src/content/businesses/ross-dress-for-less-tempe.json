@@ -1,0 +1,54 @@
+{
+  "slug": "ross-dress-for-less-tempe",
+  "name": "Ross Dress for Less",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Department store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3837265,
+  "lng": -111.9634677,
+  "phone": "+14807520854",
+  "website": "https://www.rossstores.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ross+Dress+for+Less/data=!4m7!3m6!1s0x872b0f59e1444903:0x35d2633f1dfd9ef4!8m2!3d33.3837265!4d-111.9634677!16s%2Fg%2F1tfw3hnb!19sChIJA0lE4VkPK4cR9J79HT9j0jU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3878271351856668404",
+  "placeId": "ChIJA0lE4VkPK4cR9J79HT9j0jU",
+  "googleRating": 4.2,
+  "googleReviewCount": 1748,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz51q_lMQTM9r1SaJnpO2KuEJoq2FtF8LeY_4fgoLVwlgTruxhdEBZqhevE_WRJbCxwn_Q1QBAaAcqKytVVX43THO2uzzPVETZjqkVF01AxKHcoDB7f015I4XPoPS_iH34f_L1hJ6LfyRc=w1200-h800-k-no",
+  "description": "Retail chain selling brand-name clothing, shoes, accessories & housewares at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 88,
+    "2": 71,
+    "3": 176,
+    "4": 412,
+    "5": 1001
+  },
+  "hours": {
+    "mon": "9:30 AM - 10:00 PM",
+    "tue": "9:30 AM - 10:00 PM",
+    "wed": "9:30 AM - 10:00 PM",
+    "thu": "9:30 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:30 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

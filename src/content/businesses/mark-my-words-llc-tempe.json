@@ -1,0 +1,45 @@
+{
+  "slug": "mark-my-words-llc-tempe",
+  "name": "Mark My Words LLC",
+  "category": "Shopping",
+  "googleCategory": "Used book store",
+  "address": "1104 W Geneva Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3954357,
+  "lng": -111.954578,
+  "phone": "+18667227833",
+  "website": "https://www.walkerbookstore.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mark+My+Words+LLC/data=!4m7!3m6!1s0x872b0fc21b1da2ff:0x4f1bb20588b23558!8m2!3d33.3954357!4d-111.954578!16s%2Fg%2F11fb0qj1s7!19sChIJ_6IdG8IPK4cRWDWyiAWyG08?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5700345490205455704",
+  "placeId": "ChIJ_6IdG8IPK4cRWDWyiAWyG08",
+  "googleRating": 3.3,
+  "googleReviewCount": 16,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K40DyS8TLE6IKgrW1fQHhA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=5.7328644&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "4": 2,
+    "5": 7
+  },
+  "hours": {
+    "mon": "7:00 AM - 3:30 PM",
+    "tue": "7:00 AM - 3:30 PM",
+    "wed": "7:00 AM - 3:30 PM",
+    "thu": "7:00 AM - 3:30 PM",
+    "fri": "7:00 AM - 3:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

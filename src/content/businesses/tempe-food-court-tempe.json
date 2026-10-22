@@ -1,0 +1,47 @@
+{
+  "slug": "tempe-food-court-tempe",
+  "name": "Tempe Food Court",
+  "category": "Fast Food",
+  "googleCategory": "Takeout Restaurant",
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "website": "https://tempefoodcourt.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Food+Court/data=!4m7!3m6!1s0x872b09003706dc63:0x18b98cb40949e3f3!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11x83bfvnd!19sChIJY9wGNwAJK4cR8-NJCbSMuRg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1781609832479581171",
+  "placeId": "ChIJY9wGNwAJK4cR8-NJCbSMuRg",
+  "googleRating": 3.7,
+  "googleReviewCount": 64,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC14Ee5hh_EKd_7sgsR20Gyh0yKmMh3FVGkrHvWT5b1V1W4-_HSMONMsuv8SwrAhRuzsR7hyolSb54-yWPvWeURD_qNQ71Io-aOw35DMCJzs0mFMoPkM551avvedK_ojin4DCM9VFpbiY2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 38
+  },
+  "hours": {
+    "mon": "7:00 AM - 11:00 PM",
+    "tue": "7:00 AM - 11:00 PM",
+    "wed": "7:00 AM - 11:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "7:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

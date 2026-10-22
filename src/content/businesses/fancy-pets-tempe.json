@@ -1,0 +1,50 @@
+{
+  "slug": "fancy-pets-tempe",
+  "name": "Fancy Pets",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "secondaryCategories": [
+    "Pet store",
+    "Pet supply store"
+  ],
+  "address": "3310 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922221,
+  "lng": -111.91097529999999,
+  "phone": "+14808977734",
+  "website": "http://fancypetsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fancy+Pets/data=!4m7!3m6!1s0x872b0886b8f1f955:0x62c5e13f28ae09e!8m2!3d33.3922221!4d-111.9109753!16s%2Fg%2F1td4f02t!19sChIJVfnxuIYIK4cRnuCK8hNeLAY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "444833902969413790",
+  "placeId": "ChIJVfnxuIYIK4cRnuCK8hNeLAY",
+  "googleRating": 4.6,
+  "googleReviewCount": 236,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLca33-J1Jaseksr9anAYBenMtFCJxRt-ODdASTy1Xr0Wo95Xvfvd_0m_obtWXPJZOO3BT-lOw9Zt2NZD-EpjocN9zePHQkiyeuSNtJZY7KqDXAVxLTy4fwl50RVCjojANVObo7DZA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 3,
+    "3": 8,
+    "4": 12,
+    "5": 199
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

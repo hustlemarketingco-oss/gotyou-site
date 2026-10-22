@@ -1,0 +1,47 @@
+{
+  "slug": "ken-nails-and-spa-tempe",
+  "name": "Ken Nails and Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1840 E Warner Rd #115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3355556,
+  "lng": -111.90972219999999,
+  "phone": "+14807043849",
+  "website": "http://www.kennailsatwarner.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ken+Nails+and+Spa/data=!4m7!3m6!1s0x872b06fcb5274857:0x9b13368addb069fe!8m2!3d33.3355556!4d-111.9097222!16s%2Fg%2F11hbkc28dj!19sChIJV0gntfwGK4cR_mmw3Yo2E5s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11174335070489045502",
+  "placeId": "ChIJV0gntfwGK4cR_mmw3Yo2E5s",
+  "googleRating": 4.6,
+  "googleReviewCount": 250,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAUkjVyUpWfOlWUCOsvSvUZf8rfiEW2uSrx3-Pl-N0aRjMEuQ-ddUoUYoquAB7ZQTiAUobJF_MGbBczBXnxiwpqUpgyyFThSArndVA_em5p5nCC1-v1WRD6SMaqr1R9UHAccqf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 8,
+    "3": 3,
+    "4": 7,
+    "5": 218
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

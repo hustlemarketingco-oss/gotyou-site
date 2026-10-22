@@ -16,7 +16,7 @@
   "website": "https://locations.cinnabon.com/az/tempe/5000-s-arizona-mills-cir",
   "placeId": "ChIJico65lkPK4cRJgr1I3U66H8",
   "googleRating": 4.3,
-  "googleReviewCount": 169,
+  "googleReviewCount": 170,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
@@ -33,5 +33,20 @@
   "groundgameId": "6a27670dde9a0a475db3b640",
   "seededAt": "2026-06-09T01:06:21Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9216680912202566182",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cinnabon/data=!4m7!3m6!1s0x872b0f59e63aca89:0x7fe83a7523f50a26!8m2!3d33.3829789!4d-111.9648471!16s%2Fg%2F11bw3hkvcy!19sChIJico65lkPK4cRJgr1I3U66H8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 3,
+    "3": 9,
+    "4": 27,
+    "5": 114
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLel47L1ufCeY0CDvgbHmLNxCPexxmZb2g1pVXs7xC7BgVYr3wDgqKeUHLSDlNKPIyAnoZYHLP2eXgJ_Y5hDyZr_TQbqpjYkFuovptdGvAuzF1mT_r1yUvx-RvaI5HgEg42VnpGSAQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

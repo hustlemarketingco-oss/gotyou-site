@@ -2,7 +2,7 @@
   "slug": "bad-jimmys-tempe",
   "name": "Bad Jimmy's Tempe",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Hamburger restaurant",
   "address": "505 W University Dr",
   "city": "Tempe",
   "state": "AZ",
@@ -12,8 +12,8 @@
   "phone": "+14807482199",
   "website": "https://badjimmys.com/",
   "placeId": "ChIJt0j8cEMJK4cRDvLkGhiEOLE",
-  "googleRating": 4.1,
-  "googleReviewCount": 75,
+  "googleRating": 4.2,
+  "googleReviewCount": 106,
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -29,5 +29,22 @@
   "groundgameId": "6a32e35ecd7656d33f678977",
   "seededAt": "2026-06-17T18:11:42Z",
   "updatedAt": "2026-09-14T03:05:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12770101982474334734",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bad+Jimmy%27s+Tempe/data=!4m7!3m6!1s0x872b094370fc48b7:0xb13884181ae4f20e!8m2!3d33.421695!4d-111.945992!16s%2Fg%2F11ms89kdqv!19sChIJt0j8cEMJK4cRDvLkGhiEOLE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 13,
+    "3": 14,
+    "4": 3,
+    "5": 71
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1BJBuvYMSUW_WhNZU0397mEH2h1IGU7nNzcwn76Tah9zwi-a6cAudCZ5vZSm4wLNlM5pEWvjcljkLP1oTFdzAONRGUsvhLL-VRruqBs7mz6Rk2fgfI6ImrxbVDaYuxNX1_Yy74QY-4T0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

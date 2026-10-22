@@ -1,0 +1,51 @@
+{
+  "slug": "august-karaoke-box-tempe",
+  "name": "August Karaoke Box",
+  "category": "Fun & Activities",
+  "googleCategory": "Karaoke",
+  "secondaryCategories": [
+    "Event venue",
+    "Video karaoke"
+  ],
+  "address": "1301 E University Dr #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421105,
+  "lng": -111.91659209999999,
+  "phone": "+14805901037",
+  "website": "http://www.8ktv.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/August+Karaoke+Box/data=!4m7!3m6!1s0x872b08e536cc0c4f:0x225cf723653dc5c5!8m2!3d33.421105!4d-111.9165921!16s%2Fg%2F12ltv8crz!19sChIJTwzMNuUIK4cRxcU9ZSP3XCI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2476125626541393349",
+  "placeId": "ChIJTwzMNuUIK4cRxcU9ZSP3XCI",
+  "googleRating": 4.2,
+  "googleReviewCount": 512,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffBl3sh8mQOlnxaXwRsjspQbzWInBYLu0nqw0pwKWeXbAXS0a8oBJ7dWrsVUjgF3pN7oxhSFGd4e5WM8cBasTkIY1wd5HMYs_-dvLI6yyZGrmaITVHZsUM9hI0yxoeHo_7ManV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 61,
+    "2": 18,
+    "3": 24,
+    "4": 68,
+    "5": 341
+  },
+  "hours": {
+    "mon": "2:00 PM - 12:00 AM",
+    "tue": "2:00 PM - 12:00 AM",
+    "wed": "2:00 PM - 12:00 AM",
+    "thu": "2:00 PM - 12:00 AM",
+    "fri": "2:00 PM - 2:00 AM",
+    "sat": "2:00 PM - 2:00 AM",
+    "sun": "2:00 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

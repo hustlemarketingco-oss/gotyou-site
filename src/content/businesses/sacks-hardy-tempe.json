@@ -16,13 +16,13 @@
   "website": "https://sackssandwiches.com/",
   "placeId": "ChIJcU4TGdUIK4cRJde_w01Vyps",
   "googleRating": 4.7,
-  "googleReviewCount": 411,
+  "googleReviewCount": 418,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "8:00 AM - 3:00 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a4d431f3e641a843be79c71",
   "seededAt": "2026-07-07T18:19:11Z",
   "updatedAt": "2026-07-15T19:05:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11225878813659354917",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sacks+Hardy/data=!4m7!3m6!1s0x872b08d519134e71:0x9bca554dc3bfd725!8m2!3d33.4212292!4d-111.9513821!16s%2Fg%2F1w0h7zt3!19sChIJcU4TGdUIK4cRJde_w01Vyps?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 5,
+    "3": 13,
+    "4": 51,
+    "5": 338
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFzeCoJG5fh7BKTKBQX8hl3QBeNxZI8o9YHBlpuleZES01uCFuREYV2wr8ZSUlWtEqttNx-Mq4V2U5-f6xB2soz-a4mrb_IxqCUQ2GbgE_rjpNxv12dk2v-6L1pT_q5PsLQtPn=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,45 @@
+{
+  "slug": "osaka-grill-teriyaki-roll-tempe",
+  "name": "Osaka Grill Teriyaki & Roll",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "address": "681 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4140371,
+  "lng": -111.92894,
+  "phone": "+14809686811",
+  "website": "https://osakagrilloz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Osaka+Grill+Teriyaki+%26+Roll/data=!4m7!3m6!1s0x872b08c270f19523:0xdaa8ee82ee40a41b!8m2!3d33.4140371!4d-111.92894!16s%2Fg%2F11c20fxr1_!19sChIJI5XxcMIIK4cRG6RA7oLuqNo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15756105542466053147",
+  "placeId": "ChIJI5XxcMIIK4cRG6RA7oLuqNo",
+  "googleRating": 2.9,
+  "googleReviewCount": 145,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdB7KBZ8i6KHipLr9s2IFTWu_QE9ol2anvMzbL-WTChXLJhn5o1z1X00HhNecpm2v8gncQnvBJ572MrmvAlnqfVW16ylemPBYTysby_LmrAfG1fvM9NK20JRbgV3_en9lfRkAyUB-pgVDg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 18,
+    "3": 14,
+    "4": 20,
+    "5": 44
+  },
+  "hours": {
+    "mon": "11:00 AM - 11:30 PM",
+    "tue": "11:00 AM - 11:30 PM",
+    "wed": "11:00 AM - 11:30 PM",
+    "thu": "11:00 AM - 11:30 PM",
+    "fri": "11:00 AM - 11:30 PM",
+    "sat": "11:00 AM - 11:30 PM",
+    "sun": "11:00 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "play-it-again-sports-tempe",
+  "name": "Play It Again Sports",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "secondaryCategories": [
+    "Exercise equipment store"
+  ],
+  "address": "1840 E Warner Rd #126",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3356421,
+  "lng": -111.908531,
+  "phone": "+14803456109",
+  "website": "http://playitagainsportstempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Play+It+Again+Sports/data=!4m7!3m6!1s0x872b06e352ddaf17:0xfe86ee67fe1a74d0!8m2!3d33.3356421!4d-111.908531!16s%2Fg%2F1thghhdc!19sChIJF6_dUuMGK4cR0HQa_mfuhv4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18340608662925112528",
+  "placeId": "ChIJF6_dUuMGK4cR0HQa_mfuhv4",
+  "googleRating": 4.2,
+  "googleReviewCount": 333,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdERmsgdPbvFdRUwZNV1yDiSCVMG0ROnGllJeHpCfMmtJ5QsZKAr-a_FwMZZODu-Z3QGdsgTh6QOERuVaUWYxjGMuUCk4b7QlKDkU4LgxlDp6y3XE2j8ryzvQHqDEf31n5o7qQ5=w1200-h800-k-no",
+  "description": "Sporting goods chain that buys, sells & trades a wide variety of equipment, both new & secondhand.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 29,
+    "2": 13,
+    "3": 26,
+    "4": 64,
+    "5": 201
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

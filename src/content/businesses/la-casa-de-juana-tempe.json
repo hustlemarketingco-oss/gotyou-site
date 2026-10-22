@@ -16,7 +16,7 @@
   "website": "https://juanasrestaurant.com/",
   "placeId": "ChIJnQJ83FUGK4cRkVxlgu4qcos",
   "googleRating": 4.4,
-  "googleReviewCount": 834,
+  "googleReviewCount": 841,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a5fbf37b28823d02671e4f7",
   "seededAt": "2026-07-21T18:49:27Z",
   "updatedAt": "2026-07-21T18:49:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10048140922495261841",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Casa+De+Juana/data=!4m7!3m6!1s0x872b0655dc7c029d:0x8b722aee82655c91!8m2!3d33.3479753!4d-111.9103789!16s%2Fg%2F11b6dy76pw!19sChIJnQJ83FUGK4cRkVxlgu4qcos?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 41,
+    "3": 61,
+    "4": 148,
+    "5": 556
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8QyBcdWFxFvAY-LxgwYQhLBUzhqIgn5HpVch0jrAKPt-PG5UA_NWIClsRbkL8MCdqc7cstTpR91IHUFKwxTMn2lvPiBBfUgz50MGNMjPoVQFYWDyhJDOK4s-4mEZnBNKDgH-m_w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

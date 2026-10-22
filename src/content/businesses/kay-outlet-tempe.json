@@ -1,0 +1,57 @@
+{
+  "slug": "kay-outlet-tempe",
+  "name": "KAY Outlet",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Diamond dealer",
+    "Jeweler",
+    "Jewelry appraiser",
+    "Jewelry designer",
+    "Jewelry engraver",
+    "Jewelry repair service",
+    "Silversmith",
+    "Watch store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 237A",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3833491,
+  "lng": -111.9637341,
+  "phone": "+14804912357",
+  "website": "https://stores.kay.com/az/tempe/2921?cid=seo-listings",
+  "googleMapsUrl": "https://www.google.com/maps/place/KAY+Outlet/data=!4m7!3m6!1s0x872b0f575b88411f:0x335a2dc0835a1eea!8m2!3d33.3833491!4d-111.9637341!16s%2Fg%2F1vpq7bxc!19sChIJH0GIW1cPK4cR6h5ag8AtWjM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3700320348698975978",
+  "placeId": "ChIJH0GIW1cPK4cR6h5ag8AtWjM",
+  "googleRating": 4.8,
+  "googleReviewCount": 343,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe94nMQTOmgwI9qiURqSkUf0bQPkXKQZMkFTtp7wG01Au3ukl08QOFpzs69ElHQ6FIr1tbpJiI-H_zwniF7gOmeT1kuyngD-MVVlck_KzYshP7F1gffCRD_lI-ZyZxvZRZMPxuC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 5,
+    "3": 3,
+    "4": 14,
+    "5": 309
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

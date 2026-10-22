@@ -1,0 +1,48 @@
+{
+  "slug": "luv-bridal-tempe",
+  "name": "Luv Bridal",
+  "category": "Shopping",
+  "googleCategory": "Bridal shop",
+  "address": "1746 W Ruby Dr Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.341192299999996,
+  "lng": -111.967187,
+  "phone": "+16024912934",
+  "website": "https://tempe.luvbridal.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Luv+Bridal/data=!4m7!3m6!1s0x872b05e0c76a8955:0xb82dccdba11232a1!8m2!3d33.3411923!4d-111.967187!16s%2Fg%2F11vyd26xzn!19sChIJVYlqx-AFK4cRoTISodvMLbg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13271488920602948257",
+  "placeId": "ChIJVYlqx-AFK4cRoTISodvMLbg",
+  "googleRating": 4.9,
+  "googleReviewCount": 729,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKMzJEEFyX2MVb0_iyD_JzHvBz4nAQ_9xJu57dHCELWeebc9J__9sV0W1A-oPnVHcBu-aTfAC5Ojsn4qpekG3TyZMmAH_fgdJa-_EXN6zF3IvUZ518K9ajwH0R1MlHfFNE627R2Q=w1200-h800-k-no",
+  "description": "High-end bridal salon selling a range of designer wedding dresses & accessories in an elegant venue.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 5,
+    "4": 2,
+    "5": 714
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "Closed",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

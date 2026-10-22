@@ -1,0 +1,45 @@
+{
+  "slug": "nastycutz-tempe",
+  "name": "NastyCutz",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1801 S Jentilly Ln B14",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.408496,
+  "lng": -111.9234695,
+  "phone": "+16027038665",
+  "website": "https://benywitdaklippers.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/NastyCutz/data=!4m7!3m6!1s0x872b05903b4dc64f:0xd5a42bdfa195b0ec!8m2!3d33.408496!4d-111.9234695!16s%2Fg%2F11t2fj6tvw!19sChIJT8ZNO5AFK4cR7LCVod8rpNU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15394477665747841260",
+  "placeId": "ChIJT8ZNO5AFK4cR7LCVod8rpNU",
+  "googleRating": 4.8,
+  "googleReviewCount": 33,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoGt9TZ3hOcBQG1vSzUt1e4-h40YJ1tmzTGMh446tVm1_ip9EYmzoT2YVC8dh63r4Ynrhb3X-15jPrtUBfbW0ulC_si2QviwIRNre5LBtXP1cPrxlnTNj_ZbfQFTwvN0mv250=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 31
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

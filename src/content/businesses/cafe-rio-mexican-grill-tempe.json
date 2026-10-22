@@ -1,0 +1,45 @@
+{
+  "slug": "cafe-rio-mexican-grill-tempe",
+  "name": "Cafe Rio Mexican Grill",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Family restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "address": "715 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.423091899999996,
+  "lng": -111.9256549,
+  "phone": "+14809006297",
+  "website": "https://www.caferio.com/locations/tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Rio+Mexican+Grill/data=!4m7!3m6!1s0x872b08e72c7c1547:0x8a98c49675527e49!8m2!3d33.4230919!4d-111.9256549!16s%2Fg%2F11c1tsywxb!19sChIJRxV8LOcIK4cRSX5SdZbEmIo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9986948324186553929",
+  "placeId": "ChIJRxV8LOcIK4cRSX5SdZbEmIo",
+  "googleRating": 4,
+  "googleReviewCount": 531,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRzqUcjaFJx8b-nVjnrk3dhBk_pHirQuGho9gnNniImd7cnuiM1iTdFkH0kb2IBWVLHyLjG7uJjbXNPg9x70Lo9csap7-Fxs6Rtvko0avMBXlZ70rqhdy-wvhljejKXOplJKhC=w1200-h800-k-no",
+  "description": "Counter-serve eatery dishing up Mexican classics including hand-rolled tortillas, burritos & tacos.",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 63,
+    "2": 27,
+    "3": 36,
+    "4": 109,
+    "5": 296
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

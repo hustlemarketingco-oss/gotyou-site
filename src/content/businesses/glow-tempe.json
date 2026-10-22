@@ -11,7 +11,7 @@
   "lng": -111.9402094,
   "phone": "+14803294090",
   "website": "https://www.facebook.com/GLOW-shots-cocktails-467823047127453/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13490465256248675208",
+  "googleMapsUrl": "https://www.google.com/maps/place/Glow+Tempe/data=!4m7!3m6!1s0x872b09df33fe7091:0xbb37c2accd738b88!8m2!3d33.4263531!4d-111.9402094!16s%2Fg%2F11hzsx28l7!19sChIJkXD-M98JK4cRiItzzazCN7s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13490465256248675208",
   "placeId": "ChIJkXD-M98JK4cRiItzzazCN7s",
   "googleRating": 3.6,
@@ -19,15 +19,9 @@
   "priceRange": "$10–30",
   "description": "Located in Tempe, Glow Tempe is a trendy night club with alcohol & beer, dine-in. A favorite among good for groups diners.",
   "amenities": [
-    "Onsite services",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "7:00 PM - 2:00 AM",
@@ -44,5 +38,14 @@
   "groundgameId": "6a24388ba55170b9cb9a961d",
   "seededAt": "2026-06-06T15:11:07Z",
   "updatedAt": "2026-06-06T15:11:07Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 5,
+    "3": 7,
+    "4": 10,
+    "5": 95
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmrgwn5di1S9rr1vwZIauUcLRRPknUFE64Bd4Hl2432wy3DnrAVbyrbDe-TsnooHt_dj49R_hinT5-UQAWY4uEG22EdVNoHCZwqKxNy2jPmyOxwCVnhCaEqRtC1QbhbFRe9oKnkWFUwBTa=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

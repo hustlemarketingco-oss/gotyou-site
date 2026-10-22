@@ -1,0 +1,53 @@
+{
+  "slug": "jcpenney-tempe",
+  "name": "JCPenney",
+  "category": "Shopping",
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Furniture store",
+    "Jewelry store",
+    "Shoe store"
+  ],
+  "address": "1900 E Rio Salado Pkwy Ste 140",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4300043,
+  "lng": -111.9028276,
+  "phone": "+14808293555",
+  "website": "https://www.jcpenney.com/locations/az/tempe/clothing-stores-tempe-az-2902.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/JCPenney/data=!4m7!3m6!1s0x872b0855a0918a4d:0x596fbf89b6e6db0f!8m2!3d33.4300043!4d-111.9028276!16s%2Fg%2F1td2zy2m!19sChIJTYqRoFUIK4cRD9vmtom_b1k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6444580189990476559",
+  "placeId": "ChIJTYqRoFUIK4cRD9vmtom_b1k",
+  "googleRating": 4.2,
+  "googleReviewCount": 1605,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7hTT1xbFpZliS6fRVxZ9wSrKHB-Tg2TtFjDRBtF0YKDeYHNPVKmf_mncmdg3qKl6QAyBa_hOx_MBL2TGgY2MG4TLnne7pzrgwtaw_wHqnE6dcGOXnPnIagzJmjSmKw_ndWc3yrCYj1kwU=w1200-h800-k-no",
+  "description": "Chain department store selling a wide selection of brand-name clothing, footwear, furniture & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 63,
+    "3": 178,
+    "4": 382,
+    "5": 900
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

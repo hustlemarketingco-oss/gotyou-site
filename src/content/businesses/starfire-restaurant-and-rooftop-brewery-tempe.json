@@ -11,26 +11,18 @@
   "lng": -111.8815291,
   "phone": "+14806604393",
   "website": "https://www.friendshipvillageaz.com/dining/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13431420635420514219",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starfire+Restaurant+and+Rooftop+Brewery/data=!4m7!3m6!1s0x872b070078b89fc1:0xba65fde7bb1757ab!8m2!3d33.3925744!4d-111.8815291!16s%2Fg%2F11vwrzg6c3!19sChIJwZ-4eAAHK4cRq1cXu-f9Zbo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13431420635420514219",
   "placeId": "ChIJwZ-4eAAHK4cRq1cXu-f9Zbo",
-  "googleRating": 4.5,
-  "googleReviewCount": 22,
+  "googleRating": 4.4,
+  "googleReviewCount": 28,
   "priceRange": "$20–30",
   "description": "Located in Tempe, Starfire Restaurant and Rooftop Brewery is a casual, trendy american restaurant with alcohol & beer, dine-in.",
   "amenities": [
-    "Outdoor seating",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 2:00 PM, 4:30 PM - 7:00 PM",
@@ -47,5 +39,13 @@
   "groundgameId": "6a24378b97cdd5c06dbc4dab",
   "seededAt": "2026-06-06T15:06:51Z",
   "updatedAt": "2026-06-06T15:06:51Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "4": 2,
+    "5": 22
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe02Z53byRSrLy2xWdZhQG9htSZREamf54Q2IRvHHsdXCFoqb1TPy0xRyGytspgyPcieyWrFqkcT5InSxOADzjL6nS0iMDTYuVUj0p6AfDeI7fh1qz8tTJ5GGHg93FbffkftSs97tP_0H-u=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,47 @@
+{
+  "slug": "sams-club-floral-tempe",
+  "name": "Sam's Club Floral",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Flower delivery"
+  ],
+  "address": "2080 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4313877,
+  "lng": -111.8995757,
+  "phone": "+14806061805",
+  "website": "https://www.samsclub.com/club/4956-tempe-az?FLO=aL",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sam%27s+Club+Floral/data=!4m7!3m6!1s0x872b09f148f9b6c9:0x4c8dfca78bd7885f!8m2!3d33.4313877!4d-111.8995757!16s%2Fg%2F11xf12d77j!19sChIJybb5SPEJK4cRX4jXi6f8jUw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5516342915134621791",
+  "placeId": "ChIJybb5SPEJK4cRX4jXi6f8jUw",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsP71pjgfuymjGBf-YfoMViVotSFajFoWTngpCGb39uZQxh8I3kuSrDYLFe_9hcTIvZuxKM6vOnyvQPbk9a-FT2NMYDXHHLRes6lLb6Lb7yWAIgrh0gLln-S1xaDVk_c2cjxRyXDCe4aBT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

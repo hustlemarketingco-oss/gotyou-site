@@ -1,0 +1,35 @@
+{
+  "slug": "sashas-place-tempe",
+  "name": "Sasha's Place",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "3108 S Cottonwood Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3957139,
+  "lng": -111.8899514,
+  "googleMapsUrl": "https://www.google.com/maps/place/Sasha%27s+Place/data=!4m7!3m6!1s0x872b09b8b2a76647:0x532ff6a6c102318e!8m2!3d33.3957139!4d-111.8899514!16s%2Fg%2F11zcgytkq2!19sChIJR2ansrgJK4cRjjECwab2L1M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5994280825116569998",
+  "placeId": "ChIJR2ansrgJK4cRjjECwab2L1M",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i8RzzizF1mSApRBXSPT_SQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=261.34717&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

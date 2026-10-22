@@ -11,11 +11,11 @@
   "lng": -111.9496489,
   "phone": "+14809664000",
   "website": "http://www.burgerrushaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12288726892034805673",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+Rush/data=!4m7!3m6!1s0x872b08cb70a53def:0xaa8a53fff5864fa9!8m2!3d33.4076555!4d-111.9496489!16s%2Fg%2F1z44c2zmr!19sChIJ7z2lcMsIK4cRqU-G9f9Tiqo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12288726892034805673",
   "placeId": "ChIJ7z2lcMsIK4cRqU-G9f9Tiqo",
   "googleRating": 4.3,
-  "googleReviewCount": 1726,
+  "googleReviewCount": 1749,
   "description": "Counter-serve joint with a drive-thru offering creative burgers along with other bites.",
   "hours": {
     "fri": "10:30 AM - 10:00 PM",
@@ -32,5 +32,20 @@
   "groundgameId": "6a2437895e054ba143fc70fe",
   "seededAt": "2026-06-06T15:06:49Z",
   "updatedAt": "2026-06-06T15:06:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 137,
+    "2": 56,
+    "3": 122,
+    "4": 295,
+    "5": 1139
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuZjVX6engv4bdxUMPA8moaklg7SFUyEqEgz9qNqlZDeTvlh-EzR63jGktbPyPiDQHFOgzjxPjBYJKW-D2_U4krAz2mDa_D9MsF_b27I4E0d8oMCifLv57hDL95AM3eGgfqNOXifQrZHg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

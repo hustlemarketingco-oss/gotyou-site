@@ -1,0 +1,54 @@
+{
+  "slug": "aeropostale-tempe",
+  "name": "Aéropostale",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Men's clothing store",
+    "Outerwear store",
+    "Women's clothing store",
+    "Youth clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #179",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3843838,
+  "lng": -111.9634974,
+  "phone": "+14804911021",
+  "website": "https://stores.aeropostale.com/az/tempe/5000-arizona-mills-circle?utm_source=google&utm_medium=organic&utm_campaign=local",
+  "googleMapsUrl": "https://www.google.com/maps/place/A%C3%A9ropostale/data=!4m7!3m6!1s0x872b0f5752bd5ee9:0x46fb74530d0df458!8m2!3d33.3843838!4d-111.9634974!16s%2Fg%2F1td2zy3w!19sChIJ6V69UlcPK4cRWPQNDVN0-0Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5114809701859456088",
+  "placeId": "ChIJ6V69UlcPK4cRWPQNDVN0-0Y",
+  "googleRating": 4.3,
+  "googleReviewCount": 103,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHdYlOK90PKCn3rKwfScrQQWTqGI5XRnKHw1xHqu32WwEreivfxSqO4C98aV4tJBE5CCKWWNU6ZB3TbFiFSbFIsEuDIH666CMtcTJwSEkKF6EJ-O2LVCXLzdLUoWwdfmamkwoI2Q=w1200-h800-k-no",
+  "description": "Trendy retail chain selling casualwear & accessories for young male & female adults.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 5,
+    "3": 6,
+    "4": 23,
+    "5": 64
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

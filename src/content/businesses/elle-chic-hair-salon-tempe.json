@@ -1,0 +1,27 @@
+{
+  "slug": "elle-chic-hair-salon-tempe",
+  "name": "Elle Chic Hair Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "4525 S Lakeshore Dr #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3822299,
+  "lng": -111.9254924,
+  "googleMapsUrl": "https://www.google.com/maps/place/Elle+Chic+Hair+Salon/data=!4m7!3m6!1s0x872b07003f4b1adf:0x43feec582af4716c!8m2!3d33.3822299!4d-111.9254924!16s%2Fg%2F11yqr17cb9!19sChIJ3xpLPwAHK4cRbHH0Kljs_kM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4899613308047618412",
+  "placeId": "ChIJ3xpLPwAHK4cRbHH0Kljs_kM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7nwlqxJkNQA_pk9v_bdEEQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=298.71066&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

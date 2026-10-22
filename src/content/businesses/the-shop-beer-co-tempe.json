@@ -17,7 +17,7 @@
   "website": "http://www.theshop.beer/",
   "placeId": "ChIJbUhWoSwJK4cRNNVaTW1Dowc",
   "googleRating": 4.8,
-  "googleReviewCount": 628,
+  "googleReviewCount": 648,
   "priceRange": "$",
   "hours": {
     "mon": "12:00 PM - 11:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a397b300427b9aad2c49191",
   "seededAt": "2026-06-22T18:13:04Z",
   "updatedAt": "2026-06-22T18:13:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "550357716197627188",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Shop+Beer+Co./data=!4m7!3m6!1s0x872b092ca156486d:0x7a3436d4d5ad534!8m2!3d33.4293338!4d-111.9512675!16s%2Fg%2F11cn3454yr!19sChIJbUhWoSwJK4cRNNVaTW1Dowc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 6,
+    "3": 9,
+    "4": 59,
+    "5": 566
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu6G19Yr_vzkQeGatVj2Yz6VpH8bnaA4nK8VDMAkEGqOnCBzJNM3AKoTPc9km4tzdPGWupbTVaOASGX9HCwSAeSjg9RHbM4fT5WhGrLZvZgQEb4UeaTAFbtbe0G6Tof36DIeL7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

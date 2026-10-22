@@ -1,0 +1,47 @@
+{
+  "slug": "broadmoor-barbers-tempe",
+  "name": "Broadmoor Barbers",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2103 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4059777,
+  "lng": -111.925913,
+  "phone": "+14809682120",
+  "website": "https://getsquire.com/booking/brands/broadmoor-barbers",
+  "googleMapsUrl": "https://www.google.com/maps/place/Broadmoor+Barbers/data=!4m7!3m6!1s0x872b08953d2046a7:0xad0df1b6c58b8199!8m2!3d33.4059777!4d-111.925913!16s%2Fg%2F1tg6ql1g!19sChIJp0YgPZUIK4cRmYGLxbbxDa0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12469888710559367577",
+  "placeId": "ChIJp0YgPZUIK4cRmYGLxbbxDa0",
+  "googleRating": 4.8,
+  "googleReviewCount": 203,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLJ_-GkayPgOUJYa9gDMXcmyqwoo3V8SAq7gNIeYI9wRr5V7xYRyUWpG9hA51tsGXiSMWFt2gN3Ju2IBWtuGD5w1YudBK9JlcBKJRo7GVnBAfcKwZJo8E4hu_RlssApgsa4TBINOvFgZw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 1,
+    "4": 2,
+    "5": 193
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:30 AM - 5:30 PM",
+    "wed": "8:30 AM - 4:00 PM",
+    "thu": "8:30 AM - 5:30 PM",
+    "fri": "8:30 AM - 5:30 PM",
+    "sat": "8:30 AM - 5:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "gios-coffee-organic-tempe",
+  "name": "Gio's Coffee, Organic",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "414 S Mill Ave #111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426038999999996,
+  "lng": -111.94054419999999,
+  "phone": "+14809425222",
+  "website": "https://www.gios-coffee.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gio%27s+Coffee,+Organic/data=!4m7!3m6!1s0x872b092467584f4b:0x85100d955df3267!8m2!3d33.426039!4d-111.9405442!16s%2Fg%2F11zj1_ply8!19sChIJS09YZyQJK4cRZzLfVdkAUQg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "599261158865580647",
+  "placeId": "ChIJS09YZyQJK4cRZzLfVdkAUQg",
+  "googleRating": 4.8,
+  "googleReviewCount": 112,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesverJ-OAZ4q21YK_BaiWtLaQdf4ehqPJfFeqE2zq2i0FGJKMuZYmZ8NcN1iNrr0aDD3EOKEsbOk9AbJUAKdEwl_A1Yxx5H0VJU7eAnNsEnsZuIocGjY-UYca0WB14OSvQ-iX77HdxD_rC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 5,
+    "4": 3,
+    "5": 104
+  },
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

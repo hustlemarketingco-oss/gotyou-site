@@ -1,0 +1,41 @@
+{
+  "slug": "extreme-toys-tempe",
+  "name": "Extreme Toys",
+  "category": "Shopping",
+  "googleCategory": "Toy store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383123,
+  "lng": -111.964485,
+  "googleMapsUrl": "https://www.google.com/maps/place/Extreme+Toys/data=!4m7!3m6!1s0x872b0f59e1444903:0xab083bc2d574ac76!8m2!3d33.383123!4d-111.964485!16s%2Fg%2F1tg8k5p6!19sChIJA0lE4VkPK4cRdqx01cI7CKs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12324166088290249846",
+  "placeId": "ChIJA0lE4VkPK4cRdqx01cI7CKs",
+  "googleRating": 3.5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qljXrUD2Onw3PNhlnS5lQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=259.62988&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

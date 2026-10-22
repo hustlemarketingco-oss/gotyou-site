@@ -19,7 +19,7 @@
   "website": "https://www.thirstylionrestaurant.com/",
   "placeId": "ChIJRSOpGQAJK4cRglhtzVjqbRk",
   "googleRating": 4.4,
-  "googleReviewCount": 5213,
+  "googleReviewCount": 5395,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a281266f2dbf5bd1b1a1552",
   "seededAt": "2026-06-09T13:17:26Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1832378290534176898",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thirsty+Lion/data=!4m7!3m6!1s0x872b090019a92345:0x196dea58cd6d5882!8m2!3d33.4330007!4d-111.9055282!16s%2Fg%2F1tgfx2jt!19sChIJRSOpGQAJK4cRglhtzVjqbRk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 159,
+    "2": 172,
+    "3": 444,
+    "4": 1223,
+    "5": 3397
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7LHzkvKIsM0JvzLIBuDrbPB7JO5n0u6HByap_tyf4V4sRZw_D6m4Bmv_PeJtD4CEI-LIymzVC0qVHPdOUAxOuznhqYJsO9wRSeO0JA58jxbbtFHGycjXPWlU7zJOm-qBuFMwY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

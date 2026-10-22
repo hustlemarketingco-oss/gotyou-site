@@ -11,11 +11,11 @@
   "lng": -111.9346468,
   "phone": "+14807164747",
   "website": "http://www.greencorneraz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17051036816705126759",
+  "googleMapsUrl": "https://www.google.com/maps/place/Green+Corner+Mediterranean+Cuisine/data=!4m7!3m6!1s0x872b090a76acd939:0xeca173a4ffd10167!8m2!3d33.4227835!4d-111.9346468!16s%2Fg%2F11ykxpwxz2!19sChIJOdmsdgoJK4cRZwHR_6Rzoew?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17051036816705126759",
   "placeId": "ChIJOdmsdgoJK4cRZwHR_6Rzoew",
   "googleRating": 4.6,
-  "googleReviewCount": 114,
+  "googleReviewCount": 182,
   "description": "Located in Tempe, Green Corner Mediterranean Cuisine is a mediterranean restaurant.",
   "hours": {
     "fri": "10:30 AM - 1:00 AM",
@@ -32,5 +32,20 @@
   "groundgameId": "6a24376f977211e77d174825",
   "seededAt": "2026-06-06T15:06:23Z",
   "updatedAt": "2026-08-04T18:12:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 2,
+    "3": 6,
+    "4": 16,
+    "5": 148
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqL2fI5OW8bpRh-fZurRSFsPPQFl9gCaJwAEzFz_Tb5ImYC1hB3doUWJyJc7sPTsw6GTPTmGfeZP-XOR290cpDW1I7HRyJWU7zob54IGhPHgzA-SALZngFRc6WpqJCEde5Ebemd-pLX_0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

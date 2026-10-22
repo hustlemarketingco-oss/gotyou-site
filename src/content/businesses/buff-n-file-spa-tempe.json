@@ -1,0 +1,47 @@
+{
+  "slug": "buff-n-file-spa-tempe",
+  "name": "Buff N File Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1804 E Southern Ave #7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3938444,
+  "lng": -111.90803749999999,
+  "phone": "+14805579938",
+  "website": "https://www.facebook.com/BuffNFileNailSpa/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buff+N+File+Spa/data=!4m7!3m6!1s0x872b088123676a7b:0xf16be83bb01bcf2b!8m2!3d33.3938444!4d-111.9080375!16s%2Fg%2F11c74c79m3!19sChIJe2pnI4EIK4cRK88bsDvoa_E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17396253328703999787",
+  "placeId": "ChIJe2pnI4EIK4cRK88bsDvoa_E",
+  "googleRating": 4.1,
+  "googleReviewCount": 276,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1c9AUdxVVLSmZcn8ZMXuIAn1mszQ2nd1PlDp0-0sEjdE9902rYkYS2pEWK1ySo6D6iMQEGQaNvXlhjEwbFmASekmlIPf0lkU_uwp3BrKePMPB4LPzhh2bPIXoFDUblWtfSOE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 44,
+    "2": 14,
+    "3": 10,
+    "4": 24,
+    "5": 184
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

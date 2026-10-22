@@ -19,21 +19,16 @@
   "lat": 33.3935829,
   "lng": -111.9277271,
   "website": "https://www.walmart.com/store/5768-tempe-az/bakery/?veh=seo_loc",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8354545575337703176",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walmart+Bakery/data=!4m7!3m6!1s0x872b089887ebd779:0x73f14eefbdd0b708!8m2!3d33.3935829!4d-111.9277271!16s%2Fg%2F11p5v0t3y6!19sChIJedfrh5gIK4cRCLfQve9O8XM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8354545575337703176",
   "placeId": "ChIJedfrh5gIK4cRCLfQve9O8XM",
   "googleRating": 4.4,
   "googleReviewCount": 5,
   "description": "Located in Tempe, Walmart Bakery is a bakery & bagel shop with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "7:00 AM - 10:00 PM",
@@ -50,5 +45,12 @@
   "groundgameId": "6a2439954a0e44bda40cc9bc",
   "seededAt": "2026-06-06T15:15:33Z",
   "updatedAt": "2026-06-25T21:24:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2Kl3YTbnflFYRaB_WnFfcxTfXVPhO0s3E0mPvRUsJNpVEbtNusIE81lUq177PYtTBJL4phiD-Qv8CWeCSAGqcJXMWP5FYYmiRU-rRI7fCsfXgpP_6chupx4QEi_jV8p6WjVdn4A=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

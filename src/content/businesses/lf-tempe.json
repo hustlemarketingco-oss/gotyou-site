@@ -1,0 +1,26 @@
+{
+  "slug": "lf-tempe",
+  "name": "lf",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241242,
+  "lng": -111.94196,
+  "googleMapsUrl": "https://www.google.com/maps/place/lf/data=!4m7!3m6!1s0x872b09df47811809:0x3d6415d5eee4894a!8m2!3d33.4241242!4d-111.94196!16s%2Fg%2F11spn9x7vk!19sChIJCRiBR98JK4cRSonk7tUVZD0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4423684742564841802",
+  "placeId": "ChIJCRiBR98JK4cRSonk7tUVZD0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XYgInItqM3eJibUHbQ_d0Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=217.0586&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

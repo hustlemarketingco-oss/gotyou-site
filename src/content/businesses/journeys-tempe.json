@@ -1,0 +1,55 @@
+{
+  "slug": "journeys-tempe",
+  "name": "Journeys",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Sportswear store",
+    "Women's clothing store",
+    "Youth clothing store"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4334432,
+  "lng": -111.9030171,
+  "phone": "+14809660055",
+  "website": "https://www.journeys.com/store/journeys-tempe-marketplace",
+  "googleMapsUrl": "https://www.google.com/maps/place/Journeys/data=!4m7!3m6!1s0x872b08543eea7bab:0xe3a536e1deee65df!8m2!3d33.4334432!4d-111.9030171!16s%2Fg%2F1v_vtccl!19sChIJq3vqPlQIK4cR32Xu3uE2peM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16403577561502606815",
+  "placeId": "ChIJq3vqPlQIK4cR32Xu3uE2peM",
+  "googleRating": 4.3,
+  "googleReviewCount": 82,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebGibfe9oYgtD5o0KagGyPpTPxKIigubIYbHhVLapTTZp4Ty2oqtb3y3jlMrDH3w0S6BJnxg1fIsSbGI4x_gGG0NHpJlySzxKHzkMNQPbsEdcr2LhKhkxO_PpkpL_wRcczkFfoLg=w1200-h800-k-no",
+  "description": "Teen-oriented chain supplying casual, surf-&-skate-inspired clothes, shoes & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "3": 8,
+    "4": 9,
+    "5": 57
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "red-wing-tempe-az-tempe",
+  "name": "Red Wing - Tempe, AZ",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "655 W Warner Rd #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332910399999996,
+  "lng": -111.9477015,
+  "phone": "+14807858997",
+  "website": "https://stores.redwingshoes.com/tempe-az",
+  "googleMapsUrl": "https://www.google.com/maps/place/Red+Wing+-+Tempe,+AZ/data=!4m7!3m6!1s0x872b0683f2b3c78d:0x91dc2f5f16013104!8m2!3d33.3329104!4d-111.9477015!16s%2Fg%2F1tdk10_y!19sChIJjcez8oMGK4cRBDEBFl8v3JE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10510327715813470468",
+  "placeId": "ChIJjcez8oMGK4cRBDEBFl8v3JE",
+  "googleRating": 4.7,
+  "googleReviewCount": 385,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAWERg24lb3fyHgvr8e0MH8CsonNe5OugSGkwiDneKsGDlgq1-QjfcXrpslbwPUsRC9VaEd-me5D907Gb8ZJ6ULdIlP3JQXadhSnFO0t3_KL3rJhbxnWXxLA3flw6tY16t1w34OQ=w1200-h800-k-no",
+  "description": "Chain retailer offering a traditional collection of handcrafted leather boots for work & recreation.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 8,
+    "3": 10,
+    "4": 32,
+    "5": 322
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

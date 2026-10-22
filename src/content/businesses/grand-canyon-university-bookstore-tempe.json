@@ -1,0 +1,38 @@
+{
+  "slug": "grand-canyon-university-bookstore-tempe",
+  "name": "Grand Canyon University Bookstore",
+  "category": "Shopping",
+  "googleCategory": "Book store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Gift shop"
+  ],
+  "address": "918 S Park Ln #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.419797599999995,
+  "lng": -111.9751239,
+  "phone": "+18778668917",
+  "website": "https://www.bkstr.com/grandcanyonstore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-276",
+  "googleMapsUrl": "https://www.google.com/maps/place/Grand+Canyon+University+Bookstore/data=!4m7!3m6!1s0x872b134fc14a2a2d:0xdbbdf0e96d02760f!8m2!3d33.4197976!4d-111.9751239!16s%2Fg%2F1v16qs6n!19sChIJLSpKwU8TK4cRD3YCbenwvds?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15834076750251456015",
+  "placeId": "ChIJLSpKwU8TK4cRD3YCbenwvds",
+  "googleRating": 2.4,
+  "googleReviewCount": 8,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BV33wKHqTmejLCnIfVkMeg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=312.61356&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "4": 1,
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

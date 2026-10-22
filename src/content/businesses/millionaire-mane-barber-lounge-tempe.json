@@ -1,0 +1,36 @@
+{
+  "slug": "millionaire-mane-barber-lounge-tempe",
+  "name": "Millionaire-Mane Barber Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "600 W 1st St Ste 1043",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4292628,
+  "lng": -111.94779199999999,
+  "phone": "+16234736844",
+  "website": "https://www.millionaire-mane.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Millionaire-Mane+Barber+Lounge/data=!4m7!3m6!1s0x872b05c6ed2483ed:0xe918cdbbbac40dc5!8m2!3d33.4292628!4d-111.947792!16s%2Fg%2F11s2l68d2l!19sChIJ7YMk7cYFK4cRxQ3EurvNGOk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16796401016454254021",
+  "placeId": "ChIJ7YMk7cYFK4cRxQ3EurvNGOk",
+  "googleRating": 4.9,
+  "googleReviewCount": 40,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MP-Kk9EhIN4s4vgFs-94zA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=7.75631&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 39
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

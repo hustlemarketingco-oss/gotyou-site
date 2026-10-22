@@ -1,0 +1,38 @@
+{
+  "slug": "organs-az-tempe",
+  "name": "Organs AZ",
+  "category": "Shopping",
+  "googleCategory": "Musical instrument store",
+  "secondaryCategories": [
+    "Music store",
+    "Piano store",
+    "Used musical instrument store"
+  ],
+  "address": "2060 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393321199999995,
+  "lng": -111.8979882,
+  "phone": "+14808083973",
+  "website": "https://www.organsaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Organs+AZ/data=!4m7!3m6!1s0x872b0878d0f825d7:0x55cc62b02d5873a6!8m2!3d33.3933212!4d-111.8979882!16s%2Fg%2F11bz_30c83!19sChIJ1yX40HgIK4cRpnNYLbBizFU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6182424897287386022",
+  "placeId": "ChIJ1yX40HgIK4cRpnNYLbBizFU",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0yL-2_k_WJnclS67yEcYBMQdu9zDQj58fyOpJidv9gYLf7pg9wNRq3l56g7-1o46GxWSOKK7zwIP5fS4LTYs7A5uv0BvSdTpHa3sjuxWvhkbtSlC3BuO5CrFzSYGCsziMvPA-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

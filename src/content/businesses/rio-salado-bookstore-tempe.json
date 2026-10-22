@@ -1,0 +1,51 @@
+{
+  "slug": "rio-salado-bookstore-tempe",
+  "name": "Rio Salado Bookstore",
+  "category": "Shopping",
+  "googleCategory": "Book store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Gift shop"
+  ],
+  "address": "Conference Center, 2323 W 14th St Building C",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.413264,
+  "lng": -111.974187,
+  "phone": "+14805178710",
+  "website": "https://www.bkstr.com/riosaladostore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-98",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rio+Salado+Bookstore/data=!4m7!3m6!1s0x872b0f2240e3a565:0x44eadb5d8b5e3f80!8m2!3d33.413264!4d-111.974187!16s%2Fg%2F1tx4ptz8!19sChIJZaXjQCIPK4cRgD9ei13b6kQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4966022733946044288",
+  "placeId": "ChIJZaXjQCIPK4cRgD9ei13b6kQ",
+  "googleRating": 4.1,
+  "googleReviewCount": 81,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUvj-xuH10eFRst2RHJI1wBmV4a2P6YDhEq2IOlOib9Wsy1zyAiEu5jo09Am7MOTRTe4bxYhCVluhzM29CwMEhK2WDSO8N40tYLHmS5nOj4nooyf0zZdP6GqSDBsElA9M-w5m-=w1200-h800-k-no",
+  "description": "College bookstore supplying textbooks & course materials, plus collegiate apparel & collectibles.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 4,
+    "3": 9,
+    "4": 14,
+    "5": 46
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

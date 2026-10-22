@@ -1,0 +1,42 @@
+{
+  "slug": "trim-toned-tempe",
+  "name": "Trim & Toned",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "6601 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+16027108953",
+  "website": "https://trimandtonedstudio.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trim+%26+Toned/data=!4m7!3m6!1s0x872bafeae2128eab:0x72864f196205612c!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11x5s725w_!19sChIJq44S4uqvK4cRLGEFYhlPhnI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8252370337640309036",
+  "placeId": "ChIJq44S4uqvK4cRLGEFYhlPhnI",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjMSduq9TTIk71qDoD2jwqVvG1ykp9cFIz6qLtvcQuMBJVgfPqi6soUZHcbaWF4uixLRSNJ1qUmdijG4dOBdJPYvggJlk2ar7ErXnhlOoedElUT5j5e1bgubvdhOxKWo7zY_FKjElX7nBj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

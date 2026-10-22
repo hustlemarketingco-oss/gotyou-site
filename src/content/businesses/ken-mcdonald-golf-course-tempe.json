@@ -1,0 +1,47 @@
+{
+  "slug": "ken-mcdonald-golf-course-tempe",
+  "name": "Ken McDonald Golf Course",
+  "category": "Fun & Activities",
+  "googleCategory": "Golf course",
+  "address": "800 E Divot Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.357138299999995,
+  "lng": -111.93269389999999,
+  "phone": "+14808783332",
+  "website": "https://www.playkenmcdonald.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ken+McDonald+Golf+Course/data=!4m7!3m6!1s0x872b066f503b2561:0x1a0cc2be7b465bd2!8m2!3d33.3571383!4d-111.9326939!16s%2Fg%2F1tt1t47w!19sChIJYSU7UG8GK4cR0ltGe77CDBo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1877089268074437586",
+  "placeId": "ChIJYSU7UG8GK4cR0ltGe77CDBo",
+  "googleRating": 4.1,
+  "googleReviewCount": 650,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWriP7qdIAKqaAeMYVhom-gJmD-S0Fw21DhjlPC4QpVDjtJlhqjir_bpjoeJABEi9Wt1mOd5xLvsUhfa55ex1FlCVjzTOsDuyyrOIsqVBg9FFuj6rhMwZwzEwkwfxSKrriK6cvcA=w1200-h800-k-no",
+  "description": "18-hole public course with wide fairways, a lighted driving range, a pro shop & a bar & grill.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 29,
+    "3": 69,
+    "4": 190,
+    "5": 316
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

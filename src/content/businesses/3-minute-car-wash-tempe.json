@@ -1,0 +1,42 @@
+{
+  "slug": "3-minute-car-wash-tempe",
+  "name": "3 Minute Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "1406 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4223937,
+  "lng": -111.9613265,
+  "phone": "+14807887803",
+  "website": "http://www.3-minutecarwash.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/3+Minute+Car+Wash/data=!4m7!3m6!1s0x872b0f282a4fca4f:0x33b721b73b0f0ca0!8m2!3d33.4223937!4d-111.9613265!16s%2Fg%2F11btlq1gz3!19sChIJT8pPKigPK4cRoAwPO7chtzM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3726484287525948576",
+  "placeId": "ChIJT8pPKigPK4cRoAwPO7chtzM",
+  "googleRating": 3.8,
+  "googleReviewCount": 560,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFu_A_wcYCsLseRRpLJ5rUX87uAaVNSTo-lDVxy3_vBG4JXt1PnFT5c-7KyOH6fx4kiFYETiI41tIfDO5NgAA-eWB21Fc_njFIK5yrAIr6lH5HvfZPUUHNWtuDFjQqgENYzcAy=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 83,
+    "2": 29,
+    "3": 67,
+    "4": 124,
+    "5": 257
+  },
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "chad-nails-artist-tempe",
+  "name": "Chad Nails Artist - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "930 W Broadway Rd Ste 12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078778,
+  "lng": -111.9540425,
+  "phone": "+14807354532",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chad+Nails+Artist+-+Tempe/data=!4m7!3m6!1s0x872b0f6279885bc1:0xfbd34cf18b895fc1!8m2!3d33.4078778!4d-111.9540425!16s%2Fg%2F11ms87h3n0!19sChIJwVuIeWIPK4cRwV-Ji_FM0_s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18145931923917725633",
+  "placeId": "ChIJwVuIeWIPK4cRwV-Ji_FM0_s",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OozXh7sKwlEE2-haqPX0UQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=173.18002&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 6:00 PM",
+    "wed": "9:30 AM - 6:00 PM",
+    "thu": "9:30 AM - 6:00 PM",
+    "fri": "9:30 AM - 6:00 PM",
+    "sat": "9:30 AM - 4:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

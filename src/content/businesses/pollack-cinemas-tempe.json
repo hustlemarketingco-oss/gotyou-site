@@ -10,17 +10,10 @@
   "phone": "+14803456461",
   "description": "Located in Tempe, Pollack Cinemas is a movie theater with alcohol & arcade games. A favorite among family-friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/pollackcinema"
@@ -31,5 +24,22 @@
   "groundgameId": "6a24383c514d093c3f65ed3b",
   "seededAt": "2026-06-06T15:09:48Z",
   "updatedAt": "2026-06-09T13:10:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJRxwMx1UGK4cRGFzyn1TY8iE",
+  "googleCid": "2446255405587913752",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pollack+Cinemas/data=!4m7!3m6!1s0x872b0655c70c1c47:0x21f2d8549ff25c18!8m2!3d33.3477898!4d-111.9092355!16s%2Fg%2F1vzn607l!19sChIJRxwMx1UGK4cRGFzyn1TY8iE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 3455,
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 45,
+    "3": 139,
+    "4": 598,
+    "5": 2638
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLds0gn2JfHpcDRpiwBtsKbCaSCrWqVRUO3yZQwZd705jxTU1t2HxlH_n63QBoih7Wun6wnY594IIaBc9NIKtUgD3CTr61fO734VgzTOKiE0XbyCD2AzF4BYSI4-qXCF9gtb_keQ=w1200-h800-k-no",
+  "website": "http://www.pollacktempecinemas.com/",
+  "lat": 33.3477898,
+  "lng": -111.9092355,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "jkm-cuisine-tempe",
+  "name": "JKM Cuisine",
+  "category": "Restaurant",
+  "googleCategory": "Fusion restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Caribbean restaurant",
+    "Deli"
+  ],
+  "address": "1900 E 5th St K3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+18775329556",
+  "website": "http://www.jkmcuisine.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/JKM+Cuisine/data=!4m7!3m6!1s0x872b09a2db4b9ec3:0xf3461814678dae25!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11nqf8jdwk!19sChIJw55L26IJK4cRJa6NZxQYRvM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17529725075501985317",
+  "placeId": "ChIJw55L26IJK4cRJa6NZxQYRvM",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqyQOOXbBZppWJ6r5u7ywXexjqrUxLPvYnPio_t5MYnMafba63Y49b2649ptQO3uWl1O4r-rN82jkscUXooyyaH5OtrApxWW8EV9D1485oqawmPpGki6nZXQGMNCbbN3mnE2Bt6HI712TC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "9:00 AM - 3:00 AM",
+    "tue": "9:00 AM - 3:00 AM",
+    "wed": "9:00 AM - 3:00 AM",
+    "thu": "9:00 AM - 3:00 AM",
+    "fri": "9:00 AM - 3:00 AM",
+    "sat": "9:00 AM - 3:00 AM",
+    "sun": "9:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

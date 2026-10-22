@@ -1,0 +1,42 @@
+{
+  "slug": "the-cutlective-beauty-and-barber-studio-tempe",
+  "name": "The Cutlective Beauty and Barber Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "301 E Orange St ASU, Lower Level",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4178335,
+  "lng": -111.9344567,
+  "website": "https://thecutlectivebeautyandbarber.com/contact",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Cutlective+Beauty+and+Barber+Studio/data=!4m7!3m6!1s0x872b090a0daa52dd:0xf1f7d9273d7f1441!8m2!3d33.4178335!4d-111.9344567!16s%2Fg%2F11yxn7nysr!19sChIJ3VKqDQoJK4cRQRR_PSfZ9_E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17435643244946854977",
+  "placeId": "ChIJ3VKqDQoJK4cRQRR_PSfZ9_E",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gtP7Z3ExISZj1k76zBnjyw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=91.736244&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 5:00 PM",
+    "wed": "10:30 AM - 5:00 PM",
+    "thu": "10:30 AM - 5:00 PM",
+    "fri": "10:30 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

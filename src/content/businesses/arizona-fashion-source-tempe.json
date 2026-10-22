@@ -1,0 +1,48 @@
+{
+  "slug": "arizona-fashion-source-tempe",
+  "name": "Arizona Fashion Source",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "secondaryCategories": [
+    "Fashion designer"
+  ],
+  "address": "117 East 5th Street #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.396736499999996,
+  "lng": -111.97544429999999,
+  "phone": "+16027434638",
+  "website": "http://myadea.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Fashion+Source/data=!4m7!3m6!1s0x872b08d8f741a5e7:0xc3ec003ed6473c67!8m2!3d33.3967365!4d-111.9754443!16s%2Fg%2F11cs60g9t0!19sChIJ56VB99gIK4cRZzxH1j4A7MM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14117659201782627431",
+  "placeId": "ChIJ56VB99gIK4cRZzxH1j4A7MM",
+  "googleRating": 4.6,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeK64OP_6u8inZbNOR_yC2P6evJ_TV-4NEXfRHy8qBc02twLq1gYV4NM_gAmBWoe3mTZIdy4iniZFypTkKwa4vJJphg-Z3IEIYaS4lC_WRGO0XVIVqiTul6dSyvjCRLjSeXcv7X=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 8
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

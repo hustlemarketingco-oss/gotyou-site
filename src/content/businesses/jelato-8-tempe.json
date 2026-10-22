@@ -11,24 +11,15 @@
   "lng": -111.9174793,
   "phone": "+16232126061",
   "website": "https://jelato88.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9387919444019282471",
+  "googleMapsUrl": "https://www.google.com/maps/place/JELATO+8%E2%88%9E/data=!4m7!3m6!1s0x872b090034573057:0x824896feb8c08227!8m2!3d33.4080347!4d-111.9174793!16s%2Fg%2F11wfmcjqrc!19sChIJVzBXNAAJK4cRJ4LAuP6WSII?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9387919444019282471",
   "placeId": "ChIJVzBXNAAJK4cRJ4LAuP6WSII",
   "googleRating": 5,
-  "googleReviewCount": 414,
+  "googleReviewCount": 516,
   "description": "Located in Tempe, JELATO 8∞ is a casual, quiet ice cream shop with takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Outside"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/WordPresscom"
@@ -48,5 +39,12 @@
   "groundgameId": "6a243613922b99ad89510487",
   "seededAt": "2026-06-06T15:00:35Z",
   "updatedAt": "2026-07-08T20:56:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "2": 1,
+    "4": 5,
+    "5": 510
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDb3pQ3DJswJFN85ztlC9_SbLdBlQWZN8I5mt24Hw5rgE1WMrvSDjDX3w5o5OT6_-FUurAfO8-D6LDgsUM7a_jOnELgpdznVXuToK9cPj9-MifWjhaWuILUqW-evctFAFvIuB1mA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -16,7 +16,7 @@
   "website": "https://www.barrioqueen.com/",
   "placeId": "ChIJv8mUgtwJK4cR8WwnjbnndBQ",
   "googleRating": 4.3,
-  "googleReviewCount": 2480,
+  "googleReviewCount": 2569,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a3456cd73ae00633a2be734",
   "seededAt": "2026-06-18T20:36:29Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1474057762180132081",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barrio+Queen/data=!4m7!3m6!1s0x872b09dc8294c9bf:0x1474e7b98d276cf1!8m2!3d33.4329047!4d-111.9062391!16s%2Fg%2F11j8mk4c25!19sChIJv8mUgtwJK4cR8WwnjbnndBQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 152,
+    "2": 134,
+    "3": 221,
+    "4": 444,
+    "5": 1618
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd1KmCvUtTvPEZS0JLH4DtIbpH6B3htt7Ir9DLK88sVfVrHOpU26UPB1X9BtEfXXh26ArsGJYAnKtMKlrOb3KTeNlskPRD8RR8zyFCd2i37-TgYy4C64Y3X0IVzOVxX0r-o8g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

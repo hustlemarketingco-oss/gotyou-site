@@ -2,7 +2,7 @@
   "slug": "build-a-pita-pizza-restaurant-tempe",
   "name": "Build-A-Pita & Pizza Restaurant - Tempe",
   "category": "Restaurant",
-  "googleCategory": "Mediterranean restaurant",
+  "googleCategory": "Turkish restaurant",
   "secondaryCategories": [
     "Caterer",
     "Family restaurant",
@@ -21,17 +21,17 @@
   "lng": -111.9252745,
   "phone": "+14808532973",
   "website": "https://buildapita.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4863892571818758959",
+  "googleMapsUrl": "https://www.google.com/maps/place/Build-A-Pita+%26+Pizza+Restaurant+-+Tempe/data=!4m7!3m6!1s0x872b09d4bc72baff:0x4380048628eb132f!8m2!3d33.4149656!4d-111.9252745!16s%2Fg%2F11y3w7l8lx!19sChIJ_7pyvNQJK4cRLxPrKIYEgEM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4863892571818758959",
   "placeId": "ChIJ_7pyvNQJK4cRLxPrKIYEgEM",
   "googleRating": 4.9,
-  "googleReviewCount": 476,
+  "googleReviewCount": 494,
   "description": "Located in Tempe, Build-A-Pita & Pizza Restaurant - Tempe is a mediterranean restaurant & caterer.",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 3:00 AM",
@@ -48,5 +48,14 @@
   "groundgameId": "6a2437843a757e388c8b0af4",
   "seededAt": "2026-06-06T15:06:44Z",
   "updatedAt": "2026-07-14T20:26:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 4,
+    "3": 3,
+    "4": 24,
+    "5": 455
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe97qH4g8EQCCltBJHk0_Qgk0l4-eZO3ZcfPXCAfav6zO_y2tsKJX3A9pkL8JckbYG0PIZFInYxfi-yJ5yndy_5HmU2es9m_eFh3atI1AhHvOOOIra4kdBU4M8obD8rEwaNBfPH=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

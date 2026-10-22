@@ -1,0 +1,59 @@
+{
+  "slug": "jack-in-the-box-901-tempe",
+  "name": "Jack in the Box",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Dessert restaurant",
+    "Hamburger restaurant",
+    "Delivery Restaurant",
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "901 E Curry Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4399581,
+  "lng": -111.9260556,
+  "phone": "+14809668367",
+  "website": "https://locations.jackinthebox.com/us/az/tempe/901-e-curry-rd?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jack+in+the+Box/data=!4m7!3m6!1s0x872b091784e1a6c5:0xe01b889eb807a9bf!8m2!3d33.4399581!4d-111.9260556!16s%2Fg%2F1tgm39yl!19sChIJxabhhBcJK4cRv6kHuJ6IG-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16148651104140765631",
+  "placeId": "ChIJxabhhBcJK4cRv6kHuJ6IG-A",
+  "googleRating": 3.8,
+  "googleReviewCount": 1370,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwkcfoa1Wrl2tD__BmWBBHUeLWwxJB0rYHkBYSEUg2g8Fs2oMoYFH1ZXRurUfnwJe7vRGuPFLW5Mwsm4tvJMVMleDa33ha7hf2PSUHyq4fEFUEIyYdV7efzGJqzCqTQCXuwxED=w1200-h800-k-no",
+  "description": "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 160,
+    "2": 86,
+    "3": 230,
+    "4": 289,
+    "5": 605
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

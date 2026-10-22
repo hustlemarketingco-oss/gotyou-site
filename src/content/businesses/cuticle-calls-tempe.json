@@ -1,0 +1,36 @@
+{
+  "slug": "cuticle-calls-tempe",
+  "name": "Cuticle Calls",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "2307 E Geneva Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394973,
+  "lng": -111.88923009999999,
+  "phone": "+14807883837",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cuticle+Calls/data=!4m7!3m6!1s0x872b09e921c88921:0xe43c0b3975afb7ee!8m2!3d33.394973!4d-111.8892301!16s%2Fg%2F11mhdrg9_7!19sChIJIYnIIekJK4cR7revdTkLPOQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16446032280665700334",
+  "placeId": "ChIJIYnIIekJK4cR7revdTkLPOQ",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EqOE3a9pt1ij9rOXphNRKA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=217.62245&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

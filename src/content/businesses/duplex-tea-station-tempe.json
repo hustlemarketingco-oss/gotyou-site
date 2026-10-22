@@ -1,0 +1,53 @@
+{
+  "slug": "duplex-tea-station-tempe",
+  "name": "Duplex Tea Station",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Bubble tea store",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee shop",
+    "Snack bar"
+  ],
+  "address": "US, 1845 E Broadway Rd suit 121",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406624199999996,
+  "lng": -111.90762819999999,
+  "phone": "+14802659131",
+  "website": "http://www.duplexteastations.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Duplex+Tea+Station/data=!4m7!3m6!1s0x872b09c080ee8ddf:0xf405d22af7828204!8m2!3d33.4066242!4d-111.9076282!16s%2Fg%2F11hx5_px0w!19sChIJ343ugMAJK4cRBIKC9yrSBfQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17583691402120954372",
+  "placeId": "ChIJ343ugMAJK4cRBIKC9yrSBfQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 321,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVDkJNJ8149r1GbPmkSt2culEgtxEbovy83eL172lFz7A0n2suHl1l66U315WiYy9xmwtgzUE2b1l0m8ZyYL7SdbHcRP_tDGvEHmRjYEK9xOLd9QAfqvRNwAUCIBncTPMMXSJR=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 8,
+    "3": 14,
+    "4": 19,
+    "5": 239
+  },
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:30 PM",
+    "sat": "12:00 PM - 10:30 PM",
+    "sun": "12:00 PM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

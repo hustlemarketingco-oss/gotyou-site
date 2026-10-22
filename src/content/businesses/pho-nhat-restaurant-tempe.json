@@ -1,0 +1,52 @@
+{
+  "slug": "pho-nhat-restaurant-tempe",
+  "name": "Phở Nhật Restaurant",
+  "category": "Asian & Pacific",
+  "googleCategory": "Vietnamese restaurant",
+  "secondaryCategories": [
+    "Pho restaurant"
+  ],
+  "address": "933 E University Dr #116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4211465,
+  "lng": -111.92495179999999,
+  "phone": "+14809671888",
+  "website": "http://tempepho.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ph%E1%BB%9F+Nh%E1%BA%ADt+Restaurant/data=!4m7!3m6!1s0x872b08e6fa822ffd:0x74440bb64ef229b9!8m2!3d33.4211465!4d-111.9249518!16s%2Fg%2F1tgyx53j!19sChIJ_S-C-uYIK4cRuSnyTrYLRHQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8377834084452411833",
+  "placeId": "ChIJ_S-C-uYIK4cRuSnyTrYLRHQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 371,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTFBSpkbe3R-B0PBlXXJt_nxLIt20pZFuEoGVVEPKlfHosNxpxfaBc8q91NDtzPAt1qtopeRuJx4_kL4OACAQhK_C-lafHMNubW4yUCkOj7u6m6KSHZBhApV_Wt7GHdiPq1N19Sg=w1200-h800-k-no",
+  "description": "Vietnamese eatery supplying pho & noodle options in minimalist digs punctuated by a Disney mural.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 13,
+    "3": 23,
+    "4": 75,
+    "5": 241
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

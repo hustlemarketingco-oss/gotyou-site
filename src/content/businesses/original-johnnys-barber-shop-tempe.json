@@ -1,0 +1,45 @@
+{
+  "slug": "original-johnnys-barber-shop-tempe",
+  "name": "Original Johnny's Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "710 W Elliot Rd Ste 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496684,
+  "lng": -111.9475449,
+  "phone": "+14805976391",
+  "googleMapsUrl": "https://www.google.com/maps/place/Original+Johnny%27s+Barber+Shop/data=!4m7!3m6!1s0x872b07cb6d67fbf5:0x6d8d38470cf02ac4!8m2!3d33.3496684!4d-111.9475449!16s%2Fg%2F11w2f9r6gw!19sChIJ9ftnbcsHK4cRxCrwDEc4jW0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7894027599661247172",
+  "placeId": "ChIJ9ftnbcsHK4cRxCrwDEc4jW0",
+  "googleRating": 4.9,
+  "googleReviewCount": 76,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcposdQqsuMkCW07Ih122mhCh708JPaWImj74TmFf6mHzLqGk1RlvBB2m7lQ267x0lEl2l2_3lPMOzbsCNaTxaUJ5g-vshSYMw-nuGPKidJzjEu9YznIH9ykc4WiDLhLqpWetmB3ESn8B8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 74
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "sozo-healing-house-tempe",
+  "name": "Sozo Healing House",
+  "category": "Health & Beauty",
+  "googleCategory": "Health and beauty shop",
+  "secondaryCategories": [
+    "Boutique",
+    "Coffee shop",
+    "Coworking space",
+    "Wellness center"
+  ],
+  "address": "51 W Elliot Rd Ste 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348942699999995,
+  "lng": -111.9383355,
+  "website": "http://www.sozohealinghouse.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sozo+Healing+House/data=!4m7!3m6!1s0x872b071f0152b7d3:0x9e9782f08cf4df0c!8m2!3d33.3489427!4d-111.9383355!16s%2Fg%2F11h3x3l1yq!19sChIJ07dSAR8HK4cRDN_0jPCCl54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11427746549144542988",
+  "placeId": "ChIJ07dSAR8HK4cRDN_0jPCCl54",
+  "googleRating": 5,
+  "googleReviewCount": 29,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEqDUaHxI4G3kAICL-m-eKCDqDfdDhaZi2duKV7Q6tIBjl2cgF1zYs4Kwaq5tbw6eVuWTbRpVrjT7VVEVIln723ZPD28oxyzktKtqaNo2DYD_3phRlskTlbHr_yS75q4srXGxYLLTKlhMY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 29
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 1:00 PM",
+    "thu": "9:00 AM - 2:00 PM",
+    "fri": "9:00 AM - 2:00 PM",
+    "sat": "10:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

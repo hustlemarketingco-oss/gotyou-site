@@ -12,11 +12,7 @@
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/dynamicescaperooms"
@@ -27,5 +23,31 @@
   "groundgameId": "6a24384e7133740119391ef8",
   "seededAt": "2026-06-06T15:10:06Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJf3HdchUPK4cRkrs4l54IGMc",
+  "googleCid": "14346226090223647634",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dynamic+Escape+Rooms/data=!4m7!3m6!1s0x872b0f1572dd717f:0xc718089e9738bb92!8m2!3d33.4203033!4d-111.9692096!16s%2Fg%2F11h23lxm3m!19sChIJf3HdchUPK4cRkrs4l54IGMc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 469,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 1,
+    "4": 10,
+    "5": 449
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF9JHzfkQoAsbBt8U-4i0OYk5avz9LO5auzl0GR5vh0CbAjB3-uVSONU65F6UMNJoVzhF6bHr52w2dI8ujTBaUj-Xq5sVKFnxyWFNb3YIW9NxJwMzPQ_v2OSffkxRR5ikMLA0vW9zFucR1=w1200-h800-k-no",
+  "website": "https://dynamicescaperooms.com/?utm_source=google&utm_medium=maps&utm_campaign=business_listing",
+  "hours": {
+    "mon": "Closed",
+    "tue": "1:00 PM - 8:00 PM",
+    "wed": "1:00 PM - 8:00 PM",
+    "thu": "1:00 PM - 8:00 PM",
+    "fri": "1:00 PM - 10:30 PM",
+    "sat": "11:00 AM - 10:30 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "lat": 33.4203033,
+  "lng": -111.9692096,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

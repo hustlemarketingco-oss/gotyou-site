@@ -1,0 +1,43 @@
+{
+  "slug": "rair-beauty-tempe",
+  "name": "Rair Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "222 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3935445,
+  "lng": -111.9422817,
+  "phone": "+16028847247",
+  "website": "https://www.rairbeauty.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rair+Beauty/data=!4m7!3m6!1s0x872b09a57e19f96f:0x24c3dde8a7d9602d!8m2!3d33.3935445!4d-111.9422817!16s%2Fg%2F11x_6pj3wv!19sChIJb_kZfqUJK4cRLWDZp-jdwyQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2649204997142175789",
+  "placeId": "ChIJb_kZfqUJK4cRLWDZp-jdwyQ",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y4_WD0luTmvJaE0DMLROFQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=241.79124&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

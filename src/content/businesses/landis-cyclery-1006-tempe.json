@@ -1,0 +1,50 @@
+{
+  "slug": "landis-cyclery-1006-tempe",
+  "name": "Landis Cyclery",
+  "category": "Shopping",
+  "googleCategory": "Bicycle Shop",
+  "secondaryCategories": [
+    "Bicycle repair shop"
+  ],
+  "address": "1006 E Warner Rd #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3355734,
+  "lng": -111.9274688,
+  "phone": "+14807301081",
+  "website": "https://landiscyclery.com/about/tempe-south-pg405.htm",
+  "googleMapsUrl": "https://www.google.com/maps/place/Landis+Cyclery/data=!4m7!3m6!1s0x872b06f2df9cb42f:0x883e1bfc290a7f75!8m2!3d33.3355734!4d-111.9274688!16s%2Fg%2F1tfmnvxz!19sChIJL7Sc3_IGK4cRdX8KKfwbPog?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9817315007548522357",
+  "placeId": "ChIJL7Sc3_IGK4cRdX8KKfwbPog",
+  "googleRating": 4.8,
+  "googleReviewCount": 521,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7k3v4q0DWhexl2Pq-uda-y1tGp7GYOC9PlI8NhdxZtFWU0vFW2Xr2Fv2MXm1ZEfr0vI0NpI_LJLbMxyC8wVZ1qq4PLl0Av2aIQYGVOzntK-hmDaaxGZ9axgsR63F4tccV0D61=w1200-h800-k-no",
+  "description": "Full-service shop, part of a longtime local chain, offering new bicycles, parts & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 4,
+    "3": 8,
+    "4": 14,
+    "5": 478
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

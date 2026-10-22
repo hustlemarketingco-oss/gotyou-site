@@ -16,13 +16,12 @@
   "website": "https://originalhoagieshop.com/",
   "placeId": "ChIJeUdT2ikPK4cRlONabooMBXs",
   "googleRating": 4.7,
-  "googleReviewCount": 723,
+  "googleReviewCount": 750,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Google Pay",
-    "Credit card",
-    "Apple Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "9:00 AM - 4:00 PM",
@@ -39,5 +38,16 @@
   "groundgameId": "6a4fe16cbfdd73fa19084b6b",
   "seededAt": "2026-07-09T17:59:08Z",
   "updatedAt": "2026-08-06T18:42:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8864505230245159828",
+  "googleMapsUrl": "https://www.google.com/maps/place/Original+Hoagie+Shop/data=!4m7!3m6!1s0x872b0f29da534779:0x7b050c8a6e5ae394!8m2!3d33.4212545!4d-111.9603069!16s%2Fg%2F1tp08l3z!19sChIJeUdT2ikPK4cRlONabooMBXs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 8,
+    "3": 14,
+    "4": 42,
+    "5": 651
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2Oqz1WwmwdAmS1hv6Q4iGwF55-EM1rfeZapMuYgflL5po7kgZkM-NI3oRRIPEmonMdxLnUNRE17bKVcYeeOZHGD9b_MwKVaeEVNyl0DtPyVVX4MRs94QuSJwJm6adhGWeXBOZrg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

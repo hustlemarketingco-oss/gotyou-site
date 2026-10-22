@@ -20,7 +20,7 @@
   "website": "https://locations.jimmyjohns.com/az/tempe/sandwiches-4054.html&y_source=1_MjAzNDczNDc2Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
   "placeId": "ChIJq3vqPlQIK4cRzy3rZjbynTg",
   "googleRating": 3.6,
-  "googleReviewCount": 365,
+  "googleReviewCount": 370,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -37,5 +37,22 @@
   "groundgameId": "6a357912f98a6db507c38ddf",
   "seededAt": "2026-06-19T17:14:58Z",
   "updatedAt": "2026-06-19T17:14:58Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4079683152936381903",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jimmy+John%27s/data=!4m7!3m6!1s0x872b08543eea7bab:0x389df23666eb2dcf!8m2!3d33.4333256!4d-111.9013083!16s%2Fg%2F1tcvcbx6!19sChIJq3vqPlQIK4cRzy3rZjbynTg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 90,
+    "2": 25,
+    "3": 21,
+    "4": 59,
+    "5": 175
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKheCwUh4WuoLT9aFKjJRT_FgVwuh5UKqjJOEURO0tXdBTOmXHcGqz90eEbChNAov923CgoLR5KTaB_qW3ZB796yghPduwlOS0ZsF0YZv9CgSLIYq6ptq4svRI1abCQ-rT29XGtg3MoOI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

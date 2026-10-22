@@ -19,12 +19,13 @@
   "website": "https://thehalalguys.com/locations/1015-south-rural-road-tempe/",
   "placeId": "ChIJEzcNe-gIK4cRrACQWe224OA",
   "googleRating": 3.9,
-  "googleReviewCount": 1085,
+  "googleReviewCount": 1096,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -41,5 +42,16 @@
   "groundgameId": "6a29ba185d059a73d8a033d9",
   "seededAt": "2026-06-10T19:25:12Z",
   "updatedAt": "2026-07-14T20:41:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16204152589805158572",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Halal+Guys/data=!4m7!3m6!1s0x872b08e87b0d3713:0xe0e0b6ed599000ac!8m2!3d33.4174192!4d-111.9258865!16s%2Fg%2F11c2mckxyj!19sChIJEzcNe-gIK4cRrACQWe224OA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 150,
+    "2": 71,
+    "3": 98,
+    "4": 231,
+    "5": 546
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLejCpXp8YHN0ZW2UZFYmNATYwi1fcoWrtwAAZYPRFWOj6bGpRsAcVrG174aisu1M0Sr7Fqq2KOgN4zt4ekbXpVPbybQRo_LnGJoMFbu4B29VvI1tK_8C6FOVA0yI5-cmlg5_VRDmXOB8aA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

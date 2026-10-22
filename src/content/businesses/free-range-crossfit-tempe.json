@@ -1,0 +1,48 @@
+{
+  "slug": "free-range-crossfit-tempe",
+  "name": "Free Range CrossFit",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Gym",
+    "Weight loss service"
+  ],
+  "address": "5030 S Mill Ave Ste 23",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3790726,
+  "lng": -111.9401001,
+  "phone": "+14805599008",
+  "website": "http://www.freerangecrossfit.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Free+Range+CrossFit/data=!4m7!3m6!1s0x872b06034ae034bb:0xced5add21df8f519!8m2!3d33.3790726!4d-111.9401001!16s%2Fg%2F1tk23d95!19sChIJuzTgSgMGK4cRGfX4HdKt1c4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14904009659810116889",
+  "placeId": "ChIJuzTgSgMGK4cRGfX4HdKt1c4",
+  "googleRating": 4.9,
+  "googleReviewCount": 45,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZunEYwWOlVwV0jn36yFszfx1zj-HNpjp1iiv0YZalPE6YsOJ6aiTQm6u75xYtO0duJLJ_Qz_I6qnU5oSEt7vRIJH1tP7OcZICaMFb_wPkIYfurQN97Or0loKo4-5I68wqL2g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 2,
+    "5": 42
+  },
+  "hours": {
+    "mon": "6:00 AM - 6:30 PM",
+    "tue": "6:00 AM - 6:30 PM",
+    "wed": "6:00 AM - 6:30 PM",
+    "thu": "6:00 AM - 6:30 PM",
+    "fri": "6:00 AM - 5:30 PM",
+    "sat": "8:00 AM - 9:30 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

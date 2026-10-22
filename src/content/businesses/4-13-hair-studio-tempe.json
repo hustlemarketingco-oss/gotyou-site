@@ -1,0 +1,47 @@
+{
+  "slug": "4-13-hair-studio-tempe",
+  "name": "4.13 Hair Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair salon",
+    "Nail salon"
+  ],
+  "address": "203 S Smith Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.427917,
+  "lng": -111.8999941,
+  "phone": "+17203394479",
+  "website": "https://www.instagram.com/4.13hairstudio?igsh=YncwdGNoc29pZWRj&utm_source=qr",
+  "googleMapsUrl": "https://www.google.com/maps/place/4.13+Hair+Studio/data=!4m7!3m6!1s0x872b0926a03a3151:0xc278333ee86abf78!8m2!3d33.427917!4d-111.8999941!16s%2Fg%2F11wvm6fh5_!19sChIJUTE6oCYJK4cReL9q6D4zeMI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14013006585843597176",
+  "placeId": "ChIJUTE6oCYJK4cReL9q6D4zeMI",
+  "googleRating": 4.9,
+  "googleReviewCount": 66,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcE3h-RqGIU5NcJDO_VrfL4mXH0kcyTqM3LTmr5NclcNng4q8HGjdvpr3ISVZooR8XuVrYHvPXCdkTdZ12lwv2yRJWT0CRUlRBV0lMeqeZdjAvEkukj6ZTXaP7DH38GCNbVbRnLGbUlHqUh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 65
+  },
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

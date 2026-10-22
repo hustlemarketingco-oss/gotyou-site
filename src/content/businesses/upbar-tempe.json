@@ -1,0 +1,33 @@
+{
+  "slug": "upbar-tempe",
+  "name": "UpBar Tempe",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "511 S Farmer Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4252748,
+  "lng": -111.94406319999999,
+  "phone": "+14808052070",
+  "website": "http://www.vibtempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/UpBar+Tempe/data=!4m7!3m6!1s0x872b0988d2ae98b1:0xb53fb8561f7de5c5!8m2!3d33.4252748!4d-111.9440632!16s%2Fg%2F11vj9bqxj7!19sChIJsZiu0ogJK4cRxeV9H1a4P7U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13060360124432770501",
+  "placeId": "ChIJsZiu0ogJK4cRxeV9H1a4P7U",
+  "googleRating": 3.9,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF0b8y5awSPGcwQQNMzvWQudL-S1AIcSQAGPmbR1yxxaGpp7xxkF9gfa6-J3PC8q7rc6wmiNMdAVRqu-HGtGhGmpyOyREPYThnyHWdZiM2bYQdss3XeuqCGsuaIRvrKs9krjEb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "5": 10
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

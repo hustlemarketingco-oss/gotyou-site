@@ -1,0 +1,51 @@
+{
+  "slug": "7-day-spa-nails-tempe",
+  "name": "7 Day Spa & Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "2040 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.432634199999995,
+  "lng": -111.9027357,
+  "phone": "+14808948001",
+  "website": "https://www.7daynailspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/7+Day+Spa+%26+Nails/data=!4m7!3m6!1s0x872b08554d3cee21:0x4beab9f4495adee!8m2!3d33.4326342!4d-111.9027357!16s%2Fg%2F1th5_7xm!19sChIJIe48TVUIK4cR7q2VRJ-rvgQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "341899322265546222",
+  "placeId": "ChIJIe48TVUIK4cR7q2VRJ-rvgQ",
+  "googleRating": 3.4,
+  "googleReviewCount": 553,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJI0A6G18g8on9RHTvbxl-Bp7iybgQMfAwawu8m_Ir2XgPBgIhs7ZM2Oh55NToUGjXjfOCZ09-3nw-7b8_Hp4Y6CWtjOyAGK85I6wD9ORnX_NgoDlC074OeYqx79IlNSDMxfz7=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 164,
+    "2": 41,
+    "3": 36,
+    "4": 47,
+    "5": 265
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

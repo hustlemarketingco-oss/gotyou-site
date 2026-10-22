@@ -1,0 +1,34 @@
+{
+  "slug": "azps-tempe",
+  "name": "AZPS",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "100 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4292,
+  "lng": -111.9406102,
+  "phone": "+18888888888",
+  "website": "http://arizonapilatesstudio.test.godaddysites.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZPS/data=!4m7!3m6!1s0x872b0971514ee23d:0x725287d6ace61450!8m2!3d33.4292!4d-111.9406102!16s%2Fg%2F11zb3v3wmc!19sChIJPeJOUXEJK4cRUBTmrNaHUnI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8237796024507569232",
+  "placeId": "ChIJPeJOUXEJK4cRUBTmrNaHUnI",
+  "googleRating": 2,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R0Tf7OAO06ej-85fQ_67tA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=271.61362&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

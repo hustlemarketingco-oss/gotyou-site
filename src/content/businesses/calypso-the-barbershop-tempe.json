@@ -1,0 +1,28 @@
+{
+  "slug": "calypso-the-barbershop-tempe",
+  "name": "Calypso The Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1140 W Alameda Dr Ste 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4006209,
+  "lng": -111.95718629999999,
+  "phone": "+14808484833",
+  "googleMapsUrl": "https://www.google.com/maps/place/Calypso+The+Barbershop/data=!4m7!3m6!1s0x872b0f260588592b:0x51a707e0e877b84d!8m2!3d33.4006209!4d-111.9571863!16s%2Fg%2F11vbs499cc!19sChIJK1mIBSYPK4cRTbh36OAHp1E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5883680100737071181",
+  "placeId": "ChIJK1mIBSYPK4cRTbh36OAHp1E",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HVj3zPkepPHhRwjRgixuIA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=332.65598&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

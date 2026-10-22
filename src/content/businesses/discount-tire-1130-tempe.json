@@ -1,0 +1,53 @@
+{
+  "slug": "discount-tire-1130-tempe",
+  "name": "Discount Tire",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Auto parts store",
+    "Tire repair shop",
+    "Used tire shop",
+    "Wheel store"
+  ],
+  "address": "1130 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.349573,
+  "lng": -111.9570555,
+  "phone": "+14804915036",
+  "website": "https://www.discounttire.com/store/az/tempe/s/1026",
+  "googleMapsUrl": "https://www.google.com/maps/place/Discount+Tire/data=!4m7!3m6!1s0x872b05d994c953fb:0x83575e8f80d26c16!8m2!3d33.349573!4d-111.9570555!16s%2Fg%2F1tjz8drd!19sChIJ-1PJlNkFK4cRFmzSgI9eV4M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9464137112376994838",
+  "placeId": "ChIJ-1PJlNkFK4cRFmzSgI9eV4M",
+  "googleRating": 4.5,
+  "googleReviewCount": 970,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxClFOEH5dajtuu7bkhli4fMCoPtSDl6zc64jLgBE4JmHGvWtDQz-rKONzRDPv1Stn-wjG4ICegeCKGaHKXMIjUo1GpPPVrN3ZB-ZfYw1CfjBFO-UVM3Q2GEMrCOB-Si347Xs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 72,
+    "2": 22,
+    "3": 24,
+    "4": 74,
+    "5": 778
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

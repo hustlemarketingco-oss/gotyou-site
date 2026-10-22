@@ -1,0 +1,52 @@
+{
+  "slug": "the-apple-xchange-tempe",
+  "name": "The Apple Xchange",
+  "category": "Shopping",
+  "googleCategory": "Computer store",
+  "secondaryCategories": [
+    "Cell phone store",
+    "Computer repair service",
+    "Used computer store"
+  ],
+  "address": "1821 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3921959,
+  "lng": -111.90758009999999,
+  "phone": "+16024927575",
+  "website": "http://www.theapplexchange.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Apple+Xchange/data=!4m7!3m6!1s0x872b088101e42bb9:0x60c66c8f356156bf!8m2!3d33.3921959!4d-111.9075801!16s%2Fg%2F11xfk3b5d!19sChIJuSvkAYEIK4cRv1ZhNY9sxmA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6973380435361486527",
+  "placeId": "ChIJuSvkAYEIK4cRv1ZhNY9sxmA",
+  "googleRating": 4.4,
+  "googleReviewCount": 257,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNz7Z6H_vTAQs5pqhHLRLXzhKSLdmoA_tEmSQhizeHk0VwHsHfrCS5NAuWJ-GvEAsd0WzeI1A5rqBVT6aJsdsTwIw54InRHRLyOQoyj1fGteWSyzeWMmyAKU-9aQOWS537Kur7X22KqbM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 9,
+    "3": 8,
+    "4": 18,
+    "5": 199
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

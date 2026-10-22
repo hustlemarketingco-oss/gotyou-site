@@ -1,0 +1,44 @@
+{
+  "slug": "the-barber-tempe",
+  "name": "The Barber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "3163 S McClintock Dr Unit 9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394523,
+  "lng": -111.90772079999999,
+  "phone": "+14803894249",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Barber/data=!4m7!3m6!1s0x872b09ec1013cfc9:0x2b56177b6e0426e7!8m2!3d33.394523!4d-111.9077208!16s%2Fg%2F11gmg3v1hj!19sChIJyc8TEOwJK4cR5yYEbnsXVis?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3122709210522199783",
+  "placeId": "ChIJyc8TEOwJK4cR5yYEbnsXVis",
+  "googleRating": 4.7,
+  "googleReviewCount": 29,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9VsZxtA_hIv2cFXWuh7NqmzM3nqdeYiTds0ClvtdH5gqCiG1yTsk5d4aIyL85tlfe-Za0Wa5U_PnA3Kki1nnjnlHTMfZZbiGvjXqW4fygGDsceCSOSHXJqbCcjn49x0yvJKCy=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 26
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

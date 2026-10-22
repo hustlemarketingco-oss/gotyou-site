@@ -1,0 +1,39 @@
+{
+  "slug": "plant-b-tempe",
+  "name": "Plant B",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "430 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4342494,
+  "lng": -111.9271849,
+  "website": "https://www.plantbtogo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Plant+B/data=!4m7!3m6!1s0x872b0917111f4d53:0x125759cdae36ada2!8m2!3d33.4342494!4d-111.9271849!16s%2Fg%2F11q8t6b0qg!19sChIJU00fERcJK4cRoq02rs1ZVxI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1321623755582516642",
+  "placeId": "ChIJU00fERcJK4cRoq02rs1ZVxI",
+  "googleRating": 3.8,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0TkQAt7dvm9INIvYfkRQ6QxIexhJtaIFjBYxyUH9lUmHngkZ0gRZFxOAVLEqcnnbes3GoLuqg_-Z5Z-1jzd1v8R0U6Jlehu18KSitkLuzaOjipSudQ00_Y97WmXSGTGcKdS01NdKyZlZ8sPe72k4Yhd3JXxJCDiKe7qDqYUPKUdo6saV7goTPL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "4": 1,
+    "5": 3
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

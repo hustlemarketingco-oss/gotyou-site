@@ -16,33 +16,17 @@
   "lng": -111.9538525,
   "phone": "+15205401411",
   "website": "https://toastysweetz.net/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11970429497671699260",
+  "googleMapsUrl": "https://www.google.com/maps/place/Toasty%26Sweetz/data=!4m7!3m6!1s0x872b0f1cd21f3b3b:0xa61f8234c1944b3c!8m2!3d33.4078849!4d-111.9538525!16s%2Fg%2F11vls0r1b6!19sChIJOzsf0hwPK4cRPEuUwTSCH6Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11970429497671699260",
   "placeId": "ChIJOzsf0hwPK4cRPEuUwTSCH6Y",
-  "googleRating": 4.8,
-  "googleReviewCount": 113,
+  "googleRating": 4.7,
+  "googleReviewCount": 122,
   "priceRange": "$10–20",
   "description": "Toasty&Sweetz is a casual sandwich shop & asian fusion restaurant in Tempe, serving up coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Google Pay",
-    "Apple Pay",
-    "Coffee",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/toastysweetz"
@@ -62,5 +46,14 @@
   "groundgameId": "6a243765d9cce1f9e4c25290",
   "seededAt": "2026-06-06T15:06:13Z",
   "updatedAt": "2026-07-29T19:58:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 5,
+    "3": 2,
+    "4": 7,
+    "5": 106
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvwKfiWaTgx6rvyk64Vk1rgRiONIvl44IqJVRUsYPh2x8F9PNJDcKX7xZean1XAMLXGkUWpXgcL27fl9BedDLp-1CIVV1gxsXqCV3CYrsB5umWgJqMHixh61Ow8bwIeMkKdAgfqcVJaobU=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "the-wax-flinger-esthetics-tempe",
+  "name": "The Wax Flinger Esthetics",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "209 E Baseline Rd Ste E106 Office #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775182,
+  "lng": -111.93704319999999,
+  "website": "https://thewaxflinger.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Wax+Flinger+Esthetics/data=!4m7!3m6!1s0x872b071c6bcbc15d:0x2ffac309dc2c1d5d!8m2!3d33.3775182!4d-111.9370432!16s%2Fg%2F11w38_dhc7!19sChIJXcHLaxwHK4cRXR0s3AnD-i8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3457290111076277597",
+  "placeId": "ChIJXcHLaxwHK4cRXR0s3AnD-i8",
+  "googleRating": 5,
+  "googleReviewCount": 22,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NNWIPNTLUUlxmmI0G2amBA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=9.514912&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 22
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

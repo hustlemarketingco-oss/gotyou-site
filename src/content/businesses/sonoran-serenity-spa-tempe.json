@@ -1,0 +1,54 @@
+{
+  "slug": "sonoran-serenity-spa-tempe",
+  "name": "Sonoran Serenity Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Day spa",
+  "secondaryCategories": [
+    "Facial spa",
+    "Hypnotherapy service",
+    "Massage therapist",
+    "Reiki therapist",
+    "Skin care clinic",
+    "Waxing hair removal service"
+  ],
+  "address": "4515 S Lakeshore Dr #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3822875,
+  "lng": -111.9258698,
+  "phone": "+14807723297",
+  "website": "https://sonoranserenityspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sonoran+Serenity+Spa/data=!4m7!3m6!1s0x872b08d7be66cd79:0xc9e92287fc9183b9!8m2!3d33.3822875!4d-111.9258698!16s%2Fg%2F1q665w7sk!19sChIJec1mvtcIK4cRuYOR_Ici6ck?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14549198038650422201",
+  "placeId": "ChIJec1mvtcIK4cRuYOR_Ici6ck",
+  "googleRating": 4.8,
+  "googleReviewCount": 218,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsaAUZS7RpasWhLiG3ApMjGyvwFKcNljKshBlMpvbBXaXCv5A1ykrwBSVk7YJfRn445MqAFDud81FUtdCoEfs-KA1pOFkAgElaUq6qpocoC83dldnnN3zrlywrJSa52s1WxjIC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "3": 3,
+    "4": 12,
+    "5": 194
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 3:00 PM",
+    "thu": "9:00 AM - 3:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

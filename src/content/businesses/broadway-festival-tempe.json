@@ -1,0 +1,45 @@
+{
+  "slug": "broadway-festival-tempe",
+  "name": "Broadway Festival",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1010 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407902,
+  "lng": -111.9543829,
+  "website": "http://broadway-festival-tempe.edan.io/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Broadway+Festival/data=!4m7!3m6!1s0x872b08cb9531e9cf:0x6743a96cf9ccea36!8m2!3d33.407902!4d-111.9543829!16s%2Fg%2F113fj07ll!19sChIJz-kxlcsIK4cRNurM-WypQ2c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7440977294858709558",
+  "placeId": "ChIJz-kxlcsIK4cRNurM-WypQ2c",
+  "googleRating": 4.1,
+  "googleReviewCount": 95,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjCXkXBbBTVp2ozYfnLczy1oK8dCfo9OeteVeKFG0sjwbowENEB_rqzpt3fU8AMrfmmT5gq4ZhxdrmeljGILd-Xlriq81P_vKUpX1ZgTFO6FaPtjJ3k2pQsVAVsiRint1GwrK1=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 6,
+    "3": 18,
+    "4": 16,
+    "5": 50
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:30 AM - 11:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

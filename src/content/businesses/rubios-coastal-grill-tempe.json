@@ -22,7 +22,7 @@
   "website": "https://www.rubios.com/restaurant-locations/arizona/tempe",
   "placeId": "ChIJ5YkUqkkGK4cReCgkFpgVpKY",
   "googleRating": 4.3,
-  "googleReviewCount": 612,
+  "googleReviewCount": 645,
   "priceRange": "$",
   "hours": {
     "mon": "10:30 AM - 9:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a397443b5774eb861f5f993",
   "seededAt": "2026-06-22T17:43:31Z",
   "updatedAt": "2026-06-22T17:43:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12007746249427265656",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rubio%27s+Coastal+Grill/data=!4m7!3m6!1s0x872b0649aa1489e5:0xa6a4159816242878!8m2!3d33.364371!4d-111.9128585!16s%2Fg%2F1tgmwrjc!19sChIJ5YkUqkkGK4cReCgkFpgVpKY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 23,
+    "3": 41,
+    "4": 128,
+    "5": 407
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4JYbSQuimZ-BnkVEcZffGbBK9TlLtJGz2RFlba0M8bPMJ8Y6HPDBBEc07IUG9DUxA1xawDDZZ1y7aDYDvFrCmjIfKcERxEfRaCeruNSvcjaeNwEk0C1GLwwsGJsp8p1aQPmY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

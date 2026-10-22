@@ -15,17 +15,10 @@
   "phone": "+14807473993",
   "description": "Located in Tempe, Catalyst Crafted Ales is a brewery & bar & grill with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/catalystcraftedales"
@@ -36,5 +29,31 @@
   "groundgameId": "6a24379abab50a71c5b0505f",
   "seededAt": "2026-06-06T15:07:06Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJhXEDoycJK4cR-xuXe78rMuo",
+  "googleCid": "16875598855122918395",
+  "googleMapsUrl": "https://www.google.com/maps/place/Catalyst+Crafted+Ales/data=!4m7!3m6!1s0x872b0927a3037185:0xea322bbf7b971bfb!8m2!3d33.4067239!4d-111.9070994!16s%2Fg%2F11shglb_sn!19sChIJhXEDoycJK4cR-xuXe78rMuo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 182,
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 4,
+    "3": 3,
+    "4": 11,
+    "5": 155
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLefjQGcdCnRFebIO2z1P0Kpxo9Rb9y17_PK24OjZMeXFK6DfyOoQ9gn9Nif5Xqt43BUqB16QdY37gwNmsZ9ChX-_4t5apjyemPC7GAn-ZvG9TbKriSeZyOY4MR3PhepJ27zKRYRNg=w1200-h800-k-no",
+  "website": "http://catalystcraftedales.com/",
+  "hours": {
+    "mon": "3:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "9:30 AM - 9:00 PM"
+  },
+  "lat": 33.406723899999996,
+  "lng": -111.90709939999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

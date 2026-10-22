@@ -1,0 +1,51 @@
+{
+  "slug": "road-runner-sports-tempe",
+  "name": "Road Runner Sports",
+  "category": "Shopping",
+  "googleCategory": "Running store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Shoe store"
+  ],
+  "address": "43 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4321033,
+  "lng": -111.9069914,
+  "phone": "+14809682022",
+  "website": "https://stores.roadrunnersports.com/az/tempe/running-shoe-store-303.html?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_term=303",
+  "googleMapsUrl": "https://www.google.com/maps/place/Road+Runner+Sports/data=!4m7!3m6!1s0x872b0901e93e359f:0xaddfc8ee68e12512!8m2!3d33.4321033!4d-111.9069914!16s%2Fg%2F1thp8fwz!19sChIJnzU-6QEJK4cREiXhaO7I360?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12528953614655366418",
+  "placeId": "ChIJnzU-6QEJK4cREiXhaO7I360",
+  "googleRating": 4.5,
+  "googleReviewCount": 2370,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnIhwpgOB_xvVzOw2P-3tJqQHkm99vAVyP7_mU9kce_0xcUbHIHyAY1uGHiGiygQS14cIxBbziSy3N2H5b5FYABZ4ByhWS2AsmsJjU1nU98cHkkGSmyYd8-azQ03qzMNrRz7G5=w1200-h800-k-no",
+  "description": "Specializing in running shoes, this chain also sells activewear, fitness gear & nutrition products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 195,
+    "2": 62,
+    "3": 69,
+    "4": 143,
+    "5": 1901
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

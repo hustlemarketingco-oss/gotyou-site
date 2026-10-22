@@ -1,0 +1,37 @@
+{
+  "slug": "ashetics-facial-bar-tempe",
+  "name": "Ashetics Facial Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "address": "2700 W Baseline Rd suit 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3798947,
+  "lng": -111.9780177,
+  "phone": "+16026039988",
+  "website": "https://ashetics.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ashetics+Facial+Bar/data=!4m7!3m6!1s0x872b079c9588959b:0x400b9ecf9683327f!8m2!3d33.3798947!4d-111.9780177!16s%2Fg%2F11lcvkz7_z!19sChIJm5WIlZwHK4cRfzKDls-eC0A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4614956857591804543",
+  "placeId": "ChIJm5WIlZwHK4cRfzKDls-eC0A",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7ic1t0XLOx8wZqvPdEkL6Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=101.076744&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 5:00 PM",
+    "wed": "12:30 PM - 5:00 PM",
+    "thu": "12:30 PM - 5:00 PM",
+    "fri": "Closed",
+    "sat": "10:30 AM - 5:00 PM",
+    "sun": "10:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

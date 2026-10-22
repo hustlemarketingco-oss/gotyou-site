@@ -1,0 +1,48 @@
+{
+  "slug": "elite-on-mill-tempe",
+  "name": "Elite on Mill",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "425 S Mill Ave #107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4256324,
+  "lng": -111.93947829999999,
+  "phone": "+14804208169",
+  "website": "https://eliteonmill.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Elite+on+Mill/data=!4m7!3m6!1s0x872b08d808b2e2d5:0x50a4fabf4c864d03!8m2!3d33.4256324!4d-111.9394783!16s%2Fg%2F11b5qsxjc8!19sChIJ1eKyCNgIK4cRA02GTL_6pFA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5811045118744349955",
+  "placeId": "ChIJ1eKyCNgIK4cRA02GTL_6pFA",
+  "googleRating": 4.3,
+  "googleReviewCount": 165,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLGLxlQDaFI0Wq2u6dvMYQ3Z0JZKdlCAMPGlLy8nm5ca3nM9J7gA38gPogJz7IctyMgLk0k6M73DVrAsiiRtSO-MlTjXwwaptAv8YLhta7v47CB7eempgkZ7rX873412QH5YTcgA=w1200-h800-k-no",
+  "description": "Simple barbershop with a cool vibe offering scissor & clipper haircuts, plus hot-towel shaves.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 3,
+    "3": 1,
+    "4": 3,
+    "5": 132
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "1:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

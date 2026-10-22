@@ -1,0 +1,41 @@
+{
+  "slug": "gonzothebarber-tempe",
+  "name": "Gonzothebarber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7510 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3501044,
+  "lng": -111.9636604,
+  "website": "https://link.booksy.com/Gonzothebarber",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gonzothebarber/data=!4m7!3m6!1s0x872b0585bf7d5bab:0x9e7b0235fef258ca!8m2!3d33.3501044!4d-111.9636604!16s%2Fg%2F11yvyd1ft4!19sChIJq1t9v4UFK4cRyljy_jUCe54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11419723711061842122",
+  "placeId": "ChIJq1t9v4UFK4cRyljy_jUCe54",
+  "googleRating": 5,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJG2j83CE_1dWfXocHKrCtXElceNz6J5IFjOnwHRIY-l87M9Twqm0Gjw-Pljqim26m1BKM1GRV3UMi8dGDbPm0_A86lBAXovqw8o4ojEEMSKA2Rjmrd47ywrLnVj8BmWQo6qYM8UKg6rFU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 10
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 4:30 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

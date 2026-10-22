@@ -1,0 +1,53 @@
+{
+  "slug": "cobblestone-spa-nails-tempe",
+  "name": "Cobblestone Spa & Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Day spa",
+    "Facial spa",
+    "Spa"
+  ],
+  "address": "1761 E Warner Rd Ste A18",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3330888,
+  "lng": -111.9116121,
+  "phone": "+14804131743",
+  "website": "http://cobblestonespanail.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cobblestone+Spa+%26+Nails/data=!4m7!3m6!1s0x872b06e4b7a2cc41:0xa66a7e457250307!8m2!3d33.3330888!4d-111.9116121!16s%2Fg%2F1tm131m7!19sChIJQcyit-QGK4cRBwMlV-SnZgo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "749470987160191751",
+  "placeId": "ChIJQcyit-QGK4cRBwMlV-SnZgo",
+  "googleRating": 4.7,
+  "googleReviewCount": 247,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8vrW250N6kG2iLeoSyhNpZwi-5d0Q4YiJhrvtcAZMzKcpM681f43YuNecivWpjPhjST5p6F3XG0sojBMH_tCA4zarVbb_Z5r0LGeR-FR2n7ZNBzmB6ntDzM_U_M61y12PC-NU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 5,
+    "3": 5,
+    "4": 14,
+    "5": 214
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "yifang-taiwan-fruit-tea-tempe-az-tempe",
+  "name": "YiFang Taiwan Fruit Tea - Tempe, AZ",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Bubble tea store",
+  "secondaryCategories": [
+    "Tea store"
+  ],
+  "address": "725 S Rural Rd Ste 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4226782,
+  "lng": -111.9257239,
+  "phone": "+19253365555",
+  "website": "https://yifangteausa.com/arizona",
+  "googleMapsUrl": "https://www.google.com/maps/place/YiFang+Taiwan+Fruit+Tea+-+Tempe,+AZ/data=!4m7!3m6!1s0x872b09801064f137:0x2310a66e3af03473!8m2!3d33.4226782!4d-111.9257239!16s%2Fg%2F11xksz0q04!19sChIJN_FkEIAJK4cRczTwOm6mECM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2526702383320282227",
+  "placeId": "ChIJN_FkEIAJK4cRczTwOm6mECM",
+  "googleRating": 4.4,
+  "googleReviewCount": 85,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTnZgIojwIsZCnn93-c3wkWJyx_tLsuwL_HgsbSlInWp_S8mNKNZq5ssTL1JHPJ9KaAaLd6Uz4TflHa9_Xy_zN8Mm79ZDb2_1accseSASbonQQRSQQev0gTiSkfoMahetx8x75dkEpFgC2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 4,
+    "3": 3,
+    "4": 5,
+    "5": 67
+  },
+  "hours": {
+    "mon": "12:00 PM - 9:00 PM",
+    "tue": "12:00 PM - 9:00 PM",
+    "wed": "12:00 PM - 9:00 PM",
+    "thu": "12:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

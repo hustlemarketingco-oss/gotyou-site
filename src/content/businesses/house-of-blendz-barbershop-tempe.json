@@ -1,0 +1,47 @@
+{
+  "slug": "house-of-blendz-barbershop-tempe",
+  "name": "House of Blendz Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7720 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348132,
+  "lng": -111.96532339999999,
+  "phone": "+14808817702",
+  "website": "http://www.houseofblendz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/House+of+Blendz+Barbershop/data=!4m7!3m6!1s0x872b067a34155555:0xe5653ca21d425ee1!8m2!3d33.348132!4d-111.9653234!16s%2Fg%2F11ggb9jg_h!19sChIJVVUVNHoGK4cR4V5CHaI8ZeU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16529684674306531041",
+  "placeId": "ChIJVVUVNHoGK4cR4V5CHaI8ZeU",
+  "googleRating": 4.8,
+  "googleReviewCount": 205,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaBIIyelyox2ejFT6uenHzGSd2A7i8g_NNm2NtRS5fMBBALi--5t_Xu-VBG0k6QaAyxanMUWifSSr_3shAsSt0TW21FF4Fwc0sKR1CIiM4IjWMxrzrMEALMJ1lcR3M3sRP-XopBxmDLRHP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 4,
+    "4": 3,
+    "5": 191
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 4:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "rainbow-bliss-botanicals-tempe",
+  "name": "Rainbow Bliss Botanicals",
+  "category": "Shopping",
+  "googleCategory": "Herb shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Cocktail bar",
+    "Coffee shop",
+    "Dessert shop",
+    "Gluten-free restaurant",
+    "Herbal medicine store",
+    "Tea store"
+  ],
+  "address": "1628 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3942599,
+  "lng": -111.91206349999999,
+  "phone": "+14803078222",
+  "website": "http://www.rainbowblissbotanicals.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rainbow+Bliss+Botanicals/data=!4m7!3m6!1s0x872b08d82faa6045:0x31f942d7f3400e95!8m2!3d33.3942599!4d-111.9120635!16s%2Fg%2F11f5d55kx7!19sChIJRWCqL9gIK4cRlQ5A89dC-TE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3600982872325885589",
+  "placeId": "ChIJRWCqL9gIK4cRlQ5A89dC-TE",
+  "googleRating": 5,
+  "googleReviewCount": 62,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOpSKDa5HlBq000MTCz0-G3Zc4mmVHPqhqVBQGmINvLeucLgoEcY6H6C2a4ar4Nv8aTH912eFWemxmgbtYCZPTvTwLPjVtJb9SvGmcV2PeugQyvjSb0gSf9DIvJ9lD3WeP2CeIP7gfR5sG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 60
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

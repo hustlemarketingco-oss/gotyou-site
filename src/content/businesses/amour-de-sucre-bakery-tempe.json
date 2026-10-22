@@ -1,0 +1,37 @@
+{
+  "slug": "amour-de-sucre-bakery-tempe",
+  "name": "Amour De Sucre Bakery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bakery",
+  "address": "124 W Orion St #F6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.365673699999995,
+  "lng": -111.940372,
+  "phone": "+16088524711",
+  "website": "https://www.amourdesucre.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Amour+De+Sucre+Bakery/data=!4m7!3m6!1s0x872b073b38c04d93:0xb903d4704ba4dd5!8m2!3d33.3656737!4d-111.940372!16s%2Fg%2F11npwczr2t!19sChIJk03AODsHK4cR1U26BEc9kAs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "833233306294832597",
+  "placeId": "ChIJk03AODsHK4cR1U26BEc9kAs",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eA5xuF8cOz3vNh18y9PODQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=279.61005&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

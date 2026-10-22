@@ -1,0 +1,46 @@
+{
+  "slug": "my-dear-nails-nail-salon-tempe",
+  "name": "My Dear Nails | Nail Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "107 E Baseline Rd Ste A4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777416,
+  "lng": -111.9386952,
+  "phone": "+14803319108",
+  "website": "https://mydearnailsus.mase.cloud/",
+  "googleMapsUrl": "https://www.google.com/maps/place/My+Dear+Nails+%7C+Nail+Salon/data=!4m7!3m6!1s0x872b075b993917c1:0xc1a8776a291bf17b!8m2!3d33.3777416!4d-111.9386952!16s%2Fg%2F11nbw7_m0k!19sChIJwRc5mVsHK4cRe_EbKWp3qME?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13954534743247417723",
+  "placeId": "ChIJwRc5mVsHK4cRe_EbKWp3qME",
+  "googleRating": 4.6,
+  "googleReviewCount": 88,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdN3FIR1WUvj0CnRfN0YMj2ToLX40-TGaQdLdESoqNlhUa6p97W-aC96wnNsFXdq4vp3ynuDC9Hng_-xtG-Hwss-y_hcthMawt8Z8fdNjh2zFaKmmP-2jna841hzuY_e_4clNmAD-o-OMVi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 1,
+    "4": 1,
+    "5": 79
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "Closed",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "10:30 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

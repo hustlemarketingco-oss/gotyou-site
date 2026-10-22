@@ -1,0 +1,38 @@
+{
+  "slug": "rennynails-tempe",
+  "name": "rennynails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1761 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3338107,
+  "lng": -111.9123834,
+  "phone": "+16304840262",
+  "website": "https://rennynails.as.me/schedule/6f85ffcf",
+  "googleMapsUrl": "https://www.google.com/maps/place/rennynails/data=!4m7!3m6!1s0x872b0752c1f0db15:0x801526a48930161f!8m2!3d33.3338107!4d-111.9123834!16s%2Fg%2F11yzb7wm77!19sChIJFdvwwVIHK4cRHxYwiaQmFYA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9229325499483821599",
+  "placeId": "ChIJFdvwwVIHK4cRHxYwiaQmFYA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JqgATBFLzvCu85e69SFyPw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=84.75734&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

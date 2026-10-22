@@ -19,7 +19,7 @@
   "website": "http://dailydosegrill.com/",
   "placeId": "ChIJs_A7TJsJK4cR4Mrpe7sDKKI",
   "googleRating": 4.4,
-  "googleReviewCount": 382,
+  "googleReviewCount": 402,
   "priceRange": "$$",
   "hours": {
     "mon": "8:00 AM - 2:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a42cacb0db56467f486f773",
   "seededAt": "2026-06-29T19:43:07Z",
   "updatedAt": "2026-06-29T19:43:08Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11684593336985438944",
+  "googleMapsUrl": "https://www.google.com/maps/place/Daily+Dose+Rio+Salado/data=!4m7!3m6!1s0x872b099b4c3bf0b3:0xa22803bb7be9cae0!8m2!3d33.4297693!4d-111.8978129!16s%2Fg%2F11ft2xyv07!19sChIJs_A7TJsJK4cR4Mrpe7sDKKI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 16,
+    "3": 27,
+    "4": 53,
+    "5": 282
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfJ14O4KvvePph-ioNfd20yplSt-V7NErwoTTkDVxDj9yM40NjVOuHhyMvshTpoDB4RNlRNGbVqoJIQ-mmkn0U6dwZBLwtF8rP3z9xtcOfabO31Cm1Ed71GsMzAvN564zGzos=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

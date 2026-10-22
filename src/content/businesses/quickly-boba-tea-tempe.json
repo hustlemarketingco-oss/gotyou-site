@@ -11,23 +11,16 @@
   "lng": -111.945153,
   "phone": "+14804544429",
   "website": "https://www.clover.com/online-ordering/quickly-tempe-tempe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4179624672386983037",
+  "googleMapsUrl": "https://www.google.com/maps/place/Quickly+Boba+Tea+-+Tempe/data=!4m7!3m6!1s0x872b072269f2d33b:0x3a01027eb415a47d!8m2!3d33.3480344!4d-111.945153!16s%2Fg%2F11ldkzpjb_!19sChIJO9PyaSIHK4cRfaQVtH4CATo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4179624672386983037",
   "placeId": "ChIJO9PyaSIHK4cRfaQVtH4CATo",
   "googleRating": 4.9,
-  "googleReviewCount": 130,
+  "googleReviewCount": 136,
   "priceRange": "$",
   "description": "Located in Tempe, Quickly Boba Tea - Tempe is a tea house with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "12:00 PM - 7:00 PM",
@@ -44,5 +37,13 @@
   "groundgameId": "6a24360781e409b7f7d0e9ea",
   "seededAt": "2026-06-06T15:00:23Z",
   "updatedAt": "2026-06-06T15:05:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "4": 6,
+    "5": 128
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSFuk56q9BXy-_2ui5pLgSsXQRKoOg2SGGYFNZunfZy-9neNTZOF4SwZBVnDM-7WiRq7w_kxkKSKd5nn1CahU9eGmaoqRaEfloRJhpH97gJjjZttZiPg95M5t-v-aGYl-hC7CG2w=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

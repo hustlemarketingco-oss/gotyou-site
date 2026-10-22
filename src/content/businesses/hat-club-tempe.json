@@ -1,0 +1,47 @@
+{
+  "slug": "hat-club-tempe",
+  "name": "Hat Club",
+  "category": "Shopping",
+  "googleCategory": "Hat shop",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383657899999996,
+  "lng": -111.9650013,
+  "phone": "+14803458900",
+  "website": "http://www.hatclub.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hat+Club/data=!4m7!3m6!1s0x872b0f5a0c7708e5:0xf7118570f148fc52!8m2!3d33.3836579!4d-111.9650013!16s%2Fg%2F1vd71stl!19sChIJ5Qh3DFoPK4cRUvxI8XCFEfc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17803157522103204946",
+  "placeId": "ChIJ5Qh3DFoPK4cRUvxI8XCFEfc",
+  "googleRating": 4,
+  "googleReviewCount": 88,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLPRW4U7bibR2ljsQbM_h7QxGvbuzldD-_SKnNxQ-pBZpzK0na6ny_f-ZtGFYegl0vbpW5eoayI0wDkcyKqHE91kjbyYppM6ok4dKMI2t8MPvJ7Uq0rdpM9mvsxd8V1GV0xFqimjo5-2P2=w1200-h800-k-no",
+  "description": "Chain of hat stores, featuring a range of baseball-style team & designer headwear, plus accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 3,
+    "3": 2,
+    "4": 11,
+    "5": 57
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

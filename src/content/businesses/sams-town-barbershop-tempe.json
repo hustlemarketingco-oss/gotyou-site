@@ -1,0 +1,32 @@
+{
+  "slug": "sams-town-barbershop-tempe",
+  "name": "Sam's Town Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 W 6th St #114",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424406,
+  "lng": -111.942216,
+  "phone": "+16025825160",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sam%27s+Town+Barbershop/data=!4m7!3m6!1s0x872b09fb53d78755:0x8c04cd18f5557e3!8m2!3d33.424406!4d-111.942216!16s%2Fg%2F11thqf51zn!19sChIJVYfXU_sJK4cR41dVj9FMwAg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "630588410768480227",
+  "placeId": "ChIJVYfXU_sJK4cR41dVj9FMwAg",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gK6qMwNq9_j-L1vf5hKXPQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=148.14998&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

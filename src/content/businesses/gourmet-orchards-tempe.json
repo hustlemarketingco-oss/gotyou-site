@@ -1,0 +1,49 @@
+{
+  "slug": "gourmet-orchards-tempe",
+  "name": "Gourmet Orchards",
+  "category": "Shopping",
+  "googleCategory": "Gourmet grocery store",
+  "secondaryCategories": [
+    "Fruit and vegetable store",
+    "Gift basket store",
+    "Nut store"
+  ],
+  "address": "2010 E University Dr #13",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4227049,
+  "lng": -111.8999638,
+  "phone": "+14802747915",
+  "website": "https://www.gourmetorchards.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gourmet+Orchards/data=!4m7!3m6!1s0x872baf08ea54f0c5:0x85a0c74f8d2dc805!8m2!3d33.4227049!4d-111.8999638!16s%2Fg%2F1pp2tz_2w!19sChIJxfBU6givK4cRBcgtjU_HoIU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9628915147803052037",
+  "placeId": "ChIJxfBU6givK4cRBcgtjU_HoIU",
+  "googleRating": 4.6,
+  "googleReviewCount": 15,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCoXUCkFK_Y8p2QgpUKBjMAd3gMESSr4xL4XTYogDkPVEDYYjNGqVYjQKSSw6KaUoh3KrSKeB46c_HVkNOh3KbgOqATBYW7XDjz2i4lOnXU4t_2G9odFnpQervEs7AQfo9uFpsig=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 13
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

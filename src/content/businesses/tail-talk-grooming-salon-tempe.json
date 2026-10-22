@@ -1,0 +1,42 @@
+{
+  "slug": "tail-talk-grooming-salon-tempe",
+  "name": "Tail Talk Grooming Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Pet groomer",
+  "address": "3030 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3957554,
+  "lng": -111.92669839999999,
+  "phone": "+14807883653",
+  "website": "https://www.tailtalkgroomingsalon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tail+Talk+Grooming+Salon/data=!4m7!3m6!1s0x872b0969f4dca23f:0x608340b8ae81b148!8m2!3d33.3957554!4d-111.9266984!16s%2Fg%2F11zb3ds5y6!19sChIJP6Lc9GkJK4cRSLGBrrhAg2A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6954473411536073032",
+  "placeId": "ChIJP6Lc9GkJK4cRSLGBrrhAg2A",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFyDBeREku5uzU7KtyeTjN9My16GXqw8hGu6RbcLi32ZXFdZrEJXhfV3ZFCQt6Wzg3_S9qA25EIH3bSWyhPEcdG58lihdpv2PiHLgF7CQnJDZPs9VPe0-DiZqzvpNv9QgpX70V4IotblSo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "5:30 PM - 10:00 PM",
+    "fri": "5:30 PM - 10:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

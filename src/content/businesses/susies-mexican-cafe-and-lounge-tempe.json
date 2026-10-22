@@ -17,24 +17,10 @@
   "priceRange": "$10–20",
   "description": "This casual area staple offers both American breakfasts & a menu of familiar Mexican favorites.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/506418426112690"
@@ -45,5 +31,31 @@
   "groundgameId": "6a2437bbf00b0e2dfcef4f1a",
   "seededAt": "2026-06-06T15:07:39Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJWdy4nUYIK4cRzVfaQN5PKS0",
+  "googleCid": "3254220021741279181",
+  "googleMapsUrl": "https://www.google.com/maps/place/Susie%27s+Mexican+Cafe+and+Lounge/data=!4m7!3m6!1s0x872b08469db8dc59:0x2d294fde40da57cd!8m2!3d33.4218268!4d-111.8865985!16s%2Fg%2F1tcwrlvf!19sChIJWdy4nUYIK4cRzVfaQN5PKS0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 1934,
+  "ratingBreakdown": {
+    "1": 84,
+    "2": 65,
+    "3": 137,
+    "4": 309,
+    "5": 1339
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYEAjBnLLR3mkvUzN5GDT5hPs4aceot8SFyuIpF9YL1seP8uYLiK3jFjVKnLdMj-oC_EwLP425x3bw1fhSLzpdck6dy1OJPzEzItDxfzwPZG8vLeNUkYNo8fk0O_BG60PBOHsIQw=w1200-h800-k-no",
+  "website": "https://susiesmexicanfood.com/?utm_source=google",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 9:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "lat": 33.4218268,
+  "lng": -111.88659849999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

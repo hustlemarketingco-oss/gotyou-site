@@ -1,0 +1,58 @@
+{
+  "slug": "frys-tempe",
+  "name": "Fry's",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Bakery",
+    "Butcher shop",
+    "Cheese shop",
+    "Deli",
+    "Florist",
+    "Grocery delivery service",
+    "Health food store",
+    "Liquor store"
+  ],
+  "address": "1835 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3622508,
+  "lng": -111.90916229999999,
+  "phone": "+14808387023",
+  "website": "https://www.frysfood.com/stores/grocery/az/tempe/mcclintock-guadalupe/660/00022?cid=loc_66000022_gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fry%27s/data=!4m7!3m6!1s0x872b064bc2431d29:0x76c5e8d1ea4c5b4a!8m2!3d33.3622508!4d-111.9091623!16s%2Fg%2F12hlmt7f4!19sChIJKR1DwksGK4cRSltM6tHoxXY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8558502655164177226",
+  "placeId": "ChIJKR1DwksGK4cRSltM6tHoxXY",
+  "googleRating": 4.2,
+  "googleReviewCount": 819,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVwIaBieEND2qCyUkxNSLcvg-Il7zgVYRwJHg1QvMEB_aLJmhSyzYjbB2bDsqimOdjV0Umz01yareETqKKZ12R0S3K-GM6diuxt2g-1KWJWAI1SxM8A-88yDVwB1BHfdxQaOs9=w1200-h800-k-no",
+  "description": "Outpost of a grocery store chain with typical offerings like produce, meat & household supplies.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 71,
+    "2": 26,
+    "3": 59,
+    "4": 181,
+    "5": 482
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

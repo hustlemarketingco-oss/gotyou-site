@@ -15,8 +15,8 @@
   "phone": "+14808974661",
   "website": "https://locations.auntieannes.com/az/tempe/5000-arizona-mills-circle",
   "placeId": "ChIJKQ7s21gPK4cRxR_OLyO50jY",
-  "googleRating": 3.5,
-  "googleReviewCount": 45,
+  "googleRating": 3.6,
+  "googleReviewCount": 50,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
@@ -33,5 +33,20 @@
   "groundgameId": "6a281266c362d923edc3ec92",
   "seededAt": "2026-06-09T13:17:26Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3950423383934377925",
+  "googleMapsUrl": "https://www.google.com/maps/place/Auntie+Anne%27s/data=!4m7!3m6!1s0x872b0f58dbec0e29:0x36d2b9232fce1fc5!8m2!3d33.3849123!4d-111.9637954!16s%2Fg%2F1tdx94wf!19sChIJKQ7s21gPK4cRxR_OLyO50jY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 27
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_RlFmwWXRyBT2v8JhOKpZe28k2xUG70WRsmR1v-kHxdP-h4LylKrrMD_VmgiCkfJBP31cpSrlMi0yrYSYeGk41jBlunYj-WMu89ffkxMCMI23fzn3F7jA_MFGf4TcgM48IK6K=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

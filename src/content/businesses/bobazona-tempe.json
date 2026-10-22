@@ -11,18 +11,10 @@
   "priceRange": "$",
   "description": "Located in Tempe, Bobazona Tempe is a bubble tea store with takeout & delivery. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/bobazonaaz"
@@ -33,5 +25,31 @@
   "groundgameId": "6a2436031ae7c35331aef1d3",
   "seededAt": "2026-06-06T15:00:19Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJBSLn4cIHK4cRH_oLGLSHDmc",
+  "googleCid": "7426022043147827743",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bobazona+Tempe/data=!4m7!3m6!1s0x872b07c2e1e72205:0x670e87b4180bfa1f!8m2!3d33.3622805!4d-111.9126647!16s%2Fg%2F11kpknlyhb!19sChIJBSLn4cIHK4cRH_oLGLSHDmc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 374,
+  "ratingBreakdown": {
+    "1": 31,
+    "2": 12,
+    "3": 7,
+    "4": 11,
+    "5": 313
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezfcZ83mRo2GS6yElSL7r5zM1bU4AV1tRfKW3qGk2pkXZsGXYCNmhrymQszL9fT_5-ZRBN5I2X7Y2rbOWkyUXa0p9i0RFBUaZja5APHZpu3kA4gdV8wP4-Yysq7A730HXOUl-4=w1200-h800-k-no",
+  "website": "https://www.bobazona.com/",
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "lat": 33.3622805,
+  "lng": -111.9126647,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

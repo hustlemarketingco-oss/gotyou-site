@@ -1,0 +1,43 @@
+{
+  "slug": "kahndra-chauntay-hair-studio-tempe",
+  "name": "Kahndra Chauntay Hair Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "3163 S McClintock Dr Ste 29/30",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394077599999996,
+  "lng": -111.9075336,
+  "phone": "+16026872801",
+  "website": "http://styleseat.com/kahndra",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kahndra+Chauntay+Hair+Studio/data=!4m7!3m6!1s0x872b09eb8ed7fd07:0xbd46af0a3160e0c7!8m2!3d33.3940776!4d-111.9075336!16s%2Fg%2F11mvpl01m2!19sChIJB_3XjusJK4cRx-BgMQqvRr0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13638780979851092167",
+  "placeId": "ChIJB_3XjusJK4cRx-BgMQqvRr0",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lXiqNb3VUJzXGRecNVa_-g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=6.3038616&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 9
+  },
+  "hours": {
+    "mon": "1:00 PM - 5:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

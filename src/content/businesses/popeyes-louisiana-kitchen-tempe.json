@@ -1,0 +1,55 @@
+{
+  "slug": "popeyes-louisiana-kitchen-tempe",
+  "name": "Popeyes Louisiana Kitchen",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "secondaryCategories": [
+    "Cajun restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "457 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4068155,
+  "lng": -111.9456738,
+  "phone": "+14802370896",
+  "website": "https://www.popeyes.com/store-locator/store/restaurant_83516",
+  "googleMapsUrl": "https://www.google.com/maps/place/Popeyes+Louisiana+Kitchen/data=!4m7!3m6!1s0x872b08c965fdcf45:0x8f7150cfa5a0eca3!8m2!3d33.4068155!4d-111.9456738!16s%2Fg%2F1tdmkyt6!19sChIJRc_9ZckIK4cRo-ygpc9QcY8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10336131472559238307",
+  "placeId": "ChIJRc_9ZckIK4cRo-ygpc9QcY8",
+  "googleRating": 3.5,
+  "googleReviewCount": 2237,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ1gf9Ff9ffqtbV-hltr_Vc2fiCuREPcbdoBthx5BRLp3eXV_HEp_UjbFRnn6aBzPGLCDUXUTcpkgnkTks7W5zMXzxnY6NXbifhOXTqLuYPWSaceGZ-sqTsJukiO_J54BOjN8VvA=w1200-h800-k-no",
+  "description": "Louisiana-inspired fast-food chain known for its crispy fried chicken, chicken sandwiches & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 531,
+    "2": 138,
+    "3": 251,
+    "4": 380,
+    "5": 937
+  },
+  "hours": {
+    "mon": "9:00 AM - 1:00 AM",
+    "tue": "9:00 AM - 1:00 AM",
+    "wed": "9:00 AM - 1:00 AM",
+    "thu": "9:00 AM - 2:00 AM",
+    "fri": "9:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

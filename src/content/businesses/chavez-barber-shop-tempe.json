@@ -1,0 +1,46 @@
+{
+  "slug": "chavez-barber-shop-tempe",
+  "name": "Chavez Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "715 W Baseline Rd #5",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3773261,
+  "lng": -111.94993129999999,
+  "phone": "+14807777470",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chavez+Barber+Shop/data=!4m7!3m6!1s0x872b0600dcc9f87b:0x4d057eba657e0ac6!8m2!3d33.3773261!4d-111.9499313!16s%2Fg%2F1tsr3p05!19sChIJe_jJ3AAGK4cRxgp-Zbp-BU0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5549981454835780294",
+  "placeId": "ChIJe_jJ3AAGK4cRxgp-Zbp-BU0",
+  "googleRating": 4.4,
+  "googleReviewCount": 216,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMWEEo5-ouRrXeQo5-w1LbJW2RmC-UkI5LqPt2qv2u6e22Y6mfFyGpIhn-IPxy7RoXXRZHTzjuHguzj5N-F7FHy1wgvKegrq1jn2iFslm-Td7qu0hi0p1sqyRg_eNTJ_0GnQMLLNmjjAnX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 10,
+    "3": 1,
+    "4": 22,
+    "5": 165
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

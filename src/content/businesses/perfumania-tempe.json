@@ -1,0 +1,51 @@
+{
+  "slug": "perfumania-tempe",
+  "name": "Perfumania",
+  "category": "Shopping",
+  "googleCategory": "Perfume store",
+  "secondaryCategories": [
+    "Cosmetics store",
+    "Gift shop"
+  ],
+  "address": "5000 S Arizona Mills Cir #247",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3830552,
+  "lng": -111.9638968,
+  "phone": "+14807529288",
+  "website": "http://www.perfumania.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Perfumania/data=!4m7!3m6!1s0x872b0f59e1444903:0xa00f11b0a7fb6fab!8m2!3d33.3830552!4d-111.9638968!16s%2Fg%2F1tdm8svb!19sChIJA0lE4VkPK4cRq2_7p7ARD6A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11533456621149319083",
+  "placeId": "ChIJA0lE4VkPK4cRq2_7p7ARD6A",
+  "googleRating": 4.2,
+  "googleReviewCount": 122,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGoZUSS5TPX2guF-LsuTAkfH970jXOH9spIYljz4op7KwE2g7imYBjCXY1qJS-CJh0feshtO4cr2gs1i_d4SEj3_FIMU8T2DPTfaHpcOR4xzXNxIPWwSC6oE3kxGMfVla9Fl-f=w1200-h800-k-no",
+  "description": "Retail chain specializing in scents for men & women, plus bath, body, haircare & cosmetic products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 7,
+    "3": 11,
+    "4": 22,
+    "5": 74
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

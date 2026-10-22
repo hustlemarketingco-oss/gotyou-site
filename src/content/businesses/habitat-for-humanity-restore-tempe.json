@@ -1,0 +1,56 @@
+{
+  "slug": "habitat-for-humanity-restore-tempe",
+  "name": "Habitat For Humanity ReStore - Tempe",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "secondaryCategories": [
+    "Appliance store",
+    "Building materials store",
+    "Cabinet store",
+    "Donations center",
+    "Home goods store",
+    "Home improvement store",
+    "Non-governmental organization",
+    "Non-profit organization"
+  ],
+  "address": "3210 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3944792,
+  "lng": -111.91069499999999,
+  "phone": "+16235516000",
+  "website": "https://habitatcaz.org/restores/?utm_source=local&utm_medium=organic&utm_campaign=gbp&utm_content=tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Habitat+For+Humanity+ReStore+-+Tempe/data=!4m7!3m6!1s0x872b088401f378ef:0xbbb62d4653bd1f44!8m2!3d33.3944792!4d-111.910695!16s%2Fg%2F11f5d2930r!19sChIJ73jzAYQIK4cRRB-9U0Yttrs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13526048310929727300",
+  "placeId": "ChIJ73jzAYQIK4cRRB-9U0Yttrs",
+  "googleRating": 4.3,
+  "googleReviewCount": 705,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-6pAdhPR1KD82_5s3QpMJzYYdAZzYA37EaYbZaAzI1QfjjQubSzZiaTxAhhP6_UuYme8M577qe2-aq-Miiyv9mGK1xbkSIL20Kq_GUT2hwewwivh2dkLbdZi60b5anwxGnz0i=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 31,
+    "2": 23,
+    "3": 73,
+    "4": 128,
+    "5": 450
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

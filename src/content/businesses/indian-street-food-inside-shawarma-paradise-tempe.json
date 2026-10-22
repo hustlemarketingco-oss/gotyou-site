@@ -17,11 +17,11 @@
   "lng": -111.9222302,
   "phone": "+16024865422",
   "website": "https://order.toasttab.com/online/indianstreetfood",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16780853264944882818",
+  "googleMapsUrl": "https://www.google.com/maps/place/Indian+Street+Food+%28Inside+Shawarma+Paradise%29/data=!4m7!3m6!1s0x872b09a628ddeb4f:0xe8e19122bcfe6482!8m2!3d33.416116!4d-111.9222302!16s%2Fg%2F11w9ph_t_q!19sChIJT-vdKKYJK4cRgmT-vCKR4eg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16780853264944882818",
   "placeId": "ChIJT-vdKKYJK4cRgmT-vCKR4eg",
   "googleRating": 4.7,
-  "googleReviewCount": 62,
+  "googleReviewCount": 67,
   "description": "Located in Tempe, Indian Street Food (Inside Shawarma Paradise) is a indian restaurant & gujarati restaurant.",
   "hours": {
     "fri": "12:00 PM - 12:00 AM",
@@ -38,5 +38,19 @@
   "groundgameId": "6a243779df72eb174b5dd39e",
   "seededAt": "2026-06-06T15:06:33Z",
   "updatedAt": "2026-06-06T15:06:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 59
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvX1v0l7TTLV-9vYT_5X2KX-D7yfXmpj_vuja55hIEAdyx_9wdjDuT7S6S302kBc5vhN9sWmvhYqS57Lz8j1ocrjur_uVJ7kVvCKNQr00Xc0UC62FrMWf2pl9XRZHpBRjjk7qN6sMD-fi1=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

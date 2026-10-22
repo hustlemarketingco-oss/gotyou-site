@@ -1,0 +1,42 @@
+{
+  "slug": "custom-station-tempe",
+  "name": "Custom Station",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "In front of champs & five below, 5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3829596,
+  "lng": -111.96460359999999,
+  "phone": "+16028695315",
+  "googleMapsUrl": "https://www.google.com/maps/place/Custom+Station/data=!4m7!3m6!1s0x872b0f4ba7b7f77f:0x86a5bca7b086ae31!8m2!3d33.3829596!4d-111.9646036!16s%2Fg%2F11yhl7sxvk!19sChIJf_e3p0sPK4cRMa6GsKe8pYY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9702368400646778417",
+  "placeId": "ChIJf_e3p0sPK4cRMa6GsKe8pYY",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6nKWcKhbzifssz3DpEFnuuuk77Nd_So51HvcyAjb7hAHPnqe2wF4eVvzLOBG8A-6Z8jrTzxz1kn-saMSpPFA-bLnouOy6rj_tFcvnkKyPUXi2k6uKH1qrCC1ZeCkSkjDYjFZfrQavMw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

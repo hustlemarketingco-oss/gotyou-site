@@ -1,0 +1,31 @@
+{
+  "slug": "marketplace-tempe",
+  "name": "Marketplace",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "101 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.428995,
+  "lng": -111.9087265,
+  "googleMapsUrl": "https://www.google.com/maps/place/Marketplace/data=!4m7!3m6!1s0x872b0900748040ad:0x596b5773a6a7b848!8m2!3d33.428995!4d-111.9087265!16s%2Fg%2F11z4sxmwd4!19sChIJrUCAdAAJK4cRSLinpnNXa1k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6443339846112491592",
+  "placeId": "ChIJrUCAdAAJK4cRSLinpnNXa1k",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5b6l1twV6gtG-3VM-h37fQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=172.09706&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

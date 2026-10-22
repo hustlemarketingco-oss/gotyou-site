@@ -1,0 +1,46 @@
+{
+  "slug": "bar-smoothie-tempe",
+  "name": "Bar Smoothie",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Juice shop",
+  "address": "3137 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394540899999996,
+  "lng": -111.938644,
+  "phone": "+16025563963",
+  "website": "http://www.barsmoothie.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+Smoothie/data=!4m7!3m6!1s0x872b09217316e065:0x786d4915e618ecd1!8m2!3d33.3945409!4d-111.938644!16s%2Fg%2F11m9190t8b!19sChIJZeAWcyEJK4cR0ewY5hVJbXg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8677672415416347857",
+  "placeId": "ChIJZeAWcyEJK4cR0ewY5hVJbXg",
+  "googleRating": 4.9,
+  "googleReviewCount": 332,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4LH0u6U6_Psr1V1lduk9fcZ02mk3WiIlGjVi9Gvtc6dVfdRXE8UXSg77P2gh-5TNF_zE7VqufYyuOKATyQlRuYgYL14rAGXlVljFOByZVmq8Wfozax2XHwJU8wFfopTgdphnF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 7,
+    "5": 314
+  },
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -21,34 +21,18 @@
   "lng": -111.9015744,
   "phone": "+16026096400",
   "website": "https://www.barlouie.com/locations/us/az/tempe/tempe-marketplace",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15132782436671669903",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+Louie+-+Tempe+Marketplace/data=!4m7!3m6!1s0x872b09aad571810f:0xd20271730115c68f!8m2!3d33.4333107!4d-111.9015744!16s%2Fg%2F1hdzh96vc!19sChIJD4Fx1aoJK4cRj8YVAXNxAtI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15132782436671669903",
   "placeId": "ChIJD4Fx1aoJK4cRj8YVAXNxAtI",
-  "googleRating": 4.2,
-  "googleReviewCount": 2314,
+  "googleRating": 4.3,
+  "googleReviewCount": 2457,
   "priceRange": "$20–30",
   "description": "Upbeat grill chain with American grub, martinis & microbrews, plus happy-hour deals.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 2:00 AM",
@@ -65,5 +49,14 @@
   "groundgameId": "6a24386d08dc20948f10303c",
   "seededAt": "2026-06-06T15:10:37Z",
   "updatedAt": "2026-06-06T15:10:37Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 150,
+    "2": 93,
+    "3": 201,
+    "4": 518,
+    "5": 1495
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuQimi-3M9BDgbh6LfYBbRzGMkAK7zL6l1Stcl1TzdyIEX7RnaoK4peV0Mv5zAM8RjpUqPk2E53W_Z8723YKfMyS3yGkTRww4UyjDkt-fbWTHQjSfpswcy-18fmhuelTmhdR7YHA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

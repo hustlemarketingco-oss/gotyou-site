@@ -21,7 +21,7 @@
   "website": "https://fatebrewing.com/",
   "placeId": "ChIJ3zWEFZAJK4cRP5BF67elXqk",
   "googleRating": 4.5,
-  "googleReviewCount": 948,
+  "googleReviewCount": 970,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -38,5 +38,22 @@
   "groundgameId": "6a723116aa8fb1a99b87eeb9",
   "seededAt": "2026-08-04T18:36:06Z",
   "updatedAt": "2026-08-04T18:36:07Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12204374249565425727",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fate+Brewing+Company+-+Tempe/data=!4m7!3m6!1s0x872b0990158435df:0xa95ea5b7eb45903f!8m2!3d33.3923294!4d-111.9364595!16s%2Fg%2F11h7c6_cpm!19sChIJ3zWEFZAJK4cRP5BF67elXqk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 28,
+    "3": 43,
+    "4": 141,
+    "5": 709
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetAOtCjhEX6tQqM-YY9zl8I40ZHyyJB_JcEiCc-IeY67YEAoWwmhx0vDdkD3C_zayQVBYtMsAZETgya8B3p2Z2eTUbJNJ6ipSAllXEiU7tO1RzX3Nd8qYHkBDAi_FrCOYm-1VIda-Ky_pX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

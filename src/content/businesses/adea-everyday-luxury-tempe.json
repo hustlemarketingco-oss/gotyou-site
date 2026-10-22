@@ -1,0 +1,37 @@
+{
+  "slug": "adea-everyday-luxury-tempe",
+  "name": "Adea Everyday Luxury",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "address": "117 E 5th St Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425249799999996,
+  "lng": -111.9374289,
+  "phone": "+16027434638",
+  "website": "https://www.myadea.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Adea+Everyday+Luxury/data=!4m7!3m6!1s0x872b095f90389d09:0x2c08d6b52b4e28a!8m2!3d33.4252498!4d-111.9374289!16s%2Fg%2F11yxxv9yyt!19sChIJCZ04kF8JK4cRiuK0UmuNwAI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "198313875692905098",
+  "placeId": "ChIJCZ04kF8JK4cRiuK0UmuNwAI",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VRBEAPUVpU9Mmpx0Opj9YQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=211.75781&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

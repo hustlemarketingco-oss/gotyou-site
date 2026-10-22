@@ -11,20 +11,10 @@
   "priceRange": "$$",
   "description": "Located in Tempe, La Michoacana Premium Tempe is a casual, trendy ice cream shop with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/100617075008551"
@@ -35,5 +25,31 @@
   "groundgameId": "6a2436270fb32b4830c59444",
   "seededAt": "2026-06-06T15:00:55Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJtxobPbgFK4cRoGDg0vRAKL8",
+  "googleCid": "13774330880566780064",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Michoacana+Premium+Tempe/data=!4m7!3m6!1s0x872b05b83d1b1ab7:0xbf2840f4d2e060a0!8m2!3d33.3505689!4d-111.957612!16s%2Fg%2F11kj4kw4k7!19sChIJtxobPbgFK4cRoGDg0vRAKL8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 117,
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 2,
+    "3": 1,
+    "4": 6,
+    "5": 92
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLZ9DIaG2IkEsKEVxeMOL1UGFxJj1uBeVYE16vbNpwEHoxxSeF5CVZJokJiUPKKUwf7t0R64DJd_WfQ73014hc4D_xLdGv3ArTjPKYyvXdzh7xRVNgJqF1OYNZtNZPyV1BCNDUMumVwXs=w1200-h800-k-no",
+  "website": "http://lamichoacanapremium.com/",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "lat": 33.3505689,
+  "lng": -111.957612,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

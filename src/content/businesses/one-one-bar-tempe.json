@@ -1,0 +1,44 @@
+{
+  "slug": "one-one-bar-tempe",
+  "name": "One One Bar",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "501 S Mill Ave #300",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4252985,
+  "lng": -111.9396821,
+  "phone": "+14805348620",
+  "googleMapsUrl": "https://www.google.com/maps/place/One+One+Bar/data=!4m7!3m6!1s0x872b09293387fc57:0xba1e1378e25b2eaf!8m2!3d33.4252985!4d-111.9396821!16s%2Fg%2F11hz9rc25h!19sChIJV_yHMykJK4cRry5b4ngTHro?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13411178150270545583",
+  "placeId": "ChIJV_yHMykJK4cRry5b4ngTHro",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaGq4nut2NQy0KaxpHC_hjzny5uUngiLtDDnl99hCBzGxyR1otGx83tpHMU_uD2smgzge862mnYtm6OZlFRLwfCVFcpcygrMaG1kyfL1oM54cDYJwsl0AaWcjBrprRVv73ercfEQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "10:00 PM - 2:00 AM",
+    "sat": "10:00 PM - 2:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "subway-1301-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "1301 E University Dr Ste 119 And 120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.421529899999996,
+  "lng": -111.91692619999999,
+  "phone": "+14809212126",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/1301-e-university-drive?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=54791&utm_campaign=evergreen-2020&y_source=1_MTQ4OTY1MDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b08e5312b17e7:0xcc1be8c42bbe43ab!8m2!3d33.4215299!4d-111.9169262!16s%2Fg%2F12hlt9yg7!19sChIJ5xcrMeUIK4cRq0O-K8ToG8w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14707604937353610155",
+  "placeId": "ChIJ5xcrMeUIK4cRq0O-K8ToG8w",
+  "googleRating": 3.9,
+  "googleReviewCount": 550,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrA_Hp49EP2wHFxk04mp93gEhj4ObMVXE7p8R2p3XQipb9eDqvvIxWnD7ZG43hYYvd9uQVyizoaaSnT9VUgaEkdqrnMU0vX2yETCNMyoV64LCIJhCNsYqKW8HI-qCBCcAyVU2fYkhSQVxj=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 10,
+    "3": 44,
+    "4": 104,
+    "5": 290
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

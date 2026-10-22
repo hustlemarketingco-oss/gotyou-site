@@ -1,0 +1,56 @@
+{
+  "slug": "arbys-tempe",
+  "name": "Arby's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Deli",
+    "Grocery delivery service",
+    "Takeout Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1392 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3495555,
+  "lng": -111.96274989999999,
+  "phone": "+14802123856",
+  "website": "http://www.arbys.com/locations/us/az/tempe/1392-w-elliot-rd/store-279?utm_source=google-my-business&utm_medium=organic&utm_campaign=website-link&y_source=1_MjAyMzUyMjU4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arby%27s/data=!4m7!3m6!1s0x872b0679d002d795:0x6465a46f05fdec21!8m2!3d33.3495555!4d-111.9627499!16s%2Fg%2F1hc1mslxn!19sChIJldcC0HkGK4cRIez9BW-kZWQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7234369173189422113",
+  "placeId": "ChIJldcC0HkGK4cRIez9BW-kZWQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 783,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclr--EQxg3-2rlFOC2cmBcHxpl7HoWMX2HFu5lXaoH73aHSsKjaZmFpLVBeTWFRaBswknBd7Mhr5AoxEARhhzc0zr1e2RPCKRPcdE8hJm1a4VhgxHxZOjmcFPAgt2V6aQmhLON=w1200-h800-k-no",
+  "description": "Fast-food chain, known for its roast beef, serving up hot & cold sandwiches, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 97,
+    "2": 33,
+    "3": 95,
+    "4": 186,
+    "5": 372
+  },
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "sparkys-old-town-creamery-tempe",
+  "name": "Sparky's Old Town Creamery",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Dessert shop"
+  ],
+  "address": "510 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425101399999996,
+  "lng": -111.94025169999999,
+  "phone": "+14809216228",
+  "website": "https://sparkyscreamery.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sparky%27s+Old+Town+Creamery/data=!4m7!3m6!1s0x872b08d81e70f67d:0xb97a420cb9012c6b!8m2!3d33.4251014!4d-111.9402517!16s%2Fg%2F1thtdln9!19sChIJffZwHtgIK4cRaywBuQxCerk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13365067466586270827",
+  "placeId": "ChIJffZwHtgIK4cRaywBuQxCerk",
+  "googleRating": 4.1,
+  "googleReviewCount": 583,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFwTZWijtS_dRsyPuirToYRZiKdGGm5O_pN2QL-60Wvil8VE7thblNDqLYywlui2cuN6Em-zgHMOHBMx63n5SWBeoivY0fUZoRz0kpslqN5GDPV6qfEl-YVvs49FrR2yTUlDzf=w1200-h800-k-no",
+  "description": "Sweet shop specializing in ice cream, sorbet & self-serve fro-yo, plus shakes & Hawaiian shave ice.",
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 20,
+    "3": 52,
+    "4": 117,
+    "5": 336
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

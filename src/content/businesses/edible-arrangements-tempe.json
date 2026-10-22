@@ -1,0 +1,56 @@
+{
+  "slug": "edible-arrangements-tempe",
+  "name": "Edible Arrangements",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Chocolate shop",
+    "Dessert shop",
+    "Florist",
+    "Gift basket store",
+    "Grocery store",
+    "Juice shop"
+  ],
+  "address": "930 W Broadway Rd Ste 16",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078848,
+  "lng": -111.95410269999999,
+  "phone": "+14809213660",
+  "website": "https://www.ediblearrangements.com/stores/930-w-broadway-tempe-az-85282",
+  "googleMapsUrl": "https://www.google.com/maps/place/Edible+Arrangements/data=!4m7!3m6!1s0x872b08cb53bd62bd:0xbfc7e6420c6a2721!8m2!3d33.4078848!4d-111.9541027!16s%2Fg%2F1txnpy59!19sChIJvWK9U8sIK4cRISdqDELmx78?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13819267152960169761",
+  "placeId": "ChIJvWK9U8sIK4cRISdqDELmx78",
+  "googleRating": 3.3,
+  "googleReviewCount": 87,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKwltGv9KA_B9Rm1w4zOY7dlSLPxx66HqWfSY66mLyyWxT-HIud3p1a5U8xteoJUSJPajn_CaDhRCJl38sLQ2Wca8U1rpYmpq6buRI_Le2q_6r7h6lO5teI8A2nz7-t9Rajfci=w1200-h800-k-no",
+  "description": "Chain selling clever arrangements & gift baskets made up of fresh & chocolate-dipped fruit.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 3,
+    "3": 2,
+    "4": 4,
+    "5": 45
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

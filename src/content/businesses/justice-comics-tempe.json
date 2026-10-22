@@ -1,0 +1,43 @@
+{
+  "slug": "justice-comics-tempe",
+  "name": "Justice Comics",
+  "category": "Shopping",
+  "googleCategory": "Comic book store",
+  "address": "1805 E Elliot Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347604,
+  "lng": -111.9107432,
+  "phone": "+14807803272",
+  "website": "http://justicecomicbooks.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Justice+Comics/data=!4m7!3m6!1s0x872b6be70a9b85b3:0x4bf50d6532e5da38!8m2!3d33.347604!4d-111.9107432!16s%2Fg%2F11jnpwln3y!19sChIJs4WbCudrK4cRONrlMmUN9Us?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5473295650435488312",
+  "placeId": "ChIJs4WbCudrK4cRONrlMmUN9Us",
+  "googleRating": 5,
+  "googleReviewCount": 97,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPGgZdKF_QePKMwUzLLhoK1uNrW3wwc_w4VI0cyJziFSYgKJsX40EUrpLT9jLKy2N9UFsSQ73dbKqz1dlFKKtDHmj3tAdmka6oLYvQOmGC18TXGoLbj2wGzSl5vKsz6BiGU2sS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 3,
+    "5": 94
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 4:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

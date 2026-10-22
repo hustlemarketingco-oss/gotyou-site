@@ -1,0 +1,37 @@
+{
+  "slug": "the-shire-cafe-tempe",
+  "name": "The Shire Café",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe"
+  ],
+  "address": "1000 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.41518,
+  "lng": -111.92406319999999,
+  "phone": "+16024560356",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Shire+Caf%C3%A9/data=!4m7!3m6!1s0x872b08e918f84a87:0x7b109415b3113e79!8m2!3d33.41518!4d-111.9240632!16s%2Fg%2F11d_z3441_!19sChIJh0r4GOkIK4cReT4RsxWUEHs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8867750487211982457",
+  "placeId": "ChIJh0r4GOkIK4cReT4RsxWUEHs",
+  "googleRating": 4.8,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8xUUXYajyWCYtK8LXXuy_dlLEuaHcDjGyQcSpJMH52hsi0OLZn5jJKP4rfUvMe2U6pAKa6JvhcU87eM5pM1pFhRf6EWw4K_8WJPaquswzXnQ8_D1-uEmsiAtvPxJ5mx9dhPiF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "4": 2,
+    "5": 23
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "first-class-bryan-tempe",
+  "name": "First-Class Bryan",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "933 E Broadway Rd Ste 31",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "phone": "+14806307422",
+  "website": "http://firstclassbryan.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/First-Class+Bryan/data=!4m7!3m6!1s0x872b092a8b272df1:0x379cf5280d6f5550!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11wtw8zxby!19sChIJ8S0niyoJK4cRUFVvDSj1nDc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4007347320825795920",
+  "placeId": "ChIJ8S0niyoJK4cRUFVvDSj1nDc",
+  "googleRating": 5,
+  "googleReviewCount": 52,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFUsRKgW6sJZCb3huYOCpvzZzHliYdWTSIrAqPYHEqaB9JYWRo0sBLQGvr-ONJ9L5KHjLu_e02vlQ5rDQQDQIQSUv_pS0wVUWbeRi6KGxx9nEHtRfjG2SKWDdYvCVujoOG76Mjm2_Ge1u9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 52
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -21,20 +21,9 @@
   "priceRange": "$",
   "description": "Chain with a laid-back, island vibe doling out shaved-ice desserts & smoothies.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/bahamabucks"
@@ -45,5 +34,31 @@
   "groundgameId": "6a24373fd78e16ca0af70e47",
   "seededAt": "2026-06-06T15:05:35Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJL7Sc3_IGK4cRbg0Bbt8hrNA",
+  "googleCid": "15036430499390229870",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bahama+Buck%27s+-+Tempe/data=!4m7!3m6!1s0x872b06f2df9cb42f:0xd0ac21df6e010d6e!8m2!3d33.3357973!4d-111.9278781!16s%2Fg%2F1tfvhp5b!19sChIJL7Sc3_IGK4cRbg0Bbt8hrNA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 786,
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 15,
+    "3": 16,
+    "4": 94,
+    "5": 638
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdPJNqcsQkZij6w3VsRcvq8Vdq-Jd35d9ZoQ84mct4L6M53exjtnqC_KPPFpl0eKqX1xDj93xNhl78H7pQyZyzuipndUOKpi-vUTVXVvKuBF3bjQTjI1beRYJ9cFKSXOpdzUbU=w1200-h800-k-no",
+  "website": "https://bahamabucks.com/shop/tempe/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "lat": 33.335797299999996,
+  "lng": -111.9278781,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

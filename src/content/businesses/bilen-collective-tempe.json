@@ -1,0 +1,37 @@
+{
+  "slug": "bilen-collective-tempe",
+  "name": "Bilen Collective",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "931 E Elliot Rd #118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348717199999996,
+  "lng": -111.9537158,
+  "phone": "+16024884528",
+  "website": "http://instagram.com/BilenCollective",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bilen+Collective/data=!4m7!3m6!1s0x872b0534bc66dfcd:0xf7e144cad3af271a!8m2!3d33.3487172!4d-111.9537158!16s%2Fg%2F11sdm7y_h_!19sChIJzd9mvDQFK4cRGiev08pE4fc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17861633235053651738",
+  "placeId": "ChIJzd9mvDQFK4cRGiev08pE4fc",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IWhZJ8MgWXYok6lePrEHrA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=225.48305&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

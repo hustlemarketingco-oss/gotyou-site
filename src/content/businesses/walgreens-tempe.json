@@ -1,0 +1,57 @@
+{
+  "slug": "walgreens-tempe",
+  "name": "Walgreens",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Contact lenses supplier",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Perfume store",
+    "Stationery store",
+    "Vitamin & supplements store"
+  ],
+  "address": "2000 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4068817,
+  "lng": -111.9404177,
+  "phone": "+14809218013",
+  "website": "https://www.walgreens.com/locator/walgreens-2000+s+mill+ave-tempe-az-85282/id=11610",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walgreens/data=!4m7!3m6!1s0x872b08c87884f9a5:0xbbce2b94c7094a22!8m2!3d33.4068817!4d-111.9404177!16s%2Fg%2F1thvyrb7!19sChIJpfmEeMgIK4cRIkoJx5Qrzrs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13532801848289348130",
+  "placeId": "ChIJpfmEeMgIK4cRIkoJx5Qrzrs",
+  "googleRating": 2.6,
+  "googleReviewCount": 232,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDHsLfY9w2OJ1lL0x2WM1qJHi9vTd5PcVKIqNQFH9RHI4Dt7UbCD2JfwXPH9e2uW4eSxtxInyW7TpMamTnewkD2j1ltQ2sUdt4c0WBBPRMc0jy01agFonsKk-AGmqZ9V-F-lVy=w1200-h800-k-no",
+  "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 120,
+    "2": 8,
+    "3": 12,
+    "4": 23,
+    "5": 69
+  },
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "6:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

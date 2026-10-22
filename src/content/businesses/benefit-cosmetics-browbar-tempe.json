@@ -1,0 +1,54 @@
+{
+  "slug": "benefit-cosmetics-browbar-tempe",
+  "name": "Benefit Cosmetics BrowBar",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyebrow bar",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Beauty supply store",
+    "Cosmetics store",
+    "Make-up artist"
+  ],
+  "address": "55 S McClintock Dr Ste 155",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4318003,
+  "lng": -111.9083017,
+  "phone": "+14809688200",
+  "website": "https://browbars.benefitcosmetics.com/us/az/tempe/55-s-mcclintock-dr?y_source=1_MTk5MTk5MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Benefit+Cosmetics+BrowBar/data=!4m7!3m6!1s0x872b08fe913d6b39:0x880dd15258aa55cc!8m2!3d33.4318003!4d-111.9083017!16s%2Fg%2F1ptx8x5zs!19sChIJOWs9kf4IK4cRzFWqWFLRDYg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9803722115460519372",
+  "placeId": "ChIJOWs9kf4IK4cRzFWqWFLRDYg",
+  "googleRating": 4.5,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRilrUpqj0dIj66O0vxDtkvh-ezuXUQSmC5q8wPAJbsSlY_79xw9k6ZN807qlUUagHyW0UvHFudCxlq9lvYXJ9MaJY3gbq4CgPntLbWZUYVa-9IWsCkOpAv0Ck6PmaL-DEal7Mow=w1200-h800-k-no",
+  "description": "Chain retailer with beauty products including makeup & skincare (plus some kiosks & Brow Bars).",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 28
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

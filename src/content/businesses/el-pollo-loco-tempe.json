@@ -19,7 +19,7 @@
   "website": "https://restaurants.elpolloloco.com/az/tempe/5130-s-mcclintock-dr",
   "placeId": "ChIJM0t28C0GK4cRbNJuyiFtbpc",
   "googleRating": 4.2,
-  "googleReviewCount": 1179,
+  "googleReviewCount": 1198,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a3d838ff5c169c40d26065c",
   "seededAt": "2026-06-25T19:37:51Z",
   "updatedAt": "2026-06-25T19:37:51Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10911778939062899308",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Pollo+Loco/data=!4m7!3m6!1s0x872b062df0764b33:0x976e6d21ca6ed26c!8m2!3d33.3786932!4d-111.9096611!16s%2Fg%2F1tw1f8yh!19sChIJM0t28C0GK4cRbNJuyiFtbpc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 84,
+    "2": 54,
+    "3": 116,
+    "4": 283,
+    "5": 661
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDYbrTUPW5TaIksCjngisrw9XR1lSJ2c7jtDMZjlkjKRU3mP1Hk8msvimGHXPR8pXn0wuYm9G5JfVFCWtCtJ0TMw3XWOpWX87KGf6F8enatCPU1-1zdyBFXxL5pfzyGEI2Ovby=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "unique-reflection-tempe",
+  "name": "Unique Reflection",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2201 S McClintock Dr Ste 3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4044497,
+  "lng": -111.90879269999999,
+  "phone": "+13176592397",
+  "googleMapsUrl": "https://www.google.com/maps/place/Unique+Reflection/data=!4m7!3m6!1s0x872b09581f0ab4e5:0x24f88ab2990fa03b!8m2!3d33.4044497!4d-111.9087927!16s%2Fg%2F11v5tdlz8y!19sChIJ5bQKH1gJK4cRO6APmbKK-CQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2664031679266398267",
+  "placeId": "ChIJ5bQKH1gJK4cRO6APmbKK-CQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 15,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCo8w7z2AO5BVirp5oc2D_jbeUC2Trmd9dH6qI8ynY-qQwxr7pNqeBLfR5N7crNeBGtC7UgshSGBfj72IDbTlAu0usAOr02WYA5kNgqteeciPZy-8lGaaSNZhZeJSvi74GTO0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 13
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

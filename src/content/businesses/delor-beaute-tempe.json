@@ -1,0 +1,49 @@
+{
+  "slug": "delor-beaute-tempe",
+  "name": "DeLor Beaute",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "secondaryCategories": [
+    "Body shaping class",
+    "Facial spa",
+    "Permanent make-up clinic",
+    "Skin care clinic"
+  ],
+  "address": "2155 E University Dr Unit 209",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4214467,
+  "lng": -111.89328239999999,
+  "phone": "+14802420539",
+  "googleMapsUrl": "https://www.google.com/maps/place/DeLor+Beaute/data=!4m7!3m6!1s0x6f0c831561ca6289:0x6cf1854737922d6c!8m2!3d33.4214467!4d-111.8932824!16s%2Fg%2F11q8g18lsf!19sChIJiWLKYRWDDG8RbC2SN0eF8Ww?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7850202166404984172",
+  "placeId": "ChIJiWLKYRWDDG8RbC2SN0eF8Ww",
+  "googleRating": 2.2,
+  "googleReviewCount": 13,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=076piMT6c89W1EX12eAZEg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=169.82277&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "5": 4
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

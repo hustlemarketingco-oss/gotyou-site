@@ -1,0 +1,47 @@
+{
+  "slug": "dolce-medical-spa-tempe",
+  "name": "Dolce Medical Spa - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "address": "1615 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3338883,
+  "lng": -111.91395109999999,
+  "phone": "+16027800526",
+  "website": "http://dolcemedicalspas.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dolce+Medical+Spa+-+Tempe/data=!4m7!3m6!1s0x872b075a93b5bfe9:0x9fcb54593f570785!8m2!3d33.3338883!4d-111.9139511!16s%2Fg%2F11ssf17770!19sChIJ6b-1k1oHK4cRhQdXP1lUy58?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11514389614594295685",
+  "placeId": "ChIJ6b-1k1oHK4cRhQdXP1lUy58",
+  "googleRating": 5,
+  "googleReviewCount": 481,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDfk5yC9w-S9Xhb-PAfnNJhfUkXpebEmxFGmrXOf6ADC3gqIcZ4yKZweSV6NNlVs-l4wbwVD4y5HlfD7DQGQ_NIFUWEnGZthd8MkL1DGOUgZmLTniy1L5BuDT_dF8E2SWTsxxAbQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 1,
+    "5": 474
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

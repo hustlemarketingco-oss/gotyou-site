@@ -1,0 +1,37 @@
+{
+  "slug": "national-car-wash-solutions-ncs-tempe",
+  "name": "National Car Wash Solutions (NCS)",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "945 S Hohokam Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4190515,
+  "lng": -111.97103369999999,
+  "website": "https://ncswash.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/National+Car+Wash+Solutions+%28NCS%29/data=!4m7!3m6!1s0x872b0f003522cab1:0xc5f2092469c9c3ab!8m2!3d33.4190515!4d-111.9710337!16s%2Fg%2F11wvyzcw8n!19sChIJscoiNQAPK4cRq8PJaSQJ8sU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14263473021834085291",
+  "placeId": "ChIJscoiNQAPK4cRq8PJaSQJ8sU",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

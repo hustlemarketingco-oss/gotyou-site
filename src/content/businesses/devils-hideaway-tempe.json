@@ -14,29 +14,18 @@
   "lng": -111.9397826,
   "phone": "+14806986646",
   "website": "https://drinkatdevils.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15757887410627829334",
+  "googleMapsUrl": "https://www.google.com/maps/place/Devil%27s+Hideaway/data=!4m7!3m6!1s0x872b0961026f1747:0xdaaf431c71125e56!8m2!3d33.4263771!4d-111.9397826!16s%2Fg%2F11vwm946pr!19sChIJRxdvAmEJK4cRVl4ScRxDr9o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15757887410627829334",
   "placeId": "ChIJRxdvAmEJK4cRVl4ScRxDr9o",
-  "googleRating": 4.1,
-  "googleReviewCount": 185,
+  "googleRating": 4,
+  "googleReviewCount": 211,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Devil's Hideaway is a casual, cozy bar & restaurant with alcohol & beer, dine-in.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/devilshideawayaz"
@@ -56,5 +45,14 @@
   "groundgameId": "6a2438634888d5145a039632",
   "seededAt": "2026-06-06T15:10:27Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 6,
+    "3": 9,
+    "4": 17,
+    "5": 137
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd12sT1JgsZo7h3nhXPzSYkdAcRxWIUeqdGn73Gd1COGjxR3OZ7QsclKD6syV-UC89HEv2l48JEserEvYVnvaqB5xqOVFPKhqcINAz7iguAbLEKlBPSViBMpqpFA1TzngaHgx8E=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

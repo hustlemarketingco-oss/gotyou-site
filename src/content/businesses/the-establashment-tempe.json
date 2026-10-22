@@ -1,0 +1,37 @@
+{
+  "slug": "the-establashment-tempe",
+  "name": "The EstabLASHment",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "address": "1140 W Alameda Dr Ste 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4006209,
+  "lng": -111.95718629999999,
+  "phone": "+14807977044",
+  "website": "https://www.styleseat.com/theestablashment",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+EstabLASHment/data=!4m7!3m6!1s0x872b0fc05956061d:0x36ec7ac6ad7177!8m2!3d33.4006209!4d-111.9571863!16s%2Fg%2F11wjck9qks!19sChIJHQZWWcAPK4cRd3GtxnrsNgA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15459660805796215",
+  "placeId": "ChIJHQZWWcAPK4cRd3GtxnrsNgA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HVj3zPkepPHhRwjRgixuIA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=332.65598&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

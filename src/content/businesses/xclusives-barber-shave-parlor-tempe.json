@@ -1,0 +1,47 @@
+{
+  "slug": "xclusives-barber-shave-parlor-tempe",
+  "name": "Xclusive's Barber & Shave Parlor",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2003 E 5th St #6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4254186,
+  "lng": -111.8995789,
+  "phone": "+14804346068",
+  "website": "http://xclusivesparlor.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Xclusive%27s+Barber+%26+Shave+Parlor/data=!4m7!3m6!1s0x872b0ac7f329afcb:0x995edc6f6ac1b73!8m2!3d33.4254186!4d-111.8995789!16s%2Fg%2F11byl2gc83!19sChIJy68p88cKK4cRcxus9sbtlQk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "690719556669021043",
+  "placeId": "ChIJy68p88cKK4cRcxus9sbtlQk",
+  "googleRating": 4.8,
+  "googleReviewCount": 124,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcitciCpA0AAtvSS5Kml0Uj8XwJUW6rtBG8aZH4RnzcZ8Z69Wlygg5jseL5O-N9PR1MwjQnrL8e72quA67dy_8JrbCSoAJTKjwfkRBjr2H6N5R0jId4soMTboIYa-0lR5a7V1le=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 3,
+    "3": 1,
+    "4": 1,
+    "5": 117
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

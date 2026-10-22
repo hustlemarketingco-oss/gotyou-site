@@ -16,13 +16,13 @@
   "website": "https://tacoboys.shop/",
   "placeId": "ChIJJ3p_v5UJK4cRRAIGBeVncN4",
   "googleRating": 4.5,
-  "googleReviewCount": 1094,
+  "googleReviewCount": 1144,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a29b909f875da836a2f68ea",
   "seededAt": "2026-06-10T19:20:41Z",
   "updatedAt": "2026-06-29T20:29:07Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16028425307141046852",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Boys/data=!4m7!3m6!1s0x872b0995bf7f7a27:0xde7067e505060244!8m2!3d33.4172461!4d-111.9260728!16s%2Fg%2F11rrwcznmx!19sChIJJ3p_v5UJK4cRRAIGBeVncN4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 72,
+    "2": 33,
+    "3": 40,
+    "4": 117,
+    "5": 882
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqg5rC37VwVslIb4DQH2gFAtz7dl-ijvzPd3db596GLwXaztVp3MsseqH5b5WBwh8Og-tUk-BqPcXRBUV792ktlKuYdYB9U_QbSA6wn_15aWU60TT6kQOcryAFid7y050YlEoSICNi3Y0=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

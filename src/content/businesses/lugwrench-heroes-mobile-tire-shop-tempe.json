@@ -1,0 +1,50 @@
+{
+  "slug": "lugwrench-heroes-mobile-tire-shop-tempe",
+  "name": "LugWrench Heroes Mobile Tire Shop",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Car battery store",
+    "Tire repair shop",
+    "Tire service",
+    "Wheel store"
+  ],
+  "address": "4665 S Ash Ave Ste G-7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3814147,
+  "lng": -111.94178939999999,
+  "phone": "+16024928495",
+  "website": "http://lugwrenchheroes.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/LugWrench+Heroes+Mobile+Tire+Shop/data=!4m7!3m6!1s0x872bb1c4dce5fefd:0xdc3bf535419fdccb!8m2!3d33.3814147!4d-111.9417894!16s%2Fg%2F11jv5fpy2x!19sChIJ_f7l3MSxK4cRy9yfQTX1O9w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15869547321053142219",
+  "placeId": "ChIJ_f7l3MSxK4cRy9yfQTX1O9w",
+  "googleRating": 5,
+  "googleReviewCount": 571,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeq6DafUTHlRcBxiPcTYmi1aw1ZwHheTyqDu_3adf34c68HDytyIKBBGtJ89fF85BziaEdZzTMR5Jgb9UmG5xCGAMmRKImCW7_ku99d5yTHLsFjcZ31JazqAYQ4RVOO52RmVwFC1py5R9MC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 6,
+    "5": 563
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

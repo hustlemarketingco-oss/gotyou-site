@@ -1,0 +1,53 @@
+{
+  "slug": "tempe-fit-body-boot-camp-tempe",
+  "name": "Tempe Fit Body Boot Camp",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Boot camp",
+    "Fitness center",
+    "Personal trainer",
+    "Physical fitness program",
+    "Weight loss service",
+    "Weightlifting area",
+    "Women's personal trainer"
+  ],
+  "address": "7450 S Priest Dr Ste 3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3510995,
+  "lng": -111.964592,
+  "phone": "+14803278276",
+  "website": "https://fitbodybootcamp.com/locations/tempe-az/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Fit+Body+Boot+Camp/data=!4m7!3m6!1s0x872b05c499985e43:0x715cf9a389cab9fe!8m2!3d33.3510995!4d-111.964592!16s%2Fg%2F11bz0sj0z2!19sChIJQ16YmcQFK4cR_rnKiaP5XHE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8168678304929987070",
+  "placeId": "ChIJQ16YmcQFK4cR_rnKiaP5XHE",
+  "googleRating": 4.8,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLenlGPESq4Nush6naTKrnEVZHkS3N5tRcQIf8IqriapRMZ-8lVCLypOab1hMvxFi7aMmRn_bw7FsZR5ybtBK4kKKVE8lHSa77QOxtXw8mlu13PQcriOudELHOQMeF9j5HjhKvODR5rTLpA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 2,
+    "4": 2,
+    "5": 46
+  },
+  "hours": {
+    "mon": "5:00 AM - 8:30 AM, 4:00 PM - 6:30 PM",
+    "tue": "5:00 AM - 8:30 AM, 4:00 PM - 6:30 PM",
+    "wed": "5:00 AM - 8:30 AM, 4:00 PM - 6:30 PM",
+    "thu": "5:00 AM - 8:30 AM, 4:00 PM - 6:30 PM",
+    "fri": "5:00 AM - 8:30 AM, 4:00 PM - 6:30 PM",
+    "sat": "8:00 AM - 9:30 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

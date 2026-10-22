@@ -14,12 +14,8 @@
   "phone": "+14804718159",
   "description": "Located in Tempe, Discount Nutrition Superstore is a vitamin & supplements store & health food store.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/discountnutritionsuperstore"
@@ -30,5 +26,31 @@
   "groundgameId": "6a2438dcfd3b86def6198033",
   "seededAt": "2026-06-06T15:12:28Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJLwQZ87gHK4cRvYaeMwLjlJA",
+  "googleCid": "10418201436610266813",
+  "googleMapsUrl": "https://www.google.com/maps/place/Discount+Nutrition+Superstore/data=!4m7!3m6!1s0x872b07b8f319042f:0x9094e302339e86bd!8m2!3d33.3649421!4d-111.9292711!16s%2Fg%2F11m5h5bdb5!19sChIJLwQZ87gHK4cRvYaeMwLjlJA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 5,
+  "googleReviewCount": 721,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 711
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4_h-quneWe3IVVu8DNZI7VoQbAC567ourzsQM6xOh8PeDqf7QdcpUgGOkfdMkziEHhF2M4mnYDIlpBKOvJ1z9lI_ig5_1zBnN7lQBEbJh_oHxgAkwh6le0M_1z9pA7THUhkMbvUnSyaGt=w1200-h800-k-no",
+  "website": "https://www.discountnutritionsuperstore.com/",
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "lat": 33.3649421,
+  "lng": -111.9292711,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

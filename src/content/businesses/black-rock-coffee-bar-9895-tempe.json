@@ -17,7 +17,7 @@
   "website": "https://www.br.coffee/locations/priest-ray",
   "placeId": "ChIJJZ4nizwFK4cRZH2S-imvOLs",
   "googleRating": 4.2,
-  "googleReviewCount": 284,
+  "googleReviewCount": 304,
   "priceRange": "$",
   "hours": {
     "mon": "5:00 AM - 9:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a5172537e388605152707ad",
   "seededAt": "2026-07-10T22:29:39Z",
   "updatedAt": "2026-07-10T22:29:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13490725278620745060",
+  "googleMapsUrl": "https://www.google.com/maps/place/Black+Rock+Coffee+Bar/data=!4m7!3m6!1s0x872b053c8b279e25:0xbb38af29fa927d64!8m2!3d33.3211603!4d-111.9623912!16s%2Fg%2F11pdykj4wt!19sChIJJZ4nizwFK4cRZH2S-imvOLs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 31,
+    "2": 13,
+    "3": 21,
+    "4": 37,
+    "5": 202
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvIIhzTaIMZoUhAoNrSjNuly8SgIR5vOdLbhLPHKPwSVZqMrr1QguKM2aD-EXJN_bAeta_JaKMFd7pN49rrwqHE5bH4mXeYzpGBliLxAbjVmooQtDHSZLU2lKTd8T53QCxsHa9mA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

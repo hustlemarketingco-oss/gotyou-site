@@ -1,0 +1,38 @@
+{
+  "slug": "stranger-tempe",
+  "name": "Stranger",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "928 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4197919,
+  "lng": -111.940263,
+  "phone": "+14809399175",
+  "website": "http://strangerusa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Stranger/data=!4m7!3m6!1s0x872b0990a2373cc7:0xd92904d324b8a979!8m2!3d33.4197919!4d-111.940263!16s%2Fg%2F11zdzd1smx!19sChIJxzw3opAJK4cReam4JNMEKdk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15648043685176191353",
+  "placeId": "ChIJxzw3opAJK4cReam4JNMEKdk",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCk0BtLyvJcGyqllb6yaqicfwUKHfOeJnpuwe0UsFRm6Q2gOCk33Z6UxNBPEFdh3TmeQFWEHJuulGrz2LAJkdoG-l7l2l346LHDdwbrgF6pT1qTOirGBZOQSKw1u4oo3V2jyfc3ogm9LX-=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

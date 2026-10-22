@@ -1,0 +1,33 @@
+{
+  "slug": "the-spaghetti-shack-tempe",
+  "name": "The Spaghetti Shack",
+  "category": "Fast Food",
+  "googleCategory": "Takeout Restaurant",
+  "address": "6340 S Rural Rd #114",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3650893,
+  "lng": -111.92921679999999,
+  "phone": "+14806872485",
+  "website": "http://www.thespaghettishack.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Spaghetti+Shack/data=!4m7!3m6!1s0x872b076279774491:0x722b225261404e61!8m2!3d33.3650893!4d-111.9292168!16s%2Fg%2F11smmjv2yq!19sChIJkUR3eWIHK4cRYU5AYVIiK3I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8226706881536609889",
+  "placeId": "ChIJkUR3eWIHK4cRYU5AYVIiK3I",
+  "googleRating": 4.6,
+  "googleReviewCount": 210,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9IZ3IpdPDDwO86O2x96tMBeN9k9plKAPEPek29bnlvC-tFozEYDrWYVS97uvgxXhvS0yUbH8oCrfiQsqMpJ88fuLtuVaIWgX8RyoNQqoKC09lRHvbXizPNhnDBpQNd7r8iY9C=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 3,
+    "3": 9,
+    "4": 15,
+    "5": 172
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

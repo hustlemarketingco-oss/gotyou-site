@@ -1,0 +1,46 @@
+{
+  "slug": "connections-cafe-tempe",
+  "name": "Connections Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "Tempe Public Library, 3500 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3913145,
+  "lng": -111.92806259999999,
+  "phone": "+14803505490",
+  "website": "https://www.tempefriends.org/contact/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Connections+Cafe/data=!4m7!3m6!1s0x872b0951682238a5:0xc36099f05f58fb86!8m2!3d33.3913145!4d-111.9280626!16s%2Fg%2F11h52rcf4c!19sChIJpTgiaFEJK4cRhvtYX_CZYMM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14078421692831038342",
+  "placeId": "ChIJpTgiaFEJK4cRhvtYX_CZYMM",
+  "googleRating": 4.2,
+  "googleReviewCount": 12,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLed4hgVp422ycLpl74nE5NesfWGWVA73AkrBMlJgDwpNGiL7I5BDh_eKQyNhDA0-XmpyXOIDGkoP53xflcs1xYlp_5yb6JmDCp44QO7DksOQe1xTmJavUX7QozRxjg0V0oRkSwOAA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 3,
+    "5": 8
+  },
+  "hours": {
+    "mon": "9:00 AM - 4:30 PM",
+    "tue": "9:00 AM - 4:30 PM",
+    "wed": "9:00 AM - 4:30 PM",
+    "thu": "9:00 AM - 4:30 PM",
+    "fri": "9:00 AM - 4:30 PM",
+    "sat": "9:00 AM - 4:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

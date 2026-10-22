@@ -1,0 +1,43 @@
+{
+  "slug": "aura-tempe",
+  "name": "Aura",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1800 E Rio Salado Pkwy Unit 170 Suite 142",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+13045342258",
+  "website": "https://aurahairedit.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aura/data=!4m7!3m6!1s0x872b098e486a247d:0x1f8c1e8f9c1cf1d5!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11zg7c79_q!19sChIJfSRqSI4JK4cR1fEcnI8ejB8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2273225514063557077",
+  "placeId": "ChIJfSRqSI4JK4cR1fEcnI8ejB8",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZllfSQNykP5omT7jyXgHYkdDmMhPK5jYH1XjpCv9xm_laTAXYd-XKEc6d1h7Quw6FQoD1bnx8iCc4Gm7JK6tT8KJtmnEIRUdNJhD5KKiVaz6E3m-yfr41mS1AFm818FI35M1_C-BguE4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "buckets-of-ink-tempe",
+  "name": "Buckets Of Ink",
+  "category": "Shopping",
+  "googleCategory": "Screen printing supply store",
+  "secondaryCategories": [
+    "Digital printer",
+    "Embroidery shop",
+    "Print shop"
+  ],
+  "address": "906 S Priest Dr #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4192774,
+  "lng": -111.96158709999999,
+  "phone": "+14802297806",
+  "website": "http://www.bucketsofink.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buckets+Of+Ink/data=!4m7!3m6!1s0x872b0ed9894ffe1d:0x916b0ac054d1db6!8m2!3d33.4192774!4d-111.9615871!16s%2Fg%2F1tf3pc7h!19sChIJHf5PidkOK4cRth1NBaywFgk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "654905048698789302",
+  "placeId": "ChIJHf5PidkOK4cRth1NBaywFgk",
+  "googleRating": 4.8,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlvus8rsibqkgbxq4qLEx591FOf-xnK93x9N7jMwtKrpLhO8_PWnSLE1-X89F4JNk2SCdgNKnT84ueoaTY7zkzImT-Sow65qIEVLOs0-4vvzWCv7nrFMbcLUGrmO7kd3Z71li49h0O4mdf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 17
+  },
+  "hours": {
+    "mon": "7:30 AM - 4:00 PM",
+    "tue": "7:30 AM - 4:00 PM",
+    "wed": "7:30 AM - 4:00 PM",
+    "thu": "7:30 AM - 4:00 PM",
+    "fri": "7:30 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

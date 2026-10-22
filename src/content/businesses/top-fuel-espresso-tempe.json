@@ -16,8 +16,8 @@
   "phone": "+14805992898",
   "website": "https://tfespresso.us/",
   "placeId": "ChIJObEN1bcJK4cRCo3zUY1TWSc",
-  "googleRating": 4,
-  "googleReviewCount": 183,
+  "googleRating": 4.1,
+  "googleReviewCount": 188,
   "priceRange": "$",
   "hours": {
     "mon": "5:00 AM - 4:00 PM",
@@ -34,5 +34,20 @@
   "groundgameId": "6a342092d291b6960b1f5206",
   "seededAt": "2026-06-18T16:45:06Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2835389306836847882",
+  "googleMapsUrl": "https://www.google.com/maps/place/Top+Fuel+Espresso/data=!4m7!3m6!1s0x872b09b7d50db139:0x2759538d51f38d0a!8m2!3d33.4468818!4d-111.9268481!16s%2Fg%2F11k3pn83fz!19sChIJObEN1bcJK4cRCo3zUY1TWSc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 6,
+    "3": 8,
+    "4": 7,
+    "5": 134
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaFwACfyeXkEhbeCrMaVcymOWlB0ydnhYfuPbMo25jIuhOQCpIMhg74cSuluB_2bObf9r1l2aZ_mCqzQxfgYXwW0yRmHWXQMG6mKIVpX8CXai6SOf5nke8Dju0WMENUWCQ3-A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

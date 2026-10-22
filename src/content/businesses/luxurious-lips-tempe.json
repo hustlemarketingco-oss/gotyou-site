@@ -1,0 +1,42 @@
+{
+  "slug": "luxurious-lips-tempe",
+  "name": "Luxurious lips",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "209 E Baseline Rd Ste E204",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377523,
+  "lng": -111.9368806,
+  "phone": "+14808438514",
+  "website": "http://luxuriouslips.net/?utm_source=gmb&utm_medium=referral",
+  "googleMapsUrl": "https://www.google.com/maps/place/Luxurious+lips/data=!4m7!3m6!1s0x872b07a93c3ac2d9:0xd6e3ebe3b33d6e73!8m2!3d33.377523!4d-111.9368806!16s%2Fg%2F11k39g831y!19sChIJ2cI6PKkHK4cRc249s-Pr49Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15484479307027148403",
+  "placeId": "ChIJ2cI6PKkHK4cRc249s-Pr49Y",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GUe9nifd8ajCTxOBqOoghw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=13.361972&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "6:00 PM - 9:00 PM",
+    "tue": "6:00 PM - 9:00 PM",
+    "wed": "6:00 PM - 9:00 PM",
+    "thu": "6:00 PM - 9:00 PM",
+    "fri": "5:30 PM - 9:00 PM",
+    "sat": "6:00 PM - 9:00 PM",
+    "sun": "6:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "blowout-breathe-studio-tempe",
+  "name": "Blowout + Breathe Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Health and beauty shop",
+  "address": "1800 E Rio Salado Pkwy 170 Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+16027174434",
+  "website": "https://blowoutandbreathestudio.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Blowout+%2B+Breathe+Studio/data=!4m7!3m6!1s0x872b09043b345e3b:0x99083fad662b63a5!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11zh_qt_nt!19sChIJO140OwQJK4cRpWMrZq0_CJk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11027133701592671141",
+  "placeId": "ChIJO140OwQJK4cRpWMrZq0_CJk",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8EJXC6lVNF963Tw6CM8oj0osSc8frdzAqwqUdhRZrhLCg0jHQK612V7ymbeDYO0lKTy3VDG7-m6gBUmhJ0_RclUEQcYiWLlg5IGF44MCAZWnM7xhrkqpJ6bZJCRqjaIwqGM2HNluYGWbd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:30 AM - 4:30 PM",
+    "thu": "11:30 AM - 6:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

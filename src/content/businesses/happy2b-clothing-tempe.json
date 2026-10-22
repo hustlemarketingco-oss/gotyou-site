@@ -1,0 +1,26 @@
+{
+  "slug": "happy2b-clothing-tempe",
+  "name": "Happy2b Clothing",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "not",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3897501,
+  "lng": -111.93431609999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Happy2b+Clothing/data=!4m7!3m6!1s0x872b0981f60cfa73:0xf68acade59268b5d!8m2!3d33.3897501!4d-111.9343161!16s%2Fg%2F11svblr25p!19sChIJc_oM9oEJK4cRXYsmWd7KivY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17765234736443591517",
+  "placeId": "ChIJc_oM9oEJK4cRXYsmWd7KivY",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c96PbjQ6d5DrysXu3gdtRQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=358.80582&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

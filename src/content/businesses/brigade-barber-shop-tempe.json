@@ -1,0 +1,47 @@
+{
+  "slug": "brigade-barber-shop-tempe",
+  "name": "Brigade Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "3119 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3948256,
+  "lng": -111.9389581,
+  "phone": "+14809667727",
+  "website": "https://www.brigadebarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brigade+Barber+Shop/data=!4m7!3m6!1s0x872b08bab42bbf1d:0x388af24dc2ac444d!8m2!3d33.3948256!4d-111.9389581!16s%2Fg%2F11btwv8gj4!19sChIJHb8rtLoIK4cRTUSswk3yijg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4074335228702508109",
+  "placeId": "ChIJHb8rtLoIK4cRTUSswk3yijg",
+  "googleRating": 4.7,
+  "googleReviewCount": 302,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUzPR8mphJY9zg-_gD4_epMOBRwnk1NGJ_KSO1GEn_opc1gYU1PaIRLoKLZ3afnEhfbfH2_XzmFJRme9WKMggaMx60hvMujTnDhluqPVV4jCxC1-mg1ptXlWuBESfviETpdJEi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 3,
+    "3": 3,
+    "4": 13,
+    "5": 268
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

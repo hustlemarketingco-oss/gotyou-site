@@ -1,0 +1,58 @@
+{
+  "slug": "pizza-grill-tempe",
+  "name": "Pizza & Grill",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Catering food and drink supplier",
+    "Chicken wings restaurant",
+    "Greek restaurant",
+    "Gyro restaurant",
+    "Halal restaurant",
+    "Pasta shop",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "1428 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.445055599999996,
+  "lng": -111.9268986,
+  "phone": "+14803664563",
+  "website": "https://pizzamidlleeasternkitchen.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pizza+%26+Grill/data=!4m7!3m6!1s0x872b0915dd610639:0x4478e4b0827b2c82!8m2!3d33.4450556!4d-111.9268986!16s%2Fg%2F11f53tzn85!19sChIJOQZh3RUJK4cRgix7grDkeEQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4933944838538865794",
+  "placeId": "ChIJOQZh3RUJK4cRgix7grDkeEQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 931,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvPvtkRFFFhLhgeaMz2BEJVuR35z_X3A31mfBZBPt1BwqJwBhzaoqI56wJp3ecRt6LC8jBUhIXsMU2Mba4G47AgyTFy_ViExxNkzbKYo7RfI9m9rbrLPcSo947Xun05KiZ3bn1=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 14,
+    "3": 17,
+    "4": 14,
+    "5": 828
+  },
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 1:00 AM",
+    "fri": "1:00 PM - 1:00 AM",
+    "sat": "1:00 PM - 12:00 AM",
+    "sun": "11:00 AM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

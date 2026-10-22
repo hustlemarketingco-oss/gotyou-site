@@ -1,0 +1,37 @@
+{
+  "slug": "good-hair-day-studio-tempe",
+  "name": "Good Hair Day Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1800 E Rio Salado Pkwy Ste 170 Suite 123",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+18189413109",
+  "website": "https://goodhairday.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Good+Hair+Day+Studio/data=!4m7!3m6!1s0x872b09a4f23ae613:0xc5671bef37192396!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11zgm7pjpx!19sChIJE-Y68qQJK4cRliMZN-8bZ8U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14224368662308529046",
+  "placeId": "ChIJE-Y68qQJK4cRliMZN-8bZ8U",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsz1zkzo1rfk05yNGeqeseqT4v9URiq_YVrdRZprmWuvkTx3n7scInmJXNQdQf6igZqGtcrS7U_YX2bgv8NBemK3J1y1PC5epM0M6HeymT_6saEnMekae85Ddf_ibo-ZvcOa4uGoluGNI0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 4:00 AM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

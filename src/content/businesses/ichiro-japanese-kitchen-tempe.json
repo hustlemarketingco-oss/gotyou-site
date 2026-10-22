@@ -1,0 +1,44 @@
+{
+  "slug": "ichiro-japanese-kitchen-tempe",
+  "name": "Ichiro Japanese kitchen",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+19097910375",
+  "website": "https://ichiroaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ichiro+Japanese+kitchen/data=!4m7!3m6!1s0x872b09005949fcab:0xe687afd7bd5ae627!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11y3y6qsv5!19sChIJq_xJWQAJK4cRJ-Zavdevh-Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16611439091709044263",
+  "placeId": "ChIJq_xJWQAJK4cRJ-Zavdevh-Y",
+  "googleRating": 4,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFJIAZ55imj3LpJDEhlkjb7rMJfQw1iGGr_EiVZQjht6IW6IXD34p4jJ5rQLBJkcZbs_o0fgy8eFSZ0WoG1hUQqAHuRvXYPo0aGepwpK1YokOqmlQEjw6NLMzjTbkeK6Om4ebz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 6
+  },
+  "hours": {
+    "mon": "5:00 PM - 1:00 AM",
+    "tue": "Closed",
+    "wed": "5:00 PM - 1:00 AM",
+    "thu": "5:00 PM - 1:00 AM",
+    "fri": "5:00 PM - 1:00 AM",
+    "sat": "5:00 PM - 1:00 AM",
+    "sun": "5:00 PM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "arizona-circus-center-tempe",
+  "name": "Arizona Circus Center",
+  "category": "Health & Beauty",
+  "googleCategory": "Physical fitness program",
+  "address": "7425 S Harl Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.351151,
+  "lng": -111.9660361,
+  "phone": "+16238508155",
+  "website": "http://www.arizonacircuscenter.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Circus+Center/data=!4m7!3m6!1s0x872b05c499086e25:0x7f18a1539e0a75b9!8m2!3d33.351151!4d-111.9660361!16s%2Fg%2F11b7w8lxq3!19sChIJJW4ImcQFK4cRuXUKnlOhGH8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9158247222763746745",
+  "placeId": "ChIJJW4ImcQFK4cRuXUKnlOhGH8",
+  "googleRating": 4.9,
+  "googleReviewCount": 182,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDfhyH2Eryjq43HGzHTHVpmdl1EqRLWvm01Pk9TxO96PgMN6easthZPCnWKVK1tXAcYKYhBVHLWFN7tIRgOe-6a9D5bwFQk2KvvizAkXzIR3WFQRutTWoym3-x51uw7WIxqNI-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "3": 1,
+    "4": 7,
+    "5": 173
+  },
+  "hours": {
+    "mon": "3:00 PM - 10:00 PM",
+    "tue": "3:00 PM - 10:00 PM",
+    "wed": "3:00 PM - 8:30 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "Closed",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "11:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

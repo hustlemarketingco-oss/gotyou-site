@@ -1,0 +1,46 @@
+{
+  "slug": "brow-bar-pepperwood-plaza-tempe",
+  "name": "Brow Bar - Pepperwood Plaza",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyebrow bar",
+  "address": "825 W Baseline Rd Ste 6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377190299999995,
+  "lng": -111.95201349999999,
+  "phone": "+19285003373",
+  "website": "https://www.browthreaders.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brow+Bar+-+Pepperwood+Plaza/data=!4m7!3m6!1s0x872b0fc8025e74d7:0xb22cb93fcf022f65!8m2!3d33.3771903!4d-111.9520135!16s%2Fg%2F11rrqm4w9s!19sChIJ13ReAsgPK4cRZS8Czz-5LLI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12838840321433546597",
+  "placeId": "ChIJ13ReAsgPK4cRZS8Czz-5LLI",
+  "googleRating": 4.7,
+  "googleReviewCount": 316,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhfUloQ2CbU2dY2P2vMkpMT_mXTDgqiY8b-yHiijowUbS_feG3nSKlHlCSWdQiHL_Sfetbc4_VTXMwvXpBfGt3DekF1op-py5LWIUtqbju8KFyDHTfEWFBxW7idCgT1Ad2nl7d=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 290
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

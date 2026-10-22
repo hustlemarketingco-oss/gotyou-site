@@ -1,0 +1,50 @@
+{
+  "slug": "fan-outfitters-tempe",
+  "name": "Fan Outfitters Tempe",
+  "category": "Shopping",
+  "googleCategory": "Hat shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Embroidery service",
+    "Embroidery shop",
+    "Sports memorabilia store",
+    "Sportswear store"
+  ],
+  "address": "740 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4226977,
+  "lng": -111.940372,
+  "phone": "+16023251152",
+  "website": "http://www.fanoutfitters.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fan+Outfitters+Tempe/data=!4m7!3m6!1s0x872b092b3cf59029:0xf1a092b8a68bfde2!8m2!3d33.4226977!4d-111.940372!16s%2Fg%2F11krbt8df9!19sChIJKZD1PCsJK4cR4v2LpriSoPE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17411077481180167650",
+  "placeId": "ChIJKZD1PCsJK4cR4v2LpriSoPE",
+  "googleRating": 4.4,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfFsY11IIJlwsvJpNbL4-Upv2o0kFcI3Tvmpjh1YMaZmxg0ZkactG1p6Lc_OnGd60NnqMiHmFe8NVE3h5Rm0_cBUDrm_MYoj1HEZ-BoP9dpBOKOL5gxRIl7nyL8G0LzJdPw4IU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

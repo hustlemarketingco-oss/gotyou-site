@@ -1,0 +1,47 @@
+{
+  "slug": "petsmart-grooming-1140-tempe",
+  "name": "PetSmart Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "1140 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3507957,
+  "lng": -111.957,
+  "phone": "+14807553324",
+  "website": "https://stores.petsmart.com/az/tempe/tempe-elliot-rd/grooming?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
+  "googleMapsUrl": "https://www.google.com/maps/place/PetSmart+Grooming/data=!4m7!3m6!1s0x872b05d99d6af3c5:0xe81342e4842e5ade!8m2!3d33.3507957!4d-111.957!16s%2Fg%2F11cktcq2rz!19sChIJxfNqndkFK4cR3louhORCE-g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16722783390594390750",
+  "placeId": "ChIJxfNqndkFK4cR3louhORCE-g",
+  "googleRating": 4,
+  "googleReviewCount": 40,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_9LbNibw3Smf88tG_noE1D0QnJn1OBd1tIS0zZAwxcsLz_3Zr9TtvkCoQugMYx9tXLVJsX0Y1yUuuLU7CaBxKbxMYjQVNPEdQhnnipYIeDG4cPvv2tk_6rpNFY0xF3Yw5W5tF=w1200-h800-k-no",
+  "description": "Offshoot of the pet store chain focused on grooming services, including nail & ear care.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 23
+  },
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

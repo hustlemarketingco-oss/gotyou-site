@@ -2,7 +2,7 @@
   "slug": "original-biscuits-restaurant-tempe",
   "name": "Original Biscuits restaurant",
   "category": "Restaurant",
-  "googleCategory": "Breakfast restaurant",
+  "googleCategory": "American restaurant",
   "secondaryCategories": [
     "American restaurant"
   ],
@@ -14,31 +14,18 @@
   "lng": -111.9096367,
   "phone": "+14805208146",
   "website": "https://biscuitsrestaurants.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14879268885588831548",
+  "googleMapsUrl": "https://www.google.com/maps/place/Original+Biscuits+restaurant/data=!4m7!3m6!1s0x872b0655cd9121e9:0xce7dc837bb0b6d3c!8m2!3d33.3486028!4d-111.9096367!16s%2Fg%2F1q67qy7ws!19sChIJ6SGRzVUGK4cRPG0LuzfIfc4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14879268885588831548",
   "placeId": "ChIJ6SGRzVUGK4cRPG0LuzfIfc4",
   "googleRating": 4.5,
-  "googleReviewCount": 1323,
+  "googleReviewCount": 1351,
   "priceRange": "$10–20",
   "description": "Local chain serving breakfast, burgers, fried fish & American comfort food in a relaxed setting.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "7:00 AM - 8:00 PM",
@@ -55,5 +42,14 @@
   "groundgameId": "6a2439a734f67885c7b8ce98",
   "seededAt": "2026-06-06T15:15:51Z",
   "updatedAt": "2026-06-06T15:15:51Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 39,
+    "3": 62,
+    "4": 252,
+    "5": 966
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuSavN2rC86Hhl6OlNLnM6FZ9Fpn8kR6l_3aYEmH_7sDHzRemwPsWmoy6UNrn4uKWNK-RY8uaSKPerqKyZnSzVJBRpJPwpVZP-V2c3g308CuvbX6bVSkFRf7DiUCsQnWrv-iPoirEDP04=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "jk-boots-phoenix-tempe",
+  "name": "JK Boots Phoenix",
+  "category": "Shopping",
+  "googleCategory": "Boot store",
+  "address": "725 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3627281,
+  "lng": -111.93048089999999,
+  "phone": "+16232639366",
+  "website": "http://jkboots.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/JK+Boots+Phoenix/data=!4m7!3m6!1s0x872b07b7ed65e865:0x312b0d6f25d3ba09!8m2!3d33.3627281!4d-111.9304809!16s%2Fg%2F11sg6_sjl8!19sChIJZehl7bcHK4cRCbrTJW8NKzE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3542940302884190729",
+  "placeId": "ChIJZehl7bcHK4cRCbrTJW8NKzE",
+  "googleRating": 4.9,
+  "googleReviewCount": 95,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehnwkjXhyzZPu6EwpzZR1RVlVH93hsuaholIMLAacTe0jB30e4dlUgaaSNWjrqVKn_eYimQ3buknigN2LzsTBoy0vZ0oXuELS1phFeo91chczYgxFXIaemmR7voWi-UcIkaY55jw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 3,
+    "5": 90
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

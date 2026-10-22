@@ -1,0 +1,47 @@
+{
+  "slug": "dance-101-tempe",
+  "name": "Dance 101",
+  "category": "Health & Beauty",
+  "googleCategory": "Dance school",
+  "secondaryCategories": [
+    "Ballet school",
+    "Hip hop dance class"
+  ],
+  "address": "6426 S McClintock Dr Ste 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3631668,
+  "lng": -111.9126254,
+  "phone": "+14808394952",
+  "website": "https://www.mydance101.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dance+101/data=!4m7!3m6!1s0x872b064b96114c41:0x6a7eafdc96c83936!8m2!3d33.3631668!4d-111.9126254!16s%2Fg%2F1hf1rzjk3!19sChIJQUwRlksGK4cRNjnIltyvfmo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7673764177043274038",
+  "placeId": "ChIJQUwRlksGK4cRNjnIltyvfmo",
+  "googleRating": 5,
+  "googleReviewCount": 81,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQBLeGL2ido6lABvkxpM6vD93eP6V-lyuRCVWvZiHdowCE68XZAFzXSP4hL52cw4wV_BDQa2k2We_cVKPsnMkEIaAcGvhh4IUEkZhctcXcBN8hHDi6hieoJXDc4qmt9HLePwCGxQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 80
+  },
+  "hours": {
+    "mon": "3:00 PM - 9:00 PM",
+    "tue": "3:00 PM - 9:00 PM",
+    "wed": "3:00 PM - 9:00 PM",
+    "thu": "3:00 PM - 9:00 PM",
+    "fri": "Closed",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

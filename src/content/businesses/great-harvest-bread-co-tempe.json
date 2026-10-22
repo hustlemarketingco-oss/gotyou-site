@@ -16,22 +16,10 @@
   "priceRange": "$10–20",
   "description": "Bakery chain specializing in whole-grain breads & muffins made with Montana wheat.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/TempeGHB"
@@ -42,5 +30,31 @@
   "groundgameId": "6a24397a86b674d4edab4ccb",
   "seededAt": "2026-06-06T15:15:06Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJtZp7LfsGK4cRgJmXSEvKo_c",
+  "googleCid": "17844328573261289856",
+  "googleMapsUrl": "https://www.google.com/maps/place/Great+Harvest+Bread+Co./data=!4m7!3m6!1s0x872b06fb2d7b9ab5:0xf7a3ca4b48979980!8m2!3d33.3352376!4d-111.9123455!16s%2Fg%2F1tcy9c43!19sChIJtZp7LfsGK4cRgJmXSEvKo_c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 374,
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 14,
+    "3": 15,
+    "4": 41,
+    "5": 295
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRX2e5EaiZMm9RrewNTxk5fUCrvjEkZoc_qgJEIbVYF6efPMhH88rN-fJlmD2Dy9vOj9wf078dvVWiz7EhiSa3sZHBb7xq3-4tDPUuqpa4Dv5XG-Akghlb1dreImXM6I0vJpmdtythMdjA=w1200-h800-k-no",
+  "website": "http://www.tempegreatharvest.com/",
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "lat": 33.3352376,
+  "lng": -111.9123455,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "urban-soul-tempe",
+  "name": "Urban Soul",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "123 E Baseline Rd d105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775566,
+  "lng": -111.9378871,
+  "phone": "+14804920227",
+  "website": "http://myurbansoul.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urban+Soul/data=!4m7!3m6!1s0x872b079c4552b343:0x3b0e9e6a4ec7f4de!8m2!3d33.3775566!4d-111.9378871!16s%2Fg%2F11s1rnlljd!19sChIJQ7NSRZwHK4cR3vTHTmqeDjs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4255512877337146590",
+  "placeId": "ChIJQ7NSRZwHK4cR3vTHTmqeDjs",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFC4PRKpikPLOKpMxIv7qLaReT0dxb0dX3kiZ9FvdGH6V_yuNHbzg6hqxELrwCbpDG4hPI5uk-aJkmqrfXFtUkEHm8CWrHiuQTbFRE4dNu-2bh3jKmS1xbPeFfMBRXAtL--FngLQAuCAI0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

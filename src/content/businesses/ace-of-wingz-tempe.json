@@ -1,0 +1,39 @@
+{
+  "slug": "ace-of-wingz-tempe",
+  "name": "Ace of Wingz",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "address": "825 W Baseline Rd ste 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377223,
+  "lng": -111.95204899999999,
+  "phone": "+16023141400",
+  "website": "http://aceofwingz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ace+of+Wingz/data=!4m7!3m6!1s0x872b07cb6cc64575:0x28f79f5e78842e94!8m2!3d33.377223!4d-111.952049!16s%2Fg%2F11zybb1h2h!19sChIJdUXGbMsHK4cRlC6EeF6f9yg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2952003308862320276",
+  "placeId": "ChIJdUXGbMsHK4cRlC6EeF6f9yg",
+  "googleRating": 4.9,
+  "googleReviewCount": 107,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUhBRq7mkkPxpjfi2FxIRhpry8PG3Mr-SF5ndR3YhX3gJnqATvnoRfr23ox0-LZEgUaejMK7hhlK7wnu07vops2huquj0UCXP2MFQz4e9AR0mlN2HEvUV30CZTpSZ0GCqZLFeOFDFoDNlV=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "4": 6,
+    "5": 101
+  },
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 12:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

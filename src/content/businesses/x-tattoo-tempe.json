@@ -1,0 +1,43 @@
+{
+  "slug": "x-tattoo-tempe",
+  "name": "X - Tattoo",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo removal service",
+  "address": "5005 S Ash Ave Ste a-19",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3792925,
+  "lng": -111.94005779999999,
+  "phone": "+14803064198",
+  "website": "http://tempetattooremoval.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/X+-+Tattoo/data=!4m7!3m6!1s0x872b061cb595aab1:0x2892d27b3fd0b430!8m2!3d33.3792925!4d-111.9400578!16s%2Fg%2F12hkblkzl!19sChIJsaqVtRwGK4cRMLTQP3vSkig?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2923630534910325808",
+  "placeId": "ChIJsaqVtRwGK4cRMLTQP3vSkig",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ockn-TqLOn_cb9AiiokVnw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=359.92972&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "6:30 AM - 12:30 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

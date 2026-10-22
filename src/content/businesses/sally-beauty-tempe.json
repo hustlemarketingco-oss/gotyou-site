@@ -1,0 +1,51 @@
+{
+  "slug": "sally-beauty-tempe",
+  "name": "Sally Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty supply store",
+  "secondaryCategories": [
+    "Barber supply store",
+    "Cosmetics store"
+  ],
+  "address": "1628 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394235099999996,
+  "lng": -111.91184349999999,
+  "phone": "+14803452082",
+  "website": "https://stores.sallybeauty.com/az/tempe/beauty-supply-tempe-az-559.html?utm_source=GMBlisting&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sally+Beauty/data=!4m7!3m6!1s0x872b08840ae743e1:0x9c2188873d5fd68d!8m2!3d33.3942351!4d-111.9118435!16s%2Fg%2F1xtf20ls!19sChIJ4UPnCoQIK4cRjdZfPYeIIZw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11250423458579863181",
+  "placeId": "ChIJ4UPnCoQIK4cRjdZfPYeIIZw",
+  "googleRating": 4.3,
+  "googleReviewCount": 133,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUvUJmEuRmlyuWAn040gih6rOrHzkQZJBh5zpCuMNvDGUpZT0yQKAxPQbhC-9DxXQSuG29ph9y5MD1LtgCAkk4sofnSSiDrlZjTU-RqGjUDyKetlMgWQfHus3k-BwvMWdan7J8P2egFqc=w1200-h800-k-no",
+  "description": "Cosmetics chain offering brand-name beauty products & supplies, including salon equipment.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 7,
+    "3": 9,
+    "4": 7,
+    "5": 98
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

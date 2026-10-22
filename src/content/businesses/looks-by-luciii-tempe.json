@@ -1,0 +1,43 @@
+{
+  "slug": "looks-by-luciii-tempe",
+  "name": "Looks by Luciii",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "115 W 6th St Ste 125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241101,
+  "lng": -111.941969,
+  "phone": "+14806698847",
+  "website": "https://looksbyluciii.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Looks+by+Luciii/data=!4m7!3m6!1s0x872b09c90c053ebb:0xed08c91cc9d52fc6!8m2!3d33.4241101!4d-111.941969!16s%2Fg%2F11y5ny5frg!19sChIJuz4FDMkJK4cRxi_VyRzJCO0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17080122712285065158",
+  "placeId": "ChIJuz4FDMkJK4cRxi_VyRzJCO0",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL1jy3gOsYMhB-bx7WFWZoSlHbwzrYBOhdaBwCOiefyzAqgD6LgcpbHnmhmPbLGVYJkBMUxhDnL9CbDt-cb1epoUhdW2lDcn917HcSCk6kxHrm9r8KQq4xcBDLOKFPwjxy-Mng=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "11:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "mens-wearhouse-tempe",
+  "name": "Men's Wearhouse",
+  "category": "Shopping",
+  "googleCategory": "Men's clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Dress and tuxedo rental service",
+    "Formal wear store",
+    "Men's tailor",
+    "Outerwear store",
+    "Shoe store",
+    "Tuxedo shop",
+    "Wedding store"
+  ],
+  "address": "2010 E Rio Salado Pkwy Ste 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4317681,
+  "lng": -111.90269049999999,
+  "phone": "+14809213360",
+  "website": "https://www.menswearhouse.com/store-locator/2502",
+  "googleMapsUrl": "https://www.google.com/maps/place/Men%27s+Wearhouse/data=!4m7!3m6!1s0x872b08543fe88425:0x1f14e0a8af49ff5!8m2!3d33.4317681!4d-111.9026905!16s%2Fg%2F1tfcntd1!19sChIJJYToP1QIK4cR9Z_0igpO8QE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "139978870613123061",
+  "placeId": "ChIJJYToP1QIK4cR9Z_0igpO8QE",
+  "googleRating": 4.6,
+  "googleReviewCount": 665,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5T7zPRj2_gXiFjVENmFt6lCmiFvTTNEKrTuo8SamOd5zchNIPgVGIAHykcRdTfXSXCCvza-7FFcBS438antKHXY3EOTlbnFN1crfhwihEFqahYgck5wMAqm65Gh-ZXheC3UOoCIhXfcoq=w1200-h800-k-no",
+  "description": "Menswear chain offering brand-name suits, casual attire, shoes & accessories, plus tuxedo rentals.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 13,
+    "3": 16,
+    "4": 33,
+    "5": 563
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

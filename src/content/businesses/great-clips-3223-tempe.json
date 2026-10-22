@@ -1,0 +1,50 @@
+{
+  "slug": "great-clips-3223-tempe",
+  "name": "Great Clips",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "3223 S McClintock Dr #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3937582,
+  "lng": -111.9085327,
+  "phone": "+14807562570",
+  "website": "https://salons.greatclips.com/us/az/tempe/3223-s-mcclintock-dr?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Great+Clips/data=!4m7!3m6!1s0x872b088148349c9f:0xd4c9003cad11ad30!8m2!3d33.3937582!4d-111.9085327!16s%2Fg%2F1tcvcbx9!19sChIJn5w0SIEIK4cRMK0RrTwAydQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15332786666961218864",
+  "placeId": "ChIJn5w0SIEIK4cRMK0RrTwAydQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 545,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrE2temyhZjtTQ513oRtMAZBoTSyHs0Ij_1AICQOV3vTFMtP1DDv3AcATT_RKhoHjf_eOIpeEwB1ri0ZUHSevhMaMqtOkeqaCaJ_wl5mvDBL-3gS7otRB0fcvbJuq-Yfo2ZR91CsdHVNWA=w1200-h800-k-no",
+  "description": "Casual salon offering haircuts for adults & kids along with professional styling products for sale.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 62,
+    "2": 18,
+    "3": 20,
+    "4": 88,
+    "5": 357
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "pilates-tempe",
+  "name": "Pilates Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "secondaryCategories": [
+    "Personal trainer"
+  ],
+  "address": "8729 S Kyrene Rd Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335537099999996,
+  "lng": -111.94502969999999,
+  "phone": "+14808207200",
+  "website": "https://pilatestempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pilates+Tempe/data=!4m7!3m6!1s0x872b0686b7955b6b:0x6e8df2dee38ff78e!8m2!3d33.3355371!4d-111.9450297!16s%2Fg%2F1tf5l34p!19sChIJa1uVt4YGK4cRjveP497yjW4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7966290355002800014",
+  "placeId": "ChIJa1uVt4YGK4cRjveP497yjW4",
+  "googleRating": 4.8,
+  "googleReviewCount": 42,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNg5zIFxCKMEMCNia_Epdq5_CJgsRdjoYaFB-X--FS_W9Elha8lxUMrUoBchTh30hjJVVD7DPiyCRJJNghgzQnCFRvjHFihsh-NUl0h6n_yGPcBhmo2MGFMIt8o5jh3GSpEpnz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 40
+  },
+  "hours": {
+    "mon": "5:15 AM - 8:15 PM",
+    "tue": "7:00 AM - 8:15 PM",
+    "wed": "6:00 AM - 8:15 PM",
+    "thu": "7:00 AM - 7:15 PM",
+    "fri": "5:15 AM - 1:15 PM",
+    "sat": "7:15 AM - 1:15 PM",
+    "sun": "8:15 AM - 12:15 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

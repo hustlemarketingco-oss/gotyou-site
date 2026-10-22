@@ -1,0 +1,46 @@
+{
+  "slug": "deezel-muscle-gym-tempe",
+  "name": "Deezel Muscle Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "address": "2120 E 6th St Ste 4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.424832699999996,
+  "lng": -111.89551469999999,
+  "phone": "+14802255427",
+  "website": "https://www.deezelmuscle.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Deezel+Muscle+Gym/data=!4m7!3m6!1s0x872b085062f061a3:0x20c3db697fdd1aca!8m2!3d33.4248327!4d-111.8955147!16s%2Fg%2F11bxfm3cl7!19sChIJo2HwYlAIK4cRyhrdf2nbwyA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2360971875835517642",
+  "placeId": "ChIJo2HwYlAIK4cRyhrdf2nbwyA",
+  "googleRating": 5,
+  "googleReviewCount": 193,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeePjfXkGPzMxZCsn-UQRWmxPg3ueZMoLdEBTCE8-6aQuD31c-4zXuXZPD2vCw7pBOIv_BMMoot5sPjIEXcum2VxVnirh2J9ZQhbVECMDyMYq5LPGVB5NpTxWOhbWPsuhCl0Snt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 188
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

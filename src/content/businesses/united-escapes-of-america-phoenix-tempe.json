@@ -12,10 +12,7 @@
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/escaperoomsmesa"
@@ -26,5 +23,27 @@
   "groundgameId": "6a243854e1c0356e2fe4be68",
   "seededAt": "2026-06-06T15:10:12Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJIe_UhhAPK4cRw9ZxkZ3CYlo",
+  "googleCid": "6512981993136969411",
+  "googleMapsUrl": "https://www.google.com/maps/place/United+Escapes+of+America+-+Phoenix/data=!4m7!3m6!1s0x872b0f1086d4ef21:0x5a62c29d9171d6c3!8m2!3d33.4181021!4d-111.9750454!16s%2Fg%2F11vj17y0jg!19sChIJIe_UhhAPK4cRw9ZxkZ3CYlo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrA4K8-g1fheOAyMBoSywrgESaeRwbyJv39X3266X8tVtg2LWmPK8nARYmWGmFvLyPArqX5EnQps8wWT2wbFvRWW_MgPtxzrsHo1YbzJK9b-VQaN5Yrxd3ILkwUxJ3xONY_ynpew=w1200-h800-k-no",
+  "website": "http://phoenix.unitedescapesofamerica.com/",
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "lat": 33.4181021,
+  "lng": -111.9750454,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

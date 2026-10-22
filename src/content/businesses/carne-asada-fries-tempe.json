@@ -1,0 +1,33 @@
+{
+  "slug": "carne-asada-fries-tempe",
+  "name": "Carne Asada Fries",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "1795 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4215181,
+  "lng": -111.9095845,
+  "phone": "+19492396819",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carne+Asada+Fries/data=!4m7!3m6!1s0x872b09891ad1756f:0x6f65dada6ba4d3f2!8m2!3d33.4215181!4d-111.9095845!16s%2Fg%2F11ys5yzgxn!19sChIJb3XRGokJK4cR8tOka9raZW8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8027062542501467122",
+  "placeId": "ChIJb3XRGokJK4cR8tOka9raZW8",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2dtH0557xhfqWV_wJZrNWe7sdXB6uCM9MCj_NNpVG_5FNm15m_Gpf8JoCKHeASeLps18-NBAuIqTld427ZDpkniT0uJCmXK6N8cyK08_S0uih4uQHthNtAkuHliQN8SO20dg-4u4La1wn_R2KJRhjQFO4SpkhbXVPJU1JnbL2LqwOyL1JuX7BE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

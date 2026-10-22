@@ -1,0 +1,46 @@
+{
+  "slug": "sulbing-tempe",
+  "name": "Sulbing (설빙 - 코리안 디저트 카페)",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Dessert shop",
+  "address": "5350 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3760797,
+  "lng": -111.9199283,
+  "phone": "+14803664066",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sulbing+%28%EC%84%A4%EB%B9%99+-+%EC%BD%94%EB%A6%AC%EC%95%88+%EB%94%94%EC%A0%80%ED%8A%B8+%EC%B9%B4%ED%8E%98%29/data=!4m7!3m6!1s0x872b07006bb64761:0xae6e2188eaad1a13!8m2!3d33.3760797!4d-111.9199283!16s%2Fg%2F11z65nx3p8!19sChIJYUe2awAHK4cRExqt6oghbq4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12569020481974114835",
+  "placeId": "ChIJYUe2awAHK4cRExqt6oghbq4",
+  "googleRating": 4.1,
+  "googleReviewCount": 60,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDmEv-mK_eRenZ2sGEid02a6KzZl_7V4LNBKDosXne7iOOgdzlUNpOD6UJYrQD13gg_0v5hw3mpkS8vR8kli7xyAZcMHI2lGvUP7utR73Js7mW1fDybwQBlK34CenbK7U24artUzLN42LD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 5,
+    "3": 3,
+    "4": 4,
+    "5": 41
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

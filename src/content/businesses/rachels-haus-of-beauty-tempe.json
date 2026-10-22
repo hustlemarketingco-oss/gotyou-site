@@ -1,0 +1,42 @@
+{
+  "slug": "rachels-haus-of-beauty-tempe",
+  "name": "Rachel's Haus of Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Hairdresser"
+  ],
+  "address": "1800 E Rio Salado Pkwy Building #170 Suite #136",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4301144,
+  "lng": -111.9078598,
+  "phone": "+14806169600",
+  "website": "https://rachelshausofbeauty.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rachel%27s+Haus+of+Beauty/data=!4m7!3m6!1s0x872b09c2554feb49:0xb16967db240e97a5!8m2!3d33.4301144!4d-111.9078598!16s%2Fg%2F11zh0yx4x7!19sChIJSetPVcIJK4cRpZcOJNtnabE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12783863208168298405",
+  "placeId": "ChIJSetPVcIJK4cRpZcOJNtnabE",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXbLjjHIXNsbPbd-1xtUcbriKqeaL2_b05YpQIfQFZ8N3fuT3D0ss075WALZcSmvlyW4WeJWK27hhwMW67uL_67c6fk5BQYVtTn7Axha9EZOUfgkQ_tMgPYIY6YXPhryOXmlmr7P-Jof2B=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 5:30 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 5:00 PM",
+    "sat": "11:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

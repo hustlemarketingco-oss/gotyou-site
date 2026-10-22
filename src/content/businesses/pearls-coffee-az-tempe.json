@@ -1,0 +1,44 @@
+{
+  "slug": "pearls-coffee-az-tempe",
+  "name": "Pearl's Coffee AZ",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "address": "located inside AZ Sandwich Co, 1775 W University Dr #128",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216203,
+  "lng": -111.96922239999999,
+  "phone": "+14808297827",
+  "website": "http://pearlscoffeeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pearl%27s+Coffee+AZ/data=!4m7!3m6!1s0x872b0f0593887a97:0x309650267c38ee76!8m2!3d33.4216203!4d-111.9692224!16s%2Fg%2F11wb7l2wjd!19sChIJl3qIkwUPK4cRdu44fCZQljA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3501073886550224502",
+  "placeId": "ChIJl3qIkwUPK4cRdu44fCZQljA",
+  "googleRating": 3.4,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWOlmtrfkMOuKeI0vjmsiEf__aRbjSnNt4gXtYnIfRyFS2kw53w8WtvgWEI4XhUj86katT-CVTOTcSJvoeBM9uasA0aodkEmyZeNK7q6qthMs93T7PVk1aYgBBmbIl8BdB7vw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "5": 4
+  },
+  "hours": {
+    "mon": "6:00 AM - 4:00 PM",
+    "tue": "6:00 AM - 4:00 PM",
+    "wed": "6:00 AM - 4:00 PM",
+    "thu": "6:00 AM - 4:00 PM",
+    "fri": "6:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

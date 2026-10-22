@@ -1,0 +1,50 @@
+{
+  "slug": "bobby-es-car-wash-tempe",
+  "name": "Bobby E's Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Self service car wash",
+  "secondaryCategories": [
+    "Car wash"
+  ],
+  "address": "Parking lot, 129 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3926023,
+  "lng": -111.94230499999999,
+  "phone": "+13605107165",
+  "website": "https://bobbyecarwash.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bobby+E%27s+Car+Wash/data=!4m7!3m6!1s0x872b09f2b5db81a7:0xd3a83bacf9430813!8m2!3d33.3926023!4d-111.942305!16s%2Fg%2F11n_ysg73h!19sChIJp4HbtfIJK4cREwhD-aw7qNM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15251505752192518163",
+  "placeId": "ChIJp4HbtfIJK4cREwhD-aw7qNM",
+  "googleRating": 4.2,
+  "googleReviewCount": 397,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBMi51uQwlQGWT4QvKXzcAWaBUWq01SBWJ71DIFAgj5HDIAACmE-rhiOuRJY8Fa19v8An0whrOGC4VIgS7uuPDrRTxybjdya5Hqm6B55OJOErgV4OEUzu8qWFvlPSGMZy9YizK9-5J_P3X=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 47,
+    "2": 17,
+    "3": 17,
+    "4": 26,
+    "5": 290
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

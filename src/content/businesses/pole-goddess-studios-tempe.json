@@ -1,0 +1,41 @@
+{
+  "slug": "pole-goddess-studios-tempe",
+  "name": "Pole Goddess Studios",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "address": "555 N College Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4338297,
+  "lng": -111.93056999999999,
+  "phone": "+14808852709",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pole+Goddess+Studios/data=!4m7!3m6!1s0x872b097b5f0c5e4f:0x268892481b7db584!8m2!3d33.4338297!4d-111.93057!16s%2Fg%2F11spdt29t7!19sChIJT14MX3sJK4cRhLV9G0iSiCY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2776630008670434692",
+  "placeId": "ChIJT14MX3sJK4cRhLV9G0iSiCY",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Elp9_Jllt6dRBX720HZ32w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=162.0207&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

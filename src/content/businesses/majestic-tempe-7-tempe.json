@@ -14,23 +14,18 @@
   "lng": -111.922495,
   "phone": "+14804288573",
   "website": "https://www.majestictheatersaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10683003872628418779",
+  "googleMapsUrl": "https://www.google.com/maps/place/Majestic+Tempe+7/data=!4m7!3m6!1s0x872b07e4f56e1737:0x9441a76bd223a8db!8m2!3d33.378639!4d-111.922495!16s%2Fg%2F11gfhh6lvb!19sChIJNxdu9eQHK4cR26gj0munQZQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10683003872628418779",
   "placeId": "ChIJNxdu9eQHK4cR26gj0munQZQ",
   "googleRating": 4.5,
-  "googleReviewCount": 3895,
+  "googleReviewCount": 4003,
   "description": "Located in Tempe, Majestic Tempe 7 is a movie theater & restaurant with alcohol & food. A favorite among family-friendly diners.",
   "amenities": [
-    "Onsite services",
+    "Assisted listening devices",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -38,5 +33,14 @@
   "groundgameId": "6a24383eecaeb8a6bd6af4c7",
   "seededAt": "2026-06-06T15:09:50Z",
   "updatedAt": "2026-06-06T15:09:50Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 204,
+    "2": 111,
+    "3": 195,
+    "4": 635,
+    "5": 2858
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOCTvUiZZdaKKgxLcC1Djb-HcsiML2D4_RSZ0KA-ja6xd0sRWBlp9hA42zIvokkVmn4E7_hawz1xn5xri7KknU4-Wop5Ms8Me1ss9T7cSWpCm6peuRd0815pB9cWYWGMWGpVJg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

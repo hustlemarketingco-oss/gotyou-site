@@ -1,0 +1,43 @@
+{
+  "slug": "the-polynesian-barber-tempe",
+  "name": "The Polynesian Barber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1800 E Rio Salado Pkwy #170",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4301305,
+  "lng": -111.90786109999999,
+  "phone": "+16237599559",
+  "website": "https://getsqr.co/ryland-tausinga-1",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Polynesian+Barber/data=!4m7!3m6!1s0x4a38d9fd862d6c2b:0x23c1eef891c8b819!8m2!3d33.4301305!4d-111.9078611!16s%2Fg%2F11ykjvw66z!19sChIJK2wthv3ZOEoRGbjIkfjuwSM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2576603213197785113",
+  "placeId": "ChIJK2wthv3ZOEoRGbjIkfjuwSM",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KDt8GU9ouQufdHRoB3US2g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=192.2426&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

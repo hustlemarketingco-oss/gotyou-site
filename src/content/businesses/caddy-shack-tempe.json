@@ -1,0 +1,42 @@
+{
+  "slug": "caddy-shack-tempe",
+  "name": "Caddy Shack",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar & grill",
+  "address": "1415 N Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4449752,
+  "lng": -111.9481466,
+  "phone": "+14803505275",
+  "googleMapsUrl": "https://www.google.com/maps/place/Caddy+Shack/data=!4m7!3m6!1s0x872b09359165fd1b:0x6f413f9f52cfb60b!8m2!3d33.4449752!4d-111.9481466!16s%2Fg%2F11bwf7wcpx!19sChIJG_1lkTUJK4cRC7bPUp8_QW8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8016758765217887755",
+  "placeId": "ChIJG_1lkTUJK4cRC7bPUp8_QW8",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLflsBwQuris8hlxvMK4-UUvxAiLdEB4rDiBF_vEaQEHyxZj5kWPvcIoIwqiBY6mA9FR3fVFiR7aKdf-Ncs3W4TIzJGMMgVVU24UksCqUUazLtdGU3LO4qE0HdfEY_KPIYuAO0n-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

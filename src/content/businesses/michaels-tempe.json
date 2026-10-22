@@ -1,0 +1,57 @@
+{
+  "slug": "michaels-tempe",
+  "name": "Michaels",
+  "category": "Shopping",
+  "googleCategory": "Craft store",
+  "secondaryCategories": [
+    "Art supply store",
+    "Balloon store",
+    "Christmas store",
+    "Fabric store",
+    "Hobby store",
+    "Party store",
+    "Picture frame shop",
+    "Scrapbooking store"
+  ],
+  "address": "55 S McClintock Dr, Tempe Marketplace Suite 125",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4308113,
+  "lng": -111.90829679999999,
+  "phone": "+14809670795",
+  "website": "https://locations.michaels.com/AZ/Tempe/7801/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+  "googleMapsUrl": "https://www.google.com/maps/place/Michaels/data=!4m7!3m6!1s0x872b08fe92ad54a9:0x5c564148069f89cb!8m2!3d33.4308113!4d-111.9082968!16s%2Fg%2F1tfxh4g3!19sChIJqVStkv4IK4cRy4mfBkhBVlw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6653577277091056075",
+  "placeId": "ChIJqVStkv4IK4cRy4mfBkhBVlw",
+  "googleRating": 4.4,
+  "googleReviewCount": 1842,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrVx6In9qFNX5Rep2pVpJsFsCPnRWwYTD922TsFM6OhT7rgONGToO0ZXoqDEDL3Vx0mqJTCFPlOW8yHqDfwI-YZuNwHVu6-RXJTZNrkKir8LIErwSANs3aw8wi1umKXP9smGVUGg=w1200-h800-k-no",
+  "description": "Chain retailer carrying art & hobby supplies plus home decor (most offer classes & custom framing).",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 59,
+    "2": 44,
+    "3": 179,
+    "4": 418,
+    "5": 1142
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

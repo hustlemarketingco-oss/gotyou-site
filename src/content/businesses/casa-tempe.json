@@ -17,20 +17,9 @@
   "priceRange": "$20–30",
   "description": "Bustling venue with a roomy patio bar & deck featuring Mexican eats & cocktails.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/casatempe"
@@ -41,5 +30,31 @@
   "groundgameId": "6a2438852c4773c83fe384fc",
   "seededAt": "2026-06-06T15:11:01Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJCRUCO9gIK4cRdPyhZ53YqLc",
+  "googleCid": "13234065675588336756",
+  "googleMapsUrl": "https://www.google.com/maps/place/CASA+Tempe/data=!4m7!3m6!1s0x872b08d83b021509:0xb7a8d89d67a1fc74!8m2!3d33.4241549!4d-111.9397246!16s%2Fg%2F12hshy3_0!19sChIJCRUCO9gIK4cRdPyhZ53YqLc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.8,
+  "googleReviewCount": 864,
+  "ratingBreakdown": {
+    "1": 169,
+    "2": 32,
+    "3": 72,
+    "4": 150,
+    "5": 441
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIv0Hu0A-ZI7muqAlNIngrpAt4G75GDWgU0f528HlPA8pSLIGuzZYPE37BpA8shzy0o6sIdo8du33RuK-icAToWBZK_fW8XgZ9lF-Wc2OPCzu59q64fddd1pJW00srIolFci-bUA=w1200-h800-k-no",
+  "website": "https://www.casatempe.com/",
+  "hours": {
+    "mon": "4:00 PM - 2:00 AM",
+    "tue": "4:00 PM - 2:00 AM",
+    "wed": "4:00 PM - 2:00 AM",
+    "thu": "4:00 PM - 2:00 AM",
+    "fri": "4:00 PM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 2:00 AM"
+  },
+  "lat": 33.4241549,
+  "lng": -111.93972459999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

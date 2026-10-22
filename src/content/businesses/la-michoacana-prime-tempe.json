@@ -1,0 +1,44 @@
+{
+  "slug": "la-michoacana-prime-tempe",
+  "name": "La Michoacana Prime",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "address": "5000 S Arizona Mills Cir #114",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3849777,
+  "lng": -111.9638537,
+  "website": "https://www.simon.com/mall/arizona-mills/stores/la-michoacana-prime",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Michoacana+Prime/data=!4m7!3m6!1s0x872b0f0032a67ea5:0xf237584fdec54489!8m2!3d33.3849777!4d-111.9638537!16s%2Fg%2F11yfkgd610!19sChIJpX6mMgAPK4cRiUTF3k9YN_I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17453515980960777353",
+  "placeId": "ChIJpX6mMgAPK4cRiUTF3k9YN_I",
+  "googleRating": 1.6,
+  "googleReviewCount": 21,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1_ZmN5sCyYftmoJEbRjnQVUjcdU6cG_b51slyTSfCS2v39HnD8hytfCeOsIniHOW_Guig3pVdzVfbUYpNiOVTwaYAVNBXPMPPf21aML4guu0q2w0bAE8u5Wr4rLZkUMmDBRVUj_VfLQVf=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 2,
+    "3": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

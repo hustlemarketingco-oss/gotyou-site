@@ -16,24 +16,24 @@
   "source": "groundgame",
   "placeId": "ChIJq3vqPlQIK4cR4-0UfhoDlpw",
   "googleCid": "11283209328742690275",
-  "googleMapsUrl": "https://maps.google.com/?cid=11283209328742690275",
+  "googleMapsUrl": "https://www.google.com/maps/place/Panera+Bread/data=!4m7!3m6!1s0x872b08543eea7bab:0x9c96031a7e14ede3!8m2!3d33.4338963!4d-111.902104!16s%2Fg%2F1tmy5j24!19sChIJq3vqPlQIK4cR4-0UfhoDlpw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.1,
-  "googleReviewCount": 1052,
+  "googleReviewCount": 1051,
   "ratingBreakdown": {
     "1": 75,
     "2": 48,
     "3": 118,
     "4": 246,
-    "5": 565
+    "5": 564
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-od8qWidM3Xnl5zs-0nLh5BxuAzh-X72iAz_RyjzbclfXbGsgkBApIqyI8G6Tg5lhtx5OmMxA6tV-uwJAifnOwmcy6yFcPjki3RdxDHcYNsW8HGeTSAFluzgtTGLomk29AKItOA=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT6UPGk8I7YPi0haLAoxl9Zip_Qfw2qUSM0fYtI78lBUP6O04kevCTJ0ZKIEDWMPpbxJG9srsHEKCGxNxgSL4SoD0xrmhV2PSLb11jfToFhiEGGcxaJoehGqmobqBgGRO80_Od7g=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "7:30 AM - 10 PM",
     "tue": "7:30 AM - 10 PM",
@@ -45,5 +45,16 @@
   },
   "website": "https://www.panerabread.com/en-us/cafe/locations/az/tempe/2000-east-rio-salado-parkway?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=601914&utm_content=main",
   "lat": 33.4338963,
-  "lng": -111.902104
+  "lng": -111.902104,
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Caterer",
+    "Coffee shop",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Salad shop",
+    "Sandwich shop"
+  ]
 }

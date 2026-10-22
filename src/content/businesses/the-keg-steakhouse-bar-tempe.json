@@ -2,7 +2,7 @@
   "slug": "the-keg-steakhouse-bar-tempe",
   "name": "The Keg Steakhouse + Bar - Tempe",
   "category": "Restaurant",
-  "googleCategory": "Steak house",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Bar",
     "Bar & grill",
@@ -20,25 +20,10 @@
   "priceRange": "$40–70",
   "description": "Classic steak & seafood dishes are the mainstays at this stylish yet casual chain restaurant.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Romantic",
-    "Trendy",
-    "Upscale",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/thekegsteakhouseandbar"
@@ -49,5 +34,31 @@
   "groundgameId": "6a2437db08bed5b1c44ec038",
   "seededAt": "2026-06-06T15:08:11Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJDx6C3QEJK4cRLBjPMp1OSTE",
+  "googleCid": "3551456218227611692",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Keg+Steakhouse+%2B+Bar+-+Tempe/data=!4m7!3m6!1s0x872b0901dd821e0f:0x31494e9d32cf182c!8m2!3d33.432583!4d-111.9071626!16s%2Fg%2F1tv3p48k!19sChIJDx6C3QEJK4cRLBjPMp1OSTE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 2035,
+  "ratingBreakdown": {
+    "1": 80,
+    "2": 45,
+    "3": 143,
+    "4": 332,
+    "5": 1435
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXisUKrX2j_m1-Rq56uDhNcm2vJRwI7rrPCVgNkvzgTwXsxdkx3DaRJKefOHkQQbzJE7p34Ixxl2xC1QTasGsAnZo8c0M-9Fsd8iJkIM0fAOcqFMcngD1b4bqU_bcIEbYYjhlt=w1200-h800-k-no",
+  "website": "https://thekeg.com/en/locations/tempe",
+  "hours": {
+    "mon": "4:00 PM - 10:00 PM",
+    "tue": "4:00 PM - 10:00 PM",
+    "wed": "4:00 PM - 10:00 PM",
+    "thu": "4:00 PM - 10:00 PM",
+    "fri": "4:00 PM - 11:00 PM",
+    "sat": "4:00 PM - 11:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "lat": 33.432583,
+  "lng": -111.90716259999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

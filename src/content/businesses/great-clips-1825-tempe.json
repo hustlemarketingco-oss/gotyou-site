@@ -1,0 +1,51 @@
+{
+  "slug": "great-clips-1825-tempe",
+  "name": "Great Clips",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "1825 E Guadalupe Rd Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.361378099999996,
+  "lng": -111.9103763,
+  "phone": "+14807301511",
+  "website": "https://salons.greatclips.com/us/az/tempe/1825-e-guadalupe-rd?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Great+Clips/data=!4m7!3m6!1s0x872b064bc2431d29:0x62d059920a796490!8m2!3d33.3613781!4d-111.9103763!16s%2Fg%2F1tr7jvrg!19sChIJKR1DwksGK4cRkGR5CpJZ0GI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7120289494648579216",
+  "placeId": "ChIJKR1DwksGK4cRkGR5CpJZ0GI",
+  "googleRating": 4.1,
+  "googleReviewCount": 241,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd1JZBaozLD-MhKrGX8LS2UHTTRN4mof3vPO2gLaDXZ8LL8mmrjEQ5VS79V9-JCkErTnlCIvRjwVTottGWxNQoEs0WtwbRPErqyNsmSRVFLZJtyvdLDJrHPguWDif9otfuR18Enp9LTOw=w1200-h800-k-no",
+  "description": "Casual salon offering haircuts for adults & kids along with professional styling products for sale.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 8,
+    "3": 9,
+    "4": 33,
+    "5": 158
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

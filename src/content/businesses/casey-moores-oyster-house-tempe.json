@@ -17,22 +17,10 @@
   "priceRange": "$20–30",
   "description": "Irish haunt serving seafood, pub grub, draft beer & whiskey in a cozy, memorabilia-filled setting.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/CaseyMooresOysterHouse"
@@ -43,5 +31,31 @@
   "groundgameId": "6a24387bc1f88f0f925f6e71",
   "seededAt": "2026-06-06T15:10:51Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJA50kMtcIK4cR9SIynSntaB8",
+  "googleCid": "2263319575740424949",
+  "googleMapsUrl": "https://www.google.com/maps/place/Casey+Moore%27s+Oyster+House/data=!4m7!3m6!1s0x872b08d732249d03:0x1f68ed299d3222f5!8m2!3d33.4206206!4d-111.942651!16s%2Fg%2F1tx8tp0c!19sChIJA50kMtcIK4cR9SIynSntaB8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 4122,
+  "ratingBreakdown": {
+    "1": 111,
+    "2": 74,
+    "3": 208,
+    "4": 837,
+    "5": 2892
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWeptBbnAfgNJQDCGnYEOcH_XYtecQz68RAjR-6ZHVRAkpyhXc4DUIxtp28qCbxldIgAL_tahSVDSP9gSm9nEcpFWtOarLQLaxWjtXz9lv-B-Aq29Y2usWtntsQiecyx5_TfdwSiCcgkbR=w1200-h800-k-no",
+  "website": "http://www.caseymoores.com/",
+  "hours": {
+    "mon": "4:00 PM - 1:00 AM",
+    "tue": "4:00 PM - 1:00 AM",
+    "wed": "4:00 PM - 1:00 AM",
+    "thu": "4:00 PM - 1:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 1:00 AM"
+  },
+  "lat": 33.4206206,
+  "lng": -111.942651,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

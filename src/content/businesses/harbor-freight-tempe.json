@@ -1,0 +1,50 @@
+{
+  "slug": "harbor-freight-tempe",
+  "name": "Harbor Freight",
+  "category": "Shopping",
+  "googleCategory": "Hardware store",
+  "secondaryCategories": [
+    "Tool store"
+  ],
+  "address": "1860 E Warner Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3355659,
+  "lng": -111.907382,
+  "phone": "+14804915756",
+  "website": "https://www.harborfreight.com/storelocator/1860-e-warner-rd-103-tempe-85284?number=218",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harbor+Freight/data=!4m7!3m6!1s0x872b06e2dbdc9b29:0x34e190d22e4e73c4!8m2!3d33.3355659!4d-111.907382!16s%2Fg%2F1vm7by0d!19sChIJKZvc2-IGK4cRxHNOLtKQ4TQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3810485992126575556",
+  "placeId": "ChIJKZvc2-IGK4cRxHNOLtKQ4TQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 1728,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl2yghmyS2iQ8LVXss9FkAnN7MMIjs6i_etz3cVdAw40sFeMu77d4ZxTB0_pO-GOO7OBislODwmd6PLtlNBWJ1nNyXKJw1ZYTJM1LoNNVZcnzgMbKUEAxIz-PEMgLzPMtkqbGA6A=w1200-h800-k-no",
+  "description": "Retail chain carrying a wide range of tools, hardware & other products for the home, garden & car.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 45,
+    "2": 23,
+    "3": 128,
+    "4": 414,
+    "5": 1118
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

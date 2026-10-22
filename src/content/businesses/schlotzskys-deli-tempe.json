@@ -16,13 +16,13 @@
   "website": "https://locations.schlotzskys.com/az/tempe/1401-west-southern-ave",
   "placeId": "ChIJi9lGU04PK4cRIuo6Z4yaYQQ",
   "googleRating": 4.2,
-  "googleReviewCount": 1085,
+  "googleReviewCount": 1110,
   "priceRange": "$",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a4961e5d0bfad275f0306a5",
   "seededAt": "2026-07-04T19:41:25Z",
   "updatedAt": "2026-07-27T18:57:17Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "315703376710658594",
+  "googleMapsUrl": "https://www.google.com/maps/place/Schlotzsky%27s+Deli/data=!4m7!3m6!1s0x872b0f4e5346d98b:0x4619a8c673aea22!8m2!3d33.392371!4d-111.9611589!16s%2Fg%2F1tcvjkgp!19sChIJi9lGU04PK4cRIuo6Z4yaYQQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 80,
+    "2": 45,
+    "3": 99,
+    "4": 234,
+    "5": 652
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeizuVtIT_ixQQxt8j8gobZIChqjQU4ydxiol_avsVcHGoJCPG6isbdn6XfVSfVVNRcAVJyB137fRx1AcAxE-HQup5syCXF8TQqvNO-3jIfxLKtmxJL157zQGQYDxwNM2ODWm_M=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

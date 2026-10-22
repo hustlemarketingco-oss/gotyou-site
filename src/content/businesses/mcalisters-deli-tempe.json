@@ -11,28 +11,10 @@
   "priceRange": "$10–20",
   "description": "Easygoing counter-service chain known for its sandwiches, stuffed baked potatoes & sweet tea.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/mcalistersdeli"
@@ -43,5 +25,31 @@
   "groundgameId": "6a24397f3237318e4733c206",
   "seededAt": "2026-06-06T15:15:11Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJdTLeLOcIK4cRLxXCwZtUEV8",
+  "googleCid": "6850349536154621231",
+  "googleMapsUrl": "https://www.google.com/maps/place/McAlister%27s+Deli/data=!4m7!3m6!1s0x872b08e72cde3275:0x5f11549bc1c2152f!8m2!3d33.4231717!4d-111.925805!16s%2Fg%2F11f2b3d6wy!19sChIJdTLeLOcIK4cRLxXCwZtUEV8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 603,
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 28,
+    "3": 39,
+    "4": 115,
+    "5": 391
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRmJ6jr8ytZw4vrSnLCPB5GHeUamw5lreORDQkN-KZBWzwxuGDFOSPQEY_Hlw8zJZSNy5m34z7g-JvND778ZZ02QCRcwIO19KnVmZ9JeFM-yEjtwuxfYGM0gNahd2BlpNMJmYAkA=w1200-h800-k-no",
+  "website": "https://locations.mcalistersdeli.com/az/tempe",
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 8:00 PM",
+    "wed": "10:30 AM - 8:00 PM",
+    "thu": "10:30 AM - 8:00 PM",
+    "fri": "10:30 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "lat": 33.4231717,
+  "lng": -111.925805,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

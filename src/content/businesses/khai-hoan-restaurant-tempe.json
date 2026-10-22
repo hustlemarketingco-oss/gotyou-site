@@ -2,7 +2,7 @@
   "slug": "khai-hoan-restaurant-tempe",
   "name": "Khải Hoàn Restaurant",
   "category": "Asian & Pacific",
-  "googleCategory": "Chinese restaurant",
+  "googleCategory": "Vietnamese restaurant",
   "secondaryCategories": [
     "Vietnamese restaurant",
     "Pho restaurant",
@@ -16,37 +16,18 @@
   "lng": -111.9126426,
   "phone": "+14808297118",
   "website": "https://khaihoantempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16724483756607174172",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kh%E1%BA%A3i+Ho%C3%A0n+Restaurant/data=!4m7!3m6!1s0x872b08f3d1554c43:0xe8194d5dd45c761c!8m2!3d33.4142112!4d-111.9126426!16s%2Fg%2F1tp1z8hb!19sChIJQ0xV0fMIK4cRHHZc1F1NGeg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16724483756607174172",
   "placeId": "ChIJQ0xV0fMIK4cRHHZc1F1NGeg",
   "googleRating": 4.6,
-  "googleReviewCount": 1100,
+  "googleReviewCount": 1132,
   "priceRange": "$10–20",
   "description": "Unassuming Vietnamese mainstay featuring a long list of authentic dishes, plus a few Chinese meals.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 9:00 PM",
@@ -63,5 +44,14 @@
   "groundgameId": "6a2437f4d764555d9a13147c",
   "seededAt": "2026-06-06T15:08:36Z",
   "updatedAt": "2026-07-22T20:41:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 19,
+    "3": 48,
+    "4": 159,
+    "5": 868
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJs41YE7tbl31feH3FiPGPs9cfg-g9ErTBqd6r7AeMdtUn5PkRPQu60Tw_zTv43gALH3SJQvz6vo0wPKiJqxjPrzw5Fqk5EXEvu-jKkPZWM2Gv_aBRI-Y_LM-zbHS3PZAkD9N9=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

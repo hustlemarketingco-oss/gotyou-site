@@ -1,0 +1,47 @@
+{
+  "slug": "expressions-by-laurie-tempe",
+  "name": "Expressions By Laurie",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon"
+  ],
+  "address": "9020 S McClintock Dr Studio 10",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3325197,
+  "lng": -111.9122275,
+  "phone": "+14808203324",
+  "website": "https://expressionsbylaurie.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Expressions+By+Laurie/data=!4m7!3m6!1s0x872b06e4605b6c55:0x55f04b44efad97f3!8m2!3d33.3325197!4d-111.9122275!16s%2Fg%2F1tj89w_z!19sChIJVWxbYOQGK4cR85et70RL8FU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6192532247085422579",
+  "placeId": "ChIJVWxbYOQGK4cR85et70RL8FU",
+  "googleRating": 4.7,
+  "googleReviewCount": 13,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pfr8LGZvK7wbOJGxDpzpAg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=114.11779&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 12
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

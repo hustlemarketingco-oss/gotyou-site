@@ -16,7 +16,7 @@
   "website": "https://yogisgrill.com/default.asp",
   "placeId": "ChIJ58LQUFUIK4cRidI1Sejv0ds",
   "googleRating": 4.1,
-  "googleReviewCount": 755,
+  "googleReviewCount": 767,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a3971a407812baf320c0b35",
   "seededAt": "2026-06-22T17:32:20Z",
   "updatedAt": "2026-06-30T01:45:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15839705145378460297",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yogis+Grill/data=!4m7!3m6!1s0x872b085550d0c2e7:0xdbd1efe84935d289!8m2!3d33.4341643!4d-111.9021814!16s%2Fg%2F12hlllsww!19sChIJ58LQUFUIK4cRidI1Sejv0ds?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 26,
+    "3": 58,
+    "4": 139,
+    "5": 458
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexBnSsu7K1qrzNS6eQCSZy9z90DzylGp4scEllJP6V_jr_tIl-bRPsxIhHrPeiy4K-mGttFFhY7DQkNnJlMd_21hdMEQ2O7JZtsJ07TgkJqxHjW3e3UjEQoBLbTGVcpTB2hti4LA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

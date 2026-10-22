@@ -15,23 +15,9 @@
   "priceRange": "$10–20",
   "description": "This classic, roomy neighborhood sports bar offers an extensive pub grub menu, pool & patio seating.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://instagram.com/phillys_az"
@@ -42,5 +28,31 @@
   "groundgameId": "6a2437ae6c65dddc020c583e",
   "seededAt": "2026-06-06T15:07:26Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ1cBNtWoJK4cRkoA6nBWn98g",
+  "googleCid": "14481226838090350738",
+  "googleMapsUrl": "https://www.google.com/maps/place/Philly%27s+Sports+Grill/data=!4m7!3m6!1s0x872b096ab54dc0d5:0xc8f7a7159c3a8092!8m2!3d33.4496821!4d-111.9269578!16s%2Fg%2F1tfwktt5!19sChIJ1cBNtWoJK4cRkoA6nBWn98g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 1371,
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 50,
+    "3": 111,
+    "4": 294,
+    "5": 830
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLXBDQlxFitTGbJGwytLHx2_Y1QFv7TGItG00l80Ug7vSsCZrO92t8JDNPDp1TCZCmZ4HilsJbLtaffXnBksxBhFgl1lp2K0sBoxdI_fY8R1T4wO0-W27QM-8gp4qG45XYnKGAZo4YKyAS=w1200-h800-k-no",
+  "website": "https://phillyssportsgrill.com/index.php/scottsdale/",
+  "hours": {
+    "mon": "10:45 AM - 2:00 AM",
+    "tue": "10:45 AM - 2:00 AM",
+    "wed": "10:45 AM - 2:00 AM",
+    "thu": "10:45 AM - 2:00 AM",
+    "fri": "10:45 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 2:00 AM"
+  },
+  "lat": 33.4496821,
+  "lng": -111.9269578,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

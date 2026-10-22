@@ -15,26 +15,17 @@
   "lng": -111.912525,
   "phone": "+14804914222",
   "website": "http://backeastbagels.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5645353223355098248",
+  "googleMapsUrl": "https://www.google.com/maps/place/Back+East+Bagels/data=!4m7!3m6!1s0x872b08a542c81b9b:0x4e5852d8a5afe488!8m2!3d33.3941806!4d-111.912525!16s%2Fg%2F1ths9ts4!19sChIJmxvIQqUIK4cRiOSvpdhSWE4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5645353223355098248",
   "placeId": "ChIJmxvIQqUIK4cRiOSvpdhSWE4",
   "googleRating": 4.2,
-  "googleReviewCount": 582,
+  "googleReviewCount": 595,
   "priceRange": "$1–10",
   "description": "Breakfast & lunch pit stop serving bagels with spreads galore, eggs & salads plus muffins & coffee.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "5:30 AM - 1:00 PM",
@@ -51,5 +42,14 @@
   "groundgameId": "6a24396d1463b5d977f9966a",
   "seededAt": "2026-06-06T15:14:53Z",
   "updatedAt": "2026-07-27T20:15:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 40,
+    "3": 49,
+    "4": 70,
+    "5": 382
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8aEwEfuC0VnwzzyFHT-3yg2a09lY5ZzsX3itQscENpcE9mrKpHElW3ZxvXI6ccaTkT5WI6okpn0FuZG3rH70nefIazfjeu9NBHEEbP5deG3sLy-9vbYKn62PoSQJnzRyVRLxDcugMa8Ic=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

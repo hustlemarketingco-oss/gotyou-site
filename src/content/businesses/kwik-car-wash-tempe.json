@@ -1,0 +1,42 @@
+{
+  "slug": "kwik-car-wash-tempe",
+  "name": "Kwik Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "2165 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378000799999995,
+  "lng": -111.893981,
+  "phone": "+16026124654",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kwik+Car+Wash/data=!4m7!3m6!1s0x872b0700542267bb:0x537e675586e9304a!8m2!3d33.3780008!4d-111.893981!16s%2Fg%2F11vy5vkcrp!19sChIJu2ciVAAHK4cRSjDphlVnflM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6016359769246871626",
+  "placeId": "ChIJu2ciVAAHK4cRSjDphlVnflM",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1ngg1uulu6jYQ80x_aNqQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=267.35837&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

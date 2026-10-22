@@ -1,0 +1,38 @@
+{
+  "slug": "beltran-blendz-tempe",
+  "name": "beltran_blendz_",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "6481 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362395,
+  "lng": -111.9278894,
+  "phone": "+16027568241",
+  "website": "https://beltranblendz53.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/beltran_blendz_/data=!4m7!3m6!1s0x872b07354dc634a7:0xd6531b42d5bcc1b!8m2!3d33.362395!4d-111.9278894!16s%2Fg%2F11z9nkr006!19sChIJpzTGTTUHK4cRG8xbLbQxZQ0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "965232345065704475",
+  "placeId": "ChIJpzTGTTUHK4cRG8xbLbQxZQ0",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaefCWk-YnApCh-ruRGUbGel5GqvssQSxP4VdsfkEx0eLm-yhOwZRGu_0s6CjBGhztMK-uMLMmbpRjCVbRJWJctnD2Qh4Yw_LBrMNqtH7jeKe912P5wGDIUThVlRa1-CXMqx-S5x3k1eg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

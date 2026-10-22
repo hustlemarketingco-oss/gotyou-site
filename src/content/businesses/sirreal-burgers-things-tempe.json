@@ -1,0 +1,32 @@
+{
+  "slug": "sirreal-burgers-things-tempe",
+  "name": "SirReal burgers & things",
+  "category": "Fast Food",
+  "googleCategory": "Delivery Restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+16232838998",
+  "googleMapsUrl": "https://www.google.com/maps/place/SirReal+burgers+%26+things/data=!4m7!3m6!1s0x872b09ba04d3e89f:0x9f70fb0daabd2104!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11lc9jpsz6!19sChIJn-jTBLoJK4cRBCG9qg37cJ8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11488958685539803396",
+  "placeId": "ChIJn-jTBLoJK4cRBCG9qg37cJ8",
+  "googleRating": 2,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc46lsJ_SC_Vb06Ip2MiMMtY5IL3hZPJAjmr-uhO6uGOXJpvEk9_HXMIgzBP1rFHQi_W9-IZXsXKoxyB2LByUB1YBna6dhqtKpqBTMGdzjpq2CMjztJGkkT4iUrKd6BTtBtD_A=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "2": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "hair2o-salon-tempe",
+  "name": "Hair2o Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Spa",
+    "Waxing hair removal service"
+  ],
+  "address": "115 W 6th St #120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4243056,
+  "lng": -111.9419604,
+  "phone": "+16028721604",
+  "website": "https://www.hair2osalon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair2o+Salon/data=!4m7!3m6!1s0x872b08d7c72e45e7:0x264662d9d45a6ad2!8m2!3d33.4243056!4d-111.9419604!16s%2Fg%2F12vsgbds6!19sChIJ50Uux9cIK4cR0mpa1NliRiY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2758000509521128146",
+  "placeId": "ChIJ50Uux9cIK4cR0mpa1NliRiY",
+  "googleRating": 4.8,
+  "googleReviewCount": 70,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAh4DZ1zeKrR0OsJXlHlBzlN1R6EhfLygGaykZz9ar17Fjg6mjxQZp80_wWw8Glj63Zy8jGQkXS3dABhlzE8xni2vv7oZ-RbdT_DUcqjFbV0X4oySKMGWsr4lpD91ob71Wpl54Zw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 65
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

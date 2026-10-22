@@ -1,0 +1,51 @@
+{
+  "slug": "anayas-fresh-mexican-restaurant-tempe",
+  "name": "Anaya's Fresh Mexican Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "7520 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3496373,
+  "lng": -111.92987269999999,
+  "phone": "+14802658244",
+  "website": "https://www.anayasrestaurant.online/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Anaya%27s+Fresh+Mexican+Restaurant/data=!4m7!3m6!1s0x872b0719993ee157:0x8ec57dca7e652da7!8m2!3d33.3496373!4d-111.9298727!16s%2Fg%2F11fszhc79n!19sChIJV-E-mRkHK4cRpy1lfsp9xY4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10287767232455191975",
+  "placeId": "ChIJV-E-mRkHK4cRpy1lfsp9xY4",
+  "googleRating": 4.5,
+  "googleReviewCount": 479,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU_UEW8t-a5aVsuycM1vCaBPCkjOLew7Ls0njwPUruJ0tyn-sFkr_24-9tfVX2gANOyu5uWe9saF25-PEVo9wSTbUH7rgS8acAMeyNlwqJK4dJXDFm7oL-DnXLcaDXtmDBa0Y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 13,
+    "3": 21,
+    "4": 52,
+    "5": 367
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "dutch-bros-coffee-3213-tempe",
   "name": "Dutch Bros Coffee",
   "category": "Coffee & Cafe",
-  "googleCategory": "Tea house",
+  "googleCategory": "Coffee shop",
   "secondaryCategories": [
     "Cafe",
     "Juice shop",
@@ -16,23 +16,9 @@
   "priceRange": "$1–10",
   "description": "Fun-loving drive-thru serving up customized coffees, Rebel energy drinks, cold brew, tea & more.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Vegan options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/DutchBros"
@@ -43,5 +29,31 @@
   "groundgameId": "6a2439154646a6c6395e6a60",
   "seededAt": "2026-06-06T15:13:25Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJP7eKrboIK4cR7tFCH-cyIR8",
+  "googleCid": "2243130057650524654",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dutch+Bros+Coffee/data=!4m7!3m6!1s0x872b08baad8ab73f:0x1f2132e71f42d1ee!8m2!3d33.3940341!4d-111.9393856!16s%2Fg%2F1w2yvbvh!19sChIJP7eKrboIK4cR7tFCH-cyIR8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 2335,
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 39,
+    "3": 84,
+    "4": 233,
+    "5": 1893
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-BhrvHenM6jmdZ_6aSS91yFGH-pGAurP0xHWiZE4LzGXqq0s31HYkSvKGGDt-_Suqxh6DC47LP2ZuCR4RyC9H5IZlMTdOlJ_NSkpA1km9sDyDnqL1fpPX3D2zd94ok-CikbZRDAJouut-=w1200-h800-k-no",
+  "website": "https://www.dutchbros.com/locations/az/tempe/3213-s.-mill-ave.?y_source=1_MTUyMjgzNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "hours": {
+    "mon": "5:00 AM - 12:00 AM",
+    "tue": "5:00 AM - 12:00 AM",
+    "wed": "5:00 AM - 12:00 AM",
+    "thu": "5:00 AM - 12:00 AM",
+    "fri": "5:00 AM - 12:00 AM",
+    "sat": "5:00 AM - 12:00 AM",
+    "sun": "5:00 AM - 12:00 AM"
+  },
+  "lat": 33.3940341,
+  "lng": -111.9393856,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

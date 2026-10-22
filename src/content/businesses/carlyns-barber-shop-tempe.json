@@ -1,0 +1,46 @@
+{
+  "slug": "carlyns-barber-shop-tempe",
+  "name": "Carlyn's Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "414 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.425897299999995,
+  "lng": -111.94043889999999,
+  "phone": "+14805576876",
+  "website": "https://www.downtowntempe.com/go/carlyns-mill-ave-barber-shop",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carlyn%27s+Barber+Shop/data=!4m7!3m6!1s0x872b08d7fff6c88f:0x234d98f1813c1d86!8m2!3d33.4258973!4d-111.9404389!16s%2Fg%2F1vfzfmv5!19sChIJj8j2_9cIK4cRhh08gfGYTSM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2543857527556939142",
+  "placeId": "ChIJj8j2_9cIK4cRhh08gfGYTSM",
+  "googleRating": 4.7,
+  "googleReviewCount": 99,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekKJ4tVGDrVIoqZEoxesxflkrYSEoNYXz3Q1qH5HAiuRAc65Jb05HAkiLin5HbtVseN4Vs1zYLLlhSHU13FbDH3Rw3QJYVHV8zlZ1Rs4xnBim4QkfqK9U2Q9xsR0JOfsa0gU9M5M8D22BJ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "3": 3,
+    "4": 4,
+    "5": 88
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:30 AM - 5:00 PM",
+    "wed": "8:30 AM - 5:00 PM",
+    "thu": "8:30 AM - 5:00 PM",
+    "fri": "8:30 AM - 5:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

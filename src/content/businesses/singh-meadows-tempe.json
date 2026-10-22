@@ -2,7 +2,7 @@
   "slug": "singh-meadows-tempe",
   "name": "Singh Meadows",
   "category": "Coffee & Cafe",
-  "googleCategory": "Juice shop",
+  "googleCategory": "Farmers' market",
   "secondaryCategories": [
     "Cafe",
     "Farmers' market",
@@ -15,24 +15,17 @@
   "lat": 33.4442915,
   "lng": -111.9141076,
   "phone": "+14802257199",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16833619358236996104",
+  "googleMapsUrl": "https://www.google.com/maps/place/Singh+Meadows/data=!4m7!3m6!1s0x872b090e52e86931:0xe99d079e33daf208!8m2!3d33.4442915!4d-111.9141076!16s%2Fg%2F11g691ptnb!19sChIJMWnoUg4JK4cRCPLaM54Hnek?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16833619358236996104",
   "placeId": "ChIJMWnoUg4JK4cRCPLaM54Hnek",
   "googleRating": 4.7,
-  "googleReviewCount": 568,
+  "googleReviewCount": 565,
   "priceRange": "$$",
   "description": "Market & cafe featuring produce, locally made items & light eats, such as tacos & baked goods.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "8:00 AM - 2:00 PM",
@@ -49,5 +42,14 @@
   "groundgameId": "6a2439232e7a1bd3ac1084a6",
   "seededAt": "2026-06-06T15:13:39Z",
   "updatedAt": "2026-06-06T15:13:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 5,
+    "3": 15,
+    "4": 56,
+    "5": 467
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUZtFgfmVS9wBVTI8-YEX8sc3MmfDqhbKeA39B_i-hqnatx-xuk1BKyfIE36m5tMgYyW6envoDHvtlIHQq26wdoiv55o6lP5tO-FwcAnzyDOLhlIUh9XosE_S6MVe7x_lq_X-Yqw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

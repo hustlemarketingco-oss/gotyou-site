@@ -18,8 +18,8 @@
   "phone": "+14802818456",
   "website": "https://www.daveandbusters.com/us/en/about/locations/tempe",
   "placeId": "ChIJtevbq6oJK4cRDKw4xznet7M",
-  "googleRating": 4.3,
-  "googleReviewCount": 6793,
+  "googleRating": 4.4,
+  "googleReviewCount": 6916,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a514b949bf1983a521b1c8b",
   "seededAt": "2026-07-10T19:44:20Z",
   "updatedAt": "2026-07-10T19:44:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12950063593264032780",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dave+%26+Buster%27s+Tempe/data=!4m7!3m6!1s0x872b09aaabdbebb5:0xb3b7de39c738ac0c!8m2!3d33.433132!4d-111.904287!16s%2Fg%2F1tdy0bwn!19sChIJtevbq6oJK4cRDKw4xznet7M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 250,
+    "2": 217,
+    "3": 631,
+    "4": 1576,
+    "5": 4242
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVF62HMSdrbl7Tgudn2-dHszmJZ1jBRKySDHPISA4TPQI7mb4z_ZD9Zwm3gzjLXgrmF7R-7lWV8NusjTv6Ui24DMEYOoLvWfBAJHcx9AHyv1Xq7WLD1MWf7U7K-FspLSsgm3pw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

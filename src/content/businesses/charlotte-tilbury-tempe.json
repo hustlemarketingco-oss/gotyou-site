@@ -1,0 +1,35 @@
+{
+  "slug": "charlotte-tilbury-tempe",
+  "name": "Charlotte Tilbury",
+  "category": "Shopping",
+  "googleCategory": "Cosmetics store",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Beauty supply store",
+    "Make-up artist",
+    "Perfume store",
+    "Skin care clinic"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1011",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4324551,
+  "lng": -111.903967,
+  "phone": "+16023251540",
+  "website": "https://stores.charlottetilbury.com/us/az/tempe/2000-e.-rio-salado-parkway?y_source=1_ODc4NzM2MjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Charlotte+Tilbury/data=!4m7!3m6!1s0x872b09426b47232b:0x1368c73a5a6691a5!8m2!3d33.4324551!4d-111.903967!16s%2Fg%2F11l5dgd7bs!19sChIJKyNHa0IJK4cRpZFmWjrHaBM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1398586737737240997",
+  "placeId": "ChIJKyNHa0IJK4cRpZFmWjrHaBM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jHr06YXkVRjel5FDTD7t7A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=357.45932&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

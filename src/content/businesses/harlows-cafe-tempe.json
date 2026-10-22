@@ -15,32 +15,18 @@
   "lng": -111.9531516,
   "phone": "+14808299444",
   "website": "https://harlowscafe.shop/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17441541798284579744",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harlow%27s+Cafe/data=!4m7!3m6!1s0x872b0f2adacfc127:0xf20ccddb35e153a0!8m2!3d33.4215942!4d-111.9531516!16s%2Fg%2F1vd71stg!19sChIJJ8HP2ioPK4cRoFPhNdvNDPI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17441541798284579744",
   "placeId": "ChIJJ8HP2ioPK4cRoFPhNdvNDPI",
   "googleRating": 4.6,
-  "googleReviewCount": 2241,
+  "googleReviewCount": 2278,
   "priceRange": "$20–30",
   "description": "Student-friendly diner dishing out straight-up breakfasts & lunches in a wood-paneled space.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "8:00 AM - 2:00 PM",
@@ -57,5 +43,14 @@
   "groundgameId": "6a2438ff4a7a468eee60a719",
   "seededAt": "2026-06-06T15:13:03Z",
   "updatedAt": "2026-08-06T18:50:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 68,
+    "2": 50,
+    "3": 122,
+    "4": 324,
+    "5": 1714
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWGWLxBIIa1Sr_iaq-Gh5YGJ-RM_hmmD4WkkqXCiP8QmLqC6KQ5XTgObGRcwCmI299gYlPI9qyV88jwnVy1LGpv9nf3S3phWtA3zLvFFfDR8p2fRtTqU9vdMb7W3MnIzcJZj_uMiZduTs=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

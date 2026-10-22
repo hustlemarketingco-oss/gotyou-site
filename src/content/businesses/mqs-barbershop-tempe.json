@@ -1,0 +1,43 @@
+{
+  "slug": "mqs-barbershop-tempe",
+  "name": "MQs Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2011 E Apache Blvd Ste 151",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4143504,
+  "lng": -111.8996562,
+  "phone": "+14809670279",
+  "googleMapsUrl": "https://www.google.com/maps/place/MQs+Barbershop/data=!4m7!3m6!1s0x872b095d891d9191:0x36d307e9ddad6748!8m2!3d33.4143504!4d-111.8996562!16s%2Fg%2F11y3n0j72n!19sChIJkZEdiV0JK4cRSGet3ekH0zY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3950509999161960264",
+  "placeId": "ChIJkZEdiV0JK4cRSGet3ekH0zY",
+  "googleRating": 4.9,
+  "googleReviewCount": 87,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczbEsZZQ-2E1GjcdKQcPCX2D14x-7cVWzmylYReges6LtMSxWyuMkUI5HKp09D31uz7BI9LFQWoMRQ9RxDAeW1Hwyt8gb3Z03WXZaT72bdtY6F58zY_jkDAZ5n6SsrhZ39KZs4x0XeJ1Xj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 85
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -19,7 +19,7 @@
   "website": "https://eltatakisushi.com/",
   "placeId": "ChIJcXUTI-AJK4cRxlIygo8AKvg",
   "googleRating": 4.4,
-  "googleReviewCount": 478,
+  "googleReviewCount": 520,
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
     "tue": "11:00 AM - 10:00 PM",
@@ -35,5 +35,22 @@
   "groundgameId": "6a5543f78e675137205ec03e",
   "seededAt": "2026-07-13T20:00:55Z",
   "updatedAt": "2026-07-13T20:02:58Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17882105886792635078",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Tataki+Sushi+Fusion/data=!4m7!3m6!1s0x872b09e023137571:0xf82a008f823252c6!8m2!3d33.3935583!4d-111.9149409!16s%2Fg%2F11sszg4w45!19sChIJcXUTI-AJK4cRxlIygo8AKvg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 21,
+    "3": 25,
+    "4": 62,
+    "5": 377
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeK3xDveFrs4rSO6q-QrRilGNxNBUHO8Ao-7oVqse3hi2Ftv30NM0xhMK1hlm3zUEyiHix7GiYmcS5UNG3Vxq3CGHyryxqTVPCRaDzrKUqry_MI4erQ3FbY1_hrJWStE7fgJd0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

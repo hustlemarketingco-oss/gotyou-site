@@ -1,0 +1,44 @@
+{
+  "slug": "simply-artistic-nails-tempe",
+  "name": "Simply Artistic Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "3163 S McClintock Dr Ste 36",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3941571,
+  "lng": -111.9076461,
+  "phone": "+16026285034",
+  "googleMapsUrl": "https://www.google.com/maps/place/Simply+Artistic+Nails/data=!4m7!3m6!1s0x872b08d7c2155555:0xc378e87df371fb32!8m2!3d33.3941571!4d-111.9076461!16s%2Fg%2F11hc_zpk2y!19sChIJVVUVwtcIK4cRMvtx833oeMM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14085263462254115634",
+  "placeId": "ChIJVVUVwtcIK4cRMvtx833oeMM",
+  "googleRating": 4.6,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDPStrTWvqwQnfW7k9luWR7OwnbhknjgSBGVUhLa8cZVEDQXnTuYGoByrDIb1RucMtRzoTOACQUUCqp15FDNIYg9WFnCJ1CkoBtdibNdKy-LkmZESom0hOZx8GYxx4WF1WF-8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 11
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 6:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

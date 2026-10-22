@@ -1,0 +1,51 @@
+{
+  "slug": "skysill-rooftop-lounge-tempe",
+  "name": "Skysill Rooftop Lounge",
+  "category": "Bars & Pubs",
+  "googleCategory": "Lounge bar",
+  "secondaryCategories": [
+    "Bar"
+  ],
+  "address": "11 E 7th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422961199999996,
+  "lng": -111.93926619999999,
+  "phone": "+14809688885",
+  "website": "https://skysillrooftop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Skysill+Rooftop+Lounge/data=!4m7!3m6!1s0x872b09c33b134765:0x4a420f270f63a4d8!8m2!3d33.4229612!4d-111.9392662!16s%2Fg%2F11rxyljw13!19sChIJZUcTO8MJK4cR2KRjDycPQko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5350855967705900248",
+  "placeId": "ChIJZUcTO8MJK4cR2KRjDycPQko",
+  "googleRating": 4.1,
+  "googleReviewCount": 388,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezoHSUuXzTevZEiquOsQzjGKj_Ctg9COm4Am2iSaNvSxrjWMJGmPh4Oc9cqIg4qH7kbPxzMMIRnH82jmyb5A90rHLUSuDoFzyt6g0x9Q7HtimSRLIYkV9LC-l6iPb7DHQI9dpt=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 18,
+    "3": 26,
+    "4": 62,
+    "5": 234
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

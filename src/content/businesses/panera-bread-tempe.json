@@ -16,22 +16,22 @@
   "source": "groundgame",
   "placeId": "ChIJvZtTqz4EK4cRJ0KRVQkXC1k",
   "googleCid": "6416247422977131047",
-  "googleMapsUrl": "https://maps.google.com/?cid=6416247422977131047",
+  "googleMapsUrl": "https://www.google.com/maps/place/Panera+Bread/data=!4m7!3m6!1s0x872b043eab539bbd:0x590b170955914227!8m2!3d33.3339915!4d-111.9671913!16s%2Fg%2F1tf1p93w!19sChIJvZtTqz4EK4cRJ0KRVQkXC1k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.1,
-  "googleReviewCount": 1329,
+  "googleReviewCount": 1328,
   "ratingBreakdown": {
     "1": 124,
     "2": 68,
     "3": 123,
     "4": 287,
-    "5": 727
+    "5": 726
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLnQhU3Pu-zA-jLRK4GG4twxJXOWq8AY7Tej6_-ECLyn2nEJu33i1jYf49VYiVfH5PHYHELnJA1nuzgTvOD4JtVxIIMhRKeyfewG-P2rPAK7KzzdHHVMoGR-faLNEHyxnj5pugTmM1rMMS=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHFY8AFEcGiQIMt-90OL2SSqQv-fKPmg8Jzg-7Z4s49vGu6dwOe-FvbXTxqfwfXvQUvGt33PrcIbGrqqFapfBGLQqnERXixHub_6xMIvMhW1S0ZLIgSGBqKyKY-fwX4Bl1WPmwXc2QCVdX=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "7 AM - 9 PM",
     "tue": "7 AM - 9 PM",
@@ -43,5 +43,16 @@
   },
   "website": "https://www.panerabread.com/en-us/cafe/locations/az/tempe/1707-west-warner-rd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=601910&utm_content=main",
   "lat": 33.333991499999996,
-  "lng": -111.9671913
+  "lng": -111.9671913,
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Caterer",
+    "Coffee shop",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Salad shop",
+    "Sandwich shop"
+  ]
 }

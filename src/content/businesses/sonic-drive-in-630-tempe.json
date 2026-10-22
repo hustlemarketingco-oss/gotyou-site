@@ -1,0 +1,57 @@
+{
+  "slug": "sonic-drive-in-630-tempe",
+  "name": "Sonic Drive-In",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Delivery service",
+    "Hamburger restaurant",
+    "Hot dog restaurant",
+    "Hot dog stand",
+    "Ice cream shop"
+  ],
+  "address": "630 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3497098,
+  "lng": -111.9470231,
+  "phone": "+14808970471",
+  "website": "http://www.sonicdrivein.com/locations/us/az/tempe/630-w-elliott-road/store-3994?utm_source=google-my-business&utm_medium=organic&utm_campaign=website-link&y_source=1_MjAzMzg1MTE0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sonic+Drive-In/data=!4m7!3m6!1s0x872b0679c4b53e25:0x5c1dc6715d643e50!8m2!3d33.3497098!4d-111.9470231!16s%2Fg%2F1thcstbj!19sChIJJT61xHkGK4cRUD5kXXHGHVw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6637679616014433872",
+  "placeId": "ChIJJT61xHkGK4cRUD5kXXHGHVw",
+  "googleRating": 3.6,
+  "googleReviewCount": 1220,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLq5JwjjQrH8kOihsfXmdX1Dp9Xtl25ykx3WucTX5FsTr9K_gUXDQvVk6pfFInnUXZ3D4wud9nd3WzXyxJjIATOb0LKwc62NA8Wtp46Owv_baSSK1zSQIiZk0ScF0wPy3tk3pgts4laGo=w1200-h800-k-no",
+  "description": "Fast-food burger & fries joint with an old-school feel, including retro drive-in service.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 214,
+    "2": 77,
+    "3": 167,
+    "4": 283,
+    "5": 479
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

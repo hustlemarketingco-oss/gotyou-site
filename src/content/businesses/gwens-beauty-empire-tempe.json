@@ -1,0 +1,32 @@
+{
+  "slug": "gwens-beauty-empire-tempe",
+  "name": "Gwen's beauty empire",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "5250 S Hardy Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3765412,
+  "lng": -111.95310529999999,
+  "phone": "+14805729627",
+  "website": "https://gwensbeautyempire.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gwen%27s+beauty+empire/data=!4m7!3m6!1s0x872b05b65bd5668f:0xc172888442344243!8m2!3d33.3765412!4d-111.9531053!16s%2Fg%2F11zxk7qr4n!19sChIJj2bVW7YFK4cRQ0I0QoSIcsE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13939353898292888131",
+  "placeId": "ChIJj2bVW7YFK4cRQ0I0QoSIcsE",
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "good-intentions-cafe-tempe",
+  "name": "Good Intentions Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "address": "2152 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407805499999995,
+  "lng": -111.8942591,
+  "phone": "+14802229462",
+  "website": "https://cafegoodintentions.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Good+Intentions+Cafe/data=!4m7!3m6!1s0x872b09d1a153191d:0x1876adfced24ef65!8m2!3d33.4078055!4d-111.8942591!16s%2Fg%2F11z80jcwkj!19sChIJHRlTodEJK4cRZe8k7fytdhg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1762787605984112485",
+  "placeId": "ChIJHRlTodEJK4cRZe8k7fytdhg",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPfz3Y2Hcn9w_Xat072SdvzJjF9OlNeJnQhrU-Zbl-DeH4cG1vBpTFSPWVgKdAO7N-dJbp4QtC4FCuvhsI7u7nxtKMOgUffZwy9wycYjUocMh6BHAxiCDmC3_iexBh5Youh7HsfufHoNng=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

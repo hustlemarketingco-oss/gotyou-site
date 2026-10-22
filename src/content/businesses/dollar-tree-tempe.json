@@ -1,0 +1,57 @@
+{
+  "slug": "dollar-tree-tempe",
+  "name": "Dollar Tree",
+  "category": "Shopping",
+  "googleCategory": "Dollar store",
+  "secondaryCategories": [
+    "Craft store",
+    "Discount store",
+    "Grocery store",
+    "Home goods store",
+    "Kitchen supply store",
+    "Party store",
+    "School supply store",
+    "Toy store"
+  ],
+  "address": "1737 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406441099999995,
+  "lng": -111.9104229,
+  "phone": "+14805354178",
+  "website": "https://locations.dollartree.com/az/tempe/1737-e-broadway-road",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dollar+Tree/data=!4m7!3m6!1s0x872b08c7b22ced73:0x70ff4ac47d04b1ad!8m2!3d33.4064411!4d-111.9104229!16s%2Fg%2F1tgx71q1!19sChIJc-0ssscIK4cRrbEEfcRK_3A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8142308859080651181",
+  "placeId": "ChIJc-0ssscIK4cRrbEEfcRK_3A",
+  "googleRating": 4.1,
+  "googleReviewCount": 448,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_BLYh7ZKnKHODiVfiVyDvC-is90BKVbfkWryV4HJ-Vdfhu972NHtnvY0uk7PJ64i_3bYLWImFxkocfZ-Yy7QPyC_--ygrvw2ozN5rRRU2oeGM6qX5V3vX0pmhqWfRWKqT9XMiJg=w1200-h800-k-no",
+  "description": "Chain offering a mix of household items, beauty products, food & more at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 45,
+    "2": 11,
+    "3": 45,
+    "4": 102,
+    "5": 245
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

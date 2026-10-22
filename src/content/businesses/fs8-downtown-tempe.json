@@ -1,0 +1,45 @@
+{
+  "slug": "fs8-downtown-tempe",
+  "name": "FS8 Downtown Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "920 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4223212,
+  "lng": -111.9257468,
+  "phone": "+15205955995",
+  "website": "https://fs8.com/studio/downtowntempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/FS8+Downtown+Tempe/data=!4m7!3m6!1s0x872b092e0881d081:0x2d6ac1ad5be04de7!8m2!3d33.4223212!4d-111.9257468!16s%2Fg%2F11mkbv8f28!19sChIJgdCBCC4JK4cR503gW63Bai0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3272641029553016295",
+  "placeId": "ChIJgdCBCC4JK4cR503gW63Bai0",
+  "googleRating": 4.8,
+  "googleReviewCount": 46,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsdwzBk6J3juRp3ezH-IN3apeYZOczQHHZgbEX8BjudSjeJAPS7ygUNk0vjHylY4lx47n3KKuVyz_altt9RD8HlHVxjYWnqewyWaVRZwxDy-upzwajdJnsNXSddfVKn7I2flpbZWUWjZY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 43
+  },
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

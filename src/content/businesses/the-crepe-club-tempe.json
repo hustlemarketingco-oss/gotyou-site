@@ -20,29 +20,17 @@
   "lng": -111.9318535,
   "phone": "+16023210179",
   "website": "https://thecrepeclub.com/thecrepeclub-tempe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16932239239130328076",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Cr%C3%AApe+Club/data=!4m7!3m6!1s0x872b08dc4e93652b:0xeafb65e08c4b2c0c!8m2!3d33.421017!4d-111.93134!16s%2Fg%2F11c586j0m2!19sChIJK2WTTtwIK4cRDCxLjOBl--o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16932239239130328076",
   "placeId": "ChIJK2WTTtwIK4cRDCxLjOBl--o",
-  "googleRating": 4.1,
-  "googleReviewCount": 118,
+  "googleRating": 4,
+  "googleReviewCount": 122,
   "description": "The Crêpe Club is a casual, trendy creperie & breakfast restaurant in Tempe, serving up coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite"
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -50,5 +38,23 @@
   "groundgameId": "6a2437c742f3f3f1c30eac43",
   "seededAt": "2026-06-06T15:07:51Z",
   "updatedAt": "2026-06-08T04:58:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 6,
+    "3": 11,
+    "4": 18,
+    "5": 71
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLec4gYUDPN6LaBGJXvHJpCI-lxJIFpcRD8pVDrWATuEyPwJ0H5-ZxOeUDQComCdbIeaZ2wo_4_9XJ1mLZ9hQhwMUlOiu9g-c4jqWkJL7FdCci7q8LYAMKIXsrNobDkI-hCAJ8kF=w1200-h800-k-no",
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

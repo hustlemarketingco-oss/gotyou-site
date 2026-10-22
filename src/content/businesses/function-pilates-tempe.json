@@ -1,0 +1,46 @@
+{
+  "slug": "function-pilates-tempe",
+  "name": "Function Pilates",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "1840 E Warner Rd Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3358018,
+  "lng": -111.91070409999999,
+  "phone": "+14808152055",
+  "website": "http://www.functionpilates.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Function+Pilates/data=!4m7!3m6!1s0x872b08eb504df3ef:0x5dadaf7abe209039!8m2!3d33.3358018!4d-111.9107041!16s%2Fg%2F11b6cjr3y6!19sChIJ7_NNUOsIK4cROZAgvnqvrV0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6750244358208917561",
+  "placeId": "ChIJ7_NNUOsIK4cROZAgvnqvrV0",
+  "googleRating": 4.9,
+  "googleReviewCount": 221,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiPNDetq7x9Zf_F_iHbHMbAhv_RitBwTt9E_lLtNLdK6JWOyHuubdQRfd0ZEvQUQ0_EObxTfiHTImaimBVXlzsJXL7XfOV6_i_C0-EXGikBUaU0imH8lY9Ju5hUtoG7ugC9Prx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "4": 3,
+    "5": 215
+  },
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "8:00 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

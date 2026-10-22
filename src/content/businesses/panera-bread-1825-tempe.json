@@ -16,7 +16,7 @@
   "source": "groundgame",
   "placeId": "ChIJ34RUHEwGK4cRvotoeucp9mY",
   "googleCid": "7419163510307326910",
-  "googleMapsUrl": "https://maps.google.com/?cid=7419163510307326910",
+  "googleMapsUrl": "https://www.google.com/maps/place/Panera+Bread/data=!4m7!3m6!1s0x872b064c1c5484df:0x66f629e77a688bbe!8m2!3d33.3613226!4d-111.9102875!16s%2Fg%2F11cnd9h0ht!19sChIJ34RUHEwGK4cRvotoeucp9mY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 3.8,
   "googleReviewCount": 476,
   "ratingBreakdown": {
@@ -26,13 +26,13 @@
     "4": 89,
     "5": 234
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC-rjFWkoZlQOwhe5t3xiZjuyErjmPvpxa-841xtcT-nPffuVRXLsF4HkkJxQSmf7tsn2-UoJGPtcTb0A-UTIepcJ1H_b1wnbvwhVM_tmeTQrlO7OdmEMzxwLW8OOxpZHNGZRn=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLduC7zTjgF4_4kZ12kS942-mR-AhYJY1KNwW2SEbc4TNUUFfeBgX3qfnSUwBpTsStz0VedMQXNL55NcS89zINdyxVRPKId2aCc8iNZBOkf-nhLZhIGQW-vO8nCC0HFQcp1GqV=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible seating"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "7 AM - 9 PM",
     "tue": "7 AM - 9 PM",
@@ -44,5 +44,16 @@
   },
   "website": "https://www.panerabread.com/en-us/cafe/locations/az/tempe/1825-e-guadalupe-rd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=601926&utm_content=main",
   "lat": 33.3613226,
-  "lng": -111.9102875
+  "lng": -111.9102875,
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Caterer",
+    "Coffee shop",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Salad shop",
+    "Sandwich shop"
+  ]
 }

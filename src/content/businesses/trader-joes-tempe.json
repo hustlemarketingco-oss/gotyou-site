@@ -20,16 +20,9 @@
   "phone": "+14803039974",
   "description": "Grocery chain with a variety of signature items, plus produce, dairy & more (most sell wine & beer).",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.instagram.com/traderjoes"
@@ -40,5 +33,31 @@
   "groundgameId": "6a243993763e5db57538e30a",
   "seededAt": "2026-06-06T15:15:31Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJuSYmxk0JK4cRNczbox7eNpA",
+  "googleCid": "10391737413383474229",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trader+Joe%27s/data=!4m7!3m6!1s0x872b094dc62626b9:0x9036de1ea3dbcc35!8m2!3d33.422357!4d-111.9247654!16s%2Fg%2F11j_qsnp4f!19sChIJuSYmxk0JK4cRNczbox7eNpA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 1119,
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 15,
+    "3": 33,
+    "4": 163,
+    "5": 891
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1CEdESs9lTyS2kI8WUim23RcsLjQTnWPE1kcmHlZi6x0-_0iKv3NbwW1WlUVEpOcfBiyWsO6od93k1YMIUv9vZaCePs9p3Q1bfOAhKNTAGJnY04oHhKmobn1oKLHJwp_6I_JgWRqQfghp=w1200-h800-k-no",
+  "website": "https://locations.traderjoes.com/az/tempe/91/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "lat": 33.422357,
+  "lng": -111.9247654,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

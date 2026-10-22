@@ -1,0 +1,49 @@
+{
+  "slug": "oscars-taco-shop-1342-tempe",
+  "name": "Oscar's Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "address": "1342 W Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335018399999996,
+  "lng": -111.9620302,
+  "phone": "+14805665608",
+  "website": "https://oscarstacoshop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Oscar%27s+Taco+Shop/data=!4m7!3m6!1s0x872b05dc58cc3a19:0x31e6128152abfb83!8m2!3d33.3350184!4d-111.9620302!16s%2Fg%2F11v9fsx84x!19sChIJGTrMWNwFK4cRg_urUoES5jE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3595581699149003651",
+  "placeId": "ChIJGTrMWNwFK4cRg_urUoES5jE",
+  "googleRating": 4.2,
+  "googleReviewCount": 258,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeWjP7erLZQuwCnM0bHADNAhmik3bNFbC2K9qssbInlmlb4nXrarycbTil1-A4Zcrq8RMQoeX5lVmY0Zeso2QF5OCRJ4Wfg7u-99HWsumVVxK2Bq4FprtATXOFMTgCtzwE_DkArhRfqjs=w1200-h800-k-no",
+  "description": "Casual eatery specializing in California-style Mexican favorites, with choose-your-own options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 8,
+    "3": 11,
+    "4": 15,
+    "5": 189
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 9:00 PM",
+    "sat": "6:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

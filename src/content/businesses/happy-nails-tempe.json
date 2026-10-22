@@ -1,0 +1,46 @@
+{
+  "slug": "happy-nails-tempe",
+  "name": "Happy Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "3163 S McClintock Dr Ste 2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394268,
+  "lng": -111.90760689999999,
+  "phone": "+14802210010",
+  "googleMapsUrl": "https://www.google.com/maps/place/Happy+Nails/data=!4m7!3m6!1s0x872b061543907f79:0x6bf8496da53503ef!8m2!3d33.394268!4d-111.9076069!16s%2Fg%2F1wnbygvz!19sChIJeX-QQxUGK4cR7wM1pW1J-Gs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7780049091554509807",
+  "placeId": "ChIJeX-QQxUGK4cR7wM1pW1J-Gs",
+  "googleRating": 4.3,
+  "googleReviewCount": 76,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoQtPtcZ2gfHmMxqwe8X-MgfbKFuF3z6GeLsUC47XGWXsNaUSTPdgPNwx6rDVxpnubDPmAcucvp9PXjz0-np3aNvZ4r1BNMQGCS0ndUDla3TPlc7uLJYbCRYmuqcGmGoDYD7yEdleWhuI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 60
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

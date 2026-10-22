@@ -1,0 +1,50 @@
+{
+  "slug": "sole-sports-running-zone-tempe",
+  "name": "Sole Sports Running Zone",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Running store",
+    "Sportswear store"
+  ],
+  "address": "1006 E Warner Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335635599999996,
+  "lng": -111.9275722,
+  "phone": "+14805222475",
+  "website": "http://www.solesportsrunning.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sole+Sports+Running+Zone/data=!4m7!3m6!1s0x872b06f2df9cb42f:0xc0716c9c8a39be49!8m2!3d33.3356356!4d-111.9275722!16s%2Fg%2F1tdkh35x!19sChIJL7Sc3_IGK4cRSb45ipxsccA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13866984147240205897",
+  "placeId": "ChIJL7Sc3_IGK4cRSb45ipxsccA",
+  "googleRating": 4.9,
+  "googleReviewCount": 405,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWuVFgHZ3x3-A6oKO5eK9P58wyxUo-uXjh42ozFtUGzN5Qdz0annhXUAjb1yuU6qaJUuGrQi86160Ht6tPu2fmtiII-J_eEz7F8oTNG4h4TWrIYLroQnX19eXmLV3veFaWtIJx=w1200-h800-k-no",
+  "description": "Footwear & accessories for runners & walkers, with gait analysis & detailed fittings.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "4": 18,
+    "5": 378
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

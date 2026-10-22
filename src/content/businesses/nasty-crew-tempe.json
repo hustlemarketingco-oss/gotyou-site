@@ -1,0 +1,43 @@
+{
+  "slug": "nasty-crew-tempe",
+  "name": "Nasty Crew",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "1900 E 5th St K-1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+15623850181",
+  "website": "https://www.instagram.com/nastycrewaz/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nasty+Crew/data=!4m7!3m6!1s0x872b094d5b307689:0x21789f780f5a1648!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11l_5y85nh!19sChIJiXYwW00JK4cRSBZaD3ifeCE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2411852938459354696",
+  "placeId": "ChIJiXYwW00JK4cRSBZaD3ifeCE",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdByONqDiqkRVSXrCbEH0q-2aOWKqc8cRztf_VlWsh9wL0rYaoziay6Y9lvP6y-uyBN53_9-ubBgfaSiXZmNiW8gyiELH9oCk-GpwrFpGvMLGPFW685oRWeE2_nKgxUBM0dkK25Og=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "11:30 AM - 10:30 PM",
+    "tue": "11:30 AM - 10:30 PM",
+    "wed": "Closed",
+    "thu": "11:30 AM - 11:00 PM",
+    "fri": "11:30 AM - 11:00 PM",
+    "sat": "11:30 AM - 11:00 PM",
+    "sun": "5:00 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

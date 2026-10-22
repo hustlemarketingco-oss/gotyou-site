@@ -1,0 +1,47 @@
+{
+  "slug": "the-burger-den-tempe",
+  "name": "The Burger Den",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1343 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4071102,
+  "lng": -111.9597689,
+  "phone": "+14809663136",
+  "website": "https://www.theburgerden.com/?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Burger+Den/data=!4m7!3m6!1s0x872b0fd50850b79d:0xba63a4b4657b007!8m2!3d33.4071102!4d-111.9597689!16s%2Fg%2F11s5t_sc67!19sChIJnbdQCNUPK4cRB7BXRks6pgs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "839422475528286215",
+  "placeId": "ChIJnbdQCNUPK4cRB7BXRks6pgs",
+  "googleRating": 2.2,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLFgE2dgB2GqRcHih55CVUBldzTV_5T5_oA1AL2q8oEknQ0ZDYlM7b_pM9Cm0YDSob7EVeP2iUrmgEa0MBas5LLZf_28qHtVoNJvzt_MJ38mcGlensDIKd0oRpt7_XxOqRncYh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 3,
+    "5": 1
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

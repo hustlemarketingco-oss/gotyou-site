@@ -1,0 +1,45 @@
+{
+  "slug": "zenshi-handcrafted-sushi-tempe",
+  "name": "ZENSHI Handcrafted Sushi",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Sushi takeaway"
+  ],
+  "address": "1515 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3483103,
+  "lng": -111.9136872,
+  "phone": "+14807551844",
+  "website": "https://www.zenshisushi.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ZENSHI+Handcrafted+Sushi/data=!4m7!3m6!1s0x872b074a578fd275:0x48b33f5189d010cc!8m2!3d33.3483103!4d-111.9136872!16s%2Fg%2F11y8k1pkq0!19sChIJddKPV0oHK4cRzBDQiVE_s0g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5238600410999034060",
+  "placeId": "ChIJddKPV0oHK4cRzBDQiVE_s0g",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf577AHCn6ximBlU1rmBFRu13td03gbaUtX0bwmlOIy1m2wk9vJlee9bZ_BgUtOn5KD_GzrOUH0eYfjHGn2-U-S0F7MsF09aB71b6rwFqPMMuXR0N6mkL3OhtVQiD8OL2kkxNUw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

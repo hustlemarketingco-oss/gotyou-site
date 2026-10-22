@@ -1,0 +1,53 @@
+{
+  "slug": "bobs-discount-furniture-and-mattress-store-tempe",
+  "name": "Bob's Discount Furniture and Mattress Store",
+  "category": "Shopping",
+  "googleCategory": "Furniture store",
+  "secondaryCategories": [
+    "Bedroom furniture store",
+    "Children's furniture store",
+    "Home goods store",
+    "Mattress store"
+  ],
+  "address": "1270 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3510273,
+  "lng": -111.959508,
+  "phone": "+14809773600",
+  "website": "https://www.mybobs.com/store/arizona/tempe?utm_medium=local&utm_source=maps&utm_campaign=Yext&utm_term=arizona&utm_content=tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bob%27s+Discount+Furniture+and+Mattress+Store/data=!4m7!3m6!1s0x872b05ea797fa2fb:0x11bb45785820a8f2!8m2!3d33.3510273!4d-111.959508!16s%2Fg%2F11k0lm38hf!19sChIJ-6J_eeoFK4cR8qggWHhFuxE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1277691302466595058",
+  "placeId": "ChIJ-6J_eeoFK4cR8qggWHhFuxE",
+  "googleRating": 4.6,
+  "googleReviewCount": 1665,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1_Zm42iDx7GSQQ-TqSF6igf6eoEg21Qy1WTnxLgFnq5Vg2aBrqmBVmxtdCcn3MbP_Zv9L_5PhsPo9USpysVBFBnA3iiH42RmAttyMrhbm5Z2Zs6OIfOTwlYzYzfCH_IcXvOkv84uAQpg=w1200-h800-k-no",
+  "description": "Chain retailer with a large selection of discount furniture, home accents & mattresses.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 103,
+    "2": 20,
+    "3": 31,
+    "4": 105,
+    "5": 1406
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "nailsbymeesh-tempe",
+  "name": "Nailsbymeesh",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "405 W Southern Ave Unit 111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392321599999995,
+  "lng": -111.94526239999999,
+  "phone": "+14086439379",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nailsbymeesh/data=!4m7!3m6!1s0x872b093047e89dd3:0xd7ebf7a37a4036cf!8m2!3d33.3923216!4d-111.9452624!16s%2Fg%2F11wg0xqmfp!19sChIJ053oRzAJK4cRzzZAeqP369c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15558801619184269007",
+  "placeId": "ChIJ053oRzAJK4cRzzZAeqP369c",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cr2uk_s_zHnEA547JKLgMw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=300.76938&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "4:00 PM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

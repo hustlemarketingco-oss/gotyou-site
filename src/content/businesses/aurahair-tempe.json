@@ -1,0 +1,37 @@
+{
+  "slug": "aurahair-tempe",
+  "name": "AuraHair",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "3163 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394458199999995,
+  "lng": -111.90750399999999,
+  "phone": "+16023322846",
+  "googleMapsUrl": "https://www.google.com/maps/place/AuraHair/data=!4m7!3m6!1s0x872b0880d5f3c711:0x2334ca3ea71f2f33!8m2!3d33.3944582!4d-111.907504!16s%2Fg%2F11ghr10404!19sChIJEcfz1YAIK4cRMy8fpz7KNCM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2536874860557053747",
+  "placeId": "ChIJEcfz1YAIK4cRMy8fpz7KNCM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q3PwXlrMWvXA9gwoU20YQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=89.667336&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

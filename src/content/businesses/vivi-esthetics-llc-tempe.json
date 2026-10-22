@@ -1,0 +1,46 @@
+{
+  "slug": "vivi-esthetics-llc-tempe",
+  "name": "Vivi Esthetics LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "secondaryCategories": [
+    "Skin care clinic"
+  ],
+  "address": "227E E Baseline Rd Ste J3 #8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777948,
+  "lng": -111.9358757,
+  "phone": "+16025132320",
+  "website": "https://viviesthetics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vivi+Esthetics+LLC/data=!4m7!3m6!1s0x872a5322405c7e59:0x7ce419f6250c0be4!8m2!3d33.3777948!4d-111.9358757!16s%2Fg%2F11dfpq2brs!19sChIJWX5cQCJTKocR5AsMJfYZ5Hw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8999346500367289316",
+  "placeId": "ChIJWX5cQCJTKocR5AsMJfYZ5Hw",
+  "googleRating": 5,
+  "googleReviewCount": 68,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8tTbivo7n687uVbDhSPozTICgFajFB8FCBobZXBfpyax-2-IX3EOXI0EKuGNXPsHRuNhmcpCaX-ndpjsuvoiwZr70j1KW7NgWhcH6wAo_huQ8RzWWiFoGL_FU5PjZTqlxzT92=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 68
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

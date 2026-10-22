@@ -1,0 +1,51 @@
+{
+  "slug": "charlies-cafe-tempe",
+  "name": "Charlie's Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "300 Orange Mall 727 E Tyler Street, 810 S Forest Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4213555,
+  "lng": -111.93684739999999,
+  "phone": "+16022452665",
+  "website": "http://www.lovecharlies.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Charlie%27s+Cafe/data=!4m7!3m6!1s0x872b08dbd45c25f3:0xdd1e6f3b3aa33376!8m2!3d33.4213555!4d-111.9368474!16s%2Fg%2F1tmklfn5!19sChIJ8yVc1NsIK4cRdjOjOjtvHt0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15933294831860921206",
+  "placeId": "ChIJ8yVc1NsIK4cRdjOjOjtvHt0",
+  "googleRating": 4,
+  "googleReviewCount": 91,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJkad07FRrFtLC9cRWI1Bkk9yGSYPVDKClkq61-Q5T8_bQM8L0i8DKE9-96Zv5ki-dyKEAflC1zbMiayV3OffQnmin1eujt0I0Ek4Ng9-9JjaCTDQXBb9FtGoLrAgpn2CRlTs=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 5,
+    "3": 11,
+    "4": 16,
+    "5": 50
+  },
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

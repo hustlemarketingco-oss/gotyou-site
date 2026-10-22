@@ -1,0 +1,53 @@
+{
+  "slug": "tempe-history-museum-tempe",
+  "name": "Tempe History Museum",
+  "category": "Fun & Activities",
+  "googleCategory": "Local history museum",
+  "secondaryCategories": [
+    "History museum",
+    "Tourist attraction"
+  ],
+  "address": "809 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3920862,
+  "lng": -111.92746869999999,
+  "phone": "+14803505100",
+  "website": "https://www.tempe.gov/government/community-services/tempe-history-museum",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+History+Museum/data=!4m7!3m6!1s0x872b0898eaeb5727:0x130fa5ee3e46584b!8m2!3d33.3920862!4d-111.9274687!16s%2Fm%2F0k5j700!19sChIJJ1fr6pgIK4cRS1hGPu6lDxM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1373498854036887627",
+  "placeId": "ChIJJ1fr6pgIK4cRS1hGPu6lDxM",
+  "googleRating": 4.7,
+  "googleReviewCount": 392,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclxr-0nnHcO5veJTG7_Xc_ql5Yc_CbVwHdHANHCWKCLlFuU9WAxwVpJJ16QP_k57HzkcnFoQvS9OopSyNhG7kfEFYI7bVNSSsi0r_uhGjyt7ot6T-ymBHugUpwdXJXhLkLNLM=w1200-h800-k-no",
+  "description": "Roomy museum highlighting Tempe's growth over the years, including via rotating displays & orations.",
+  "amenities": [
+    "Assistive hearing loop",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 4,
+    "3": 18,
+    "4": 65,
+    "5": 304
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

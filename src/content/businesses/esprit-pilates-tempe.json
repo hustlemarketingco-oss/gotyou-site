@@ -1,0 +1,46 @@
+{
+  "slug": "esprit-pilates-tempe",
+  "name": "Esprit Pilates",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "secondaryCategories": [
+    "Personal trainer"
+  ],
+  "address": "5410 S Lakeshore Dr Unit 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.375285999999996,
+  "lng": -111.9202777,
+  "phone": "+16026904073",
+  "website": "http://espritpilatesaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Esprit+Pilates/data=!4m7!3m6!1s0x872b0788904d1667:0xd9629d7cbae225ec!8m2!3d33.375286!4d-111.9202777!16s%2Fg%2F11g1npg8jt!19sChIJZxZNkIgHK4cR7CXiunydYtk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15664255612984894956",
+  "placeId": "ChIJZxZNkIgHK4cR7CXiunydYtk",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDZcKytx-UQVrAlDSRc0wiDLoBj33gHlEIW72SvJiNrdIExTP81_awyMigqb4YNKnXVQdeaXBgX5ZDE7N1sdA4Nr4GFQUQ31WuoR6XrcQOSiQ1WRWKwqIS6BrssvhGB7BJpz6WBCiy1CR8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "12:00 PM - 6:00 PM",
+    "tue": "7:30 AM - 6:00 PM",
+    "wed": "12:00 PM - 6:00 PM",
+    "thu": "7:30 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "12:00 PM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

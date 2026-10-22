@@ -1,0 +1,37 @@
+{
+  "slug": "kizomba-phoenix-at-nrg-studio-tempe",
+  "name": "Kizomba Phoenix at NRG Studio",
+  "category": "Local Business",
+  "googleCategory": "Dance company",
+  "address": "931 E Elliot Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3479191,
+  "lng": -111.927224,
+  "phone": "+15202227050",
+  "website": "https://www.kizombaphoenix.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kizomba+Phoenix+at+NRG+Studio/data=!4m7!3m6!1s0x872b0bf9dd894fa7:0x1013893e2e686e97!8m2!3d33.3479191!4d-111.927224!16s%2Fg%2F11rpzbx261!19sChIJp0-J3fkLK4cRl25oLj6JExA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1158420429323923095",
+  "placeId": "ChIJp0-J3fkLK4cRl25oLj6JExA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gKPuG8Wtg_dJAQ-k-LqG8Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=227.15471&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Open 24 hours",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

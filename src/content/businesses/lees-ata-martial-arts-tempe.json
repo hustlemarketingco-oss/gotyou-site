@@ -1,0 +1,51 @@
+{
+  "slug": "lees-ata-martial-arts-tempe",
+  "name": "Lee's ATA Martial Arts",
+  "category": "Health & Beauty",
+  "googleCategory": "Karate school",
+  "secondaryCategories": [
+    "Kickboxing school",
+    "Martial arts school",
+    "Martial arts supply store"
+  ],
+  "address": "825 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362646,
+  "lng": -111.92931899999999,
+  "phone": "+14808312124",
+  "website": "http://www.leesata.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lee%27s+ATA+Martial+Arts/data=!4m7!3m6!1s0x872b066ab38b7ba3:0xf88e381263b0432!8m2!3d33.362646!4d-111.929319!16s%2Fg%2F1thw2m02!19sChIJo3uLs2oGK4cRMgQ7JoHjiA8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1119394651233256498",
+  "placeId": "ChIJo3uLs2oGK4cRMgQ7JoHjiA8",
+  "googleRating": 4.5,
+  "googleReviewCount": 80,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfqVGhqX0VuVgSuN4_qUVwobzpO4Xc8be0xIPxwtexO9YWt1en9ZcqH5EpXCH9-V_VIO-BoNOI4IxkXdqdT5rhCBzs6e5m5jpwFXx19Klwv0Sh4eofFNUtDlzz1c4-8yU_eNc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 2,
+    "4": 1,
+    "5": 68
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "9:00 AM - 10:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

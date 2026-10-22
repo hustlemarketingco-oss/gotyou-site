@@ -1,0 +1,55 @@
+{
+  "slug": "mcdonalds-3255-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "3255 S 48th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932666,
+  "lng": -111.97776499999999,
+  "phone": "+16024382722",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/3255-S-48TH-ST/4909.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b0f6a378a661d:0xfc20910ed62d5dff!8m2!3d33.3932666!4d-111.977765!16s%2Fg%2F1hc5pnhb8!19sChIJHWaKN2oPK4cR_10t1g6RIPw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18167680389721447935",
+  "placeId": "ChIJHWaKN2oPK4cR_10t1g6RIPw",
+  "googleRating": 3.5,
+  "googleReviewCount": 1979,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfr4RX2XGIEyiqIw_hD_vfidUV0nboHJmHElExMz5SA2SHTElhhT9ikhchIWtA7ovx0AbxKwaj2vlPyilw9C1iK8RGGSU-BY62VbTscZJNY4DNOEiDk1IqbeC3Zv-VojudR37eS=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 369,
+    "2": 159,
+    "3": 341,
+    "4": 393,
+    "5": 717
+  },
+  "hours": {
+    "mon": "5:00 AM - 10:00 PM",
+    "tue": "5:00 AM - 10:00 PM",
+    "wed": "5:00 AM - 10:00 PM",
+    "thu": "5:00 AM - 10:00 PM",
+    "fri": "5:00 AM - 10:00 PM",
+    "sat": "Open 24 hours",
+    "sun": "5:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

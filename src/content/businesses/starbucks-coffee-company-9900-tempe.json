@@ -1,0 +1,54 @@
+{
+  "slug": "starbucks-coffee-company-9900-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "9900 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.321709999999996,
+  "lng": -111.93005,
+  "phone": "+14807836200",
+  "website": "https://www.starbucks.com/store-locator/store/1006158",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b06956f4c04d1:0x73124a324834d41c!8m2!3d33.32171!4d-111.93005!16s%2Fg%2F11c2k_t2mn!19sChIJ0QRMb5UGK4cRHNQ0SDJKEnM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8291771443762746396",
+  "placeId": "ChIJ0QRMb5UGK4cRHNQ0SDJKEnM",
+  "googleRating": 3.7,
+  "googleReviewCount": 40,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRTOSiX6tpzi9YhOBfrju0v-OxF0MVt1C5uaw9JLImmVTnwiaeqTftQQw4tEy0eekhS9Y-XZPbvOin-t7NRWYNFRWt3rnybvs5HWTR3Zd-SYa1ewvIV-384rghrl9fP-Ukw8yILw=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 20
+  },
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "6:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

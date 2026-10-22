@@ -1,0 +1,47 @@
+{
+  "slug": "wetzels-pretzels-xvmaxq-tempe",
+  "name": "Wetzel's Pretzels",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Pretzel store"
+  ],
+  "address": "5000 S Arizona Mills Cir Spc 310",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3822535,
+  "lng": -111.9641961,
+  "phone": "+14808391875",
+  "website": "https://www.wetzels.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wetzel%27s+Pretzels/data=!4m7!3m6!1s0x872b0f5b354b70a3:0x14034c153bec2dbf!8m2!3d33.3822535!4d-111.9641961!16s%2Fg%2F11zk3f986q!19sChIJo3BLNVsPK4cRvy3sOxVMAxQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1442079959772048831",
+  "placeId": "ChIJo3BLNVsPK4cRvy3sOxVMAxQ",
+  "googleRating": 1,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7FGNvEf96Zw-dM8eeZccLkh4GAHavupmlCFNt16r7TaEESsnC3W5xxBeoMhHTUgw8F2m0z3THz8QxLbfPgJ0XunOgUjHAa992Qc2TBvgooo-ZoahSfWa8sSUeaAS-tE-u9J7Ck4JcCCrU=w1200-h800-k-no",
+  "description": "Handcrafted pretzels come sweet or salty at this chain that also offers hot dogs & specialty dips.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

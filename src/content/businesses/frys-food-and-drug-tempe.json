@@ -21,26 +21,16 @@
   "lng": -111.941375,
   "phone": "+14808589096",
   "website": "http://www.frysfood.com/stores/details/660/00101?cid=loc66000101_gmb",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3395066149658764535",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fry%27s/data=!4m7!3m6!1s0x872b08a5502d9f37:0x2f1db2acdf5d24f7!8m2!3d33.3938905!4d-111.941375!16s%2Fg%2F1tfq9pnd!19sChIJN58tUKUIK4cR9yRd36yyHS8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3395066149658764535",
   "placeId": "ChIJN58tUKUIK4cR9yRd36yyHS8",
   "googleRating": 4.2,
-  "googleReviewCount": 1867,
+  "googleReviewCount": 1942,
   "description": "Outpost of a grocery store chain with typical offerings like produce, meat & household supplies.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Paid parking lot",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "7:00 AM - 11:00 PM",
@@ -57,5 +47,14 @@
   "groundgameId": "6a2439847871fc0c09648453",
   "seededAt": "2026-06-06T15:15:16Z",
   "updatedAt": "2026-06-06T15:15:16Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 142,
+    "2": 49,
+    "3": 196,
+    "4": 466,
+    "5": 1089
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn8rxY6xIUKAc7ca8XFkCv3-BXc7JnQWM-pUZvq6fVmE2TG6KKN8ULeho76WF_dmn8Ivx5mgfypnrMXEXDKV7n9_YLSC1ZBCPqFqEO1vSkgTLnV_5FnCpJL06cQRG7eEkX2yUY=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

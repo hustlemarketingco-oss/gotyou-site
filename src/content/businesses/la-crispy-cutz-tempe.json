@@ -1,0 +1,42 @@
+{
+  "slug": "la-crispy-cutz-tempe",
+  "name": "LA Crispy Cutz",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1644 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4483112,
+  "lng": -111.9269927,
+  "phone": "+14148996007",
+  "googleMapsUrl": "https://www.google.com/maps/place/LA+Crispy+Cutz/data=!4m7!3m6!1s0x872b09e00f127f6b:0x99673026f97cb0da!8m2!3d33.4483112!4d-111.9269927!16s%2Fg%2F11sx05267x!19sChIJa38SD-AJK4cR2rB8-SYwZ5k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11053856754356760794",
+  "placeId": "ChIJa38SD-AJK4cR2rB8-SYwZ5k",
+  "googleRating": 3.7,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGlsh8Kbo2jHMc9-636Ij1qNVTckwYQGJwTI8lORV2Q5p8KRxVOUEiAJ2gM6N1-ZiOcbbuv_KuIxvWfdXCH6V1DR0utZyS-fj5onnwiQe0ovquQ7RxU1x4H4tsb3S6PQ0ZDpU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "12:00 PM - 6:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

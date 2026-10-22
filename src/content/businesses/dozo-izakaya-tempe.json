@@ -1,0 +1,52 @@
+{
+  "slug": "dozo-izakaya-tempe",
+  "name": "DOZO Izakaya",
+  "category": "Restaurant",
+  "googleCategory": "Izakaya restaurant",
+  "secondaryCategories": [
+    "Sushi restaurant"
+  ],
+  "address": "440 W Warner Rd Ste 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352035,
+  "lng": -111.9445564,
+  "phone": "+14807854938",
+  "website": "http://dozoaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/DOZO+Izakaya/data=!4m7!3m6!1s0x872b068699b0dfad:0xef4e40ae2cb35b5b!8m2!3d33.3352035!4d-111.9445564!16s%2Fg%2F11bbwjx2sg!19sChIJrd-wmYYGK4cRW1uzLK5ATu8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17243791140066646875",
+  "placeId": "ChIJrd-wmYYGK4cRW1uzLK5ATu8",
+  "googleRating": 4.6,
+  "googleReviewCount": 617,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb1eTBAu3Oi9764SMoImM1y9p0u4Iz18BqzvWqLjJQKD3G8Hadm_ym6AvGE6x7qPdkRUZs_9z0ZBmdhKAD_QMxHZcdJUOrL5wz8FIUw1_7P40WoVlLnJZDdPhpcQQHPRnaG6WG=w1200-h800-k-no",
+  "description": "A variety of Japanese favorites served in relaxed surrounds with a sushi bar & heated patio.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 6,
+    "3": 28,
+    "4": 99,
+    "5": 460
+  },
+  "hours": {
+    "mon": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "tue": "Closed",
+    "wed": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "thu": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM",
+    "fri": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+    "sat": "12:00 PM - 2:00 PM, 5:00 PM - 8:30 PM",
+    "sun": "12:00 PM - 2:00 PM, 5:00 PM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

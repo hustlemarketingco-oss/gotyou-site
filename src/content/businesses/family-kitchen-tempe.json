@@ -1,0 +1,42 @@
+{
+  "slug": "family-kitchen-tempe",
+  "name": "Family Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "8545 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3374233,
+  "lng": -111.96706049999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Family+Kitchen/data=!4m7!3m6!1s0x872b05f2b4085251:0x590b032421a76004!8m2!3d33.3374233!4d-111.9670605!16s%2Fg%2F11v3wdnnnh!19sChIJUVIItPIFK4cRBGCnISQDC1k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6416225547837726724",
+  "placeId": "ChIJUVIItPIFK4cRBGCnISQDC1k",
+  "googleRating": 3,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfou1y8lV2gRQ-qLUBadLRfnDAkbnNIFedeS0FzUZEF6GHONWM12Gxr0KcQIBHTfViFXRcnMoG1pMVAwSXA3ooOZcZlyTwhhWfYmn_LzRG-RfNgwWf7vOPZXxcuWuNYwdbaNa86Pw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "3": 1
+  },
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

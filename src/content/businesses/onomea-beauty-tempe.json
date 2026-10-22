@@ -1,0 +1,42 @@
+{
+  "slug": "onomea-beauty-tempe",
+  "name": "Onomea Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "address": "2101 E Broadway Rd Ste 4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407242,
+  "lng": -111.8974045,
+  "phone": "+18334666632",
+  "website": "https://onomeaofficial.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Onomea+Beauty/data=!4m7!3m6!1s0x872b09654fe38663:0x9a4bc0dcf183037e!8m2!3d33.407242!4d-111.8974045!16s%2Fg%2F11twmm3v9s!19sChIJY4bjT2UJK4cRfgOD8dzAS5o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11118192160271434622",
+  "placeId": "ChIJY4bjT2UJK4cRfgOD8dzAS5o",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVi6ZTzI22EnvHIrhJ7PkRidu12AqojJp37oi8CO5ONLTk8CvMpVq3vZttlXIfNCS3lfRWE-E3uj_wCE5A5S2CvtEkrcDaKbTkSV_914wVb5VBioRYP_6Y0t4MO4s4MRiKZ89_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "12:00 PM - 6:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

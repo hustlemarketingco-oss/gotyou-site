@@ -1,0 +1,48 @@
+{
+  "slug": "reset-hair-studio-tempe",
+  "name": "RESET Hair Studio - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Hair salon",
+    "Hairdresser"
+  ],
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424190599999996,
+  "lng": -111.94153639999999,
+  "phone": "+14809154060",
+  "website": "https://resetbychampagne.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/RESET+Hair+Studio+-+Tempe/data=!4m7!3m6!1s0x872b095d7dd6c1ef:0x88b802bafd6a70dc!8m2!3d33.4241906!4d-111.9415364!16s%2Fg%2F11z3mcqv7p!19sChIJ78HWfV0JK4cR3HBq_boCuIg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9851627187011743964",
+  "placeId": "ChIJ78HWfV0JK4cR3HBq_boCuIg",
+  "googleRating": 5,
+  "googleReviewCount": 29,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdp5xL76BbwJJbl_ldr53wAzdr0uUjsFbjaSlOQcfAIeyuguP3RNWtGT4wMkLGy-au9cghDrPqANqXFXNgrrUdQ_TRTxmXwUmrY3sqJpM-z31SKdL6L5yGYTvLZxQTq30wFENRNO7aaRwB1=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 29
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:30 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

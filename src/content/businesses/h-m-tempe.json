@@ -16,7 +16,7 @@
   "source": "groundgame",
   "placeId": "ChIJA43_TFUIK4cRvXZbqlfJwgw",
   "googleCid": "919518652294461117",
-  "googleMapsUrl": "https://maps.google.com/?cid=919518652294461117",
+  "googleMapsUrl": "https://www.google.com/maps/place/H%26M/data=!4m7!3m6!1s0x872b08554cff8d03:0xcc2c957aa5b76bd!8m2!3d33.4327091!4d-111.9033879!16s%2Fg%2F11bxdsjhmf!19sChIJA43_TFUIK4cRvXZbqlfJwgw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.2,
   "googleReviewCount": 468,
   "ratingBreakdown": {
@@ -26,13 +26,13 @@
     "4": 121,
     "5": 258
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0OHOMV5HQzctva56xXCEt9kc3Ms8e3fIxfR_AxHi9e9adqCmaLUsw22SLMGg-aqpFX7QC6GdQ1VcCx6TUrjoRYFXN20S2_r21ByokvFIuxnEabBg6Hjng5tTxYwHMEj3BJzqd=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLSlA3_byA3HTESgs4nDS54RZoOu7jNY5Ol_7txOjh_SnigykLhw3A9t-wuFUsjsv1NLe78k15XXXzE5v0GrWc39RyfeSGBoEsVhLLOS2O-mPBiGP-4TY5t5MmKntAwkWNxNcC=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "11 AM - 9 PM",
     "tue": "11 AM - 9 PM",
@@ -44,5 +44,12 @@
   },
   "website": "https://www2.hm.com/en_us/customer-service/shopping-at-hm/store-locator/usa/tempe/tempe-market-place/US0443.html?utm_source=google_location&utm_medium=organic&utm_content=US0443&utm_campaign=pi_USQ00AAU0AA004",
   "lat": 33.4327091,
-  "lng": -111.9033879
+  "lng": -111.9033879,
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Cosmetics store",
+    "Men's clothing store",
+    "Women's clothing store"
+  ]
 }

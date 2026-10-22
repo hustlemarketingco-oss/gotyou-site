@@ -1,0 +1,54 @@
+{
+  "slug": "claires-5000-tempe",
+  "name": "Claire's",
+  "category": "Health & Beauty",
+  "googleCategory": "Ear piercing service",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Boutique",
+    "Children's store",
+    "Cosmetics store",
+    "Costume jewelry shop"
+  ],
+  "address": "5000 Arizona Mills",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3822346,
+  "lng": -111.9652078,
+  "phone": "+14808386860",
+  "website": "https://stores.claires.com/az/tempe/3338.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Claire%27s/data=!4m7!3m6!1s0x872b0f59e1444903:0xad264d7437779f70!8m2!3d33.3822346!4d-111.9652078!16s%2Fg%2F1thgby0g!19sChIJA0lE4VkPK4cRcJ93N3RNJq0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12476744979218669424",
+  "placeId": "ChIJA0lE4VkPK4cRcJ93N3RNJq0",
+  "googleRating": 4.2,
+  "googleReviewCount": 81,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5mEXbQU-5dWI2Afvvs1fBSJ014On8Ox_gfLJcAH44e9sENFBgcyENH0jzFZrHXx0hDMHCqy4Up870OzNGFmQPQJbBzQ_2w-qu0Y7eYnebU08qzFOCZQ6Fy-aHdAisq48D__AfNA=w1200-h800-k-no",
+  "description": "Chain retailer for an array of jewelry & fashion accessories, plus beauty & make-up products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 9,
+    "4": 12,
+    "5": 51
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

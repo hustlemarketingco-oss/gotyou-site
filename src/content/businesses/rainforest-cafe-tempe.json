@@ -15,8 +15,8 @@
   "phone": "+14807529100",
   "website": "https://www.rainforestcafe.com/location/rainforest-cafe-arizona-mills-az/",
   "placeId": "ChIJdWdv8VkPK4cRluqCIDTawfg",
-  "googleRating": 4.3,
-  "googleReviewCount": 6886,
+  "googleRating": 4.4,
+  "googleReviewCount": 8189,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a62734f7bb8bb2274b35dfb",
   "seededAt": "2026-07-23T20:02:23Z",
   "updatedAt": "2026-07-23T20:02:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17924847909329889942",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rainforest+Cafe/data=!4m7!3m6!1s0x872b0f59f16f6775:0xf8c1da342082ea96!8m2!3d33.3836286!4d-111.965294!16s%2Fg%2F1v1tnj_8!19sChIJdWdv8VkPK4cRluqCIDTawfg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 445,
+    "2": 338,
+    "3": 624,
+    "4": 1196,
+    "5": 5586
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0dNorsrtnFqU9Gt3c5ioGzDy7kWaGYvYlohSUBcz_02j9r9PUF88Jfv9j0_Uv0cVfusz9mw6nZej23Wb4_7rhYIS3-p2omMvXSvFXFvr653CYK7yO98JA-aj-Dz7ZOQrUJSaqyw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

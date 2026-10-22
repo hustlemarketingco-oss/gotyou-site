@@ -1,0 +1,53 @@
+{
+  "slug": "urban-outfitters-tempe",
+  "name": "Urban Outfitters",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Fashion accessories store",
+    "Home goods store",
+    "Shoe store"
+  ],
+  "address": "545 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4245534,
+  "lng": -111.93975859999999,
+  "phone": "+14809667250",
+  "website": "https://www.urbanoutfitters.com/stores/tempe?utm_medium=organic&utm_source=google&utm_campaign=local&utm_content=22",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urban+Outfitters/data=!4m7!3m6!1s0x872b08d823996c4d:0x5a9465b80b8d251!8m2!3d33.4245534!4d-111.9397586!16s%2Fg%2F1tnjk0nd!19sChIJTWyZI9gIK4cRUdK4gFtGqQU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "407934600069304913",
+  "placeId": "ChIJTWyZI9gIK4cRUdK4gFtGqQU",
+  "googleRating": 4.2,
+  "googleReviewCount": 219,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRPMnda2ijcN0On1ZWCk_TjwaLsG7BnQRM75fi7Eio-ARzuvHJ_KR0QonhYD2bbjdcaMoBhX_O2UW7gqzUHi38-oimkV9ZRxsyjlY18jqRrnA05GDHPGdwj8s2Tq-w6jbdlaKS=w1200-h800-k-no",
+  "description": "Chain with a hipster vibe known for on-trend fashions, accessories & quirky home-decor items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 9,
+    "3": 30,
+    "4": 47,
+    "5": 120
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

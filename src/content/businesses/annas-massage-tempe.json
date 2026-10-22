@@ -1,0 +1,46 @@
+{
+  "slug": "annas-massage-tempe",
+  "name": "Anna's Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "95 E Southern Ave Suite 95",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391572,
+  "lng": -111.937624,
+  "phone": "+14805698339",
+  "website": "https://soothinghandsmassagetempeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Anna%27s+Massage/data=!4m7!3m6!1s0x872b09af583d3679:0xdd9886b8fef3bb37!8m2!3d33.391572!4d-111.937624!16s%2Fg%2F11xrw90lyt!19sChIJeTY9WK8JK4cRN7vz_riGmN0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15967660607951584055",
+  "placeId": "ChIJeTY9WK8JK4cRN7vz_riGmN0",
+  "googleRating": 4.8,
+  "googleReviewCount": 79,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8pmypBMm57dTkZvozhDZE5B1IoyCYbC9r9E6eLRrZYhutxo6wsIas3GZursLM_AoWm4jIFw94tzMlsA-MHu-tV6qVJbax2q-SoKUrTWFWlkw47YZdkEFX0tmG4dLfHuvsO3JbHt6ZHpcz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 1,
+    "5": 75
+  },
+  "hours": {
+    "mon": "9:30 AM - 9:30 PM",
+    "tue": "9:30 AM - 9:30 PM",
+    "wed": "9:30 AM - 9:30 PM",
+    "thu": "9:30 AM - 9:30 PM",
+    "fri": "9:30 AM - 9:30 PM",
+    "sat": "9:30 AM - 9:30 PM",
+    "sun": "9:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

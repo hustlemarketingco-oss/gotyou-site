@@ -1,0 +1,43 @@
+{
+  "slug": "the-handlebar-tempe",
+  "name": "The Handlebar Tempe",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "secondaryCategories": [
+    "Restaurant",
+    "Sports bar"
+  ],
+  "address": "680 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.423630599999996,
+  "lng": -111.94024689999999,
+  "phone": "+14805903642",
+  "website": "https://handlebaraz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Handlebar+Tempe/data=!4m7!3m6!1s0x872b098ae0896db1:0x1bfa3d5bd826cb21!8m2!3d33.4236306!4d-111.9402469!16s%2Fg%2F11t5sfbpvw!19sChIJsW2J4IoJK4cRIcsm2Fs9-hs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2015991247879457569",
+  "placeId": "ChIJsW2J4IoJK4cRIcsm2Fs9-hs",
+  "googleRating": 3.6,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLRbIW-R8f988_cqkyzTDpAET_b7EZupG6RndBYTXwbhaQdLyBbEK9u5Wtbm1LNQLyy6e80QD33PEJuqLcc4rOx_yVPz-oLtUAf72WFSWym4qGyzi6dVg-B6vs8VcinIX_sDPn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 3,
+    "3": 1,
+    "4": 6,
+    "5": 18
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

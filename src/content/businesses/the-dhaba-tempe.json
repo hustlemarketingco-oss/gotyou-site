@@ -16,17 +16,17 @@
   "lng": -111.905125,
   "phone": "+14805578800",
   "website": "https://the-dhaba.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12488809402825761757",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Dhaba/data=!4m7!3m6!1s0x872b08f58cfc318d:0xad5129fbbafce3dd!8m2!3d33.4150806!4d-111.905125!16s%2Fg%2F1tgz5yw6!19sChIJjTH8jPUIK4cR3eP8uvspUa0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12488809402825761757",
   "placeId": "ChIJjTH8jPUIK4cR3eP8uvspUa0",
   "googleRating": 4.2,
-  "googleReviewCount": 2065,
+  "googleReviewCount": 2127,
   "description": "This modest Indian market selling traditional grocery items also offers an on-site restaurant.",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 9:00 PM",
@@ -43,5 +43,14 @@
   "groundgameId": "6a24377b86530785cf5369c2",
   "seededAt": "2026-06-06T15:06:35Z",
   "updatedAt": "2026-07-27T19:00:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 256,
+    "2": 73,
+    "3": 127,
+    "4": 247,
+    "5": 1424
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYAPfOMQz8vkwS25YTvYBHMyBJxnk7opLxeE8GVnAVfRI0ba4KzGYzDnDur7jSKfH87lA0PdlmPNvmTMhI4u40SIaPShKCfY8APCTrRY3khpnHNVXTKYpX-CWunsuMuCxfQRJhl00XrDwB=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

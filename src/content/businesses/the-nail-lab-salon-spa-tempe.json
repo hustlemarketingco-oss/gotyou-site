@@ -1,0 +1,46 @@
+{
+  "slug": "the-nail-lab-salon-spa-tempe",
+  "name": "The Nail Lab Salon & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "3120 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394854699999996,
+  "lng": -111.9405094,
+  "phone": "+14809668667",
+  "website": "https://www.instagram.com/thenaillab.salonspa/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Nail+Lab+Salon+%26+Spa/data=!4m7!3m6!1s0x872b09ad7e2bfd95:0x20b7b2a33d8e9dc8!8m2!3d33.3948547!4d-111.9405094!16s%2Fg%2F11mvy93xzn!19sChIJlf0rfq0JK4cRyJ2OPaOytyA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2357549344133914056",
+  "placeId": "ChIJlf0rfq0JK4cRyJ2OPaOytyA",
+  "googleRating": 4.1,
+  "googleReviewCount": 162,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn42iywwU-_FtvGbbclCy9x7ZoQM6Q2_RsM-W4_8OgQIEu3ZO2Vuz7-Wm2kC7MFL_PIigJwwArSOA02R1i-opxWQPXHlDwL1XLTckms7TZuAwco5kSy4M45mcgED5g5aty_mrkMg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 30,
+    "2": 4,
+    "3": 5,
+    "4": 3,
+    "5": 120
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

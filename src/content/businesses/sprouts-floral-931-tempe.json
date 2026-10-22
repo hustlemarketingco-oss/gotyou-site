@@ -1,0 +1,36 @@
+{
+  "slug": "sprouts-floral-931-tempe",
+  "name": "Sprouts Floral",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "address": "931 E Elliot Rd Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3478628,
+  "lng": -111.9273001,
+  "website": "https://www.sprouts.com/healthy-living/fresh-flowers/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sprouts+Floral/data=!4m7!3m6!1s0x872b07005576f117:0xeccb61ff61844419!8m2!3d33.3478628!4d-111.9273001!16s%2Fg%2F11w98dsjxc!19sChIJF_F2VQAHK4cRGUSEYf9hy-w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17062839362703868953",
+  "placeId": "ChIJF_F2VQAHK4cRGUSEYf9hy-w",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N3vd9bN7HU2hKSjT7zJzXg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=203.24649&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

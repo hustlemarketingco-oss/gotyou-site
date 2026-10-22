@@ -1,0 +1,42 @@
+{
+  "slug": "campside-barbershop-tempe",
+  "name": "Campside Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "5235 S Kyrene Rd Unit 209",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377108199999995,
+  "lng": -111.9456002,
+  "phone": "+16023345559",
+  "website": "http://campsidebarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Campside+Barbershop/data=!4m7!3m6!1s0x872b096d82f03109:0xa2e8068e75dc66fb!8m2!3d33.3771082!4d-111.9456002!16s%2Fg%2F11vz30gcm3!19sChIJCTHwgm0JK4cR-2bcdY4G6KI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11738639637673699067",
+  "placeId": "ChIJCTHwgm0JK4cR-2bcdY4G6KI",
+  "googleRating": 5,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_vGZ_kPr0XFy9Wv8kS_q3jv3kjyEJMxHKG62MJ4VpttkSSVvIKGUZB11AXKCteKo67yAoOiy63cT46yc-9Hb7xlFS5Y_n4IAWkoCwZamrw28bx1uV-niqhXUotUWOeHz3fYjtTq_Kq0Y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 31
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

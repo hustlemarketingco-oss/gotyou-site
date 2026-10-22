@@ -1,0 +1,46 @@
+{
+  "slug": "lotus-massage-tempe",
+  "name": "Lotus Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "6471 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3628037,
+  "lng": -111.9277482,
+  "phone": "+16028163222",
+  "website": "https://lotusmassageaz.wixsite.com/lotusmassage",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lotus+Massage/data=!4m7!3m6!1s0x872b0779f1ca07a3:0x48ba708e6f386213!8m2!3d33.3628037!4d-111.9277482!16s%2Fg%2F11l5dx7gc8!19sChIJowfK8XkHK4cRE2I4b45wukg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5240624873452626451",
+  "placeId": "ChIJowfK8XkHK4cRE2I4b45wukg",
+  "googleRating": 4.7,
+  "googleReviewCount": 70,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYSaMFh0hMkYEsP3wNPpvLM-R8yrL8WNhoKvM4OBgBUL0j970qmLQ0uF9jnBDpWZSahVVs2BzjAUfQK8hlHI0kZP1nlk6R1IJBbjw_EC0rGvJtzj05A0gRCSF8-YKVzUWhei1uor8Jgfap=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "5": 64
+  },
+  "hours": {
+    "mon": "9:00 AM - 10:00 PM",
+    "tue": "9:00 AM - 10:00 PM",
+    "wed": "9:00 AM - 10:00 PM",
+    "thu": "9:00 AM - 10:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

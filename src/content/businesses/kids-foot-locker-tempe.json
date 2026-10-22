@@ -1,0 +1,51 @@
+{
+  "slug": "kids-foot-locker-tempe",
+  "name": "Kids Foot Locker",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Sportswear store"
+  ],
+  "address": "5000 S Arizona Mills Cir Spc 202",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3839906,
+  "lng": -111.964011,
+  "phone": "+14808313005",
+  "website": "https://stores.kidsfootlocker.com/az/tempe/5000-arizona-mills-circle-46652.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kids+Foot+Locker/data=!4m7!3m6!1s0x872b0f59e5500b59:0x9f45e09301c39783!8m2!3d33.3839906!4d-111.964011!16s%2Fg%2F1tds74nl!19sChIJWQtQ5VkPK4cRg5fDAZPgRZ8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11476826147417986947",
+  "placeId": "ChIJWQtQ5VkPK4cRg5fDAZPgRZ8",
+  "googleRating": 4.1,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1GUvfABp92GPPvhDJvGwskkrZZvp4hnJda29eH_5rn_g4eEUHZmtcz0h8pU5DRzXuHaGVVtRhmUD_UfdF9JgyYWFzKZ4je2MSAQOwzN8VoIAIRbMzj6GlxWOsUZuHSfkmtilx=w1200-h800-k-no",
+  "description": "Retail chain with brand-name athletic shoes, clothing & related accessories for men, women & kids.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 24
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

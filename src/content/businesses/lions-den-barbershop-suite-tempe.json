@@ -1,0 +1,43 @@
+{
+  "slug": "lions-den-barbershop-suite-tempe",
+  "name": "Lion's Den Barbershop Suite",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7720 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348132,
+  "lng": -111.96532339999999,
+  "website": "http://thelionsdensuite.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lion%27s+Den+Barbershop+Suite/data=!4m7!3m6!1s0x872b09b2db709247:0xa0422a48f65980a7!8m2!3d33.348132!4d-111.9653234!16s%2Fg%2F11ts74r9d2!19sChIJR5Jw27IJK4cRp4BZ9kgqQqA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11547838887390445735",
+  "placeId": "ChIJR5Jw27IJK4cRp4BZ9kgqQqA",
+  "googleRating": 4.6,
+  "googleReviewCount": 10,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t8omwTvngDxGRbPOaIC8AQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=279.91702&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 9
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

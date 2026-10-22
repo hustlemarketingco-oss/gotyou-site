@@ -16,7 +16,7 @@
   "website": "https://www.wingstop.com/location/wingstop-1094-tempe-az-85282/menu?y_source=1_NTUyMDY4NzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJK4h2fWAPK4cR_t6tpZ-k28I",
   "googleRating": 3.3,
-  "googleReviewCount": 516,
+  "googleReviewCount": 521,
   "priceRange": "$$",
   "hours": {
     "mon": "10:30 AM - 1:00 AM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a4e91c87efba064348d9fc9",
   "seededAt": "2026-07-08T18:07:04Z",
   "updatedAt": "2026-07-08T18:07:05Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14040997268844044030",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wingstop/data=!4m7!3m6!1s0x872b0f607d76882b:0xc2dba49fa5addefe!8m2!3d33.3797779!4d-111.9778992!16s%2Fg%2F11bzq40wdf!19sChIJK4h2fWAPK4cR_t6tpZ-k28I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 155,
+    "2": 37,
+    "3": 32,
+    "4": 75,
+    "5": 222
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4ZrfsIRZacPKTtI_tW5p8zVioe9YwGkGDHHGcoVd-oQibHQkgF-LvT-U2YvrkGcbITjA-d9zur7Obin7HfzkaJjTSUvG082E-SJGa2GZg_xtTm9J8GHBtqen9vkqHcG1-C2_6rg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

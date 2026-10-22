@@ -1,0 +1,46 @@
+{
+  "slug": "csc-holistic-alignment-tempe",
+  "name": "CSC Holistic Alignment",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Craniosacral therapy",
+    "Reflexologist",
+    "Thai massage therapist"
+  ],
+  "address": "4535 S Lakeshore Dr Ste 6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382007099999996,
+  "lng": -111.9252357,
+  "website": "https://cscholisticalignment.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/CSC+Holistic+Alignment/data=!4m7!3m6!1s0x872b07fcd0f7445d:0x3d21ae593fe5d580!8m2!3d33.3820071!4d-111.9252357!16s%2Fg%2F11mm7bf_k0!19sChIJXUT30PwHK4cRgNXlP1muIT0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4404993608892405120",
+  "placeId": "ChIJXUT30PwHK4cRgNXlP1muIT0",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cv7U-K2bjXMwyRC1InhtkQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=17.29609&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 12
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 12:00 AM",
+    "wed": "12:00 AM - 8:30 AM, 12:00 PM - 8:30 PM",
+    "thu": "12:00 PM - 8:30 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

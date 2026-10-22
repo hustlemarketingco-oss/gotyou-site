@@ -1,0 +1,45 @@
+{
+  "slug": "healthy-nails-spa-tempe",
+  "name": "Healthy Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1720 E Warner Rd Unit 7",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3352904,
+  "lng": -111.9126459,
+  "phone": "+14802076802",
+  "googleMapsUrl": "https://www.google.com/maps/place/Healthy+Nails+%26+Spa/data=!4m7!3m6!1s0x872b06fb33972207:0x41ab6dc91cdba02!8m2!3d33.3352904!4d-111.9126459!16s%2Fg%2F11fy4znfjd!19sChIJByKXM_sGK4cRArrNkdy2GgQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "295749784001427970",
+  "placeId": "ChIJByKXM_sGK4cRArrNkdy2GgQ",
+  "googleRating": 4.3,
+  "googleReviewCount": 28,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMgYMWMYzHdsp_aUkYD_s3fjdpZVlMla3iEjq2SwWD7iJ_Nd62nkcQGHoLgaNEsvdNxBU8zYA0s9oUE5b7x25KjpoGWLyOcnZXpcrbvX2V6lF5F-zHjONHpOrZf3g1Hw6FIyvq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "4": 2,
+    "5": 21
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

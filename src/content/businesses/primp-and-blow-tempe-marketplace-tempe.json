@@ -1,0 +1,53 @@
+{
+  "slug": "primp-and-blow-tempe-marketplace-tempe",
+  "name": "Primp and Blow Tempe Marketplace",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Hair extension technician",
+    "Hair extensions supplier",
+    "Make-up artist"
+  ],
+  "address": "2040 E Rio Salado Pkwy Bldg M Suite #115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.432362399999995,
+  "lng": -111.9025513,
+  "phone": "+14804459858",
+  "website": "https://primpandblow.com/locations/primp-and-blow-tempe-marketplace/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Primp+and+Blow+Tempe+Marketplace/data=!4m7!3m6!1s0x872b092d3384273f:0xd9fa799a3d4c20ba!8m2!3d33.4323624!4d-111.9025513!16s%2Fg%2F11srhd3mdk!19sChIJPyeEMy0JK4cRuiBMPZp5-tk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15707000353768349882",
+  "placeId": "ChIJPyeEMy0JK4cRuiBMPZp5-tk",
+  "googleRating": 4.8,
+  "googleReviewCount": 236,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKg5qN7One9y4uSC-PGflzDDX227PAQm2x5aUATX7E9QdaRnCROvXLLvMmsZpSjDxMjGW_6DUPsfRNG4oqYvaulbKQHbOQBSjd5_HGu48JlffgqcmORMSs49aO_LVZsTBh-jl99dxgZJw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 6,
+    "3": 3,
+    "4": 1,
+    "5": 220
+  },
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

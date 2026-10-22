@@ -1,0 +1,33 @@
+{
+  "slug": "thrive-climbing-tempe",
+  "name": "Thrive Climbing",
+  "category": "Fun & Activities",
+  "googleCategory": "Rock climbing",
+  "secondaryCategories": [
+    "Rock climbing gym"
+  ],
+  "address": "2717 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3917657,
+  "lng": -111.97674219999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Thrive+Climbing/data=!4m7!3m6!1s0x872b0f69e5728c21:0x33a4aedbfd62c2ea!8m2!3d33.3917657!4d-111.9767422!16s%2Fg%2F11f4lf5rr7!19sChIJIYxy5WkPK4cR6sJi_duupDM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3721291451987051242",
+  "placeId": "ChIJIYxy5WkPK4cR6sJi_duupDM",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

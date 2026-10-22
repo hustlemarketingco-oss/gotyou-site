@@ -1,0 +1,52 @@
+{
+  "slug": "electric-pickle-tempe",
+  "name": "Electric Pickle",
+  "category": "Restaurant",
+  "googleCategory": "Eclectic restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Pickleball court"
+  ],
+  "address": "8688 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3361419,
+  "lng": -111.9677998,
+  "phone": "+14805204000",
+  "website": "http://www.electricpickle.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Electric+Pickle/data=!4m7!3m6!1s0x872b056d59ea2899:0x8186b75443ee9b1e!8m2!3d33.3361419!4d-111.9677998!16s%2Fg%2F11w91dmyqj!19sChIJmSjqWW0FK4cRHpvuQ1S3hoE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9333348850316778270",
+  "placeId": "ChIJmSjqWW0FK4cRHpvuQ1S3hoE",
+  "googleRating": 4.6,
+  "googleReviewCount": 603,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnCQy3Z_W4YN9BlyDjBZlDBm3bkzXLdUJ9Gvm6Mlsvkqr7zqJf99C7tjFun7N7gBHUFK3rYADM32a5pc3xnhCJpRaWHzwoD2YlW2hD3g3C-xXmzcepYOq6x8zf91k08RcAU6z7PiBngps4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 16,
+    "3": 21,
+    "4": 60,
+    "5": 489
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

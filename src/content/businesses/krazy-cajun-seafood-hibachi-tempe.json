@@ -11,29 +11,18 @@
   "lng": -111.9291833,
   "phone": "+14804544666",
   "website": "https://www.krazycajunseafoodhibachi.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=664603501568164811",
+  "googleMapsUrl": "https://www.google.com/maps/place/Krazy+Cajun+Seafood+%26+Hibachi-Tempe/data=!4m7!3m6!1s0x872b078734fb4699:0x939255d0b7383cb!8m2!3d33.3220907!4d-111.9291833!16s%2Fg%2F11y5zfg8fr!19sChIJmUb7NIcHK4cRy4NzC10lOQk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "664603501568164811",
   "placeId": "ChIJmUb7NIcHK4cRy4NzC10lOQk",
-  "googleRating": 4.6,
-  "googleReviewCount": 135,
+  "googleRating": 4.5,
+  "googleReviewCount": 184,
   "priceRange": "$10–60",
   "description": "Located in Tempe, Krazy Cajun Seafood & Hibachi-Tempe is a casual, trendy restaurant with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -50,5 +39,14 @@
   "groundgameId": "6a243a032c366bded3dd7bd7",
   "seededAt": "2026-06-06T15:17:23Z",
   "updatedAt": "2026-06-06T15:17:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 4,
+    "3": 3,
+    "4": 13,
+    "5": 147
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3Pr66KMLUQDt0XoF8SjVYlqU_pERTXy77Ysx6JrXNSR-pdm13q-r1kSm9ykEK_XIXjz5CIgezy0QcLOq5gmqDHhJx6DiD718YbWAapgPWmc3mfjpaBs4Jr6jDBNYrgvc0DZlqEknzIlxq=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

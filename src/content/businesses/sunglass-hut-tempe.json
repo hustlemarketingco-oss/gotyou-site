@@ -1,0 +1,51 @@
+{
+  "slug": "sunglass-hut-tempe",
+  "name": "Sunglass Hut",
+  "category": "Shopping",
+  "googleCategory": "Sunglasses store",
+  "secondaryCategories": [
+    "Fashion accessories store",
+    "Gift shop",
+    "Shopping mall"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 635",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3846859,
+  "lng": -111.96475609999999,
+  "phone": "+14807559184",
+  "website": "https://stores.sunglasshut.com/us/az/tempe/5000-s-arizona-mills-cir-1804?cid=YEXT_1804&y_source=1_MTE0MzUwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunglass+Hut/data=!4m7!3m6!1s0x872b0f59e1444903:0xb28347da461f9463!8m2!3d33.3846859!4d-111.9647561!16s%2Fg%2F1261z4yrr!19sChIJA0lE4VkPK4cRY5QfRtpHg7I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12863203963505185891",
+  "placeId": "ChIJA0lE4VkPK4cRY5QfRtpHg7I",
+  "googleRating": 3.8,
+  "googleReviewCount": 30,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQgZInOeAQj-fUAC9yEvBmENXGtmhtdxO_0XHLjsjQ8qJCFeXlb-jRmpOFVkrrO88SlcY8aVGO-SkUU3zz-XJOOnxsCQvFhIyquNt_F6hTHYi0VuDzhhcmBBKtrqeC0X3XkznB=w1200-h800-k-no",
+  "description": "Chain retailer carrying a wide selection of trendy brand-name & designer sunglasses.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "3": 3,
+    "4": 6,
+    "5": 15
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

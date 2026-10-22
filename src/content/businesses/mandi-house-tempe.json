@@ -2,7 +2,7 @@
   "slug": "mandi-house-tempe",
   "name": "Mandi House",
   "category": "Restaurant",
-  "googleCategory": "Middle eastern restaurant",
+  "googleCategory": "Middle Eastern restaurant",
   "secondaryCategories": [
     "Halal restaurant"
   ],
@@ -16,7 +16,7 @@
   "website": "https://mandihouse.shop/",
   "placeId": "ChIJm5Qx8fMIK4cReqypoEtSJPQ",
   "googleRating": 4.3,
-  "googleReviewCount": 1245,
+  "googleReviewCount": 1301,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -33,5 +33,21 @@
   "groundgameId": "6a625d0a937d6c2154b7af1c",
   "seededAt": "2026-07-23T18:27:22Z",
   "updatedAt": "2026-07-27T19:25:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17592276529187499130",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mandi+House/data=!4m7!3m6!1s0x872b08f3f131949b:0xf424524ba0a9ac7a!8m2!3d33.4145557!4d-111.9109164!16s%2Fg%2F11c6vr2xdx!19sChIJm5Qx8fMIK4cReqypoEtSJPQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 129,
+    "2": 37,
+    "3": 71,
+    "4": 160,
+    "5": 904
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4ekdNXBqcE0KdGovDL4_U0yXP9RHfPtXTqkD4V7zmWiPkpCVW4QS5ZrPDRPI3Eihxpaxzy2qB2kSmmnQ576qf6SjDeRLhEGwc38E3DThSLnvwPQUBhApFn0xoc5MafZKUvuxNDw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -21,13 +21,13 @@
   "website": "https://locations.wabagrill.com/ll/us/az/tempe/555-n-scottsdale-rd/",
   "placeId": "ChIJl4MYKhkJK4cR79miA8NcN0U",
   "googleRating": 3.6,
-  "googleReviewCount": 340,
+  "googleReviewCount": 353,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:00 AM - 10:00 PM",
@@ -44,5 +44,16 @@
   "groundgameId": "6a3435f4c071c0a45d9233f9",
   "seededAt": "2026-06-18T18:16:20Z",
   "updatedAt": "2026-09-14T22:16:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4987557104985496047",
+  "googleMapsUrl": "https://www.google.com/maps/place/WaBa+Grill/data=!4m7!3m6!1s0x872b09192a188397:0x45375cc303a2d9ef!8m2!3d33.4343256!4d-111.9253982!16s%2Fg%2F11c75_qsvq!19sChIJl4MYKhkJK4cR79miA8NcN0U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 70,
+    "2": 27,
+    "3": 32,
+    "4": 60,
+    "5": 164
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe44zuqET6fEZhj47v12J4dMT1wJtH5IAsUk_wEvwNK4en07D87w_acG7X3XMuuBVzNX3St9BntJNaYaGyCrGXZByfzZ2RujIeDx9u-sFW8ea3b0R3vrDplYVLMPW_Kp8jfs3FD=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

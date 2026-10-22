@@ -1,0 +1,59 @@
+{
+  "slug": "jack-in-the-box-3102-tempe",
+  "name": "Jack in the Box",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Dessert restaurant",
+    "Hamburger restaurant",
+    "Delivery Restaurant",
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "3102 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3947861,
+  "lng": -111.94016529999999,
+  "phone": "+14808941077",
+  "website": "https://locations.jackinthebox.com/us/az/tempe/3102-s-mill-ave?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jack+in+the+Box/data=!4m7!3m6!1s0x872b08baa6184d09:0xf024fc6cc7f67585!8m2!3d33.3947861!4d-111.9401653!16s%2Fg%2F1thbx3gv!19sChIJCU0YproIK4cRhXX2x2z8JPA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17304233212405773701",
+  "placeId": "ChIJCU0YproIK4cRhXX2x2z8JPA",
+  "googleRating": 3.9,
+  "googleReviewCount": 669,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1YPEkzxpdI97t1Yyb8kqFujjuXhfm2PzHEiFzSIuakkxAe-fjgdAtgrndgOZD8_vNuFDTksuaHcX2pCVv0gmMLRrsM9ozAZohz3QdvZYlNCXEF8Uz4d4P19TNsDolmisF6WBP=w1200-h800-k-no",
+  "description": "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 88,
+    "2": 35,
+    "3": 77,
+    "4": 143,
+    "5": 326
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

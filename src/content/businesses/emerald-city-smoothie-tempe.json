@@ -15,19 +15,8 @@
   "phone": "+14806877136",
   "description": "Health-focused smoothie chain serving diverse flavors with optional add-ins.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/EmeraldCitySmoothie"
@@ -38,5 +27,31 @@
   "groundgameId": "6a2435e9f0d7cebc7d9c25e1",
   "seededAt": "2026-06-06T14:59:53Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJHYuUSdkIK4cRJUHRnT4eRTs",
+  "googleCid": "4270853075915325733",
+  "googleMapsUrl": "https://www.google.com/maps/place/Emerald+City+Smoothie/data=!4m7!3m6!1s0x872b08d949948b1d:0x3b451e3e9dd14125!8m2!3d33.4230136!4d-111.9347356!16s%2Fg%2F11rp1zj_f5!19sChIJHYuUSdkIK4cRJUHRnT4eRTs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 19,
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 1,
+    "4": 2,
+    "5": 13
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNJVtyqgj28-ioUQV6dzzmHQMnxYUD9hPScyBIIR-GZmSFDpmJmekKczp07zH0iGB_d5bBptzMUfg4aGx0qlFF4J3ZOJa6YKqvcwqWwefLhGZkTvYmWvaP5J4bxGWF4A9_OyHf=w1200-h800-k-no",
+  "website": "https://www.emeraldcitysmoothie.com/",
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "lat": 33.4230136,
+  "lng": -111.9347356,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "beauty-x-natasha-llc-tempe",
+  "name": "Beauty X Natasha LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyebrow bar",
+  "secondaryCategories": [
+    "Facial spa",
+    "Waxing hair removal service"
+  ],
+  "address": "2039 S Mill Ave Suite C-18",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061965,
+  "lng": -111.9394348,
+  "phone": "+14805698499",
+  "website": "https://beautyxnatasha.my.canva.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Beauty+X+Natasha+LLC/data=!4m7!3m6!1s0x872b0b45bfab5875:0x48ff6965c8e7c0e1!8m2!3d33.4061965!4d-111.9394348!16s%2Fg%2F11rr2m345h!19sChIJdVirv0ULK4cR4cDnyGVp_0g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5260038775675273441",
+  "placeId": "ChIJdVirv0ULK4cR4cDnyGVp_0g",
+  "googleRating": 4.9,
+  "googleReviewCount": 58,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcODES0X01MpzOZSvkBQRAMBNwP_1uugJfY7yH3u6xmZOJ2jlNGwR4gBe9t3fVfzeuZaWfnzjdxL66ky5_Vv6bQyT0aykSIHi8C-GG-zdpA3upvC8ED8qyKS7RBk0q2ekFPFoIypFTStEl=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 56
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 2:00 PM",
+    "wed": "4:30 PM - 8:00 PM",
+    "thu": "4:30 PM - 8:00 PM",
+    "fri": "10:00 AM - 2:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

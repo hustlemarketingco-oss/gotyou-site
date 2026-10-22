@@ -1,0 +1,43 @@
+{
+  "slug": "west-valley-barber-supply-2-0-tempe",
+  "name": "west valley barber supply 2.0",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber supply store",
+  "address": "1245 W Elliot Rd Suite 119",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3474302,
+  "lng": -111.95852989999999,
+  "phone": "+14805844248",
+  "website": "http://westvalleybarbersupply.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/west+valley+barber+supply+2.0/data=!4m7!3m6!1s0x872b05cd5e9bb4f9:0x39ac69cff00f217c!8m2!3d33.3474302!4d-111.9585299!16s%2Fg%2F11vr4wtrrd!19sChIJ-bSbXs0FK4cRfCEP8M9prDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4155812897962795388",
+  "placeId": "ChIJ-bSbXs0FK4cRfCEP8M9prDk",
+  "googleRating": 4.8,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVgiOodHoderWSA5xCcutG8yx-O6M-q7arjAMp08BiYpk_q82-A0-zSJnT2hCEI42-Kq09sNka1y4axsNRGN6t0cF_EA6gU4O2v7C-7c0pzn_8YcIWG2BZLN05jnaGz8UBtdOp=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "5": 9
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

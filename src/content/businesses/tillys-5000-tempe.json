@@ -17,8 +17,8 @@
   "phone": "+14808313864",
   "website": "https://www.tillys.com/store/?StoreID=0050",
   "placeId": "ChIJA0lE4VkPK4cRWsqPwwf9Bt0",
-  "googleRating": 3.3,
-  "googleReviewCount": 26,
+  "googleRating": 3.4,
+  "googleReviewCount": 27,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
@@ -35,5 +35,20 @@
   "groundgameId": "6a34385934ee2c09ed5ea9cb",
   "seededAt": "2026-06-18T18:26:33Z",
   "updatedAt": "2026-06-18T18:26:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15926695342029916762",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tillys/data=!4m7!3m6!1s0x872b0f59e1444903:0xdd06fd07c38fca5a!8m2!3d33.3833062!4d-111.9647408!16s%2Fg%2F1tf3pc7l!19sChIJA0lE4VkPK4cRWsqPwwf9Bt0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 1,
+    "4": 3,
+    "5": 13
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJdmyj39s5-oikFvRACjNW4PTivFY5wSa_3BHEd7_wVTULOOQMD_QScl7P0m49TwkHiv3NVpxYMiNua6EqrLmTumG5bEEV4L_-mWMbSEZfjmRnELvvP2WxRpg4OQmvGcJLFwoO7w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

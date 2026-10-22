@@ -17,14 +17,8 @@
   "phone": "+14802456357",
   "description": "Outlet that buys & sells video games, hosts tournaments & has a lounge with over a dozen TVs.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/thegamingzoneaz"
@@ -35,5 +29,31 @@
   "groundgameId": "6a2437ab8689ac2ca8c2128c",
   "seededAt": "2026-06-06T15:07:23Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJk4S8U8sIK4cRmsxmpqsOFLg",
+  "googleCid": "13264242932906904730",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Gaming+Zone/data=!4m7!3m6!1s0x872b08cb53bc8493:0xb8140eaba666cc9a!8m2!3d33.4078778!4d-111.9540425!16s%2Fg%2F11r99m2p0!19sChIJk4S8U8sIK4cRmsxmpqsOFLg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 535,
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 9,
+    "3": 18,
+    "4": 47,
+    "5": 439
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc413_YnY4A6LysytAMKHB7Fu6Ndxqw4t_oIDY9WKfeIC3tgpoEzIqlo4Iii8mQPjF1l5yNyp9yVP5nP9QNdyJDjY72W5hCOlbyViHblpUvnDzZVx1aFsmZ-iFbmCO0COcBLZE=w1200-h800-k-no",
+  "website": "https://thegamingzone.bigcartel.com/",
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "lat": 33.4078778,
+  "lng": -111.9540425,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

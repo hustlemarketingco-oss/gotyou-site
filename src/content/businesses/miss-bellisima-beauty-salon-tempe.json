@@ -1,0 +1,33 @@
+{
+  "slug": "miss-bellisima-beauty-salon-tempe",
+  "name": "MISS BELLISIMA BEAUTY SALON",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Barber shop",
+    "Hair salon",
+    "Nail salon"
+  ],
+  "address": "1646 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4483361,
+  "lng": -111.92690839999999,
+  "phone": "+14809451966",
+  "googleMapsUrl": "https://www.google.com/maps/place/MISS+BELLISIMA+BEAUTY+SALON/data=!4m7!3m6!1s0x872b091515e20125:0x55a83bc26cf95af!8m2!3d33.4483361!4d-111.9269084!16s%2Fg%2F1hc1k1b5t!19sChIJJQHiFRUJK4cRr5XPJryDWgU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "385765562221827503",
+  "placeId": "ChIJJQHiFRUJK4cRr5XPJryDWgU",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yabOmN92hajfN8qKAcVhAw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=256.8698&pitch=0&thumbfov=100",
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

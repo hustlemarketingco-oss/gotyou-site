@@ -1,0 +1,56 @@
+{
+  "slug": "buckle-2000-tempe",
+  "name": "Buckle",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Jeans shop",
+    "Men's clothing store",
+    "Shoe store",
+    "Watch store",
+    "Women's clothing store",
+    "Youth clothing store"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1237",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4333935,
+  "lng": -111.9022358,
+  "phone": "+14809663007",
+  "website": "https://local.buckle.com/az/tempe/clothing-385.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buckle/data=!4m7!3m6!1s0x872b08543f50759b:0x5f01c3c506f83c66!8m2!3d33.4333935!4d-111.9022358!16s%2Fg%2F1tfmj8cx!19sChIJm3VQP1QIK4cRZjz4BsXDAV8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6845968159572769894",
+  "placeId": "ChIJm3VQP1QIK4cRZjz4BsXDAV8",
+  "googleRating": 4.3,
+  "googleReviewCount": 89,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMxbD5hbIdyX6Uhk73CgD41Ab_bNoCs5UDEpZwwuGHgSdn0dvTIPC90lcwrMNCcr0oJipU-Z-eG1ST9tRBU77o1V3w3TOsyatu2S_xKgQ-FtxI2AJV3Bz_fbTduENYf_GoGuohaQ=w1200-h800-k-no",
+  "description": "Retail chain stocking stylish casualwear, including jeans & shoes, plus accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 3,
+    "3": 2,
+    "4": 13,
+    "5": 63
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "mcdonalds-9955-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "9955 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3204206,
+  "lng": -111.9626974,
+  "phone": "+14807857932",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/9955-S-PRIEST/18544.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b04235e53510f:0x52a8d6ddd8f86f4!8m2!3d33.3204206!4d-111.9626974!16s%2Fg%2F1tf1p93v!19sChIJD1FTXiMEK4cR9IaP3W2NKgU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "372265422219609844",
+  "placeId": "ChIJD1FTXiMEK4cR9IaP3W2NKgU",
+  "googleRating": 3.5,
+  "googleReviewCount": 1326,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCIjD2s9WIWv594aJz0YuoQDSCfW23_Er2lJD7v_Om9aMNFBa15u8aNpMfnnyPLUXpA78MfotM3QRGF_3I5KzT6h8AVfHLXJezDC65QXmgm8h_k1XgaB5iHAGcKlVaCRAvdmeDyw=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 270,
+    "2": 99,
+    "3": 209,
+    "4": 258,
+    "5": 490
+  },
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

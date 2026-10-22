@@ -1,0 +1,53 @@
+{
+  "slug": "lane-bryant-tempe",
+  "name": "Lane Bryant",
+  "category": "Shopping",
+  "googleCategory": "Plus size clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Fashion accessories store",
+    "Lingerie store",
+    "Women's clothing store"
+  ],
+  "address": "55 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430417999999996,
+  "lng": -111.90820149999999,
+  "phone": "+14804267207",
+  "website": "https://stores.lanebryant.com/az/tempe/55-s-mcclintock-dr?sid=NS%3AGoogle%3AGMB&y_source=1_MTE3NTU1MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lane+Bryant/data=!4m7!3m6!1s0x872b0901e93e359f:0x63972effa0b59643!8m2!3d33.430418!4d-111.9082015!16s%2Fg%2F1vr3dmq2!19sChIJnzU-6QEJK4cRQ5a1oP8ul2M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7176256206685967939",
+  "placeId": "ChIJnzU-6QEJK4cRQ5a1oP8ul2M",
+  "googleRating": 4.3,
+  "googleReviewCount": 246,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLch1qQaFrRjizcN7HyJJVRbO9TwH6G_MAOQ8RLs5tTlWyrpPMJ0n8hfEZrtJ-uR2F1ktflKvura6vf76EsP1akAZ2dPMVJHA-skNkNAhY5kf76zUxKg-waE2S-Mj3BSPTAszZPQdQ=w1200-h800-k-no",
+  "description": "Women's clothing chain with fashionable plus-size clothing, lingerie, shoes & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 12,
+    "3": 18,
+    "4": 35,
+    "5": 164
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

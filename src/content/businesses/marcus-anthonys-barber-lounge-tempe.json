@@ -1,0 +1,47 @@
+{
+  "slug": "marcus-anthonys-barber-lounge-tempe",
+  "name": "Marcus Anthony's Barber Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7510 S Priest Dr #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3501044,
+  "lng": -111.9636604,
+  "phone": "+14806877768",
+  "website": "http://www.mabarberlounge.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Marcus+Anthony%27s+Barber+Lounge/data=!4m7!3m6!1s0x872b05853325dbef:0x267f1adeab3c54d8!8m2!3d33.3501044!4d-111.9636604!16s%2Fg%2F11h4zm_pvy!19sChIJ79slM4UFK4cR2FQ8q94afyY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2773965439141434584",
+  "placeId": "ChIJ79slM4UFK4cR2FQ8q94afyY",
+  "googleRating": 4.7,
+  "googleReviewCount": 148,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBvWUADR9-XrA4F_op97Gx91XqwLVLXBZvANi9HVKloal3l4o_DWlDEe5yq1VjSS-8zhQPuT7Cm3tgYqvn7SOdZwwN_eHhEPVkoJwhTFrVD1vDYNE2D8Yrq7eLEkQUWLNlVvqR8g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 3,
+    "4": 2,
+    "5": 133
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:30 PM",
+    "wed": "10:00 AM - 6:30 PM",
+    "thu": "10:00 AM - 6:30 PM",
+    "fri": "10:00 AM - 6:30 PM",
+    "sat": "8:00 AM - 4:30 PM",
+    "sun": "11:00 AM - 4:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "ghost-ranch-modern-southwest-cuisine-tempe",
   "name": "Ghost Ranch: Modern Southwest Cuisine",
   "category": "Restaurant",
-  "googleCategory": "Southwestern us restaurant",
+  "googleCategory": "Southwestern restaurant (US)",
   "secondaryCategories": [
     "Mexican restaurant",
     "Cocktail bar",
@@ -16,34 +16,18 @@
   "lng": -111.9273795,
   "phone": "+14804744328",
   "website": "http://ghostranchaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8756815741824967989",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ghost+Ranch:+Modern+Southwest+Cuisine/data=!4m7!3m6!1s0x872b06f331cf2cc9:0x798675858706a535!8m2!3d33.3356475!4d-111.9273795!16s%2Fg%2F11g1npmn2x!19sChIJySzPMfMGK4cRNaUGh4V1hnk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8756815741824967989",
   "placeId": "ChIJySzPMfMGK4cRNaUGh4V1hnk",
   "googleRating": 4.5,
-  "googleReviewCount": 1501,
+  "googleReviewCount": 1572,
   "priceRange": "$$",
   "description": "The classic culinary & design styles of the Southwest are given a fresh new feel at this chic venue.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Organic dishes",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -51,5 +35,23 @@
   "groundgameId": "6a2643c8638e61b8916c897d",
   "seededAt": "2026-06-08T04:23:36Z",
   "updatedAt": "2026-06-08T04:26:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 44,
+    "3": 88,
+    "4": 230,
+    "5": 1162
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjBbzab8fFzlhcCU9-s5jqOiSbCXOQ9z3kUknkRh_l-1fb2s9eQfeQnQMy9axnk15qEqGZ8C_UuiG4UD-WtjLmLXsylA_lmrRwNu2a07yV7tLhn2OX14nTqMzr9PBSKi_tLS6DWRt9NR4X=w1200-h800-k-no",
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

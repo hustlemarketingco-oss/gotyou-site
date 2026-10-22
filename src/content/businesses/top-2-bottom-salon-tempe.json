@@ -1,0 +1,34 @@
+{
+  "slug": "top-2-bottom-salon-tempe",
+  "name": "Top 2 Bottom Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "9020 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3323421,
+  "lng": -111.912049,
+  "phone": "+16023480341",
+  "googleMapsUrl": "https://www.google.com/maps/place/Top+2+Bottom+Salon/data=!4m7!3m6!1s0x872b06e46064ea03:0xd32c329b3ff3b979!8m2!3d33.3323421!4d-111.912049!16s%2Fg%2F11by_fdcxy!19sChIJA-pkYOQGK4cRebnzP5syLNM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15216592883352320377",
+  "placeId": "ChIJA-pkYOQGK4cRebnzP5syLNM",
+  "googleRating": 4.9,
+  "googleReviewCount": 10,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oWObfSf20Kt0nnDAackhOg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=98.83918&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 9
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "polar-bears-pop-culture-shop-tempe",
+  "name": "Polar Bear's Pop Culture Shop",
+  "category": "Shopping",
+  "googleCategory": "Store",
+  "secondaryCategories": [
+    "Toy store"
+  ],
+  "address": "705 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.363121299999996,
+  "lng": -111.9306141,
+  "phone": "+16028846588",
+  "googleMapsUrl": "https://www.google.com/maps/place/Polar+Bear%27s+Pop+Culture+Shop/data=!4m7!3m6!1s0x872b092914847cb9:0xc42ec2fedf92c65b!8m2!3d33.3631213!4d-111.9306141!16s%2Fg%2F11p4cwhk4y!19sChIJuXyEFCkJK4cRW8aS3_7CLsQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14136450680290985563",
+  "placeId": "ChIJuXyEFCkJK4cRW8aS3_7CLsQ",
+  "googleRating": 4.9,
+  "googleReviewCount": 167,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMMrzrioEQQxFcl2iGf7iuJqvkXLF9L-1ZAOjSQtC5Rc5MbjHaufzySFGdkBh_MGf04PZFd1vGNKuRKEvHWfwTIDt088yQL0rjGU8E-meZ2IG1Pii3raCBGZGWTYRaGeuuXQ1kDqsab_5t=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 4,
+    "4": 6,
+    "5": 157
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

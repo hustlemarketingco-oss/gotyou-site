@@ -1,0 +1,42 @@
+{
+  "slug": "dae-the-barber-tempe",
+  "name": "Dae the barber",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "933 E Broadway Rd Ste 3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061569,
+  "lng": -111.92458239999999,
+  "phone": "+14804868952",
+  "website": "https://daethebarber.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dae+the+barber/data=!4m7!3m6!1s0x872b0720bb5c2ca1:0x3e252dbc5aa5bafd!8m2!3d33.4061569!4d-111.9245824!16s%2Fg%2F11kjm90gz0!19sChIJoSxcuyAHK4cR_bqlWrwtJT4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4478035691487738621",
+  "placeId": "ChIJoSxcuyAHK4cR_bqlWrwtJT4",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDvlOQXLRurzxHUWMRN-SR4_zHZadm2ZGJN62VRQ7AptgKgF29o0QPPEI_VU7KEnHipQbvsj9x9-hFCenuLPLpBYQNO3Gb_GrYfJnZkJAyLiCACgLJt-kwHtIgHeOmy5lF8PFDxM4thJfS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "Open 24 hours",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "Open 24 hours",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

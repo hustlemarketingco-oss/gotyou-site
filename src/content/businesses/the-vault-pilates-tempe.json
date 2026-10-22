@@ -1,0 +1,45 @@
+{
+  "slug": "the-vault-pilates-tempe",
+  "name": "The Vault Pilates",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "2240 N Scottsdale Rd Ste 109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4538972,
+  "lng": -111.92714409999999,
+  "phone": "+14808156524",
+  "website": "http://www.thevaultpilates.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Vault+Pilates/data=!4m7!3m6!1s0x872b09729140bfdb:0x8515dea8f31cd242!8m2!3d33.4538972!4d-111.9271441!16s%2Fg%2F11xt3cqzs7!19sChIJ279AkXIJK4cRQtIc86jeFYU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9589815798769963586",
+  "placeId": "ChIJ279AkXIJK4cRQtIc86jeFYU",
+  "googleRating": 4.7,
+  "googleReviewCount": 48,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2CBpiuntTVXBPEMvYg9Zxnn7uFgLGT8Bn30HNfJHM4zuvIp5SGqcB3-lXX4vRWN4DcPWstU3BWvoJ83MlKuWSE8zOjsJDrW7FhsRza_o8iBT3hNqasdTzipuzoeCygKnlQsn3xAbWIN4t=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 1,
+    "4": 2,
+    "5": 42
+  },
+  "hours": {
+    "mon": "6:00 AM - 7:30 PM",
+    "tue": "6:00 AM - 7:30 PM",
+    "wed": "6:00 AM - 7:30 PM",
+    "thu": "6:00 AM - 7:30 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "8:00 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

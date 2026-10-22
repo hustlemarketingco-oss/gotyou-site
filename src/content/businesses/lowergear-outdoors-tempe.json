@@ -1,0 +1,55 @@
+{
+  "slug": "lowergear-outdoors-tempe",
+  "name": "LowerGear Outdoors",
+  "category": "Shopping",
+  "googleCategory": "Outdoor sports store",
+  "secondaryCategories": [
+    "Camping store",
+    "Canoe & kayak rental service",
+    "Canoe & kayak store",
+    "Equipment rental agency",
+    "Sporting goods store",
+    "Tent rental service"
+  ],
+  "address": "2650 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4573689,
+  "lng": -111.9270554,
+  "phone": "+14803488917",
+  "website": "http://www.lowergear.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/LowerGear+Outdoors/data=!4m7!3m6!1s0x872b085b29ee6097:0xa596cf416fd8b364!8m2!3d33.4573689!4d-111.9270554!16s%2Fg%2F1tg_xk7j!19sChIJl2DuKVsIK4cRZLPYb0HPlqU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11931952142721004388",
+  "placeId": "ChIJl2DuKVsIK4cRZLPYb0HPlqU",
+  "googleRating": 4.7,
+  "googleReviewCount": 120,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdj99TkKqfCB4sHq3TAAStShaAZeqN9HpFEkF3IMjU7eWiaxLfYf57JpdhSVDiz0fd_mH8XdUVWk3Fqk6U63N3e6hsXsA47xfDww2ImmEstHFAqwUABnipUILfmy9euEtQ_77jwGQ=w1200-h800-k-no",
+  "description": "Niche retailer offering camping & backpacking gear for sale & rent, plus shipping to travel sites.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 5,
+    "4": 10,
+    "5": 100
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

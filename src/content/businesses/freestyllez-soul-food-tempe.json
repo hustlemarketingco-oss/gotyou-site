@@ -1,0 +1,27 @@
+{
+  "slug": "freestyllez-soul-food-tempe",
+  "name": "Freestyllez soul food",
+  "category": "Restaurant",
+  "googleCategory": "Barbecue restaurant",
+  "address": "85 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3924453,
+  "lng": -111.9382682,
+  "googleMapsUrl": "https://www.google.com/maps/place/Freestyllez+soul+food/data=!4m7!3m6!1s0x872b0900403f3bbf:0xd36c77c8c4ad817f!8m2!3d33.3924453!4d-111.9382682!16s%2Fg%2F11njthr371!19sChIJvzs_QAAJK4cRf4GtxMh3bNM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15234683343664415103",
+  "placeId": "ChIJvzs_QAAJK4cRf4GtxMh3bNM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iQKfnLIiiDMmVtx1gHQkKw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=179.04501&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

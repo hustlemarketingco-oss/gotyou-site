@@ -1,0 +1,54 @@
+{
+  "slug": "walts-tv-appliance-tempe",
+  "name": "Walts TV & Appliance",
+  "category": "Shopping",
+  "googleCategory": "Electronics store",
+  "secondaryCategories": [
+    "Appliance store",
+    "Business to business service",
+    "Home automation company",
+    "Home cinema installation",
+    "Home theater store",
+    "Home audio store"
+  ],
+  "address": "1746 W Ruby Dr Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.341090099999995,
+  "lng": -111.96696209999999,
+  "phone": "+14809684999",
+  "website": "http://www.walts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walts+TV+%26+Appliance/data=!4m7!3m6!1s0x872b08afe9dc402f:0xa33346a57b9129a3!8m2!3d33.3410901!4d-111.9669621!16s%2Fg%2F12hk8mdqm!19sChIJL0Dc6a8IK4cRoymRe6VGM6M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11759820728551156131",
+  "placeId": "ChIJL0Dc6a8IK4cRoymRe6VGM6M",
+  "googleRating": 4.5,
+  "googleReviewCount": 740,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9RVrgHHgChlwIWfeShAmZt16xpb9OahW4gY6wNyNGWwLvV_LMLDUoaZAnkn3J5MDgWya_oXx5Ab9Sa8mtWTIhnJbjQ8aqwbPFv8dEknzakptEbPLdz02A0WGZbiO0uVPiPROAcEHDd0Qx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 84,
+    "2": 5,
+    "3": 5,
+    "4": 6,
+    "5": 640
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

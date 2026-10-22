@@ -1,0 +1,53 @@
+{
+  "slug": "chutneys-indian-express-tempe",
+  "name": "Chutneys Indian Express",
+  "category": "Asian & Pacific",
+  "googleCategory": "Modern Indian restaurant",
+  "secondaryCategories": [
+    "Bar",
+    "Fast food restaurant",
+    "Indian restaurant"
+  ],
+  "address": "925 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4145067,
+  "lng": -111.9250714,
+  "phone": "+14805179544",
+  "website": "https://order.toasttab.com/online/chutneys-indian-express-925-e-apache-blvd",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chutneys+Indian+Express/data=!4m7!3m6!1s0x872b09bc136fd4b5:0x85ef29aac2cf9c50!8m2!3d33.4145067!4d-111.9250714!16s%2Fg%2F11jk27_pls!19sChIJtdRvE7wJK4cRUJzPwqop74U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9650978339867827280",
+  "placeId": "ChIJtdRvE7wJK4cRUJzPwqop74U",
+  "googleRating": 2.8,
+  "googleReviewCount": 548,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfi8eS0Lr6kapwq0LpMz45EDs6VD_HwAqTqv4HPDOdf61qwcPpUuQt4xWaPIJyhhstIUHq1p8qEykPfDSUPlAfkIP6d_XO_WnBmHCYdHLU8gV1wB_Jxl9qi9J_HcWIMLvUqzi7akg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 258,
+    "2": 31,
+    "3": 25,
+    "4": 43,
+    "5": 191
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "5:00 PM - 11:00 PM",
+    "wed": "5:00 PM - 11:00 PM",
+    "thu": "5:00 PM - 11:00 PM",
+    "fri": "5:00 PM - 11:00 PM",
+    "sat": "12:00 PM - 3:30 PM, 5:30 PM - 12:00 AM",
+    "sun": "12:00 PM - 3:30 PM, 5:30 PM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

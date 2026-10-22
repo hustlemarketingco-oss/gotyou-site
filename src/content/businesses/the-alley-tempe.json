@@ -11,24 +11,15 @@
   "lng": -111.9280009,
   "phone": "+16028699353",
   "website": "https://thealleytempe.getbento.com/online-ordering/the-alley/menu",
-  "googleMapsUrl": "https://www.google.com/maps?cid=5389246671753431274",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Alley+Tempe/data=!4m7!3m6!1s0x872b09a595b9e97b:0x4aca734b64d1c8ea!8m2!3d33.4243689!4d-111.9280009!16s%2Fg%2F11vf9mvmhm!19sChIJe-m5laUJK4cR6sjRZEtzyko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "5389246671753431274",
   "placeId": "ChIJe-m5laUJK4cR6sjRZEtzyko",
   "googleRating": 4.3,
-  "googleReviewCount": 156,
+  "googleReviewCount": 168,
   "priceRange": "$",
   "description": "Located in Tempe, The Alley Tempe is a bubble tea store with takeout & delivery.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
-    "Wheelchair accessible entrance",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible entrance"
   ],
   "hours": {
     "fri": "12:00 PM - 10:30 PM",
@@ -45,5 +36,14 @@
   "groundgameId": "6a2436023d56bc163d5e3672",
   "seededAt": "2026-06-06T15:00:18Z",
   "updatedAt": "2026-06-06T15:04:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 6,
+    "3": 10,
+    "4": 16,
+    "5": 118
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBKnsO1gXCkQmWtslNnzgAhWMHBVR-N3QAHCbwKFgoXz893EigVktp8Sov5d70FT-KGwqpTvuw10zMLTxT02eRT7RSK6RzFdcf3xBR-pgfwdo8kE0uy0yOsgtBLmVq9hK311Om=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

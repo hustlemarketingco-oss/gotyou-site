@@ -1,0 +1,43 @@
+{
+  "slug": "the-corporate-deli-tempe",
+  "name": "The Corporate Deli",
+  "category": "Restaurant",
+  "googleCategory": "Deli",
+  "address": "1500 N Priest Dr Unit 126",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4447464,
+  "lng": -111.9561226,
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Corporate+Deli/data=!4m7!3m6!1s0x872b0f9ac615ca75:0x3c0fb721de82ecd4!8m2!3d33.4447464!4d-111.9561226!16s%2Fg%2F11f6d85qwm!19sChIJdcoVxpoPK4cR1OyC3iG3Dzw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4327879123021262036",
+  "placeId": "ChIJdcoVxpoPK4cR1OyC3iG3Dzw",
+  "googleRating": 4.6,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC9_inOifQ9MtPtqwEnLYlWVgapYwftNlTUOzyKC5-xnA9mPl9QxHgGu9Kt2k3SuL3Cw3Y2a2GZUBMA2DfwETQtcSvVR1FVH_yzlzLDxUvDRiMhMRicIqSBIp1SYE5lGtXmobbAA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 8
+  },
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

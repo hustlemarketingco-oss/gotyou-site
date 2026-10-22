@@ -1,0 +1,47 @@
+{
+  "slug": "a-b-barbershop-tempe",
+  "name": "A & B Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1713 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3634273,
+  "lng": -111.9126684,
+  "phone": "+14804912669",
+  "website": "https://abbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/A+%26+B+Barbershop/data=!4m7!3m6!1s0x872b06491020b615:0x2cf1595c61eaa2e!8m2!3d33.3634273!4d-111.9126684!16s%2Fg%2F1tdmfbl2!19sChIJFbYgEEkGK4cRLqoexpUVzwI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "202404241273170478",
+  "placeId": "ChIJFbYgEEkGK4cRLqoexpUVzwI",
+  "googleRating": 4.6,
+  "googleReviewCount": 485,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCqizo3Ll8ZuzQoBlZzjIDBWEKjjba3kUkrxMQkzpigqiR_t8fSNPOjvgIrW_-z026W9fT5c69KPQgajwgVUEtugk0mnpMWQY5Kguz1_cPvcMUfa1HfksG943L-JvGEYv536eucHioD3ex=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 7,
+    "3": 8,
+    "4": 11,
+    "5": 420
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

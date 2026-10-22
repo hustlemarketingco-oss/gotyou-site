@@ -1,0 +1,43 @@
+{
+  "slug": "eazynail-tempe",
+  "name": "eazynail",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "405 W Southern Ave Unit 121",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392266,
+  "lng": -111.945329,
+  "phone": "+15207803010",
+  "googleMapsUrl": "https://www.google.com/maps/place/eazynail/data=!4m7!3m6!1s0x872b090672f421d9:0x8a29845481df8e99!8m2!3d33.392266!4d-111.945329!16s%2Fg%2F11z18ktsd3!19sChIJ2SH0cgYJK4cRmY7fgVSEKYo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9955633949770223257",
+  "placeId": "ChIJ2SH0cgYJK4cRmY7fgVSEKYo",
+  "googleRating": 4.9,
+  "googleReviewCount": 12,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehZoKNsllSLBSdrNX-sHIg_NmWdkrIBQoKS0dLUC0mtlNfNME4KgATVJA6RI7e5U3mfZPJglyfVhLjNGVhR7X5VYtPv2frfDsPZTrQ6XH_wPG8S_TdMeeZH0t2NEaYfegW4rJ8HVSgR8Ri=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 11
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

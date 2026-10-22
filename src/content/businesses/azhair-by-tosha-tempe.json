@@ -1,0 +1,37 @@
+{
+  "slug": "azhair-by-tosha-tempe",
+  "name": "AZhair by Tosha",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "975 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3486318,
+  "lng": -111.92665509999999,
+  "phone": "+18163943095",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZhair+by+Tosha/data=!4m7!3m6!1s0x872b0790ab6d0de5:0x3670e64955c5dfb!8m2!3d33.3486318!4d-111.9266551!16s%2Fg%2F11jt2clvqk!19sChIJ5Q1tq5AHK4cR-11clWQOZwM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "245180529880358395",
+  "placeId": "ChIJ5Q1tq5AHK4cR-11clWQOZwM",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf75WJhA9wUwGesHRfduWqE1pvFpV_HtLmozU5a4Tfimxzq83QHE3C9MsFGCRzNbg80rTaVxMa1TGfnC0-h40w0-m_IwTjziwnw3YeeboydFpFpau9eY2JpxsXMeNbdl7GswyXr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 4:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

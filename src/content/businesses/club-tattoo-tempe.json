@@ -1,0 +1,52 @@
+{
+  "slug": "club-tattoo-tempe",
+  "name": "Club Tattoo",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "secondaryCategories": [
+    "Body piercing shop",
+    "Tattoo and piercing shop"
+  ],
+  "address": "825 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4214523,
+  "lng": -111.92584649999999,
+  "phone": "+14807742582",
+  "website": "https://clubtattoo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Club+Tattoo/data=!4m7!3m6!1s0x872b08e71b6b549b:0xc19684596819b284!8m2!3d33.4214523!4d-111.9258465!16s%2Fg%2F1tkb5kst!19sChIJm1RrG-cIK4cRhLIZaFmElsE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13949482415360160388",
+  "placeId": "ChIJm1RrG-cIK4cRhLIZaFmElsE",
+  "googleRating": 4.8,
+  "googleReviewCount": 2338,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzMcZfUsTJ7Wvt0dh7X0lAz68IPx9R3hvE36BijSePFHE8pX7tY-8XlQGVod7l0RYsMvkLkRsI0oPZnqACXDRUvuHcc2ZMsHo7aTHkm5BppfLWTOCzzhQtOhSFh0SvTYU8wfdO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 25,
+    "3": 19,
+    "4": 44,
+    "5": 2201
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

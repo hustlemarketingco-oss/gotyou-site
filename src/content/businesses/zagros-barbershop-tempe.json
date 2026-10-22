@@ -1,0 +1,31 @@
+{
+  "slug": "zagros-barbershop-tempe",
+  "name": "ZAGROS BARBERSHOP",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3920816,
+  "lng": -111.93746089999999,
+  "phone": "+16028803794",
+  "googleMapsUrl": "https://www.google.com/maps/place/ZAGROS+BARBERSHOP/data=!4m7!3m6!1s0x872b0936877625c7:0xea6c00a18be704b0!8m2!3d33.3920816!4d-111.9374609!16s%2Fg%2F11p224s4jp!19sChIJxyV2hzYJK4cRsATni6EAbOo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16891876996196795568",
+  "placeId": "ChIJxyV2hzYJK4cRsATni6EAbOo",
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "wildflower-tempe",
+  "name": "Wildflower",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "address": "937Q+54, 6428 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3624661,
+  "lng": -111.9126201,
+  "phone": "+14808389773",
+  "website": "https://wildflowerbread.com/location/tempe-square/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wildflower/data=!4m7!3m6!1s0x872b064930a8c34d:0x47b34f656d6e0ae2!8m2!3d33.3624661!4d-111.9126201!16s%2Fg%2F1vnrlgxw!19sChIJTcOoMEkGK4cR4gpubWVPs0c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5166560494570310370",
+  "placeId": "ChIJTcOoMEkGK4cR4gpubWVPs0c",
+  "googleRating": 4.5,
+  "googleReviewCount": 1243,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyljYUI8EjeskQwrxjj9Gd7lYgj5ut90pl39TcqoTe2GkvFgVUiXzf2d1ljdAZQAlguP86TJi7l4iAgozinaFvHtf_NMOYYHXI2qFGrO_HElNBLCUigssCm-947WCZ1bxoAnU5xy1eFe8=w1200-h800-k-no",
+  "description": "Local cafe chain serving high-end sandwiches, salads & baked goods in a counter-serve setting.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 33,
+    "3": 69,
+    "4": 247,
+    "5": 858
+  },
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "8:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

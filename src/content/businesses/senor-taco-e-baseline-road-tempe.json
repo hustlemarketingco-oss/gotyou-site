@@ -16,7 +16,7 @@
   "website": "http://www.senortaco.com/",
   "placeId": "ChIJm1zqjzIGK4cRUTbdKBsTtew",
   "googleRating": 4.2,
-  "googleReviewCount": 1238,
+  "googleReviewCount": 1250,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a5142aa7d3f692464e56240",
   "seededAt": "2026-07-10T19:06:18Z",
   "updatedAt": "2026-07-10T19:06:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17056560171106252369",
+  "googleMapsUrl": "https://www.google.com/maps/place/Se%C3%B1or+Taco+E+Baseline+Road/data=!4m7!3m6!1s0x872b06328fea5c9b:0xecb5131b28dd3651!8m2!3d33.3780872!4d-111.9068689!16s%2Fg%2F11cmyhw7gg!19sChIJm1zqjzIGK4cRUTbdKBsTtew?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 82,
+    "2": 47,
+    "3": 119,
+    "4": 272,
+    "5": 730
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7bDbpCkCQRYuzNKzbVJhgpvGhUH4zt-0dDzcK00mAL3Un8B0aOOyldMktWb2pUzd6QzZeMwK9uh1UytJS2EKOhhGHg2X5-vFJXIt0Pxhg59MwOUMdHE9y4dfQL3j6laRTAD2iY6Jznnku=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

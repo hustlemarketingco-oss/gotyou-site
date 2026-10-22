@@ -1,0 +1,40 @@
+{
+  "slug": "today-studios-tempe",
+  "name": "Today Studios",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "secondaryCategories": [
+    "Eyebrow bar",
+    "Facial spa",
+    "Skin care clinic"
+  ],
+  "address": "1761 E Warner Rd Ste A9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3334672,
+  "lng": -111.91167279999999,
+  "phone": "+16028771363",
+  "website": "http://todaystudios.us/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Today+Studios/data=!4m7!3m6!1s0x872b01ef70bc1fbd:0x6242d73af9ce9059!8m2!3d33.3334672!4d-111.9116728!16s%2Fg%2F11pcs9n2__!19sChIJvR-8cO8BK4cRWZDO-TrXQmI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7080458212478980185",
+  "placeId": "ChIJvR-8cO8BK4cRWZDO-TrXQmI",
+  "googleRating": 5,
+  "googleReviewCount": 151,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOPJZmT3mbFJ6RYvkzSr2M7XNzPWrgHsqFCQWf0QvyuY7oNpwTFiz6z6DV7lI43AWr-af_uM3etqp7EnIDnAHzcOPM_1CCJFI5FunrrSXsYs0kO_bU9vV-ESCpgeairjXOWTyx=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 150
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

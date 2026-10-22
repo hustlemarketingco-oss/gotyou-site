@@ -1,0 +1,50 @@
+{
+  "slug": "sunshines-boxing-muay-thai-and-fitness-tempe",
+  "name": "Sunshine's Boxing, Muay Thai, and Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Boxing gym",
+    "Personal trainer"
+  ],
+  "address": "8154 S Priest Dr Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3421763,
+  "lng": -111.96377269999999,
+  "phone": "+16023301537",
+  "website": "http://bestmuaythaiaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sunshine%27s+Boxing,+Muay+Thai,+and+Fitness/data=!4m7!3m6!1s0x872b054b984c6945:0x3618e1029fda478a!8m2!3d33.3421763!4d-111.9637727!16s%2Fg%2F11hfpsms8y!19sChIJRWlMmEsFK4cRikfanwLhGDY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3898112878877230986",
+  "placeId": "ChIJRWlMmEsFK4cRikfanwLhGDY",
+  "googleRating": 4.9,
+  "googleReviewCount": 106,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoJnTP1PRl06p0WC9DaPV_aFs69DB9Jc2UYGO30eos-UVVwZKSleF1bSb1Ks1mSTjf6hswqwQuNX9bQNPUhjSIc5sckLfXVMUyI66xsviSqPdFI9P_IgRXVpq9ZjyKJj2nHtj5=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 4,
+    "4": 1,
+    "5": 100
+  },
+  "hours": {
+    "mon": "9:30 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+    "tue": "9:30 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+    "wed": "9:30 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+    "thu": "9:30 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+    "fri": "9:00 AM - 11:00 AM, 5:00 PM - 8:00 PM",
+    "sat": "10:30 AM - 1:00 PM",
+    "sun": "9:00 AM - 11:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

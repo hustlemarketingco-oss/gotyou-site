@@ -2,7 +2,7 @@
   "slug": "nautical-bowls-tempe",
   "name": "Nautical Bowls",
   "category": "Coffee & Cafe",
-  "googleCategory": "Acai shop",
+  "googleCategory": "Açaí shop",
   "secondaryCategories": [
     "Brazilian restaurant"
   ],
@@ -16,7 +16,7 @@
   "website": "https://nauticalbowls.com/store/tempe-az/",
   "placeId": "ChIJpZM7KPwJK4cRnz53LHvpHnQ",
   "googleRating": 4.9,
-  "googleReviewCount": 249,
+  "googleReviewCount": 298,
   "priceRange": "$$",
   "hours": {
     "mon": "6:00 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a303e177c72a2954ddfa93c",
   "seededAt": "2026-06-15T18:01:59Z",
   "updatedAt": "2026-07-04T02:05:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8367381872937221791",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nautical+Bowls/data=!4m7!3m6!1s0x872b09fc283b93a5:0x741ee97b2c773e9f!8m2!3d33.4236216!4d-111.9276426!16s%2Fg%2F11ks48pv2c!19sChIJpZM7KPwJK4cRnz53LHvpHnQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 1,
+    "4": 7,
+    "5": 285
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczj2vynn5o4Zo3H1X1_YR25REdnBcsp-sBorazSBzSgWTa3eNPWXOL90rxi6sN-MS0VXJThSdbmQ2xumnuQZxrlE6G9RT0EBvGM6D1kkaoeIRuuE5p1iRx9rB8CJEM_cTSR4-4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

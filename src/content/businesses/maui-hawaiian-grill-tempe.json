@@ -11,33 +11,18 @@
   "lng": -111.9365612,
   "phone": "+14808390375",
   "website": "http://mauihawaiiangrill.kwickmenu.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=18087672498381659551",
+  "googleMapsUrl": "https://www.google.com/maps/place/Maui+Hawaiian+Grill/data=!4m7!3m6!1s0x872b07228363efe3:0xfb04524dffa41d9f!8m2!3d33.3778824!4d-111.9365612!16s%2Fg%2F11nm_j0n28!19sChIJ4-9jgyIHK4cRnx2k_01SBPs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "18087672498381659551",
   "placeId": "ChIJ4-9jgyIHK4cRnx2k_01SBPs",
   "googleRating": 4.6,
-  "googleReviewCount": 576,
+  "googleReviewCount": 607,
   "priceRange": "$10–20",
   "description": "Maui Hawaiian Grill is a casual, cozy hawaiian restaurant in Tempe, serving up comfort food & healthy options, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 9:00 PM",
@@ -54,5 +39,14 @@
   "groundgameId": "6a243a008ffaa351061a2492",
   "seededAt": "2026-06-06T15:17:20Z",
   "updatedAt": "2026-09-14T02:43:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 13,
+    "3": 23,
+    "4": 69,
+    "5": 486
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclPLYesd7eb3xZMRNXm8KR78WUp5de5i8ATu-bIBw6l2F1UxBUTDUqHWIzDnXQ-hY143jiff36qDVooT0wwUCZsR1u7s68NBFRnRMJmhzY_VbXkts3YHV-ncIvypOMRSIaJL6SRg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

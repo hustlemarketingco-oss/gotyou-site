@@ -2,7 +2,7 @@
   "slug": "thai-rice-table-thai-comfort-food-tempe",
   "name": "Thai Rice Table Thai Comfort Food",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Thai restaurant",
   "address": "825 W University Dr",
   "city": "Tempe",
   "state": "AZ",
@@ -11,17 +11,17 @@
   "lng": -111.9511767,
   "phone": "+16233223393",
   "website": "http://www.ricetableaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4603956159793923787",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thai+Rice+Table+Thai+Comfort+Food/data=!4m7!3m6!1s0x872b09123b472eb1:0x3fe489bc09fd06cb!8m2!3d33.4216606!4d-111.9511767!16s%2Fg%2F11zjq1lk2f!19sChIJsS5HOxIJK4cRywb9CbyJ5D8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4603956159793923787",
   "placeId": "ChIJsS5HOxIJK4cRywb9CbyJ5D8",
   "googleRating": 4.9,
-  "googleReviewCount": 339,
+  "googleReviewCount": 457,
   "description": "Located in Tempe, Thai Rice Table Thai Comfort Food is a restaurant.",
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 9:30 PM",
@@ -38,5 +38,19 @@
   "groundgameId": "6a243772ad92730844998cd1",
   "seededAt": "2026-06-06T15:06:26Z",
   "updatedAt": "2026-07-15T19:01:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 3,
+    "3": 7,
+    "4": 26,
+    "5": 417
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSnlaB_veR1UGDTr5iUV-V1Ea702LxHImpi5ISnVlfWOgNYCFgXHboC2dt7064uexVTtyu6Y8_ukjVSyEcgaiykIvyisxh80bMCvcsFGQQRxqRlqV5_GyCLf53c6QezrNv25FzDlQ2Yf3o=w1200-h800-k-no",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Restaurant",
+    "Vegan restaurant"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

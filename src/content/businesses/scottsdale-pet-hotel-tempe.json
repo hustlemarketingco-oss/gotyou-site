@@ -1,0 +1,50 @@
+{
+  "slug": "scottsdale-pet-hotel-tempe",
+  "name": "Scottsdale Pet Hotel",
+  "category": "Local Business",
+  "googleCategory": "Pet boarding service",
+  "secondaryCategories": [
+    "Dog day care center",
+    "Pet groomer"
+  ],
+  "address": "2700 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4577618,
+  "lng": -111.92663309999999,
+  "phone": "+14809479636",
+  "website": "http://www.scottsdalepethotel.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Scottsdale+Pet+Hotel/data=!4m7!3m6!1s0x872b0968356a4115:0x8cc95da2e73b1963!8m2!3d33.4577618!4d-111.9266331!16s%2Fg%2F11y06sd3y!19sChIJFUFqNWgJK4cRYxk756JdyYw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10144742589874248035",
+  "placeId": "ChIJFUFqNWgJK4cRYxk756JdyYw",
+  "googleRating": 4.5,
+  "googleReviewCount": 168,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-_n_hWjud9aw4gTCl4kxMfzNY5uTSN0p078_049vgG3I3TXdwWHHshzhj-5Bq-KkyeIagLjdpdV5611FnQgwhHmE0jOvhxgfC0uCao_URw61nlVAWtJpnyF_rtE5Ug4JMaZ0RCQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 3,
+    "3": 4,
+    "4": 3,
+    "5": 143
+  },
+  "hours": {
+    "mon": "7:30 AM - 5:30 PM",
+    "tue": "7:30 AM - 5:30 PM",
+    "wed": "7:30 AM - 5:30 PM",
+    "thu": "7:30 AM - 5:30 PM",
+    "fri": "7:30 AM - 5:30 PM",
+    "sat": "8:30 AM - 4:30 PM",
+    "sun": "8:30 AM - 4:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

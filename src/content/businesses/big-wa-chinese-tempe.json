@@ -16,31 +16,17 @@
   "lng": -111.977909,
   "phone": "+16024382707",
   "website": "https://www.bigwachinesetempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=7398096482763263907",
+  "googleMapsUrl": "https://www.google.com/maps/place/Big+Wa+Chinese/data=!4m7!3m6!1s0x872b0f6a5cb66dad:0x66ab518de52bcfa3!8m2!3d33.394442!4d-111.977909!16s%2Fg%2F1tct95bj!19sChIJrW22XGoPK4cRo88r5Y1Rq2Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "7398096482763263907",
   "placeId": "ChIJrW22XGoPK4cRo88r5Y1Rq2Y",
   "googleRating": 4.2,
-  "googleReviewCount": 659,
+  "googleReviewCount": 670,
   "priceRange": "$10–20",
   "description": "Unassuming Chinese joint serving such familiar entrees as lo mein & General Tso's pork.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 9:00 PM",
@@ -57,5 +43,14 @@
   "groundgameId": "6a2437f29bab7157e70eca6a",
   "seededAt": "2026-06-06T15:08:34Z",
   "updatedAt": "2026-06-12T22:03:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 68,
+    "2": 27,
+    "3": 40,
+    "4": 106,
+    "5": 429
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsNdB4vV9kP91H9R7DFuNZJ-KARiW1aFsj1VaTwoOXN-RrRun13wBuw8LJYco-KLmWTi82ttcgiu0Q1_DYfEhSZnjvcGfnRqROsJUE4NMFprB_hH5V8U4A8rsnfFV37zbgxv0fLg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

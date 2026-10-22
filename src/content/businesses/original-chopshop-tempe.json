@@ -2,7 +2,7 @@
   "slug": "original-chopshop-tempe",
   "name": "Original ChopShop",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Health food restaurant",
   "address": "222 E University Dr",
   "city": "Tempe",
   "state": "AZ",
@@ -13,7 +13,7 @@
   "website": "https://originalchopshop.com/menu/",
   "placeId": "ChIJ5bcsaNkIK4cRg8aHn8VpLcc",
   "googleRating": 4.5,
-  "googleReviewCount": 1679,
+  "googleReviewCount": 1719,
   "priceRange": "$$",
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
@@ -30,5 +30,22 @@
   "groundgameId": "6a32e35b60e0b748187393db",
   "seededAt": "2026-06-17T18:11:39Z",
   "updatedAt": "2026-08-05T15:21:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14352243885005588099",
+  "googleMapsUrl": "https://www.google.com/maps/place/Original+ChopShop/data=!4m7!3m6!1s0x872b08d9682cb7e5:0xc72d69c59f87c683!8m2!3d33.422292!4d-111.9359239!16s%2Fg%2F12m91ggvh!19sChIJ5bcsaNkIK4cRg8aHn8VpLcc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 69,
+    "2": 51,
+    "3": 85,
+    "4": 260,
+    "5": 1254
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5ce_2STTdU8HiFI0UWE0IhCKFoKzX59_tr8lQNGEnEOX64mYNHb1pd2ib6LZryCNWBxsBPO1-Mosavz1uA6zQaVNpkt8chb5ZF2uxPJSBnVpQW43sVypcQ70KXacvxGK_RIzlrA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

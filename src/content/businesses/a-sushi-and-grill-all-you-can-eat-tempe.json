@@ -16,7 +16,7 @@
   "website": "http://www.asushiandgrillayce.com/",
   "placeId": "ChIJCWk-5XsHK4cRAOEqLfRFLAE",
   "googleRating": 4.6,
-  "googleReviewCount": 789,
+  "googleReviewCount": 1015,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a2738c93cd985335a5ee038",
   "seededAt": "2026-06-08T21:48:57Z",
   "updatedAt": "2026-06-08T21:49:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "84519408045318400",
+  "googleMapsUrl": "https://www.google.com/maps/place/A+SUSHI+AND+GRILL+%28ALL+YOU+CAN+EAT%29/data=!4m7!3m6!1s0x872b077be53e6909:0x12c45f42d2ae100!8m2!3d33.3773306!4d-111.9075!16s%2Fg%2F11vs4_yrtb!19sChIJCWk-5XsHK4cRAOEqLfRFLAE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 27,
+    "3": 35,
+    "4": 85,
+    "5": 835
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCnxKWzG3fEmYndE_VyPhVn6g9uZtaCsJ0UQMQUbFWJRCgXw8Vo_0mXkrBnWYSX6THRo20emz4vkvJj7pNsIcKe113PVW8yhR_Jum2GnuFvH8DGL3zAm48TiA62FidPrBPHKPB81f4iVz0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

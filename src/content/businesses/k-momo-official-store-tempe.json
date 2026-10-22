@@ -1,0 +1,46 @@
+{
+  "slug": "k-momo-official-store-tempe",
+  "name": "K MOMO Official Store",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3814731,
+  "lng": -111.9650365,
+  "phone": "+14806180788",
+  "website": "http://www.k-momo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/K+MOMO+Official+Store/data=!4m7!3m6!1s0x872b0f59e1444903:0x7c1b8f93673708da!8m2!3d33.3814731!4d-111.9650365!16s%2Fg%2F1td1qblx!19sChIJA0lE4VkPK4cR2gg3Z5OPG3w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8942899348328876250",
+  "placeId": "ChIJA0lE4VkPK4cR2gg3Z5OPG3w",
+  "googleRating": 4.1,
+  "googleReviewCount": 162,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG_hNDvVD1O52VUDARR0pFBNrd9FwNRVdWfwYrQHDuKxc_CLP--BaQxwo9Kp5xQYiCWobH_DwIn6BWziaco6oZNmNXWUSVwby87og4XlF1RG785hAXvr4vYJcVbsWZym7r3hzN9OKX8EhN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 7,
+    "3": 22,
+    "4": 40,
+    "5": 81
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

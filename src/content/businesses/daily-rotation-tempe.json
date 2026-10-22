@@ -1,0 +1,31 @@
+{
+  "slug": "daily-rotation-tempe",
+  "name": "Daily Rotation",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "414 S Mill Ave Suite 120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "googleMapsUrl": "https://www.google.com/maps/place/Daily+Rotation/data=!4m7!3m6!1s0x872b093e28cd071f:0x67fc65ba26afebc5!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F11j4df6sk7!19sChIJHwfNKD4JK4cRxeuvJrpl_Gc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7492975730225048517",
+  "placeId": "ChIJHwfNKD4JK4cRxeuvJrpl_Gc",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7lCpg8-1DQUaFCm7g98J1Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=260.21417&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -17,13 +17,11 @@
   "website": "https://www.seetogyrosaz.com/",
   "placeId": "ChIJtxR1HNUJK4cRWpORaeLtFKQ",
   "googleRating": 4.7,
-  "googleReviewCount": 347,
+  "googleReviewCount": 399,
   "priceRange": "$$",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
@@ -40,5 +38,16 @@
   "groundgameId": "6a398c2ab37625746e9e7f1a",
   "seededAt": "2026-06-22T19:25:30Z",
   "updatedAt": "2026-07-29T20:13:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11823336478443934554",
+  "googleMapsUrl": "https://www.google.com/maps/place/Seeto+Gyros/data=!4m7!3m6!1s0x872b09d51c7514b7:0xa414ede26991935a!8m2!3d33.4078138!4d-111.9509513!16s%2Fg%2F11ll7ndnq8!19sChIJtxR1HNUJK4cRWpORaeLtFKQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 8,
+    "3": 5,
+    "4": 23,
+    "5": 351
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0y3GbGeh3OTChiLRGvesll_qw-2jm6u8FbPaLHqCDgPtCsy9YxSK7TbTHiBWvysNlETbd-jZwXkuln76DJsq_P3eyDiWrQPU2Bt4zEWNZba_o56FGdSogzLQM3T2YKSrWscFa=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

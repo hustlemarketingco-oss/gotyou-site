@@ -1,0 +1,50 @@
+{
+  "slug": "bella-nails-spa-tempe",
+  "name": "Bella Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Day spa"
+  ],
+  "address": "904 N Scottsdale Rd Unit 105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4392227,
+  "lng": -111.92668719999999,
+  "phone": "+14804463555",
+  "website": "http://bellanails-spa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bella+Nails+%26+Spa/data=!4m7!3m6!1s0x872b0918209b4239:0x6e836bc8f6ee06c9!8m2!3d33.4392227!4d-111.9266872!16s%2Fg%2F1v_vtcct!19sChIJOUKbIBgJK4cRyQbu9shrg24?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7963327077001594569",
+  "placeId": "ChIJOUKbIBgJK4cRyQbu9shrg24",
+  "googleRating": 4.1,
+  "googleReviewCount": 161,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJFCJPu-93KqS2yRxbmPMeSE-yR6bw2b-TmTa00fkuOqldHfsC1mclQCHaNUL1FJDICiRLtQ1iRyX3nvouEDvpcBPZuOkG7MZXIxt-nZXUErqbJObCcFGCaIfQaM7mgX9Av-Qmxg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 11,
+    "3": 4,
+    "4": 15,
+    "5": 110
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:30 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:30 PM",
+    "thu": "9:30 AM - 7:30 PM",
+    "fri": "9:30 AM - 7:30 PM",
+    "sat": "9:30 AM - 6:30 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

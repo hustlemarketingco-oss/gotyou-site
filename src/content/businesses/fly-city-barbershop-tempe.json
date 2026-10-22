@@ -1,0 +1,43 @@
+{
+  "slug": "fly-city-barbershop-tempe",
+  "name": "Fly city barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 W 6th St #127",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4240956,
+  "lng": -111.9419782,
+  "phone": "+16232023166",
+  "website": "http://book.thecut.co/flycity",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fly+city+barbershop/data=!4m7!3m6!1s0x872b08d7be66cd79:0xdfe80bdc59d4d486!8m2!3d33.4240956!4d-111.9419782!16s%2Fg%2F11dx8z083w!19sChIJec1mvtcIK4cRhtTUWdwL6N8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16134158706082632838",
+  "placeId": "ChIJec1mvtcIK4cRhtTUWdwL6N8",
+  "googleRating": 4.9,
+  "googleReviewCount": 15,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRihuWBidq7XKXcLp5d7lyD0ilUUG3WKyXE1Axj0gODP69y-6xfIEJGX_Q_EZkxbJ59Swsl23RIowN9dQ5PCJuDnFGRP8romaePW0qRtanPmHaPKZh7knn_ulT9BrM_SHPrjG-W3YvsCA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "5": 14
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

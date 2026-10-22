@@ -10,14 +10,8 @@
   "priceRange": "$",
   "description": "Located in Tempe, Tea and Crepes is a bubble tea store with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/godaddy"
@@ -28,5 +22,31 @@
   "groundgameId": "6a2436129086096025e239ff",
   "seededAt": "2026-06-06T15:00:34Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJLT647lEPK4cRNqD0wVjcVn4",
+  "googleCid": "9103705970545303606",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tea+and+Crepes/data=!4m7!3m6!1s0x872b0f51eeb83e2d:0x7e56dc58c1f4a036!8m2!3d33.3847151!4d-111.965014!16s%2Fg%2F11krjr48vq!19sChIJLT647lEPK4cRNqD0wVjcVn4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 60,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 3,
+    "3": 4,
+    "4": 4,
+    "5": 42
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8BQCzEok7X95nqtsUe9-S6vYCejZe-3gQUGdP4rKnb3JqKKgH5vEttIF6M1pkwPNE9aD314XmzH71Fi9a1af8RwzLNSyrfD0h9x616key4VEN3Qm78ZFOwUsMS_N-BF2-pz-58g=w1200-h800-k-no",
+  "website": "http://www.teaandcrepes.com/",
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "lat": 33.3847151,
+  "lng": -111.965014,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

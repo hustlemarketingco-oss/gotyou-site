@@ -1,0 +1,57 @@
+{
+  "slug": "walgreens-1745-tempe",
+  "name": "Walgreens",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Contact lenses supplier",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Perfume store",
+    "Stationery store",
+    "Vitamin & supplements store"
+  ],
+  "address": "1745 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392398199999995,
+  "lng": -111.90971189999999,
+  "phone": "+14808383642",
+  "website": "https://www.walgreens.com/locator/walgreens-1745+e+southern+ave-tempe-az-85282/id=1197",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walgreens/data=!4m7!3m6!1s0x872b0881659e91ad:0x6f9161be11193259!8m2!3d33.3923982!4d-111.9097119!16s%2Fg%2F1tks6sd6!19sChIJrZGeZYEIK4cRWTIZEb5hkW8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8039314278791590489",
+  "placeId": "ChIJrZGeZYEIK4cRWTIZEb5hkW8",
+  "googleRating": 2.6,
+  "googleReviewCount": 232,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC2o--xelK5Hm6aNBOQWcfHw2ESip43yv5FMEjxounSRGFoWxN8rz-uSWtpdJYm3mQYGfbFv1aCxIrwwt0fJT12AxQPbLMkQW6R-ZByZpw3whis0XOQzMVNORoi94h44VeIqJ-=w1200-h800-k-no",
+  "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 119,
+    "2": 14,
+    "3": 8,
+    "4": 13,
+    "5": 78
+  },
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "6:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

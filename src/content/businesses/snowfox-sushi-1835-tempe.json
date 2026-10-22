@@ -1,0 +1,36 @@
+{
+  "slug": "snowfox-sushi-1835-tempe",
+  "name": "SNOWFOX Sushi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi takeaway",
+  "address": "1835 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3621468,
+  "lng": -111.9091421,
+  "website": "https://www.snowfox.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SNOWFOX+Sushi/data=!4m7!3m6!1s0x872b07727bb6af47:0x9fb95eb0d799dc04!8m2!3d33.3621468!4d-111.9091421!16s%2Fg%2F11n56rqymp!19sChIJR6-2e3IHK4cRBNyZ17BeuZ8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11509334436346452996",
+  "placeId": "ChIJR6-2e3IHK4cRBNyZ17BeuZ8",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W40gRLKOdhBbaB5vxVAVbA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=309.40967&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

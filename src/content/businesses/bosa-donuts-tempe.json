@@ -15,34 +15,18 @@
   "lng": -111.9405836,
   "phone": "+14808388880",
   "website": "http://www.bosadonutsmill.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13831142215314008696",
+  "googleMapsUrl": "https://www.google.com/maps/place/BoSa+Donuts/data=!4m7!3m6!1s0x872b0604ab533a51:0xbff2169075b36a78!8m2!3d33.3779399!4d-111.9405836!16s%2Fg%2F11b5zwjp7l!19sChIJUTpTqwQGK4cReGqzdZAW8r8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13831142215314008696",
   "placeId": "ChIJUTpTqwQGK4cReGqzdZAW8r8",
   "googleRating": 4.3,
-  "googleReviewCount": 743,
+  "googleReviewCount": 754,
   "priceRange": "$1–10",
   "description": "Casual counter serve/drive-through with donuts, coffee, sandwiches & boba drinks.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Google Pay",
-    "Apple Pay",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "4:00 AM - 10:00 PM",
@@ -59,5 +43,14 @@
   "groundgameId": "6a2437d1ab27836f42268ef1",
   "seededAt": "2026-06-06T15:08:01Z",
   "updatedAt": "2026-07-23T19:53:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 55,
+    "2": 22,
+    "3": 62,
+    "4": 108,
+    "5": 507
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNYm25MDcfIkTsTaZKmpRaepiDYNEfk-cWH7xp9Rb12WCKzYQxsFiHvY2an-vmyGWUejpT0sx3_krXOT4EX_MX6T8NeHsdRkL6hXbhlAxqmKimi5hh4h9CklKjoyKZ5kWIpXVDoQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

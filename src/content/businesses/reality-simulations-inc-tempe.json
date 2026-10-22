@@ -1,0 +1,42 @@
+{
+  "slug": "reality-simulations-inc-tempe",
+  "name": "Reality Simulations Inc",
+  "category": "Shopping",
+  "googleCategory": "Game store",
+  "address": "2155 E University Dr Unit 109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4213849,
+  "lng": -111.8931368,
+  "phone": "+14809677979",
+  "website": "http://www.reality.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Reality+Simulations+Inc/data=!4m7!3m6!1s0x872b085b29e09199:0xe675cbd1e2fed895!8m2!3d33.4213849!4d-111.8931368!16s%2Fg%2F1hc4ksf3d!19sChIJmZHgKVsIK4cRldj-4tHLdeY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16606403303315527829",
+  "placeId": "ChIJmZHgKVsIK4cRldj-4tHLdeY",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pKcahUzU27So-q27C5j26g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=238.71681&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

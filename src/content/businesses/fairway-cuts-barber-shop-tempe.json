@@ -1,0 +1,32 @@
+{
+  "slug": "fairway-cuts-barber-shop-tempe",
+  "name": "Fairway Cuts Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1828 E University Dr #11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.422398199999996,
+  "lng": -111.90744529999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Fairway+Cuts+Barber+Shop/data=!4m7!3m6!1s0x872b08f8335e3d63:0xb407a32a621b68e4!8m2!3d33.4223982!4d-111.9074453!16s%2Fg%2F11n_4dm9sy!19sChIJYz1eM_gIK4cR5GgbYiqjB7Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12972516654093920484",
+  "placeId": "ChIJYz1eM_gIK4cR5GgbYiqjB7Q",
+  "googleRating": 1,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Dy5OLHEfy1cLOD7DPWfwQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=326.87558&pitch=3.7916422&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

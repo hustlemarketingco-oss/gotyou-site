@@ -2,7 +2,7 @@
   "slug": "petes-fish-chips-tempe",
   "name": "Pete's Fish & Chips",
   "category": "Restaurant",
-  "googleCategory": "Fish and chips restaurant",
+  "googleCategory": "Fish & chips restaurant",
   "secondaryCategories": [
     "Seafood restaurant",
     "Fast food restaurant"
@@ -17,10 +17,12 @@
   "website": "http://www.petesfishandchips.com/",
   "placeId": "ChIJQzeKQOkIK4cRtYsvC60I5b4",
   "googleRating": 4.1,
-  "googleReviewCount": 1637,
+  "googleReviewCount": 1658,
   "priceRange": "$",
   "amenities": [
-    "Cash"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "10:30 AM - 8:30 PM",
@@ -37,5 +39,16 @@
   "groundgameId": "6a3cac9c5a724ad29f73a1a4",
   "seededAt": "2026-06-25T04:20:44Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13755410176183077813",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pete%27s+Fish+%26+Chips/data=!4m7!3m6!1s0x872b08e9408a3743:0xbee508ad0b2f8bb5!8m2!3d33.414453!4d-111.9237208!16s%2Fg%2F1tppsf9y!19sChIJQzeKQOkIK4cRtYsvC60I5b4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 185,
+    "2": 90,
+    "3": 120,
+    "4": 260,
+    "5": 1003
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsiFFBHwUnaHR0FWoaJmfWLg6H13tboIkCZPCP2OFpirFpnJJYxR9b3LtJ80ErnDd-36HjNlrIDykqRbyTmhj-qAZHa9CWwTx-vWagudKi-CHayPpGTQHGYuYhf-72zjeCKRA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

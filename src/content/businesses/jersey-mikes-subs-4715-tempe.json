@@ -21,7 +21,7 @@
   "website": "https://www.jerseymikes.com/9028/tempe-az",
   "placeId": "ChIJ_X9uAyIGK4cR76qdXNAEDkg",
   "googleRating": 3.8,
-  "googleReviewCount": 216,
+  "googleReviewCount": 222,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
@@ -38,5 +38,22 @@
   "groundgameId": "6a3436b0d89dc046a5eafaff",
   "seededAt": "2026-06-18T18:19:28Z",
   "updatedAt": "2026-06-18T18:19:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5192092713358306031",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jersey+Mike%27s+Subs/data=!4m7!3m6!1s0x872b0622036e7ffd:0x480e04d05c9daaef!8m2!3d33.380008!4d-111.9277962!16s%2Fg%2F11cnwf2lcs!19sChIJ_X9uAyIGK4cR76qdXNAEDkg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 14,
+    "3": 13,
+    "4": 32,
+    "5": 121
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHiuZzqmPnsaFC6sf-ZaxGZa6iekwvONeWrUo9i0jKbrndW31VuWB76B6ND4MngWGskzAG5bKAt2agSg1ebq-f8x67enDdbdBvSMH61XGqnR6Ag7O4Kf4YQOAopsGQFmAf91i4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

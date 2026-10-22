@@ -1,0 +1,42 @@
+{
+  "slug": "candy-castle-tempe",
+  "name": "Candy Castle",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Candy store",
+  "address": "5000 S Arizona Mills Cir #392",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.380994,
+  "lng": -111.96409,
+  "phone": "+16234336462",
+  "googleMapsUrl": "https://www.google.com/maps/place/Candy+Castle/data=!4m7!3m6!1s0x872b0f5775992d71:0x4059d3dba0d27dc7!8m2!3d33.380994!4d-111.96409!16s%2Fg%2F11l22kksw_!19sChIJcS2ZdVcPK4cRx33SoNvTWUA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4636970231604084167",
+  "placeId": "ChIJcS2ZdVcPK4cRx33SoNvTWUA",
+  "googleRating": 3.4,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTICvGXwkxfNyvy_4P_u31NawbZegsOyoIH3Bu9s2GScUHe9vPsPwl-5T_MP2Fb689BF9n2q7-vZYH9JKqQKMFJ8vZkayfRIro4dUUtgGZZeXF-gWrxEaUcIgHUZmL3sMOvNbrDP5ZF0NG=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "5": 11
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

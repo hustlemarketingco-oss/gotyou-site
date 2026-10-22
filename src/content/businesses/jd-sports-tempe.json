@@ -1,0 +1,53 @@
+{
+  "slug": "jd-sports-tempe",
+  "name": "JD Sports",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Men's clothing store",
+    "Sportswear store",
+    "Women's clothing store"
+  ],
+  "address": "2000 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4336036,
+  "lng": -111.90248729999999,
+  "phone": "+14803744040",
+  "website": "https://www.jdsports.com/?utm_source=googlemybusiness&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/JD+Sports/data=!4m7!3m6!1s0x872b09efef25d9b5:0xf087e0c518376bad!8m2!3d33.4336036!4d-111.9024873!16s%2Fg%2F11ys9dxnk6!19sChIJtdkl7-8JK4cRrWs3GMXgh_A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17332068828078107565",
+  "placeId": "ChIJtdkl7-8JK4cRrWs3GMXgh_A",
+  "googleRating": 3.9,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWkQ7C9lrmZ5258FIQ-dAA8nBm0vN610E2LdfpZ6NjfNADNaxKSU_OQD1kc2Sv7vb8bMEx6ofDBfiXIoLeiiPiKu2xD1n0rrbiDD-yhcJF8zq6eRONGBW8cG6wj4AdVlX4miy7aAIMCx7t=w1200-h800-k-no",
+  "description": "Retail chain specializing in designer branded training shoes, casual sportswear and accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "4": 1,
+    "5": 7
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "party-city-at-staples-tempe",
+  "name": "Party City at Staples",
+  "category": "Shopping",
+  "googleCategory": "Party store",
+  "secondaryCategories": [
+    "Balloon store",
+    "Event planner",
+    "Gift shop"
+  ],
+  "address": "914 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4089512,
+  "lng": -111.9257002,
+  "phone": "+14808240818",
+  "website": "https://stores.partycity.com/us/az/tempe/party-store-s0262.html?utm_source=google&utm_medium=organic&utm_campaign=store_locator&utm_content=staples_S0262",
+  "googleMapsUrl": "https://www.google.com/maps/place/Party+City+at+Staples/data=!4m7!3m6!1s0x872b091132b87915:0xed8cd49fedc8ddfe!8m2!3d33.4089512!4d-111.9257002!16s%2Fg%2F11z2y4k_j3!19sChIJFXm4MhEJK4cR_t3I7Z_UjO0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17117290067082665470",
+  "placeId": "ChIJFXm4MhEJK4cR_t3I7Z_UjO0",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSu-y-HnZk88zfv3v-J-3kOTGm81CPeO-3tF0dTYp1gu9Po4vJG4WFW5D4RFM1qHMjN8bmJHcSqvaRro1EF5L2pVdrfqI3UwIo1JlDbj7_ze5aLwkzcFmdLk-Rsx-hZeBCIs8PdZwrf1w=w1200-h800-k-no",
+  "description": "Retail chain stocking a wide range of themed party supplies, plus costumes & holiday decorations.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

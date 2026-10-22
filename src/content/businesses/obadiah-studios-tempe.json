@@ -1,0 +1,35 @@
+{
+  "slug": "obadiah-studios-tempe",
+  "name": "Obadiah Studios",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "358 W Citation Ln",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3429484,
+  "lng": -111.942989,
+  "phone": "+14805290306",
+  "googleMapsUrl": "https://www.google.com/maps/place/Obadiah+Studios/data=!4m7!3m6!1s0x872b078633be371f:0xf770c2b851d77808!8m2!3d33.3429484!4d-111.942989!16s%2Fg%2F11wvyhzc2y!19sChIJHze-M4YHK4cRCHjXUbjCcPc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17829965021662640136",
+  "placeId": "ChIJHze-M4YHK4cRCHjXUbjCcPc",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

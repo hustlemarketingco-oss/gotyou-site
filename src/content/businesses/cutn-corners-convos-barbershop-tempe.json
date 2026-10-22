@@ -1,0 +1,46 @@
+{
+  "slug": "cutn-corners-convos-barbershop-tempe",
+  "name": "Cut’N Corners & Convos Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1740 E Broadway Rd Ste 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4079684,
+  "lng": -111.91064929999999,
+  "phone": "+14806974400",
+  "website": "https://www.cutncornersandconvos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cut%E2%80%99N+Corners+%26+Convos+Barbershop/data=!4m7!3m6!1s0x872b092d79c7ebf3:0x35bf83aa2e000576!8m2!3d33.4079684!4d-111.9106493!16s%2Fg%2F11rxqd5mbw!19sChIJ8-vHeS0JK4cRdgUALqqDvzU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3872958971501348214",
+  "placeId": "ChIJ8-vHeS0JK4cRdgUALqqDvzU",
+  "googleRating": 4.9,
+  "googleReviewCount": 228,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcap2EBOT2vMI0-H_AgwW9qiM5VJY4ohc-tiqPfTayI0urW2HrbM36m-9_4rwMPG_2r_RhlWJlqGQANs1NQ01wsVt54kshOFS5T2XMcu2a8vviMQ6UjGTFu92OTCfZjrkT1JVEr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 1,
+    "4": 1,
+    "5": 223
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

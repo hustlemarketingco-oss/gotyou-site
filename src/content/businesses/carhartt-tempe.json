@@ -1,0 +1,52 @@
+{
+  "slug": "carhartt-tempe",
+  "name": "Carhartt",
+  "category": "Shopping",
+  "googleCategory": "Work clothes store",
+  "secondaryCategories": [
+    "Boot store",
+    "Clothing store",
+    "Men's clothing store",
+    "Women's clothing store"
+  ],
+  "address": "15 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4323602,
+  "lng": -111.9080532,
+  "phone": "+14808962213",
+  "website": "https://www.carhartt.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carhartt/data=!4m7!3m6!1s0x872b097f0c49b165:0xc2e223365a2bef52!8m2!3d33.4323602!4d-111.9080532!16s%2Fg%2F11yhg5g7gz!19sChIJZbFJDH8JK4cRUu8rWjYj4sI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14042825304442662738",
+  "placeId": "ChIJZbFJDH8JK4cRUu8rWjYj4sI",
+  "googleRating": 4.4,
+  "googleReviewCount": 58,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccOYeyCiZy7h9Igdurw1qnNFc4FE8V5DKG5Pug1O4ihiZIseoY1cuuEZnj3azA_OBTgBkgbwJGUBi3Z4JkbXAtw8VlHOgMf_sPxfWeKUdpOj3s2kYdxFuWilFEcw3SaO4jGs8i986y737z=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "4": 4,
+    "5": 45
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

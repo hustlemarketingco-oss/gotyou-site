@@ -1,0 +1,46 @@
+{
+  "slug": "redds-barbersalon-tempe",
+  "name": "Redd's Barbersalon",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "524 W Broadway Rd #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4079933,
+  "lng": -111.9470443,
+  "phone": "+14805976567",
+  "website": "http://www.reddsbarbersalon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Redd%27s+Barbersalon/data=!4m7!3m6!1s0x872b08cbe67f4a6f:0xd26104a9e6d05606!8m2!3d33.4079933!4d-111.9470443!16s%2Fg%2F11f01p11m0!19sChIJb0p_5ssIK4cRBlbQ5qkEYdI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15159402948474197510",
+  "placeId": "ChIJb0p_5ssIK4cRBlbQ5qkEYdI",
+  "googleRating": 4.7,
+  "googleReviewCount": 77,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPuuftzsz-N_ObQs5ebKjSWKjtQ2FTj8FWR8X39Hy0MfDISYm2qESxUmMH4mCD54U2DJuxgIGGvBgepdkCM0Odd6z5KMpJQox2ZWMVd1yjKDuEiT5nH6YNgeWQ-yfijzWqi-7Y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "4": 6,
+    "5": 66
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

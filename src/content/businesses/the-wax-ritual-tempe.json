@@ -1,0 +1,44 @@
+{
+  "slug": "the-wax-ritual-tempe",
+  "name": "The Wax Ritual",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "115 W 6th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424233699999995,
+  "lng": -111.9418692,
+  "phone": "+16232433814",
+  "website": "http://thewaxritual.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Wax+Ritual/data=!4m7!3m6!1s0x872b0987bdd6d44b:0xcb0398e7379bfe28!8m2!3d33.4242337!4d-111.9418692!16s%2Fg%2F11nq1g03t0!19sChIJS9TWvYcJK4cRKP6bN-eYA8s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14628704133467340328",
+  "placeId": "ChIJS9TWvYcJK4cRKP6bN-eYA8s",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftDlRxpor1F9A_JlkPCOPcOQsQgTrpsh_4yMAbJQ1tm2uCBMqZ4unxfDlVNnIZgQhFhXr_uQSSTLqN9eqs0GpN6MQ1FV9hjwNK2ksWBNsuu8EJoSwC_bjZvjXDWGzirMSSHz3H2Mqoi4Bv=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 12
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "1:00 PM - 7:00 PM",
+    "wed": "1:00 PM - 7:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 3:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

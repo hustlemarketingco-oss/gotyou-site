@@ -1,0 +1,31 @@
+{
+  "slug": "glow-garden-juices-tempe",
+  "name": "Glow Garden Juices",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "724 W Brown St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426475599999996,
+  "lng": -111.9494419,
+  "phone": "+16026969364",
+  "googleMapsUrl": "https://www.google.com/maps/place/Glow+Garden+Juices/data=!4m7!3m6!1s0x872b09ceef8d335b:0x4a08ef4c542c81ea!8m2!3d33.4264756!4d-111.9494419!16s%2Fg%2F11p1_c8f75!19sChIJWzON784JK4cR6oEsVEzvCEo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5334776869729108458",
+  "placeId": "ChIJWzON784JK4cR6oEsVEzvCEo",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "boba-donuts-2700-tempe",
+  "name": "Boba & Donuts",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Donut shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Tea house"
+  ],
+  "address": "2700 W Baseline Rd Unit 129",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3786065,
+  "lng": -111.97688579999999,
+  "phone": "+14807422686",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boba+%26+Donuts/data=!4m7!3m6!1s0x872b0f60654f5a91:0x5fbbbecfe602a993!8m2!3d33.3786065!4d-111.9768858!16s%2Fg%2F11dxky6r_r!19sChIJkVpPZWAPK4cRk6kC5s--u18?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6898317054374488467",
+  "placeId": "ChIJkVpPZWAPK4cRk6kC5s--u18",
+  "googleRating": 4.4,
+  "googleReviewCount": 145,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ7FjgSHtbUbucYdgJvfqFX2PWQjnpgYeJv3Zt7I4vyCAz-RFl8hFau6fJ4c1597InqYK_C07GlvU6novZcMasIayLbumqnC5mcTPKh5SnzZD3HSeaJW5s3PxFLXGUIvSyHzlKDQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 6,
+    "3": 7,
+    "4": 19,
+    "5": 104
+  },
+  "hours": {
+    "mon": "7:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "7:00 AM - 8:00 PM",
+    "sun": "7:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

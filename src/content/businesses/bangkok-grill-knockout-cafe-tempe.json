@@ -21,38 +21,18 @@
   "lng": -111.9449133,
   "phone": "+14803064231",
   "website": "https://bangkokgrillaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8412659545141948962",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bangkok+Grill+%26+Knockout+Cafe/data=!4m7!3m6!1s0x872b078490908857:0x74bfc548bc7c3222!8m2!3d33.3486749!4d-111.9449133!16s%2Fg%2F11kf6k9djk!19sChIJV4iQkIQHK4cRIjJ8vEjFv3Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8412659545141948962",
   "placeId": "ChIJV4iQkIQHK4cRIjJ8vEjFv3Q",
-  "googleRating": 4.8,
-  "googleReviewCount": 1207,
+  "googleRating": 4.7,
+  "googleReviewCount": 1287,
   "priceRange": "$10–20",
   "description": "Bangkok Grill & Knockout Cafe is a Tempe casual, cozy thai restaurant & asian restaurant known for coffee & comfort food.",
   "amenities": [
-    "Outdoor seating",
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:30 AM - 3:00 PM, 5:00 PM - 10:00 PM",
@@ -69,5 +49,14 @@
   "groundgameId": "6a2439862a7314854fac859f",
   "seededAt": "2026-06-06T15:15:18Z",
   "updatedAt": "2026-06-06T15:15:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 21,
+    "3": 30,
+    "4": 56,
+    "5": 1142
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4vm5M0rBdpduaAbq8i7D8pQ8PR44HyvlYn-IwO_Cq2LjWFggW3BlO-DZh3Pzp6_AIDMp9MBYrALT54nyAKQfSUjkIZeXcg-dOKqZSLYPoCVTFVBQSJg1lzuswv2jht0XPlWg4rwzigFTZ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -14,11 +14,7 @@
   "priceRange": "$$",
   "description": "Located in Tempe, Ava J's Cupcakes is a cupcake shop & bakery with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Wheelchair accessible parking lot",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/121648935222071"
@@ -29,5 +25,20 @@
   "groundgameId": "6a2439d024092e5d3b50f1ce",
   "seededAt": "2026-06-06T15:16:32Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7-qY_dsJK4cRNiHAcZuBcx8",
+  "googleCid": "2266297542125822262",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ava+J%27s+Cupcakes/data=!4m7!3m6!1s0x872b09dbfd98eaef:0x1f73819b71c02136!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11t7xgh_90!19sChIJ7-qY_dsJK4cRNiHAcZuBcx8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.4,
+  "googleReviewCount": 9,
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "5": 5
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffuiPK3tg9FJ1dLwyJBnzwq6vJDjNiexw6YsXYM1AyJBtgTouRmsuzp3F44twD0Vq10oqxUOJnQvZFId0r0t7YddVPUQZPW_kUMdNQWqmRvbvgqqRtmSTm6-FpxRXluAtq5z_l=w1200-h800-k-no",
+  "website": "http://www.avajscupcakes.com/",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

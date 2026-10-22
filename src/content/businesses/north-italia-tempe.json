@@ -22,7 +22,7 @@
   "website": "https://www.northitalia.com/locations/tempe-az/",
   "placeId": "ChIJhfsUvuAIK4cRAt2w01dPcLk",
   "googleRating": 4.3,
-  "googleReviewCount": 279,
+  "googleReviewCount": 348,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a29a2ca7b31223b710eb95b",
   "seededAt": "2026-06-10T17:45:46Z",
   "updatedAt": "2026-06-10T17:45:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13362267333040594178",
+  "googleMapsUrl": "https://www.google.com/maps/place/North+Italia/data=!4m7!3m6!1s0x872b08e0be14fb85:0xb9704f57d3b0dd02!8m2!3d33.4243522!4d-111.9272039!16s%2Fg%2F11lzly03jk!19sChIJhfsUvuAIK4cRAt2w01dPcLk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 29,
+    "2": 14,
+    "3": 25,
+    "4": 44,
+    "5": 236
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVzURgr1iR-A3fVvNl2HVgIeYai64Dq1hplJykdoTbxpRztUaQiiosF__jHRNBEf-YmlWCV1ETcCnPGHgXdcnydS9lc_6xphHSTmbRscGM4ZqnWrzDJvOIoLJkrd67ZKlyGwMzfQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

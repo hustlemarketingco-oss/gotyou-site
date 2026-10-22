@@ -2,7 +2,7 @@
   "slug": "dayungs-tea-tempe",
   "name": "DaYung's Tea -Tempe",
   "category": "Coffee & Cafe",
-  "googleCategory": "Bubble tea store",
+  "googleCategory": "Cafe",
   "secondaryCategories": [
     "Cafe",
     "Tea house"
@@ -15,30 +15,18 @@
   "lng": -111.9407078,
   "phone": "+14802197286",
   "website": "https://pos.chowbus.com/online-ordering/store/DaYungs-Tea-Tempe/44341",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6370121163588670463",
+  "googleMapsUrl": "https://www.google.com/maps/place/DaYung%27s+Tea+-Tempe/data=!4m7!3m6!1s0x872b08b01d92a4bd:0x58673772abe693ff!8m2!3d33.394829!4d-111.9407078!16s%2Fg%2F11g9mgrfnn!19sChIJvaSSHbAIK4cR_5Pmq3I3Z1g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6370121163588670463",
   "placeId": "ChIJvaSSHbAIK4cR_5Pmq3I3Z1g",
   "googleRating": 4.7,
-  "googleReviewCount": 549,
+  "googleReviewCount": 567,
   "priceRange": "$1–10",
   "description": "Located in Tempe, DaYung's Tea -Tempe is a casual, cozy bubble tea store & cafe with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "12:00 PM - 9:00 PM",
@@ -55,5 +43,14 @@
   "groundgameId": "6a243606ce3713e5f5e35d8f",
   "seededAt": "2026-06-06T15:00:22Z",
   "updatedAt": "2026-08-06T19:17:53Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 7,
+    "3": 18,
+    "4": 71,
+    "5": 454
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfh3j8kgfZkte131y6TGZYbs75-zWTXCLrykuEfnte6TIbQpi3hEXkExi9r-SCV6xWZAkbSCyS0gc8af9lmSICh41h1IscxHDlMh3-enp91UPdsKk4DPJAKeCKxtzyn6M-cCN7sm0npBvo=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

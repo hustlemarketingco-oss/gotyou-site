@@ -2,7 +2,7 @@
   "slug": "el-paisano-food-truck-tempe",
   "name": "El paisano food truck",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Taco restaurant",
   "address": "1101 S Rural Rd",
   "city": "Tempe",
   "state": "AZ",
@@ -10,8 +10,8 @@
   "lat": 33.4166439,
   "lng": -111.9259098,
   "placeId": "ChIJT1QyllgJK4cRa9PqLhv6gLU",
-  "googleRating": 4.9,
-  "googleReviewCount": 24,
+  "googleRating": 4.7,
+  "googleReviewCount": 29,
   "hours": {
     "mon": "5:00 PM - 2:00 AM",
     "tue": "5:00 PM - 2:00 AM",
@@ -27,5 +27,20 @@
   "groundgameId": "6a358f751705cfb5750d2c8b",
   "seededAt": "2026-06-19T18:50:29Z",
   "updatedAt": "2026-06-19T18:50:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13078728312542122859",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+paisano+food+truck/data=!4m7!3m6!1s0x872b09589632544f:0xb580fa1b2eead36b!8m2!3d33.4166439!4d-111.9259098!16s%2Fg%2F11mrdhh538!19sChIJT1QyllgJK4cRa9PqLhv6gLU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 25
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGZPaou6oU_S9LyE_ldf0PG2_LsCom824ridwwM5M5pYTKNYufl2Bf3UZLLfkA_NfdRj_qf24s-0FXBpu2W_joCUMFtn1-Bt8o7o-dfXitqqz12_yoBavsjub43z1hBWtXYPOlL3Vby-xe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

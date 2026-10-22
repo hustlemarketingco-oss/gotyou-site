@@ -1,0 +1,47 @@
+{
+  "slug": "pristine-barbershops-tempe",
+  "name": "Pristine Barbershops",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "6481 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362527799999995,
+  "lng": -111.92798669999999,
+  "phone": "+14806535527",
+  "website": "https://www.pristinebarbershops.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pristine+Barbershops/data=!4m7!3m6!1s0x872b07003413172b:0x204b5dec456fce59!8m2!3d33.3625278!4d-111.9279867!16s%2Fg%2F11m6g24gdb!19sChIJKxcTNAAHK4cRWc5vRexdSyA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2327056901825613401",
+  "placeId": "ChIJKxcTNAAHK4cRWc5vRexdSyA",
+  "googleRating": 4.8,
+  "googleReviewCount": 149,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHuDVVgWomtLE2mOFSE3xtfBv_gxiIw9L7qaXRMXJ08IROdv-nDV8P6KbEqSPrdqBRuV8MEPIX0-MjkUpzctM8Qto_PoG8UlVISwjmVU23XiaDaSVT-lpemRvIiov_QVQHpcac67n7u2wI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 1,
+    "4": 2,
+    "5": 141
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

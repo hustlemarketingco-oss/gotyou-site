@@ -15,8 +15,8 @@
   "phone": "+14805080881",
   "website": "https://www.silverlakeramen.com/",
   "placeId": "ChIJa_mTZwAJK4cRKsbz3oeErts",
-  "googleRating": 4,
-  "googleReviewCount": 151,
+  "googleRating": 3.9,
+  "googleReviewCount": 160,
   "priceRange": "$$",
   "hours": {
     "mon": "11:30 AM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a4423fa2d75b1c3a90fe194",
   "seededAt": "2026-06-30T20:15:54Z",
   "updatedAt": "2026-07-02T19:56:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15829735459349841450",
+  "googleMapsUrl": "https://www.google.com/maps/place/Silverlake+Ramen/data=!4m7!3m6!1s0x872b09006793f96b:0xdbae8487def3c62a!8m2!3d33.4223689!4d-111.9254324!16s%2Fg%2F11y3w9j4s8!19sChIJa_mTZwAJK4cRKsbz3oeErts?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 8,
+    "3": 14,
+    "4": 18,
+    "5": 95
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQDzzEwJjnuRUpCO1kKMpRS03YWiM2Qnw2eUYdrbdwgur-y6eBExb05NjQUx_5kpphbf34b9Bk1iZwCBQGrd5xwyDZsiGRX9-7g0yus5iQeSLpNqIXjuNc75W6ndt5uhqSpsmLqThkL1fX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

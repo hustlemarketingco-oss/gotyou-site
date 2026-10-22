@@ -1,0 +1,43 @@
+{
+  "slug": "burn-lagree-tempe",
+  "name": "BURN Lagree Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "8750 S Rural Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335716399999995,
+  "lng": -111.9295161,
+  "phone": "+14809444425",
+  "website": "https://www.burnlagreeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/BURN+Lagree+Tempe/data=!4m7!3m6!1s0x872b072dac56dd61:0xba20586f0a0fcfac!8m2!3d33.3357164!4d-111.9295161!16s%2Fg%2F11njq96nvd!19sChIJYd1WrC0HK4cRrM8PCm9YILo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13411816924242759596",
+  "placeId": "ChIJYd1WrC0HK4cRrM8PCm9YILo",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9OkfqesKwgPsbgOXilzHBVBCnh_HpiNoje-gCGKL_K3Fdh19tyCUItTUpJhiZ6UiNgQ5YT2HND8xj5X4bqoW4pkcGLzLpZUv5F6S-DRiIcQYUmix0GkslJuHxlNeUdTCovzbUrpDpL5x4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "6:00 AM - 12:00 PM, 4:00 PM - 7:00 PM",
+    "tue": "6:00 AM - 12:00 PM, 4:00 PM - 7:00 PM",
+    "wed": "6:00 AM - 12:00 PM, 4:00 PM - 7:00 PM",
+    "thu": "6:00 AM - 12:00 PM, 4:00 PM - 7:00 PM",
+    "fri": "6:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "8:00 AM - 1:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

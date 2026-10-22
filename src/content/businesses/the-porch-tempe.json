@@ -2,7 +2,7 @@
   "slug": "the-porch-tempe",
   "name": "The Porch",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "American restaurant",
   "secondaryCategories": [
     "Chicken wings restaurant",
     "Sports bar",
@@ -23,7 +23,7 @@
   "website": "http://www.porchrestaurants.com/tempe/",
   "placeId": "ChIJTYrBD0cHK4cRItirpOHnYDk",
   "googleRating": 4.3,
-  "googleReviewCount": 1919,
+  "googleReviewCount": 2000,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a2c1c4fb083b6a9f07e570d",
   "seededAt": "2026-06-12T14:48:47Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4134559414242498594",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Porch/data=!4m7!3m6!1s0x872b07470fc18a4d:0x3960e7e1a4abd822!8m2!3d33.3786358!4d-111.9231097!16s%2Fg%2F11fqpdmsgl!19sChIJTYrBD0cHK4cRItirpOHnYDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 112,
+    "2": 69,
+    "3": 166,
+    "4": 424,
+    "5": 1229
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexpS1GuS9VeHAEAUtwwPJh9Eq1EhQnC6qodpw3tHwT1zzb2PJBMg1as4it7iDWV2cildGqYZMnB4ZF1LAPTcS5QDpHImPzGz5blLzjNSRL8WKvaQktpuAme8Ro_7UroJf1hvf-LaUNAvtQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

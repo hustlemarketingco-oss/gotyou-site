@@ -1,0 +1,48 @@
+{
+  "slug": "olympia-weightlifting-center-tempe",
+  "name": "Olympia Weightlifting Center",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Physical fitness program",
+    "Weightlifting area"
+  ],
+  "address": "937Q+54, 6426 S McClintock Dr #113",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3630554,
+  "lng": -111.91311189999999,
+  "phone": "+14802422312",
+  "website": "http://www.olympiaweightliftingaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Olympia+Weightlifting+Center/data=!4m7!3m6!1s0x872ba9cd23b17bf9:0x4b022511d1ae8ced!8m2!3d33.3630554!4d-111.9131119!16s%2Fg%2F11bbtn_khr!19sChIJ-XuxI82pK4cR7Yyu0RElAks?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5404923261260565741",
+  "placeId": "ChIJ-XuxI82pK4cR7Yyu0RElAks",
+  "googleRating": 4.9,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerocTfLKERXIq7puKOSci1oIjw008spU2MWTCcCmSnuAX5xSsb93IQaek5GdVOWZtONlx9T8Yp57xKy4S17XozttTHX8RMc61HR7HpxskIv1DPMJTMqZyY0yPlLmvHY5Hq_Dg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "5": 16
+  },
+  "hours": {
+    "mon": "9:30 AM - 8:30 PM",
+    "tue": "9:30 AM - 8:30 PM",
+    "wed": "9:30 AM - 8:30 PM",
+    "thu": "4:00 PM - 5:30 PM",
+    "fri": "9:30 AM - 8:30 PM",
+    "sat": "8:30 AM - 10:30 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

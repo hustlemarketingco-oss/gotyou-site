@@ -1,0 +1,43 @@
+{
+  "slug": "the-enclave-salon-suites-tempe",
+  "name": "The Enclave Salon Suites",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1800 E Rio Salado Pkwy #170",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4301305,
+  "lng": -111.90786109999999,
+  "website": "http://theenclavesalonsuites.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Enclave+Salon+Suites/data=!4m7!3m6!1s0x872b099338d23671:0xf0bfd6bc2bec27a1!8m2!3d33.4301305!4d-111.9078611!16s%2Fg%2F11s4s251lh!19sChIJcTbSOJMJK4cRoSfsK7zWv_A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17347820393333532577",
+  "placeId": "ChIJcTbSOJMJK4cRoSfsK7zWv_A",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaWhANcS1jueM9M6yjc_VltcSfOyfuMRTxivs05Fshlle7Es49_DQO0WjsZtF_HBfHLxQfvJYjlTTwnuoKKRWt0xFsx_OG4qP8JhqlUzBtiTAScuGgTYoj9zCwgqja77yynRvbiS529Z-l=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 1
+  },
+  "hours": {
+    "mon": "8:00 AM - 7:00 PM",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "true-rest-float-spa-tempe",
+  "name": "True REST Float Spa - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa",
+  "secondaryCategories": [
+    "Health spa",
+    "Wellness center"
+  ],
+  "address": "1860 E Warner Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335794,
+  "lng": -111.907634,
+  "phone": "+14803890853",
+  "website": "https://truerest.com/locations/tempe/?utm_source=google&utm_medium=maps&utm_campaign=gmb&utm_content=tempe-az",
+  "googleMapsUrl": "https://www.google.com/maps/place/True+REST+Float+Spa+-+Tempe/data=!4m7!3m6!1s0x872b7591253c01f7:0x9fa58772aebbabb3!8m2!3d33.335794!4d-111.907634!16s%2Fg%2F1tkp5fry!19sChIJ9wE8JZF1K4cRs6u7rnKHpZ8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11503749749815356339",
+  "placeId": "ChIJ9wE8JZF1K4cRs6u7rnKHpZ8",
+  "googleRating": 4.4,
+  "googleReviewCount": 252,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvDBWsVkN8JTfxTwMeLe7hU_jQGEKmejKW8MSJbcJXZ37qBT6AC98Q_sXEIJ2nHiH-GVfrOFElQTqHxdV9f14RUeQlWN_KQFUVuGhEl_bSEkHgB4y3s249KHW-W5kW9bFx1fM_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 3,
+    "3": 7,
+    "4": 25,
+    "5": 191
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

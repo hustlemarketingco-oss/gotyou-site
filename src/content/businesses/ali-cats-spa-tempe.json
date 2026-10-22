@@ -1,0 +1,45 @@
+{
+  "slug": "ali-cats-spa-tempe",
+  "name": "Ali Cat's Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa",
+  "address": "1761 E Warner Rd Ste 5 SUITE 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3338107,
+  "lng": -111.9123834,
+  "phone": "+14808454208",
+  "website": "http://www.alicatspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ali+Cat%27s+Spa/data=!4m7!3m6!1s0x872b06e493e0f9cf:0x1339c49cfdb4ec6c!8m2!3d33.3338107!4d-111.9123834!16s%2Fg%2F11bx1y3t22!19sChIJz_ngk-QGK4cRbOy0_ZzEORM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1385354538943573100",
+  "placeId": "ChIJz_ngk-QGK4cRbOy0_ZzEORM",
+  "googleRating": 4.9,
+  "googleReviewCount": 87,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JqgATBFLzvCu85e69SFyPw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=84.75734&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 84
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -18,7 +18,7 @@
   "website": "https://presscoffee.com/pages/location-skywater",
   "placeId": "ChIJUVsCciwJK4cR2rwFk4Mht4Y",
   "googleRating": 4.5,
-  "googleReviewCount": 393,
+  "googleReviewCount": 401,
   "priceRange": "$",
   "hours": {
     "mon": "6:30 AM - 4:00 PM",
@@ -35,5 +35,22 @@
   "groundgameId": "6a29b92509f51f14a0fbf9a8",
   "seededAt": "2026-06-10T19:21:09Z",
   "updatedAt": "2026-08-04T20:16:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9707264370811452634",
+  "googleMapsUrl": "https://www.google.com/maps/place/Press+Coffee+-+Skywater/data=!4m7!3m6!1s0x872b092c72025b51:0x86b721839305bcda!8m2!3d33.4303207!4d-111.9485779!16s%2Fg%2F11bym_syh8!19sChIJUVsCciwJK4cR2rwFk4Mht4Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 13,
+    "3": 17,
+    "4": 74,
+    "5": 287
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffu3aXY7u4ImkJx-tXkWIycToVnBzpX5GGaaxmh9l-dTfq-_tlqe5KWWsE4JVCAXu7EVJlS61hyzO97Pw_aRIhXAaqSYZN5cwzDxVUg_lFYCOVmS0kpb3gvr1jii93H8zDD7c=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

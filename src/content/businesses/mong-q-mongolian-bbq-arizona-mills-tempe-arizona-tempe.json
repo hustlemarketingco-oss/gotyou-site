@@ -2,7 +2,7 @@
   "slug": "mong-q-mongolian-bbq-arizona-mills-tempe-arizona-tempe",
   "name": "Mong q Mongolian BBQ arizona mills tempe arizona",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Mongolian barbecue restaurant",
   "address": "5000 S Arizona Mills Cir",
   "city": "Tempe",
   "state": "AZ",
@@ -10,15 +10,14 @@
   "lat": 33.3820989,
   "lng": -111.964918,
   "phone": "+16028973269",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3904319615878794204",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mong+q+Mongolian+BBQ+arizona+mills+tempe+arizona/data=!4m7!3m6!1s0x872b0fbae171f43b:0x362eee01320b8bdc!8m2!3d33.3847156!4d-111.9650103!16s%2Fg%2F11nhhplwy7!19sChIJO_Rx4boPK4cR3IsLMgHuLjY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3904319615878794204",
   "placeId": "ChIJO_Rx4boPK4cR3IsLMgHuLjY",
   "description": "Located in Tempe, Mong q Mongolian BBQ arizona mills tempe arizona is a restaurant with takeout & delivery.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 9:00 PM",
@@ -35,5 +34,14 @@
   "groundgameId": "6a2439ffd756e24cd89c4775",
   "seededAt": "2026-06-06T15:17:19Z",
   "updatedAt": "2026-06-06T15:17:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleRating": 3.8,
+  "googleReviewCount": 12,
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "5": 8
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLferzpGD8Zy4sii_iH0gyy9V7Dn6RujmUmaUMNf8B-QGXpGDeyJvFvYmtvSdcGw_fAeg0MpUxDhyG_N3_KQuev7ZY0YgY3RzV1Sj5Z0RMUIh56lXIIKC2PrMkGVjtWhqHxTdeW5cV5K-Qp4=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

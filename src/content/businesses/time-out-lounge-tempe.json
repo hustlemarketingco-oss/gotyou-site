@@ -14,24 +14,17 @@
   "lat": 33.394863,
   "lng": -111.938533,
   "phone": "+14809686491",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13803101475699031507",
+  "googleMapsUrl": "https://www.google.com/maps/place/Time+Out+Lounge/data=!4m7!3m6!1s0x872b08ba9a06bc03:0xbf8e77a901b5fdd3!8m2!3d33.394863!4d-111.938533!16s%2Fg%2F1td2bt4b!19sChIJA7wGmroIK4cR0_21Aal3jr8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13803101475699031507",
   "placeId": "ChIJA7wGmroIK4cR0_21Aal3jr8",
   "googleRating": 4.5,
-  "googleReviewCount": 370,
+  "googleReviewCount": 381,
   "priceRange": "$10–20",
   "description": "Chill hangout in a strip mall with booth seating & live music, plus pool tables, darts & a jukebox.",
   "amenities": [
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "12:00 PM - 2:00 AM",
@@ -48,5 +41,14 @@
   "groundgameId": "6a2438b06408898582bcb146",
   "seededAt": "2026-06-06T15:11:44Z",
   "updatedAt": "2026-06-06T15:11:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 6,
+    "3": 34,
+    "4": 57,
+    "5": 270
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduEQRiSNce4JTzsPNet947JOZ4djxX9RREV9G3ogeHm_5v6D4WCAm58yy5TvE-PzlpVlhRA92NC4TPjjGt22XoqcPMw5QuFpTWBh-aDxQxZmtftbfXTk5h7vVL1mAKASxPtgMPaA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

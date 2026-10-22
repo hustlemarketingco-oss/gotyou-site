@@ -1,0 +1,52 @@
+{
+  "slug": "scramble-tempe",
+  "name": "Scramble",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Lunch restaurant"
+  ],
+  "address": "1120 E Baseline Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3785391,
+  "lng": -111.9238199,
+  "phone": "+14805344044",
+  "website": "https://www.azscramble.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Scramble/data=!4m7!3m6!1s0x872b0786c06a77b1:0x45a789050555ed81!8m2!3d33.3785391!4d-111.9238199!16s%2Fg%2F11j1f8gk0b!19sChIJsXdqwIYHK4cRge1VBQWJp0U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5019130964385066369",
+  "placeId": "ChIJsXdqwIYHK4cRge1VBQWJp0U",
+  "googleRating": 4.3,
+  "googleReviewCount": 1014,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckct7p6ZJrmWhtLLPVs1hMjy2wZBPo05VHI-i9L93itGid7PvfKygnh11ZJgPLbSdCZXJRZ5yNEBXsmcWbSoli16PyB9jaRA0bYWXyXFt8vqNkn5MoV48JrdmKM_utfmYML7Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 54,
+    "3": 68,
+    "4": 204,
+    "5": 630
+  },
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

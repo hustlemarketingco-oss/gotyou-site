@@ -1,0 +1,48 @@
+{
+  "slug": "french-toast-cafe-tempe",
+  "name": "French Toast Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "address": "1245 W Elliot Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348669,
+  "lng": -111.957813,
+  "phone": "+14802143055",
+  "website": "https://www.thefrenchtoastcafe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/French+Toast+Cafe/data=!4m7!3m6!1s0x872b079ebf4d0835:0x8a24647ea6ff0563!8m2!3d33.348669!4d-111.957813!16s%2Fg%2F11z4blhgzk!19sChIJNQhNv54HK4cRYwX_pn5kJIo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9954191571526026595",
+  "placeId": "ChIJNQhNv54HK4cRYwX_pn5kJIo",
+  "googleRating": 4.8,
+  "googleReviewCount": 201,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftS0LQ55EkjXv5eCQU4913JosTMxna2G2lP3iQZdX3NYP59LSssszQ3PuGZDSvqD3lAv7Vv3q60yP3_rVo5blcPtHdHT66Mx5TDpG0EkOmmLYL1uH_Rov96Dht2LbkUDYxR6YZwZFFWjQ=w1200-h800-k-no",
+  "amenities": [
+    "Assisted listening devices",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 3,
+    "4": 14,
+    "5": 177
+  },
+  "hours": {
+    "mon": "7:00 AM - 2:00 PM",
+    "tue": "7:00 AM - 2:00 PM",
+    "wed": "7:00 AM - 2:00 PM",
+    "thu": "7:00 AM - 2:00 PM",
+    "fri": "7:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "soulnluv-tempe",
+  "name": "SoulNLuv",
+  "category": "Restaurant",
+  "googleCategory": "Soul food restaurant",
+  "address": "455 S 48th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4249468,
+  "lng": -111.976795,
+  "phone": "+14804539181",
+  "googleMapsUrl": "https://www.google.com/maps/place/SoulNLuv/data=!4m7!3m6!1s0x872b0f97d1ff7a21:0x97f186bd794444d0!8m2!3d33.4249468!4d-111.976795!16s%2Fg%2F11lmcsyv4b!19sChIJIXr_0ZcPK4cR0EREeb2G8Zc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10948680317455844560",
+  "placeId": "ChIJIXr_0ZcPK4cR0EREeb2G8Zc",
+  "googleRating": 1,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHgU7mUfLRbiJxZRboM7dl0RWmTL0NQRw2QX0RCdxWHIJPvJumXDhCKBbv78K5PUEgNAJEX03RQmPAB99JEphvSHW617rDGeZVwS8HgPLuqbST4EdZfW5Jg6Yf12TLMMnLlyOo2g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

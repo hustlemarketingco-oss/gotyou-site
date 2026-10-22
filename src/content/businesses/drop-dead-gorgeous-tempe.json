@@ -11,21 +11,16 @@
   "lng": -111.9402763,
   "phone": "+14803971046",
   "website": "https://www.ddgbar.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16984019748047252344",
+  "googleMapsUrl": "https://www.google.com/maps/place/Drop+Dead+Gorgeous/data=!4m7!3m6!1s0x872b095b4ed8aa47:0xebb35bf9c4936b78!8m2!3d33.4225241!4d-111.9402763!16s%2Fg%2F11m6lx8qtb!19sChIJR6rYTlsJK4cReGuTxPlbs-s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16984019748047252344",
   "placeId": "ChIJR6rYTlsJK4cReGuTxPlbs-s",
-  "googleRating": 4.5,
-  "googleReviewCount": 97,
+  "googleRating": 4.6,
+  "googleReviewCount": 109,
   "priceRange": "$20–70",
   "description": "Located in Tempe, Drop Dead Gorgeous is a cozy, trendy cocktail bar with alcohol & beer, dine-in.",
   "amenities": [
-    "Dine-in",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Trendy",
-    "Paid parking garage",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.instagram.com/thisisdropdeadgorgeous"
@@ -36,5 +31,23 @@
   "groundgameId": "6a2438654480f9f4e3235849",
   "seededAt": "2026-06-06T15:10:29Z",
   "updatedAt": "2026-06-12T22:04:10Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 2,
+    "3": 2,
+    "4": 6,
+    "5": 91
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_wzFcEEtH4U127lfLn-hwdzQF9dPyuv-upb_btPWhDvHbK6H1HcRGUCpgcuH0MgLLyRNsvI1wDuLZlyYO2BZnfwZ8fzsj9sYKZH7HGZjMYgHOOYa87b7BZsgV2i43gbxD2WstMWUspd6L=w1200-h800-k-no",
+  "hours": {
+    "mon": "5:00 PM - 11:00 PM",
+    "tue": "5:00 PM - 11:00 PM",
+    "wed": "5:00 PM - 11:00 PM",
+    "thu": "5:00 PM - 11:00 PM",
+    "fri": "5:00 PM - 1:00 AM",
+    "sat": "5:00 PM - 1:00 AM",
+    "sun": "5:00 PM - 11:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

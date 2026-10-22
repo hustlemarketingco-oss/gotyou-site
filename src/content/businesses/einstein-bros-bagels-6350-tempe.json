@@ -21,7 +21,7 @@
   "website": "https://locations.einsteinbros.com/us/az/tempe/6350-s-mcclintock-dr?y_source=1_OTA1MDAzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
   "placeId": "ChIJ9wGFc0kGK4cRvZKdG61xuDk",
   "googleRating": 4.3,
-  "googleReviewCount": 868,
+  "googleReviewCount": 895,
   "priceRange": "$",
   "hours": {
     "mon": "5:00 AM - 2:00 PM",
@@ -38,5 +38,21 @@
   "groundgameId": "6a2994c63aa92e357a34588b",
   "seededAt": "2026-06-10T16:45:58Z",
   "updatedAt": "2026-06-12T22:06:05Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4159199244183245501",
+  "googleMapsUrl": "https://www.google.com/maps/place/Einstein+Bros.+Bagels/data=!4m7!3m6!1s0x872b0649738501f7:0x39b871ad1b9d92bd!8m2!3d33.3642984!4d-111.9117936!16s%2Fg%2F1tf3zv0c!19sChIJ9wGFc0kGK4cRvZKdG61xuDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 67,
+    "2": 33,
+    "3": 47,
+    "4": 186,
+    "5": 562
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYsV0FIPK7oayoN4o6kyQSwBhftWei03vB6qa5SpKeAgmKmoyGQuplKG6Bozz9mtNnHH3PoKq0M7dVvm1Ft3xQ_WzdskmZkt3R_8KPRpKhT03J1hXHos6vbHxAAvRReTAzkM0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

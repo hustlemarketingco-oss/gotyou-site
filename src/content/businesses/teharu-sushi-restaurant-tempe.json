@@ -1,0 +1,52 @@
+{
+  "slug": "teharu-sushi-restaurant-tempe",
+  "name": "Teharu Sushi Restaurant",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "9845 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3216277,
+  "lng": -111.9622352,
+  "phone": "+14807059825",
+  "website": "http://teharusushi.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Teharu+Sushi+Restaurant/data=!4m7!3m6!1s0x872b04249590a3cb:0x1b6bebff3ee18431!8m2!3d33.3216277!4d-111.9622352!16s%2Fg%2F1w4f8kp_!19sChIJy6OQlSQEK4cRMYThPv_raxs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1975932343036249137",
+  "placeId": "ChIJy6OQlSQEK4cRMYThPv_raxs",
+  "googleRating": 4.1,
+  "googleReviewCount": 3148,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFXopuEGAzGRPGpLgY9miXWnekRzdHdHe15Sn0_yE1oz94I5c87BGx-qzIedyc_SNSNO0NuPrvqCe0jsmnrLOpFVjmtMLtiB_20oz4V_mNLgP0p5bEC1hqilMgzmKX6ftnCVlfYA=w1200-h800-k-no",
+  "description": "Casual stop for rolls, sashimi & other Japanese bites delivered via conveyor belt at the sushi bar.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 247,
+    "2": 138,
+    "3": 309,
+    "4": 708,
+    "5": 1746
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

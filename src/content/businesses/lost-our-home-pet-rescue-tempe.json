@@ -1,0 +1,49 @@
+{
+  "slug": "lost-our-home-pet-rescue-tempe",
+  "name": "Lost Our Home Pet Rescue",
+  "category": "Local Business",
+  "googleCategory": "Pet adoption service",
+  "secondaryCategories": [
+    "Non-profit organization"
+  ],
+  "address": "2323 S Hardy Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4033357,
+  "lng": -111.95175839999999,
+  "phone": "+16024457387",
+  "website": "http://lostourhome.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lost+Our+Home+Pet+Rescue/data=!4m7!3m6!1s0x872b08cab1a4ac9b:0x39ce8aff37e1a44f!8m2!3d33.4033357!4d-111.9517584!16s%2Fg%2F11b6xl24sy!19sChIJm6ykscoIK4cRT6ThN_-Kzjk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4165419534123115599",
+  "placeId": "ChIJm6ykscoIK4cRT6ThN_-Kzjk",
+  "googleRating": 4.6,
+  "googleReviewCount": 922,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIUR4g1UGrPOWF2iMaQ0qjP-mL0YCsi4mVC_os4rCkzpMib1ijXWvqLGWxq_orRcCRaXAauXDwPWNv1-32nHotaPkSeU7F6_DygNzgKNF5wTtppso3CoSuMJjLmcItViod2yc0T0U7stFj=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 15,
+    "3": 18,
+    "4": 48,
+    "5": 787
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:30 PM",
+    "wed": "10:00 AM - 5:30 PM",
+    "thu": "10:00 AM - 5:30 PM",
+    "fri": "10:00 AM - 5:30 PM",
+    "sat": "10:00 AM - 5:30 PM",
+    "sun": "10:00 AM - 5:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

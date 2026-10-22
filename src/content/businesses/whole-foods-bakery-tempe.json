@@ -12,16 +12,9 @@
   "zip": "85281",
   "description": "Located in Tempe, Whole Foods Bakery is a bakery & gift shop with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/wholefoodsmarket"
@@ -32,5 +25,28 @@
   "groundgameId": "6a24392b7371dc1a76a0042d",
   "seededAt": "2026-06-06T15:13:47Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJy7iFQW8JK4cR1Pl96SFLFrA",
+  "googleCid": "12688411609186302420",
+  "googleMapsUrl": "https://www.google.com/maps/place/Whole+Foods+Bakery/data=!4m7!3m6!1s0x872b096f4185b8cb:0xb0164b21e97df9d4!8m2!3d33.4223669!4d-111.9432648!16s%2Fg%2F11ptxwzzf7!19sChIJy7iFQW8JK4cR1Pl96SFLFrA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 5,
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 4
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLet2JAzQLbnG9qAD1SXsoipRABotcPYniupm-vFeFg0TRnq7Dbh5D_YFWGJ_mxnYgOaenfvuNVYTg6yxGiZyVaa9ypMZhqAIfsnYK7THCaqf84hzcX9wQZHW5a5GuE_cp667FOt17f_bkE3=w1200-h800-k-no",
+  "website": "https://www.wholefoodsmarket.com/stores/tempe",
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "lat": 33.4223669,
+  "lng": -111.9432648,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

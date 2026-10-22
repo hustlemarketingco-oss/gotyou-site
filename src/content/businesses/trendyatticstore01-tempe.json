@@ -1,0 +1,37 @@
+{
+  "slug": "trendyatticstore01-tempe",
+  "name": "Trendyatticstore01",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1330 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4080522,
+  "lng": -111.9597596,
+  "phone": "+16027722685",
+  "website": "https://trendyatticstore01.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Trendyatticstore01/data=!4m7!3m6!1s0x872b0f301b00248d:0x49590a445f3a262d!8m2!3d33.4080522!4d-111.9597596!16s%2Fg%2F11z2hh1fw4!19sChIJjSQAGzAPK4cRLSY6X0QKWUk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5285266926467687981",
+  "placeId": "ChIJjSQAGzAPK4cRLSY6X0QKWUk",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUkQolHnfEE9qIqwwCXbwbGmpixFZcMg0JauF-e8TziCMb7dnUn0I0SItObMLrv1dyIMZRud0b196vS3FSAt-ohuX3_bqjrHVv8Bmd1Dk-h5kTnCVNviBzVwDDxIhlIAWq_ERXLYfqLZeA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

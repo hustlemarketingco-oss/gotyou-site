@@ -1,0 +1,53 @@
+{
+  "slug": "oasis-bakery-cuisine-tempe",
+  "name": "Oasis Bakery & Cuisine",
+  "category": "Restaurant",
+  "googleCategory": "Yemeni restaurant",
+  "secondaryCategories": [
+    "Bakery",
+    "Middle Eastern restaurant",
+    "Restaurant"
+  ],
+  "address": "1639 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414575299999996,
+  "lng": -111.9109091,
+  "phone": "+14806594751",
+  "website": "http://oasis-bakery-cuisine.poi.place/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Oasis+Bakery+%26+Cuisine/data=!4m7!3m6!1s0x872b08f3f3f2967b:0x8c1a998c3ae5750f!8m2!3d33.4145753!4d-111.9109091!16s%2Fg%2F11bv1q0bvq!19sChIJe5by8_MIK4cRD3XlOoyZGow?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10095550342266975503",
+  "placeId": "ChIJe5by8_MIK4cRD3XlOoyZGow",
+  "googleRating": 4,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMAze3udrv1p0diVarnybZpVsjS8EESkhjLe_FMY_NT39ot7vQyupPIjsHC3E3xj3TyCxn1F8pMyFVteRoRQRgZmTMJJ-45KvYYz4yA11Xc7JxsZ6Vo1OgWvz5rgDhDgilZ0pUdg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 5,
+    "3": 2,
+    "4": 11,
+    "5": 27
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

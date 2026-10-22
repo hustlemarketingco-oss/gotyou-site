@@ -14,12 +14,8 @@
   "phone": "+14808017505",
   "description": "Located in Tempe, Level Up Gaming is a video arcade & game store.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/LevelUpGamingTempe"
@@ -30,5 +26,31 @@
   "groundgameId": "6a2437aaef5c81475bfefc67",
   "seededAt": "2026-06-06T15:07:22Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ9Qj90vAJK4cRdTJ4dHQltgA",
+  "googleCid": "51269627861807733",
+  "googleMapsUrl": "https://www.google.com/maps/place/Level+Up+Gaming/data=!4m7!3m6!1s0x872b09f0d2fd08f5:0xb6257474783275!8m2!3d33.4208607!4d-111.9167633!16s%2Fg%2F11ghndpgbd!19sChIJ9Qj90vAJK4cRdTJ4dHQltgA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 366,
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 6,
+    "3": 3,
+    "4": 19,
+    "5": 328
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLen_bxIhuqrKtdh7W2AQ-u-JzZONY4sPp9e-eR8FLYLOg85Q3PcnNEQucDBQ_ZMLqAj7qjPSer69Qfm9zJJ0KVmhdZipZ04lQFI2zYA3ZMCP6Wc9wRPaf2Mpq2wjmwWLOqYNPY7=w1200-h800-k-no",
+  "website": "http://lvlgaming.com/",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 33.4208607,
+  "lng": -111.9167633,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -17,7 +17,7 @@
   "website": "https://rustytaco.com/locations/az/tempe/707-s-forest-ave",
   "placeId": "ChIJERXs7sEJK4cRCQXQx8JDw58",
   "googleRating": 4.6,
-  "googleReviewCount": 588,
+  "googleReviewCount": 624,
   "priceRange": "$",
   "hours": {
     "mon": "11:00 AM - 12:00 AM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a31ad2dbf464074f6538a9b",
   "seededAt": "2026-06-16T20:08:13Z",
   "updatedAt": "2026-08-04T18:43:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11512119576344134921",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rusty+Taco/data=!4m7!3m6!1s0x872b09c1eeec1511:0x9fc343c2c7d00509!8m2!3d33.4228885!4d-111.9363747!16s%2Fg%2F11t5z59zgp!19sChIJERXs7sEJK4cRCQXQx8JDw58?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 10,
+    "3": 24,
+    "4": 47,
+    "5": 508
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelsG7CPabP9K3MKgnzDfXBhaJ3O9wdyxu5P15Qy9RsWg8JyDme_2rSRFdNCU6I9ePCxYw1Wu5iX-GqTcEVAtAgyOxKHWe2vOJy50Z-YPjLsD6BBbxu9Q8_RvaKIHYKl-sz7CU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

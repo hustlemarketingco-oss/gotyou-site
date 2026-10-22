@@ -1,0 +1,48 @@
+{
+  "slug": "three-thirty-three-restaurant-tempe",
+  "name": "Three Thirty Three Restaurant",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian fusion restaurant",
+  "address": "430 N Scottsdale Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4343201,
+  "lng": -111.92670079999999,
+  "phone": "+14805907215",
+  "website": "https://threethirtythreerestaurants.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Three+Thirty+Three+Restaurant/data=!4m7!3m6!1s0x872b092959e0928b:0xeed51469125988b9!8m2!3d33.4343201!4d-111.9267008!16s%2Fg%2F11w87h7jvs!19sChIJi5LgWSkJK4cRuYhZEmkU1e4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17209683992578197689",
+  "placeId": "ChIJi5LgWSkJK4cRuYhZEmkU1e4",
+  "googleRating": 4,
+  "googleReviewCount": 620,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIPfPAg_1m1p4j7BZBzQ8ijT_RluMBDJ751WhxAdC0dxiD9e0V2JWT3d5fcOYneSc8k9ztBSCzlr3uWUDZ9ygTQLNTd9U9hY3z_G6_R-ZjQQnvg6LQNxxKNG418Dcd_mGKZEF8sGeY8mCO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 81,
+    "2": 53,
+    "3": 41,
+    "4": 46,
+    "5": 399
+  },
+  "hours": {
+    "mon": "5:00 PM - 9:00 PM",
+    "tue": "5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "5:00 PM - 9:00 PM",
+    "fri": "5:00 PM - 10:30 PM",
+    "sat": "5:00 PM - 10:30 PM",
+    "sun": "5:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

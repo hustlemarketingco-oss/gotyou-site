@@ -1,0 +1,40 @@
+{
+  "slug": "lucky-star-asian-restaurant-tempe",
+  "name": "Lucky Star Asian Restaurant",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian restaurant",
+  "secondaryCategories": [
+    "Chinese restaurant",
+    "Karaoke"
+  ],
+  "address": "1737 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406563399999996,
+  "lng": -111.9100175,
+  "phone": "+14802193893",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lucky+Star+Asian+Restaurant/data=!4m7!3m6!1s0x872b088b9ca414b9:0xd65b570901ebadbd!8m2!3d33.4065634!4d-111.9100175!16s%2Fg%2F11g7274_ym!19sChIJuRSknIsIK4cRva3rAQlXW9Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15446035043195792829",
+  "placeId": "ChIJuRSknIsIK4cRva3rAQlXW9Y",
+  "googleRating": 4.2,
+  "googleReviewCount": 184,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchgcev6cdtD44uzjJPugHWM07ABi-8xkzu2tdhtcmCzZFRUCUZuEpIv7FJw2t54ocBooYzkGPBitmr4UTPzxRnMOpm1j2Z3L9BE5IMmtErWTTzxN19-p7ixi_21awnfFyXQHzN=w1200-h800-k-no",
+  "description": "Bright, unfussy option featuring classic Chinese dishes, plus a room for Asian-style karaoke.",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 13,
+    "3": 13,
+    "4": 30,
+    "5": 116
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

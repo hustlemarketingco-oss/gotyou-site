@@ -1,0 +1,45 @@
+{
+  "slug": "lakehouse-cafe-tempe",
+  "name": "Lakehouse Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Bubble tea store"
+  ],
+  "address": "5350 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.376162,
+  "lng": -111.91986469999999,
+  "phone": "+14803664066",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lakehouse+Cafe/data=!4m7!3m6!1s0x872b07002e7b6d67:0xd77e618e1c38c544!8m2!3d33.376162!4d-111.9198647!16s%2Fg%2F11x6dy04pq!19sChIJZ217LgAHK4cRRMU4HI5hftc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15527955828206781764",
+  "placeId": "ChIJZ217LgAHK4cRRMU4HI5hftc",
+  "googleRating": 4.3,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUjzH0iFbcBH3ioYGeP54jNa9I3cxhoaDnfg9Xel5vGu6-d_RIYsfKAr5U81TE-VnTe40fAx-mZiybJBhMNHh3FtE1t_XZFkKSvULM0l5uiWoPbOMFz8zuPvwKE-w_qQDofQrL9sPZUz1a=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 5
+  },
+  "hours": {
+    "mon": "7:00 AM - 11:00 AM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "7:00 AM - 11:00 AM",
+    "fri": "7:00 AM - 11:00 AM",
+    "sat": "7:00 AM - 11:00 AM",
+    "sun": "7:00 AM - 11:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "great-clips-9920-tempe",
+  "name": "Great Clips",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "9920 S Rural Rd Ste 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3211296,
+  "lng": -111.9305512,
+  "phone": "+14807534242",
+  "website": "https://salons.greatclips.com/us/az/tempe/9920-s-rural-rd?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Great+Clips/data=!4m7!3m6!1s0x872b06eab3764645:0xe3da564e3ea09404!8m2!3d33.3211296!4d-111.9305512!16s%2Fg%2F1tdblg8c!19sChIJRUZ2s-oGK4cRBJSgPk5W2uM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16418530285590713348",
+  "placeId": "ChIJRUZ2s-oGK4cRBJSgPk5W2uM",
+  "googleRating": 4.3,
+  "googleReviewCount": 227,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyMmk6ZmmX3ljb31oWf3HoWHIefF7LG0gPwRtq7yDPl8IEmNPqmJkDNy_xE-1buy9yVw3tocAUtoOskoA4ZuruXrKZpnsi-X7yIqdNQ7Fuuwf2Azqg__-9hH2skuFWs5Oagl7OZ13_g7w=w1200-h800-k-no",
+  "description": "Casual salon offering haircuts for adults & kids along with professional styling products for sale.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 5,
+    "3": 16,
+    "4": 45,
+    "5": 147
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

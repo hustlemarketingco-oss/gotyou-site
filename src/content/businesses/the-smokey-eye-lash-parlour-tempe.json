@@ -1,0 +1,44 @@
+{
+  "slug": "the-smokey-eye-lash-parlour-tempe",
+  "name": "The Smokey Eye & Lash Parlour",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1969 E Broadway Rd #3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4072129,
+  "lng": -111.9012832,
+  "phone": "+14806866548",
+  "website": "http://smokeyeyeandlash.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Smokey+Eye+%26+Lash+Parlour/data=!4m7!3m6!1s0x872b0861712cbda7:0xaeb737576877793b!8m2!3d33.4072129!4d-111.9012832!16s%2Fg%2F1jglz3lxd!19sChIJp70scWEIK4cRO3l3aFc3t64?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12589592131891853627",
+  "placeId": "ChIJp70scWEIK4cRO3l3aFc3t64",
+  "googleRating": 4.5,
+  "googleReviewCount": 25,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcbA-gN1sKg7IyYEwZ-E3IIYwOL8p__wd3OCHX14BERVjIjYSaCKNHqTXtS18EPV1LvMSZW6ge1PBhJfPRRtDdBKFIMdb3BHg9kh_xWYJ7XSaidL2-9pfjHgrJ9bsfUbtd-qQkDQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 22
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

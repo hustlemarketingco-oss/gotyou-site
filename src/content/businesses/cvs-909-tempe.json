@@ -1,0 +1,57 @@
+{
+  "slug": "cvs-909-tempe",
+  "name": "CVS",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Beer store",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Liquor store",
+    "Perfume store",
+    "Stationery store"
+  ],
+  "address": "909 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414223,
+  "lng": -111.92599229999999,
+  "phone": "+14809670799",
+  "website": "https://www.cvs.com/store-locator/tempe-az-pharmacies/909-east-apache-blvd-tempe-az-85281/storeid=10928?WT.mc_id=LS_GOOGLE_FS_10928",
+  "googleMapsUrl": "https://www.google.com/maps/place/CVS/data=!4m7!3m6!1s0x872b093f00563cd3:0xb3a23699ee6b1db4!8m2!3d33.414223!4d-111.9259923!16s%2Fg%2F11dfpj3wym!19sChIJ0zxWAD8JK4cRtB1r7pk2orM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12943968313774120372",
+  "placeId": "ChIJ0zxWAD8JK4cRtB1r7pk2orM",
+  "googleRating": 3.3,
+  "googleReviewCount": 164,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRAhFyjokclHD67My2TOWHsK813SCQeGKWxB416MmOCyKgmnDyr7_a_i72KQrxiwQzy4GnxZ-J0zV3X26ojdNWz8KU4iV7ooz3oSpiUpo8PpuJzwHZ0LKX39RimlFmaUAOw3HFCQ=w1200-h800-k-no",
+  "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 61,
+    "2": 2,
+    "3": 5,
+    "4": 14,
+    "5": 82
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

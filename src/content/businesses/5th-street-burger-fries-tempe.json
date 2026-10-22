@@ -11,17 +11,17 @@
   "lng": -111.9554076,
   "phone": "+14809121621",
   "website": "http://www.5thstreetburger.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4939456416143800700",
+  "googleMapsUrl": "https://www.google.com/maps/place/5th+Street+Burger+%26+Fries/data=!4m7!3m6!1s0x872b098c1f4ed6d1:0x448c7970abc6797c!8m2!3d33.442273!4d-111.9554076!16s%2Fg%2F11mw7mqy1t!19sChIJ0dZOH4wJK4cRfHnGq3B5jEQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4939456416143800700",
   "placeId": "ChIJ0dZOH4wJK4cRfHnGq3B5jEQ",
   "googleRating": 4.6,
-  "googleReviewCount": 1304,
+  "googleReviewCount": 1361,
   "description": "Located in Tempe, 5th Street Burger & Fries is a hamburger restaurant.",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:00 AM - 11:00 PM",
@@ -38,5 +38,14 @@
   "groundgameId": "6a24376cb25a8c69187c49a4",
   "seededAt": "2026-06-06T15:06:20Z",
   "updatedAt": "2026-07-30T17:58:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 26,
+    "3": 58,
+    "4": 127,
+    "5": 1100
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcT0AulLlxZd5-vcUklM5b4qdZk_pnUIHdn2qsuJny7y-jXAoLur1q66t3X6_N0b5k-RGPDvS7AYhVM4WHUIhcewAMeVzT04oeNGDv1XZVYY2wLasKGtZ-QNVH2k7m831DKPOuk=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "the-blonded-ginger-tempe",
+  "name": "The blonded ginger",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1310 E Broadway Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078641,
+  "lng": -111.9173457,
+  "phone": "+12626723144",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+blonded+ginger/data=!4m7!3m6!1s0x872b096382cb12c3:0x6e13bb8cae743ad9!8m2!3d33.4078641!4d-111.9173457!16s%2Fg%2F11w_j9y554!19sChIJwxLLgmMJK4cR2Tp0roy7E24?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7931889581626243801",
+  "placeId": "ChIJwxLLgmMJK4cR2Tp0roy7E24",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesA-v-4-c0gNtm3kLM85DJZRJeyxfafrPS3uz3XJtZmxYea3jBGEB8-c54y3f0G4C2PwvYiIeGvSAWU36tKuBvDxMsEWHChnJ2rMkb3b-_Id-Z3a_P4xvYsohjP5ALMTk4IUNS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "11:30 AM - 6:30 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:30 AM - 5:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -16,7 +16,7 @@
   "website": "http://www.wannahurts.com/",
   "placeId": "ChIJzbIc1VoIK4cRiZ12skqG_MA",
   "googleRating": 4.5,
-  "googleReviewCount": 2687,
+  "googleReviewCount": 2751,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 12:00 AM",
@@ -33,5 +33,24 @@
   "groundgameId": "6a3acaeae394f86fe59af4e9",
   "seededAt": "2026-06-23T18:05:30Z",
   "updatedAt": "2026-06-29T18:52:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13906137404793068937",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hurts+Donut+Company/data=!4m7!3m6!1s0x872b085ad51cb2cd:0xc0fc864ab2769d89!8m2!3d33.4216102!4d-111.8927076!16s%2Fg%2F11c2y3xcsb!19sChIJzbIc1VoIK4cRiZ12skqG_MA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 106,
+    "2": 81,
+    "3": 131,
+    "4": 345,
+    "5": 2088
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmVAkLeuYnOT8BP6DfYW0N3jHazV3b8vk3AFg7XfoBJceZ8kHGsnpJW0T-SQqgV6bzRfglNTpzlbRZrE4_PaIxCRTuTSeMJlo0IiTdMMeLzFYUbdKpTQVH1pp5gD_vn-15dfM6=w1200-h800-k-no",
+  "amenities": [
+    "Assisted listening devices",
+    "Assistive hearing loop",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

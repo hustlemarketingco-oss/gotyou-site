@@ -1,0 +1,48 @@
+{
+  "slug": "umami-burger-tempe",
+  "name": "Umami Burger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Restaurant"
+  ],
+  "address": "225 E Apache Blvd A",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414439,
+  "lng": -111.9361584,
+  "phone": "+14808468708",
+  "website": "https://www.umamiburger.com/?utm_source=google-gmb&utm_medium=organic&utm_campaign=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Umami+Burger/data=!4m7!3m6!1s0x872b098aa7b17e89:0x77b3b5a7eb3c37c7!8m2!3d33.414439!4d-111.9361584!16s%2Fg%2F11vr4bnnp3!19sChIJiX6xp4oJK4cRxzc866e1s3c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8625437444155389895",
+  "placeId": "ChIJiX6xp4oJK4cRxzc866e1s3c",
+  "googleRating": 2,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JYWXZdhkjo5bSmdnT4n_vg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=87.97171&pitch=0&thumbfov=100",
+  "description": "Lively chain outpost serving elevated burgers & sides plus creative cocktails in a sleek space.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 1
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

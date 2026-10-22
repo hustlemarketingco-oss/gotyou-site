@@ -1,0 +1,43 @@
+{
+  "slug": "golden-boys-barber-llc-tempe",
+  "name": "Golden Boys Barber LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "6601 S Rural Rd Suite 24",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+14806704907",
+  "website": "https://barberdazz.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Golden+Boys+Barber+LLC/data=!4m7!3m6!1s0x872b07b9fb9d5bcd:0x2db490bd7da0811f!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11zxdtx7xp!19sChIJzVud-7kHK4cRH4Ggfb2QtC0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3293416371045564703",
+  "placeId": "ChIJzVud-7kHK4cRH4Ggfb2QtC0",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9kn3rFijRJaQ9co_QPHeonmwaVrKAM4GHpItpiWaf6xINjoCXK4ckVVCZ-549dmwYWHwP68qUBWaleFLNRsA17vsYNkYg81vDuDDl0xC7SOC6T9WfYoOgOEVGRJkoDDQ2l_suHCu07EwE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:30 PM",
+    "tue": "9:00 AM - 5:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 5:30 PM",
+    "fri": "8:30 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

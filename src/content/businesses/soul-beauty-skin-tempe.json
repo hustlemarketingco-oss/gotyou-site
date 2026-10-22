@@ -1,0 +1,47 @@
+{
+  "slug": "soul-beauty-skin-tempe",
+  "name": "Soul & Beauty Skin",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa",
+  "secondaryCategories": [
+    "Make-up artist",
+    "Skin care clinic"
+  ],
+  "address": "2039 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4060913,
+  "lng": -111.9394638,
+  "phone": "+14804526463",
+  "website": "http://soulandbeautyskin.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Soul+%26+Beauty+Skin/data=!4m7!3m6!1s0x872b082c22e1bbc3:0xfb23fce5bdb8fffe!8m2!3d33.4060913!4d-111.9394638!16s%2Fg%2F11hbny_l0p!19sChIJw7vhIiwIK4cR_v-4veX8I_s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18096585791365513214",
+  "placeId": "ChIJw7vhIiwIK4cR_v-4veX8I_s",
+  "googleRating": 5,
+  "googleReviewCount": 78,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsd1UpNZHbVSZXO_gm1s2tVMdSdoHfRByZ1qQtU5ag81yAxB3ZaG3Gd6_OqemA9sgw_MbBPd0_nnS5a858qaMLE4ldlMc9qqj5T8U-JS9E2gk60gtA16a2Ho4-CxLXbnKIiWAK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 78
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "8:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

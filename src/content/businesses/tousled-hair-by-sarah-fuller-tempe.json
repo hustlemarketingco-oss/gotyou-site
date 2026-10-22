@@ -1,0 +1,45 @@
+{
+  "slug": "tousled-hair-by-sarah-fuller-tempe",
+  "name": "Tousled Hair by Sarah Fuller",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon"
+  ],
+  "address": "1006 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335490199999995,
+  "lng": -111.9272373,
+  "phone": "+14804590361",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tousled+Hair+by+Sarah+Fuller/data=!4m7!3m6!1s0x872baa1a924b5a11:0xb7c3dad8d86e5b65!8m2!3d33.3354902!4d-111.9272373!16s%2Fg%2F1xb2f0yq!19sChIJEVpLkhqqK4cRZVtu2Njaw7c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13241667954278292325",
+  "placeId": "ChIJEVpLkhqqK4cRZVtu2Njaw7c",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wtdW3-Zx87LNfNyt32kj2A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=55.947437&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 4:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

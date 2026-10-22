@@ -1,0 +1,25 @@
+{
+  "slug": "ajith-massage-tempe",
+  "name": "Ajith Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2527 S Maple Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.401015,
+  "lng": -111.94026799999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Ajith+Massage/data=!4m7!3m6!1s0x872b090039ca45d3:0xabbf6b88d57689e7!8m2!3d33.401015!4d-111.940268!16s%2Fg%2F11x6vkyj9b!19sChIJ00XKOQAJK4cR54l21Yhrv6s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12375728536478452199",
+  "placeId": "ChIJ00XKOQAJK4cR54l21Yhrv6s",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UWTMQ89jBsM3EC-SqzavTw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=92.60353&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

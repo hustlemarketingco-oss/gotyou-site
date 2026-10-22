@@ -1,0 +1,48 @@
+{
+  "slug": "subway-711-tempe",
+  "name": "Subway",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "711 E Lemon St Hassayampa Res. Bldg-C-Store",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4160563,
+  "lng": -111.92842189999999,
+  "phone": "+14809659568",
+  "website": "https://restaurants.subway.com/united-states/az/tempe/711-e-lemon-st?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=48679&utm_campaign=evergreen-2020&y_source=1_MTQ5MDE4NDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Subway/data=!4m7!3m6!1s0x872b08e9a864fb39:0x96c66bc1073da8cc!8m2!3d33.4160563!4d-111.9284219!16s%2Fg%2F11b5wf45kq!19sChIJOftkqOkIK4cRzKg9B8FrxpY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10864489627872241868",
+  "placeId": "ChIJOftkqOkIK4cRzKg9B8FrxpY",
+  "googleRating": 3.7,
+  "googleReviewCount": 82,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczhecrw13Jveb_ac5X-xrsSDf7QHNgvTyhanSF8czreEjI_HWTzWjPwhHTpWsnorRCLyYs8mcAWTZ9DEGeYtoHCY8RQ-QvH-ofX6rmdS313sEaCbOmfWw7c_KUs6UlgENXreo1=w1200-h800-k-no",
+  "description": "Casual counter-serve chain for build-your-own sandwiches & salads, with health-conscious options.",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 2,
+    "3": 2,
+    "4": 16,
+    "5": 41
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "raspados-paradise-mexican-food-tempe",
+  "name": "Raspados Paradise Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3813491,
+  "lng": -111.9651356,
+  "phone": "+14808261136",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raspados+Paradise+Mexican+Food/data=!4m7!3m6!1s0x872b0f59e1444903:0x504dbffa3a395d71!8m2!3d33.3813491!4d-111.9651356!16s%2Fg%2F1tk6_zls!19sChIJA0lE4VkPK4cRcV05Ovq_TVA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5786492177680522609",
+  "placeId": "ChIJA0lE4VkPK4cRcV05Ovq_TVA",
+  "googleRating": 3.7,
+  "googleReviewCount": 288,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc64NJL3dPsu4o8c1MulfsdFg68QMRMy0q82qQ4QW2jh4nrq4S48gV1o66MBpwIDak9SmTpfPqRLelQkZm4AB2YIcAR1zFVgqz-J8kMKuj4HfyZtRLAqV7Z_JxIOv-EnKg_cIJctA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 16,
+    "3": 31,
+    "4": 46,
+    "5": 143
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

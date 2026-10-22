@@ -1,0 +1,48 @@
+{
+  "slug": "agp-turbochargers-inc-tempe",
+  "name": "AGP Turbochargers Inc",
+  "category": "Shopping",
+  "googleCategory": "Racing car parts store",
+  "secondaryCategories": [
+    "Metal fabricator",
+    "Motorsports store"
+  ],
+  "address": "1930 E 3rd St #12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.428047,
+  "lng": -111.903611,
+  "phone": "+14804011515",
+  "website": "http://www.agpturbo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AGP+Turbochargers+Inc/data=!4m7!3m6!1s0x872b08560ad02cc1:0x9ddae4a7de046380!8m2!3d33.428047!4d-111.903611!16s%2Fg%2F1tgq737f!19sChIJwSzQClYIK4cRgGME3qfk2p0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11374655218513109888",
+  "placeId": "ChIJwSzQClYIK4cRgGME3qfk2p0",
+  "googleRating": 4.6,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLee7GRU8rSC_V4sM0serp98EQYpXNBL_g0zdZulYc3qDoaNluaGj0B2I1_5Id0QgmiMIxlib3W0hjH69Y-pkRZZcjJrniecvcENZ9682HLeFFG2o6FRv5vwHo7OBeElf6ccIE_Rjg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 1,
+    "5": 44
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

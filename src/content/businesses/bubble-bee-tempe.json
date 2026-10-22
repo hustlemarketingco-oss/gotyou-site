@@ -17,26 +17,16 @@
   "lng": -111.9648917,
   "phone": "+14807886177",
   "website": "http://www.mybubblebee.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13754151394443796325",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bubble+Bee/data=!4m7!3m6!1s0x872b0f59e42b18cd:0xbee08fd214c41f65!8m2!3d33.3830283!4d-111.9648917!16s%2Fg%2F11c58m9n30!19sChIJzRgr5FkPK4cRZR_EFNKP4L4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13754151394443796325",
   "placeId": "ChIJzRgr5FkPK4cRZR_EFNKP4L4",
   "googleRating": 4.2,
-  "googleReviewCount": 278,
+  "googleReviewCount": 283,
   "priceRange": "$",
   "description": "Snug, modern cafe offering blended, boba pearl tea drinks with fruity & creamy flavors.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 9:00 PM",
@@ -53,5 +43,14 @@
   "groundgameId": "6a2436093ca7d857beafa37f",
   "seededAt": "2026-06-06T15:00:25Z",
   "updatedAt": "2026-06-06T15:05:05Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 13,
+    "3": 17,
+    "4": 33,
+    "5": 188
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmZfEgY-Jre-Wp9fUmhDa29aGkQbSpgGtGeCAT1MStTHfjweAwi2eQc3cZJH57HRq6yTZ5vBt3XmI0IqiF2-hsQnJx4XV8UB4pkblk5669A1V7cvACRcfIwukEu82ULdkbB_F48RILj4RF=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

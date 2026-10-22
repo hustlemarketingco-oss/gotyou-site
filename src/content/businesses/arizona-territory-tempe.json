@@ -1,0 +1,46 @@
+{
+  "slug": "arizona-territory-tempe",
+  "name": "Arizona Territory",
+  "category": "Shopping",
+  "googleCategory": "Souvenir store",
+  "address": "5000 S Arizona Mills Cir #480",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3816655,
+  "lng": -111.96489469999999,
+  "phone": "+14807773770",
+  "website": "https://www.simon.com/mall/arizona-mills/stores/arizona-territory",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Territory/data=!4m7!3m6!1s0x872b0f59e1444903:0x239e5fa327bb94b3!8m2!3d33.3816655!4d-111.9648947!16s%2Fg%2F1tngqrnd!19sChIJA0lE4VkPK4cRs5S7J6NfniM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2566593991998674099",
+  "placeId": "ChIJA0lE4VkPK4cRs5S7J6NfniM",
+  "googleRating": 4.2,
+  "googleReviewCount": 198,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBijOL5XqrzIbjCawpYBU67X-EV-_8BTf3Plw6HRKAkk4N-s2NkcAhaCsvBkeITi1LYCnuGfeuJlAeZi--rfnaDnzE6_SgCHBrVQLXZzvkjdCLMRwXpMYNNPfeAFK5h98zURBJTK_H2G4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 4,
+    "3": 17,
+    "4": 45,
+    "5": 114
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -15,18 +15,18 @@
   "lng": -111.9084326,
   "phone": "+14807553833",
   "website": "http://www.johnnysbgr.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1666631226249896614",
+  "googleMapsUrl": "https://www.google.com/maps/place/Johnny%27s+Burgers+%26+Dogs/data=!4m7!3m6!1s0x872b0886cd9234ab:0x172110452432e2a6!8m2!3d33.3948225!4d-111.9084326!16s%2Fg%2F11b7m96gs3!19sChIJqzSSzYYIK4cRpuIyJEUQIRc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1666631226249896614",
   "placeId": "ChIJqzSSzYYIK4cRpuIyJEUQIRc",
-  "googleRating": 4.6,
-  "googleReviewCount": 914,
+  "googleRating": 4.7,
+  "googleReviewCount": 939,
   "priceRange": "$",
   "description": "Specializing in American burgers, hot dogs, & sandwiches in a no-frills setting with green walls.",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -43,5 +43,14 @@
   "groundgameId": "6a2437899b6ce3ce25ca1c48",
   "seededAt": "2026-06-06T15:06:49Z",
   "updatedAt": "2026-07-27T19:41:38Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 24,
+    "3": 39,
+    "4": 124,
+    "5": 739
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD3NEBZHVFZNx5_jEFYvKVusU346UxGAuz7z9z_dNm4Jz5Rmc2Xmkiq_NbCniRW38L98QHjBFEL0EwcyZCeBm_DhsewjewcXqFN2ymfHnPkFumNdR0gJOh-fS_dMUWHkN2WbNpWQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

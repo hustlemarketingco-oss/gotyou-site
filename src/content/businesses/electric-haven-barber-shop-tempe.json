@@ -1,0 +1,47 @@
+{
+  "slug": "electric-haven-barber-shop-tempe",
+  "name": "Electric Haven Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "3322 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391985399999996,
+  "lng": -111.91097599999999,
+  "phone": "+14804568690",
+  "website": "https://www.ehbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Electric+Haven+Barber+Shop/data=!4m7!3m6!1s0x872b08819c4d8bb7:0xdd2e590e7e26f759!8m2!3d33.3919854!4d-111.910976!16s%2Fg%2F1ptxtdghn!19sChIJt4tNnIEIK4cRWfcmfg5ZLt0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15937774050091661145",
+  "placeId": "ChIJt4tNnIEIK4cRWfcmfg5ZLt0",
+  "googleRating": 4.7,
+  "googleReviewCount": 323,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwz4vGAm7eKsqsjY5OTuVCaHLikXjzPAdN-CEfSoinC4nd9472eHW5zDsOSX3hOvwj5rlY1X7wkaWJmI7XNOX01nNlsZO60rW7tmOudClu2YJwzdpn3qfplxYqjRi7iqAcPEe39A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 6,
+    "3": 6,
+    "4": 19,
+    "5": 279
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "afino-barber-studio-tempe",
+  "name": "Afino Barber Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "The Enclave Salon, 1800 East Rio Salado Pkwy, #170, Suite 128",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4302219,
+  "lng": -111.90786089999999,
+  "website": "https://afino-barber-studio.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Afino+Barber+Studio/data=!4m7!3m6!1s0x872b09127dbe6a35:0xd24fd333eaa7f3d5!8m2!3d33.4302219!4d-111.9078609!16s%2Fg%2F11nqz1p5n6!19sChIJNWq-fRIJK4cR1fOn6jPTT9I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15154563491058676693",
+  "placeId": "ChIJNWq-fRIJK4cR1fOn6jPTT9I",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGu2i4zhPSo5LdrZsqnwQVLNSb5ZLelNHdRZsoDPJsO9dcggkZSth3U7w2l6moRnApR9HQKnIR45RulTTvcokarJgacnkxexVbfW7RannjjxlUI6pvFwQYUTDn7XQZZG-cEOSGFA_R7Sj2=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "12:00 AM - 6:00 AM, 9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

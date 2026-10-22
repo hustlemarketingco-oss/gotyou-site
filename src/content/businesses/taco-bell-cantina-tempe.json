@@ -22,8 +22,8 @@
   "phone": "+16026758380",
   "website": "https://locations.tacobell.com/az/tempe/423-s-mill-ave.html&y_source=1_MTUwNTg4OTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJG3WFf94JK4cRIrC6g0TBQqk",
-  "googleRating": 3.9,
-  "googleReviewCount": 272,
+  "googleRating": 3.8,
+  "googleReviewCount": 282,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 2:00 AM",
@@ -40,5 +40,21 @@
   "groundgameId": "6a46b08d5993763b72e53a2e",
   "seededAt": "2026-07-02T18:40:13Z",
   "updatedAt": "2026-07-02T18:40:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12196523240884711458",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell+Cantina/data=!4m7!3m6!1s0x872b09de7f85751b:0xa942c14483bab022!8m2!3d33.42597!4d-111.939741!16s%2Fg%2F11j1h_p64t!19sChIJG3WFf94JK4cRIrC6g0TBQqk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 13,
+    "3": 13,
+    "4": 32,
+    "5": 166
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrMaN7QT92aCUQqlCMBlSDR3NqyGHZ6AyKW1zyUauK0O-qx54KErGBPVa-N-cGBZNmGLPpgrX6lbdR64NDqVuH80TmLDh3LsisSLZXI1W8UQr8-qyD7Xka2qVddt0RIlNUdFExVA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

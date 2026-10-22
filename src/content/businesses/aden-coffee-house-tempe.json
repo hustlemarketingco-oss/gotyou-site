@@ -11,29 +11,18 @@
   "lng": -111.9241735,
   "phone": "+14809738874",
   "website": "https://adencoffee.house/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15538238200402189304",
+  "googleMapsUrl": "https://www.google.com/maps/place/ADEN+Coffee+House/data=!4m7!3m6!1s0x872b09ddf10fcf73:0xd7a2e95172609bf8!8m2!3d33.4145734!4d-111.9241735!16s%2Fg%2F11n3kmg223!19sChIJc88P8d0JK4cR-JtgclHpotc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15538238200402189304",
   "placeId": "ChIJc88P8d0JK4cR-JtgclHpotc",
-  "googleRating": 4.8,
-  "googleReviewCount": 97,
+  "googleRating": 4.9,
+  "googleReviewCount": 134,
   "priceRange": "$1–10",
   "description": "Located in Tempe, ADEN Coffee House is a coffee shop with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Paid street parking",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "9:00 AM - 12:00 AM",
@@ -50,5 +39,14 @@
   "groundgameId": "6a2438f1ecaeb8a6bd6af52b",
   "seededAt": "2026-06-06T15:12:49Z",
   "updatedAt": "2026-07-16T19:02:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 127
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkmvgltDLgMhcAugyiLfupTGC0cKPXpWu_qhjy9mwpnR3Y902r2LPk2PtalBNNJzDz8J6ySXgBkfBgNZv-HKna1_GEjeIZhvttn3I3VIGblkktl2eAoAEknywncBDUOOql2Evfg0gbWU4=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

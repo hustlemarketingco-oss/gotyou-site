@@ -1,0 +1,33 @@
+{
+  "slug": "phoenix-sins-tempe",
+  "name": "Phoenix Sins",
+  "category": "Restaurant",
+  "googleCategory": "Traditional American restaurant",
+  "address": "1900 E 5th St Ste 32",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+16026725699",
+  "website": "http://www.phxsins.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phoenix+Sins/data=!4m7!3m6!1s0x872b09c1b8d586b3:0xa9f0be1ea3955ea0!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11y2271kxw!19sChIJs4bVuMEJK4cRoF6Vox6-8Kk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12245496425623150240",
+  "placeId": "ChIJs4bVuMEJK4cRoF6Vox6-8Kk",
+  "googleRating": 4.5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOvg7jjANJlVFgd4Y5ajScM0jaFkKHLhO5GUBxkJkuDAemPDb5eVagOvBcjaMbZhVaNBaEmXcF3ZqGZ1mIPlLxpfMvqSF20Io6rGtOyehlb8d7IcS14jp4YWc73lEGJO2pLliTvA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 7
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

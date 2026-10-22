@@ -1,0 +1,50 @@
+{
+  "slug": "tempe-square-shopping-center-tempe",
+  "name": "Tempe Square Shopping Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "secondaryCategories": [
+    "Car rental agency",
+    "Rental car return location"
+  ],
+  "address": "937Q+54",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3629375,
+  "lng": -111.9121875,
+  "website": "https://google.com/url?q=https://business.google.com/website_shared/launch_bw.html?f=https://amzn.to/43KHsLf",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Square+Shopping+Center/data=!4m7!3m6!1s0x872b064939edb5b9:0x2d273fc99f0e5f6c!8m2!3d33.3629375!4d-111.9121875!16s%2Fg%2F1tjyv1w7!19sChIJubXtOUkGK4cRbF8On8k_Jy0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3253639390987968364",
+  "placeId": "ChIJubXtOUkGK4cRbF8On8k_Jy0",
+  "googleRating": 4.5,
+  "googleReviewCount": 1448,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVj2nYQzs75h8-G3XAIRXEuNaWVaKOkrLU5gvXXRs-OcXCvkR-7oXpjYoFjvpNpP4DiIpQ_cpbudPC-z9O_SXovCPJN0WTa-HNEVQWMureETs4MAvWRnvEZ3v2blP1PllENnevtEPq9x3Z=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 13,
+    "3": 120,
+    "4": 384,
+    "5": 912
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

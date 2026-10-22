@@ -1,0 +1,51 @@
+{
+  "slug": "jets-pizza-tempe",
+  "name": "Jet's Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza delivery",
+  "secondaryCategories": [
+    "Pizza restaurant",
+    "Pizza Takeout"
+  ],
+  "address": "1835 E Guadalupe Rd Unit d-111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3620342,
+  "lng": -111.9095945,
+  "phone": "+16028882535",
+  "website": "https://www.jetspizza.com/stores/arizona/tempe/1835-e-guadalupe-rd-unit-d111/?utm-source=GMB&utm_medium=Yext&utm_campaign=AZ-004&utm_content=Website",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jet%27s+Pizza/data=!4m7!3m6!1s0x872b07ac703103a1:0x42bed0e4c2aef772!8m2!3d33.3620342!4d-111.9095945!16s%2Fg%2F11k3msnfj6!19sChIJoQMxcKwHK4cRcveuwuTQvkI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4809511133015635826",
+  "placeId": "ChIJoQMxcKwHK4cRcveuwuTQvkI",
+  "googleRating": 4.5,
+  "googleReviewCount": 220,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdv_1rEwAEeL_zOkeA3oWx58unGMvLEF0myjKsF-3nhEFueaLuHPbPGGQ5GsASS16_YFv38qvYwUl6CgwPzEyY-160jYS1n5nh_mR-IeywC0fqQJan3hzuVszAjqckkEJxp-kQd5YYYNSA=w1200-h800-k-no",
+  "description": "Counter-serve chain offering Detroit-style pizza with flavored crusts, plus wings & subs.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 10,
+    "3": 10,
+    "4": 19,
+    "5": 169
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

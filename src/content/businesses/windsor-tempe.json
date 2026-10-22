@@ -17,8 +17,8 @@
   "phone": "+18884954957",
   "website": "https://www.windsorstore.com/pages/ar-rogers-pinnacle-hills-promenade",
   "placeId": "ChIJA0lE4VkPK4cRnPnsch0O85A",
-  "googleRating": 3.7,
-  "googleReviewCount": 106,
+  "googleRating": 3.8,
+  "googleReviewCount": 105,
   "hours": {
     "mon": "10:00 AM - 8:00 PM",
     "tue": "10:00 AM - 8:00 PM",
@@ -34,5 +34,20 @@
   "groundgameId": "6a274a33472828e6a3d4c71e",
   "seededAt": "2026-06-08T23:03:15Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10444707480447285660",
+  "googleMapsUrl": "https://www.google.com/maps/place/Windsor/data=!4m7!3m6!1s0x872b0f59e1444903:0x90f30e1d72ecf99c!8m2!3d33.3824856!4d-111.9644057!16s%2Fg%2F1tc_ll_w!19sChIJA0lE4VkPK4cRnPnsch0O85A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 2,
+    "3": 11,
+    "4": 19,
+    "5": 52
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbCQvXpp_KxqXgQcNUzsx2DC3N_TyQLmX5qEQOkhq16umyMn_xAKcJRLbp8o9SWE2nFtMJCUY6fDHE2hnuYdWErke7DeAUiWvXmITKmSD82fcLYaH-FrO6FcMgjpyc7ki5Xpc29Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

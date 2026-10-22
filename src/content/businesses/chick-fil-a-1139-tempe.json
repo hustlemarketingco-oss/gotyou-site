@@ -19,8 +19,8 @@
   "phone": "+14802957073",
   "website": "https://www.chick-fil-a.com/locations/az/broadway-at-priest",
   "placeId": "ChIJnx-bLgAPK4cRQY_zfqT--3M",
-  "googleRating": 3.9,
-  "googleReviewCount": 265,
+  "googleRating": 4,
+  "googleReviewCount": 322,
   "hours": {
     "mon": "6:00 AM - 10:00 PM",
     "tue": "6:00 AM - 10:00 PM",
@@ -36,5 +36,21 @@
   "groundgameId": "6a2c1b19227686bb4f5c93fa",
   "seededAt": "2026-06-12T14:43:37Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8357553515974070081",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chick-fil-A/data=!4m7!3m6!1s0x872b0f002e9b1f9f:0x73fbfea47ef38f41!8m2!3d33.4070896!4d-111.9572132!16s%2Fg%2F11wnchd4jm!19sChIJnx-bLgAPK4cRQY_zfqT--3M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 57,
+    "2": 12,
+    "3": 15,
+    "4": 32,
+    "5": 206
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSx9m1bzG-7NoraCwzJTXVI10jdpnWcIAJredDec11BbPFhQT52eNEImRX0RvWJfX_DrZEyee_qCFdRdPNGoJvmenKgGagLW9GX9Q73YaYLDaY44x8GuHCzQJWx_vaboL26J_7YFxcqVsO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

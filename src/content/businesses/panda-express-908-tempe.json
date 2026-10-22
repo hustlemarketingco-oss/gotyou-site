@@ -16,24 +16,24 @@
   "source": "groundgame",
   "placeId": "ChIJ7S131OoIK4cRJK7A79nxt4E",
   "googleCid": "9347205469963333156",
-  "googleMapsUrl": "https://maps.google.com/?cid=9347205469963333156",
+  "googleMapsUrl": "https://www.google.com/maps/place/Panda+Express/data=!4m7!3m6!1s0x872b08ead4772ded:0x81b7f1d9efc0ae24!8m2!3d33.407917!4d-111.9257701!16s%2Fg%2F1ptxv8js7!19sChIJ7S131OoIK4cRJK7A79nxt4E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 3.8,
-  "googleReviewCount": 1806,
+  "googleReviewCount": 1809,
   "ratingBreakdown": {
-    "1": 283,
+    "1": 284,
     "2": 88,
     "3": 194,
     "4": 424,
-    "5": 817
+    "5": 819
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbb-TDa_jCZBYRZop77axiPhnNFO7Dit70iZ52LfRIoeduK2EogvNHxYED7L8QKtzAk11V_mny7sQ0y1qB1TMI8xvPPiqevdO4rmfP3g-OqzAUtGwrXu3UEmo0vnCqrbR5S9w=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzyN_b1RgsZYyZGyAT2zJDBqV3nQXuloP8o5Jd6aOPoN2fKclMahxYyWmVGqMb4ZR0NxO3Tw8azOFRzRNboDk4uFHC_TLM_W_1cIXUoaQH9FNQbhXUjkYshH28Ek4fW1XOvTU=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "9 AM - 12:30 AM",
     "tue": "9 AM - 12:30 AM",
@@ -45,5 +45,16 @@
   },
   "website": "https://www.pandaexpress.com/locations/az/tempe/2230?utm_source=google_gbp&utm_medium=organic&utm_campaign=websitelink",
   "lat": 33.407917,
-  "lng": -111.9257701
+  "lng": -111.9257701,
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Caterer",
+    "Chinese noodle restaurant",
+    "Chinese takeaway",
+    "Delivery Chinese restaurant",
+    "Fast food restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ]
 }

@@ -16,20 +16,15 @@
   "lng": -111.9374633,
   "phone": "+16025494679",
   "website": "https://rexiustempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1578293891914911624",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rexius+Nutrition+Tempe/data=!4m7!3m6!1s0x872b099f3bcb0175:0x15e739eebac1cf88!8m2!3d33.3918256!4d-111.9374633!16s%2Fg%2F11tngj_z5c!19sChIJdQHLO58JK4cRiM_Buu455xU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1578293891914911624",
   "placeId": "ChIJdQHLO58JK4cRiM_Buu455xU",
   "googleRating": 5,
-  "googleReviewCount": 121,
+  "googleReviewCount": 134,
   "description": "Located in Tempe, Rexius Nutrition Tempe is a vitamin & supplements store & health and beauty shop.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 7:00 PM",
@@ -46,5 +41,10 @@
   "groundgameId": "6a2438d7d130fddc67c60a80",
   "seededAt": "2026-06-06T15:12:23Z",
   "updatedAt": "2026-06-06T15:12:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "5": 134
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfczFanHMYYZt4-cyxKkHD0sj_wJmOA3fmVL0Fg7KyHReIV-3Tbx93cy1IB0ZWBn9IIb2pL9YYffM-O3-Ph0CWV7pCgXcJ1_PvYvLYPRG_sDVCsXapPkGcsTU14urC8joNquD24rimmuYQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -17,7 +17,7 @@
   "website": "https://www.br.coffee/locations/broadway-i10",
   "placeId": "ChIJc9BLmBMPK4cRCjeATjAXwnI",
   "googleRating": 4.3,
-  "googleReviewCount": 527,
+  "googleReviewCount": 546,
   "priceRange": "$",
   "hours": {
     "mon": "5:00 AM - 9:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a51725716ab4f930e30d7d9",
   "seededAt": "2026-07-10T22:29:43Z",
   "updatedAt": "2026-07-10T22:29:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8269197362048546570",
+  "googleMapsUrl": "https://www.google.com/maps/place/Black+Rock+Coffee+Bar/data=!4m7!3m6!1s0x872b0f13984bd073:0x72c217304e80370a!8m2!3d33.4077161!4d-111.9571692!16s%2Fg%2F11mv5pqym9!19sChIJc9BLmBMPK4cRCjeATjAXwnI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 23,
+    "3": 34,
+    "4": 61,
+    "5": 382
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOzoJyq85uRafQNo2Bfj2XCOyQwxR4tyW10QBd_nlifd8PN2uaimxh4svsgSlipwF6a2oCpcQ4zHvfibCPWlJP3bQUAdsGz0sc2wj8f6BtonurQWud2zXQ1bkty4EhQ41h8Dhdxg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

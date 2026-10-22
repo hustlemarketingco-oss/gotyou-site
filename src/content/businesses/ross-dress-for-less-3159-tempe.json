@@ -1,0 +1,54 @@
+{
+  "slug": "ross-dress-for-less-3159-tempe",
+  "name": "Ross Dress for Less",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Department store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "3159 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3946525,
+  "lng": -111.9074419,
+  "phone": "+14808313844",
+  "website": "https://www.rossstores.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ross+Dress+for+Less/data=!4m7!3m6!1s0x872b0886b5e93597:0xe78c6ab7bceb324b!8m2!3d33.3946525!4d-111.9074419!16s%2Fg%2F1tltmvb5!19sChIJlzXptYYIK4cRSzLrvLdqjOc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16684828056881934923",
+  "placeId": "ChIJlzXptYYIK4cRSzLrvLdqjOc",
+  "googleRating": 4.2,
+  "googleReviewCount": 1124,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5nCDtUwtzHjvSNtj2tMbsOSQSuPuxGI6Sz8a8a2YB17fCnJ6fppyMT7r8unz98gvB_s_ilZ106FrtF39PrKcFlTOJ1JByZ_OpE_yRSa6wHetO-tO1oj9GsWsBTawWOqXgr598=w1200-h800-k-no",
+  "description": "Retail chain selling brand-name clothing, shoes, accessories & housewares at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 47,
+    "3": 134,
+    "4": 305,
+    "5": 584
+  },
+  "hours": {
+    "mon": "9:30 AM - 9:00 PM",
+    "tue": "9:30 AM - 9:00 PM",
+    "wed": "9:30 AM - 9:00 PM",
+    "thu": "9:30 AM - 9:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:30 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

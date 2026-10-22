@@ -19,29 +19,10 @@
   "priceRange": "$10–20",
   "description": "Cafe chain for health-minded breakfast, brunch & lunch options such as omelets, salads & soups.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "Coffee",
-    "Healthy options",
-    "Organic dishes",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/FirstWatch"
@@ -52,5 +33,31 @@
   "groundgameId": "6a24390827a278fb10c7e11e",
   "seededAt": "2026-06-06T15:13:12Z",
   "updatedAt": "2026-06-12T22:07:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJt9j6QNcIK4cRnL6I8obJ8Fs",
+  "googleCid": "6625016633293848220",
+  "googleMapsUrl": "https://www.google.com/maps/place/First+Watch/data=!4m7!3m6!1s0x872b08d740fad8b7:0x5bf0c986f288be9c!8m2!3d33.4215!4d-111.94168!16s%2Fg%2F11c563454t!19sChIJt9j6QNcIK4cRnL6I8obJ8Fs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 2105,
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 44,
+    "3": 106,
+    "4": 362,
+    "5": 1540
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh2G_ismhJMxdMkkFsNw7KlejkIaBKuksS0Zlc02z1qRSQPVP1OkaaOQ1czFr-gpn28JavTL-1MGLwon7XTnOTOM2Gytz_xW2blGt6kjHGcqHtwwYXVS5uyid-_ScTaRuAfpiomeIBs0Q=w1200-h800-k-no",
+  "website": "https://www.firstwatch.com/locations/asu/?utm_source=gbp-listing&utm_medium=organic&utm_campaign=gbp-listing&utm_content=asu",
+  "hours": {
+    "mon": "7:00 AM - 2:30 PM",
+    "tue": "7:00 AM - 2:30 PM",
+    "wed": "7:00 AM - 2:30 PM",
+    "thu": "7:00 AM - 2:30 PM",
+    "fri": "7:00 AM - 2:30 PM",
+    "sat": "7:00 AM - 2:30 PM",
+    "sun": "7:00 AM - 2:30 PM"
+  },
+  "lat": 33.4215,
+  "lng": -111.94167999999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,45 @@
+{
+  "slug": "honey-glow-beauty-tempe",
+  "name": "Honey & Glow Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2039 S Mill Ave Ste 2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061939,
+  "lng": -111.93942899999999,
+  "phone": "+14807206367",
+  "website": "https://honeyandglowbeauty.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Honey+%26+Glow+Beauty/data=!4m7!3m6!1s0x872b0588689158a5:0x3963fd02ad95dbc!8m2!3d33.4061939!4d-111.939429!16s%2Fg%2F11syd58ns3!19sChIJpViRaIgFK4cRvF3ZKtA_lgM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "258464191925018044",
+  "placeId": "ChIJpViRaIgFK4cRvF3ZKtA_lgM",
+  "googleRating": 4.1,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLevvnakLBCSWVDLV7hfm6zTFFO_FYkAc9-NLHB8b0EvGlbXMNnNw0387bG8HON7zlvbCZ0wo5QEFuNqHG9Lv2GxVTIzW5C69cNiuSpHJUEsDbEAKKed0PkOBbzUMVQxlriyZRkvuw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 5
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "12:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 4:00 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

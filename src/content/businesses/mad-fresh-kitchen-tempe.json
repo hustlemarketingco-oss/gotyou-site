@@ -16,11 +16,11 @@
   "lng": -111.9768512,
   "phone": "+14803827755",
   "website": "http://eatmadfresh.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16812665332263554147",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mad+Fresh+Kitchen/data=!4m7!3m6!1s0x872b37f85b74f7d5:0xe952960ad9180c63!8m2!3d33.4246967!4d-111.9769324!16s%2Fg%2F11m7pmp_jg!19sChIJ1fd0W_g3K4cRYwwY2QqWUuk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16812665332263554147",
   "placeId": "ChIJ1fd0W_g3K4cRYwwY2QqWUuk",
   "googleRating": 4.6,
-  "googleReviewCount": 105,
+  "googleReviewCount": 132,
   "description": "Located in Tempe, Mad Fresh Kitchen is a lunch restaurant & breakfast restaurant.",
   "hours": {
     "fri": "8:00 AM - 6:00 PM",
@@ -37,5 +37,18 @@
   "groundgameId": "6a243773c4e14c02b775a55b",
   "seededAt": "2026-06-06T15:06:27Z",
   "updatedAt": "2026-06-06T15:06:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 4,
+    "3": 2,
+    "4": 4,
+    "5": 114
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnDJO-D31SylMd2u8IlyLgT3mvppQ_Om6ot6_sU15ZY1NS8D8dAVNXx4dzJNn7b0N-uiW0sSodJWh4Vcd9yN6bUtNpZPzZ3ejke9nl6h2Uv_raLCsP8XRiiIAU-REssw91b5MCbnHMvhQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

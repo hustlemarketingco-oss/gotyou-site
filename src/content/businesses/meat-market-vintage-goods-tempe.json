@@ -1,0 +1,33 @@
+{
+  "slug": "meat-market-vintage-goods-tempe",
+  "name": "Meat Market Vintage Goods",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "928 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4197919,
+  "lng": -111.940263,
+  "phone": "+14807039522",
+  "website": "https://instagram.com/meatmarketusa",
+  "googleMapsUrl": "https://www.google.com/maps/place/Meat+Market+Vintage+Goods/data=!4m7!3m6!1s0x872b09b274d65a03:0xd04546680abc49e0!8m2!3d33.4197919!4d-111.940263!16s%2Fg%2F11zx0dq1jk!19sChIJA1rWdLIJK4cR4Em8CmhGRdA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15007478745952700896",
+  "placeId": "ChIJA1rWdLIJK4cR4Em8CmhGRdA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Eh5IYrzIentNrWa-Q3qejg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=282.74228&pitch=0&thumbfov=100",
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

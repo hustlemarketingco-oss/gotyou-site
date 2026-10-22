@@ -1,0 +1,52 @@
+{
+  "slug": "living-canvas-tattoos-inc-tempe",
+  "name": "Living Canvas Tattoos Inc",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "secondaryCategories": [
+    "Body piercing shop",
+    "Ear piercing service",
+    "Tattoo and piercing shop",
+    "Tattoo artist"
+  ],
+  "address": "930 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4196619,
+  "lng": -111.94019879999999,
+  "phone": "+14808296966",
+  "website": "http://livingcanvastattoos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Living+Canvas+Tattoos+Inc/data=!4m7!3m6!1s0x872b08d0a0a95c61:0xd180407d373cc677!8m2!3d33.4196619!4d-111.9401988!16s%2Fg%2F1th82dls!19sChIJYVypoNAIK4cRd8Y8N31AgNE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15096136857487722103",
+  "placeId": "ChIJYVypoNAIK4cRd8Y8N31AgNE",
+  "googleRating": 4.8,
+  "googleReviewCount": 799,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEdKY7gD_bfFQip5CNH9AhpJroQ1JWNC-OKunwpjYqg5G6s4sDtRBdIBLEfPrnfqdw7-qLyzhEhfO0YHQ9Mb0eGPdps4tLVgJ-KxjKHd_kx3uIJlvKBidUB52pF6Y7BCODyRHk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 3,
+    "3": 5,
+    "4": 22,
+    "5": 745
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

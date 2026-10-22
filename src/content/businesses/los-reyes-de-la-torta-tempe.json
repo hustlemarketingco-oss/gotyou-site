@@ -18,7 +18,7 @@
   "website": "https://losreyesaz.com/locations/tempe",
   "placeId": "ChIJG7LHvvoIK4cRQexXKlH6uGs",
   "googleRating": 4.4,
-  "googleReviewCount": 2028,
+  "googleReviewCount": 2042,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 8:00 PM",
@@ -35,5 +35,22 @@
   "groundgameId": "6a5541a0265084808dc9873d",
   "seededAt": "2026-07-13T19:50:56Z",
   "updatedAt": "2026-07-13T19:54:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7762229184282750017",
+  "googleMapsUrl": "https://www.google.com/maps/place/Los+Reyes+De+La+Torta/data=!4m7!3m6!1s0x872b08fabec7b21b:0x6bb8fa512a57ec41!8m2!3d33.3932991!4d-111.9136367!16s%2Fg%2F12hkplrsr!19sChIJG7LHvvoIK4cRQexXKlH6uGs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 97,
+    "2": 53,
+    "3": 143,
+    "4": 323,
+    "5": 1426
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4O65sdioItJQvLDWciM1kX0_QegtgM9zXyBYOLeprEZqCzi1zmvpqzZVinVvYXq6FSqa-jvN0gptHiueCsyzxSYVJNQ2fRfWxnQYvHJu6u-_umsYW1jv7XFlbfi5POb5NiF7b=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

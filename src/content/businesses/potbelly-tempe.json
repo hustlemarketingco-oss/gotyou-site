@@ -1,0 +1,58 @@
+{
+  "slug": "potbelly-tempe",
+  "name": "Potbelly",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Beverage distributor",
+    "Catering food and drink supplier",
+    "Caterer",
+    "Deli",
+    "Fast food restaurant",
+    "Lunch restaurant",
+    "Restaurant supply store"
+  ],
+  "address": "1717 S Rural Rd Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4095875,
+  "lng": -111.9260283,
+  "phone": "+14802534494",
+  "website": "https://www.potbelly.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "googleMapsUrl": "https://www.google.com/maps/place/Potbelly/data=!4m7!3m6!1s0x872b08eafeb598bd:0xaeab88733c7b860f!8m2!3d33.4095875!4d-111.9260283!16s%2Fg%2F12qh7m84w!19sChIJvZi1_uoIK4cRD4Z7PHOIq64?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12586303612134327823",
+  "placeId": "ChIJvZi1_uoIK4cRD4Z7PHOIq64",
+  "googleRating": 4.4,
+  "googleReviewCount": 568,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2P-NJWj1PE9dUkir5t-yvZvRNqv5tS59hl06fyGGvvpdz5ztUIHZ77UZJU38up3TRoS6zKX-nyh_GC69L5amB74bDqpklppG9BU6CIZw0HeWHkoPs7kVEQkAPFefvJHEI77xdqw=w1200-h800-k-no",
+  "description": "Retro-style counter-serve chain known for made-to-order toasted sandwiches, salads & baked goods.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 16,
+    "3": 39,
+    "4": 120,
+    "5": 373
+  },
+  "hours": {
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 11:00 PM",
+    "fri": "9:00 AM - 11:00 PM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "barnes-noble-tempe",
+  "name": "Barnes & Noble",
+  "category": "Shopping",
+  "googleCategory": "Book store",
+  "secondaryCategories": [
+    "Cafe",
+    "Children's book store",
+    "Hobby store",
+    "Toy store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1032",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4324012,
+  "lng": -111.9052791,
+  "phone": "+14808946954",
+  "website": "https://stores.barnesandnoble.com/store/2243",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barnes+%26+Noble/data=!4m7!3m6!1s0x872b085440d34d3d:0x841eb83b00939932!8m2!3d33.4324012!4d-111.9052791!16s%2Fg%2F1tdgq8vt!19sChIJPU3TQFQIK4cRMpmTADu4HoQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9520249225860061490",
+  "placeId": "ChIJPU3TQFQIK4cRMpmTADu4HoQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 3159,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfihJe9PIoh7117HoLxSMKk7NVWYycCbJ4peHp87qCh2CZRx3Fcp6lFOZwXkx2KFIzXdvB_RrSjMrBrptJbFk377i62zGrrCnXREVh7DtLqIBQdHFelKM5K71g0rCxuntZ4buPB9f8CwsfE=w1200-h800-k-no",
+  "description": "Bookseller chain stocking housebrand eReader, plus a broad selection of titles for adults & kids.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 61,
+    "2": 37,
+    "3": 143,
+    "4": 618,
+    "5": 2300
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

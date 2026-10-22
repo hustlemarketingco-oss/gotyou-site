@@ -1,0 +1,37 @@
+{
+  "slug": "pure-x-beauty-tempe",
+  "name": "Pure X Beauty",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "9855 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3216897,
+  "lng": -111.96148219999999,
+  "website": "https://pure-x-beauty.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pure+X+Beauty/data=!4m7!3m6!1s0x8ddc8080fb0ac0b:0xc89689182eae84a!8m2!3d33.3216897!4d-111.9614822!16s%2Fg%2F11x_3jr768!19sChIJC6ywDwjI3QgRSujqgpFoiQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "903368174440474698",
+  "placeId": "ChIJC6ywDwjI3QgRSujqgpFoiQw",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U0CQw7QQKfcphs3BX0K7Nw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=161.0972&pitch=0&thumbfov=100",
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:00 AM - 4:00 PM",
+    "tue": "10:00 AM - 4:00 PM",
+    "wed": "10:00 AM - 4:00 PM",
+    "thu": "10:00 AM - 4:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

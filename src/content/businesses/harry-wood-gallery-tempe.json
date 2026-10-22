@@ -1,0 +1,48 @@
+{
+  "slug": "harry-wood-gallery-tempe",
+  "name": "Harry Wood Gallery",
+  "category": "Local Business",
+  "googleCategory": "Art gallery",
+  "secondaryCategories": [
+    "Art school"
+  ],
+  "address": "Arizona State University, Art Building, 900 S Forest Mall",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4205195,
+  "lng": -111.9371644,
+  "phone": "+14809658521",
+  "website": "https://art.asu.edu/galleries-and-facilities/harry-wood-gallery",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harry+Wood+Gallery/data=!4m7!3m6!1s0x872b08dbcd75de47:0xda3855c0b84291e6!8m2!3d33.4205195!4d-111.9371644!16s%2Fg%2F11f3x6_3mq!19sChIJR951zdsIK4cR5pFCuMBVONo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15724412385177539046",
+  "placeId": "ChIJR951zdsIK4cR5pFCuMBVONo",
+  "googleRating": 4.6,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMiSpIPi09GgQZjpqsuKKNggYprvLKflAnhzdaZIy9yH5cLoR5zVsXt9ERj_HZeMVu9iTfAs19fh0XduR0In_nAAUn6t_PiskHJHZZlTARd1boNd8xk9qZ9z7o5DstQ3Bh0yS_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

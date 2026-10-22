@@ -1,0 +1,48 @@
+{
+  "slug": "game-outpost-tempe",
+  "name": "Game Outpost - Tempe",
+  "category": "Shopping",
+  "googleCategory": "Trading card store",
+  "secondaryCategories": [
+    "Game store",
+    "Hobby store"
+  ],
+  "address": "5100 S McClintock Dr #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3788609,
+  "lng": -111.9109714,
+  "phone": "+14802191317",
+  "website": "https://gameoutpost.com/?utm_source=gbp-tempe&utm_medium=organic&utm_campaign=gbp-profile",
+  "googleMapsUrl": "https://www.google.com/maps/place/Game+Outpost+-+Tempe/data=!4m7!3m6!1s0x872b07dfb1c3017d:0xe2e447c53c5ec07c!8m2!3d33.3788609!4d-111.9109714!16s%2Fg%2F11xspp2y1x!19sChIJfQHDsd8HK4cRfMBePMVH5OI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16349271459708715132",
+  "placeId": "ChIJfQHDsd8HK4cRfMBePMVH5OI",
+  "googleRating": 4.9,
+  "googleReviewCount": 396,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNiONA9vJA8CccZx9UXhq-5j4ulj56_XLAOQQTu2Cpt35Tces2u-7eS5BKSZvRmN5bM7YTkJYjObrFV7DGQk7pj37WjPEpwql2VH0trE7hrLnkElEZgQInlIkcCK6SEtmtOFn64oucLYZk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "4": 3,
+    "5": 386
+  },
+  "hours": {
+    "mon": "12:00 PM - 10:00 PM",
+    "tue": "12:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

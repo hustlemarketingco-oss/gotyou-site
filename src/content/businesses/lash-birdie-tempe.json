@@ -1,0 +1,35 @@
+{
+  "slug": "lash-birdie-tempe",
+  "name": "Lash Birdie",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "address": "7720 S Priest Dr Ste 44",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3477765,
+  "lng": -111.96519749999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Lash+Birdie/data=!4m7!3m6!1s0x872b051e5208036f:0xf2879247b5581aa8!8m2!3d33.3477765!4d-111.9651975!16s%2Fg%2F11td51_hm0!19sChIJbwMIUh4FK4cRqBpYtUeSh_I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17476097715717282472",
+  "placeId": "ChIJbwMIUh4FK4cRqBpYtUeSh_I",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=if23qFNPujw21R1rWz639g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=262.76022&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 7:30 PM",
+    "tue": "9:00 AM - 7:30 PM",
+    "wed": "9:00 AM - 7:30 PM",
+    "thu": "9:00 AM - 7:30 PM",
+    "fri": "9:00 AM - 7:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

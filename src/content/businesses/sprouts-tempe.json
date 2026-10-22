@@ -20,18 +20,9 @@
   "phone": "+14805677040",
   "description": "Specialty chain offering a range of natural & organic grocery items, including own-brand goods.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Paid parking lot",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/SproutsFarmersMarket"
@@ -42,5 +33,31 @@
   "groundgameId": "6a24398a2b9993b3a2771e9d",
   "seededAt": "2026-06-06T15:15:22Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJDeE2DF4GK4cR63EGehRkqx4",
+  "googleCid": "2209970081264726507",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sprouts/data=!4m7!3m6!1s0x872b065e0c36e10d:0x1eab64147a0671eb!8m2!3d33.3478681!4d-111.9273783!16s%2Fg%2F11hczbz_k9!19sChIJDeE2DF4GK4cR63EGehRkqx4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 924,
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 17,
+    "3": 28,
+    "4": 137,
+    "5": 702
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeK8jl7b46fifcN4hQUhez9MI091TIDm5rLmKHURrHBStoKvrvMN8hiHqUepAi810l0AdhJ7PIJPwQT3UNuDgfimuMWcmAOp3NrPm2wA0FSm5JYlW6pKYsatSTvcVaSYOwPtXikZ-AY13K8=w1200-h800-k-no",
+  "website": "https://www.sprouts.com/store/az/tempe/tempe-elliot-rd/",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "lat": 33.3478681,
+  "lng": -111.9273783,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

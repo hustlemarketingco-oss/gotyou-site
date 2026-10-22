@@ -1,0 +1,41 @@
+{
+  "slug": "profiles-by-chris-russell-tempe",
+  "name": "Profiles by Chris Russell",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "7707 S Kyrene Rd #111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3476121,
+  "lng": -111.94514149999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Profiles+by+Chris+Russell/data=!4m7!3m6!1s0x872b06e4605b6c55:0x59827624a722f288!8m2!3d33.3476121!4d-111.9451415!16s%2Fg%2F1tdb4rfr!19sChIJVWxbYOQGK4cRiPIipyR2glk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6449847516142957192",
+  "placeId": "ChIJVWxbYOQGK4cRiPIipyR2glk",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9LqWraRA8zvhAAmUN74b2HfFf46jNWmfsu9r7zDPXT_MGHXWOsK8gZi4NgDsEsM5XzT3oxi8sH_HcHxNs9cNOhkFl6AgW_5OW0GpjaLOOQgstGGwTnqdmRHlt5dMkVFlrlWGW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

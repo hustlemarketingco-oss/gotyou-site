@@ -1,0 +1,44 @@
+{
+  "slug": "wonderfully-made-skin-tempe",
+  "name": "Wonderfully Made Skin",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "secondaryCategories": [
+    "Skin care clinic"
+  ],
+  "address": "Southern & McClintock",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3953437,
+  "lng": -111.9051222,
+  "phone": "+16027677546",
+  "website": "http://www.wonderfullymadeskin.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wonderfully+Made+Skin/data=!4m7!3m6!1s0x872b09f93a4338b1:0x358a5e37bc7cc784!8m2!3d33.3953437!4d-111.9051222!16s%2Fg%2F11t1k87ns8!19sChIJsThDOvkJK4cRhMd8vDdeijU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3857999624274757508",
+  "placeId": "ChIJsThDOvkJK4cRhMd8vDdeijU",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWhbXxFOUwy855_FyUJfP3ReIHSU7nU_J4ho6KDDryCEn0Ck54McU7zGeWbrGYb-_l3xPc5vX-9zgwoG2X2cSEn9uXSADYjTBM1SvlimUL8n-F_Xtr4gRoRiCaUqLGI3W25d_c=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

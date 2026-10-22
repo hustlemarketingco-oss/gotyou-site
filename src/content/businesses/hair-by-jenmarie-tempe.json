@@ -1,0 +1,41 @@
+{
+  "slug": "hair-by-jenmarie-tempe",
+  "name": "Hair By JenMarie",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1445 E Guadalupe Rd Unit 204",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.363459999999996,
+  "lng": -111.915568,
+  "phone": "+14802684855",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair+By+JenMarie/data=!4m7!3m6!1s0x872babfb96fd1e65:0xd186815d90d71b7!8m2!3d33.36346!4d-111.915568!16s%2Fg%2F11fnyp7jz6!19sChIJZR79lvurK4cRt3EN2RVoGA0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "943618564979257783",
+  "placeId": "ChIJZR79lvurK4cRt3EN2RVoGA0",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqh6J0jzeMZcuSbWA7Cd1Dx5UmiT-YiL026pzwdWy5U8b0L8E984-3-syGb1H2t6isjEmCwNJ_0edjX574IFV0_7OVpaU8WQaqlhEBNhGqRBVsOMKeXgWKrz3nPFXv_pqwvD56=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

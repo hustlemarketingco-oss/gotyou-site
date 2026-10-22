@@ -1,0 +1,44 @@
+{
+  "slug": "nrg-ballroom-tempe",
+  "name": "NRG Ballroom",
+  "category": "Health & Beauty",
+  "googleCategory": "Dance school",
+  "address": "931 E Elliot Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3479741,
+  "lng": -111.9268891,
+  "phone": "+14807778877",
+  "website": "http://www.nrgballroom.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/NRG+Ballroom/data=!4m7!3m6!1s0x872b065e0cc8209d:0x9a2f16a7570ba1fe!8m2!3d33.3479741!4d-111.9268891!16s%2Fg%2F1tctm7n9!19sChIJnSDIDF4GK4cR_qELV6cWL5o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11110123713722032638",
+  "placeId": "ChIJnSDIDF4GK4cR_qELV6cWL5o",
+  "googleRating": 4.9,
+  "googleReviewCount": 149,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf48oNPLn53j1UfgLqj0MyI-lpfDyO0y5y6UEAKnBfhFwMW4Nyw5NNySxsS6htg6I_e-0qPeODLK2rSHYa5-PfhUVq_mNmtPqozt5m2c5uEuD3wVfTC9v3MCaOvxZkFEQDqQb8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 10,
+    "5": 137
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 10:30 PM",
+    "fri": "10:00 AM - 10:30 PM",
+    "sat": "10:00 AM - 10:30 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

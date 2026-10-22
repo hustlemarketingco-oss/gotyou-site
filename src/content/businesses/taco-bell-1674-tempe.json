@@ -1,0 +1,56 @@
+{
+  "slug": "taco-bell-1674-tempe",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Burrito restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "address": "1674 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393214,
+  "lng": -111.91098149999999,
+  "phone": "+14808383468",
+  "website": "https://locations.tacobell.com/az/tempe/1674-e--southern-ave-.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=037570&utm_content=website&y_source=1_NjE0NTkwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x872b0883ecc46ae7:0x9bfbfd7fa5b43b97!8m2!3d33.393214!4d-111.9109815!16s%2Fg%2F1tdd5qr9!19sChIJ52rE7IMIK4cRlzu0pX_9-5s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11239856019715931031",
+  "placeId": "ChIJ52rE7IMIK4cRlzu0pX_9-5s",
+  "googleRating": 3.7,
+  "googleReviewCount": 1120,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH9wW_9l97-iCiXrtkpigJnxWKd_ovGHn9ZW3Gr4g7TSv60GV_pUwlYhaisKnrhD6c6CwljSi4fujoSLtw6btulgnW_6OzNDNqmeUEu9NC4igqqMA8UPCJEn8KevfwpqS6jZ0=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 171,
+    "2": 77,
+    "3": 148,
+    "4": 227,
+    "5": 497
+  },
+  "hours": {
+    "mon": "9:00 AM - 3:00 AM",
+    "tue": "9:00 AM - 3:00 AM",
+    "wed": "9:00 AM - 3:00 AM",
+    "thu": "9:00 AM - 3:00 AM",
+    "fri": "9:00 AM - 4:00 AM",
+    "sat": "9:00 AM - 4:00 AM",
+    "sun": "9:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

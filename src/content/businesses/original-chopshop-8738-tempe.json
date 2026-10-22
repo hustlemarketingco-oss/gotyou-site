@@ -2,7 +2,7 @@
   "slug": "original-chopshop-8738-tempe",
   "name": "Original ChopShop",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Health food restaurant",
   "address": "8738 S Emerald Dr #104",
   "city": "Tempe",
   "state": "AZ",
@@ -13,7 +13,7 @@
   "website": "https://originalchopshop.com/menu/",
   "placeId": "ChIJCSKC3DgFK4cRaeurZDy97oY",
   "googleRating": 4.5,
-  "googleReviewCount": 1304,
+  "googleReviewCount": 1374,
   "priceRange": "$$",
   "hours": {
     "mon": "7:00 AM - 9:00 PM",
@@ -30,5 +30,22 @@
   "groundgameId": "6a3ffc7f435ed9512c5449aa",
   "seededAt": "2026-06-27T16:38:23Z",
   "updatedAt": "2026-06-27T16:38:24Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9722916712624155497",
+  "googleMapsUrl": "https://www.google.com/maps/place/Original+ChopShop/data=!4m7!3m6!1s0x872b0538dc822209:0x86eebd3c64abeb69!8m2!3d33.3350189!4d-111.9674331!16s%2Fg%2F11h_1566_4!19sChIJCSKC3DgFK4cRaeurZDy97oY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 57,
+    "2": 48,
+    "3": 59,
+    "4": 144,
+    "5": 1066
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8HiUYWpAlFO8JWgT8Si01vy0bnyLYWB-TUMBQ3ZNbYN3uF0WHTdqYo-MIS28fOoToYPNp0lBFXO3wbupGi1AdtOaWDmqaYowmcfIC3ZKLP1SUE84IQKzj7EL4eV3H_T61K54_CHCrasA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

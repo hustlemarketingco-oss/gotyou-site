@@ -14,38 +14,18 @@
   "lng": -111.9082242,
   "phone": "+14802687331",
   "website": "http://www.phoenixramen.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8014206769830903175",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kungfu+Noodles/data=!4m7!3m6!1s0x872b097013ae7f1d:0x6f382e98984d3d87!8m2!3d33.4065828!4d-111.9082242!16s%2Fg%2F11jnydjf68!19sChIJHX-uE3AJK4cRhz1NmJguOG8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8014206769830903175",
   "placeId": "ChIJHX-uE3AJK4cRhz1NmJguOG8",
   "googleRating": 4.5,
-  "googleReviewCount": 898,
+  "googleReviewCount": 922,
   "priceRange": "$10–20",
   "description": "Informal Chinese restaurant in a strip mall whipping up dumplings, buns, noodle soups & meat dishes.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Healthy options",
-    "Organic dishes",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -62,5 +42,14 @@
   "groundgameId": "6a2437f5786af5412bc7b613",
   "seededAt": "2026-06-06T15:08:37Z",
   "updatedAt": "2026-07-22T20:01:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 24,
+    "3": 37,
+    "4": 90,
+    "5": 719
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemiShbB718Fasm4t7gmN4pVv2Mscpa4SEsSkuTCP9wlRkFZmgy4nQey_ozzAAu2b1RVYyC9dZSY5UwIW45FviztNh3djni8QxW92bLDgAGbCH0cHlhx6OLavGW3HbKv1WgXg5Wcg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

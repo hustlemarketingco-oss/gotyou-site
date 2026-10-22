@@ -1,0 +1,54 @@
+{
+  "slug": "los-amigos-market-tempe",
+  "name": "Los Amigos Market",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Asian grocery store",
+    "Beer store",
+    "Crypto ATM",
+    "Dairy store",
+    "Ice cream shop",
+    "Indian grocery store",
+    "Mexican grocery store",
+    "Money transfer service"
+  ],
+  "address": "1874 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4150908,
+  "lng": -111.90505449999999,
+  "phone": "+14807020118",
+  "website": "https://www.indiaplazatempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Los+Amigos+Market/data=!4m7!3m6!1s0x872b09e0cd81070d:0x49e101cd32813903!8m2!3d33.4150908!4d-111.9050545!16s%2Fg%2F11h3jtb_t_!19sChIJDQeBzeAJK4cRAzmBMs0B4Uk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5323538215355889923",
+  "placeId": "ChIJDQeBzeAJK4cRAzmBMs0B4Uk",
+  "googleRating": 4.9,
+  "googleReviewCount": 96,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT43IXZEg7vjZTXNfRu4kQhK_5c0Dq0EYJgkyuJjI1VNFsleOquuN7T34QZu-pINkhzKUdHDRXbpQJ3SSgc4hJQSCNbOeVzW-J0LvOvnuZXDEQ0aYS7KOSfzqahOSlnlObhIikeEMk3yI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 4,
+    "5": 91
+  },
+  "hours": {
+    "mon": "9:00 AM - 11:00 PM",
+    "tue": "9:00 AM - 11:00 PM",
+    "wed": "9:00 AM - 11:00 PM",
+    "thu": "9:00 AM - 11:00 PM",
+    "fri": "9:00 AM - 12:00 AM",
+    "sat": "9:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

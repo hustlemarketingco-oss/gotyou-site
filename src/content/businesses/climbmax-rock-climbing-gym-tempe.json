@@ -1,0 +1,51 @@
+{
+  "slug": "climbmax-rock-climbing-gym-tempe",
+  "name": "Climbmax Rock Climbing Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Rock climbing gym",
+  "secondaryCategories": [
+    "Gym",
+    "Rock climbing"
+  ],
+  "address": "1330 W Auto Dr #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3432312,
+  "lng": -111.95883939999999,
+  "phone": "+14802517271",
+  "website": "https://weareclimbmax.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Climbmax+Rock+Climbing+Gym/data=!4m7!3m6!1s0x872b05d152ca784f:0x6ba524be3ae68a7f!8m2!3d33.3432312!4d-111.9588394!16s%2Fg%2F1tkf1fk5!19sChIJT3jKUtEFK4cRf4rmOr4kpWs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7756646332666120831",
+  "placeId": "ChIJT3jKUtEFK4cRf4rmOr4kpWs",
+  "googleRating": 4.5,
+  "googleReviewCount": 360,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbURoQ08dliTxLvv967Xm0sWlTw-AitzZQ9rYIeA9PD2P7L8Rsf5Lzfa-KxEiRfEIFb8BinuTXHv6Jq-BkdOHqReHuYNTGZjS6iwE_R8Aj6_ZoB4rYsHcr2cxRRxveFYCLKNdK=w1200-h800-k-no",
+  "description": "Spacious bi-level arena featuring a mix of top-rope routes, lead climbing & bouldering options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 11,
+    "3": 10,
+    "4": 30,
+    "5": 286
+  },
+  "hours": {
+    "mon": "3:00 PM - 9:00 PM",
+    "tue": "3:00 PM - 9:00 PM",
+    "wed": "3:00 PM - 9:00 PM",
+    "thu": "3:00 PM - 9:00 PM",
+    "fri": "3:00 PM - 9:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -11,29 +11,18 @@
   "lng": -111.9050606,
   "phone": "+14809392650",
   "website": "https://www.genkoreanbbq.com/tempe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11293270405211468001",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gen+Korean+BBQ+House/data=!4m7!3m6!1s0x872b0900046558b3:0x9cb9c199670fb0e1!8m2!3d33.4328845!4d-111.9050606!16s%2Fg%2F11gbfd_7rc!19sChIJs1hlBAAJK4cR4bAPZ5nBuZw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11293270405211468001",
   "placeId": "ChIJs1hlBAAJK4cR4bAPZ5nBuZw",
-  "googleRating": 4.1,
-  "googleReviewCount": 3357,
+  "googleRating": 4,
+  "googleReviewCount": 3408,
   "priceRange": "$20–50",
   "description": "Local chain offering Korean BBQ grilled tableside & ban-chan in a trendy, modern setting.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:30 AM - 11:00 PM",
@@ -50,5 +39,14 @@
   "groundgameId": "6a243775d4b8bab0fb70b689",
   "seededAt": "2026-06-06T15:06:29Z",
   "updatedAt": "2026-06-06T15:06:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 429,
+    "2": 191,
+    "3": 220,
+    "4": 537,
+    "5": 2031
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeo6xRL45TtS8m6evrJeHCbxd7psfmxLNhv98ttR3T1VeZVqOmyFQ8hRmDhlcUA3FMuhedZ_N9Kx3As0iYAv_UQZGKL-IWd8I9i8h6x4XAa3Md7ZT1_u5_atuuGAxwh9A0Mjb_8w=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

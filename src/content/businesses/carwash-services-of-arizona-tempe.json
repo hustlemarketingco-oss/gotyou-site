@@ -1,0 +1,43 @@
+{
+  "slug": "carwash-services-of-arizona-tempe",
+  "name": "Carwash Services of Arizona",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "secondaryCategories": [
+    "Car accessories store"
+  ],
+  "address": "945 S Hohokam Dr #5115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.419086799999995,
+  "lng": -111.971471,
+  "phone": "+14809409274",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carwash+Services+of+Arizona/data=!4m7!3m6!1s0x872b0f4a7136181d:0xf7e982c9a6517b5e!8m2!3d33.4190868!4d-111.971471!16s%2Fg%2F1tg6w4mt!19sChIJHRg2cUoPK4cRXntRpsmC6fc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17863953199532178270",
+  "placeId": "ChIJHRg2cUoPK4cRXntRpsmC6fc",
+  "googleRating": 4.8,
+  "googleReviewCount": 63,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnj3EwwfVOfC3ZlNG0k4zLz5o8vmE4UmNUJAsSFeNNCUeJLtSCERKbs1Iu-qG9Iw63WjmNjMjTptgfSRo2ZnmOZ4u3NkqTxdA67fByxoSBUTkb2pmQgZmPUGjdX8qiu8S7Az0_Zg=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 56
+  },
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -23,13 +23,13 @@
   "website": "https://saltfirebrewingtaphouse.com/",
   "placeId": "ChIJ1ReU7csIK4cRY7u9rIUDjx0",
   "googleRating": 4.4,
-  "googleReviewCount": 2282,
+  "googleReviewCount": 2306,
   "priceRange": "$$",
   "amenities": [
-    "Credit card",
-    "Apple Pay",
-    "Cash",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 1:00 AM",
@@ -46,5 +46,16 @@
   "groundgameId": "6a397b32ee1a07c9b9d0bc11",
   "seededAt": "2026-06-22T18:13:06Z",
   "updatedAt": "2026-07-23T19:21:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2129925021433183075",
+  "googleMapsUrl": "https://www.google.com/maps/place/SaltFire+Brewery+Co+Taphouse/data=!4m7!3m6!1s0x872b08cbed9417d5:0x1d8f0385acbdbb63!8m2!3d33.4076195!4d-111.9475708!16s%2Fg%2F1tngqrm2!19sChIJ1ReU7csIK4cRY7u9rIUDjx0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 75,
+    "2": 67,
+    "3": 193,
+    "4": 537,
+    "5": 1434
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMwF3MVSgz6UVrwt7dDqTvoIREe6uBc3nlURf1VMYukOxP7L3Rmb1sM310E_wd1b5za94EAW2uyBabCTe6ACdwa99TtGLfN_Md10CLJM44WzCuI8suADkjnONXNFGhGo7J9mwcohXG4lsV=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "ginger-lily-massage-tempe",
+  "name": "Ginger Lily Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Craniosacral therapy",
+    "Lymph drainage therapist",
+    "Sports massage therapist"
+  ],
+  "address": "1801 S Jentilly Ln c9",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.408635,
+  "lng": -111.923036,
+  "phone": "+16027858839",
+  "website": "http://gingerlilymassage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ginger+Lily+Massage/data=!4m7!3m6!1s0x872a4df8d10147cb:0x879c0cebb1de090!8m2!3d33.408635!4d-111.923036!16s%2Fg%2F11n796c601!19sChIJy0cB0fhNKocRkOAdu87AeQg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "610731218620506256",
+  "placeId": "ChIJy0cB0fhNKocRkOAdu87AeQg",
+  "googleRating": 4.9,
+  "googleReviewCount": 51,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXQU2G64J9WKjUa9TFxT65_AIQ1ZEy6NmS114g6Eh7UrYTYPMReiO_SrozTiniVd2I3OBa1hwOVi_z7v94-RNEyfDDVEb6nL6TDpQKOq6wfuAbSlIaG_Yqxa9ARSvPV3w6HHP0edQAGC4-=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 50
+  },
+  "hours": {
+    "mon": "10:00 AM - 4:00 PM",
+    "tue": "Closed",
+    "wed": "12:00 PM - 6:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

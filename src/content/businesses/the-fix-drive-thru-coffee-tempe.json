@@ -11,28 +11,15 @@
   "lng": -111.9625339,
   "phone": "+16024025608",
   "website": "http://thefixdtcoffee.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17007604127752876570",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Fix+Drive+Thru+Coffee/data=!4m7!3m6!1s0x872b05c7b8d82e7d:0xec0725d8132d721a!8m2!3d33.3451198!4d-111.9625339!16s%2Fg%2F11ffv_34y1!19sChIJfS7YuMcFK4cRGnItE9glB-w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17007604127752876570",
   "placeId": "ChIJfS7YuMcFK4cRGnItE9glB-w",
   "googleRating": 4.7,
-  "googleReviewCount": 605,
+  "googleReviewCount": 611,
   "priceRange": "$1–10",
   "description": "The Fix Drive Thru Coffee is a casual, quiet coffee shop in Tempe, serving up coffee, takeout & delivery. Popular for breakfast.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Outside"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.instagram.com/thefixcoffee"
@@ -52,5 +39,14 @@
   "groundgameId": "6a24394b6d274c2777641e24",
   "seededAt": "2026-06-06T15:14:19Z",
   "updatedAt": "2026-06-06T15:14:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 9,
+    "3": 16,
+    "4": 44,
+    "5": 523
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0rY4ZV2RsIoaiOG5Xfu-JFYvihR11x7Vytg6mZ6A5QXFCn7zNEDZt_Ol6NP97_Ktw0di1Gl2rq6Ar0wREneSM8p6alIeinN4fxLzF9CqfGrMw3jxNJm1WdQA8N-4-LvlJw1GO=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

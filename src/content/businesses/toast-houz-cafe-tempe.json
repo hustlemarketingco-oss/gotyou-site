@@ -1,0 +1,46 @@
+{
+  "slug": "toast-houz-cafe-tempe",
+  "name": "Toast Houz Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1215 W Washington St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.443002,
+  "lng": -111.9588699,
+  "phone": "+16029194260",
+  "website": "https://toasthouz.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Toast+Houz+Cafe/data=!4m7!3m6!1s0x872b0f16d05877dd:0xd1a18d4d1aae6b99!8m2!3d33.443002!4d-111.9588699!16s%2Fg%2F11xfpx0k8j!19sChIJ3XdY0BYPK4cRmWuuGk2NodE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15105509987476990873",
+  "placeId": "ChIJ3XdY0BYPK4cRmWuuGk2NodE",
+  "googleRating": 4.8,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJlpqtsS-Dd5704YoSesm7k5r77O_NCfz84dXEhyxuSIAv-A5u01yrrEiWHzPL2iyWTc4RhGMJ4KV5TS9p9C7h3I6cyBD40GgkKmsALSjj44x9Yw-BcYcEoZv0Nk6zE4WBH6KHD4gg7S_0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "4": 1,
+    "5": 16
+  },
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

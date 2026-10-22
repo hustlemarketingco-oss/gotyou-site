@@ -1,0 +1,52 @@
+{
+  "slug": "nicks-menswear-tempe",
+  "name": "Nick's Menswear",
+  "category": "Shopping",
+  "googleCategory": "Men's clothing store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Formal wear store",
+    "Men's tailor"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3814627,
+  "lng": -111.96437069999999,
+  "phone": "+14808979060",
+  "website": "https://nicksmenswear.com/tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nick%27s+Menswear/data=!4m7!3m6!1s0x872b0f59e1444903:0x62124c8c272b3b41!8m2!3d33.3814627!4d-111.9643707!16s%2Fg%2F1pp2vcdhg!19sChIJA0lE4VkPK4cRQTsrJ4xMEmI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7066794930134006593",
+  "placeId": "ChIJA0lE4VkPK4cRQTsrJ4xMEmI",
+  "googleRating": 4.8,
+  "googleReviewCount": 279,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy6-kKdO7XxMjYBUzrmhx1R_QTOEcIG_gp4vkokTjIGrr6E1br7gRLlh3DFw68pawioelZVPKTZvwQZTQ-s-dzNGc3tgd4sJMR_B5-fzezouWwjH7UKgXfeAVonmjeBiXOLLTYW47OWXE=w1200-h800-k-no",
+  "description": "Store carrying men's formal wear, including dress suits & tuxedos, plus accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 4,
+    "3": 1,
+    "4": 12,
+    "5": 254
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

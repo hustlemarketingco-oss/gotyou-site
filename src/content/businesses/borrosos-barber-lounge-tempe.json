@@ -1,0 +1,45 @@
+{
+  "slug": "borrosos-barber-lounge-tempe",
+  "name": "Borrosos Barber Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "227 E Baseline Rd Bld J2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777948,
+  "lng": -111.9358757,
+  "phone": "+14803318171",
+  "website": "https://www.borrosos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Borrosos+Barber+Lounge/data=!4m7!3m6!1s0x872b061b94afffff:0x1ce3b1899403ef30!8m2!3d33.3777948!4d-111.9358757!16s%2Fg%2F11nnwgdv3j!19sChIJ__-vlBsGK4cRMO8DlImx4xw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2081702657227222832",
+  "placeId": "ChIJ__-vlBsGK4cRMO8DlImx4xw",
+  "googleRating": 5,
+  "googleReviewCount": 93,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcL-_lfgLkT_QQLK_lm-VEyqfwcIDhJIF6CxeG-U9G0WGK3baKuv0sfEOfL_j8IrNd0s1xVruUv-cPbQly-4__9HOw_MK_PiQXy2PeEfb8MHyholEkxd1w1YgsXDQChVVqycCQx4wutguE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 92
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

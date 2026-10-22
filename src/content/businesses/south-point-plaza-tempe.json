@@ -1,0 +1,47 @@
+{
+  "slug": "south-point-plaza-tempe",
+  "name": "South Point Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "2700 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3797537,
+  "lng": -111.97712109999999,
+  "phone": "+19293887922",
+  "website": "https://www.phillipsedison.com/property/arizona/phoenix-az/tempe/south-point-plaza",
+  "googleMapsUrl": "https://www.google.com/maps/place/South+Point+Plaza/data=!4m7!3m6!1s0x872b0f608a6acad7:0x46e1a4e227219ecd!8m2!3d33.3797537!4d-111.9771211!16s%2Fg%2F11fp9d2j5k!19sChIJ18pqimAPK4cRzZ4hJ-Kk4UY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5107544743640932045",
+  "placeId": "ChIJ18pqimAPK4cRzZ4hJ-Kk4UY",
+  "googleRating": 4.2,
+  "googleReviewCount": 707,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3_X0FLH3VGokizCV5P9EJ--pR1XxyzRxqHJ2ZcR24MiQs2_xCgykcTeDSsJ1kB8pm9VE6SS5bVMsXODJWmvhzdPP9vI0B6QamFavMIIYj64zQBIbs5I5tRqAqYv9NYTAV5UtwLyoBbL4O=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 19,
+    "3": 117,
+    "4": 159,
+    "5": 385
+  },
+  "hours": {
+    "mon": "7:00 AM - 11:00 PM",
+    "tue": "7:00 AM - 11:00 PM",
+    "wed": "7:00 AM - 11:00 PM",
+    "thu": "7:00 AM - 11:00 PM",
+    "fri": "7:00 AM - 11:00 PM",
+    "sat": "7:00 AM - 11:00 PM",
+    "sun": "8:30 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

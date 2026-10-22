@@ -1,0 +1,53 @@
+{
+  "slug": "ikea-restaurant-tempe",
+  "name": "IKEA Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Swedish restaurant",
+  "secondaryCategories": [
+    "Cafeteria",
+    "Family restaurant"
+  ],
+  "address": "2110 W Ikea Way",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3406452,
+  "lng": -111.9701824,
+  "phone": "+18888884532",
+  "website": "https://www.ikea.com/us/en/stores/tempe/?utm_source=google&utm_medium=organic&utm_campaign=map_r&utm_content=tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/IKEA+Restaurant/data=!4m7!3m6!1s0x872b05c954c560a7:0x18e1e1c0607d65c1!8m2!3d33.3406452!4d-111.9701824!16s%2Fg%2F11fy4g0_mq!19sChIJp2DFVMkFK4cRwWV9YMDh4Rg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1792962343038969281",
+  "placeId": "ChIJp2DFVMkFK4cRwWV9YMDh4Rg",
+  "googleRating": 4.3,
+  "googleReviewCount": 834,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcb46T6xvahM3vrIVaUXAI5k0C_NMEa0fdoi52m9B8tIuSjs0jxuH2qXV5aOMj1_wgbz7UQ06JDp1J-F__b9jCsv3ulnZ2288LxHl8mFE0xCDVRe8E8b8pomSXd7s8vPSuhXw41=w1200-h800-k-no",
+  "description": "Chain store restaurant featuring Swedish-inspired food, including classic meatball & salmon dishes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 31,
+    "3": 80,
+    "4": 226,
+    "5": 465
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:30 PM",
+    "tue": "10:00 AM - 7:30 PM",
+    "wed": "10:00 AM - 7:30 PM",
+    "thu": "10:00 AM - 7:30 PM",
+    "fri": "10:00 AM - 8:30 PM",
+    "sat": "10:00 AM - 8:30 PM",
+    "sun": "10:00 AM - 7:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

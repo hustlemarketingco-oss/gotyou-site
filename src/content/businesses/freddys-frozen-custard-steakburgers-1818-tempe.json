@@ -17,7 +17,7 @@
   "website": "https://www.freddys.com/location/tempe-az",
   "placeId": "ChIJp6KHJlQGK4cR-gGKRivvjZc",
   "googleRating": 4.5,
-  "googleReviewCount": 1507,
+  "googleReviewCount": 1527,
   "priceRange": "$",
   "hours": {
     "mon": "10:30 AM - 10:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a2b6598a50a241cbdfbbd4b",
   "seededAt": "2026-06-12T01:49:12Z",
   "updatedAt": "2026-06-12T22:08:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10920647640589402618",
+  "googleMapsUrl": "https://www.google.com/maps/place/Freddy%27s+Frozen+Custard+%26+Steakburgers/data=!4m7!3m6!1s0x872b06542687a2a7:0x978def2b468a01fa!8m2!3d33.3496356!4d-111.9101489!16s%2Fg%2F1q66_ws9z!19sChIJp6KHJlQGK4cR-gGKRivvjZc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 47,
+    "2": 35,
+    "3": 94,
+    "4": 307,
+    "5": 1044
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9P4q25QuZkkfoas8DuMt-nQo5KZ6ViFoeZqoVUBh3Uo3sJozDCeR-iS3-D5yEMrAP8DdFfHmbWzSGJVEvRRRpzQFmBt00dBmxG4AsQr2GUyY8RVl-aaNDk3eHWO9oZjzBTLRv=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

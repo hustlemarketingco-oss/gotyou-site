@@ -11,28 +11,16 @@
   "lng": -111.9398508,
   "phone": "+14803551705",
   "website": "http://www.lowkeypianobar.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11795610075690477915",
+  "googleMapsUrl": "https://www.google.com/maps/place/Low+Key+Piano+Bar/data=!4m7!3m6!1s0x872b092fea5043fb:0xa3b26cde368ca95b!8m2!3d33.4252834!4d-111.9398508!16s%2Fg%2F11bv6pqm27!19sChIJ-0NQ6i8JK4cRW6mMNt5ssqM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11795610075690477915",
   "placeId": "ChIJ-0NQ6i8JK4cRW6mMNt5ssqM",
   "googleRating": 4.2,
-  "googleReviewCount": 1138,
+  "googleReviewCount": 1143,
   "priceRange": "$20–30",
   "description": "Laid-back venue featuring dueling piano players playing familiar tunes in a convivial atmosphere.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free street parking",
-    "Paid parking garage",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/pg/lowkeypianobar/photos"
@@ -52,5 +40,14 @@
   "groundgameId": "6a24387e6d274c2777641e0c",
   "seededAt": "2026-06-06T15:10:54Z",
   "updatedAt": "2026-06-06T15:10:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 129,
+    "2": 28,
+    "3": 49,
+    "4": 188,
+    "5": 749
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOPGgg0R9RsYFTClsCpxu_HeM_CtAdsNOFJMSiXSbcP9OipSvIWHJ-VfkUouTHWXFjip0wPxJrcROTD2KdHjVhd_tNSGyqSb8Rbp8Gpb6_GgQgstN30_Q4UOe_ppiDeYrBv_i1LQ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -11,21 +11,10 @@
   "priceRange": "$10–20",
   "description": "The Chill Room is a casual, cozy lounge bar in Tempe, serving up beer & cocktails, takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/thechillroomtempeAZ"
@@ -36,5 +25,31 @@
   "groundgameId": "6a243868069f501131c3655f",
   "seededAt": "2026-06-06T15:10:32Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7e5ghBYJK4cRkbfHFp-7bVg",
+  "googleCid": "6371955339755501457",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Chill+Room/data=!4m7!3m6!1s0x872b09168460eeed:0x586dbb9f16c7b791!8m2!3d33.4083042!4d-111.916804!16s%2Fg%2F11svhtrbt8!19sChIJ7e5ghBYJK4cRkbfHFp-7bVg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 195,
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 9,
+    "5": 181
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0-hbVYwUPw_uAR63KfshZZpAKsqCqT8ERPCyk_CBmYxEuwALssP-fye-0gC-VCSSRsbbLPA7EUc1mIPtfX3kKNTYPxLskbfngMsJFACKjikh3syODuNStxKAKglm3V3Lp3uia=w1200-h800-k-no",
+  "website": "http://www.thechillroomtempe.com/",
+  "hours": {
+    "mon": "2:00 PM - 12:00 AM",
+    "tue": "2:00 PM - 12:00 AM",
+    "wed": "2:00 PM - 12:00 AM",
+    "thu": "2:00 PM - 12:00 AM",
+    "fri": "2:00 PM - 2:00 AM",
+    "sat": "2:00 PM - 2:00 AM",
+    "sun": "2:00 PM - 12:00 AM"
+  },
+  "lat": 33.408304199999996,
+  "lng": -111.916804,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

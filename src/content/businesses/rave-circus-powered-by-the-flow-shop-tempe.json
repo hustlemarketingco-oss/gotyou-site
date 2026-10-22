@@ -1,0 +1,51 @@
+{
+  "slug": "rave-circus-powered-by-the-flow-shop-tempe",
+  "name": "Rave Circus (Powered by The Flow Shop)",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Boutique",
+    "Fashion accessories store",
+    "Festival",
+    "Toy store"
+  ],
+  "address": "414 S Mill Ave #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4258909,
+  "lng": -111.94049629999999,
+  "phone": "+14802870457",
+  "website": "http://www.ravecircus.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rave+Circus+%28Powered+by+The+Flow+Shop%29/data=!4m7!3m6!1s0x872b08d800123dd1:0xcb6556190a23ed12!8m2!3d33.4258909!4d-111.9404963!16s%2Fg%2F11bwh58f5n!19sChIJ0T0SANgIK4cREu0jChlWZcs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14656215227891445010",
+  "placeId": "ChIJ0T0SANgIK4cREu0jChlWZcs",
+  "googleRating": 4.8,
+  "googleReviewCount": 185,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnCOF8XhbQZkb2jysGGnId-pMFhxTTxdK7r3E31SI76Iw-VSVJxxG_T-Am9ZJjHIOXIXJac2NGwJs07sajfeKXKMVHtz6C8iwFq9UG9RdSgPr3w8qmMBktf0qSDz7CdjPTW_Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 2,
+    "4": 8,
+    "5": 170
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

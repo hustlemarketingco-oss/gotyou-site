@@ -1,0 +1,43 @@
+{
+  "slug": "self-care-beauty-studio-tempe",
+  "name": "Self Care Beauty Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "7720 S Priest Dr Studio 39",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348130999999995,
+  "lng": -111.965351,
+  "phone": "+16025658344",
+  "website": "https://www.vagaro.com/selfcarebeautystudio",
+  "googleMapsUrl": "https://www.google.com/maps/place/Self+Care+Beauty+Studio/data=!4m7!3m6!1s0x872b05ce69b0ac75:0x5253b78dcd2a8f1a!8m2!3d33.348131!4d-111.965351!16s%2Fg%2F11rws95qgc!19sChIJdaywac4FK4cRGo8qzY23U1I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5932286953837465370",
+  "placeId": "ChIJdaywac4FK4cRGo8qzY23U1I",
+  "googleRating": 5,
+  "googleReviewCount": 11,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea1FK0ZdwQv-bacrGlSF8t81-mts2Jec0XRJsUNal--ZfU8ZogURp4_BUhGS_v30gjmm2OumvhE2oeKHr1zObC0c_I35ILc4PXQjzyNdO_1-VeZJLSBzxkY2PwNAm9uigARgimDw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 11
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

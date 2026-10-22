@@ -1,0 +1,47 @@
+{
+  "slug": "nutrends-nails-spa-tempe",
+  "name": "NuTrends Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "4427 S Rural Rd Ste 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383401899999996,
+  "lng": -111.9252441,
+  "phone": "+14805885000",
+  "website": "https://m.facebook.com/pages/category/Nail-Salon/NuTrends-Nails-Spa-412077722682988/",
+  "googleMapsUrl": "https://www.google.com/maps/place/NuTrends+Nails+%26+Spa/data=!4m7!3m6!1s0x872b07fa476c27f5:0x430aca727d23fe23!8m2!3d33.3834019!4d-111.9252441!16s%2Fg%2F11hyzyt0hs!19sChIJ9SdsR_oHK4cRI_4jfXLKCkM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4830896143382871587",
+  "placeId": "ChIJ9SdsR_oHK4cRI_4jfXLKCkM",
+  "googleRating": 4.5,
+  "googleReviewCount": 321,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBaKd4sUvmGsyQHBUW-Slp4eeFuQk9-BNfq_RxDLlguBTcHtUB03aOLG7vtW7A48Q8Ddx_n5YD5ZlgQwmrQV2nW2L1hgCJcIf3sFYSU5gLpGchE6bhczcwDb8UKQk3wPSe1RL_Hg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 29,
+    "2": 6,
+    "3": 4,
+    "4": 8,
+    "5": 274
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "Closed",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

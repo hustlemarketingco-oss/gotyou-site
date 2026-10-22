@@ -1,0 +1,55 @@
+{
+  "slug": "best-buy-tempe",
+  "name": "Best Buy",
+  "category": "Shopping",
+  "googleCategory": "Electronics store",
+  "secondaryCategories": [
+    "Appliance store",
+    "Computer store",
+    "Home theater store",
+    "Music store",
+    "Video game store",
+    "Video store"
+  ],
+  "address": "1900 E Rio Salado Pkwy Ste 180",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4300198,
+  "lng": -111.9043221,
+  "phone": "+14803037251",
+  "website": "https://stores.bestbuy.com/az/tempe/1900-e-rio-salado-pkwy-1002.html/?ref=NS&loc=ns100",
+  "googleMapsUrl": "https://www.google.com/maps/place/Best+Buy/data=!4m7!3m6!1s0x872b085581aff39b:0x2a366a6a86220f18!8m2!3d33.4300198!4d-111.9043221!16s%2Fg%2F1tdbfwyw!19sChIJm_OvgVUIK4cRGA8ihmpqNio?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3041735604084805400",
+  "placeId": "ChIJm_OvgVUIK4cRGA8ihmpqNio",
+  "googleRating": 4.1,
+  "googleReviewCount": 5275,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEWHiyJEPQVs4ZoQrZpSL7cmuzsSdzZVg6m28CP1libRDc3pw-twAZmNQ758ZSnxnEjEKyBjbo0jmxNa83N_00dTFGEKdRQHpJsaMfpQkfe2nmuwK31Thz5geRbvHSJ8dC9Oteca5CDHcq=w1200-h800-k-no",
+  "description": "Chain retailer with a large array of brand-name electronics, computers, appliances & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 470,
+    "2": 228,
+    "3": 528,
+    "4": 1169,
+    "5": 2880
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -15,23 +15,10 @@
   "priceRange": "$20–30",
   "description": "This functional nook specializing in Mexican seafood also serves staples such as burritos & tacos.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/Mariscossinaloatempe"
@@ -42,5 +29,31 @@
   "groundgameId": "6a243a0acfca141a7ffab52c",
   "seededAt": "2026-06-06T15:17:30Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJrW22XGoPK4cRRg7DAttfEDc",
+  "googleCid": "3967776665962221126",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mariscos+Sinaloa/data=!4m7!3m6!1s0x872b0f6a5cb66dad:0x37105fdb02c30e46!8m2!3d33.3948775!4d-111.9779343!16s%2Fg%2F1vj5_p0f!19sChIJrW22XGoPK4cRRg7DAttfEDc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 1381,
+  "ratingBreakdown": {
+    "1": 123,
+    "2": 43,
+    "3": 96,
+    "4": 246,
+    "5": 873
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelZSYpCL56sPhZU_ZrEQftWiHHni08IQzTy8idj5H0MvEpqmTUSSCH_GRwWtw5h4zvKcuxL5KX9lpwDyXP9d0NkM4Ro92Oujp30ffNwC1NmdJbNwvtB7-8DCyYEWJmO7E_cL7D=w1200-h800-k-no",
+  "website": "http://mariscossinaloarestaurant.com/",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "lat": 33.3948775,
+  "lng": -111.9779343,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,38 @@
+{
+  "slug": "kuiu-store-tempe",
+  "name": "KUIU Store",
+  "category": "Shopping",
+  "googleCategory": "Hunting store",
+  "address": "15 S McClintock Dr #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4324815,
+  "lng": -111.9081082,
+  "phone": "+18558207495",
+  "website": "https://www.kuiu.com/kuiu-tempe-store",
+  "googleMapsUrl": "https://www.google.com/maps/place/KUIU+Store/data=!4m7!3m6!1s0x872b099386cc24e3:0xd40553d3e612431b!8m2!3d33.4324815!4d-111.9081082!16s%2Fg%2F11zyz5gpsz!19sChIJ4yTMhpMJK4cRG0MS5tNTBdQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15277709480487437083",
+  "placeId": "ChIJ4yTMhpMJK4cRG0MS5tNTBdQ",
+  "googleRating": 5,
+  "googleReviewCount": 6,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9xxXDRH1Rv2_kRds_kXRcIcoXO01TD-r8U0hYc61udt2doCcdYBTQzvd1Wi-E15MCB70fwK5H27hWVnhNTL4W_qPv5cCBPapPxiRWTFyWhz61KFlc7Zajqm4et2NVjXgQlreE3TLKUmyT=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 6
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

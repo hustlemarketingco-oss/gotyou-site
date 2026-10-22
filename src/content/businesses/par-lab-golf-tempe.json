@@ -1,0 +1,43 @@
+{
+  "slug": "par-lab-golf-tempe",
+  "name": "Par Lab Golf",
+  "category": "Fun & Activities",
+  "googleCategory": "Indoor golf course",
+  "address": "939 S 48th St Ste 208",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4196026,
+  "lng": -111.97671589999999,
+  "phone": "+14803827258",
+  "website": "https://www.parlab.golf/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Par+Lab+Golf/data=!4m7!3m6!1s0x872b0f6cef4b50b5:0x54d6424aa499c263!8m2!3d33.4196026!4d-111.9767159!16s%2Fg%2F11y4bhjxzj!19sChIJtVBL72wPK4cRY8KZpEpC1lQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6113146432558580323",
+  "placeId": "ChIJtVBL72wPK4cRY8KZpEpC1lQ",
+  "googleRating": 5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7K6J9khUAxnyyT4zjJXjfBYUUkTn6-MoEFb26JRdqIkItOU0tmJrI9h3yrRcHFKbWDsDmVGYcp0yYt0FuVlFZKyYU9d__teL1iUKnhhcjOtyHFdzbXfOQNGEiqmU4F4HvpAys=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 14
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "hair-therapy-salon-tempe",
+  "name": "Hair Therapy Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "7650 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348029499999996,
+  "lng": -111.91274879999999,
+  "phone": "+14808995842",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair+Therapy+Salon/data=!4m7!3m6!1s0x872b070043ae7675:0x450ead68ff19f7ef!8m2!3d33.3480295!4d-111.9127488!16s%2Fg%2F11wr3h9z6t!19sChIJdXauQwAHK4cR7_cZ_2itDkU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4976105304759072751",
+  "placeId": "ChIJdXauQwAHK4cR7_cZ_2itDkU",
+  "googleRating": 4.3,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUgvJROX77jjd_UNAEW0Iwi8fnQ4W1ygwM4Mf1ioVqFYLbt2VQ6vElNXsMLUnub0mzFVAGubkYkoshRmzeOgPBGigBTqt9cGRUa_YwXze52_DzHfDdDOaUffq4cwpQIb0rksbMnWOiunA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

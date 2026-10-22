@@ -1,0 +1,53 @@
+{
+  "slug": "ono-hawaiian-bbq-tempe",
+  "name": "Ono Hawaiian BBQ",
+  "category": "Asian & Pacific",
+  "googleCategory": "Hawaiian restaurant",
+  "secondaryCategories": [
+    "Barbecue restaurant",
+    "Restaurant"
+  ],
+  "address": "9954 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3205035,
+  "lng": -111.930684,
+  "phone": "+16026174339",
+  "website": "https://onohawaiianbbq.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ono+Hawaiian+BBQ/data=!4m7!3m6!1s0x872b06bfcfd89085:0x2189464e4aae338b!8m2!3d33.3205035!4d-111.930684!16s%2Fg%2F11rwp056tm!19sChIJhZDYz78GK4cRizOuSk5GiSE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2416539977135305611",
+  "placeId": "ChIJhZDYz78GK4cRizOuSk5GiSE",
+  "googleRating": 4,
+  "googleReviewCount": 646,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyy2FSgzpK3FYAaL-Lkp-uJCVIx-sxlnBSsn-KQhck7do7jprp_ZAQEvd1qbCJQDfdtSKDfyh2qUxMHXywG8F3uDzEmEx6pB3Td1FrrvnlAPYqWucEZZvbI-jFUBWPdXxh7Y4-gg=w1200-h800-k-no",
+  "description": "Plate lunches served with rice & macaroni salad are the mainstays of this Hawaiian-inspired chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 75,
+    "2": 37,
+    "3": 47,
+    "4": 114,
+    "5": 373
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:30 PM",
+    "sat": "11:00 AM - 9:30 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

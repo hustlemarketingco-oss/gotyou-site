@@ -1,0 +1,37 @@
+{
+  "slug": "nails2pretty-tempe",
+  "name": "Nails2pretty",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "2039 S Mill Ave Suite 21",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061939,
+  "lng": -111.93942899999999,
+  "phone": "+16025619626",
+  "website": "https://nails2pretty.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nails2pretty/data=!4m7!3m6!1s0x872b09285baa1fc3:0x1ed1132a8b755bfa!8m2!3d33.4061939!4d-111.939429!16s%2Fg%2F11yj4mflxf!19sChIJwx-qWygJK4cR-lt1iyoT0R4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2220577164719643642",
+  "placeId": "ChIJwx-qWygJK4cR-lt1iyoT0R4",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=16FIQSt61kgsfk47El18tg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=315.8992&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "5:30 PM - 8:30 PM",
+    "thu": "5:30 PM - 8:30 PM",
+    "fri": "5:30 PM - 8:30 PM",
+    "sat": "5:30 PM - 8:30 PM",
+    "sun": "5:30 PM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

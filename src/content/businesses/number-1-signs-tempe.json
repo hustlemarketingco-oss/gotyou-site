@@ -1,0 +1,43 @@
+{
+  "slug": "number-1-signs-tempe",
+  "name": "Number 1 Signs",
+  "category": "Shopping",
+  "googleCategory": "Sign shop",
+  "address": "1842 E 3rd St Unit 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4277671,
+  "lng": -111.90663819999999,
+  "phone": "+14809708060",
+  "website": "http://www.number1signs.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Number+1+Signs/data=!4m7!3m6!1s0x872b08ff3bd4fc61:0xb9fb1cfddf6c32df!8m2!3d33.4277671!4d-111.9066382!16s%2Fg%2F1td0gzl5!19sChIJYfzUO_8IK4cR3zJs3_0c-7k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13401336992871756511",
+  "placeId": "ChIJYfzUO_8IK4cR3zJs3_0c-7k",
+  "googleRating": 4.9,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLci2gQUAlQg-oSUX-OBn_ixJRdct3WaongQbMj9wdW4MBVBuaLgEH8uyDjV_cNdheEm8D0Ik8LmErh1L7EpusbdyhtKK82YtG_TOqd6RqD3q4RFnH-ubRbfJ6FIHE6lMjtBs4km=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 17
+  },
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "7:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

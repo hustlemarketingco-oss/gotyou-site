@@ -21,7 +21,7 @@
   "website": "https://www.fourpeaks.com/8th-street-pub",
   "placeId": "ChIJY9M3BPAIK4cRkSOWsfkfkCQ",
   "googleRating": 4.6,
-  "googleReviewCount": 3147,
+  "googleReviewCount": 3259,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -38,5 +38,22 @@
   "groundgameId": "6a397b339d2c8618a640bbd7",
   "seededAt": "2026-06-22T18:13:07Z",
   "updatedAt": "2026-07-13T19:09:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2634640939298464657",
+  "googleMapsUrl": "https://www.google.com/maps/place/Four+Peaks+Brewing+Company/data=!4m7!3m6!1s0x872b08f00437d363:0x24901ff9b1962391!8m2!3d33.4195041!4d-111.9158283!16s%2Fg%2F1pp2vm186!19sChIJY9M3BPAIK4cRkSOWsfkfkCQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 92,
+    "2": 59,
+    "3": 128,
+    "4": 515,
+    "5": 2465
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyv-OS6sCmrwoliAaszJFYpXToyL90DN9pMq6VVBg6liUS0rHSZh92V1DE-zGSanwxGk4vrr_QrTm3Hc-QY5qJ5xDpLdSbV7jzDtzs1xexF52HjcEroib3hAp-dNjYdhz_Q92Bif3vz92R=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

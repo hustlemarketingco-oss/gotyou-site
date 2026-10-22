@@ -23,7 +23,7 @@
   "website": "https://www.coldstonecreamery.com/stores/21877",
   "placeId": "ChIJq3vqPlQIK4cRzTQmMLWr_ww",
   "googleRating": 4.2,
-  "googleReviewCount": 340,
+  "googleReviewCount": 341,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -40,5 +40,21 @@
   "groundgameId": "6a2c26831173fec9c2f9bce9",
   "seededAt": "2026-06-12T15:32:19Z",
   "updatedAt": "2026-06-30T01:44:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "936656042201593037",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cold+Stone+Creamery/data=!4m7!3m6!1s0x872b08543eea7bab:0xcffabb5302634cd!8m2!3d33.4336243!4d-111.9016333!16s%2Fg%2F1tfbnsxn!19sChIJq3vqPlQIK4cRzTQmMLWr_ww?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 7,
+    "3": 23,
+    "4": 64,
+    "5": 211
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeD56LdiozHdhww27PNXjNWVFDlh4yKs28WKxV1Lag-6wv8BiXtpLtsAkuS9tuFiNHGhAiZd3HNObNBxiYOOBcPrGzt4kAm98bI2E69iHusZRtrDXsEqnVuqYRILCdFYBQNeMzTlyOdKFGB=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

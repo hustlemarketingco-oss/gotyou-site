@@ -1,0 +1,56 @@
+{
+  "slug": "johnny-rockets-tempe",
+  "name": "Johnny Rockets",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Bar & grill",
+    "Family restaurant",
+    "Lunch restaurant",
+    "Restaurant",
+    "Sports bar"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste. 235**",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383507,
+  "lng": -111.9637303,
+  "phone": "+14807554024",
+  "website": "https://www.johnnyrockets.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Johnny+Rockets/data=!4m7!3m6!1s0x872b0f59e1444903:0xf967185d52bec95!8m2!3d33.383507!4d-111.9637303!16s%2Fg%2F1tgq738s!19sChIJA0lE4VkPK4cRlewr1YVxlg8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1123209976696532117",
+  "placeId": "ChIJA0lE4VkPK4cRlewr1YVxlg8",
+  "googleRating": 4.2,
+  "googleReviewCount": 1095,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoJ5rRz6YwI4hOIMr2y9iPf6hYxBbNsqHq6tkm1GZz6nm-O3Nn4SCb4e_Zz38y3hINWgpnFqaUZla_WTORT1a2PLv5TtVheYR5FHUJQXE-SFIQ_Tw6TEWAMoyc7MuW2fF41AG4KQ6bPZ_0=w1200-h800-k-no",
+  "description": "Burgers, shakes & fries arrive in a retro setting at this outpost of the international chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 78,
+    "2": 51,
+    "3": 104,
+    "4": 235,
+    "5": 627
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

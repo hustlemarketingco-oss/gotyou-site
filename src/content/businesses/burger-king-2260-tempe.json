@@ -1,0 +1,52 @@
+{
+  "slug": "burger-king-2260-tempe",
+  "name": "Burger King",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "2260 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.378727399999995,
+  "lng": -111.97071469999999,
+  "phone": "+14802643850",
+  "website": "https://burgerking.com/store-locator/store/23884",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x872b0f5f6823444d:0x41b705f965211222!8m2!3d33.3787274!4d-111.9707147!16s%2Fg%2F11gglgmz56!19sChIJTUQjaF8PK4cRIhIhZfkFt0E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4735260101905027618",
+  "placeId": "ChIJTUQjaF8PK4cRIhIhZfkFt0E",
+  "googleRating": 3.5,
+  "googleReviewCount": 657,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWaZRA2-iv1FydcsZzzQDhFssS5oxxWSFIzFTfUD21YDUToQ0JN-XCw5eJN5iTsebXj8u-B81O2VrDzgXPO89rlNrFHIs3OWp0VGf8CHz42CdRPynMSxfqz3nc4eQcFHeVR0GL=w1200-h800-k-no",
+  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 138,
+    "2": 56,
+    "3": 84,
+    "4": 112,
+    "5": 267
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

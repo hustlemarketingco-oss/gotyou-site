@@ -1,0 +1,55 @@
+{
+  "slug": "henna-shoppe-tempe",
+  "name": "Henna Shoppe",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "secondaryCategories": [
+    "Candle store",
+    "Fashion accessories store",
+    "Hair removal service",
+    "Incense supplier",
+    "Metaphysical supply store",
+    "Souvenir store",
+    "Women's clothing store"
+  ],
+  "address": "411 S Mill Ave #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4260472,
+  "lng": -111.9398058,
+  "phone": "+14807952114",
+  "website": "http://www.hennashoppe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Henna+Shoppe/data=!4m7!3m6!1s0x872b08d80450ce63:0xaf917593dd8592e7!8m2!3d33.4260472!4d-111.9398058!16s%2Fg%2F12hl6w3bj!19sChIJY85QBNgIK4cR55KF3ZN1ka8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12651022106197594855",
+  "placeId": "ChIJY85QBNgIK4cR55KF3ZN1ka8",
+  "googleRating": 4.5,
+  "googleReviewCount": 192,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmpQySaRQKqNpUeee2zdaorKtJsE4KlQgMmFvfJvE-PisP_TIVL2keEZx19qyvM2mX_ggVaSXkVaIl4oMPIH673LZeIsg155YNBibYsn9UOi-asZq9mVoiARGpTGHkKSVtxn8b=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 4,
+    "3": 4,
+    "4": 23,
+    "5": 149
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

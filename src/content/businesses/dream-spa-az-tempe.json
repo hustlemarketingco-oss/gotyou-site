@@ -1,0 +1,42 @@
+{
+  "slug": "dream-spa-az-tempe",
+  "name": "Dream Spa AZ",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "227 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777584,
+  "lng": -111.9359006,
+  "phone": "+14805774527",
+  "website": "https://www.dreamspa-az.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dream+Spa+AZ/data=!4m7!3m6!1s0x872b07617fd1ba5f:0xb8a05bde54808b6b!8m2!3d33.3777584!4d-111.9359006!16s%2Fg%2F11lmzzw8c1!19sChIJX7rRf2EHK4cRa4uAVN5boLg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13303734309711022955",
+  "placeId": "ChIJX7rRf2EHK4cRa4uAVN5boLg",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWHDHFtFQuFAQmQc1074VudfMbcH4tAIrhizUxw9AAo0TvoJSSAPR_tZ_3PwA6wGq1zAQ0gvVNYWO5gpEI-ff4R27ffBVTtdDcN5VHT14REDtPq8QXLGPh8oo8CAV3KXjZK7Dx5wiKYVVD=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:30 PM",
+    "wed": "10:00 AM - 7:30 PM",
+    "thu": "10:00 AM - 7:30 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

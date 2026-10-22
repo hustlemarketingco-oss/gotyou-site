@@ -20,7 +20,7 @@
   "website": "https://www.chick-fil-a.com/locations/az/university-at-mill",
   "placeId": "ChIJAed5XNcIK4cRj2d4gurY5Uo",
   "googleRating": 4.2,
-  "googleReviewCount": 3434,
+  "googleReviewCount": 3472,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 12:00 AM",
@@ -37,5 +37,22 @@
   "groundgameId": "6a2c1b197a052f1d0959633f",
   "seededAt": "2026-06-12T14:43:37Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5396958230196283279",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chick-fil-A/data=!4m7!3m6!1s0x872b08d75c79e701:0x4ae5d8ea8278678f!8m2!3d33.4216633!4d-111.9408895!16s%2Fg%2F1yg6ngnj5!19sChIJAed5XNcIK4cRj2d4gurY5Uo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 340,
+    "2": 112,
+    "3": 232,
+    "4": 651,
+    "5": 2137
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGeSbmYuE5vt2GJZGrku6fc9rXii7u9OVbmI5JANLXgH41Byv4Ea-nujy97pXeVJCpm0d9OLZOshSHoFFnJULUztYpb4eW2YSXuTfDqQPEmGsFqoMhOgsIwYHQqVAvUsq-01k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

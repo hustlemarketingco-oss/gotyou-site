@@ -2,7 +2,7 @@
   "slug": "aunt-chiladas-tempe",
   "name": "Aunt Chilada's Tempe",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Mexican restaurant",
   "secondaryCategories": [
     "Wedding venue",
     "Event venue"
@@ -17,7 +17,7 @@
   "website": "https://www.auntchiladastempe.com/",
   "placeId": "ChIJ850iWF8PK4cRGUCmypLfO6w",
   "googleRating": 4,
-  "googleReviewCount": 2566,
+  "googleReviewCount": 2596,
   "priceRange": "$$",
   "hours": {
     "mon": "4:00 PM - 9:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a281266dcfc4126dde4a2a0",
   "seededAt": "2026-06-09T13:17:26Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "12410759019707645977",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aunt+Chilada%27s+Tempe/data=!4m7!3m6!1s0x872b0f5f58229df3:0xac3bdf92caa64019!8m2!3d33.3777199!4d-111.9709549!16s%2Fg%2F1tdv_brw!19sChIJ850iWF8PK4cRGUCmypLfO6w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 208,
+    "2": 153,
+    "3": 326,
+    "4": 596,
+    "5": 1313
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9Rd0Ji_s_g9Co1t71HDfxxFlHsKOFR7ZAxJCfr-EqG4JBJ06x0_aFF3x1TE9EjrcIayILj0K-w9aW90aUAZOZbHAL652tJFmrX26EROpTrEXGx9gKj66KgJbhyLESH_p6k0dccg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

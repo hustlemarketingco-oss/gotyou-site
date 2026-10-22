@@ -1,0 +1,50 @@
+{
+  "slug": "fallout-games-tempe",
+  "name": "Fallout Games",
+  "category": "Shopping",
+  "googleCategory": "Video game store",
+  "secondaryCategories": [
+    "Toy store"
+  ],
+  "address": "1807 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922561,
+  "lng": -111.9079847,
+  "phone": "+14808381782",
+  "website": "http://www.falloutgames.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fallout+Games/data=!4m7!3m6!1s0x872b0880e502ac71:0x4307b8b0975af883!8m2!3d33.3922561!4d-111.9079847!16s%2Fg%2F1tdmqj2_!19sChIJcawC5YAIK4cRg_hal7C4B0M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4830032193971222659",
+  "placeId": "ChIJcawC5YAIK4cRg_hal7C4B0M",
+  "googleRating": 4.5,
+  "googleReviewCount": 949,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNB7YSWIzP0n1H9Bq9c_Q44KJ9KehRf2H0pVty4-ZPfFQ0QTLJ_w50eu-nwXtMK02wMHdH_6Y4ldwZdw5F0hOsY_qZArJVTlOfpjqmkD60lncF8d80qMY8n0PZ1y0UaZUXIrY2=w1200-h800-k-no",
+  "description": "Outpost of a local chain known for its large selection of used video games, consoles & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 55,
+    "2": 23,
+    "3": 43,
+    "4": 110,
+    "5": 718
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "beauty-by-andrea-tempe",
+  "name": "Beauty By Andrea",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "9020 S McClintock Dr #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3325998,
+  "lng": -111.91193369999999,
+  "phone": "+14802041407",
+  "website": "https://www.beautybyandreasalon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Beauty+By+Andrea/data=!4m7!3m6!1s0x872b06e4605b6c55:0x7e1428639707efe0!8m2!3d33.3325998!4d-111.9119337!16s%2Fg%2F119vsmgkb!19sChIJVWxbYOQGK4cR4O8Hl2MoFH4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9084930756513886176",
+  "placeId": "ChIJVWxbYOQGK4cR4O8Hl2MoFH4",
+  "googleRating": 5,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCgCUNx2R5R_-LZ0_3wZWJ_1eCTjRi67GgdEyxzNdr2SsfVWJLKpVz4_fFTBWbrLKwbXFAo9bGnN5adWD5pISisvWPdPDGKghyi4hPAq2rOH1Y4JE5dwDL-H_HqOcazNdYj_PMe19uniaV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 36
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "Closed",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

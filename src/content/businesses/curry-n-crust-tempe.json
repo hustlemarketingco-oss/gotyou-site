@@ -18,13 +18,12 @@
   "website": "https://curryncrustaz.com/",
   "placeId": "ChIJrxQbLT4JK4cRcnn9QhIIerY",
   "googleRating": 4.4,
-  "googleReviewCount": 313,
+  "googleReviewCount": 343,
   "priceRange": "$$",
   "amenities": [
-    "Google Pay",
-    "Cash",
-    "Credit card",
-    "Apple Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "9:30 AM - 12:00 AM",
@@ -41,5 +40,16 @@
   "groundgameId": "6a2c63d829334b7b39a9982f",
   "seededAt": "2026-06-12T19:54:00Z",
   "updatedAt": "2026-09-14T22:10:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13148830936587925874",
+  "googleMapsUrl": "https://www.google.com/maps/place/Curry+N+Crust/data=!4m7!3m6!1s0x872b093e2d1b14af:0xb67a081242fd7972!8m2!3d33.4343872!4d-111.9255771!16s%2Fg%2F11vx57sdsw!19sChIJrxQbLT4JK4cRcnn9QhIIerY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 12,
+    "3": 15,
+    "4": 34,
+    "5": 258
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8-9YqG9iU7PI6c-JqPbBZWPrTQttH6JMZZnuDPWNbIAnFiS7IneLw-3wRkLn6e99IznOfwj4phlkBuP8HKR0dLB7sN7jEj135Etheuofk4zsKfqHlVr2DcUZC2Y6Wo--gnLj4=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

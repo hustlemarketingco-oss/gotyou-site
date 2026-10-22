@@ -1,0 +1,51 @@
+{
+  "slug": "az-all-stars-tumbling-cheer-tempe",
+  "name": "AZ All Stars Tumbling & Cheer",
+  "category": "Health & Beauty",
+  "googleCategory": "Physical fitness program",
+  "secondaryCategories": [
+    "Gym",
+    "Gymnastics center"
+  ],
+  "address": "1746 W Ruby Dr Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3410417,
+  "lng": -111.9677595,
+  "phone": "+14808311105",
+  "website": "http://www.azallstars.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AZ+All+Stars+Tumbling+%26+Cheer/data=!4m7!3m6!1s0x872b05c499985e43:0x4f74a45ea6358b78!8m2!3d33.3410417!4d-111.9677595!16s%2Fg%2F1tf3zv07!19sChIJQ16YmcQFK4cReIs1pl6kdE8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5725381752717151096",
+  "placeId": "ChIJQ16YmcQFK4cReIs1pl6kdE8",
+  "googleRating": 4.7,
+  "googleReviewCount": 41,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8gPTwQZTeRipFt2_0i_phZu_lHfwNCj9rp8ESSQfZrksZyTt4ft3J8n_Jrew1GUlkr5SDc69fabaE752nfkGBUXzrG4xbN6I6GX8ArihSfw5U5rQvSP4FmOrD8aIIRuDLfEBv=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 2,
+    "5": 36
+  },
+  "hours": {
+    "mon": "4:00 PM - 8:00 PM",
+    "tue": "4:00 PM - 8:00 PM",
+    "wed": "4:00 PM - 8:00 PM",
+    "thu": "4:00 PM - 8:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

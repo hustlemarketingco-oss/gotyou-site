@@ -1,0 +1,52 @@
+{
+  "slug": "planet-fitness-3122-tempe",
+  "name": "Planet Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Spa",
+    "Tanning salon"
+  ],
+  "address": "3122 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3960332,
+  "lng": -111.91032709999999,
+  "phone": "+14803614200",
+  "website": "https://www.planetfitness.com/gyms/tempe-east-az?utm_medium=organic&utm_source=extnet",
+  "googleMapsUrl": "https://www.google.com/maps/place/Planet+Fitness/data=!4m7!3m6!1s0x872b0886b85c9727:0x5773b1470626c696!8m2!3d33.3960332!4d-111.9103271!16s%2Fg%2F11b60tf4th!19sChIJJ5dcuIYIK4cRlsYmBkexc1c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6301575222225454742",
+  "placeId": "ChIJJ5dcuIYIK4cRlsYmBkexc1c",
+  "googleRating": 4.3,
+  "googleReviewCount": 906,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTZymJg3YSuQAQ1Op0hvrgMatbdb6hNCeb8Vt2BrUT-ba0sz3vg0WVImD7RexVUkcbp1jTprm4ZIbewtv96Kin0NDwzem9iHk4uNnUT72s1-UCLYAOMzW4AWOAZFp0Hzf3Thw8KeglT_OY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 90,
+    "2": 32,
+    "3": 43,
+    "4": 136,
+    "5": 605
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "12:00 AM - 10:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

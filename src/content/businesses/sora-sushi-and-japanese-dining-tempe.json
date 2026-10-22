@@ -1,0 +1,43 @@
+{
+  "slug": "sora-sushi-and-japanese-dining-tempe",
+  "name": "Sora Sushi and Japanese dining",
+  "category": "Asian & Pacific",
+  "googleCategory": "Asian restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant",
+    "Sushi restaurant"
+  ],
+  "address": "780 W Elliot Rd Ste 104 Suite 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3495883,
+  "lng": -111.94978049999999,
+  "phone": "+14808381767",
+  "website": "https://sorasushius.com/?utm_source=google",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sora+Sushi+and+Japanese+dining/data=!4m7!3m6!1s0x872b07f3ad9c9711:0xffd30c14059c7b57!8m2!3d33.3495883!4d-111.9497805!16s%2Fg%2F11zdh48rhg!19sChIJEZecrfMHK4cRV3ucBRQM0_8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18434090979890592599",
+  "placeId": "ChIJEZecrfMHK4cRV3ucBRQM0_8",
+  "googleRating": 5,
+  "googleReviewCount": 22,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyR0KVfXOjm4daJnEOFqZUTpJMciYCVaZgIFvlRMHgF7ko7agjZy9EIcsKyucKnemlLtbI6LFiSU8mp1E1cFrD5er7sn5TJvGIR1Eaa6YC18genUKR0SWkltsGRN9xAMbOjJtRFj0Yr0BG=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 21
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:30 PM",
+    "tue": "11:00 AM - 9:30 PM",
+    "wed": "11:00 AM - 9:30 PM",
+    "thu": "11:00 AM - 9:30 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

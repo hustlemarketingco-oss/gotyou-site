@@ -1,0 +1,49 @@
+{
+  "slug": "rare-essence-studio-tempe",
+  "name": "Rare Essence Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon"
+  ],
+  "address": "818 W Broadway Rd #103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4077572,
+  "lng": -111.9507771,
+  "phone": "+14809672766",
+  "website": "http://www.rareessencestudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rare+Essence+Studio/data=!4m7!3m6!1s0x872b08cb5dfd4853:0x9bfdfdecc2015b0d!8m2!3d33.4077572!4d-111.9507771!16s%2Fg%2F1264775xw!19sChIJU0j9XcsIK4cRDVsBwuz9_Zs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11240419438295603981",
+  "placeId": "ChIJU0j9XcsIK4cRDVsBwuz9_Zs",
+  "googleRating": 4.6,
+  "googleReviewCount": 122,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdm4YLWMG3hM7yN7MGvyqTzdHxZC3oVUuwBlzBXGSHVAV6F86uXYjjD9z3a3O3NcCrIo6FyWUzrnUGe6edFQxMwCZxG9oZyPHYlUH8HYLnAAvBWCnsxA_ZitEkTGVopc1HwOt7W=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 1,
+    "4": 7,
+    "5": 105
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

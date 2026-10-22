@@ -11,17 +11,17 @@
   "lng": -111.9553071,
   "phone": "+14806874732",
   "website": "http://www.thechennaicafeaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4740276122505209496",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chennai+Cafe/data=!4m7!3m6!1s0x872b0f854347e6af:0x41c8d804b3306698!8m2!3d33.4424154!4d-111.9553071!16s%2Fg%2F11k4wp6n5_!19sChIJr-ZHQ4UPK4cRmGYwswTYyEE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4740276122505209496",
   "placeId": "ChIJr-ZHQ4UPK4cRmGYwswTYyEE",
   "googleRating": 4.4,
-  "googleReviewCount": 694,
+  "googleReviewCount": 740,
   "description": "Located in Tempe, Chennai Cafe is a indian restaurant.",
   "amenities": [
-    "Credit card",
-    "Apple Pay",
-    "Cash",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
@@ -38,5 +38,14 @@
   "groundgameId": "6a24377ad3c8b01d5c223c7c",
   "seededAt": "2026-06-06T15:06:34Z",
   "updatedAt": "2026-08-04T20:01:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 27,
+    "3": 41,
+    "4": 95,
+    "5": 529
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNYKxfPIBoGVMNd-wdf-jbtC9ageZoUgrIGkvW7xcgGRYhqCmDxWa4dfiXbRAU-luHD3OSTZ0s5jF8iVuuCIkUoUlaaWo60RdFjidqcs8PiT_nHqCYNadkm-vzKFoQ-x7gVs8=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

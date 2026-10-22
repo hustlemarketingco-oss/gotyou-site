@@ -1,0 +1,43 @@
+{
+  "slug": "soul-salon-spa-tempe",
+  "name": "Soul Salon & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1425 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3919788,
+  "lng": -111.96266709999999,
+  "phone": "+14064783289",
+  "website": "https://www.soul-salon-spa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Soul+Salon+%26+Spa/data=!4m7!3m6!1s0x872b0fb74f066dc9:0x7a06065f5ad9e801!8m2!3d33.3919788!4d-111.9626671!16s%2Fg%2F11nx5d0cn5!19sChIJyW0GT7cPK4cRAejZWl8GBno?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8792722329103362049",
+  "placeId": "ChIJyW0GT7cPK4cRAejZWl8GBno",
+  "googleRating": 5,
+  "googleReviewCount": 49,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc68y0sRH8F32_z94DnmfdvjeRItrYJFcwiHKofkXkitwxcdz0VICnP9cWYrX6Lf3lzhKawDWHY-d6QaIxpCS1brLzhD4ZA1Ns4KdkAprRTUFG8nfmnKP_y2jkG5nLnfO2rQYHKHw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 49
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

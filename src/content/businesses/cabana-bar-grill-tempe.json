@@ -11,7 +11,7 @@
   "lng": -111.9388799,
   "phone": "+14803171556",
   "website": "https://www.destinationhotels.com/tempe-mission-palms/dining/restaurants-tempe-az?src=agn_sabre_prop_seo_phxdt_gmb",
-  "googleMapsUrl": "https://www.google.com/maps?cid=146938883716109249",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cabana+Bar+%26+Grill/data=!4m7!3m6!1s0x872b097894432bc5:0x20a0822df9753c1!8m2!3d33.4260667!4d-111.9388799!16s%2Fg%2F11g1svp9zj!19sChIJxStDlHgJK4cRwVOX3yIICgI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "146938883716109249",
   "placeId": "ChIJxStDlHgJK4cRwVOX3yIICgI",
   "googleRating": 2.6,
@@ -42,5 +42,11 @@
   "groundgameId": "6a243888fcdf834e3f8bc076",
   "seededAt": "2026-06-06T15:11:04Z",
   "updatedAt": "2026-06-06T15:11:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 2
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NjVuVpivYJuHH7YgGXnLqA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=345.9683&pitch=0&thumbfov=100",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "walgreens-925-tempe",
+  "name": "Walgreens",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Contact lenses supplier",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Perfume store",
+    "Stationery store",
+    "Vitamin & supplements store"
+  ],
+  "address": "925 W Baseline Rd Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3776556,
+  "lng": -111.9533251,
+  "phone": "+14808201990",
+  "website": "https://www.walgreens.com/locator/walgreens-925+w+baseline+rd-tempe-az-85283/id=2398",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walgreens/data=!4m7!3m6!1s0x872b05fe31b42877:0x90c02f658677e1b2!8m2!3d33.3776556!4d-111.9533251!16s%2Fg%2F1tdb04bf!19sChIJdyi0Mf4FK4cRsuF3hmUvwJA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10430388850084274610",
+  "placeId": "ChIJdyi0Mf4FK4cRsuF3hmUvwJA",
+  "googleRating": 3.2,
+  "googleReviewCount": 153,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoPTgH_ga6Iihe9LmEruQReoxkTTg8WyHurXwyxfnTXUx1C9I7Oo8dfT2pNcAR72gk0FiqTF5KeK6wtEYs45py4y_NNKqcQEozEfYT6KP9IQWs-M00l1C-10LQ9c4fqlAmZRCM=w1200-h800-k-no",
+  "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 51,
+    "2": 9,
+    "3": 13,
+    "4": 11,
+    "5": 69
+  },
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

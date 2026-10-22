@@ -1,0 +1,39 @@
+{
+  "slug": "signatures-in-hair-tempe",
+  "name": "Signatures In Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon"
+  ],
+  "address": "1840 E Warner Rd #129",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335755,
+  "lng": -111.90847079999999,
+  "phone": "+14803450047",
+  "googleMapsUrl": "https://www.google.com/maps/place/Signatures+In+Hair/data=!4m7!3m6!1s0x872b06e329416789:0x8b5045d8f3304baf!8m2!3d33.335755!4d-111.9084708!16s%2Fg%2F1vtqwkp9!19sChIJiWdBKeMGK4cRr0sw89hFUIs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10038600367504116655",
+  "placeId": "ChIJiWdBKeMGK4cRr0sw89hFUIs",
+  "googleRating": 4.6,
+  "googleReviewCount": 27,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Mrq_CFE5b2tDF5Q7ISj3g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=346.7486&pitch=0.48299718&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "4": 4,
+    "5": 21
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

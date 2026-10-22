@@ -1,0 +1,53 @@
+{
+  "slug": "cobblestone-auto-spa-tempe",
+  "name": "Cobblestone Auto Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Car wash",
+  "secondaryCategories": [
+    "Car detailing service",
+    "Convenience store",
+    "Gas station"
+  ],
+  "address": "616 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3787223,
+  "lng": -111.9464611,
+  "phone": "+16232832323",
+  "website": "https://cobblestone.com/location/w-baseline/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cobblestone+Auto+Spa/data=!4m7!3m6!1s0x872b0603ddb32b81:0xf5f8b306fb4eed1f!8m2!3d33.3787223!4d-111.9464611!16s%2Fg%2F1q62g6c4n!19sChIJgSuz3QMGK4cRH-1O-waz-PU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17724113176084016415",
+  "placeId": "ChIJgSuz3QMGK4cRH-1O-waz-PU",
+  "googleRating": 4.3,
+  "googleReviewCount": 1424,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWiE8xOrBt8vGOl9OylCZVf1XfvZyANWb4cQ_qMaFCvZC8eKLfZPeNoZDy-NFe1IwD_KFM8uNM5QGqhSjmak1IwGYdgRiHi5c91_63bKhCl4SPLeOMObmzvm_j1kGhclo51y9gbQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 184,
+    "2": 43,
+    "3": 26,
+    "4": 31,
+    "5": 1140
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

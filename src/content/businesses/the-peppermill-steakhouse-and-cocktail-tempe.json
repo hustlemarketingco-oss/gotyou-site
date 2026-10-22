@@ -11,31 +11,18 @@
   "lng": -111.9115759,
   "phone": "+14805906755",
   "website": "http://www.peppermillaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=775413531122847481",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Peppermill:+Steakhouse+and+Cocktail/data=!4m7!3m6!1s0x872b07827e51d593:0xac2d27f8c9bcef9!8m2!3d33.3480068!4d-111.9118767!16s%2Fg%2F11fr17fg3z!19sChIJk9VRfoIHK4cR-c6bjH_Swgo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "775413531122847481",
   "placeId": "ChIJk9VRfoIHK4cR-c6bjH_Swgo",
   "googleRating": 4.5,
-  "googleReviewCount": 566,
+  "googleReviewCount": 596,
   "priceRange": "$30–70",
   "description": "Easygoing operation offering classic steaks, burgers & salads, plus cocktails & wine.",
   "amenities": [
-    "Curbside pickup",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Romantic",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/peppermillaz"
@@ -55,5 +42,14 @@
   "groundgameId": "6a2437daa4bcb764256044e4",
   "seededAt": "2026-06-06T15:08:10Z",
   "updatedAt": "2026-06-06T15:08:10Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 22,
+    "3": 27,
+    "4": 53,
+    "5": 461
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAFmQQLBGzdohEeT5hRi9ZSQreizT7v016vvohtnkq12ODBtv1hwFpokAqMUhN3v_sCClOxDICvltPvNFUkuN5K_ggY_oH2lpPYG6vnEAuIuBobIayc7-vashtKUkDb1_anpCz2Q=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

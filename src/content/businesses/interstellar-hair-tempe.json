@@ -1,0 +1,43 @@
+{
+  "slug": "interstellar-hair-tempe",
+  "name": "Interstellar Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "2039 S Mill Ave suite c room 26",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061939,
+  "lng": -111.93942899999999,
+  "phone": "+16236871064",
+  "website": "https://interstellarhairlounge.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Interstellar+Hair/data=!4m7!3m6!1s0x872b09db279e1339:0xb52a2eab454cf8b6!8m2!3d33.4061939!4d-111.939429!16s%2Fg%2F11vl0fcphc!19sChIJOROeJ9sJK4cRtvhMRasuKrU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13054297783023761590",
+  "placeId": "ChIJOROeJ9sJK4cRtvhMRasuKrU",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN4TOBmx3BtgnYP-ESj44yCUZalm1ong7LtL-70biISQOgQJ-6Aazfrsjb1EVqxcQlAHeYPFMv4PbdhsqHG2ZBCVmGYvX6q14ymZHKwiBZSUAQb8s2c7uhqdD0OkgbqtDHuk4-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 9
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "sams-club-cafe-tempe",
+  "name": "Sam's Club Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Cafe",
+  "secondaryCategories": [
+    "Snack bar"
+  ],
+  "address": "2080 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4311785,
+  "lng": -111.900145,
+  "phone": "+14806061805",
+  "website": "https://www.samsclub.com/club/4956-tempe-az?CAF=aL",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sam%27s+Club+Cafe/data=!4m7!3m6!1s0x872b097f196c7c83:0xa841a7e753f896e9!8m2!3d33.4311785!4d-111.900145!16s%2Fg%2F11xgrf5v57!19sChIJg3xsGX8JK4cR6Zb4U-enQag?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12124156283846170345",
+  "placeId": "ChIJg3xsGX8JK4cR6Zb4U-enQag",
+  "googleRating": 3.1,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTMJL0hIjTrk77uskCbMilRKUAkYxDGGYGff1EPd-NHVUqh8rvzTwQfK-0gXVJ1NWQx1SY2Zhjzab8WZqF0FcboItqKTCZTH4pMZSX913xK7SG1aojxLb73MwHsI7wbzQrVqfwOLOU7cJu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 3,
+    "4": 2,
+    "5": 5
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

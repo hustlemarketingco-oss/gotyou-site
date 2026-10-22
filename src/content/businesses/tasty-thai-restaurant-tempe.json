@@ -21,38 +21,18 @@
   "lng": -111.9467011,
   "phone": "+14805579999",
   "website": "https://order.torchfi.net/tastythaiaz",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15348227225824157635",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tasty+Thai+Restaurant/data=!4m7!3m6!1s0x872b08cbe73591df:0xd4ffdb57ef3a5fc3!8m2!3d33.4075426!4d-111.9467011!16s%2Fg%2F11f1xzx0w8!19sChIJ35E158sIK4cRw18671fb_9Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15348227225824157635",
   "placeId": "ChIJ35E158sIK4cRw18671fb_9Q",
   "googleRating": 4.5,
-  "googleReviewCount": 602,
+  "googleReviewCount": 639,
   "priceRange": "$20–30",
   "description": "Spicy curries, noodles & other Thai classics offered in a low-key, snug space with counter seating.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Healthy options",
-    "Organic dishes",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/TastyThaiTempeAZ"
@@ -72,5 +52,14 @@
   "groundgameId": "6a24380910be15c6b947b6d4",
   "seededAt": "2026-06-06T15:08:57Z",
   "updatedAt": "2026-07-23T19:16:37Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 17,
+    "3": 28,
+    "4": 90,
+    "5": 470
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl3LYNJiNynYRfQA_ejQLRo-7aKkMMCv38EIaOGW0yEihxmKdgIn-MKi_NZa30DjKxvVWGLq8bQQHj5NZNcxHn-Mra0c1y9KQ_Sk9jbUC8pks7NMucnr4hfm7iAuBgBx5AtX3pxA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

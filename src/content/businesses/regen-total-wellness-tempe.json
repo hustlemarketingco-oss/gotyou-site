@@ -1,0 +1,46 @@
+{
+  "slug": "regen-total-wellness-tempe",
+  "name": "ReGen Total Wellness",
+  "category": "Shopping",
+  "googleCategory": "Sauna store",
+  "secondaryCategories": [
+    "Home goods store",
+    "Hot tub store"
+  ],
+  "address": "1320 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.414038399999995,
+  "lng": -111.9615147,
+  "phone": "+16023450391",
+  "website": "https://regentotalwellness.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ReGen+Total+Wellness/data=!4m7!3m6!1s0x2ec35b5f0a3a25d9:0x883fc6e69e964263!8m2!3d33.4140384!4d-111.9615147!16s%2Fg%2F11w_w8ng3x!19sChIJ2SU6Cl9bwy4RY0KWnubGP4g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9817784406496395875",
+  "placeId": "ChIJ2SU6Cl9bwy4RY0KWnubGP4g",
+  "googleRating": 5,
+  "googleReviewCount": 23,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1q6w0gsU65Vk7GhRt30XfbCLRKQADvaUTJ0h4GqkURVsRlgwKOoxVoV__n1TvNcNyoqnf8w6QpADYPGlB9oFBolHm1yzgZnvOr2h1j-K_NHNh_X6y7emP4eu5KZRHe5VJQIFiXykrZ48=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 23
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

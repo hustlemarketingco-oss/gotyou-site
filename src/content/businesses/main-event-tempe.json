@@ -2,7 +2,7 @@
   "slug": "main-event-tempe",
   "name": "Main Event Tempe",
   "category": "Fun & Activities",
-  "googleCategory": "Video arcade",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Bowling alley",
     "Children's party service",
@@ -17,33 +17,18 @@
   "lng": -111.9674006,
   "phone": "+14807531200",
   "website": "http://www.mainevent.com/locations/arizona/tempe",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3811411622178510185",
+  "googleMapsUrl": "https://www.google.com/maps/place/Main+Event+Tempe/data=!4m7!3m6!1s0x872b05ccd8b6c5b1:0x34e4daad38bed569!8m2!3d33.337249!4d-111.9674006!16s%2Fg%2F1ptz81_4l!19sChIJscW22MwFK4cRadW-OK3a5DQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3811411622178510185",
   "placeId": "ChIJscW22MwFK4cRadW-OK3a5DQ",
   "googleRating": 4.3,
-  "googleReviewCount": 6402,
+  "googleReviewCount": 6486,
   "priceRange": "$10–60",
   "description": "Located in Tempe, Main Event Tempe is a casual, trendy restaurant & bowling alley with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -51,5 +36,23 @@
   "groundgameId": "6a2437a6ce7cb85d6083b780",
   "seededAt": "2026-06-06T15:07:18Z",
   "updatedAt": "2026-06-08T04:32:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 399,
+    "2": 220,
+    "3": 544,
+    "4": 1302,
+    "5": 4021
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc4r2ANz0mIXUB4fUB9QRdH_rkdoASJmd-AxiRk5hiclnWlfYCfWby7vet4TaLNNZjy1S_FSiirIqBj9znnvTRFZ4Nfsgb2--_ZPlf87H24e8mc_OWl-O2TqnsoSmsOKM7btMoJQ=w1200-h800-k-no",
+  "hours": {
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 12:00 AM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

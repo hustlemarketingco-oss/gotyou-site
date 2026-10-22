@@ -19,7 +19,7 @@
   "website": "https://eatatovereasy.com/locations/tempe-asu/",
   "placeId": "ChIJEeWouwcJK4cRQtvPeJ-WpGo",
   "googleRating": 4.5,
-  "googleReviewCount": 162,
+  "googleReviewCount": 195,
   "priceRange": "$$",
   "hours": {
     "mon": "6:30 AM - 2:00 PM",
@@ -36,5 +36,22 @@
   "groundgameId": "6a3039f468b13e00f6f35a28",
   "seededAt": "2026-06-15T17:44:20Z",
   "updatedAt": "2026-06-15T17:53:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7684432475871763266",
+  "googleMapsUrl": "https://www.google.com/maps/place/Over+Easy/data=!4m7!3m6!1s0x872b0907bba8e511:0x6aa4969f78cfdb42!8m2!3d33.42344!4d-111.9276574!16s%2Fg%2F11y464r1cv!19sChIJEeWouwcJK4cRQtvPeJ-WpGo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 5,
+    "3": 10,
+    "4": 15,
+    "5": 154
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmP0wfpAXpi9n-D5142PfGzH_fmfwNAy1V7KjzRM_nx-lo90ttNfUF9oAZgm_znPngRkY0IKH6oPFNNqlk_M3_6nYIWlpF6BXilbtKisTSCUee2iW30EgpqwL-k-Z0D_slLf90=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

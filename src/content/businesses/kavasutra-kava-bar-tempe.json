@@ -11,19 +11,9 @@
   "priceRange": "$10–20",
   "description": "Located in Tempe, Kavasutra Kava Bar - Tempe is a casual, cozy lounge bar with alcohol & dancing, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/kavasutrakava"
@@ -34,5 +24,31 @@
   "groundgameId": "6a2438abb43d6a515a349dcf",
   "seededAt": "2026-06-06T15:11:39Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJR5VcLkcPK4cRJHUzKQ1MjKE",
+  "googleCid": "11640762756255413540",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kavasutra+Kava+Bar/data=!4m7!3m6!1s0x872b0f472e5c9547:0xa18c4c0d29337524!8m2!3d33.4071144!4d-111.965089!16s%2Fg%2F11t6gj5mrr!19sChIJR5VcLkcPK4cRJHUzKQ1MjKE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.9,
+  "googleReviewCount": 70,
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 1,
+    "3": 4,
+    "4": 5,
+    "5": 45
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaSXZu-CcuW3ZXzX5SCfeQeBCQXRkp4_-RotS4XE5RhG9TcJUwXOBAeCB3de7w5AneX5ioK5iGluValsgRxeFORTQPOLhbpDBIP0Nvgv8y4F3ItZe40F8xLVcvvyCdFKJIB9eU=w1200-h800-k-no",
+  "website": "https://kavasutra.com/locations/tempe/",
+  "hours": {
+    "mon": "8:00 AM - 2:00 AM",
+    "tue": "8:00 AM - 2:00 AM",
+    "wed": "8:00 AM - 2:00 AM",
+    "thu": "8:00 AM - 2:00 AM",
+    "fri": "8:00 AM - 2:00 AM",
+    "sat": "8:00 AM - 2:00 AM",
+    "sun": "8:00 AM - 2:00 AM"
+  },
+  "lat": 33.4071144,
+  "lng": -111.96508899999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

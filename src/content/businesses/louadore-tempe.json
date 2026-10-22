@@ -1,0 +1,37 @@
+{
+  "slug": "louadore-tempe",
+  "name": "Louadore",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "126 W Loma Vista Dr Apt 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4013317,
+  "lng": -111.9428793,
+  "phone": "+17026006681",
+  "website": "http://louadore.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Louadore/data=!4m7!3m6!1s0x872b093117b181ff:0x6a47d7810c44f236!8m2!3d33.4013317!4d-111.9428793!16s%2Fg%2F11w24bmm_z!19sChIJ_4GxFzEJK4cRNvJEDIHXR2o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7658326640623415862",
+  "placeId": "ChIJ_4GxFzEJK4cRNvJEDIHXR2o",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WW0_TIXhLM5HzSsA_4xAmQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=339.9912&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

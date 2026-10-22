@@ -1,0 +1,54 @@
+{
+  "slug": "ross-dress-for-less-1140-tempe",
+  "name": "Ross Dress for Less",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Department store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "1140 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3506492,
+  "lng": -111.9568678,
+  "phone": "+14807552181",
+  "website": "https://www.rossstores.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ross+Dress+for+Less/data=!4m7!3m6!1s0x872b05d9c39364d7:0x8c7453a5a346128b!8m2!3d33.3506492!4d-111.9568678!16s%2Fg%2F113f6l3lk!19sChIJ12STw9kFK4cRixJGo6VTdIw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10120806233482334859",
+  "placeId": "ChIJ12STw9kFK4cRixJGo6VTdIw",
+  "googleRating": 4.2,
+  "googleReviewCount": 643,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSr12w9jgu76GmaImSucDSjA8jOJ_9cdGf1U7Rg4Okjc4DQs8KurpQ1M6UpaHWiWxV1Pb2S40WXWYP2OCgO36U8CxV86priJdXQM5ffbKJI6rwheX4XdVnVNdFNvaPMfOLUqRaYw=w1200-h800-k-no",
+  "description": "Retail chain selling brand-name clothing, shoes, accessories & housewares at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 37,
+    "2": 26,
+    "3": 78,
+    "4": 160,
+    "5": 342
+  },
+  "hours": {
+    "mon": "9:30 AM - 9:30 PM",
+    "tue": "9:30 AM - 9:30 PM",
+    "wed": "9:30 AM - 9:30 PM",
+    "thu": "9:30 AM - 9:30 PM",
+    "fri": "8:30 AM - 10:30 PM",
+    "sat": "8:30 AM - 10:30 PM",
+    "sun": "9:00 AM - 10:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

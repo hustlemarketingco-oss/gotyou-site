@@ -16,7 +16,7 @@
   "website": "https://elgordomexicangrill.com/",
   "placeId": "ChIJB19HtrMJK4cRvHhzUIAyNHI",
   "googleRating": 4.1,
-  "googleReviewCount": 338,
+  "googleReviewCount": 365,
   "priceRange": "$$",
   "hours": {
     "mon": "6:00 AM - 10:45 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a5142ab990e7bc5bf72ee7f",
   "seededAt": "2026-07-10T19:06:19Z",
   "updatedAt": "2026-07-13T19:02:54Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8229257945799686332",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Gordo+Mexican+Grill/data=!4m7!3m6!1s0x872b09b3b6475f07:0x72343280507378bc!8m2!3d33.421568!4d-111.909537!16s%2Fg%2F11rn56x0dg!19sChIJB19HtrMJK4cRvHhzUIAyNHI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 15,
+    "3": 21,
+    "4": 41,
+    "5": 238
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv2XZZ1rtYasg4uGtZBO1ys-HWGIEIvEwMiaiJs7Z6WLIcdgNGZb4e4xTIWZqMLGv_sHylwqAYjlK3ngEyxuMtgK57wlQpMJIkqZDoUTF3aSkUrS2pC0SE97zuTWBZZPxkX41u=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

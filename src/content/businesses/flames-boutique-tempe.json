@@ -1,0 +1,42 @@
+{
+  "slug": "flames-boutique-tempe",
+  "name": "Flames Boutique",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1446 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4455136,
+  "lng": -111.92695909999999,
+  "phone": "+14805888985",
+  "website": "http://www.flamesaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Flames+Boutique/data=!4m7!3m6!1s0x872b092a75d9c7bd:0x5b642df060878878!8m2!3d33.4455136!4d-111.9269591!16s%2Fg%2F11t27wg0dh!19sChIJvcfZdSoJK4cReIiHYPAtZFs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6585439065557403768",
+  "placeId": "ChIJvcfZdSoJK4cReIiHYPAtZFs",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeitVj7_u0RmixIUwN-SBpx8plwzyTbAiomuanjdwguPCoRDCxISNx5VFZUnk8axw27iTS6-d_y68Ulrh62EadGP-8EW-DENUQKMGSkaxYrybxPoZhKAJVfumThKcevbXyktJIc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

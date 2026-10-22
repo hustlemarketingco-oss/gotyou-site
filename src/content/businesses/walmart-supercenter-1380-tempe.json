@@ -1,0 +1,57 @@
+{
+  "slug": "walmart-supercenter-1380-tempe",
+  "name": "Walmart Supercenter",
+  "category": "Shopping",
+  "googleCategory": "Department store",
+  "secondaryCategories": [
+    "Bakery",
+    "Clothing store",
+    "Electronics store",
+    "Furniture store",
+    "Grocery store",
+    "Hardware store",
+    "Home goods store",
+    "Sporting goods store"
+  ],
+  "address": "1380 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.350975,
+  "lng": -111.96085079999999,
+  "phone": "+14803458686",
+  "website": "https://www.walmart.com/store/1746-tempe-az/?veh=seo_loc",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walmart+Supercenter/data=!4m7!3m6!1s0x872b05dadb10f33d:0x46a462fc25a6cdb!8m2!3d33.350975!4d-111.9608508!16s%2Fm%2F03nzxg9!19sChIJPfMQ29oFK4cR22xawi9GagQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "318143894621154523",
+  "placeId": "ChIJPfMQ29oFK4cR22xawi9GagQ",
+  "googleRating": 3.9,
+  "googleReviewCount": 8945,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchOKl3nNlXQ5SL2WkjTqVcW9suxM5fRqEHOxYU9YVZ27B2fmOmEOtzOHqN4YT3TiRFKONnwybCAw9X_arHhgIv-PpzViXyZJqHW4OQ7HH5i4G06WgqCqT8005nlSmPrv86rFCsGlgZTtN6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 900,
+    "2": 453,
+    "3": 1351,
+    "4": 2092,
+    "5": 4149
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

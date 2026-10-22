@@ -1,0 +1,46 @@
+{
+  "slug": "krispy-krunchy-chicken-tempe",
+  "name": "Krispy Krunchy Chicken",
+  "category": "Fast Food",
+  "googleCategory": "Chicken restaurant",
+  "address": "2785 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777761,
+  "lng": -111.9776874,
+  "phone": "+16024662091",
+  "website": "https://www.krispykrunchy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Krispy+Krunchy+Chicken/data=!4m7!3m6!1s0x872b0f005230d22b:0xccd024d7c54cc9a6!8m2!3d33.3777761!4d-111.9776874!16s%2Fg%2F11x_dcmf46!19sChIJK9IwUgAPK4cRpslMxdck0Mw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14758336488039827878",
+  "placeId": "ChIJK9IwUgAPK4cRpslMxdck0Mw",
+  "googleRating": 3,
+  "googleReviewCount": 4,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7Cv57KBmyDo56r9mHA_-Sdn1-88G2t4tX-_S5hFzSudqux4pBVHGvWvfLA18bomaOveg8ezQcYlpUMa6z9hkpK34xD-lp_n2nGqrDxZt5RINoU8C3T77NEgUDJ3ukuum88mDILxoTPV4t=w1200-h800-k-no",
+  "description": "Fast-food eatery specializing in Cajun-style fried chicken, plus wings, seafood, breakfast & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 2
+  },
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 3:00 PM",
+    "sun": "7:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

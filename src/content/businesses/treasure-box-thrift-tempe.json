@@ -1,0 +1,46 @@
+{
+  "slug": "treasure-box-thrift-tempe",
+  "name": "Treasure Box Thrift",
+  "category": "Shopping",
+  "googleCategory": "Thrift store",
+  "address": "3025 S 48th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.395441399999996,
+  "lng": -111.9775592,
+  "phone": "+14808814654",
+  "website": "https://treasures4teachers.org/treasure-box-thrift/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Treasure+Box+Thrift/data=!4m7!3m6!1s0x872b0f6752257ae3:0x6e9f07350d85c63e!8m2!3d33.3954414!4d-111.9775592!16s%2Fg%2F11f8m8dtnl!19sChIJ43olUmcPK4cRPsaFDTUHn24?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7971097789910599230",
+  "placeId": "ChIJ43olUmcPK4cRPsaFDTUHn24",
+  "googleRating": 4.5,
+  "googleReviewCount": 66,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNFr8g4GvLulbqnsTSawi_Dw0mn4xlM19SF1soz3X3YGSivgP3lAp0zyFcxqRple3bc0VAmWM63pb33RgY8zoTf7Jpc2WkUOo1lTU_a1C6OA-D60RXiMrkIdDp-OCmdQcIxWDUsoXkupIu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 6,
+    "3": 3,
+    "4": 3,
+    "5": 52
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

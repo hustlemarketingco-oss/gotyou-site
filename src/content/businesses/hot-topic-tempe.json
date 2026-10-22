@@ -1,0 +1,53 @@
+{
+  "slug": "hot-topic-tempe",
+  "name": "Hot Topic",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Fashion accessories store",
+    "Music store",
+    "Novelty store",
+    "T-shirt store"
+  ],
+  "address": "5000 S Arizona Mills Cir #519",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3824058,
+  "lng": -111.96517419999999,
+  "phone": "+14804562095",
+  "website": "https://www.hottopic.com/store-details?StoreId=0790",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hot+Topic/data=!4m7!3m6!1s0x872b0f59e1444903:0x1e6744424649e838!8m2!3d33.3824058!4d-111.9651742!16s%2Fg%2F11b6d4dk7z!19sChIJA0lE4VkPK4cROOhJRkJEZx4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2190794795176814648",
+  "placeId": "ChIJA0lE4VkPK4cROOhJRkJEZx4",
+  "googleRating": 4.4,
+  "googleReviewCount": 644,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLey5uLL4TITIGTuDkmlOuK7pK5llLZStdd0vzo1fjgxqoV9JSp6SvpCHSvQgl2Ojkp_79zQWpT3zJzqIvdWBa2XjN2oXSfckMtLqaXY82-mIrhkTiuHcnAzhnXFLJAr87PacNd9=w1200-h800-k-no",
+  "description": "Teen-oriented chain known for rock/pop-culture-inspired T-shirts, plus accessories & body jewelry.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 19,
+    "3": 59,
+    "4": 120,
+    "5": 420
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

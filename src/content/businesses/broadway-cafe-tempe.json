@@ -1,0 +1,36 @@
+{
+  "slug": "broadway-cafe-tempe",
+  "name": "Broadway Cafe",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Brunch restaurant",
+    "Deli",
+    "Takeout Restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "2141 E Broadway Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407996,
+  "lng": -111.8945509,
+  "phone": "+14809210400",
+  "googleMapsUrl": "https://www.google.com/maps/place/Broadway+Cafe/data=!4m7!3m6!1s0x872b0865ea91dfed:0x6f7721bb9a3f5090!8m2!3d33.407996!4d-111.8945509!16s%2Fg%2F1tqnm2m_!19sChIJ7d-R6mUIK4cRkFA_mrshd28?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8031925550069010576",
+  "placeId": "ChIJ7d-R6mUIK4cRkFA_mrshd28",
+  "googleRating": 4.4,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yoXOuyEZYzs3CAfhaUR35g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=244.2884&pitch=0&thumbfov=100",
+  "ratingBreakdown": {
+    "4": 3,
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "umi-hot-pot-sushi-seafood-buffet-tempe",
+  "name": "Umi Hot Pot Sushi & Seafood Buffet",
+  "category": "Restaurant",
+  "googleCategory": "Buffet restaurant",
+  "address": "7810 S Priest Dr #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.346554499999996,
+  "lng": -111.96493319999999,
+  "phone": "+19285174317",
+  "website": "https://umibuffetphoenix.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Umi+Hot+Pot+Sushi+%26+Seafood+Buffet/data=!4m7!3m6!1s0x872b050036806b1f:0x253766fc90853a29!8m2!3d33.3465545!4d-111.9649332!16s%2Fg%2F11ntfkrwr8!19sChIJH2uANgAFK4cRKTqFkPxmNyU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2681725338064861737",
+  "placeId": "ChIJH2uANgAFK4cRKTqFkPxmNyU",
+  "googleRating": 4.6,
+  "googleReviewCount": 1929,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFO_1hx7SVt8b3J2PefiLzuNXCahIr3m-jSQ5_QdLywTixgkuRtF5XzNWMWJY82jfFKeThAQHJLdGb9lpzUwCAgNdrFCPdKfDtAtrjnH0WKFeX3nsA26Wd1P_4n2I3MKURe77rFSJFOvmn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 60,
+    "3": 55,
+    "4": 92,
+    "5": 1620
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

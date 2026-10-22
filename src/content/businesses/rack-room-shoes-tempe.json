@@ -1,0 +1,50 @@
+{
+  "slug": "rack-room-shoes-tempe",
+  "name": "Rack Room Shoes",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Boot store"
+  ],
+  "address": "5000 S Arizona Mills Cir Spc 522",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3825886,
+  "lng": -111.96478909999999,
+  "phone": "+14807775978",
+  "website": "https://www.rackroomshoes.com/store/405?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=405",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rack+Room+Shoes/data=!4m7!3m6!1s0x872b0f59e1444903:0xc841b3b0142059e!8m2!3d33.3825886!4d-111.9647891!16s%2Fg%2F1tfg3k61!19sChIJA0lE4VkPK4cRngVCATsbhAw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "901875765619066270",
+  "placeId": "ChIJA0lE4VkPK4cRngVCATsbhAw",
+  "googleRating": 4.3,
+  "googleReviewCount": 230,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesSz1jxNmXRcmGNom0wm-09FKSzSPkNbSsWfegXsfDLLeiom95j24WF5qdzI4oaGK0egFUJLEEQl4miKurT-97XB3oxIKarpzvFdnEgNNsgxx1UyJk9thKshmGyB5Wm9S4diu6g8R7cqeN=w1200-h800-k-no",
+  "description": "Footwear chain stocking a wide range of brand-name shoes for men, women & kids, plus accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 6,
+    "3": 22,
+    "4": 56,
+    "5": 137
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "llc-171-tempe",
+  "name": "LLC 171",
+  "category": "Shopping",
+  "googleCategory": "Boutique",
+  "address": "1750 S Price Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.409346299999996,
+  "lng": -111.8923583,
+  "phone": "+14806176497",
+  "website": "http://strellaraquel.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/LLC+171/data=!4m7!3m6!1s0x872b09dd1fab6ec9:0x63dbb917c8a53dc8!8m2!3d33.4093463!4d-111.8923583!16s%2Fg%2F11rqsw5bzd!19sChIJyW6rH90JK4cRyD2lyBe522M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7195548341456158152",
+  "placeId": "ChIJyW6rH90JK4cRyD2lyBe522M",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i_p-V6qRP2oDBCiN6k70SQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=273.21033&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

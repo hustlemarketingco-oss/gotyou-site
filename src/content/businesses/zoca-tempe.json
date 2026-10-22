@@ -1,0 +1,37 @@
+{
+  "slug": "zoca-tempe",
+  "name": "Zoca",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "410 N Scottsdale Rd Ste 1000",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4334139,
+  "lng": -111.92747039999999,
+  "phone": "+12155150601",
+  "website": "https://zoca.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zoca/data=!4m7!3m6!1s0x872b093304d4e241:0x104c5a647ab4752f!8m2!3d33.4334139!4d-111.9274704!16s%2Fg%2F11xffsrvcp!19sChIJQeLUBDMJK4cRL3W0emRaTBA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1174412990438733103",
+  "placeId": "ChIJQeLUBDMJK4cRL3W0emRaTBA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ACO-QrpQZL3tnINqnfPS5w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=265.72357&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

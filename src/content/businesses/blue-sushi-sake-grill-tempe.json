@@ -15,14 +15,14 @@
   "phone": "+14809772583",
   "website": "https://www.bluesushisakegrill.com/",
   "placeId": "ChIJwZspAQsJK4cRSY_fpws0fvY",
-  "googleRating": 4.6,
-  "googleReviewCount": 431,
+  "googleRating": 4.8,
+  "googleReviewCount": 912,
   "priceRange": "$$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/BlueSushiSakeGrill/",
@@ -46,5 +46,16 @@
   "groundgameId": "6a261cba931d63cec8923629",
   "seededAt": "2026-06-08T01:36:58Z",
   "updatedAt": "2026-06-12T22:04:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17761691205061545801",
+  "googleMapsUrl": "https://www.google.com/maps/place/Blue+Sushi+Sake+Grill/data=!4m7!3m6!1s0x872b090b01299bc1:0xf67e340ba7df8f49!8m2!3d33.4237331!4d-111.9276533!16s%2Fg%2F11wvctmyp8!19sChIJwZspAQsJK4cRSY_fpws0fvY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 6,
+    "3": 15,
+    "4": 34,
+    "5": 831
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdROXxMChbkde6HoQgbZJV9f1LBnLs3kPQ2pYSKDjSa1hX1OTKuEZNZoLDrWVAj8-qaoih9HughbCM9xvdxlPGgTwA0ZuNCwKXv3IF5y156_9Jlx6XJ7GnzGwFhV9siilQKN74=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

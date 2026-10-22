@@ -1,0 +1,45 @@
+{
+  "slug": "mis-eyebrow-threading-llc-tempe",
+  "name": "MIS Eyebrow Threading LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "3117 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3947545,
+  "lng": -111.9389989,
+  "phone": "+16028202833",
+  "googleMapsUrl": "https://www.google.com/maps/place/MIS+Eyebrow+Threading+LLC/data=!4m7!3m6!1s0x872b08bab6bf28b3:0x1dd6e4e2a19840a0!8m2!3d33.3947545!4d-111.9389989!16s%2Fg%2F11ckqr9sb_!19sChIJsyi_troIK4cRoECYoeLk1h0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2150157534140842144",
+  "placeId": "ChIJsyi_troIK4cRoECYoeLk1h0",
+  "googleRating": 4.5,
+  "googleReviewCount": 133,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLek6aQ1cuc2ePtfmPPk_SSl4RtjKbj97JcokHtsYOTe8LwD_5I-gqu6E9TnFWezd2JSzhXxsHF8I58PJE4Sb9XEENhZBwqCNhmecwByeiFOn7RxngsuKcN0NVO442Yf4MwaRo4B=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 5,
+    "3": 4,
+    "4": 9,
+    "5": 105
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

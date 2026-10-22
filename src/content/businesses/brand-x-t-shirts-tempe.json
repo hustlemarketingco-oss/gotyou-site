@@ -1,0 +1,53 @@
+{
+  "slug": "brand-x-t-shirts-tempe",
+  "name": "Brand X T-Shirts",
+  "category": "Shopping",
+  "googleCategory": "Custom t-shirt store",
+  "secondaryCategories": [
+    "Digital printer",
+    "Embroidery shop",
+    "Hat shop",
+    "Screen printer",
+    "T-shirt store"
+  ],
+  "address": "815 W University Dr #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4216653,
+  "lng": -111.9507517,
+  "phone": "+14802002833",
+  "website": "http://brandxtshirts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brand+X+T-Shirts/data=!4m7!3m6!1s0x872b08d7fff6c88f:0x99b88f270a80ec44!8m2!3d33.4216653!4d-111.9507517!16s%2Fg%2F1tf71d6h!19sChIJj8j2_9cIK4cRROyACiePuJk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11076760681360452676",
+  "placeId": "ChIJj8j2_9cIK4cRROyACiePuJk",
+  "googleRating": 4.3,
+  "googleReviewCount": 91,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1MTmjhsK_lbeJ6qxZ4VJ_gWapNYMV-EDzuLhQppJ4t3mk-l2a9wWE6_HrUkxFha9nDyis3pm8oETuPpiR6u__sk_eV4ZYwpFtjoajybPBsmULwZdMzdYiCaRer1etZGJ4F_SNAw=w1200-h800-k-no",
+  "description": "Cutting-edge boutique specializing in personalized apparel also offering ready-to-wear items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "3": 2,
+    "4": 9,
+    "5": 68
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

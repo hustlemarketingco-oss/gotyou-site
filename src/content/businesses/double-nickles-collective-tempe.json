@@ -1,0 +1,44 @@
+{
+  "slug": "double-nickles-collective-tempe",
+  "name": "Double Nickles Collective",
+  "category": "Shopping",
+  "googleCategory": "Record store",
+  "address": "Danelle Plaza, 45 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3926699,
+  "lng": -111.94103299999999,
+  "phone": "+14808293741",
+  "googleMapsUrl": "https://www.google.com/maps/place/Double+Nickles+Collective/data=!4m7!3m6!1s0x872b08af94f4f96b:0x717ca53eb281bb73!8m2!3d33.3926699!4d-111.941033!16s%2Fg%2F11bv3mr84d!19sChIJa_n0lK8IK4cRc7uBsj6lfHE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8177592712099380083",
+  "placeId": "ChIJa_n0lK8IK4cRc7uBsj6lfHE",
+  "googleRating": 4.9,
+  "googleReviewCount": 71,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdykBrdGe6rCombqxJlSvRNLuwBjLkOj7KoTqg-tY1sK99DQ0JVAnvdpu911mDB53v-WAXkTQbP85DMTl59O_UklmLrHov6jrpeCZPjYhCpsr_9i1z4T9HGAK_Evuf5yaxQ3k5jNA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 2,
+    "3": 1,
+    "4": 2,
+    "5": 66
+  },
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

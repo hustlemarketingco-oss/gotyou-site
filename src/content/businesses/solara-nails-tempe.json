@@ -1,0 +1,42 @@
+{
+  "slug": "solara-nails-tempe",
+  "name": "Solara Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1805 E Elliot Rd #107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3478983,
+  "lng": -111.91047499999999,
+  "phone": "+14802489228",
+  "googleMapsUrl": "https://www.google.com/maps/place/Solara+Nails/data=!4m7!3m6!1s0x872b07e289d01faf:0x286a8c612476d999!8m2!3d33.3478983!4d-111.910475!16s%2Fg%2F11z5gry0xd!19sChIJrx_QieIHK4cRmdl2JGGMaig?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2912294457899932057",
+  "placeId": "ChIJrx_QieIHK4cRmdl2JGGMaig",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewoHN0a2eeshpcc_A5zwN_T696QjSTdNBBZTaIliuSL9Y5kAfTp16tjJKgWn4vf2mB2W2jfrNIzzPvgM9H-LpPLqBD4Sivf2yXyeZrJU3DugeA-ByQMLxc07jgNoEaKmPjfdrBnoIK3vWN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 6:30 PM",
+    "wed": "9:30 AM - 6:30 PM",
+    "thu": "9:30 AM - 6:30 PM",
+    "fri": "9:30 AM - 6:30 PM",
+    "sat": "9:30 AM - 6:30 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

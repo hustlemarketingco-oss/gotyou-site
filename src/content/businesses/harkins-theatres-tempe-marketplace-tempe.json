@@ -11,23 +11,18 @@
   "lng": -111.9014728,
   "phone": "+14805570027",
   "website": "https://harkins.com/theatres/tempe-marketplace",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11622965373960455456",
+  "googleMapsUrl": "https://www.google.com/maps/place/Harkins+Theatres+Tempe+Marketplace/data=!4m7!3m6!1s0x872b08543eea7bab:0xa14d116d2f940520!8m2!3d33.4339673!4d-111.9014728!16s%2Fg%2F1hc25hmjd!19sChIJq3vqPlQIK4cRIAWUL20RTaE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11622965373960455456",
   "placeId": "ChIJq3vqPlQIK4cRIAWUL20RTaE",
   "googleRating": 4.6,
-  "googleReviewCount": 4473,
+  "googleReviewCount": 4559,
   "description": "Modern multiplex chain showing blockbusters & a few independent films; some venues offer childcare.",
   "amenities": [
-    "Onsite services",
+    "Assisted listening devices",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -35,5 +30,14 @@
   "groundgameId": "6a2438393a02bd2a97da0c03",
   "seededAt": "2026-06-06T15:09:45Z",
   "updatedAt": "2026-06-12T22:03:26Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 107,
+    "2": 54,
+    "3": 234,
+    "4": 933,
+    "5": 3231
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCVMiULeEDbBH-4VnK8J1DltL_E6W83rEhZL-pK5ZGGkrFzHSXiCRQR8CvOO7Jk9fU6rI6Purczp_ifXV8VN1q5aAMIADFDt4Og6eLvLq8VWoANRq_v-OrIRqgUOZwWhIfrOafbw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

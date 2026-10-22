@@ -1,0 +1,32 @@
+{
+  "slug": "status-salon-tempe",
+  "name": "Status Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "Permit Parking 16, 89 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4217393,
+  "lng": -111.9383467,
+  "phone": "+14804549879",
+  "googleMapsUrl": "https://www.google.com/maps/place/Status+Salon/data=!4m7!3m6!1s0x872b08d9905695e9:0x45ace064e0b95330!8m2!3d33.4217393!4d-111.9383467!16s%2Fg%2F11pzrzrbbp!19sChIJ6ZVWkNkIK4cRMFO54GTgrEU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5020634408482853680",
+  "placeId": "ChIJ6ZVWkNkIK4cRMFO54GTgrEU",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXyK9YODEIdgaufGPGuyk2pKnJD9hSrMZzqFCo6h0extlCQYj0Lfs0-Cut_vj1QQ7bbo3thPL_tVvzKvRvIn6Hh_sWb9AHqBMAl2WgQ95M_1jgHCdb0b-JVsqMW_uyVqM_Nua4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

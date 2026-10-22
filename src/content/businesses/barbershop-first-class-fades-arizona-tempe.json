@@ -1,0 +1,45 @@
+{
+  "slug": "barbershop-first-class-fades-arizona-tempe",
+  "name": "Barbershop First Class Fades Arizona",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2030 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4091758,
+  "lng": -111.89996869999999,
+  "phone": "+17208249509",
+  "website": "https://ruddy-prime-cut-club.base44.app/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barbershop+First+Class+Fades+Arizona/data=!4m7!3m6!1s0x872b09b1a654d31b:0xaa8a405c4702661!8m2!3d33.4091758!4d-111.8999687!16s%2Fg%2F11z133zjx_!19sChIJG9NUprEJK4cRYSZwxAWkqAo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "768044081144145505",
+  "placeId": "ChIJG9NUprEJK4cRYSZwxAWkqAo",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ezeJ5vTHtYeFVWpXNNZiNg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=24.618582&pitch=0&thumbfov=100",
+  "amenities": [
+    "Assisted listening devices",
+    "Assistive hearing loop",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

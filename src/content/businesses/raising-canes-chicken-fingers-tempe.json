@@ -16,11 +16,11 @@
   "lng": -111.9243857,
   "phone": "+14806963497",
   "website": "https://www.raisingcanes.com/locations",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1803420742494418769",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raising+Cane%27s+Chicken+Fingers/data=!4m7!3m6!1s0x872b08e6c2245d97:0x1907099c40f37751!8m2!3d33.4224328!4d-111.9243857!16s%2Fg%2F11_qns5xz!19sChIJl10kwuYIK4cRUXfzQJwJBxk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1803420742494418769",
   "placeId": "ChIJl10kwuYIK4cRUXfzQJwJBxk",
   "googleRating": 4.5,
-  "googleReviewCount": 3435,
+  "googleReviewCount": 3471,
   "description": "Fast-food chain specializing in fried chicken fingers, crinkle-cut fries & Texas toast.",
   "hours": {
     "fri": "9:00 AM - 3:00 AM",
@@ -37,5 +37,20 @@
   "groundgameId": "6a24376ea266cc393fa0fafd",
   "seededAt": "2026-06-06T15:06:22Z",
   "updatedAt": "2026-06-06T15:06:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 152,
+    "2": 91,
+    "3": 195,
+    "4": 612,
+    "5": 2421
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetm6a78klI2b3BnBtRwXnpk-ypxH1uQ_3btMtbJbY4T9tX-J28zjV2Ngd6mOmsJQ9PLzc_w_RavKsjuHy0s1VyB3wzrLbIlEVl224opbZI72f__rbWqopNMhbyEsR6j72tFzaRoA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

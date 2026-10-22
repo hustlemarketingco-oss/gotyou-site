@@ -18,13 +18,13 @@
   "website": "https://www.infusioncoffeetea.com/",
   "placeId": "ChIJ81ed_u8IK4cRFnZ7IFx_PVk",
   "googleRating": 4.7,
-  "googleReviewCount": 923,
+  "googleReviewCount": 946,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "7:00 AM - 6:00 PM",
@@ -41,5 +41,16 @@
   "groundgameId": "6a55383dc2dfd6198d11dccf",
   "seededAt": "2026-07-13T19:10:53Z",
   "updatedAt": "2026-08-06T17:41:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6430435876613617174",
+  "googleMapsUrl": "https://www.google.com/maps/place/Infusion+Coffee+%26+Tea+Crafters/data=!4m7!3m6!1s0x872b08effe9d57f3:0x593d7f5c207b7616!8m2!3d33.4194591!4d-111.916872!16s%2Fg%2F11b722p3w1!19sChIJ81ed_u8IK4cRFnZ7IFx_PVk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 15,
+    "3": 33,
+    "4": 110,
+    "5": 765
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_DbGtpRbYocJ7hwyRDpIy-MaZU8gsvP5MRgGcxjt_ofbDYtS1q2IG0YLkwrGKBv5UrOqlSvlznAhVa0iQvkUbdc-A48Wn2yiqPOqrbq2B1HoVe09BiW6DBBDze6r3djSRg43P=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

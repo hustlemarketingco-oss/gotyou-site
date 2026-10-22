@@ -1,0 +1,46 @@
+{
+  "slug": "walker-bookstore-tempe",
+  "name": "Walker Bookstore",
+  "category": "Shopping",
+  "googleCategory": "Used book store",
+  "secondaryCategories": [
+    "Book store"
+  ],
+  "address": "1104 W Geneva Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3954357,
+  "lng": -111.954578,
+  "phone": "+18667227833",
+  "website": "https://www.walkerbookstore.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Walker+Bookstore/data=!4m7!3m6!1s0x872b0f106fab471f:0x53830c499ec5add!8m2!3d33.3954357!4d-111.954578!16s%2Fg%2F11g4j5w8q1!19sChIJH0erbxAPK4cR3VrsmcQwOAU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "376104189839563485",
+  "placeId": "ChIJH0erbxAPK4cR3VrsmcQwOAU",
+  "googleRating": 4,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerp3X6FzWsXLhYIzWS5pJdRosCpu4X2yldhwRVW8TVUILxeBs6THOykRAg5CAAv8LyQXgkGpg6xmOk-X3Ed36YCQsMq_e8kR6tDIclh4gJvlLY_NWUCqcivX057MIgT_UbJg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 6
+  },
+  "hours": {
+    "mon": "7:30 AM - 3:30 PM",
+    "tue": "7:30 AM - 3:30 PM",
+    "wed": "7:30 AM - 3:30 PM",
+    "thu": "7:30 AM - 3:30 PM",
+    "fri": "7:30 AM - 3:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "zumiez-tempe",
+  "name": "Zumiez",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Men's clothing store",
+    "Shoe store",
+    "Skateboard shop",
+    "Snowboard shop",
+    "Sunglasses store",
+    "Watch store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 616",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3840924,
+  "lng": -111.9645807,
+  "phone": "+14804917707",
+  "website": "https://www.zumiez.com/stores/us124?utm_source=google+my+business&utm_medium=organic&utm_campaign=store+locations",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zumiez/data=!4m7!3m6!1s0x872b0f59e1444903:0x2411cffbf6f210d8!8m2!3d33.3840924!4d-111.9645807!16s%2Fg%2F1wk4dj4r!19sChIJA0lE4VkPK4cR2BDy9vvPESQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2599087141056286936",
+  "placeId": "ChIJA0lE4VkPK4cR2BDy9vvPESQ",
+  "googleRating": 4.5,
+  "googleReviewCount": 87,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc23QM4ipwWS0yswHKAfKSqU61GlNeD0X6YSkkRVRmaFMaJhwg3jcl3JIbGUpw0KvzHHvG8255oO1faaJYPGXTlwaZzo2dUxYWnr2-OyFACpq1I0_GoXCwTsmItzb40v9f_-hP33Q=w1200-h800-k-no",
+  "description": "Chain retailer offering trendy, brand-name clothing & shoes, plus gear for skate- & snowboarders.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 7,
+    "4": 9,
+    "5": 65
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

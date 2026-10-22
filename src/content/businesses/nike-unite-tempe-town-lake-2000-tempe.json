@@ -1,0 +1,52 @@
+{
+  "slug": "nike-unite-tempe-town-lake-2000-tempe",
+  "name": "Nike Unite - Tempe/Town Lake",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Shoe store",
+    "Sportswear store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1253",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4329721,
+  "lng": -111.903075,
+  "phone": "+16028071028",
+  "website": "http://www.nike.com/?y_source=1_ODI4NzE0NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nike+Unite+-+Tempe%2FTown+Lake/data=!4m7!3m6!1s0x872b093196abee5b:0x2ac5d55bda2a30f3!8m2!3d33.4329721!4d-111.903075!16s%2Fg%2F11v0jgpwr0!19sChIJW-6rljEJK4cR8zAq2lvVxSo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3082104110483910899",
+  "placeId": "ChIJW-6rljEJK4cR8zAq2lvVxSo",
+  "googleRating": 4.5,
+  "googleReviewCount": 100,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdePpOIKi1WAJ8ftpL4NbFNMg6zT14LXU7Dw4k8DnSo3822v37_p24yISRVaDXlR5sjinv76wUtE0fAvgatUSU3RXsnXKyXlSCWV1yP2yjH8BeeI6gSotzH4hjor7uTQgW8bwXYbjC3Lc8=w1200-h800-k-no",
+  "description": "Chain retailer selling a range of Nike athletic footwear, apparel & accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "3": 4,
+    "4": 13,
+    "5": 74
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

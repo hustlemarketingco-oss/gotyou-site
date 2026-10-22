@@ -1,0 +1,52 @@
+{
+  "slug": "burger-king-tempe",
+  "name": "Burger King",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "address": "5 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3924313,
+  "lng": -111.9390691,
+  "phone": "+14808049516",
+  "website": "https://burgerking.com/store-locator/store/10259",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x872b08a56c0f6973:0x6371f9efd4bdc511!8m2!3d33.3924313!4d-111.9390691!16s%2Fg%2F1tls396w!19sChIJc2kPbKUIK4cREcW91O_5cWM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7165783290584876305",
+  "placeId": "ChIJc2kPbKUIK4cREcW91O_5cWM",
+  "googleRating": 3.3,
+  "googleReviewCount": 673,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAzRf2gP7SuXsDnAy2i62dLeu2EsbEKJiUrGC5-JwRVl-aDgy4q6FLdx7K_9NtnZvmvT8uG94A9jMBoXeh6EGSVEKqJ5_K70W0jVoN8nOC0iGeH99fYSSREMmfZtTP_NWQNTcvCA=w1200-h800-k-no",
+  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 178,
+    "2": 43,
+    "3": 91,
+    "4": 114,
+    "5": 247
+  },
+  "hours": {
+    "mon": "6:00 AM - 12:00 AM",
+    "tue": "6:00 AM - 12:00 AM",
+    "wed": "6:00 AM - 12:00 AM",
+    "thu": "6:00 AM - 12:00 AM",
+    "fri": "6:00 AM - 12:00 AM",
+    "sat": "6:30 AM - 12:00 AM",
+    "sun": "7:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

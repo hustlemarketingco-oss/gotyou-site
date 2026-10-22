@@ -1,0 +1,37 @@
+{
+  "slug": "ethos-beauty-guru-tempe",
+  "name": "Ethos Beauty guru",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "953 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3477897,
+  "lng": -111.92658519999999,
+  "phone": "+16026729645",
+  "website": "https://ethosbeauty.guru/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ethos+Beauty+guru/data=!4m7!3m6!1s0x872b07e34baa8409:0xdeef62b14cec80bf!8m2!3d33.3477897!4d-111.9265852!16s%2Fg%2F11vwsxrwbh!19sChIJCYSqS-MHK4cRv4DsTLFi794?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16064166909493149887",
+  "placeId": "ChIJCYSqS-MHK4cRv4DsTLFi794",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFj7aWSHtij_OjqEqW5xJ_jvODn-YO5WhkExRMT2diEGk-2GCSSrhBLSRHZ6a8_B11_kCpDNytcxoXBVfWna3TeCkvLOtyXky3EKCgJnkhk8a_YHsSLR8_T4pC3gd5GbTZTTwT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "12:00 PM - 4:00 PM",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

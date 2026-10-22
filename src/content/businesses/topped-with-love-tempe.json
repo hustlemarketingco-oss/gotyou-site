@@ -11,7 +11,7 @@
   "lng": -111.9068316,
   "phone": "+19549099579",
   "website": "https://toppedwithlove.net/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=18269235328529209296",
+  "googleMapsUrl": "https://www.google.com/maps/place/Topped+With+Love/data=!4m7!3m6!1s0x872b09fad27d6e5d:0xfd895cbc9b0017d0!8m2!3d33.4198794!4d-111.9068316!16s%2Fg%2F11zb1w6zvd!19sChIJXW590voJK4cR0BcAm7xcif0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "18269235328529209296",
   "placeId": "ChIJXW590voJK4cR0BcAm7xcif0",
   "googleRating": 5,
@@ -32,5 +32,14 @@
   "groundgameId": "6a2439ae9877e50af7e2d182",
   "seededAt": "2026-06-06T15:15:58Z",
   "updatedAt": "2026-06-06T15:15:58Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2yr3O1OBkqeBNy6-Gco5_QxCEGB_OmFajFwf7ORxk2-SPlxS2iX8gy9ZI1LjBeZqDczEK4T40gw8IlOUFyM1Zfoc5g6mqXE146IOOoSSkyhZNnYw6d9Ix16dRcfJfsI30HNfA8WhaBTA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

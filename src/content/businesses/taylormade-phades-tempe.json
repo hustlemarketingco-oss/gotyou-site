@@ -1,0 +1,47 @@
+{
+  "slug": "taylormade-phades-tempe",
+  "name": "Taylormade Phades",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7720 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348132,
+  "lng": -111.96532339999999,
+  "phone": "+15205095660",
+  "website": "http://www.taylormadephades.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taylormade+Phades/data=!4m7!3m6!1s0x872b099a98825293:0x2eeb0a5d42be23c1!8m2!3d33.348132!4d-111.9653234!16s%2Fg%2F11jtzrmsqt!19sChIJk1KCmJoJK4cRwSO-Ql0K6y4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3380807340939682753",
+  "placeId": "ChIJk1KCmJoJK4cRwSO-Ql0K6y4",
+  "googleRating": 4.7,
+  "googleReviewCount": 219,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjqH7oFxEIXtXpS6OXk_NuyY_pdfyfMnrkJz-0j9hdsFrKL_AOm1jP_EeK0HJsYUz6q7nUMsz1-vs3uJ9rHoNHWixPzeAjh_6syOLEwwVKEh272-NoWhSn_-CDfss6xTP53PbyDw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 199
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "starbucks-coffee-company-frys-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Cafe",
+    "Coffee store",
+    "Espresso bar"
+  ],
+  "address": "Fry's, 3255 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.39392,
+  "lng": -111.92457999999999,
+  "phone": "+14808297799",
+  "website": "https://www.starbucks.com/store-locator/store/1009081",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b0898fc9f5235:0xe7613199cc533035!8m2!3d33.39392!4d-111.92458!16s%2Fg%2F11csbsyg84!19sChIJNVKf_JgIK4cRNTBTzJkxYec?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16672661832130048053",
+  "placeId": "ChIJNVKf_JgIK4cRNTBTzJkxYec",
+  "googleRating": 4.2,
+  "googleReviewCount": 66,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGFPZ8gq_ljAqXiWUoG2p2vxTYQys-tOBMe8WRYroaCyBgI5DY4aqii70dj3a8uu1nzkwDuyvyCxWqgJqjPYpGJnqWp8QrJztuwBR-P2ZxH9Ug0czj6GOlmZLXZCZPXSKjuyQ=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 3,
+    "3": 3,
+    "4": 8,
+    "5": 44
+  },
+  "hours": {
+    "mon": "6:00 AM - 6:00 PM",
+    "tue": "6:00 AM - 6:00 PM",
+    "wed": "6:00 AM - 6:00 PM",
+    "thu": "6:00 AM - 6:00 PM",
+    "fri": "6:00 AM - 6:00 PM",
+    "sat": "6:00 AM - 6:00 PM",
+    "sun": "6:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

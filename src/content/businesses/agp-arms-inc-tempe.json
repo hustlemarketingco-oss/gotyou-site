@@ -1,0 +1,45 @@
+{
+  "slug": "agp-arms-inc-tempe",
+  "name": "AGP Arms, Inc",
+  "category": "Shopping",
+  "googleCategory": "Machine shop",
+  "secondaryCategories": [
+    "Sporting goods store"
+  ],
+  "address": "1930 E 3rd St #12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4280465,
+  "lng": -111.9036107,
+  "phone": "+14804011515",
+  "website": "http://agparms.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/AGP+Arms,+Inc/data=!4m7!3m6!1s0x872b0855e59f0a89:0x1806ac9897dae6df!8m2!3d33.4280465!4d-111.9036107!16s%2Fg%2F11cs5wmbw7!19sChIJiQqf5VUIK4cR3-bal5isBhg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1731260878153246431",
+  "placeId": "ChIJiQqf5VUIK4cR3-bal5isBhg",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCSV8UukbRaD3EcAHXksDshLgSqowqznjX8RX3eV7Y3N61qgTR2z9wru5DeWx4gQbN7x0zcWuWGAHtGCNZXef4uFaUhZ1S5m_lE78GJMI2U5a3o5-77N06JrT6l4OmBL8438Ol=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

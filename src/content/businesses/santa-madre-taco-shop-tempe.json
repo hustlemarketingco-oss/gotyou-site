@@ -1,0 +1,53 @@
+{
+  "slug": "santa-madre-taco-shop-tempe",
+  "name": "Santa Madre Taco Shop",
+  "category": "Mexican & Latin",
+  "googleCategory": "Taco restaurant",
+  "secondaryCategories": [
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "1320 W Elliot Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496099,
+  "lng": -111.9599655,
+  "phone": "+14808202323",
+  "website": "https://santamadretacos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Santa+Madre+Taco+Shop/data=!4m7!3m6!1s0x872b05dadb83adf5:0x91c73a08a15b91d3!8m2!3d33.3496099!4d-111.9599655!16s%2Fg%2F12hksvhx3!19sChIJ9a2D29oFK4cR05FboQg6x5E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10504428464606253523",
+  "placeId": "ChIJ9a2D29oFK4cR05FboQg6x5E",
+  "googleRating": 4.6,
+  "googleReviewCount": 1022,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiW9GJGbwNLCLG2xi7Mz9pUskcq10NYU0bPkuWVNDqNvuye7i4guvpg73sxQqQV6gwAm0So5NLaeqZHyC5FmjMnehgENSIh4DRmhhFyd3i9NoZ4AWjmpWUJ74Zz5Uga5LL7DA=w1200-h800-k-no",
+  "description": "Tacos, burritos, quesadillas & other casual Mexican eats served in a compact counter-serve place.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 24,
+    "3": 49,
+    "4": 131,
+    "5": 784
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "racing-ritual-tempe",
+  "name": "Racing Ritual",
+  "category": "Fun & Activities",
+  "googleCategory": "Video arcade",
+  "address": "2155 E University Dr #112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4212597,
+  "lng": -111.89270529999999,
+  "phone": "+14805204775",
+  "website": "https://racingritual.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Racing+Ritual/data=!4m7!3m6!1s0x872b097092115727:0x927fe823b7e40288!8m2!3d33.4212597!4d-111.8927053!16s%2Fg%2F11xstvqvmk!19sChIJJ1cRknAJK4cRiALktyPof5I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10556411291686404744",
+  "placeId": "ChIJJ1cRknAJK4cRiALktyPof5I",
+  "googleRating": 5,
+  "googleReviewCount": 103,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFeh-h-_vwWMabZixsquun5dZy59ZOuM6zNpxlFOeKgwKHaRBuKUckc1gHf1XXiIG98yMhmW57CHzxC7ar8sRGLRSzMXO2hO1NjOtCHEDyriTFHz2w1YVxOjGrHh7DYVw-8VCpr5HD6QQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 103
+  },
+  "hours": {
+    "mon": "2:00 PM - 10:00 PM",
+    "tue": "2:00 PM - 10:00 PM",
+    "wed": "2:00 PM - 10:00 PM",
+    "thu": "2:00 PM - 10:00 PM",
+    "fri": "2:00 PM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "phoenix-jkd-tempe",
+  "name": "Phoenix JKD",
+  "category": "Health & Beauty",
+  "googleCategory": "Martial arts school",
+  "address": "6745 S Harl Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3589327,
+  "lng": -111.9660152,
+  "phone": "+14804897202",
+  "website": "http://phoenixjkd.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phoenix+JKD/data=!4m7!3m6!1s0x872b6f9d0220eee9:0xd66d1e661b8a82d2!8m2!3d33.3589327!4d-111.9660152!16s%2Fg%2F11csb1q623!19sChIJ6e4gAp1vK4cR0oKKG2YebdY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15451039320475599570",
+  "placeId": "ChIJ6e4gAp1vK4cR0oKKG2YebdY",
+  "googleRating": 5,
+  "googleReviewCount": 104,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLexhpYRdtYQ1gKK_FwoJpCOizodtORIiQFnhg-srCRa80CVoYMKzamw0YCkO1s3zLnNBzFOgBC5Y5onTbBkvdG4T98wezm0qFj7U-WjYTUuL19VKoCUyWQpdzw6tuVd_NECPv_z=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 103
+  },
+  "hours": {
+    "mon": "5:00 PM - 8:00 PM",
+    "tue": "6:00 PM - 8:00 PM",
+    "wed": "6:00 PM - 8:00 PM",
+    "thu": "6:00 PM - 8:00 PM",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

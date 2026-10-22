@@ -1,0 +1,46 @@
+{
+  "slug": "mrbeast-burger-tempe",
+  "name": "MrBeast Burger",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "address": "830 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078024,
+  "lng": -111.9517248,
+  "phone": "+18772327898",
+  "website": "https://www.mrbeastburger.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/MrBeast+Burger/data=!4m7!3m6!1s0x872b0957e4941903:0xb79cc3568587aa7!8m2!3d33.4078024!4d-111.9517248!16s%2Fg%2F11ln3pf148!19sChIJAxmU5FcJK4cRp3pYaDXMeQs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "826916536355158695",
+  "placeId": "ChIJAxmU5FcJK4cRp3pYaDXMeQs",
+  "googleRating": 3.4,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2czcq21hv8o7U9ef77NCUWUVLaqZC9UGeKuHNByJ4DzHoq_k9InbZ_T_HodczfbX8y3c3OQmlNHmUjijG5Z4ObagqnR1Jf7EJjLftafl7BGDgxfhWdW3k_nrpQYWEJsse3ZUuc4hfHACL-R3sGA6QX8Ix5aZwifD6oKQCFscRNcUns63zGDFL5=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "5": 4
+  },
+  "hours": {
+    "mon": "12:00 PM - 12:00 AM",
+    "tue": "12:00 PM - 2:00 AM",
+    "wed": "12:00 PM - 2:00 AM",
+    "thu": "12:00 PM - 2:00 AM",
+    "fri": "12:00 PM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

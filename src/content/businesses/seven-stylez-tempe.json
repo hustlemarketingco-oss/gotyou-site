@@ -1,0 +1,38 @@
+{
+  "slug": "seven-stylez-tempe",
+  "name": "Seven Stylez",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "960 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4227415,
+  "lng": -111.95183259999999,
+  "phone": "+16027024158",
+  "website": "https://sevenstylez.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Seven+Stylez/data=!4m7!3m6!1s0x872b094006179a53:0x38d8a6a20fc4c180!8m2!3d33.4227415!4d-111.9518326!16s%2Fg%2F11mckwr6b3!19sChIJU5oXBkAJK4cRgMHED6Km2Dg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4096207076072931712",
+  "placeId": "ChIJU5oXBkAJK4cRgMHED6Km2Dg",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyAtDVc4vrbtlS5LlgRh_k58G8ht7_WR8OCBmp-Y_-hm-rRP718NeIp8s5ps3u4cszLRAs_rmgYgI-FznqaV6XiYrYa-ZztfRAD3uwFSOq71D0XybEA76VuEDJ43ryVH7WrQ2KQzHdcZZ9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 7:00 PM",
+    "wed": "8:00 AM - 7:00 PM",
+    "thu": "8:00 AM - 7:00 PM",
+    "fri": "8:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "8:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

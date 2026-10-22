@@ -1,0 +1,43 @@
+{
+  "slug": "southwest-kayaks-tempe",
+  "name": "Southwest Kayaks",
+  "category": "Shopping",
+  "googleCategory": "Canoe & kayak store",
+  "address": "2650 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4573689,
+  "lng": -111.9270554,
+  "phone": "+14803488917",
+  "website": "https://swkoutfitters.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Southwest+Kayaks/data=!4m7!3m6!1s0x872b08f834ae0ea3:0xcf7ff66839d13924!8m2!3d33.4573689!4d-111.9270554!16s%2Fg%2F11cnbmsl1p!19sChIJow6uNPgIK4cRJDnROWj2f88?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14951940215400380708",
+  "placeId": "ChIJow6uNPgIK4cRJDnROWj2f88",
+  "googleRating": 4.8,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaaqOsvZ0OkDc5dnETL663EvA8n0bVdR0mg6TQ6rfJOwoVH0HML5Vpxlt0rGHerqBrgftusCogPY0SBHott40e7Pgr01PrtjPgQXejG1zViARsmQJn7cKOUuUDUs1l7GLOy5t_f-LFXNwa=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 2,
+    "5": 8
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

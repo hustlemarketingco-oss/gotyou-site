@@ -15,24 +15,16 @@
   "lng": -111.9126179,
   "phone": "+14808395154",
   "website": "https://locations.baskinrobbins.com/az/tempe/1715-e-guadalupe-rd",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11772800718375667090",
+  "googleMapsUrl": "https://www.google.com/maps/place/Baskin-Robbins/data=!4m7!3m6!1s0x872b06491028f5fb:0xa36163e0de3ec592!8m2!3d33.3633235!4d-111.9126179!16s%2Fg%2F1tcwm09_!19sChIJ-_UoEEkGK4cRksU-3uBjYaM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11772800718375667090",
   "placeId": "ChIJ-_UoEEkGK4cRksU-3uBjYaM",
   "googleRating": 4.2,
-  "googleReviewCount": 229,
+  "googleReviewCount": 233,
   "priceRange": "$",
   "description": "Ice cream parlor chain known for its many ice cream flavors & sundaes, plus cakes, drinks & other treats.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -49,5 +41,14 @@
   "groundgameId": "6a24363827eb3dfea403be89",
   "seededAt": "2026-06-06T15:01:12Z",
   "updatedAt": "2026-06-06T15:05:52Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 8,
+    "3": 13,
+    "4": 46,
+    "5": 143
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3jJN5_jd9zBgBZ9lBO3xDvtLiWZITlzvs29oVo85vT5bFDXGgUqXywdnpGjxJ1nTIRS8PNZ_mBPuVOw9TLR_T2xvfkoa5vQ3le3n-xR_uH56OPNdlfSQb2-yUYQ-jMqO12XAV=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

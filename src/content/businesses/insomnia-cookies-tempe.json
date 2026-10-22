@@ -15,11 +15,11 @@
   "lng": -111.9370572,
   "phone": "+14807953693",
   "website": "https://insomniacookies.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17461074276840011125",
+  "googleMapsUrl": "https://www.google.com/maps/place/Insomnia+Cookies/data=!4m7!3m6!1s0x872b096f7c344acd:0xf252328ac3c27575!8m2!3d33.4221576!4d-111.9370572!16s%2Fg%2F11gydfyjhc!19sChIJzUo0fG8JK4cRdXXCw4oyUvI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17461074276840011125",
   "placeId": "ChIJzUo0fG8JK4cRdXXCw4oyUvI",
   "googleRating": 3.5,
-  "googleReviewCount": 371,
+  "googleReviewCount": 377,
   "priceRange": "$$",
   "description": "Bakery chain known for warm cookies, ice cream & late-night deliveries.",
   "amenities": [
@@ -33,5 +33,23 @@
   "groundgameId": "6a243626a7371509db132b12",
   "seededAt": "2026-06-06T15:00:54Z",
   "updatedAt": "2026-07-09T03:27:03Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 28,
+    "3": 23,
+    "4": 32,
+    "5": 192
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnfBEl8_UXMzq1PhYIEuuqzv1fBX0uiM2dw7NNep2CJSp6mwqTCc_f1gjGKMP1LksFv4Tuj_U_htA2W51yEXZsJLjfSHWz57z3LNpnetOYnMkurEXEr4DhFs0t8D-KsMgBaoIW_A=w1200-h800-k-no",
+  "hours": {
+    "mon": "11:00 AM - 1:00 AM",
+    "tue": "11:00 AM - 1:00 AM",
+    "wed": "11:00 AM - 1:00 AM",
+    "thu": "11:00 AM - 3:00 AM",
+    "fri": "11:00 AM - 3:00 AM",
+    "sat": "12:00 PM - 3:00 AM",
+    "sun": "12:00 PM - 1:00 AM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,51 @@
+{
+  "slug": "orangetheory-fitness-tempe",
+  "name": "Orangetheory Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Personal trainer",
+    "Physical fitness program"
+  ],
+  "address": "1855 E Guadalupe Rd Ste A-102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3631581,
+  "lng": -111.90821869999999,
+  "phone": "+14803005683",
+  "website": "https://www.orangetheory.com/en-us/locations/arizona/tempe/1855-e-guadalupe-rd-ste-a-102/?utm_medium=seo&utm_source=gg&utm_term=tombras&utm_campaign=reputationdotcom--National",
+  "googleMapsUrl": "https://www.google.com/maps/place/Orangetheory+Fitness/data=!4m7!3m6!1s0x872b064b96137f19:0x7da96465e0528baa!8m2!3d33.363158!4d-111.908219!16s%2Fg%2F1yhbnrd7d!19sChIJGX8TlksGK4cRqotS4GVkqX0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9054878914523073450",
+  "placeId": "ChIJGX8TlksGK4cRqotS4GVkqX0",
+  "googleRating": 4.8,
+  "googleReviewCount": 411,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOOovGCWPM0K-_p_DpcdReYvjghglUvzzSDqWR-giGvmehzpdjaSd6ZfeHxcDO077k904QkXKDDpmkoLjHHH0_c1nd_Ig_QZF0Fiue1L2L0eY83_y4sgxtjz8Az_Lb0sr74nEHOeBFu-LX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 3,
+    "3": 1,
+    "4": 5,
+    "5": 384
+  },
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

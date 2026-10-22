@@ -1,0 +1,54 @@
+{
+  "slug": "vans-outlet-tempe",
+  "name": "Vans Outlet",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Skate shop",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 208",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383921,
+  "lng": -111.963884,
+  "phone": "+14807305821",
+  "website": "https://locations.vans.com/en-us/az/tempe/USA102/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vans+Outlet/data=!4m7!3m6!1s0x872b0f59e1444903:0x2846c174234d84ac!8m2!3d33.383921!4d-111.963884!16s%2Fg%2F1tjy1zjh!19sChIJA0lE4VkPK4cRrIRNI3TBRig?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2902219714439513260",
+  "placeId": "ChIJA0lE4VkPK4cRrIRNI3TBRig",
+  "googleRating": 4.6,
+  "googleReviewCount": 349,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDFSQ-Xgj2WKIaxWJs43UP4brzbrHTzTUaCH13otsbxH_O1wfJywvAKMJ2i_B3MtVFgH_-kpNq1MAxRCUAgVSWuyKA57nU27at1VzguYxWUmcen6PtSM5L2I5AwdKNnIUx19YDMA=w1200-h800-k-no",
+  "description": "Retail store featuring the brand's surfing & skateboarding-inspired shoes & casualwear.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 9,
+    "3": 19,
+    "4": 56,
+    "5": 256
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

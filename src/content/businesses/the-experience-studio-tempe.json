@@ -1,0 +1,37 @@
+{
+  "slug": "the-experience-studio-tempe",
+  "name": "The Experience Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1800 E Rio Salado Pkwy #170",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430026999999995,
+  "lng": -111.9079089,
+  "phone": "+14049646021",
+  "website": "https://theexperience14.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Experience+Studio/data=!4m7!3m6!1s0x872b093ed944a71b:0xa7131bc420d8d7d1!8m2!3d33.430027!4d-111.9079089!16s%2Fg%2F11w44mfsl1!19sChIJG6dE2T4JK4cR0dfYIMQbE6c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12038996758070089681",
+  "placeId": "ChIJG6dE2T4JK4cR0dfYIMQbE6c",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe81vvqeOtCvU0dvgQXg5Esiccjvp0bsupoJv-T6euYvQfWgg7v0JCkJTP-kb7_L9LCvlWJT-IFUbkITJZpC0DGhKdS3RIWWIFDXSZbFkvMSK-60PjOCOpWrr4EeUEi4vNrqE_x=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -10,12 +10,11 @@
   "lat": 33.4281839,
   "lng": -111.9728834,
   "phone": "+16029206803",
-  "googleMapsUrl": "https://www.google.com/maps?cid=4730794280009384850",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pilgrim+Bakery/data=!4m7!3m6!1s0x872b0edcfe52d8b1:0x41a728553568c392!8m2!3d33.4281839!4d-111.9728834!16s%2Fg%2F11c2pt1bs9!19sChIJsdhS_twOK4cRksNoNVUop0E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "4730794280009384850",
   "placeId": "ChIJsdhS_twOK4cRksNoNVUop0E",
   "description": "Located in Tempe, Pilgrim Bakery is a bakery with takeout & delivery.",
   "amenities": [
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
@@ -34,5 +33,7 @@
   "groundgameId": "6a2439bd7340725845aff031",
   "seededAt": "2026-06-06T15:16:13Z",
   "updatedAt": "2026-06-06T15:16:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SP44tk3-B0yQG55x0qM65g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=185.43028&pitch=0&thumbfov=100",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

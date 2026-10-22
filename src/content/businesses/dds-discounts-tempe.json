@@ -1,0 +1,55 @@
+{
+  "slug": "dds-discounts-tempe",
+  "name": "dd's DISCOUNTS",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Department store",
+    "Discount store",
+    "Fashion accessories store",
+    "Home goods store",
+    "Shoe store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 373",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3806985,
+  "lng": -111.9642727,
+  "phone": "+14808380521",
+  "website": "https://www.ddsdiscounts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/dd%27s+DISCOUNTS/data=!4m7!3m6!1s0x872b0f5820fe92f5:0x49d957e1f3c096da!8m2!3d33.3806985!4d-111.9642727!16s%2Fg%2F11pv25qv_f!19sChIJ9ZL-IFgPK4cR2pbA8-FX2Uk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5321381062683694810",
+  "placeId": "ChIJ9ZL-IFgPK4cR2pbA8-FX2Uk",
+  "googleRating": 4.2,
+  "googleReviewCount": 184,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT7lMnZF955QDz0s_7BwXBNuSEuHxdYVvUKkam_gYk8s5ltY19bjsBgbYCSDyJ4f4CTIxlAbwWnZab_4F8bQE4MLhbdWPY-cHWI4H04OF-19B3A8Bbvraaq69TyEfJ0rbmhNHjnw=w1200-h800-k-no",
+  "description": "Retail chain stocking discounted clothing & shoes for adults or kids, plus home decor.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 8,
+    "3": 15,
+    "4": 36,
+    "5": 112
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

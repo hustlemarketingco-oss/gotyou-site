@@ -1,0 +1,57 @@
+{
+  "slug": "chipotle-mexican-grill-1005-tempe",
+  "name": "Chipotle Mexican Grill",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1005 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4071116,
+  "lng": -111.9238889,
+  "phone": "+15206582127",
+  "website": "https://locations.chipotle.com/az/tempe/1005-e-broadway-rd?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=5036",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chipotle+Mexican+Grill/data=!4m7!3m6!1s0x872b09003aa52d23:0xf427fde82d77b9f4!8m2!3d33.4071116!4d-111.9238889!16s%2Fg%2F11xs3q_8lp!19sChIJIy2lOgAJK4cR9Ll3Lej9J_Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17593309642983193076",
+  "placeId": "ChIJIy2lOgAJK4cR9Ll3Lej9J_Q",
+  "googleRating": 3,
+  "googleReviewCount": 131,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcreBs6tFCRfYJfYcCener1KDby5tht_stEWByo2rfmjWTadNJH2h3S0CdofrECWNEhzOWHGcGpwY8mutilZvmix-c5Vv3CTaKjkbrOQksR34_zy76Hk35gFJrKBp9Sk0rV0swhHbnmgmeN=w1200-h800-k-no",
+  "description": "Casual restaurant offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 13,
+    "3": 4,
+    "4": 10,
+    "5": 54
+  },
+  "hours": {
+    "mon": "10:45 AM - 11:00 PM",
+    "tue": "10:45 AM - 11:00 PM",
+    "wed": "10:45 AM - 11:00 PM",
+    "thu": "10:45 AM - 11:00 PM",
+    "fri": "10:45 AM - 11:00 PM",
+    "sat": "10:45 AM - 11:00 PM",
+    "sun": "10:45 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

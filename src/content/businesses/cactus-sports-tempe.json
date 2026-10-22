@@ -1,0 +1,46 @@
+{
+  "slug": "cactus-sports-tempe",
+  "name": "Cactus Sports",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "address": "514 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4249395,
+  "lng": -111.9402552,
+  "phone": "+14808941278",
+  "website": "http://cactussports.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cactus+Sports/data=!4m7!3m6!1s0x872b08d81e42fbad:0x5efd074b5a80460f!8m2!3d33.4249395!4d-111.9402552!16s%2Fg%2F1tfv5lfl!19sChIJrftCHtgIK4cRD0aAWksH_V4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6844635028895319567",
+  "placeId": "ChIJrftCHtgIK4cRD0aAWksH_V4",
+  "googleRating": 4.6,
+  "googleReviewCount": 121,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-p0DXpsHDX_8JiLKN_o3kas1STNm_R2It7bWCIQktpMnmRCxaANmjsEUp63f_duQ7Q6LSwxbaN7LQjXLfbxeBDC-h8uP2apvvl8xckt8Aw89wKo6FH1zmDXwUEyM8oQ-9TwcP=w1200-h800-k-no",
+  "description": "Seller specializing in Arizona State University clothing & gifts, from hoodies to hats.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 10,
+    "4": 10,
+    "5": 97
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

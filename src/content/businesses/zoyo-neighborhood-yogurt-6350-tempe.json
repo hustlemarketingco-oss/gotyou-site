@@ -2,7 +2,7 @@
   "slug": "zoyo-neighborhood-yogurt-6350-tempe",
   "name": "Zoyo Neighborhood Yogurt",
   "category": "Desserts & Bakery",
-  "googleCategory": "Dessert shop",
+  "googleCategory": "Frozen yogurt shop",
   "secondaryCategories": [
     "Confectionery",
     "Food store"
@@ -17,7 +17,7 @@
   "website": "https://www.zoyogurt.com/",
   "placeId": "ChIJ9wGFc0kGK4cRaP3ODjNoHUY",
   "googleRating": 4.4,
-  "googleReviewCount": 518,
+  "googleReviewCount": 525,
   "priceRange": "$",
   "hours": {
     "mon": "12:00 PM - 10:00 PM",
@@ -34,5 +34,21 @@
   "groundgameId": "6a2c2613a394736b96a4b1d0",
   "seededAt": "2026-06-12T15:30:27Z",
   "updatedAt": "2026-06-12T15:30:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5052308925480631656",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zoyo+Neighborhood+Yogurt/data=!4m7!3m6!1s0x872b0649738501f7:0x461d68330ecefd68!8m2!3d33.3642111!4d-111.911965!16s%2Fg%2F1v5k3gwz!19sChIJ9wGFc0kGK4cRaP3ODjNoHUY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 22,
+    "2": 9,
+    "3": 32,
+    "4": 122,
+    "5": 340
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3TmDTIzlSFgp9010blS-vEHU3h8xoN0yrpAmaIALsOgGl7PpJ4gsR-_69symlgJn5BZCeZfReGYZh1AseW1RBM9vv_HKm7J10OFOWbeXkeTwQowW49CRNo-DQVOk7pmrL8Avp=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

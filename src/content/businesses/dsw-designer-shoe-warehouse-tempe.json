@@ -1,0 +1,49 @@
+{
+  "slug": "dsw-designer-shoe-warehouse-tempe",
+  "name": "DSW Designer Shoe Warehouse",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Fashion accessories store"
+  ],
+  "address": "1900 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4301609,
+  "lng": -111.9037879,
+  "phone": "+16234636841",
+  "website": "https://stores.dsw.com/usa/az/tempe/dsw-designer-shoe-warehouse-tempe-marketplace.html?y_source=1_MTY1MTc3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/DSW+Designer+Shoe+Warehouse/data=!4m7!3m6!1s0x872b0855a8998625:0x6c1b456ec6027aad!8m2!3d33.4301609!4d-111.9037879!16s%2Fg%2F1q5bnq_h3!19sChIJJYaZqFUIK4cRrXoCxm5FG2w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7789896322538175149",
+  "placeId": "ChIJJYaZqFUIK4cRrXoCxm5FG2w",
+  "googleRating": 4.2,
+  "googleReviewCount": 354,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQq3b3Nn0ZvcmXyiIuOFH2c3QdOKFRMBt0uxevDXOhJXEkCef3jlIPyA6X2mCf3pdiem24866XRRVrDJmx8WZO6184aKdrZbVHXHiAyHVYJe-zq6M3AVQQgmfsQiBT_U8Gj3UrlQ=w1200-h800-k-no",
+  "description": "Retail chain known for its discounted brand-name & designer shoes, handbags & accessories.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 10,
+    "3": 37,
+    "4": 74,
+    "5": 207
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

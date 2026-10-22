@@ -1,0 +1,36 @@
+{
+  "slug": "valentine-nail-studio-tempe",
+  "name": "Valentine Nail Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "9020 S McClintock Dr #21",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3323769,
+  "lng": -111.912049,
+  "phone": "+14808610449",
+  "googleMapsUrl": "https://www.google.com/maps/place/Valentine+Nail+Studio/data=!4m7!3m6!1s0x872b07a0d8afca6b:0x3bfa72d48b3532e0!8m2!3d33.3323769!4d-111.912049!16s%2Fg%2F11k9j0xyb4!19sChIJa8qv2KAHK4cR4DI1i9Ry-js?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4321893049609564896",
+  "placeId": "ChIJa8qv2KAHK4cR4DI1i9Ry-js",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSv97jzsYhiUfez5VEiqxFJHo3NEXyLJzWqM_5D5kIo1VP8LKn1-QlTYQBn7mJqKmNXzZHdTz-MjUAAEX83pJfDKyHZ0RVwAkoViO_unkbtjIEziD3Vzpqr6qv8LcCIAg41swy-A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

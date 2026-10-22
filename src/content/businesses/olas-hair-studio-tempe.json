@@ -1,0 +1,49 @@
+{
+  "slug": "olas-hair-studio-tempe",
+  "name": "Olas Hair Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Hair salon",
+    "Health and beauty shop",
+    "Stylist",
+    "Hairdresser"
+  ],
+  "address": "1800 E Rio Salado Pkwy Unit 170 Ste 144",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+16025857254",
+  "website": "http://olashairstudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Olas+Hair+Studio/data=!4m7!3m6!1s0x872b098cbae9a5e9:0x8409fe27ff749ff0!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11kcqmwwry!19sChIJ6aXpuowJK4cR8J90_yf-CYQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9514415135539896304",
+  "placeId": "ChIJ6aXpuowJK4cR8J90_yf-CYQ",
+  "googleRating": 5,
+  "googleReviewCount": 60,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH3bQmdeAOqldif4wpRPX7k1bzW8yi8Vh14rj3GFXh-m0EvnlDklZp5WdbQOwLuCzWt4YwSqoowTNyUdvvHCRc-cCKZVj-LcfRrxSrFeFPvkJ4IWW4UT6vyBH_HPjLo-68XFYRcA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 60
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

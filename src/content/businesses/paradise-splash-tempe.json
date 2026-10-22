@@ -2,7 +2,7 @@
   "slug": "paradise-splash-tempe",
   "name": "Paradise Splash",
   "category": "Desserts & Bakery",
-  "googleCategory": "Ice cream shop",
+  "googleCategory": "Juice shop",
   "secondaryCategories": [
     "American restaurant",
     "Juice shop",
@@ -16,25 +16,16 @@
   "lng": -111.9648497,
   "phone": "+14808975411",
   "website": "http://www.paradisesplash.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=651317951718341233",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paradise+Splash/data=!4m7!3m6!1s0x872b0f59e7f15de5:0x909f239ec01ba71!8m2!3d33.3828044!4d-111.9648497!16s%2Fg%2F11c38j_k1y!19sChIJ5V3x51kPK4cRcboB7DnyCQk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "651317951718341233",
   "placeId": "ChIJ5V3x51kPK4cRcboB7DnyCQk",
   "googleRating": 4.4,
-  "googleReviewCount": 159,
+  "googleReviewCount": 160,
   "priceRange": "$1–10",
   "description": "Colorful pit spot for juice drinks with chunks of fruit & frozen pops served over the counter.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 9:00 PM",
@@ -51,5 +42,14 @@
   "groundgameId": "6a24362e0cfb1429b7c0511e",
   "seededAt": "2026-06-06T15:01:02Z",
   "updatedAt": "2026-06-06T15:05:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 6,
+    "3": 4,
+    "4": 12,
+    "5": 125
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJuFWKvu-PlSo1CuCZMXvB7jwY-PlJQSVBtj-4ZMtepdk_ihHoW_iYWJSUDRJlhDEcoMrHJkn5wu858KkZiYz6E6ANwN86WrBaCeUUkm9OZGBDICiERqqzFkfzD-mJdb4WJVAT_gREkYmX=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

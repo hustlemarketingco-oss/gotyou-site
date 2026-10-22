@@ -1,0 +1,54 @@
+{
+  "slug": "jd-sports-5000-tempe",
+  "name": "JD Sports",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Men's clothing store",
+    "Sportswear store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir #558",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3819379,
+  "lng": -111.96435509999999,
+  "phone": "+14808390862",
+  "website": "https://www.jdsports.com/?utm_source=googlemybusiness&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/JD+Sports/data=!4m7!3m6!1s0x872b0f5860f2c0ed:0xc4fe6c86ae5cd946!8m2!3d33.3819379!4d-111.9643551!16s%2Fg%2F1v2f0zwz!19sChIJ7cDyYFgPK4cRRtlcroZs_sQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14194902401225120070",
+  "placeId": "ChIJ7cDyYFgPK4cRRtlcroZs_sQ",
+  "googleRating": 4,
+  "googleReviewCount": 115,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXHhvcaozGSm-1-aPfzeNykuIp5T_9AS7wrxP9YM27bB8--5bBeSNxE2_QnI4-pqL6v3FtDh2rPVjrcbrje5Vm7bliuZp85LWSv6E6GtbXG6KTLY5eFBnILBvEOT0nEnz6hLVD=w1200-h800-k-no",
+  "description": "Retail chain carrying a large selection of athletic footwear, apparel & accessories, plus fan gear.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 1,
+    "3": 12,
+    "4": 18,
+    "5": 67
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

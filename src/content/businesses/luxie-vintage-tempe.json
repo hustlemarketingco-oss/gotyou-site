@@ -2,7 +2,7 @@
   "slug": "luxie-vintage-tempe",
   "name": "Luxie Vintage",
   "category": "Shopping",
-  "googleCategory": "Clothing store",
+  "googleCategory": "Vintage clothing store",
   "address": "2240 N Scottsdale Rd #101",
   "city": "Tempe",
   "state": "AZ",
@@ -13,7 +13,7 @@
   "website": "http://luxievintage.com/",
   "placeId": "ChIJ5YmS-24JK4cRN_oeUUcFZL0",
   "googleRating": 4.8,
-  "googleReviewCount": 37,
+  "googleReviewCount": 43,
   "hours": {
     "mon": "Closed",
     "tue": "12:00 PM - 6:00 PM",
@@ -29,5 +29,18 @@
   "groundgameId": "6a44403078b2633dbe4588ac",
   "seededAt": "2026-06-30T22:16:16Z",
   "updatedAt": "2026-06-30T22:16:17Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13647038574701247031",
+  "googleMapsUrl": "https://www.google.com/maps/place/Luxie+Vintage/data=!4m7!3m6!1s0x872b096efb9289e5:0xbd640547511efa37!8m2!3d33.453556!4d-111.9270743!16s%2Fg%2F11n85_yhwn!19sChIJ5YmS-24JK4cRN_oeUUcFZL0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "2": 2,
+    "4": 2,
+    "5": 39
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdtKAmPzETW1enDRgC6T3nwl2cKyoxXJy1WLKakjvIoZ7R8RxoX480V4uWjSvP_Z2nAR1tkGdCV2aRMNSMLC67VYfwFxyK6g7p6cHVHb8b4WVfuaqfAT17TQW2QvSc8wcugAaW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

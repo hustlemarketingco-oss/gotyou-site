@@ -1,0 +1,42 @@
+{
+  "slug": "phoenix-waxing-tempe",
+  "name": "Phoenix Waxing",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "address": "1800 E Rio Salado Pkwy Ste 170 rm 149",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4301343,
+  "lng": -111.9078534,
+  "phone": "+14807445757",
+  "website": "https://phoenixwaxing.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phoenix+Waxing/data=!4m7!3m6!1s0x872b0985567dd1a9:0x80601845c722a06e!8m2!3d33.4301343!4d-111.9078534!16s%2Fg%2F11xshpnjqx!19sChIJqdF9VoUJK4cRbqAix0UYYIA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9250420322591744110",
+  "placeId": "ChIJqdF9VoUJK4cRbqAix0UYYIA",
+  "googleRating": 5,
+  "googleReviewCount": 22,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGAW9HTvu0b78oVIG0B6uIKC_tumWCveSpxOy4FwjEa0zvO9oBeP-zs4CsCg9Krwv96q-qsOIJ5NKQQPOrs9md9MybUpqV1C14z_406DDC9lZgfJNvDyBbpGnEYrz-0CKdLEJQPbMFLOjV=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 22
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 3:30 PM",
+    "wed": "1:30 PM - 7:00 PM",
+    "thu": "12:30 PM - 7:00 PM",
+    "fri": "10:00 AM - 3:30 PM",
+    "sat": "9:00 AM - 3:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "arizona-heritage-center-tempe",
+  "name": "Arizona Heritage Center",
+  "category": "Fun & Activities",
+  "googleCategory": "History museum",
+  "secondaryCategories": [
+    "Museum",
+    "Tourist attraction"
+  ],
+  "address": "1300 N College Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4431058,
+  "lng": -111.9338978,
+  "phone": "+14809290292",
+  "website": "http://www.arizonahistoricalsociety.org/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Heritage+Center/data=!4m7!3m6!1s0x872b093d070f0f39:0x2b7a9c70b1ffbeec!8m2!3d33.4431058!4d-111.9338978!16s%2Fm%2F0jytz8s!19sChIJOQ8PBz0JK4cR7L7_sXCceis?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3132988498626199276",
+  "placeId": "ChIJOQ8PBz0JK4cR7L7_sXCceis",
+  "googleRating": 4.7,
+  "googleReviewCount": 335,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2lHJX9pyIDqYkNTfpw5eA0ZMbGU3Djh3-w7oTWOMuqiVmZJJCKq4Gy951WN_jaYcSdIpCb819dYpRpquk76O9ime5AHjZzLTypowo74G0q7YNpPPXG1ABRXtNAFWPhyMMn0sk0g=w1200-h800-k-no",
+  "description": "Showcase for multimedia & hands-on displays on city life & other aspects of Arizona history.",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "3": 6,
+    "4": 54,
+    "5": 268
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

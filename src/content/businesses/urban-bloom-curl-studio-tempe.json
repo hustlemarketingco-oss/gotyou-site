@@ -1,0 +1,47 @@
+{
+  "slug": "urban-bloom-curl-studio-tempe",
+  "name": "Urban Bloom Curl Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1948 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4224461,
+  "lng": -111.90309069999999,
+  "phone": "+14804200538",
+  "website": "http://urbanbloomcurls.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Urban+Bloom+Curl+Studio/data=!4m7!3m6!1s0x872ba91e178c0f25:0xd061408901a35c31!8m2!3d33.4224461!4d-111.9030907!16s%2Fg%2F11dzsx7__m!19sChIJJQ-MFx6pK4cRMVyjAYlAYdA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15015353589812124721",
+  "placeId": "ChIJJQ-MFx6pK4cRMVyjAYlAYdA",
+  "googleRating": 4.5,
+  "googleReviewCount": 270,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB_I8UAFFkzvBX8_HpXvlsQdVTUx9vrTfOS3WH9TsA5bT-8NPSZ2TSCr7-FDFd2bHwND69qGGO5EdO8xchr6sUOlTfbhx9v-umtrL0Q1uK7eqBh71O4I-qSpocH7H1wbwddOkEIw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 2,
+    "3": 8,
+    "4": 4,
+    "5": 230
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

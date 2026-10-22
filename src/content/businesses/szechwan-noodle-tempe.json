@@ -15,31 +15,18 @@
   "lng": -111.8935142,
   "phone": "+14807773588",
   "website": "http://www.szechwannoodlearizona.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14484691490524750581",
+  "googleMapsUrl": "https://www.google.com/maps/place/Szechwan+Noodle/data=!4m7!3m6!1s0x872b08780f3be34d:0xc903f62addd9e2f5!8m2!3d33.392322!4d-111.8935142!16s%2Fg%2F11c6spg2_l!19sChIJTeM7D3gIK4cR9eLZ3Sr2A8k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14484691490524750581",
   "placeId": "ChIJTeM7D3gIK4cR9eLZ3Sr2A8k",
   "googleRating": 4.5,
-  "googleReviewCount": 480,
+  "googleReviewCount": 491,
   "priceRange": "$10–30",
   "description": "Modest standby in a strip mall offering traditional Sichuan fare, plus takeout & delivery options.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Free parking lot",
-    "Free street parking",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:30 AM - 9:30 PM",
@@ -56,5 +43,14 @@
   "groundgameId": "6a2437f1ce7cb85d6083b798",
   "seededAt": "2026-06-06T15:08:33Z",
   "updatedAt": "2026-06-06T15:08:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 37,
+    "2": 10,
+    "3": 13,
+    "4": 48,
+    "5": 383
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftomGm6Y9nag9CtQehf3wteJQAdbUPyzN9n98JwxLjGZkxOB1K6mPNkRrbBaereUUrLWsDgPYS71E19Bgbbv71pU8PWlLZwfHrQyRGWRseShmqa50RGu-NX_w8Rr-pCaAdqEnqog=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -2,7 +2,7 @@
   "slug": "seattle-espresso-inc-tempe",
   "name": "Seattle Espresso Inc.",
   "category": "Coffee & Cafe",
-  "googleCategory": "Coffee shop",
+  "googleCategory": "Cafe",
   "secondaryCategories": [
     "Cafe"
   ],
@@ -14,24 +14,10 @@
   "priceRange": "$1–10",
   "description": "Located in Tempe, Seattle Espresso Inc. is a casual, cozy coffee shop & cafe with coffee, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/seattleespressoaz"
@@ -42,5 +28,31 @@
   "groundgameId": "6a2439486054891a23905e21",
   "seededAt": "2026-06-06T15:14:16Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJiWdBKeMGK4cRouYWAQDgLvQ",
+  "googleCid": "17595247084806006434",
+  "googleMapsUrl": "https://www.google.com/maps/place/Seattle+Espresso+Inc./data=!4m7!3m6!1s0x872b06e329416789:0xf42ee0000116e6a2!8m2!3d33.3358335!4d-111.9078596!16s%2Fg%2F1tj5872n!19sChIJiWdBKeMGK4cRouYWAQDgLvQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 405,
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 3,
+    "3": 12,
+    "4": 46,
+    "5": 333
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf11WHBtzqsxVaMuLM_iwPp0gAsU56vEUJtiAWs4Fv5Oyvn65Ffny6uAhK0jPZk7x7fbe4Zrol7F8gfcZCQGhDD8R9jphec1UpOMYeOQQWTn3H8Co7KvpNJhZ94uo3teb3JRf62P1YGd_Dj=w1200-h800-k-no",
+  "website": "http://www.seattleespressoaz.com/",
+  "hours": {
+    "mon": "5:30 AM - 6:00 PM",
+    "tue": "5:30 AM - 6:00 PM",
+    "wed": "5:30 AM - 6:00 PM",
+    "thu": "5:30 AM - 6:00 PM",
+    "fri": "5:30 AM - 6:00 PM",
+    "sat": "5:30 AM - 6:00 PM",
+    "sun": "5:30 AM - 6:00 PM"
+  },
+  "lat": 33.3358335,
+  "lng": -111.9078596,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

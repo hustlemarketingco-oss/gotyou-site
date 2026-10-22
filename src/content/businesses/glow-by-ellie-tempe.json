@@ -1,0 +1,43 @@
+{
+  "slug": "glow-by-ellie-tempe",
+  "name": "Glow By Ellie",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "address": "115 W 6th St Ste 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424233699999995,
+  "lng": -111.9418692,
+  "website": "https://glowbyellie.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Glow+By+Ellie/data=!4m7!3m6!1s0x872b0d4780350da3:0x18785113e4299976!8m2!3d33.4242337!4d-111.9418692!16s%2Fg%2F11y3jcjnzk!19sChIJow01gEcNK4cRdpkp5BNReBg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1763248399989709174",
+  "placeId": "ChIJow01gEcNK4cRdpkp5BNReBg",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTmwCw8oBTs8PamO4USBuPYidNHUhOfvv5GmO-VKtpg0SedK8naUZNJ3kpkpW-UsMwKLSvad3PjwFJy36CfdlFy1c9ZBkbgV03We7s5OUQN-EOpxTuCRNbu8rZe_GW4U1LvTC2HwLkaGk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "2:00 PM - 8:00 PM",
+    "fri": "2:00 PM - 8:00 PM",
+    "sat": "2:00 PM - 8:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

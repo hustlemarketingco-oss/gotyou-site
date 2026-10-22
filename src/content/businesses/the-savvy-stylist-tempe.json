@@ -1,0 +1,46 @@
+{
+  "slug": "the-savvy-stylist-tempe",
+  "name": "The Savvy Stylist",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "975 E Elliot Rd #104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3485636,
+  "lng": -111.9266208,
+  "phone": "+14808204247",
+  "website": "http://www.thesavvystylist.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Savvy+Stylist/data=!4m7!3m6!1s0x872b06f2cd9946cf:0xee78bf54a23ad9e9!8m2!3d33.3485636!4d-111.9266208!16s%2Fg%2F11bx4c2lp2!19sChIJz0aZzfIGK4cR6dk6olS_eO4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17183694748452051433",
+  "placeId": "ChIJz0aZzfIGK4cR6dk6olS_eO4",
+  "googleRating": 4.6,
+  "googleReviewCount": 201,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXZGzG4L-YE9oUqn8lZeGmDBTib8Xuims_1V5Lm6ptZNYvAHj5HeyCYd0wFenYF4adMViCBdhmyfrZaHS485qBhO9gD7C639QFMzIVOLjCVkPLUFWZ9nFcHWishWuY_v2w8MY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 16,
+    "2": 3,
+    "4": 8,
+    "5": 174
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

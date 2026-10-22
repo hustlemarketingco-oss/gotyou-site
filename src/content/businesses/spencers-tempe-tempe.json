@@ -1,0 +1,53 @@
+{
+  "slug": "spencers-tempe-tempe",
+  "name": "Spencer's",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Adult entertainment store",
+    "Collectibles store",
+    "Jewelry store",
+    "Novelty store",
+    "T-shirt store"
+  ],
+  "address": "Tempe Marketplace, 2000 E Rio Salado Pkwy sp 1137",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4337636,
+  "lng": -111.9024116,
+  "phone": "+18335430751",
+  "website": "https://stores.spencersonline.com/az/tempe/tempe-marketplace-02215.html?utm_medium=referral&utm_source=google&utm_campaign=local_listing&utm_inex=e",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spencer%27s/data=!4m7!3m6!1s0x872b09aacb798dcb:0x63b225ee2d76a636!8m2!3d33.4337636!4d-111.9024116!16s%2Fg%2F11c6lktctm!19sChIJy415y6oJK4cRNqZ2Le4lsmM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7183846060504557110",
+  "placeId": "ChIJy415y6oJK4cRNqZ2Le4lsmM",
+  "googleRating": 4.3,
+  "googleReviewCount": 93,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc7RKem0fBUeGnFmyf5xMCIjpZQi6UOzxjQ72vrxOAbc3mn7mKnIWFLm_44gGZk9YsJHGG0n1HpkXOWBTFM7tuMm-z84ueOKLPeO34ZtUXir1XlzoFExAVIW4UzBwYQOhipWxygyu0z10x=w1200-h800-k-no",
+  "description": "Mall-based retail chain offering novelty goods & apparel, plus a selection of adult products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "3": 12,
+    "4": 12,
+    "5": 61
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

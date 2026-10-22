@@ -1,0 +1,45 @@
+{
+  "slug": "desi-plaza-tempe",
+  "name": "Desi Plaza",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "address": "1041 E Lemon St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.416329,
+  "lng": -111.9225314,
+  "phone": "+14809681573",
+  "googleMapsUrl": "https://www.google.com/maps/place/Desi+Plaza/data=!4m7!3m6!1s0x872b08ef24c288e9:0x4ec1191636162725!8m2!3d33.416329!4d-111.9225314!16s%2Fg%2F1tqyfzg2!19sChIJ6YjCJO8IK4cRJScWNhYZwU4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5674844588650932005",
+  "placeId": "ChIJ6YjCJO8IK4cRJScWNhYZwU4",
+  "googleRating": 3.2,
+  "googleReviewCount": 420,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpLeZXz4qFikbeYrQvF45Fp-NvxVZY6vDaAVPGqkLAynTanHklNu_llUYNC-qZL1wDsN3rshpn5FJ-slvOP_HSgHoxUeSYLVYzn72KEgO_-iZHTGioX_3B-7q8j8qzmV2jvpnTEfCX3Zc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 98,
+    "2": 35,
+    "3": 79,
+    "4": 91,
+    "5": 117
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:30 PM",
+    "tue": "10:00 AM - 9:30 PM",
+    "wed": "10:00 AM - 9:30 PM",
+    "thu": "10:00 AM - 9:30 PM",
+    "fri": "10:00 AM - 9:30 PM",
+    "sat": "10:00 AM - 9:30 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

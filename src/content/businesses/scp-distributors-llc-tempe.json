@@ -1,0 +1,46 @@
+{
+  "slug": "scp-distributors-llc-tempe",
+  "name": "SCP Distributors LLC",
+  "category": "Shopping",
+  "googleCategory": "Swimming pool supply store",
+  "address": "8945 S Harl Ave Ste 106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332561,
+  "lng": -111.96618,
+  "phone": "+14807875649",
+  "website": "http://www.scppool.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SCP+Distributors+LLC/data=!4m7!3m6!1s0x872b04325b235ccb:0xbafb39e2377b2f31!8m2!3d33.332561!4d-111.96618!16s%2Fg%2F11c6ddsx__!19sChIJy1wjWzIEK4cRMS97N-I5-7o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13473426353965182769",
+  "placeId": "ChIJy1wjWzIEK4cRMS97N-I5-7o",
+  "googleRating": 4.3,
+  "googleReviewCount": 78,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXaaItQzJaEgezSSRCvFL1uG3Xm4bxkd9i5G7R-h9rn-7SXLrZbkKeHPmgH497Z7MR3C7ZtGmlp3D6xoTDwQ0twxLt4j6H_2PnVbGE8GdHZJAfjzoRwJeJqBV1skAY-VHLT3ar=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 5,
+    "4": 13,
+    "5": 51
+  },
+  "hours": {
+    "mon": "7:00 AM - 4:00 PM",
+    "tue": "7:00 AM - 4:00 PM",
+    "wed": "7:00 AM - 4:00 PM",
+    "thu": "7:00 AM - 4:00 PM",
+    "fri": "7:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

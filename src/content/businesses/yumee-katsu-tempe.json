@@ -1,0 +1,35 @@
+{
+  "slug": "yumee-katsu-tempe",
+  "name": "Yumee Katsu",
+  "category": "Asian & Pacific",
+  "googleCategory": "Japanese restaurant",
+  "address": "5350 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.376001599999995,
+  "lng": -111.9199246,
+  "googleMapsUrl": "https://www.google.com/maps/place/Yumee+Katsu/data=!4m7!3m6!1s0x872b07006eb765e7:0xbd88f45adc6636d9!8m2!3d33.3760016!4d-111.9199246!16s%2Fg%2F11nqpk8p2j!19sChIJ52W3bgAHK4cR2TZm3Fr0iL0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13657434541082949337",
+  "placeId": "ChIJ52W3bgAHK4cR2TZm3Fr0iL0",
+  "googleRating": 3.8,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczHqlcgDkVXvmh8JlktCqwaNfgrpiIu0GiUavPsP83InEz8ETcwdGncEnKyPuH2rPkIFNdr8BxR-5QE3YkrnNRDbmn7Txblo9G90myRZuVTM72JgTYiwPo5Yt86g3dfW6ebzNlZwGlhev3=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 3
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "big-brand-tire-service-tempe",
+  "name": "Big Brand Tire & Service",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Auto air conditioning service",
+    "Auto repair shop",
+    "Auto tune up service",
+    "Brake shop",
+    "Car battery store",
+    "Mechanic",
+    "Oil change service",
+    "Tire repair shop"
+  ],
+  "address": "42 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3931204,
+  "lng": -111.938558,
+  "phone": "+14807906719",
+  "website": "https://www.bigbrandtire.com/locations/tempe-southern-ave-az?store_number=3017&utm_source=organic&utm_medium=gbp&utm_campaign=3017",
+  "googleMapsUrl": "https://www.google.com/maps/place/Big+Brand+Tire+%26+Service/data=!4m7!3m6!1s0x872b08a5404be339:0x823ee13d9824d9a4!8m2!3d33.3931204!4d-111.938558!16s%2Fg%2F1td05j6v!19sChIJOeNLQKUIK4cRpNkkmD3hPoI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9385186328148498852",
+  "placeId": "ChIJOeNLQKUIK4cRpNkkmD3hPoI",
+  "googleRating": 4.7,
+  "googleReviewCount": 706,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLflnBLC9aQtw5rJKkRBb28ATyUwHa6WYfnWQbXGYY_qyRJ2CkUVQIagRzWs7dIkFhl18W_VAQYctasSVgI9VCSebfNOnjRDc4A7SSp_ZDA9P9BsJVj-gG_LKxqmzcyEl3AsLGQxXnCPJGTL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 10,
+    "3": 6,
+    "4": 30,
+    "5": 628
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

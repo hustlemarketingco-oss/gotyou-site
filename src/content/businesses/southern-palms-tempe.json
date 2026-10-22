@@ -1,0 +1,38 @@
+{
+  "slug": "southern-palms-tempe",
+  "name": "Southern Palms",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1706 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3943143,
+  "lng": -111.9113182,
+  "phone": "+19293887922",
+  "website": "https://www.phillipsedison.com/property/arizona/phoenix-az/tempe/southern-palms",
+  "googleMapsUrl": "https://www.google.com/maps/place/Southern+Palms/data=!4m7!3m6!1s0x872b098580972021:0x9682292de3a37d64!8m2!3d33.3943143!4d-111.9113182!16s%2Fg%2F11ltt_5n6n!19sChIJISCXgIUJK4cRZH2j4y0pgpY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10845276129730985316",
+  "placeId": "ChIJISCXgIUJK4cRZH2j4y0pgpY",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIntYj9qhWE5vCBKDoV1knvpTUxU8Ec0YpS-PpEwkuO97Lh5TtLUNds9rC1vzjOhdKobqmQ_J7exSCmw2Qn8P86tVp_nls0XjDEcBArOUs1BPq13zsjMRu0kRTCUo7QvgkTvRyewgQhVA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -18,24 +18,10 @@
   "priceRange": "$10–20",
   "description": "Located in Tempe, Taqueria Factory is a casual taco restaurant & bar & grill with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/taqueriafactoryusa"
@@ -46,5 +32,31 @@
   "groundgameId": "6a243975ea0ece71a74ef8d3",
   "seededAt": "2026-06-06T15:15:01Z",
   "updatedAt": "2026-06-09T01:18:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJN4ZeasIPK4cRTaWEO-J0OlU",
+  "googleCid": "6141349556883072333",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taqueria+Factory/data=!4m7!3m6!1s0x872b0fc26a5e8637:0x553a74e23b84a54d!8m2!3d33.3805709!4d-111.9623715!16s%2Fg%2F11l6qjj2y6!19sChIJN4ZeasIPK4cRTaWEO-J0OlU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 990,
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 33,
+    "3": 33,
+    "4": 74,
+    "5": 808
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegGQ7GoNtMjc8xf04g2iV5Nst5wdMfInBTVshy-nmQJ0Rh71pNJdDvFxu5vWZJSNbGNJ4no9qYGVGgBZWp8Z69xWNmspIn1Cc_hEbdO0p213vgzHCuxaD5Lah5wNMpfYH7JIxe=w1200-h800-k-no",
+  "website": "http://taqueriafactory.com/",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "lat": 33.380570899999995,
+  "lng": -111.96237149999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "wendys-109-tempe",
+  "name": "Wendy's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "109 S Perry Ln",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.428845599999995,
+  "lng": -111.90442689999999,
+  "phone": "+14803933440",
+  "website": "https://locations.wendys.com/united-states/az/tempe/109-south-perry-lane?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x872b09007990a31d:0x172b1e7777f00bb7!8m2!3d33.4288456!4d-111.9044269!16s%2Fg%2F11yvwfkz_r!19sChIJHaOQeQAJK4cRtwvwd3ceKxc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1669461585333062583",
+  "placeId": "ChIJHaOQeQAJK4cRtwvwd3ceKxc",
+  "googleRating": 3.8,
+  "googleReviewCount": 49,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAw7EdfMLc5mozF0LdVXgWENlwD0rnrmHwl8OCW9i_9oUQ93z7-L2iCcBHfVpSv5h9CAgudhiqDsH8OBPjCDgZzzBIUqnDlSRIv4oWtGpaEgbqLJsmArFOgHelAetn9SyU8WChIqQXq3T8=w1200-h800-k-no",
+  "description": "Fast-food burger chain serving sides such as chili & baked potatoes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 6,
+    "3": 4,
+    "4": 2,
+    "5": 29
+  },
+  "hours": {
+    "mon": "6:30 AM - 1:00 AM",
+    "tue": "6:30 AM - 1:00 AM",
+    "wed": "6:30 AM - 1:00 AM",
+    "thu": "6:30 AM - 1:30 AM",
+    "fri": "6:30 AM - 1:30 AM",
+    "sat": "6:30 AM - 1:30 AM",
+    "sun": "6:30 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

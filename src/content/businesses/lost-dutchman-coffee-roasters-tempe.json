@@ -1,0 +1,37 @@
+{
+  "slug": "lost-dutchman-coffee-roasters-tempe",
+  "name": "Lost Dutchman Coffee Roasters",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee roastery",
+  "address": "1920 E 3rd St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4277553,
+  "lng": -111.903576,
+  "phone": "+16232171304",
+  "website": "https://lostdutchmanroasters.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lost+Dutchman+Coffee+Roasters/data=!4m7!3m6!1s0x872b0983959dd3a3:0x39992cca26cf64a0!8m2!3d33.4277553!4d-111.903576!16s%2Fg%2F11qh2xs0y4!19sChIJo9OdlYMJK4cRoGTPJsosmTk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4150397778344764576",
+  "placeId": "ChIJo9OdlYMJK4cRoGTPJsosmTk",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5qdAUB7ymSK3h580rAi6sPmbLW92gawejRdqohQEV7rM2mjtYAQM7bG-3EEjONjUMU9Z7MX1N0U1clSV3f8M8FUgC766N5LPxWLdCM3ix8SgY5iuTE48LauAvRttZeDzuqJI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "11:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

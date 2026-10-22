@@ -2,7 +2,7 @@
   "slug": "revibeu-wellness-spa-tempe",
   "name": "ReVibeU Wellness Spa",
   "category": "Health & Beauty",
-  "googleCategory": "Wellness center",
+  "googleCategory": "Day spa",
   "secondaryCategories": [
     "Spa"
   ],
@@ -16,7 +16,7 @@
   "website": "https://revibeu.com/",
   "placeId": "ChIJd8aqx3oJK4cRgKdXSSpuLI8",
   "googleRating": 4.8,
-  "googleReviewCount": 389,
+  "googleReviewCount": 397,
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
     "tue": "10:00 AM - 9:00 PM",
@@ -32,5 +32,21 @@
   "groundgameId": "6a4428c3ad83cb113577a669",
   "seededAt": "2026-06-30T20:36:19Z",
   "updatedAt": "2026-07-12T00:27:37Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "10316741974297126784",
+  "googleMapsUrl": "https://www.google.com/maps/place/ReVibeU+Wellness+Spa/data=!4m7!3m6!1s0x872b097ac7aac677:0x8f2c6e2a4957a780!8m2!3d33.4228927!4d-111.9257838!16s%2Fg%2F11ghzn443s!19sChIJd8aqx3oJK4cRgKdXSSpuLI8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 3,
+    "3": 4,
+    "4": 13,
+    "5": 368
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBh6tOv1-zKw5rir3IkVRvjSmkzNBUks4Cy3v3pYs7dYeNJ1YdrSOA-261CixMewx_A3Ie_2fCMfMubyiDfdKgCXmWicj7ljExLAmfZO93C0CiXii7IEEBGZ3z6Vp8eAFoi0k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

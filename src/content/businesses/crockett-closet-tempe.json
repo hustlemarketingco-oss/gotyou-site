@@ -1,0 +1,43 @@
+{
+  "slug": "crockett-closet-tempe",
+  "name": "Crockett Closet",
+  "category": "Shopping",
+  "googleCategory": "Vintage clothing store",
+  "address": "1060 W Alameda Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4004662,
+  "lng": -111.95480239999999,
+  "phone": "+14802259660",
+  "website": "http://crockettcloset.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Crockett+Closet/data=!4m7!3m6!1s0x872b09227fb8ea4f:0xd23dd20abda027ab!8m2!3d33.4004662!4d-111.9548024!16s%2Fg%2F11mrcmgqmp!19sChIJT-q4fyIJK4cRqyegvQrSPdI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15149495665117112235",
+  "placeId": "ChIJT-q4fyIJK4cRqyegvQrSPdI",
+  "googleRating": 4.9,
+  "googleReviewCount": 121,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduTIfaIQXhxOnrAyFcWq9LvfPtq_T28XrdqFCv9FUKg4ZPFJCOdwHwXG1TFCcldc_wdDYshTuBY4oF-AmKxA7Pnq1xVp21SJ7vuucN4dk15IJ_fkyaOUIa0zh6sT1A8KGTLh7RkfrQob2O=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 119
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "collectables-and-more-tempe",
+  "name": "Collectables and More",
+  "category": "Shopping",
+  "googleCategory": "Consignment shop",
+  "address": "6741 S Stanley Pl",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.359574099999996,
+  "lng": -111.9214604,
+  "phone": "+15203389781",
+  "website": "https://collectablesandmore.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Collectables+and+More/data=!4m7!3m6!1s0x872b07c8f88626fd:0x4c186a4ff839c71a!8m2!3d33.3595741!4d-111.9214604!16s%2Fg%2F11x6d_7g45!19sChIJ_SaG-MgHK4cRGsc5-E9qGEw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5483249438023075610",
+  "placeId": "ChIJ_SaG-MgHK4cRGsc5-E9qGEw",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSG8sf06WL1yVTLPdUsrrvHpXnfYVO0x19-jasIdkinmXMuc5Z_V-pYByJTu_zD7kBoLMPRVZgE9fEjip9T3sBXyL-SglStL2-OR8Y9LAu4MOS_QyL4w-epcQG9cEI_GxJ-nNwdPGLDK6_=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "7:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

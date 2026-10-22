@@ -14,22 +14,16 @@
   "lat": 33.385155,
   "lng": -111.963748,
   "phone": "+14804158442",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3327071497229861055",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yoyo+Yogurt/data=!4m7!3m6!1s0x872b0f59e1444903:0x2e2c21e62eb680bf!8m2!3d33.385155!4d-111.963748!16s%2Fg%2F1tjkg7yx!19sChIJA0lE4VkPK4cRv4C2LuYhLC4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3327071497229861055",
   "placeId": "ChIJA0lE4VkPK4cRv4C2LuYhLC4",
   "googleRating": 3.5,
-  "googleReviewCount": 90,
+  "googleReviewCount": 92,
   "priceRange": "$",
   "description": "Located in Tempe, Yoyo Yogurt is a frozen yogurt shop & dessert shop with takeout & delivery.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 8:00 PM",
@@ -46,5 +40,14 @@
   "groundgameId": "6a24364aafc68fd23f42fdad",
   "seededAt": "2026-06-06T15:01:30Z",
   "updatedAt": "2026-06-06T15:06:11Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 8,
+    "3": 5,
+    "4": 15,
+    "5": 41
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUFDH4Y6KYphMefrMvSadgXdtfGRGBwvwWBKqaFPhOGU_9TVK5PVLdiWczYYemldJFf6S8a3bCdHvqIBN1yas4lmY_DhXaErqAXFdxYp0ZshoOmP5-bKH9YnBwgO0sanSfWHliMgJbiH__=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

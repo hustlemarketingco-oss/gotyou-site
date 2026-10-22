@@ -1,0 +1,48 @@
+{
+  "slug": "artistexpress-tempe",
+  "name": "ArtistExpress",
+  "category": "Shopping",
+  "googleCategory": "Print shop",
+  "secondaryCategories": [
+    "Commercial printer",
+    "Digital printer",
+    "Digital printing service"
+  ],
+  "address": "1320 S Priest Dr #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.413995299999996,
+  "lng": -111.9614957,
+  "website": "https://artistexpress.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ArtistExpress/data=!4m7!3m6!1s0x872b08573f41e601:0xf8fecfb82349e739!8m2!3d33.4139953!4d-111.9614957!16s%2Fg%2F11g9nt67z6!19sChIJAeZBP1cIK4cROedJI7jP_vg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17942006355263612729",
+  "placeId": "ChIJAeZBP1cIK4cROedJI7jP_vg",
+  "googleRating": 4.7,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6PmXT8fL0xk6XzSQxwfTosrj5v81mokW8SO6V6yrYAcbRy6CaHnt7DWj8k8vqLjA5gBOrX72_pyAdD-OJCwdchGmB1R5ahh5QYs-jyxoUj5DnluGdLheEFCogEESpxokJQsM0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 16
+  },
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

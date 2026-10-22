@@ -1,0 +1,36 @@
+{
+  "slug": "phenomenails-tempe",
+  "name": "Phenomenails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1761 E Warner Rd Unit 118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3334,
+  "lng": -111.91268799999999,
+  "phone": "+14803758274",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phenomenails/data=!4m7!3m6!1s0x872b076327a5ccb3:0xbf3e7611d0c8f90!8m2!3d33.3334!4d-111.912688!16s%2Fg%2F11n0fwzx0w!19sChIJs8ylJ2MHK4cRkI8MHWHn8ws?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "861286358043103120",
+  "placeId": "ChIJs8ylJ2MHK4cRkI8MHWHn8ws",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ofwNvl2vldzrUwe2wCaXQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=187.51318&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

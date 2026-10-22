@@ -18,7 +18,7 @@
   "website": "https://tempe.doghaus.com/",
   "placeId": "ChIJl1cNJ1AJK4cRma-LQ2z11Ic",
   "googleRating": 4.3,
-  "googleReviewCount": 709,
+  "googleReviewCount": 760,
   "priceRange": "$$",
   "hours": {
     "mon": "7:00 AM - 10:30 PM",
@@ -35,5 +35,22 @@
   "groundgameId": "6a457a2bca83f6dc1b137e1e",
   "seededAt": "2026-07-01T20:35:55Z",
   "updatedAt": "2026-09-14T22:32:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9787717735521431449",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dog+Haus+Biergarten/data=!4m7!3m6!1s0x872b0950270d5797:0x87d4f56c438baf99!8m2!3d33.4341807!4d-111.9271907!16s%2Fg%2F11mbmwx1fz!19sChIJl1cNJ1AJK4cRma-LQ2z11Ic?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 30,
+    "3": 46,
+    "4": 96,
+    "5": 530
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerUw-TBDqllgEabi2E-Ck7jQTpppSAl55zVo2J7Nrt5kJAtknVPkaz6CywEYY-X7qmRI1Uf9ZYsvtyFv492OLiRwwJqYSjtLb__GDRsM5U4l_l55X6Sy66Rw4aF5HKSw0O_rMP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

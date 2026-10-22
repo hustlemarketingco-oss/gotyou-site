@@ -1,0 +1,42 @@
+{
+  "slug": "toasted-bean-coffee-truck-tempe",
+  "name": "Toasted Bean Coffee Truck",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee stand",
+  "address": "7760 S Priest Dr Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3477314,
+  "lng": -111.96523859999999,
+  "phone": "+16027704781",
+  "website": "https://toastedbeancoffee.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Toasted+Bean+Coffee+Truck/data=!4m7!3m6!1s0xa0fe98cf33edf127:0x5d5acc68a97b207c!8m2!3d33.3477314!4d-111.9652386!16s%2Fg%2F11whs29xb9!19sChIJJ_HtM8-Y_qARfCB7qWjMWl0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6726913743323340924",
+  "placeId": "ChIJJ_HtM8-Y_qARfCB7qWjMWl0",
+  "googleRating": 5,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU8QbgB3Ep9Wx6eJifZ7sag_DYcIJM4Y4lcQPz8iNIkpVEtpA4DoJEEgBzvup_ChI-9WSDFlJ8ot1aLwUqM2InwAYeELlpkuRP_3WKJD2xhPG4O3C3QmY_Nl-xvoli7MAFHY4JpBxwIdfu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 19
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "8:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
+    "thu": "8:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
+    "fri": "8:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
+    "sat": "9:00 AM - 4:00 PM",
+    "sun": "9:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

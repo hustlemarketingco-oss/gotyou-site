@@ -1,0 +1,52 @@
+{
+  "slug": "rosatis-pizza-tempe",
+  "name": "Rosati’s Pizza",
+  "category": "Pizza",
+  "googleCategory": "Pizza restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Pizza delivery",
+    "Pizza Takeout"
+  ],
+  "address": "1730 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3353008,
+  "lng": -111.912112,
+  "phone": "+14808204444",
+  "website": "https://www.rosatispizza.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rosati%E2%80%99s+Pizza/data=!4m7!3m6!1s0x872b06fb2d7b9ab5:0xc54ae1b58ca05621!8m2!3d33.3353008!4d-111.912112!16s%2Fg%2F1tfgk8h2!19sChIJtZp7LfsGK4cRIVagjLXhSsU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14216423343613040161",
+  "placeId": "ChIJtZp7LfsGK4cRIVagjLXhSsU",
+  "googleRating": 4.3,
+  "googleReviewCount": 1173,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbf3AiLm49jPe0_AItmcJuitL597Wae_MzGmvSwblx-6rpbX-Mk4FfNHx3778rqpRbLLuwKfIoX5ieOJSD7AeDa2JmSufGnWPE78KRAZCUVIRgXImKwS3AM06cPAQq5V-2QPfu3Q=w1200-h800-k-no",
+  "description": "Italian chain eatery featuring Chicago-style deep-dish pizza, plus pasta & sandwiches.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 113,
+    "2": 51,
+    "3": 54,
+    "4": 104,
+    "5": 851
+  },
+  "hours": {
+    "mon": "4:00 PM - 9:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

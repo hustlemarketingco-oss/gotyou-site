@@ -1,0 +1,53 @@
+{
+  "slug": "wide-world-maps-more-tempe-mini-store-tempe",
+  "name": "Wide World Maps & MORE! Tempe Mini-Store",
+  "category": "Shopping",
+  "googleCategory": "Map store",
+  "secondaryCategories": [
+    "Book publisher",
+    "Book store",
+    "Mapping service",
+    "Outdoor sports store"
+  ],
+  "address": "2650 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4573689,
+  "lng": -111.9270554,
+  "phone": "+14803488917",
+  "website": "http://www.maps4u.com/faq/locations.shtml#lowergear",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wide+World+Maps+%26+MORE!+Tempe+Mini-Store/data=!4m7!3m6!1s0x872b085b29ee60a3:0x89fd6afc80b13fde!8m2!3d33.4573689!4d-111.9270554!16s%2Fg%2F11gblxq1jv!19sChIJo2DuKVsIK4cR3j-xgPxq_Yk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9943221185027325918",
+  "placeId": "ChIJo2DuKVsIK4cR3j-xgPxq_Yk",
+  "googleRating": 4.1,
+  "googleReviewCount": 27,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclo5Tj5LHNnQuApLRds8Kqmz8eO2pffZb1KJOAMRQ6Poe-Vo0kX11PzIiUydr2MYdxQUVKnmouH8OCh2hdtbGvh1HGVgq90gaOgF0M7pl9-wdmSfrAxUP8GTHezRdtr1e5COu2Oro2Qxo=w1200-h800-k-no",
+  "description": "Unusual retailer featuring a range of print & electronic maps, plus globes, books & framing options.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 17
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

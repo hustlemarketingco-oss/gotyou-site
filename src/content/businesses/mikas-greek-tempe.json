@@ -16,13 +16,13 @@
   "website": "http://www.mikasgreek.com/",
   "placeId": "ChIJVc5BCbAIK4cRV50zuinZyQI",
   "googleRating": 4.6,
-  "googleReviewCount": 419,
+  "googleReviewCount": 423,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -39,5 +39,16 @@
   "groundgameId": "6a398c28d6442e78030801a1",
   "seededAt": "2026-06-22T19:25:28Z",
   "updatedAt": "2026-09-14T02:26:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "200930431635529047",
+  "googleMapsUrl": "https://www.google.com/maps/place/MIKA%E2%80%99S+GREEK/data=!4m7!3m6!1s0x872b08b00941ce55:0x2c9d929ba339d57!8m2!3d33.3948593!4d-111.9404292!16s%2Fg%2F11c4bgwcdn!19sChIJVc5BCbAIK4cRV50zuinZyQI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 7,
+    "3": 16,
+    "4": 50,
+    "5": 338
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOHS3zLhCk2PpRPf7vMvbak-mVhUnvAMByZp4N04o9LctDENFLLtUbzkQEc9Yjtf22vcH5m5vEJCheNZ0DpJGZM7FFxeVDMwnj_1cDbTxFOYgewLy7FSHvrZJAvBKMxVnsPnybVg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

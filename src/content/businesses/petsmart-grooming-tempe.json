@@ -1,0 +1,47 @@
+{
+  "slug": "petsmart-grooming-tempe",
+  "name": "PetSmart Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "1900 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430392999999995,
+  "lng": -111.9012808,
+  "phone": "+14803037262",
+  "website": "https://stores.petsmart.com/az/tempe/tempe-marketplace/grooming?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
+  "googleMapsUrl": "https://www.google.com/maps/place/PetSmart+Grooming/data=!4m7!3m6!1s0x872b09bc49d8a4e5:0x27a5a1db7ed6557f!8m2!3d33.430393!4d-111.9012808!16s%2Fg%2F11fl87dy62!19sChIJ5aTYSbwJK4cRf1XWftuhpSc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2856867502734333311",
+  "placeId": "ChIJ5aTYSbwJK4cRf1XWftuhpSc",
+  "googleRating": 3.9,
+  "googleReviewCount": 34,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLhi_XJ5fGKaN8-mYpf9lSCIqeVoAhwJUCs0LODWvQBYyRcmndcdydHb4xePGJvgwNGijQASrCwbELgi9p-UaRb6n99-z2VrwKvOp7X8pDa0fZWC0-8bC-sqMgOW0voyXGI-Rd=w1200-h800-k-no",
+  "description": "Offshoot of the pet store chain focused on grooming services, including nail & ear care.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 4,
+    "3": 2,
+    "4": 2,
+    "5": 21
+  },
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 7:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -11,27 +11,17 @@
   "lng": -111.908066,
   "phone": "+14804260010",
   "website": "https://www.dairyqueen.com/en-us/locations/az/tempe/1805-e-southern-ave/13576/&y_source=1_ODk5NjEyMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8743455378925910246",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dairy+Queen+%28Treat%29/data=!4m7!3m6!1s0x872b088104dc3d6f:0x7956fe57a25b78e6!8m2!3d33.392531!4d-111.908066!16s%2Fg%2F11b7rnd6cc!19sChIJbz3cBIEIK4cR5nhbolf-Vnk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8743455378925910246",
   "placeId": "ChIJbz3cBIEIK4cR5nhbolf-Vnk",
-  "googleRating": 3.9,
-  "googleReviewCount": 682,
+  "googleRating": 3.8,
+  "googleReviewCount": 694,
   "priceRange": "$",
   "description": "Soft-serve ice cream & signature shakes top the menu at this classic burger & fries fast-food chain.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Quiet",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "10:30 AM - 12:00 AM",
@@ -48,5 +38,14 @@
   "groundgameId": "6a243632a279a653cb0fb70a",
   "seededAt": "2026-06-06T15:01:06Z",
   "updatedAt": "2026-06-12T22:03:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 110,
+    "2": 32,
+    "3": 64,
+    "4": 139,
+    "5": 349
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZOhB2CLNlbKUgrSTnOi4GGv37i3Kg2MiDpoAasyJKYfjg07Uq0_ZbMZ9j58hWP2YR7Foay-C2az7pT11IADesqPVJROAreZlxgolqW85zeKjRwMZu6XQ3mXekWSD8ibCJ6cVd=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

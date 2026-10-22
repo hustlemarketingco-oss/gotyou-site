@@ -1,0 +1,55 @@
+{
+  "slug": "old-navy-outlet-tempe",
+  "name": "Old Navy Outlet",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Baby clothing store",
+    "Children's clothing store",
+    "Jeans shop",
+    "Men's clothing store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 495",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3820258,
+  "lng": -111.9652876,
+  "phone": "+14807529230",
+  "website": "https://oldnavy.gap.com/stores/az/tempe/oldnavy-5732.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Old+Navy+Outlet/data=!4m7!3m6!1s0x872b0f59e1444903:0xda52716226ec0663!8m2!3d33.3820258!4d-111.9652876!16s%2Fg%2F1tdlc5fn!19sChIJA0lE4VkPK4cRYwbsJmJxUto?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15731761114732299875",
+  "placeId": "ChIJA0lE4VkPK4cRYwbsJmJxUto",
+  "googleRating": 4.3,
+  "googleReviewCount": 383,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcm8QyynqRn3fwtzaPDoCui6g8Fyog8_r1d5qk5U478b60zm57eT0t7OwOr0KvEOCDG89hnfFJ8U7ZDJnBE2X3AhDH0ErRWXev5wZJmWbNZM91NxlesQcc6P8IOZ0HLFRbSFj1O0wtPH9o=w1200-h800-k-no",
+  "description": "Chain with a wide range of clothing for the family from jeans to loungewear, plus fun accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 10,
+    "3": 32,
+    "4": 99,
+    "5": 227
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

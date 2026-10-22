@@ -1,0 +1,36 @@
+{
+  "slug": "huntington-square-shopping-center-tempe",
+  "name": "Huntington Square Shopping Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "3115 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394065,
+  "lng": -111.9390217,
+  "googleMapsUrl": "https://www.google.com/maps/place/Huntington+Square+Shopping+Center/data=!4m7!3m6!1s0x872b08a549cfebb7:0x482cfd7f19385877!8m2!3d33.394065!4d-111.9390217!16s%2Fg%2F11fp52fxfp!19sChIJt-vPSaUIK4cRd1g4GX_9LEg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5200810392031877239",
+  "placeId": "ChIJt-vPSaUIK4cRd1g4GX_9LEg",
+  "googleRating": 4.4,
+  "googleReviewCount": 331,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdubXmAJcQGXPfx9lTpvYmZVZU3B2iu2nRzhzoO3IVs6Zcom82GBQ-8Jidr7JbB8-LuYkOYw3HDguAId5OqtYYzSjCSlrCCKsPbeyzERIj7pDMGK4VoLWrOGVp5L-q0sptjVkS9iA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 7,
+    "3": 34,
+    "4": 61,
+    "5": 220
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "aria-nail-bar-tempe",
+  "name": "Aria Nail Bar - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "410 N Scottsdale Rd ste 115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4338249,
+  "lng": -111.92748019999999,
+  "phone": "+14806875316",
+  "website": "https://ariatempe.hayven.ai/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aria+Nail+Bar+-+Tempe/data=!4m7!3m6!1s0x872b099ad89b976b:0xa451a5cdd019824d!8m2!3d33.4338249!4d-111.9274802!16s%2Fg%2F11k751g5ks!19sChIJa5eb2JoJK4cRTYIZ0M2lUaQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11840427198711956045",
+  "placeId": "ChIJa5eb2JoJK4cRTYIZ0M2lUaQ",
+  "googleRating": 4.8,
+  "googleReviewCount": 2188,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7CgE3dIkXelwc8NNULO67-X0jcZ8RAOO3PPdui0Wnj_9eYSymzIeNKDANOTKm_E1Nioghdq9gmDIzDDDXSeOy7dCvW33r_8CdaHRGx77s705FXWxaUiKHZvbI1eRiyw-3v12L_u-GC9y4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 95,
+    "2": 23,
+    "3": 16,
+    "4": 19,
+    "5": 2035
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

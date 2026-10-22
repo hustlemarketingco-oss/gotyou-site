@@ -15,8 +15,8 @@
   "phone": "+14805369820",
   "website": "https://tempe.boondocksaz.com/",
   "placeId": "ChIJ8UKqh38JK4cRUKc_7WU5-XQ",
-  "googleRating": 4.4,
-  "googleReviewCount": 368,
+  "googleRating": 4.3,
+  "googleReviewCount": 386,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 2:00 AM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a43c109fc6124f29b42b2b4",
   "seededAt": "2026-06-30T13:13:45Z",
   "updatedAt": "2026-06-30T13:13:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8428831287535445840",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boondocks+Patio+%26+Grill+Tempe/data=!4m7!3m6!1s0x872b097f87aa42f1:0x74f93965ed3fa750!8m2!3d33.4077334!4d-111.9230453!16s%2Fg%2F11rxlggr_p!19sChIJ8UKqh38JK4cRUKc_7WU5-XQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 13,
+    "3": 19,
+    "4": 71,
+    "5": 256
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfr9bjnaRYwOfCpWtAsRomAOJLt6Ws4Axff_9uofvCEp1ptU-zcaDcaLTrBueeUbOoFYsC-WMoFLu5TMeoFQeeEBF2wlKxnJLp8nfyTDAo4LZHAFrvMjqLBI0YjmjhnQ_RqpqN43g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

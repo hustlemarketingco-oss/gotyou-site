@@ -1,0 +1,55 @@
+{
+  "slug": "changing-hands-bookstore-tempe",
+  "name": "Changing Hands Bookstore",
+  "category": "Shopping",
+  "googleCategory": "Book store",
+  "secondaryCategories": [
+    "Children's book store",
+    "Event venue",
+    "Gift shop",
+    "Greeting card shop",
+    "Toy store",
+    "Used book store"
+  ],
+  "address": "6428 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362432,
+  "lng": -111.912798,
+  "phone": "+14807300205",
+  "website": "https://changinghands.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Changing+Hands+Bookstore/data=!4m7!3m6!1s0x872b064930a8c34d:0xbb21f865160a1ab8!8m2!3d33.362432!4d-111.912798!16s%2Fg%2F1td1qbkw!19sChIJTcOoMEkGK4cRuBoKFmX4Ibs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13484331872369121976",
+  "placeId": "ChIJTcOoMEkGK4cRuBoKFmX4Ibs",
+  "googleRating": 4.7,
+  "googleReviewCount": 2006,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf26_Qf1QMc6wBK3YTZ7YsJnaMDVXukkDAT2KqBqo32eVlIXE-3xKeoG0_rGDRprv1vRRTPkLhCyrnPA4BQ61ho063M1I_kTbGMISGlttE28Fs7qRT2QjuAVPGdCK0wrR86nVyolWt6bdc=w1200-h800-k-no",
+  "description": "Long-running independent bookstore selling new & used books, plus regular author readings & events.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 20,
+    "3": 55,
+    "4": 205,
+    "5": 1661
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

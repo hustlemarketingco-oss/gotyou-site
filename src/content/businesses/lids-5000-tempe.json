@@ -1,0 +1,55 @@
+{
+  "slug": "lids-5000-tempe",
+  "name": "Lids",
+  "category": "Shopping",
+  "googleCategory": "Hat shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Embroidery service",
+    "Embroidery shop",
+    "Sports memorabilia store",
+    "Sportswear store"
+  ],
+  "address": "5000 S Arizona Mills Cir SP624",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382098899999995,
+  "lng": -111.964918,
+  "phone": "+14804563622",
+  "website": "https://www.lids.com/store/lids-arizona-mills/sd-27839801+z-893130-4232085495?_s=bm-LIDS-RETAIL-GMB",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lids/data=!4m7!3m6!1s0x872b0f59e1444903:0x4f722a51bdbd2c1f!8m2!3d33.3820989!4d-111.964918!16s%2Fg%2F1tdhm8xf!19sChIJA0lE4VkPK4cRHyy9vVEqck8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5724684606905330719",
+  "placeId": "ChIJA0lE4VkPK4cRHyy9vVEqck8",
+  "googleRating": 4,
+  "googleReviewCount": 147,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ3VZxR69inVicttS-zLPBPW39u6n4R-fFkZE5en79GJj_VrTAFWoi9oeofu9gOGm0LeaD4IAWa9oZstH3_4CmxIpj2pufvCO3cq7df_KhkzF3wT46DKNCtPmxeJkF3V3IBwemcv-MEW18=w1200-h800-k-no",
+  "description": "Chain specializing in licensed team hats, logo apparel & other sports merchandise.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 4,
+    "3": 10,
+    "4": 25,
+    "5": 85
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:30 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

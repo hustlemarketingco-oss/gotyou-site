@@ -1,0 +1,50 @@
+{
+  "slug": "thorbeckes-gym-tempe",
+  "name": "Thorbecke's Gym",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Health",
+    "Health and beauty",
+    "Sports",
+    "Sports activity location"
+  ],
+  "address": "936 N Stadem Dr #6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.439544999999995,
+  "lng": -111.9143036,
+  "phone": "+14809666621",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thorbecke%27s+Gym/data=!4m7!3m6!1s0x872b090510753283:0xb7e1107153f3eb!8m2!3d33.439545!4d-111.9143036!16s%2Fg%2F1tp8_hqx!19sChIJgzJ1EAUJK4cR6_NTcRDhtwA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "51757381475103723",
+  "placeId": "ChIJgzJ1EAUJK4cR6_NTcRDhtwA",
+  "googleRating": 4.7,
+  "googleReviewCount": 20,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc46BJrhwLLSnc-uYQcAv_aMCtpaNbizhHxeTbeuLZ6NORVd2GoyaSZ-eI84F_Weou50sLrbKUj2nD4_ktkrGsDAfs_vmTuWTIAdaNVhmf6wkBBsJVmp6AIyxTYHwQSqUszejZn9A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 18
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

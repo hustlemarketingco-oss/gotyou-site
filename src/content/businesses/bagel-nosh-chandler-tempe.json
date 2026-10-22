@@ -1,0 +1,58 @@
+{
+  "slug": "bagel-nosh-chandler-tempe",
+  "name": "Bagel Nosh Chandler/Tempe",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Bagel shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Cafe",
+    "Coffee shop",
+    "Gluten-free restaurant",
+    "Pastry shop",
+    "Sandwich shop"
+  ],
+  "address": "1730 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3505579,
+  "lng": -111.91310689999999,
+  "phone": "+16022915390",
+  "website": "https://orderbagelnosh.com/tempe-elliot-mcclintock?utm_source=google",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bagel+Nosh+Chandler%2FTempe/data=!4m7!3m6!1s0x872b07d0ce1e1245:0xb178b1c3efbbebab!8m2!3d33.3505579!4d-111.9131069!16s%2Fg%2F11lmdz_4_w!19sChIJRRIeztAHK4cRq-u778OxeLE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12788166597017332651",
+  "placeId": "ChIJRRIeztAHK4cRq-u778OxeLE",
+  "googleRating": 4.5,
+  "googleReviewCount": 210,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRqlVa0l5xbhziHfqt_0sxpog-84E2z2_O79lAwUHcxm0i_WV0spFLg8CmCdkcgicSQ-CdsxBTbLyjfNltv85DdL43GagOyVTFW-qrCwzuqKPB7v-tATtdccbLRIlZ7CPEeX7K=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 5,
+    "3": 5,
+    "4": 14,
+    "5": 168
+  },
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

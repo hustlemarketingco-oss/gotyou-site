@@ -1,0 +1,42 @@
+{
+  "slug": "skinfidence-az-tempe",
+  "name": "Skinfidence Az",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "secondaryCategories": [
+    "Fitness center",
+    "Medical spa",
+    "Physical fitness program",
+    "Skin care clinic",
+    "Weight loss service"
+  ],
+  "address": "2101 E Broadway Rd Ste 32",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4072394,
+  "lng": -111.8973994,
+  "phone": "+17026906634",
+  "website": "http://www.skinfidenceaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Skinfidence+Az/data=!4m7!3m6!1s0x872b09236b039213:0x7ea4efe2992ad24!8m2!3d33.4072394!4d-111.8973994!16s%2Fg%2F11htv5j5y2!19sChIJE5IDayMJK4cRJK2SKf5O6gc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "570355156341927204",
+  "placeId": "ChIJE5IDayMJK4cRJK2SKf5O6gc",
+  "googleRating": 4.7,
+  "googleReviewCount": 78,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUjimBrzUCdIIfIUYqb7K19k7a2xyzrWcfotmuAmUEsurwnaTtUwhKRABrM4xS8h_wwTDv5RCLL8KatDbjl6N6Xmkcz40u5m5XTuuq9BxaSh_LJche8QuzQ21TZ2IZPIXTqde4tw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "5": 73
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

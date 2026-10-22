@@ -1,0 +1,46 @@
+{
+  "slug": "guest-list-tempe",
+  "name": "Guest List",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir #412",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.381166,
+  "lng": -111.96494299999999,
+  "phone": "+16234142295",
+  "website": "http://guestlistaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Guest+List/data=!4m7!3m6!1s0x872b0f5a0c7829f1:0x555010ae8dafbc3b!8m2!3d33.381166!4d-111.964943!16s%2Fg%2F11c7t8bmt9!19sChIJ8Sl4DFoPK4cRO7yvja4QUFU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6147431833248185403",
+  "placeId": "ChIJ8Sl4DFoPK4cRO7yvja4QUFU",
+  "googleRating": 3.7,
+  "googleReviewCount": 147,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekaQBy1u6ogYVG0kPmPzDGRn4di29AgzvGp8ViihxyFXKcsplqUWdcQJ4VTlQGkZMw8EbitKzugs9v-7C94Nm1d2eZXu-3FvmCiW2VllYvIFObxAOnWgrdRdhPzUCtCHP4WJ_C0_JfINYU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 5,
+    "3": 11,
+    "4": 7,
+    "5": 86
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

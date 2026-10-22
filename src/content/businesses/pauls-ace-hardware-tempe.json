@@ -1,0 +1,57 @@
+{
+  "slug": "pauls-ace-hardware-tempe",
+  "name": "Paul's Ace Hardware",
+  "category": "Shopping",
+  "googleCategory": "Hardware store",
+  "secondaryCategories": [
+    "Building materials store",
+    "Business to business service",
+    "Cleaning products supplier",
+    "Electrical supply store",
+    "Glass cutting service",
+    "Home improvement store",
+    "Key duplication service",
+    "Paint store"
+  ],
+  "address": "929 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.406057499999996,
+  "lng": -111.92497429999999,
+  "phone": "+14809684544",
+  "website": "http://www.paulsacehardware.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paul%27s+Ace+Hardware/data=!4m7!3m6!1s0x872b0894d35b7bad:0x43c2242b13d28ed0!8m2!3d33.4060575!4d-111.9249743!16s%2Fg%2F1tfhgwfc!19sChIJrXtb05QIK4cR0I7SEyskwkM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4882504713457798864",
+  "placeId": "ChIJrXtb05QIK4cR0I7SEyskwkM",
+  "googleRating": 4.7,
+  "googleReviewCount": 246,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6zKO979zQO4oGmc1t5rgA5SyEVsirUMp0qWhYYdx8viJ_pnrFovM5YGxrXCSNccz2085Lav1pw2UfalORs3e78HgqQIANpnOyktZVPCNQe6qFG79TVsp1iwtyl1ccDvQcvD-P=w1200-h800-k-no",
+  "description": "Hardware store stocking household tools, garden supplies, home decor & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "3": 2,
+    "4": 27,
+    "5": 208
+  },
+  "hours": {
+    "mon": "6:30 AM - 7:00 PM",
+    "tue": "6:30 AM - 7:00 PM",
+    "wed": "6:30 AM - 7:00 PM",
+    "thu": "6:30 AM - 7:00 PM",
+    "fri": "6:30 AM - 7:00 PM",
+    "sat": "6:30 AM - 7:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

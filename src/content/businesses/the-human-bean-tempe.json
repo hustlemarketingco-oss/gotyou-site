@@ -2,7 +2,7 @@
   "slug": "the-human-bean-tempe",
   "name": "The Human Bean",
   "category": "Coffee & Cafe",
-  "googleCategory": "Juice shop",
+  "googleCategory": "Coffee shop",
   "secondaryCategories": [
     "Breakfast restaurant",
     "Cafe",
@@ -20,29 +20,15 @@
   "lng": -111.9110934,
   "phone": "+16023590852",
   "website": "https://thehumanbean.com/location/human-bean-1765-e-university-drive-tempe-arizona/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1075826083625259002",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Human+Bean/data=!4m7!3m6!1s0x872b08fa1e3668f5:0xeee1a1f82954ffa!8m2!3d33.4215507!4d-111.9110934!16s%2Fg%2F11gcx_x80q!19sChIJ9Wg2HvoIK4cR-k-Vgh8a7g4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1075826083625259002",
   "placeId": "ChIJ9Wg2HvoIK4cR-k-Vgh8a7g4",
   "googleRating": 4.4,
-  "googleReviewCount": 524,
+  "googleReviewCount": 522,
   "priceRange": "$1–20",
   "description": "Drive-thru chain serving espresso, coffee, tea, smoothies & kid-friendly beverages.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "5:00 AM - 6:00 PM",
@@ -59,5 +45,14 @@
   "groundgameId": "6a2438e9889a7dc0771b0acc",
   "seededAt": "2026-06-06T15:12:41Z",
   "updatedAt": "2026-07-13T19:04:01Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 43,
+    "2": 14,
+    "3": 31,
+    "4": 56,
+    "5": 378
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoQE1SuOrncBTuDX2VO-qWfMQ3Wl9oqlpO3SAXytp55gjbETUwRujUOmji0TPj9-0a1Dq_BZWGyoILzzex_EDp0saxfiq73zW1761oBoruHwAl5n402nT-sUq8aqgGvUlCWvHuyw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

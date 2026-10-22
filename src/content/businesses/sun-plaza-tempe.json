@@ -1,0 +1,45 @@
+{
+  "slug": "sun-plaza-tempe",
+  "name": "Sun Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1827 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493709,
+  "lng": -111.92546109999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/Sun+Plaza/data=!4m7!3m6!1s0x872b09153ba8ff55:0x43257a35483d83ea!8m2!3d33.4493709!4d-111.9254611!16s%2Fg%2F1tdk5n1s!19sChIJVf-oOxUJK4cR6oM9SDV6JUM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4838407743943312362",
+  "placeId": "ChIJVf-oOxUJK4cR6oM9SDV6JUM",
+  "googleRating": 3.5,
+  "googleReviewCount": 14,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bSPslsp4ibOWwr-9IPar5A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=180.9487&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 5,
+    "4": 4,
+    "5": 3
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

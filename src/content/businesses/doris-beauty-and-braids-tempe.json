@@ -1,0 +1,42 @@
+{
+  "slug": "doris-beauty-and-braids-tempe",
+  "name": "Doris Beauty and Braids",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "933 E Broadway Rd Ste 25",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061569,
+  "lng": -111.92458239999999,
+  "phone": "+14805471501",
+  "googleMapsUrl": "https://www.google.com/maps/place/Doris+Beauty+and+Braids/data=!4m7!3m6!1s0x872ba976e7aa5bc1:0xe329fe0cdd0c891!8m2!3d33.4061569!4d-111.9245824!16s%2Fg%2F11vcw6rsb3!19sChIJwVuq53apK4cRkcjQzeCfMg4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1023055853241026705",
+  "placeId": "ChIJwVuq53apK4cRkcjQzeCfMg4",
+  "googleRating": 4.4,
+  "googleReviewCount": 7,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cjmhsKFhiG4JeuywU5oB7w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=174.80296&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

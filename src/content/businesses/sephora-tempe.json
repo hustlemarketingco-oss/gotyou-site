@@ -1,0 +1,51 @@
+{
+  "slug": "sephora-tempe",
+  "name": "SEPHORA",
+  "category": "Shopping",
+  "googleCategory": "Cosmetics store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Perfume store"
+  ],
+  "address": "2000 E Rio Salado Pkwy Ste 1011",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.432495599999996,
+  "lng": -111.90398119999999,
+  "phone": "+16023251540",
+  "website": "https://www.sephora.com/happening/stores/tempe-marketplace?utm_source=gmb&utm_medium=Yext",
+  "googleMapsUrl": "https://www.google.com/maps/place/SEPHORA/data=!4m7!3m6!1s0x872b09175d1d91eb:0x1db3b7f51a32e2f1!8m2!3d33.4324956!4d-111.9039812!16s%2Fg%2F11n17f6xp5!19sChIJ65EdXRcJK4cR8eIyGvW3sx0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2140256511265530609",
+  "placeId": "ChIJ65EdXRcJK4cR8eIyGvW3sx0",
+  "googleRating": 4.1,
+  "googleReviewCount": 289,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaMoJ5KVGFYgBgoaKUIbsET9xTtZa0BTXtxUTQtya9ca4yympou3j29TJZV7TmcaxjXIaBqeRUiQ2VKrD1_OhwxGZCf638OYMp6a-TZ8hpbNmBVy_Gt628u-gqhPvqCO2W36lP=w1200-h800-k-no",
+  "description": "Retail chain with a selection of upmarket makeup, perfumes, beauty & skincare products.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 43,
+    "2": 9,
+    "3": 13,
+    "4": 39,
+    "5": 185
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

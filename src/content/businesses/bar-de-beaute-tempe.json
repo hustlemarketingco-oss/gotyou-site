@@ -1,0 +1,44 @@
+{
+  "slug": "bar-de-beaute-tempe",
+  "name": "Bar de Beauté",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "secondaryCategories": [
+    "Make-up artist"
+  ],
+  "address": "115 W 6th St Ste 124",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241242,
+  "lng": -111.94196,
+  "phone": "+14808235853",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+de+Beaut%C3%A9/data=!4m7!3m6!1s0x872b09b406af3b63:0x8047e19321c516b9!8m2!3d33.4241242!4d-111.94196!16s%2Fg%2F11r2vg7md1!19sChIJYzuvBrQJK4cRuRbFIZPhR4A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9243604782244239033",
+  "placeId": "ChIJYzuvBrQJK4cRuRbFIZPhR4A",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxzDiVYzQVGc11sGRDS_Hw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=196.63866&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

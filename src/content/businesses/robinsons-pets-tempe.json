@@ -1,0 +1,36 @@
+{
+  "slug": "robinsons-pets-tempe",
+  "name": "Robinsons Pets",
+  "category": "Shopping",
+  "googleCategory": "Pet store",
+  "address": "231 E Sesame Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.369593,
+  "lng": -111.933623,
+  "phone": "+15203349627",
+  "googleMapsUrl": "https://www.google.com/maps/place/Robinsons+Pets/data=!4m7!3m6!1s0x872b07c55c3a4e19:0x417eb67d6c0aca1c!8m2!3d33.369593!4d-111.933623!16s%2Fg%2F11ygnl5by_!19sChIJGU46XMUHK4cRHMoKbH22fkE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4719410109330672156",
+  "placeId": "ChIJGU46XMUHK4cRHMoKbH22fkE",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H5UFtzzRYrZggzofj55dXw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=218.51617&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

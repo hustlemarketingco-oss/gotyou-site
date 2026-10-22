@@ -1,0 +1,42 @@
+{
+  "slug": "braids-by-marie-tempe",
+  "name": "Braids by Marie",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1655 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3920923,
+  "lng": -111.9118202,
+  "phone": "+14806696332",
+  "website": "http://braidsbymarie83.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Braids+by+Marie/data=!4m7!3m6!1s0x872b0960e660d3b7:0x36a478226cc92f57!8m2!3d33.3920923!4d-111.9118202!16s%2Fg%2F11xnly4jjd!19sChIJt9Ng5mAJK4cRVy_JbCJ4pDY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3937404063478001495",
+  "placeId": "ChIJt9Ng5mAJK4cRVy_JbCJ4pDY",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gnILiD05vqHwY9ILbYQ4RA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=265.94577&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "6:00 PM - 11:00 PM",
+    "fri": "6:00 PM - 11:00 PM",
+    "sat": "9:30 AM - 11:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

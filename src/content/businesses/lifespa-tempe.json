@@ -1,0 +1,56 @@
+{
+  "slug": "lifespa-tempe",
+  "name": "LifeSpa",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Day spa",
+    "Facial spa",
+    "Massage spa",
+    "Massage therapist",
+    "Nail salon",
+    "Spa",
+    "Spa and health club"
+  ],
+  "address": "1616 W Ruby Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3413432,
+  "lng": -111.9643591,
+  "phone": "+14807355224",
+  "website": "https://my.lifetime.life/clubs/az/tempe/services/lifespa.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/LifeSpa/data=!4m7!3m6!1s0x872b05cdfb4fdf07:0x5ac13384e557e75c!8m2!3d33.3413432!4d-111.9643591!16s%2Fg%2F1tj2jbyx!19sChIJB99P-80FK4cRXOdX5YQzwVo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6539564779795113820",
+  "placeId": "ChIJB99P-80FK4cRXOdX5YQzwVo",
+  "googleRating": 4.9,
+  "googleReviewCount": 111,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqyQVP4MCxd6BKsDLSapgyaQ4LNnVD5QclLvkOTkHfb3bq9otXLflp7vU9ZEr-_44xapWeRWXpOHK0iQPCbE1gLr-F6b8wSBykd2fyq5j7IEFjJ3Ouoq_Ep0IpFYlmiHhs64MS-KX48fg0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "4": 1,
+    "5": 107
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

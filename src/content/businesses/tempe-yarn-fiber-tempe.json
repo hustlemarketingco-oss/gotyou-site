@@ -1,0 +1,51 @@
+{
+  "slug": "tempe-yarn-fiber-tempe",
+  "name": "Tempe Yarn & Fiber",
+  "category": "Shopping",
+  "googleCategory": "Yarn store",
+  "secondaryCategories": [
+    "Craft store",
+    "Knitting instructor"
+  ],
+  "address": "1415 E University Dr A102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421617399999995,
+  "lng": -111.915499,
+  "phone": "+14805579166",
+  "website": "https://www.tempeyarn.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Yarn+%26+Fiber/data=!4m7!3m6!1s0x872b08fac33facf9:0xf3ca3e62ba2f52fb!8m2!3d33.4216174!4d-111.915499!16s%2Fg%2F1vmr1vgd!19sChIJ-aw_w_oIK4cR-1IvumI-yvM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17566921890263421691",
+  "placeId": "ChIJ-aw_w_oIK4cR-1IvumI-yvM",
+  "googleRating": 4.7,
+  "googleReviewCount": 182,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgEGU4Jfz-zAxcOSvm-TVl9fwCsHBM4rhYpb_uHavQNV8SD6VdnUpLdyQnA6oLhXr-H0rTSP5GY4T7e90_bDBUdA88TDh2yJfvjE2DrzEVnnN86f88DOg8tUt2rFmPvdJr5Nh_=w1200-h800-k-no",
+  "description": "Go-to for knitting, crocheting, weaving & felting supplies, plus classes & free project assistance.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 4,
+    "3": 8,
+    "4": 14,
+    "5": 153
+  },
+  "hours": {
+    "mon": "10:00 AM - 2:00 PM",
+    "tue": "10:00 AM - 2:00 PM",
+    "wed": "10:00 AM - 2:00 PM",
+    "thu": "10:00 AM - 2:00 PM",
+    "fri": "10:00 AM - 2:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

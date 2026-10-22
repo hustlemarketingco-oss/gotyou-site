@@ -20,20 +20,9 @@
   "phone": "+14804561400",
   "description": "Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/wholefoodsmarket"
@@ -44,5 +33,31 @@
   "groundgameId": "6a2439323b48faaf571f927a",
   "seededAt": "2026-06-06T15:13:54Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJh7d33PQJK4cRI6KO_N4CEgQ",
+  "googleCid": "293300082475704867",
+  "googleMapsUrl": "https://www.google.com/maps/place/Whole+Foods+Market/data=!4m7!3m6!1s0x872b09f4dc77b787:0x41202defc8ea223!8m2!3d33.4223669!4d-111.9432648!16s%2Fg%2F11j5p5p12y!19sChIJh7d33PQJK4cRI6KO_N4CEgQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 1442,
+  "ratingBreakdown": {
+    "1": 110,
+    "2": 51,
+    "3": 75,
+    "4": 228,
+    "5": 978
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsmWyhJhDLMTDBotsYOVzUXsbqymAzNPxOIczSshNK9UoMcdctjQJB99QwFX5YrgIGNKW-mW9E6y2gpkDMJYRSdrJkIcAAt2xwhiYD4vwWTY0YHzKyyfee0ndraPRQixx5xts=w1200-h800-k-no",
+  "website": "https://www.wholefoodsmarket.com/stores/tempe?utm_source=google&utm_medium=organic&utm_campaign=listings",
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "lat": 33.4223669,
+  "lng": -111.9432648,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

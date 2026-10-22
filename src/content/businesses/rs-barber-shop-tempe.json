@@ -1,0 +1,46 @@
+{
+  "slug": "rs-barber-shop-tempe",
+  "name": "R's Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1730 E Elliot Rd #4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3505934,
+  "lng": -111.9130098,
+  "phone": "+16232244625",
+  "website": "https://www.instagram.com/p/CvdF-qKv1X5dLYJkhiL6QU0C5slXzy9LiKoXbA0/?igshid=MzRlODBiNWFlZA==",
+  "googleMapsUrl": "https://www.google.com/maps/place/R%27s+Barber+Shop/data=!4m7!3m6!1s0x872b0722d3e3ffe3:0xd8a5f3e88d506ac7!8m2!3d33.3505934!4d-111.9130098!16s%2Fg%2F11txpdsph6!19sChIJ4__j0yIHK4cRx2pQjejzpdg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15611151863478512327",
+  "placeId": "ChIJ4__j0yIHK4cRx2pQjejzpdg",
+  "googleRating": 4.9,
+  "googleReviewCount": 156,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelxvbjaMcPdwQkZ2pTHch20Ecv6fxDtXH49qWRdFp1E0qe7pZODH6NHmS-kX1U9NXlSpDhEmM0ClIOm4Sj-FqP2R2GjcK9xHCbB6s0bIFLcfIKNwH2j09dk-RqAxpqI-ueJLXt2FqEkQPH=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 1,
+    "5": 153
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

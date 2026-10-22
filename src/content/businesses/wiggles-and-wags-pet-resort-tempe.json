@@ -1,0 +1,50 @@
+{
+  "slug": "wiggles-and-wags-pet-resort-tempe",
+  "name": "Wiggles and Wags Pet Resort",
+  "category": "Local Business",
+  "googleCategory": "Pet boarding service",
+  "secondaryCategories": [
+    "Dog day care center",
+    "Pet groomer"
+  ],
+  "address": "1811 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3774133,
+  "lng": -111.90709079999999,
+  "phone": "+14804914040",
+  "website": "https://wigglesandwags.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wiggles+and+Wags+Pet+Resort/data=!4m7!3m6!1s0x872b0632764eed9b:0x3bd5adb560eb1af0!8m2!3d33.3774133!4d-111.9070908!16s%2Fg%2F1tdnxc8f!19sChIJm-1OdjIGK4cR8BrrYLWt1Ts?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4311543212803824368",
+  "placeId": "ChIJm-1OdjIGK4cR8BrrYLWt1Ts",
+  "googleRating": 4.3,
+  "googleReviewCount": 309,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqSpaCu3Il46TipcOeIn1iBDiq97T863PgmNqOYcNotcjWL1Uae7JQjXbnK_YbPpwyDtd9IjqCutLSAnsvz0PjsQlk3AEgXqQjjCAEpUxyqQbf1NjL5Lw6YnDYVpdxvDTsIpSMq6jrWH9K=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 6,
+    "3": 6,
+    "4": 13,
+    "5": 244
+  },
+  "hours": {
+    "mon": "6:30 AM - 6:30 PM",
+    "tue": "6:30 AM - 6:30 PM",
+    "wed": "6:30 AM - 6:30 PM",
+    "thu": "6:30 AM - 6:30 PM",
+    "fri": "6:30 AM - 6:30 PM",
+    "sat": "6:30 AM - 6:30 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

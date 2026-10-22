@@ -1,0 +1,46 @@
+{
+  "slug": "fashion-q-tempe",
+  "name": "Fashion Q",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.385298,
+  "lng": -111.96435149999999,
+  "phone": "+14807552403",
+  "website": "https://www.simon.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fashion+Q/data=!4m7!3m6!1s0x872b0f5a098e8a31:0x47966ec1cb3261f1!8m2!3d33.385298!4d-111.9643515!16s%2Fg%2F11bw2gt4nj!19sChIJMYqOCVoPK4cR8WEyy8Fulkc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5158432201816302065",
+  "placeId": "ChIJMYqOCVoPK4cR8WEyy8Fulkc",
+  "googleRating": 3.6,
+  "googleReviewCount": 107,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9cw5WUpcchg9ibANYfoF1ExvPsSuNIXLCgP3NFv0-1TJ0xvpeStfdkYWGSB0MYML8kEOt_lL1TUV6U-f7gGS-bp6wy_tU29jkL-W5ivzy_Wwr8wl7PAjob_urVjxCTN021aRpn9eMelIi=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 6,
+    "3": 9,
+    "4": 17,
+    "5": 52
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "just-sports-tempe",
+  "name": "Just Sports",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "address": "5000 S Arizona Mills Cir #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3851729,
+  "lng": -111.9639632,
+  "phone": "+14807557744",
+  "website": "http://www.shopjustsports.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Just+Sports/data=!4m7!3m6!1s0x872b0f59e1444903:0x1edefd1b96bd4863!8m2!3d33.3851729!4d-111.9639632!16s%2Fg%2F1td4q4zq!19sChIJA0lE4VkPK4cRY0i9lhv93h4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2224493560902535267",
+  "placeId": "ChIJA0lE4VkPK4cRY0i9lhv93h4",
+  "googleRating": 3.6,
+  "googleReviewCount": 77,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrn7d4pKdmPIkX4XzTbaRObELIrYytM1BtrV-l1ZED-WoVwhd2BHlB8B51Up0wA_vgQDw1wDN0CWxcdbhGygv2ch7kNBl7pjFkGB2H9cGRm553AHqkpvXBaWZQDKSo1KwmK2p5_CtpJAjv=w1200-h800-k-no",
+  "description": "Retailer of licensed professional & college team gear ranging from jerseys to home accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 5,
+    "3": 5,
+    "4": 17,
+    "5": 33
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

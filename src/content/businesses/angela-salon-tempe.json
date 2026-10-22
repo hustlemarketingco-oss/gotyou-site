@@ -1,0 +1,27 @@
+{
+  "slug": "angela-salon-tempe",
+  "name": "Angela salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1753 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4064756,
+  "lng": -111.9096993,
+  "phone": "+14808293900",
+  "googleMapsUrl": "https://www.google.com/maps/place/Angela+salon/data=!4m7!3m6!1s0x872b09035c360767:0x7b5b6e023d25301b!8m2!3d33.4064756!4d-111.9096993!16s%2Fg%2F11y4t5ll7p!19sChIJZwc2XAMJK4cRGzAlPQJuW3s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8888819245440643099",
+  "placeId": "ChIJZwc2XAMJK4cRGzAlPQJuW3s",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RpX6Yqzlh9Ne-ydCNy8S2g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=174.46135&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

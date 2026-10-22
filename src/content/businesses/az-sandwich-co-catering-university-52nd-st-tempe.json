@@ -23,7 +23,7 @@
   "website": "https://azsandwich.com/",
   "placeId": "ChIJC6mYu9gOK4cR2s6zEN4CUYM",
   "googleRating": 4.3,
-  "googleReviewCount": 927,
+  "googleReviewCount": 932,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 4:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a7243373402f7a7165a5de6",
   "seededAt": "2026-08-04T19:53:27Z",
   "updatedAt": "2026-08-06T18:15:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9462347444868337370",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Sandwich+Co.+%26+Catering+-+University%2F52nd+St/data=!4m7!3m6!1s0x872b0ed8bb98a90b:0x835102de10b3ceda!8m2!3d33.421452!4d-111.9692101!16s%2Fg%2F1tcx1_4z!19sChIJC6mYu9gOK4cR2s6zEN4CUYM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 70,
+    "2": 31,
+    "3": 68,
+    "4": 183,
+    "5": 580
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3Vpo9JUZe1B60Yxf-_06gAdVALs7AcgKzhHmuOzrs0D2veP1Cyp1Up731puAaFb2nGWcWPxTfFHCp_0Wg3TVmxu0afL6Q_LI4ziH4SEuApPSZN3ri53eL3oQBNxEdEHM1OM3p=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

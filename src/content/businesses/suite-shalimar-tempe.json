@@ -1,0 +1,42 @@
+{
+  "slug": "suite-shalimar-tempe",
+  "name": "Suite Shalimar",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "7720 S Priest Dr #26",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348126,
+  "lng": -111.9653372,
+  "phone": "+14806068725",
+  "googleMapsUrl": "https://www.google.com/maps/place/Suite+Shalimar/data=!4m7!3m6!1s0x872b052ab47e93f1:0x441bbe2904416b45!8m2!3d33.348126!4d-111.9653372!16s%2Fg%2F11rj__lyfk!19sChIJ8ZN-tCoFK4cRRWtBBCm-G0Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4907725302324620101",
+  "placeId": "ChIJ8ZN-tCoFK4cRRWtBBCm-G0Q",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mDTqUiUE_aa-FpGcMkMlCA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=173.8769&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "12:00 PM - 6:00 PM",
+    "fri": "9:00 AM - 1:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

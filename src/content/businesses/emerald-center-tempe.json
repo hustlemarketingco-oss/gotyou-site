@@ -1,0 +1,33 @@
+{
+  "slug": "emerald-center-tempe",
+  "name": "Emerald Center",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "8550 S Emerald Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3374266,
+  "lng": -111.96923799999999,
+  "website": "https://www.mapquest.com/us/arizona/emerald-center-375291398",
+  "googleMapsUrl": "https://www.google.com/maps/place/Emerald+Center/data=!4m7!3m6!1s0x872b0500467c6611:0x57e052c7acfbe634!8m2!3d33.3374266!4d-111.969238!16s%2Fg%2F11wr4xq2by!19sChIJEWZ8RgAFK4cRNOb7rMdS4Fc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6332152093637076532",
+  "placeId": "ChIJEWZ8RgAFK4cRNOb7rMdS4Fc",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuoDTwQ2fps0-xGFVL5WS4X-xN-I1qgcHqkZZRUgZh7TB1uEUFnGZGadGFuIvtbYZCJhO4hPxHVDVXgwr8yMZDuWs_nl747VGaiiS4zVTovm3cyTe7PDZgYjStmawW-aYZKljmYw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

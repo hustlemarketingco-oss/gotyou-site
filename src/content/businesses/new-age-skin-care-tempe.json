@@ -1,0 +1,35 @@
+{
+  "slug": "new-age-skin-care-tempe",
+  "name": "New Age Skin Care",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1808 W 3rd St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4278033,
+  "lng": -111.96698219999999,
+  "phone": "+18006403456",
+  "website": "https://newageskin.care/",
+  "googleMapsUrl": "https://www.google.com/maps/place/New+Age+Skin+Care/data=!4m7!3m6!1s0x872b0eda4a655555:0xef180d77112a4b48!8m2!3d33.4278033!4d-111.9669822!16s%2Fg%2F11g8vd7bt7!19sChIJVVVlStoOK4cRSEsqEXcNGO8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17228535179546086216",
+  "placeId": "ChIJVVVlStoOK4cRSEsqEXcNGO8",
+  "googleRating": 2.3,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y1xXl_uI1bYhCksxWloJ2A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=5.6176815&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

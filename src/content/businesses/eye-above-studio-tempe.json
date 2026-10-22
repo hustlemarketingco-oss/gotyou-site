@@ -1,0 +1,42 @@
+{
+  "slug": "eye-above-studio-tempe",
+  "name": "EYE ABOVE Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "227 E Baseline Rd Ste J3 Office #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3778122,
+  "lng": -111.9359025,
+  "phone": "+14804957121",
+  "website": "https://eyeabove.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/EYE+ABOVE+Studio/data=!4m7!3m6!1s0x872b071593671b2b:0x62c47b1415600b2e!8m2!3d33.3778122!4d-111.9359025!16s%2Fg%2F11mdt5yhwc!19sChIJKxtnkxUHK4cRLgtgFRR7xGI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7116948637340404526",
+  "placeId": "ChIJKxtnkxUHK4cRLgtgFRR7xGI",
+  "googleRating": 5,
+  "googleReviewCount": 23,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPOy5iUB2Ty9BscXoI9aSnTHexjo7mZtHBrgm5YUaBiJawfBkeBnTkENkrat4xKPpYise9DNn8VxEJjrdrFxG_0rtdd-WpBpYD6EcDEDDWqQFldwAqUa9j4q04E2GKKeJej31LLtNi8ftm=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 23
+  },
+  "hours": {
+    "mon": "8:00 AM - 12:00 PM",
+    "tue": "4:00 PM - 7:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "8:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

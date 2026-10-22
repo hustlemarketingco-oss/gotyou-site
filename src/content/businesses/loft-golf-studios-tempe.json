@@ -11,11 +11,7 @@
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/122097936824010701"
@@ -26,5 +22,28 @@
   "groundgameId": "6a24384806d36686087f7c57",
   "seededAt": "2026-06-06T15:10:00Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ6YUMaywJK4cRIVM6cuT3dvs",
+  "googleCid": "18119942711312798497",
+  "googleMapsUrl": "https://www.google.com/maps/place/Loft+Golf+Studios/data=!4m7!3m6!1s0x872b092c6b0c85e9:0xfb76f7e4723a5321!8m2!3d33.4003894!4d-111.9399805!16s%2Fg%2F11vm17m54y!19sChIJ6YUMaywJK4cRIVM6cuT3dvs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 5,
+  "googleReviewCount": 32,
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 31
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKEcfTLmpsXi3755BM7ymqMMzvVUeoyfEp_iAFnHAb9DEkeHH6QzctUoA_fBj23yW1avYZziNfz7L67Qkpwamg7GNHFuAswtXfKKg1-BN_OD6H7WNMTXjp_AjjeG44mFeb3P0A=w1200-h800-k-no",
+  "website": "https://loftgolfstudios.com/",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 33.4003894,
+  "lng": -111.93998049999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

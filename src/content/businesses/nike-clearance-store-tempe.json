@@ -16,22 +16,22 @@
   "source": "groundgame",
   "placeId": "ChIJjVgG4lkPK4cRXa4Umg_Snvk",
   "googleCid": "17987044926215728733",
-  "googleMapsUrl": "https://maps.google.com/?cid=17987044926215728733",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nike+Clearance+Store+-+Tempe/data=!4m7!3m6!1s0x872b0f59e206588d:0xf99ed20f9a14ae5d!8m2!3d33.383222!4d-111.964092!16s%2Fg%2F1tpn30lw!19sChIJjVgG4lkPK4cRXa4Umg_Snvk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4.3,
-  "googleReviewCount": 1323,
+  "googleReviewCount": 1325,
   "ratingBreakdown": {
     "1": 74,
     "2": 29,
     "3": 129,
     "4": 253,
-    "5": 838
+    "5": 840
   },
-  "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRJzEJukXT4n0fg9CeCBeL4g_HwDZ38YrolUIJ80A7mYWxpxQteEcsCIV-NzrXQpgqf2MHA2ZirDP505xaQ13DxwaoK7grWkuBXkLgJ9_L-AJjK3Hun6BES3RhFtQ2o1GQlxZorw=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoo4bPiDGyNld8UBA2qoARLGsp2rjCHIaS_hQh54gJDaSoJ4tO5kK4htx9oDgJ2FaiXEJfpPt1dJ1IMMIZkLMgBYl9PoM95JqIbG9YWAh7NO2fK9cH7ZgiwcROtPS2xEmi3snMIQ=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot"
   ],
-  "gbpCheckedAt": "2026-10-12T20:39:37Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "10 AM - 8 PM",
     "tue": "10 AM - 8 PM",
@@ -43,5 +43,13 @@
   },
   "website": "https://www.nike.com/retail/s/nike-clearance-store-tempe?cp=84620811901_seo_%3Fcp%3D84620811901_seo_&y_source=1_NTQzNzMyNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
   "lat": 33.383221999999996,
-  "lng": -111.964092
+  "lng": -111.964092,
+  "googleCategory": "Sportswear store",
+  "secondaryCategories": [
+    "Children's clothing store",
+    "Clothing store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ]
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "delhi-palace-tempe",
+  "name": "Delhi Palace Tempe",
+  "category": "Asian & Pacific",
+  "googleCategory": "Indian restaurant",
+  "address": "801 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4144621,
+  "lng": -111.92719509999999,
+  "phone": "+14804993659",
+  "googleMapsUrl": "https://www.google.com/maps/place/Delhi+Palace+Tempe/data=!4m7!3m6!1s0x872b09b3db2419ab:0xf98560e4130242d6!8m2!3d33.4144621!4d-111.9271951!16s%2Fg%2F11zd33nqqj!19sChIJqxkk27MJK4cR1kICE-Rghfk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17979883620034298582",
+  "placeId": "ChIJqxkk27MJK4cR1kICE-Rghfk",
+  "googleRating": 4.7,
+  "googleReviewCount": 115,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnNYyJ6qUdRMUsfe8XyuS9XfkRdo62mFA_Z49Hmyl_WkNv1k1xOOhDdRqFWPqmGLaB05AzrNcEMPxxZCySA1sTn7rUUzUxNnCvPOupLW_15JuRLJgg9zTyVjyHeSaEy1QS3xKTGXkZpSzs=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 4,
+    "4": 2,
+    "5": 102
+  },
+  "hours": {
+    "mon": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM",
+    "tue": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM",
+    "wed": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM",
+    "thu": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM",
+    "fri": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM",
+    "sat": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM",
+    "sun": "9:00 AM - 4:00 PM, 5:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

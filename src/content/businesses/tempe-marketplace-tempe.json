@@ -13,7 +13,7 @@
   "website": "http://www.tempemarketplace.com/",
   "placeId": "ChIJz3KubQsJK4cRGVoEHV1TLeo",
   "googleRating": 4.6,
-  "googleReviewCount": 22087,
+  "googleReviewCount": 22215,
   "hours": {
     "mon": "10:00 AM - 9:00 PM",
     "tue": "10:00 AM - 9:00 PM",
@@ -29,5 +29,21 @@
   "groundgameId": "6a3580520e529cc6aaf2a9d9",
   "seededAt": "2026-06-19T17:45:54Z",
   "updatedAt": "2026-06-26T16:00:30Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16874235038211004953",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Marketplace/data=!4m7!3m6!1s0x872b090b6dae72cf:0xea2d535d1d045a19!8m2!3d33.4340695!4d-111.9012791!16s%2Fm%2F03gvczf!19sChIJz3KubQsJK4cRGVoEHV1TLeo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 211,
+    "2": 243,
+    "3": 1272,
+    "4": 5285,
+    "5": 15204
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyUGXy-6SzL_MJGnRPfFK3sPvpy2S0MsQB64LXRyNgg_qePkVedjQwf5rLBDRA8lLWkPCNNvU9Z6-AM-uOuHUSQsSII9n8-0iGvebCE7T_HXguVg_myORjs7mbxCHGhbXTF1vySE14gvmW=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -16,8 +16,8 @@
   "phone": "+14807834887",
   "website": "https://locations.wendys.com/united-states/az/tempe/515-w-warner-road",
   "placeId": "ChIJv4EvlYEGK4cRgZ8SzdaYVlE",
-  "googleRating": 4,
-  "googleReviewCount": 675,
+  "googleRating": 3.9,
+  "googleReviewCount": 694,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 12:00 AM",
@@ -34,5 +34,21 @@
   "groundgameId": "6a2c1dcee2df04d13be871a7",
   "seededAt": "2026-06-12T14:55:10Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5861040013400252289",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wendy%27s/data=!4m7!3m6!1s0x872b0681952f81bf:0x515698d6cd129f81!8m2!3d33.3341878!4d-111.9467247!16s%2Fg%2F113k4wws9!19sChIJv4EvlYEGK4cRgZ8SzdaYVlE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 68,
+    "2": 33,
+    "3": 97,
+    "4": 164,
+    "5": 332
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLKY4xtmVaTdG98NPH0uzcd3sMdW0gkuIVWyP0f3o9VYrJtAbT-tRhdDpCWk9Wj4CCD6_YAYV69ILDlOH1qcDBg6RYxvYWYIsvbRiY_wyL0GWxwyhm8Kqi9V1HpxzuHFZRQIZI9RKxTxhL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

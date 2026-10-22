@@ -1,0 +1,53 @@
+{
+  "slug": "pho-dalat-authentic-vietnamese-restaurant-tempe",
+  "name": "Phở Dalat Authentic Vietnamese Restaurant",
+  "category": "Asian & Pacific",
+  "googleCategory": "Vietnamese restaurant",
+  "secondaryCategories": [
+    "Pho restaurant",
+    "Restaurant"
+  ],
+  "address": "7707 S Kyrene Rd #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347853,
+  "lng": -111.94512999999999,
+  "phone": "+14807557272",
+  "website": "https://phodalataz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ph%E1%BB%9F+Dalat+Authentic+Vietnamese+Restaurant/data=!4m7!3m6!1s0x872b067a19986813:0x3b44df4b46ea0e1f!8m2!3d33.347853!4d-111.94513!16s%2Fg%2F1tjs5dfr!19sChIJE2iYGXoGK4cRHw7qRkvfRDs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4270783861059358239",
+  "placeId": "ChIJE2iYGXoGK4cRHw7qRkvfRDs",
+  "googleRating": 4.4,
+  "googleReviewCount": 1206,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFgEZ9qc1ubCLF7VNYBhtbhuI764lEMWzzhMFoQSmCS1a2bglgzraxuH_Cs6SH6yqT7sUUhfXAg6-VBK1NNmtNqghfPG0UWZ5GEaLudQXYDOJuDUeilTwMBMagahHatBeRolZ1PRvcEjGp=w1200-h800-k-no",
+  "description": "Amid a jumble of bamboo & lanterns, this eatery serves up standard Vietnamese pho & rice dishes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 64,
+    "2": 21,
+    "3": 94,
+    "4": 227,
+    "5": 800
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:30 PM",
+    "sat": "10:00 AM - 9:30 PM",
+    "sun": "10:00 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

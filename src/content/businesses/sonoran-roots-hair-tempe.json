@@ -1,0 +1,42 @@
+{
+  "slug": "sonoran-roots-hair-tempe",
+  "name": "Sonoran Roots Hair",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "933 E Broadway Rd Ste 38",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061672,
+  "lng": -111.924661,
+  "website": "http://www.instagram.com/sonoranrootshair",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sonoran+Roots+Hair/data=!4m7!3m6!1s0x872b07ae08e0e1f3:0x7fb17b9e03b4ed74!8m2!3d33.4061672!4d-111.924661!16s%2Fg%2F11r_v82zc1!19sChIJ8-HgCK4HK4cRdO20A557sX8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9201271432291872116",
+  "placeId": "ChIJ8-HgCK4HK4cRdO20A557sX8",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1c3lvwEgNnZU4qFD0DNpGc1IbNDI_obqvcdvIdBgPzRjiIZKAnX0VHCwCIID_zHNjhIfEoKZqJDSnBv-0x4MPgQG9aG18PoVwrcjJDXS7ss4NY8dNW4rHmfRPzElFWIKLHZAA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 12
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 2:30 PM",
+    "wed": "9:30 AM - 7:30 PM",
+    "thu": "9:30 AM - 2:30 PM",
+    "fri": "9:30 AM - 7:30 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "chows-ramen-hibachi-tempe",
+  "name": "Chow's Ramen & Hibachi",
+  "category": "Asian & Pacific",
+  "googleCategory": "Ramen restaurant",
+  "secondaryCategories": [
+    "Asian restaurant",
+    "Chinese restaurant",
+    "Japanese restaurant"
+  ],
+  "address": "7650 S McClintock Dr Ste 112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3480263,
+  "lng": -111.91268919999999,
+  "phone": "+14805975320",
+  "website": "https://order.mealkeyway.com/customer/release/index?mid=47775479717a2b6d5458456e4a61766a4a5149436a413d3d",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chow%27s+Ramen+%26+Hibachi/data=!4m7!3m6!1s0x872b07551a33267b:0x80c6536b6720237!8m2!3d33.3480263!4d-111.9126892!16s%2Fg%2F11v5gjkgm3!19sChIJeyYzGlUHK4cRNwJytjZlDAg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "579949737687515703",
+  "placeId": "ChIJeyYzGlUHK4cRNwJytjZlDAg",
+  "googleRating": 4.6,
+  "googleReviewCount": 262,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfue77CaTupchL1vjRXJPncd_0ZzQ-FkHihhty00-aX2AwOfwoWhFMs8uDluOv4f7c-3v4KEt6cSL0-he9uusUO1zhRSC6sA0y8_A7h8K9iwLELoD3gntByu1qjlTqb3lVrPxn7fJmLvH7T=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 6,
+    "3": 11,
+    "4": 17,
+    "5": 217
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "Closed",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

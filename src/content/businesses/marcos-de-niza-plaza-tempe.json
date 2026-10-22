@@ -1,0 +1,35 @@
+{
+  "slug": "marcos-de-niza-plaza-tempe",
+  "name": "Marcos de Niza Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "705 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3629692,
+  "lng": -111.9295191,
+  "googleMapsUrl": "https://www.google.com/maps/place/Marcos+de+Niza+Plaza/data=!4m7!3m6!1s0x872b066abc000073:0x62801dfa09fe7516!8m2!3d33.3629692!4d-111.9295191!16s%2Fg%2F11kj8__mx6!19sChIJcwAAvGoGK4cRFnX-CfodgGI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7097705972482602262",
+  "placeId": "ChIJcwAAvGoGK4cRFnX-CfodgGI",
+  "googleRating": 4.4,
+  "googleReviewCount": 63,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd1YmGUJeF2M67r4cOqpYFsG8m0q4FPMTrTC4rapjFqgTN8k4RM0Z2zzcEdawuvuLV3bXaoV9EO-Vz0CaLPClNmnk32JJjpJAvrWuDhEUwp01EpwmoOd66MlZwU7tfT0vvA4O9Ow=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 8,
+    "4": 16,
+    "5": 37
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -13,7 +13,7 @@
   "zip": "85282",
   "lat": 33.3932916,
   "lng": -111.977044,
-  "googleMapsUrl": "https://www.google.com/maps?cid=16189293419587800933",
+  "googleMapsUrl": "https://www.google.com/maps/place/Raspalicious/data=!4m7!3m6!1s0x872b0f2fa489dd9d:0xe0abec972f198f65!8m2!3d33.3932916!4d-111.977044!16s%2Fg%2F11j8m23r82!19sChIJnd2JpC8PK4cRZY8ZL5fsq-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16189293419587800933",
   "placeId": "ChIJnd2JpC8PK4cRZY8ZL5fsq-A",
   "googleRating": 4.4,
@@ -21,15 +21,8 @@
   "priceRange": "$",
   "description": "Raspalicious is a ice cream shop & fruit parlor in Tempe, serving up takeout & delivery. A favorite among family-friendly diners.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -37,5 +30,14 @@
   "groundgameId": "6a2435fa8f60ffd52b2b31f3",
   "seededAt": "2026-06-06T15:00:10Z",
   "updatedAt": "2026-06-06T15:04:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 72
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsmNtkZLurhDImyuriAiXbeM3XqUuM-ojiaK0rzVEGexpfy1pmD9_s50az6fZbQwY2csrttqx6bOzR4vogymelRItoScOfBwhpNht-fj8juLcoDSTTITmCd3k3wWHqPGKXBPrMzA=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

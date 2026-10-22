@@ -1,0 +1,44 @@
+{
+  "slug": "be-1-fitness-tempe",
+  "name": "Be 1 Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Aerial sports center",
+    "Dance school",
+    "Fitness studio",
+    "Yoga studio"
+  ],
+  "address": "1811 E Apache Blvd unit 104",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4140878,
+  "lng": -111.908875,
+  "phone": "+14804946233",
+  "website": "https://www.be1fitness.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Be+1+Fitness/data=!4m7!3m6!1s0x872b090fd25d3583:0x23c068a0b5c7f91!8m2!3d33.4140878!4d-111.908875!16s%2Fg%2F11zf1c_4vv!19sChIJgzVd0g8JK4cRkX9cC4oGPAI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "161010876644360081",
+  "placeId": "ChIJgzVd0g8JK4cRkX9cC4oGPAI",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDcWBeDnieWFVKavcILi_x327j1CopeUkqdfngI6yCvBGOsXLdHH9gHmoFFGBeKtaYm5NpQCsiV02vVHFCERGSST53FE1H4NRdh2iaqBEBypki62i806zo50E9d0D72ZDB7xy-Ij1E5Lc2=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "5:00 PM - 9:00 PM",
+    "tue": "5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "Closed",
+    "sat": "10:30 AM - 4:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

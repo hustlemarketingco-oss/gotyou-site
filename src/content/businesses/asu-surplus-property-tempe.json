@@ -1,0 +1,47 @@
+{
+  "slug": "asu-surplus-property-tempe",
+  "name": "ASU Surplus Property",
+  "category": "Shopping",
+  "googleCategory": "Surplus store",
+  "address": "734 W Alameda Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4012112,
+  "lng": -111.9502435,
+  "phone": "+14809654228",
+  "website": "https://cfo.asu.edu/surplus",
+  "googleMapsUrl": "https://www.google.com/maps/place/ASU+Surplus+Property/data=!4m7!3m6!1s0x872b08dd21d2b0ef:0xbac47ac89100930!8m2!3d33.4012112!4d-111.9502435!16s%2Fg%2F1tkb5kss!19sChIJ77DSId0IK4cRMAkQiaxHrAs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "841126036770916656",
+  "placeId": "ChIJ77DSId0IK4cRMAkQiaxHrAs",
+  "googleRating": 4.3,
+  "googleReviewCount": 297,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsIq7GYd8uwJTZ6ZvZF3v7aoSuMmftvdo-3NkUzuiz6bAt4xkN-cOn-3MVK_QV2A3m0yM93q5C4lIW9GZJlQaHCZNm9Rfci6bRVEFhGFs3hF86JwQSnkyCAavGS6-O7eUfrzF4SQ=w1200-h800-k-no",
+  "description": "Retail outlet & public auction house for surplus school computers, office furniture, bikes & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 10,
+    "3": 26,
+    "4": 65,
+    "5": 183
+  },
+  "hours": {
+    "mon": "12:00 PM - 4:00 PM",
+    "tue": "12:00 PM - 4:00 PM",
+    "wed": "12:00 PM - 4:00 PM",
+    "thu": "12:00 PM - 4:00 PM",
+    "fri": "3:30 PM - 6:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -16,38 +16,18 @@
   "lng": -111.9402085,
   "phone": "+14806429709",
   "website": "http://masalamaniac.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6685849453824660306",
+  "googleMapsUrl": "https://www.google.com/maps/place/med+fresh+grill/data=!4m7!3m6!1s0x872b08d7fff6c88f:0x5cc8e8a7b4f55352!8m2!3d33.4261581!4d-111.9402085!16s%2Fg%2F1v3gsc8p!19sChIJj8j2_9cIK4cRUlP1tKfoyFw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6685849453824660306",
   "placeId": "ChIJj8j2_9cIK4cRUlP1tKfoyFw",
   "googleRating": 4.2,
-  "googleReviewCount": 456,
+  "googleReviewCount": 455,
   "priceRange": "$10–20",
   "description": "Casual, counter-serve Turkish grill near campus, offering kebabs, gyros & salads plus a patio.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Organic dishes",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://instagram.com/masalamaniacmill"
@@ -67,5 +47,14 @@
   "groundgameId": "6a2437fc1c4772e9a45dccd1",
   "seededAt": "2026-06-06T15:08:44Z",
   "updatedAt": "2026-06-06T15:08:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 18,
+    "3": 34,
+    "4": 74,
+    "5": 287
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2HjMLD9JlwMdqtciiTJk7ngqw09Q5lwiSlGZRpYlxae0OjuhJrIGm6n6f5OJh1O1VA5-6so4tj4fPHB5zKMOxXvHiagYNh7Bi_zELxJwPsjIndxHvK0r1bimCDJoMkKssCDBa=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

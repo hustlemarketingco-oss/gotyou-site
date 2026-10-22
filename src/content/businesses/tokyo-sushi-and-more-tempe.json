@@ -1,0 +1,51 @@
+{
+  "slug": "tokyo-sushi-and-more-tempe",
+  "name": "tokyo sushi and more",
+  "category": "Asian & Pacific",
+  "googleCategory": "Sushi restaurant",
+  "secondaryCategories": [
+    "Japanese restaurant"
+  ],
+  "address": "1900 E 5th St #24",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426118599999995,
+  "lng": -111.9040883,
+  "phone": "+14804686815",
+  "website": "http://tokiosushiandmore.com/?utm_source=gmb&utm_medium=referral",
+  "googleMapsUrl": "https://www.google.com/maps/place/tokyo+sushi+and+more/data=!4m7!3m6!1s0x872b09e052306ca9:0x15efb76be7ad0446!8m2!3d33.4261186!4d-111.9040883!16s%2Fg%2F11t5bnmc1t!19sChIJqWwwUuAJK4cRRgSt52u37xU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1580683668306592838",
+  "placeId": "ChIJqWwwUuAJK4cRRgSt52u37xU",
+  "googleRating": 4,
+  "googleReviewCount": 92,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCNCmuZ7M38Pbl7fdUQmPuBrFE2_moqdwKq6YC6-HyULgQkS-SBHjL0X3QY3iyxSTrdlFyeqa9sq9iMLKjz-KkDrBbXRorht8y84ssA_H1vbLKKgVNihKHRd44EFBHeAAcfrb73w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 67
+  },
+  "hours": {
+    "mon": "10:00 AM - 12:00 AM",
+    "tue": "10:00 AM - 12:00 AM",
+    "wed": "10:00 AM - 12:00 AM",
+    "thu": "10:00 AM - 2:00 AM",
+    "fri": "10:00 AM - 2:00 AM",
+    "sat": "10:00 AM - 2:00 AM",
+    "sun": "10:00 AM - 2:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

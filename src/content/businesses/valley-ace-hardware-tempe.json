@@ -1,0 +1,52 @@
+{
+  "slug": "valley-ace-hardware-tempe",
+  "name": "Valley Ace Hardware",
+  "category": "Shopping",
+  "googleCategory": "Hardware store",
+  "secondaryCategories": [
+    "Home improvement store",
+    "Paint store",
+    "Tool store"
+  ],
+  "address": "1805 E Baseline Rd Ste 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377520499999996,
+  "lng": -111.9079919,
+  "phone": "+14808392623",
+  "website": "http://www.acehardware.com/store-details/03986?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=03986",
+  "googleMapsUrl": "https://www.google.com/maps/place/Valley+Ace+Hardware/data=!4m7!3m6!1s0x872b06326407f635:0xa495de5ad5dc462b!8m2!3d33.3775205!4d-111.9079919!16s%2Fg%2F1tkmn05b!19sChIJNfYHZDIGK4cRK0bc1VrelaQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11859629675466475051",
+  "placeId": "ChIJNfYHZDIGK4cRK0bc1VrelaQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 520,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeg1cA4gb821kGKNruhy89NhAFjcCtHC2bnUNIwvQj3hkV56VAahDiJPofGuNMXPVwvNuuBntkwT9ELK-qrDotdFkwuHKFrpGMBAvzKNYvFMAIIgiim3k6bUXuz94mmD9cZM31H=w1200-h800-k-no",
+  "description": "Hardware store stocking household tools, garden supplies, home decor & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 5,
+    "3": 20,
+    "4": 92,
+    "5": 386
+  },
+  "hours": {
+    "mon": "7:30 AM - 8:00 PM",
+    "tue": "7:30 AM - 8:00 PM",
+    "wed": "7:30 AM - 8:00 PM",
+    "thu": "7:30 AM - 8:00 PM",
+    "fri": "7:30 AM - 8:00 PM",
+    "sat": "7:30 AM - 7:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

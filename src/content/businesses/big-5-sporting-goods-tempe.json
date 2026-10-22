@@ -1,0 +1,55 @@
+{
+  "slug": "big-5-sporting-goods-tempe",
+  "name": "Big 5 Sporting Goods",
+  "category": "Shopping",
+  "googleCategory": "Sporting goods store",
+  "secondaryCategories": [
+    "Camping store",
+    "Clothing store",
+    "Outdoor sports store",
+    "Running store",
+    "Shoe store",
+    "Sportswear store"
+  ],
+  "address": "Parking lot, 921 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.39246,
+  "lng": -111.925344,
+  "phone": "+14804914511",
+  "website": "https://www.big5sportinggoods.com/locations/az/tempe/921-east-southern-avenue-165.html",
+  "googleMapsUrl": "https://www.google.com/maps/place/Big+5+Sporting+Goods/data=!4m7!3m6!1s0x872b0898e6b3e82d:0x1f7bf498b5f6275a!8m2!3d33.39246!4d-111.925344!16s%2Fg%2F1tc_4kf0!19sChIJLeiz5pgIK4cRWif2tZj0ex8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2268675774036191066",
+  "placeId": "ChIJLeiz5pgIK4cRWif2tZj0ex8",
+  "googleRating": 4.3,
+  "googleReviewCount": 902,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2-oxm7poHYMp3LDL2RqVxjGW1nepYk1GGgI0wkzJEfsvcjaTAJ5BhyQqUYlqcSa9uJoa3OAKWa8b_fkselw2g-WTlsgZZKe4iVZJ6dHkiAkUyHen9YXNFsgBpEE8Qlymg8xWd2Q=w1200-h800-k-no",
+  "description": "Chain retailer providing a full range of sporting & outdoor equipment, shoes & apparel.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 22,
+    "3": 92,
+    "4": 226,
+    "5": 516
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:30 PM",
+    "tue": "10:00 AM - 8:30 PM",
+    "wed": "10:00 AM - 8:30 PM",
+    "thu": "10:00 AM - 8:30 PM",
+    "fri": "9:30 AM - 9:00 PM",
+    "sat": "9:00 AM - 8:30 PM",
+    "sun": "9:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -16,24 +16,24 @@
   "source": "groundgame",
   "placeId": "ChIJ-abykxgGK4cRs8P8BsKZJWM",
   "googleCid": "7144285442513093555",
-  "googleMapsUrl": "https://maps.google.com/?cid=7144285442513093555",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chipotle+Mexican+Grill/data=!4m7!3m6!1s0x872b061893f2a6f9:0x632599c206fcc3b3!8m2!3d33.3779176!4d-111.929085!16s%2Fg%2F1tfb70c_!19sChIJ-abykxgGK4cRs8P8BsKZJWM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 4,
-  "googleReviewCount": 1546,
+  "googleReviewCount": 1547,
   "ratingBreakdown": {
     "1": 187,
     "2": 83,
     "3": 143,
     "4": 320,
-    "5": 813
+    "5": 814
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuuwfw9NgViuoMXX-vONjVdPAZvJOZIayXu7BUi-p4od3xYw2Tk3D208rGJcumlauADdFqrOKI110t8Mmf7yW59okMLr316WuFCVnQL_hUhV99f3Tp9DqQ46bNrwFMMcocqu8=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekbywM_WczIk4NypUpiH6F78R2kphJ3wNGMhfrYRitmYe1DMp2piaY8Gi0Z21LKOUT7kNG9Fsx4K7aO3Gj1exNzGOBvDMQAajPgChYovTf9d7H2zkOAkihtdFiuZE2seTDfh0=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "10:45 AM - 11 PM",
     "tue": "10:45 AM - 11 PM",
@@ -45,5 +45,14 @@
   },
   "website": "https://locations.chipotle.com/az/tempe/815-e-baseline-rd?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=1322",
   "lat": 33.377917599999996,
-  "lng": -111.929085
+  "lng": -111.929085,
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ]
 }

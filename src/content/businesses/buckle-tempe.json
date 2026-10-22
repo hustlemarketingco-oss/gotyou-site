@@ -1,0 +1,54 @@
+{
+  "slug": "buckle-tempe",
+  "name": "Buckle",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Jeans shop",
+    "Men's clothing store",
+    "Shoe store",
+    "Watch store",
+    "Women's clothing store",
+    "Youth clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 621 SA",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3848237,
+  "lng": -111.9651832,
+  "phone": "+14808391248",
+  "website": "https://local.buckle.com/az/tempe/clothing-520.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buckle/data=!4m7!3m6!1s0x872b0f59e1444903:0x343a3a8f83e4e8ef!8m2!3d33.3848237!4d-111.9651832!16s%2Fg%2F1vyk2znt!19sChIJA0lE4VkPK4cR7-jkg486OjQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3763384826689022191",
+  "placeId": "ChIJA0lE4VkPK4cR7-jkg486OjQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 64,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHsdwVdWLkykE8ncFCIh1SdAJl7Lh2UWbfwdlwVGfmRUzCH7QH0yCytgPHwDVLYNRSTgok2_F5qyYPnXphIeAa6OrLN-EZoy49kkK_um7oxnzMEnLDKOIR-KFyBDXfdxfzNds3=w1200-h800-k-no",
+  "description": "Retail chain stocking stylish casualwear, including jeans & shoes, plus accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 4,
+    "4": 10,
+    "5": 45
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

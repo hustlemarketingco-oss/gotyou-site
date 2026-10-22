@@ -1,0 +1,59 @@
+{
+  "slug": "jack-in-the-box-850-tempe",
+  "name": "Jack in the Box",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Dessert restaurant",
+    "Hamburger restaurant",
+    "Delivery Restaurant",
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "850 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3642312,
+  "lng": -111.929175,
+  "phone": "+14807309888",
+  "website": "https://locations.jackinthebox.com/us/az/tempe/850-e-guadalupe-rd?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jack+in+the+Box/data=!4m7!3m6!1s0x872b066aadc2ec6b:0x6709dbbf0ce5b187!8m2!3d33.3642312!4d-111.929175!16s%2Fg%2F1tdxlb9q!19sChIJa-zCrWoGK4cRh7HlDL_bCWc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7424707074298589575",
+  "placeId": "ChIJa-zCrWoGK4cRh7HlDL_bCWc",
+  "googleRating": 3.4,
+  "googleReviewCount": 1027,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2bWUhvwZEUb-pAU-SLSModFfQWkfYixHPZtp1m64-cpAQejU6vbhOmlDbnlQTxvIZk0pQsb7h1NabghzsdqF0gj4oAlzy_eJ63Tc-Zdh4FzMaj9Mud-HlSzvBn7PzDmirwas=w1200-h800-k-no",
+  "description": "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 233,
+    "2": 86,
+    "3": 139,
+    "4": 200,
+    "5": 369
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

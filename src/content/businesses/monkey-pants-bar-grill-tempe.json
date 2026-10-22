@@ -2,7 +2,7 @@
   "slug": "monkey-pants-bar-grill-tempe",
   "name": "Monkey Pants Bar & Grill",
   "category": "Bars & Pubs",
-  "googleCategory": "Sports bar",
+  "googleCategory": "Bar & grill",
   "secondaryCategories": [
     "American restaurant",
     "Bar",
@@ -17,22 +17,10 @@
   "priceRange": "$10–20",
   "description": "Boisterous hangout with a big burger menu & lots of games, plus an extended happy hour.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/76463688882"
@@ -43,5 +31,31 @@
   "groundgameId": "6a2438cbdd7ddbe4a1a44e82",
   "seededAt": "2026-06-06T15:12:11Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJWby9Q6UIK4cRJcNVgxSy0fI",
+  "googleCid": "17496961828483613477",
+  "googleMapsUrl": "https://www.google.com/maps/place/Monkey+Pants+Bar+%26+Grill/data=!4m7!3m6!1s0x872b08a543bdbc59:0xf2d1b2148355c325!8m2!3d33.393621!4d-111.938547!16s%2Fg%2F1x5qt79f!19sChIJWby9Q6UIK4cRJcNVgxSy0fI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 1466,
+  "ratingBreakdown": {
+    "1": 126,
+    "2": 64,
+    "3": 148,
+    "4": 316,
+    "5": 812
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSWP4T3GcRO8IHyg2F92yvrC4XAI0mwdIVuPsLZ5eDjuqzD34wYHAQRpG4nAe6h-AO_1RPMIAxhAAgx5FALlYCOFnojokY0MhyRdjIDJ-YkEOVKHhi7rj7bjpXbE2wT88xpuu8=w1200-h800-k-no",
+  "website": "http://monkeypantsbar.com/",
+  "hours": {
+    "mon": "11:00 AM - 2:00 AM",
+    "tue": "11:00 AM - 2:00 AM",
+    "wed": "11:00 AM - 2:00 AM",
+    "thu": "11:00 AM - 2:00 AM",
+    "fri": "11:00 AM - 2:00 AM",
+    "sat": "11:00 AM - 2:00 AM",
+    "sun": "11:00 AM - 2:00 AM"
+  },
+  "lat": 33.393620999999996,
+  "lng": -111.938547,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

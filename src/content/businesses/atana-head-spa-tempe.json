@@ -1,0 +1,53 @@
+{
+  "slug": "atana-head-spa-tempe",
+  "name": "ATANA Head Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Facial spa",
+    "Hair salon",
+    "Medical spa"
+  ],
+  "address": "843 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4212442,
+  "lng": -111.9514806,
+  "phone": "+19283640725",
+  "website": "https://atanaheadspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ATANA+Head+Spa/data=!4m7!3m6!1s0x872b09fa2c9642c3:0xf3c2db5f8600d14b!8m2!3d33.4212442!4d-111.9514806!16s%2Fg%2F11vr590tt5!19sChIJw0KWLPoJK4cRS9EAhl_bwvM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17564842700014932299",
+  "placeId": "ChIJw0KWLPoJK4cRS9EAhl_bwvM",
+  "googleRating": 4.7,
+  "googleReviewCount": 817,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczMkgJGBh4L-EE-jyt5j4WVr3bbOlEg9wDC8KBu2iFXKXRW8yf-SJk7olwDYqaXqKE1lPvBc_bTr5lGRylfX41LN76UO447PQE3TS6n5p16XbNBZVPmbws4V2eHt5a1W8k9X3t=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 14,
+    "3": 22,
+    "4": 29,
+    "5": 729
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

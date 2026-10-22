@@ -2,7 +2,7 @@
   "slug": "ako-international-market-tempe",
   "name": "Ako International Market",
   "category": "Restaurant",
-  "googleCategory": "Health food store",
+  "googleCategory": "African goods store",
   "secondaryCategories": [
     "Jewelry store",
     "Supermarket",
@@ -22,7 +22,7 @@
   "website": "http://akointernationalmarket.com/",
   "placeId": "ChIJAwyhYfQIK4cRLArSbUt7-t8",
   "googleRating": 4.6,
-  "googleReviewCount": 196,
+  "googleReviewCount": 198,
   "hours": {
     "mon": "11:00 AM - 7:00 PM",
     "tue": "11:00 AM - 7:00 PM",
@@ -38,5 +38,20 @@
   "groundgameId": "6a72311796bbe6a5599da83e",
   "seededAt": "2026-08-04T18:36:07Z",
   "updatedAt": "2026-08-04T18:36:08Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16139347778530839084",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ako+International+Market/data=!4m7!3m6!1s0x872b08f461a10c03:0xdffa7b4b6dd20a2c!8m2!3d33.4131898!4d-111.9096649!16s%2Fg%2F1tfxh4g2!19sChIJAwyhYfQIK4cRLArSbUt7-t8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 7,
+    "3": 9,
+    "4": 32,
+    "5": 146
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTjXxT5jIH0Yd0DqLl3drsyjWH2CadKmyNG6p0zr-QfVVWNSGId7gz8wxfH_MaJdm5IeaEXcG_z43wRxajHvKwFhUeeMx2YnAi2GewM1vjXW0WjRItcEoWksadZVUu0tJxy3Dg5A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -21,11 +21,11 @@
   "lng": -111.9015772,
   "phone": "+16022833901",
   "website": "http://www.madgreens.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13718390759178197445",
+  "googleMapsUrl": "https://www.google.com/maps/place/MAD+Greens+-+Tempe+Marketplace/data=!4m7!3m6!1s0x872b09ab29ffd175:0xbe6183b65ad159c5!8m2!3d33.4334933!4d-111.9015772!16s%2Fg%2F11bxb9ss6d!19sChIJddH_KasJK4cRxVnRWraDYb4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13718390759178197445",
   "placeId": "ChIJddH_KasJK4cRxVnRWraDYb4",
   "googleRating": 4.4,
-  "googleReviewCount": 542,
+  "googleReviewCount": 559,
   "description": "Counter-serve eatery offering soups & salads prepared with fresh ingredients.",
   "hours": {
     "fri": "10:30 AM - 9:00 PM",
@@ -42,5 +42,20 @@
   "groundgameId": "6a243774b6fef4fb247a3b2c",
   "seededAt": "2026-06-06T15:06:28Z",
   "updatedAt": "2026-06-06T15:06:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 16,
+    "3": 23,
+    "4": 84,
+    "5": 400
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrSn-449rWGJ2HIwHaqBx4lXJRVhknhp692426BVqEDROujpxVmtAeGX5O92jF2bfgmIBh08ix2BO7CV5PXkj7-V640W0vYYqls7uQyUUtKk_HgaRo4wOPa8FXfz6kKXAZrY-u=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

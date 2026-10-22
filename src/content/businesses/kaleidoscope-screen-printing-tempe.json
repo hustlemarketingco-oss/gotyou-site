@@ -1,0 +1,45 @@
+{
+  "slug": "kaleidoscope-screen-printing-tempe",
+  "name": "Kaleidoscope Screen Printing",
+  "category": "Shopping",
+  "googleCategory": "Screen printing shop",
+  "secondaryCategories": [
+    "T-shirt store"
+  ],
+  "address": "738 S Perry Ln #13",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4228573,
+  "lng": -111.9058491,
+  "phone": "+14803509000",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kaleidoscope+Screen+Printing/data=!4m7!3m6!1s0x872b08f8145170a5:0xb3aae6f8564716ec!8m2!3d33.4228573!4d-111.9058491!16s%2Fg%2F1tpll5w7!19sChIJpXBRFPgIK4cR7BZHVvjmqrM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12946414033103689452",
+  "placeId": "ChIJpXBRFPgIK4cR7BZHVvjmqrM",
+  "googleRating": 4.7,
+  "googleReviewCount": 15,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OQJ2lRZLm2MzLULxjmOtmQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=66.677&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 14
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

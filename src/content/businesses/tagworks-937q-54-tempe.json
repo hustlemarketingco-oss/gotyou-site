@@ -1,0 +1,36 @@
+{
+  "slug": "tagworks-937q-54-tempe",
+  "name": "TagWorks",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "937Q+54 PetSmart, 6426 S McClintock Dr #106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362897,
+  "lng": -111.91274779999999,
+  "phone": "+18774739539",
+  "googleMapsUrl": "https://www.google.com/maps/place/TagWorks/data=!4m7!3m6!1s0x872b07698cbd7771:0xf11339f905bfc4ef!8m2!3d33.362897!4d-111.9127478!16s%2Fg%2F11fjxxpv1d!19sChIJcXe9jGkHK4cR78S_Bfk5E_E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17371291929404228847",
+  "placeId": "ChIJcXe9jGkHK4cR78S_Bfk5E_E",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPfgDzRbLh2iTlcyoKPsY_52YiHbF_m1XCmJ36_uUYAdwysB28gLf_6yD0FDjEl8Mr2_vWsSX0lYcpAZBfMecBYSTBMgGE1_Y1rFxVTwRITzSPGQlMpi4G6dep-wEpnibjJzFL2A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

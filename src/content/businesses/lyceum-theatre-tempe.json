@@ -1,0 +1,35 @@
+{
+  "slug": "lyceum-theatre-tempe",
+  "name": "Lyceum Theatre",
+  "category": "Fun & Activities",
+  "googleCategory": "Performing arts theater",
+  "address": "901 S Forest Mall",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4205407,
+  "lng": -111.9363781,
+  "phone": "+14809656447",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lyceum+Theatre/data=!4m7!3m6!1s0x872b08dbb009ef6d:0xf8beb1ecb5a0b9f3!8m2!3d33.4205407!4d-111.9363781!16s%2Fg%2F11b7xtbyvz!19sChIJbe8JsNsIK4cR87mgteyxvvg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17923959197198760435",
+  "placeId": "ChIJbe8JsNsIK4cR87mgteyxvvg",
+  "googleRating": 4.6,
+  "googleReviewCount": 28,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WP-u2mMAA-6IY7le9f84Jw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=283.18994&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 2,
+    "4": 8,
+    "5": 18
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

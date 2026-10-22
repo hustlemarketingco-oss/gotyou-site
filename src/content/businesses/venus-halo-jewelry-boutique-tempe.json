@@ -1,0 +1,35 @@
+{
+  "slug": "venus-halo-jewelry-boutique-tempe",
+  "name": "Venus Halo Jewelry Boutique",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "address": "600 W 1st St Unit 1025",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.429818,
+  "lng": -111.94757299999999,
+  "phone": "+16023195076",
+  "googleMapsUrl": "https://www.google.com/maps/place/Venus+Halo+Jewelry+Boutique/data=!4m7!3m6!1s0x872b09f1904c4371:0x2172c87625ad863a!8m2!3d33.429818!4d-111.947573!16s%2Fg%2F11m6_pd_gq!19sChIJcUNMkPEJK4cROoatJXbIciE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2410209160360461882",
+  "placeId": "ChIJcUNMkPEJK4cROoatJXbIciE",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 7:30 PM",
+    "tue": "9:00 AM - 7:30 PM",
+    "wed": "9:00 AM - 7:30 PM",
+    "thu": "9:00 AM - 7:30 PM",
+    "fri": "9:00 AM - 7:30 PM",
+    "sat": "10:00 AM - 7:30 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

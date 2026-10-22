@@ -1,0 +1,54 @@
+{
+  "slug": "mcdonalds-1429-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1429 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377825699999995,
+  "lng": -111.9618282,
+  "phone": "+14808973512",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/1429-W-BASELINE/24530.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b05f86c0b26a1:0x2812be0fd582ff68!8m2!3d33.3778257!4d-111.9618282!16s%2Fg%2F1tjjpv7_!19sChIJoSYLbPgFK4cRaP-C1Q--Eig?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2887579286313828200",
+  "placeId": "ChIJoSYLbPgFK4cRaP-C1Q--Eig",
+  "googleRating": 3.2,
+  "googleReviewCount": 1861,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9EXvnszxHxTQvV78bXgvEwhz4b_vfXIZZYQBWZkQ_WRxXojnr1iV1cE_2RDw9hy009m4Yo4_4K6qEkEaD4y6R-RPxaBpf87LIkcQmMQZ39T_E9g6SmR1dd3oL7L0dLWzPzc3EEg=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 496,
+    "2": 163,
+    "3": 292,
+    "4": 310,
+    "5": 600
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

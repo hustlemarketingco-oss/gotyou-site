@@ -1,0 +1,50 @@
+{
+  "slug": "mens-ultimate-grooming-mug-tempe",
+  "name": "Men's Ultimate Grooming (MUG) - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair salon"
+  ],
+  "address": "1761 E Warner Rd # A-15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3333003,
+  "lng": -111.9115781,
+  "phone": "+14804915182",
+  "website": "https://mughaircuts.com/location/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Men%27s+Ultimate+Grooming+%28MUG%29+-+Tempe/data=!4m7!3m6!1s0x872b077aef0f5869:0x4faf01cd1afea5c8!8m2!3d33.3333003!4d-111.9115781!16s%2Fg%2F11ghs9jdgq!19sChIJaVgP73oHK4cRyKX-Gs0Br08?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5741810030353491400",
+  "placeId": "ChIJaVgP73oHK4cRyKX-Gs0Br08",
+  "googleRating": 4.5,
+  "googleReviewCount": 134,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1zATVcRxlw7a-QzK2AxNAqrFdLYcWytDXyKydc6-1oGwc7dXi_whxSgcY1g4NZAb639QYjI3oaB9t03_OHe3Xt0WfNVumyBQ0ncJhtlUVYl4twUqagWKnIAD5zLtbvOp84D5r=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 7,
+    "3": 1,
+    "4": 8,
+    "5": 109
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

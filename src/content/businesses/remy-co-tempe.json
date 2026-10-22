@@ -1,0 +1,45 @@
+{
+  "slug": "remy-co-tempe",
+  "name": "Remy Co",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty supply store",
+  "address": "9 E Southern Ave #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391653,
+  "lng": -111.93904599999999,
+  "phone": "+14802726255",
+  "googleMapsUrl": "https://www.google.com/maps/place/Remy+Co/data=!4m7!3m6!1s0x872b08a4e21be6bd:0x52ec2aceab929883!8m2!3d33.391653!4d-111.939046!16s%2Fg%2F1pp2t_yvr!19sChIJveYb4qQIK4cRg5iSq84q7FI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5975197872743946371",
+  "placeId": "ChIJveYb4qQIK4cRg5iSq84q7FI",
+  "googleRating": 3.9,
+  "googleReviewCount": 634,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSsrtFqSGsCx7L-NvZCyxBMM-OXgyXadif5r9G-d14S5u3M14jMDClThu32sRvtkRlvVs4VI3dxISLjFLvyH9FuTsHEVbaTbVybxmqySl0ZjNLrrwDsRcwvaKNu_2yPhv_j5uO_A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 88,
+    "2": 26,
+    "3": 58,
+    "4": 122,
+    "5": 340
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:45 PM",
+    "tue": "9:30 AM - 7:45 PM",
+    "wed": "9:30 AM - 7:45 PM",
+    "thu": "9:30 AM - 7:45 PM",
+    "fri": "9:30 AM - 7:45 PM",
+    "sat": "9:30 AM - 7:45 PM",
+    "sun": "10:00 AM - 5:45 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

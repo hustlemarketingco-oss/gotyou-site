@@ -1,0 +1,46 @@
+{
+  "slug": "inhale-serenity-tempe",
+  "name": "InHale Serenity",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa",
+  "secondaryCategories": [
+    "Massage therapist"
+  ],
+  "address": "9030 S McClintock Dr #105",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.332194699999995,
+  "lng": -111.9117878,
+  "phone": "+16232731624",
+  "website": "http://inhale-serenity.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/InHale+Serenity/data=!4m7!3m6!1s0x65cc169aec32d71d:0x2f07ae906600421!8m2!3d33.3321947!4d-111.9117878!16s%2Fg%2F11vcm1z7ds!19sChIJHdcy7JoWzGURIQRgBul68AI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "211804323739337761",
+  "placeId": "ChIJHdcy7JoWzGURIQRgBul68AI",
+  "googleRating": 5,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjRw-chGnVtzQhVjShk7h6LhmCRSMC7dMX3M9LrLpUEIbE1gXGSIZdQAEWmAfREziucDv12C4gai5qPddm2yNGZbK_W2bzyN1b7MK3Soq98yCsIYw-3Wtpp59RwTd7RBb4jB58lQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 26
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "Closed",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

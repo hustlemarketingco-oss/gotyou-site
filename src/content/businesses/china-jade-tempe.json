@@ -1,0 +1,52 @@
+{
+  "slug": "china-jade-tempe",
+  "name": "China Jade",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Delivery Restaurant",
+    "Restaurant"
+  ],
+  "address": "825 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3771936,
+  "lng": -111.95191059999999,
+  "phone": "+14808972558",
+  "website": "https://www.chinajadetempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/China+Jade/data=!4m7!3m6!1s0x872b06009ee2c5e7:0xc22704ea8f10258f!8m2!3d33.3771936!4d-111.9519106!16s%2Fg%2F12hlvj28j!19sChIJ58XingAGK4cRjyUQj-oEJ8I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13990156172918793615",
+  "placeId": "ChIJ58XingAGK4cRjyUQj-oEJ8I",
+  "googleRating": 4.1,
+  "googleReviewCount": 459,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuNdnY5H1kPv4mzUCjUDiUJiIHWeUtgcwQQcSTDLZEf4TamXC0IV2l2tzeHkZNmlSnIWBNbhb4xYu-f12xuZRg0cmbkWqdZ-xz1OBOU6qLkPV29y2VVSCDJ5hY0O-xs_-xhoL85w=w1200-h800-k-no",
+  "description": "Strip-mall eatery offering a large menu of familiar Chinese eats, from noodles to Mongolian beef.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 47,
+    "2": 31,
+    "3": 36,
+    "4": 73,
+    "5": 272
+  },
+  "hours": {
+    "mon": "10:30 AM - 9:30 PM",
+    "tue": "Closed",
+    "wed": "10:30 AM - 9:30 PM",
+    "thu": "10:30 AM - 9:30 PM",
+    "fri": "10:30 AM - 9:30 PM",
+    "sat": "10:30 AM - 9:30 PM",
+    "sun": "10:30 AM - 9:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

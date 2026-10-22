@@ -1,0 +1,49 @@
+{
+  "slug": "arizona-mills-tempe",
+  "name": "Arizona Mills",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383125,
+  "lng": -111.964485,
+  "phone": "+14804919700",
+  "website": "https://www.simon.com/mall/arizona-mills",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Mills/data=!4m7!3m6!1s0x872b0f59e166f987:0x1dc752fa1319b15d!8m2!3d33.383125!4d-111.964485!16zL20vMDZqOGhy!19sChIJh_lm4VkPK4cRXbEZE_pSxx0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2145774981481083229",
+  "placeId": "ChIJh_lm4VkPK4cRXbEZE_pSxx0",
+  "googleRating": 4.4,
+  "googleReviewCount": 24389,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkI6qAmtbREYbeaPkaK1UkgCSu3GdvlzDE2_9z5PN1bo0mTkMys8LLEnPRw9qGv0d1lAlsI6BYZggffj4hW5Kg_AvKpYN5o7KVmACWTBbIpwtYpY_kRG9QP1SQ9E9vRjW7zU5x9Yf3tVk4=w1200-h800-k-no",
+  "description": "Expansive indoor mall with 150+ retailers, restaurants & Arizona's largest IMAX theater.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 569,
+    "2": 630,
+    "3": 2635,
+    "4": 5966,
+    "5": 14589
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

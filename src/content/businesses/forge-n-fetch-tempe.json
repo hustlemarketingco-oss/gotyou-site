@@ -1,0 +1,37 @@
+{
+  "slug": "forge-n-fetch-tempe",
+  "name": "Forge ‘N Fetch",
+  "category": "Shopping",
+  "googleCategory": "Pet store",
+  "address": "2832 S Fairway Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3979824,
+  "lng": -111.8947694,
+  "phone": "+16023184772",
+  "website": "http://forgenfetch.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Forge+%E2%80%98N+Fetch/data=!4m7!3m6!1s0x872b093411b5ebd1:0x536cec65f1081df5!8m2!3d33.3979824!4d-111.8947694!16s%2Fg%2F11z9j1kp2y!19sChIJ0eu1ETQJK4cR9R0I8WXsbFM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6011439525212462581",
+  "placeId": "ChIJ0eu1ETQJK4cR9R0I8WXsbFM",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pJzMnttd6CqBkWMkSKIUdg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=187.45145&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

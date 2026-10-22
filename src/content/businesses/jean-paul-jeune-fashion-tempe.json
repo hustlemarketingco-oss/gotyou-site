@@ -1,0 +1,43 @@
+{
+  "slug": "jean-paul-jeune-fashion-tempe",
+  "name": "Jean Paul Jeune Fashion",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1301 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.443055,
+  "lng": -111.9260274,
+  "phone": "+14809668484",
+  "website": "http://www.jpjempire.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jean+Paul+Jeune+Fashion/data=!4m7!3m6!1s0x872b09165ce878a1:0xc22205cbc85e6276!8m2!3d33.443055!4d-111.9260274!16s%2Fg%2F1td_c446!19sChIJoXjoXBYJK4cRdmJeyMsFIsI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13988749765364310646",
+  "placeId": "ChIJoXjoXBYJK4cRdmJeyMsFIsI",
+  "googleRating": 5,
+  "googleReviewCount": 47,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQSxdYBYtk9Nq7u3V5m9P0Jm0h7ll53ZS0A6hsvzOVsw3XO1CCyReIHI6zF4GA4zjN9e297i_xnjktbQ1WAuo5ST2uhqI9b6yUIBX-c2GAO2NkY98TpgCLUsZCApXCvyTtDTQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 46
+  },
+  "hours": {
+    "mon": "10:00 AM - 5:00 PM",
+    "tue": "10:00 AM - 5:30 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

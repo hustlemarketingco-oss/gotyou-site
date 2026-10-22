@@ -1,0 +1,51 @@
+{
+  "slug": "regal-nails-salon-spa-tempe",
+  "name": "Regal Nails, Salon & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Health spa",
+    "Skin care clinic",
+    "Spa"
+  ],
+  "address": "1380 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3509714,
+  "lng": -111.9610056,
+  "phone": "+14804912075",
+  "googleMapsUrl": "https://www.google.com/maps/place/Regal+Nails,+Salon+%26+Spa/data=!4m7!3m6!1s0x872b05db076b6743:0x5696b2129a14cea2!8m2!3d33.3509714!4d-111.9610056!16s%2Fg%2F1tnl1w21!19sChIJQ2drB9sFK4cRos4UmhKyllY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6239370126732611234",
+  "placeId": "ChIJQ2drB9sFK4cRos4UmhKyllY",
+  "googleRating": 4,
+  "googleReviewCount": 115,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLejOP56CRFaCjnarzwJuX95goc1mEk5aQ_PUepRz66_0UFB-4KBPM85XtKIdF0uRJelcbhstC074hqbcVVKBJotepQyuo1CGHlER0KdO48xLdRK_rvwTYcvv_dAfsnulyV6W6Wy=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 6,
+    "3": 5,
+    "4": 14,
+    "5": 71
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:30 PM",
+    "tue": "9:30 AM - 7:30 PM",
+    "wed": "9:30 AM - 7:30 PM",
+    "thu": "9:30 AM - 7:30 PM",
+    "fri": "9:30 AM - 7:30 PM",
+    "sat": "9:30 AM - 7:30 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

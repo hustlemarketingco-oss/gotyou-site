@@ -1,0 +1,57 @@
+{
+  "slug": "firestone-complete-auto-care-tempe",
+  "name": "Firestone Complete Auto Care",
+  "category": "Shopping",
+  "googleCategory": "Tire shop",
+  "secondaryCategories": [
+    "Auto air conditioning service",
+    "Auto repair shop",
+    "Brake shop",
+    "Car battery store",
+    "Car repair and maintenance service",
+    "Mechanic",
+    "Oil change service",
+    "Transmission shop"
+  ],
+  "address": "930 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.379099,
+  "lng": -111.9263989,
+  "phone": "+14805359946",
+  "website": "https://www.firestonecompleteautocare.com/arizona/tempe/930-e-baseline-rd/?utm_source=google&utm_medium=organic&utm_campaign=localmaps&cmp=oloc_google_localmaps_maps",
+  "googleMapsUrl": "https://www.google.com/maps/place/Firestone+Complete+Auto+Care/data=!4m7!3m6!1s0x872b06237e63e8bf:0x31cffd947dd96026!8m2!3d33.379099!4d-111.9263989!16s%2Fg%2F1tfc2g_1!19sChIJv-hjfiMGK4cRJmDZfZT9zzE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3589366242245959718",
+  "placeId": "ChIJv-hjfiMGK4cRJmDZfZT9zzE",
+  "googleRating": 4,
+  "googleReviewCount": 1047,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZdz7RwURB7fh8wwETI5FBTmFOS0lKCMRk8sshUpOQshE5X9ftorGH5ppWeN87ahhNnMzK1AfhG5CLn5s4g9PwpMkSA84VDksFaE1DdUMAGdhmvfNVHn_xX3ZhhQJb5aszkMTP9vddu6k=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 210,
+    "2": 28,
+    "3": 35,
+    "4": 59,
+    "5": 715
+  },
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

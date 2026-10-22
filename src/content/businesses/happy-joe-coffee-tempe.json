@@ -17,11 +17,12 @@
   "website": "http://www.happyjoecoffee.com/",
   "placeId": "ChIJkRMCLwcJK4cRY9swl6-ZVRk",
   "googleRating": 4.1,
-  "googleReviewCount": 107,
+  "googleReviewCount": 124,
   "amenities": [
-    "Credit card",
-    "Apple Pay",
-    "Cash"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "8:00 AM - 3:30 PM",
@@ -38,5 +39,16 @@
   "groundgameId": "6a31abdf6059cbf8d4c2c8b5",
   "seededAt": "2026-06-16T20:02:39Z",
   "updatedAt": "2026-08-06T19:39:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1825534203403492195",
+  "googleMapsUrl": "https://www.google.com/maps/place/Happy+Joe+Coffee/data=!4m7!3m6!1s0x872b09072f021391:0x195599af9730db63!8m2!3d33.4229773!4d-111.9364015!16s%2Fg%2F11rvdv9fwj!19sChIJkRMCLwcJK4cRY9swl6-ZVRk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 8,
+    "3": 8,
+    "4": 14,
+    "5": 80
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDKefCGdyMZXIZdkkEQlf06edy6I6TfE-8pi0v8qCbBbKIovvT6kCJyigqHO35lXs6uCbyJqgemerqkCYujYqswkkIS6ofEvY48flZ41gRYainAw-mNXOYVaQqlkd5AYu9iqYE=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

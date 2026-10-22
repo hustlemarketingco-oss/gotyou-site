@@ -16,17 +16,9 @@
   "priceRange": "$1–10",
   "description": "Longtime chain serving a variety of donut flavors & shapes, plus coffee & frozen drinks.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/krispykreme"
@@ -37,5 +29,31 @@
   "groundgameId": "6a2439d1be7960d6db1b819a",
   "seededAt": "2026-06-06T15:16:33Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJNTbEEwAPK4cRJaOB2gvEffU",
+  "googleCid": "17689510466570789669",
+  "googleMapsUrl": "https://www.google.com/maps/place/Krispy+Kreme/data=!4m7!3m6!1s0x872b0f0013c43635:0xf57dc40bda81a325!8m2!3d33.3786161!4d-111.964592!16s%2Fg%2F11wy4xkm8y!19sChIJNTbEEwAPK4cRJaOB2gvEffU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.7,
+  "googleReviewCount": 151,
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 6,
+    "3": 5,
+    "4": 10,
+    "5": 91
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUl8Cn8j8LcDW2sLAW_kLkD-6Kn8oyt4NrOcULn_jnfGXEUjgdqF5eT5p5WGFcmDvMf4XwZLeNpdLOjvo2dqSTMFvpLWEW6stcSlvVKxoCmuj-9ghl55jXrJy-ZRBP91GCP03LHHhl07E=w1200-h800-k-no",
+  "website": "https://site.krispykreme.com/az/tempe/1540-west-baseline-road?y_source=1_MTA2NTM3NTA3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "hours": {
+    "mon": "5:30 AM - 10:00 PM",
+    "tue": "5:30 AM - 10:00 PM",
+    "wed": "5:30 AM - 10:00 PM",
+    "thu": "5:30 AM - 10:00 PM",
+    "fri": "5:30 AM - 11:00 PM",
+    "sat": "5:30 AM - 11:00 PM",
+    "sun": "5:30 AM - 10:00 PM"
+  },
+  "lat": 33.378616099999995,
+  "lng": -111.964592,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

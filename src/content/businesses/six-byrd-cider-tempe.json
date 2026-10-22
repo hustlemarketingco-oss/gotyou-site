@@ -13,14 +13,7 @@
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Inside"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/100078727037554"
@@ -31,5 +24,28 @@
   "groundgameId": "6a2437a223f8907d1fc79d66",
   "seededAt": "2026-06-06T15:07:14Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJbdQA84sJK4cR1UG3V-xviVg",
+  "googleCid": "6379753408021610965",
+  "googleMapsUrl": "https://www.google.com/maps/place/Six+Byrd+Cider+-+Tempe/data=!4m7!3m6!1s0x872b098bf300d46d:0x58896fec57b741d5!8m2!3d33.4226222!4d-111.9045179!16s%2Fg%2F11x8pqbrj_!19sChIJbdQA84sJK4cR1UG3V-xviVg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 5,
+  "googleReviewCount": 39,
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 38
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCk1kEznCyjH65E4LK4LMXdrHY2_O5SqjCpluzxAwungaRADg2M0ShRcPZpgA3742lYi8TF0hZNIVjhXpoBF775iZlrVuYiuG_NXYfdaMYp1vRoWP0J9UMea5sFOHjVicViTACMcI2njEZ=w1200-h800-k-no",
+  "website": "https://sixbyrd.com/",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "4:00 PM - 9:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "12:00 PM - 10:00 PM",
+    "sun": "12:00 PM - 7:00 PM"
+  },
+  "lat": 33.4226222,
+  "lng": -111.9045179,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

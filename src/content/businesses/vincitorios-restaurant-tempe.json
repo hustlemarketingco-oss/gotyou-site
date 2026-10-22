@@ -1,0 +1,53 @@
+{
+  "slug": "vincitorios-restaurant-tempe",
+  "name": "Vincitorio's Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Southern Italian restaurant",
+  "secondaryCategories": [
+    "Italian restaurant",
+    "Wine bar"
+  ],
+  "address": "1835 E Elliot Rd # C109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3483333,
+  "lng": -111.9088889,
+  "phone": "+14808202786",
+  "website": "http://www.vincitoriosrestaurant.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vincitorio%27s+Restaurant/data=!4m7!3m6!1s0x872b05c45298a819:0x2c72b479ac47d6ce!8m2!3d33.3483333!4d-111.9088889!16s%2Fg%2F1tdcb863!19sChIJGaiYUsQFK4cRztZHrHm0ciw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3202820719688275662",
+  "placeId": "ChIJGaiYUsQFK4cRztZHrHm0ciw",
+  "googleRating": 4.4,
+  "googleReviewCount": 1837,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6jw3oNGLQividbsCXaVfpOnwnORF1fqwqv9_VJFs4N5XPT1iQNVMG5NriN6zfrhpJUMMllq8prbCLNat1PGc5W-CeGeVneL-b-CGog74vH4scftNCEr1IpWGtC_GxQT3v6MHL=w1200-h800-k-no",
+  "description": "Neighborhood Italian eatery & wine bar turning out handmade pastas in a comfy, stonewalled space.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 83,
+    "2": 85,
+    "3": 139,
+    "4": 252,
+    "5": 1278
+  },
+  "hours": {
+    "mon": "4:00 PM - 8:00 PM",
+    "tue": "4:00 PM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

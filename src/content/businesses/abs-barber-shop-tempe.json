@@ -1,0 +1,47 @@
+{
+  "slug": "abs-barber-shop-tempe",
+  "name": "AB'S BARBER SHOP",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2710 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932613,
+  "lng": -111.97697129999999,
+  "phone": "+16024371441",
+  "googleMapsUrl": "https://www.google.com/maps/place/AB%27S+BARBER+SHOP/data=!4m7!3m6!1s0x872b0f6a1a9cc0d3:0x1abae005df32a68f!8m2!3d33.3932613!4d-111.9769713!16s%2Fg%2F11bwny9jv3!19sChIJ08CcGmoPK4cRj6Yy3wXguho?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1926098106478405263",
+  "placeId": "ChIJ08CcGmoPK4cRj6Yy3wXguho",
+  "googleRating": 4,
+  "googleReviewCount": 97,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdILGSUefgVIaaXBQPei6vgrE7TVSEwyhcDmDNjzwwPz4uqxh6ce8MXaSuc3OLPbWU4wp3vCHdkrG5o2bF21l24l4xqYXbuiai89O9aUbPfMHTO2oEzuplimFIh5HARsG9P3YBUw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 6,
+    "3": 3,
+    "4": 2,
+    "5": 68
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "12:00 PM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

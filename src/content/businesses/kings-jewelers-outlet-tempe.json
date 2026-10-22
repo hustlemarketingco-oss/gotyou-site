@@ -1,0 +1,48 @@
+{
+  "slug": "kings-jewelers-outlet-tempe",
+  "name": "Kings Jewelers Outlet",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Repair service",
+    "Watch store"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 406",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3811666,
+  "lng": -111.96481729999999,
+  "phone": "+16027852639",
+  "website": "https://www.kingsjewelersoutlet.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kings+Jewelers+Outlet/data=!4m7!3m6!1s0x872b0f2e92726735:0xbd3c97908833901!8m2!3d33.3811666!4d-111.9648173!16s%2Fg%2F11syt9bxs1!19sChIJNWdyki4PK4cRATmDCHnJ0ws?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "852246276174199041",
+  "placeId": "ChIJNWdyki4PK4cRATmDCHnJ0ws",
+  "googleRating": 4.9,
+  "googleReviewCount": 276,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3HcYzBAADQeNzTp1OMfCyIm9gNtgpuUBXsJwGBKi7RxzwNtTD79FilCKMcGewgzHfdi57eQ6ZjKBcyGRJI9v7JdnVGT7m-uobx10dwIQ8IOuYRupzukDaA7yWRy8mwZjF2Sxl=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "4": 1,
+    "5": 268
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

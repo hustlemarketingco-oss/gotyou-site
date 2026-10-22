@@ -19,13 +19,13 @@
   "website": "https://www.currycorneraz.com/",
   "placeId": "ChIJ787g9O4IK4cRYVVmSyTpLoU",
   "googleRating": 4,
-  "googleReviewCount": 1984,
+  "googleReviewCount": 2016,
   "priceRange": "$",
   "amenities": [
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "mon": "11:00 AM - 9:30 PM",
@@ -42,5 +42,16 @@
   "groundgameId": "6a456222b9eede93679747be",
   "seededAt": "2026-07-01T18:53:22Z",
   "updatedAt": "2026-07-22T20:53:42Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9596864198066197857",
+  "googleMapsUrl": "https://www.google.com/maps/place/Curry+Corner/data=!4m7!3m6!1s0x872b08eef4e0ceef:0x852ee9244b665561!8m2!3d33.4153002!4d-111.9200294!16s%2Fg%2F11xc0_vyv!19sChIJ787g9O4IK4cRYVVmSyTpLoU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 225,
+    "2": 122,
+    "3": 173,
+    "4": 373,
+    "5": 1123
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePuKUrbzveiWoW673MhYsz8AeHso-iCRABNp5My3HVfC5THa_4-CAtUKzcy-Z0ScyTW6Dw4uSdoi6h_0RKCIZFoBL6sUzTPPkJfo-TAae6i8nhdN6x6Vp4NvrmqJC9B1EzIdX7=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -15,26 +15,17 @@
   "lng": -111.9374728,
   "phone": "+16232267231",
   "website": "http://www.mochinut.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1515826047971122765",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mochinut+Tempe/data=!4m7!3m6!1s0x872b0927eadf288d:0x15094bc26a9a5e4d!8m2!3d33.3921579!4d-111.9374728!16s%2Fg%2F11qg5hp8km!19sChIJjSjf6icJK4cRTV6aasJLCRU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1515826047971122765",
   "placeId": "ChIJjSjf6icJK4cRTV6aasJLCRU",
-  "googleRating": 4.7,
-  "googleReviewCount": 267,
+  "googleRating": 4.6,
+  "googleReviewCount": 281,
   "priceRange": "$1–10",
   "description": "Located in Tempe, Mochinut Tempe is a casual donut shop & dessert shop with coffee, takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Casual",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "9:30 AM - 8:00 PM",
@@ -51,5 +42,14 @@
   "groundgameId": "6a2437cdea0ece71a74ef80a",
   "seededAt": "2026-06-06T15:07:57Z",
   "updatedAt": "2026-06-25T18:24:09Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 6,
+    "3": 8,
+    "4": 27,
+    "5": 230
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHfUkAce3k2-x5V6Ldzpj5jtmJMqqSReLaZdXhEHGzbT7-EuE1cXxcKzLT_-FTk2UKnYk10F0MP_KvOE3j5mXX9EXgeFG7FLCFg9Z6c_kuQ_BcP8oLeAPHVhQYFFGAC1AW0RSPIJwLgneJ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

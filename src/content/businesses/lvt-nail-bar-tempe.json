@@ -1,0 +1,38 @@
+{
+  "slug": "lvt-nail-bar-tempe",
+  "name": "LVT Nail Bar",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "Located inside Enclave Salon Suites, 1800 E Rio Salado Pkwy Ste 141",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.430081,
+  "lng": -111.9049733,
+  "phone": "+16024214264",
+  "website": "https://lvtnailbar.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/LVT+Nail+Bar/data=!4m7!3m6!1s0x872b09755245b7f9:0x8e172b3d6964a391!8m2!3d33.430081!4d-111.9049733!16s%2Fg%2F11n3ctg6jw!19sChIJ-bdFUnUJK4cRkaNkaT0rF44?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10238699820611314577",
+  "placeId": "ChIJ-bdFUnUJK4cRkaNkaT0rF44",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mo2oUSBvayUJBt6uxCWr3Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=218.79816&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "2:30 PM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "2:30 PM - 7:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

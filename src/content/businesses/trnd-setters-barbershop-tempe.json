@@ -1,0 +1,46 @@
+{
+  "slug": "trnd-setters-barbershop-tempe",
+  "name": "TRND Setters Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "707 S Farmer Ave Ste 122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4220478,
+  "lng": -111.94400739999999,
+  "phone": "+14804046103",
+  "website": "http://trndsettersbarbershop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/TRND+Setters+Barbershop/data=!4m7!3m6!1s0x872b092d07914a15:0x7115de0a4e72a135!8m2!3d33.4220478!4d-111.9440074!16s%2Fg%2F11y4q19lw_!19sChIJFUqRBy0JK4cRNaFyTgreFXE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8148663236643954997",
+  "placeId": "ChIJFUqRBy0JK4cRNaFyTgreFXE",
+  "googleRating": 4.7,
+  "googleReviewCount": 166,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMlUzGbqisGbtw8zdkvNF5-E-OSUzRNMhfMnPNJFjOrMTNyjNVlFnOETeLx20BRZJjmPXduGHdYqJAzojtP0Dvtx1LMmKB8DYsVuK2WSDx3hnXuvxxBThHpkv3TYcfjd2mMNTI8bD5KgsY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 3,
+    "4": 2,
+    "5": 152
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "10:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

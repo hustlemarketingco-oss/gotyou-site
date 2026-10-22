@@ -1,0 +1,50 @@
+{
+  "slug": "amazing-lash-studio-tempe",
+  "name": "Amazing Lash Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "secondaryCategories": [
+    "Eyelash salon"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1074",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.432758,
+  "lng": -111.9041534,
+  "phone": "+14802193338",
+  "website": "https://www.amazinglashstudio.com/studios/az/tempe/tempe-marketplace?utm_source=Google&utm_medium=SoCi",
+  "googleMapsUrl": "https://www.google.com/maps/place/Amazing+Lash+Studio/data=!4m7!3m6!1s0x872b09aaabdbebd9:0x564dc402cb4ae752!8m2!3d33.432758!4d-111.9041534!16s%2Fg%2F11bwnwxtw_!19sChIJ2evbq6oJK4cRUudKywLETVY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6218842176748185426",
+  "placeId": "ChIJ2evbq6oJK4cRUudKywLETVY",
+  "googleRating": 4.1,
+  "googleReviewCount": 414,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJJTyMefxsVaEcloAAmJBeiIcUfP-MM3fJmpj0eIGYnOB7O2pb9HLfUbtUidwaegLwSDRKJoSTcK4XHbIErMr7UyjaXytogYOJaXDN8oQI1jTNm6q4hOGnjFwijDh8laB6Zhxn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 77,
+    "2": 13,
+    "3": 10,
+    "4": 12,
+    "5": 302
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tacos-and-whiskey-llc-food-truck-tempe",
+  "name": "Tacos and whiskey llc - Food truck",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "1858 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.415231299999995,
+  "lng": -111.9057885,
+  "phone": "+16232967622",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tacos+and+whiskey+llc+-+Food+truck/data=!4m7!3m6!1s0x872b090038140ac3:0x9e3368da4b6c868e!8m2!3d33.4152313!4d-111.9057885!16s%2Fg%2F11zc_q41zd!19sChIJwwoUOAAJK4cRjoZsS9poM54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11399570368582420110",
+  "placeId": "ChIJwwoUOAAJK4cRjoZsS9poM54",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h4ySAKyUGddJH_p101BrTg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=21.033886&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

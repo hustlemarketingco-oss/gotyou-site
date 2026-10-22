@@ -1,0 +1,42 @@
+{
+  "slug": "thorough-cutz-tempe",
+  "name": "Thorough Cutz",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "phenix salon suites, 1761 E Warner Rd Ste 130",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3338107,
+  "lng": -111.9123834,
+  "phone": "+14022132803",
+  "website": "http://book.thecut.co/LcTheBarber",
+  "googleMapsUrl": "https://www.google.com/maps/place/Thorough+Cutz/data=!4m7!3m6!1s0x872b0709a9caf509:0xe3a25f1267f1f7f!8m2!3d33.3338107!4d-111.9123834!16s%2Fg%2F11lymp2_hk!19sChIJCfXKqQkHK4cRfx9_JvElOg4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1025173582843420543",
+  "placeId": "ChIJCfXKqQkHK4cRfx9_JvElOg4",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemgHRJKPXGlMyugoXdAsZbSuLAu56hYmpLJwlKMr_FSXzRVSw99hd_91jKHrdyW6D1guEeuLjuaq7wFrP0ms6j07MYNOP7aNFarkUHYTjO--zdZES7DnnDWjw6Y4nVvf--SN3zMg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:30 PM",
+    "wed": "9:00 AM - 6:30 PM",
+    "thu": "9:00 AM - 6:30 PM",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "9:00 AM - 6:30 PM",
+    "sun": "9:00 AM - 6:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

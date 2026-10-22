@@ -16,7 +16,7 @@
   "lng": -111.9653234,
   "phone": "+14807440158",
   "website": "https://www.thelastbowl.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14772378063356754789",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Last+Bowl/data=!4m7!3m6!1s0x872b05bf40405bd7:0xcd020794ca26fb65!8m2!3d33.348132!4d-111.9653234!16s%2Fg%2F11n52hdtl3!19sChIJ11tAQL8FK4cRZfsmypQHAs0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14772378063356754789",
   "placeId": "ChIJ11tAQL8FK4cRZfsmypQHAs0",
   "googleRating": 3.7,
@@ -36,5 +36,11 @@
   "groundgameId": "6a2435f9eb6cbe060a214f9a",
   "seededAt": "2026-06-06T15:00:09Z",
   "updatedAt": "2026-06-06T15:04:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 4
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjgxE36VJOEarqR-giUFfNJifzjlnEyGPfYD-8QnB8Hlq6dVoLnifrgBIGNogqmLAHXtTAdaZuE7Grrg2quykrQjiMVopjJIBfHDMc9vjnQRaTPett4pKeXg7hBCp-tCxiUJQHWYUY6E0=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

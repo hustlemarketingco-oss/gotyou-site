@@ -1,0 +1,48 @@
+{
+  "slug": "white-castle-tempe",
+  "name": "White Castle",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "address": "8735 S Jewel St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335102899999995,
+  "lng": -111.9679372,
+  "phone": "+16232732546",
+  "website": "https://whitecastle.com/locations/0000011",
+  "googleMapsUrl": "https://www.google.com/maps/place/White+Castle/data=!4m7!3m6!1s0x872b0564140f58cf:0xba0940f6041c2d2e!8m2!3d33.3351029!4d-111.9679372!16s%2Fg%2F11v0c22sr5!19sChIJz1gPFGQFK4cRLi0cBPZACbo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13405317191220079918",
+  "placeId": "ChIJz1gPFGQFK4cRLi0cBPZACbo",
+  "googleRating": 3.6,
+  "googleReviewCount": 1054,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyeXwxBAEvPjm68w2HeX4SgWCcPS4Cdw94fQHojPy83-maEXR2AoTmnVvGUc79nqnNbI5EboDgd7mSs57MoIhMllqbMJ_aB44Ojai9l1m6oHwBbtFFIpjLPy9vhXupsp30U1yA=w1200-h800-k-no",
+  "description": "Fast-food chain serving signature beef, chicken & fish sliders, plus extras such as onion rings.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 225,
+    "2": 91,
+    "3": 91,
+    "4": 143,
+    "5": 504
+  },
+  "hours": {
+    "mon": "8:00 AM - 1:00 AM",
+    "tue": "8:00 AM - 1:00 AM",
+    "wed": "8:00 AM - 1:00 AM",
+    "thu": "8:00 AM - 1:00 AM",
+    "fri": "8:00 AM - 1:00 AM",
+    "sat": "8:00 AM - 1:00 AM",
+    "sun": "8:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

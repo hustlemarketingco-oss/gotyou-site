@@ -11,25 +11,17 @@
   "lng": -111.9397083,
   "phone": "+14808943247",
   "website": "http://www.thehighlounge.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9020042011198015608",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+HIGH+Lounge/data=!4m7!3m6!1s0x872b09bafbf72f3b:0x7d2da06b408ec878!8m2!3d33.4261439!4d-111.9397083!16s%2Fg%2F11tswn8xhd!19sChIJOy_3-7oJK4cReMiOQGugLX0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9020042011198015608",
   "placeId": "ChIJOy_3-7oJK4cReMiOQGugLX0",
   "googleRating": 4.8,
-  "googleReviewCount": 153,
+  "googleReviewCount": 179,
   "priceRange": "$10–20",
   "description": "The HIGH Lounge is a Tempe casual, cozy lounge bar known for dancing & food, dine-in. A favorite among good for groups diners.",
   "amenities": [
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Trendy",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.instagram.com/thehighlounge5.0"
@@ -49,5 +41,13 @@
   "groundgameId": "6a2438a94e36f81f7165843d",
   "seededAt": "2026-06-06T15:11:37Z",
   "updatedAt": "2026-06-06T15:11:37Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "4": 5,
+    "5": 166
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQe5mcwrg7WT_bNAd388YDDOaNWkg_CS4CiKaW5gki17wZRXs6NaPYm81bfainyTGdaENMAsGYdUQ-DGpRbPQOkVntLS7qGJDHbJENfHFEYir2dB_rQxkJzYPZFEkL_SuKZOIasgTo10fX=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

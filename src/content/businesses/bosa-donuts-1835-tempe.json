@@ -21,7 +21,7 @@
   "website": "http://www.bosadonutstempe.com/",
   "placeId": "ChIJ8buH-4AIK4cR1VFssijAD1A",
   "googleRating": 4.3,
-  "googleReviewCount": 853,
+  "googleReviewCount": 873,
   "priceRange": "$",
   "hours": {
     "mon": "Open 24 hours",
@@ -38,5 +38,21 @@
   "groundgameId": "6a32ec7214afb113373e8ed4",
   "seededAt": "2026-06-17T18:50:26Z",
   "updatedAt": "2026-07-08T18:27:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5769040928709562837",
+  "googleMapsUrl": "https://www.google.com/maps/place/BoSa+Donuts/data=!4m7!3m6!1s0x872b0880fb87bbf1:0x500fc028b26c51d5!8m2!3d33.392683!4d-111.907177!16s%2Fg%2F1tj5872y!19sChIJ8buH-4AIK4cR1VFssijAD1A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 28,
+    "3": 49,
+    "4": 143,
+    "5": 588
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4yzqDmCQ2JrMq-xHmUXeE3uCSCNrrvtgam7Y4lUsAF6cc2HCR0D5dyBdVs9baPncYNg_eMJeSFembeJEE8Q11GJkD8clJDIxvQ7hkV7mG9KfwGbrGhHk2D4Inc8R1Ax2XESvr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

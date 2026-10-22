@@ -1,0 +1,43 @@
+{
+  "slug": "workshop-pilates-tempe",
+  "name": "Workshop Pilates - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "815 E Baseline Rd Ste b101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377902399999996,
+  "lng": -111.9292988,
+  "phone": "+14805097729",
+  "website": "https://www.workshoppilates.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Workshop+Pilates+-+Tempe/data=!4m7!3m6!1s0x872b07feb76b76f1:0x492e08544ec71c25!8m2!3d33.3779024!4d-111.9292988!16s%2Fg%2F11z50nycfg!19sChIJ8XZrt_4HK4cRJRzHTlQILkk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5273161371889376293",
+  "placeId": "ChIJ8XZrt_4HK4cRJRzHTlQILkk",
+  "googleRating": 5,
+  "googleReviewCount": 92,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTnMczkDYe1Ah7qOg7WkcqKMPi8rm1yzvR7DAfoRkdbMsJnD8H4YKsQl4pEzTsfpFe3n6L1AT2W-qio6aBj18XV5uMgGJ2MUbajMKbKzzY2GBgwZWS-7Amg1gP8NV5Xwxvv76P574L2s9T=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 92
+  },
+  "hours": {
+    "mon": "12:00 PM - 1:00 PM, 4:00 PM - 7:00 PM",
+    "tue": "8:00 AM - 11:00 AM, 12:00 PM - 1:00 PM, 4:00 PM - 7:00 PM",
+    "wed": "8:00 AM - 11:00 AM, 12:00 PM - 1:00 PM, 4:00 PM - 7:00 PM",
+    "thu": "8:00 AM - 11:00 AM, 12:00 PM - 1:00 PM, 4:00 PM - 6:00 PM",
+    "fri": "8:00 AM - 11:00 AM, 12:00 PM - 1:00 PM, 4:00 PM - 7:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "8:00 AM - 11:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

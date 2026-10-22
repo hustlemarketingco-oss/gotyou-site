@@ -1,0 +1,52 @@
+{
+  "slug": "burger-king-2011-tempe",
+  "name": "Burger King",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "2011 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4070156,
+  "lng": -111.9083141,
+  "phone": "+14805579711",
+  "website": "https://burgerking.com/store-locator/store/15588",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x872b088bbba098e1:0xac328ac522cd668!8m2!3d33.4070156!4d-111.9083141!16s%2Fg%2F1ts1n2ps!19sChIJ4Zigu4sIK4cRaNYsUqwowwo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "775508281416013416",
+  "placeId": "ChIJ4Zigu4sIK4cRaNYsUqwowwo",
+  "googleRating": 3.2,
+  "googleReviewCount": 1487,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBzy6KJvXY0ly2Jr5ta19pMJULgPVmhrbTsdY8ib3fP34yLCbve1ktwONcdXS2DLghmY6PR-2OuK9EhEUjW5l8Mm3qXs7mDj3PJzQkz3cZdJkfKXy43Vv_WNgq0klBeviC_TU=w1200-h800-k-no",
+  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 434,
+    "2": 112,
+    "3": 202,
+    "4": 257,
+    "5": 482
+  },
+  "hours": {
+    "mon": "6:00 AM - 1:00 AM",
+    "tue": "6:00 AM - 1:00 AM",
+    "wed": "6:00 AM - 1:00 AM",
+    "thu": "6:00 AM - 1:00 AM",
+    "fri": "6:00 AM - 1:00 AM",
+    "sat": "6:00 AM - 1:00 AM",
+    "sun": "7:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

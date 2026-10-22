@@ -11,36 +11,18 @@
   "lng": -111.9035061,
   "phone": "+14808041111",
   "website": "http://eatgenos.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10550447764493105001",
+  "googleMapsUrl": "https://www.google.com/maps/place/Original+Geno%27s+-+Best+Pizza+In+Tempe+AZ/data=!4m7!3m6!1s0x872b09a052ff4fc3:0x926ab857d7ecf769!8m2!3d33.4225376!4d-111.9035061!16s%2Fg%2F1tf75zvd!19sChIJw0__UqAJK4cRaffs11e4apI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10550447764493105001",
   "placeId": "ChIJw0__UqAJK4cRaffs11e4apI",
-  "googleRating": 3.9,
-  "googleReviewCount": 1077,
+  "googleRating": 4,
+  "googleReviewCount": 1165,
   "priceRange": "$10–20",
   "description": "Counter-serve hangout serving cheesesteaks & other sandwiches until late, plus salads & draft beer.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "10:30 AM - 3:00 AM",
@@ -57,5 +39,14 @@
   "groundgameId": "6a2438364efe2a1dff3bd989",
   "seededAt": "2026-06-06T15:09:42Z",
   "updatedAt": "2026-07-22T20:25:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 160,
+    "2": 66,
+    "3": 89,
+    "4": 164,
+    "5": 686
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd80Cjp4LrVA0zrhgGmjEiQiiTUoM1pEInEX6XFrixRpzz5YJrvHXXDwMpEQN7Z0MC3AQMrKpWjS4gLIrmMBj-IEpvwwBuNLTqIFJas4tzzXo-SwdQg4tkwzSlQ-y1P9NAysf4G0RXdsKdd=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

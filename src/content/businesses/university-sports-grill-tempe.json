@@ -10,30 +10,18 @@
   "lat": 33.4225978,
   "lng": -111.9403487,
   "phone": "+14804544541",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9559645234097035638",
+  "googleMapsUrl": "https://www.google.com/maps/place/University+Sports+Grill/data=!4m7!3m6!1s0x872b097bc73c50d5:0x84aaaeb0f51c1976!8m2!3d33.4225978!4d-111.9403487!16s%2Fg%2F11hk2j6ldd!19sChIJ1VA8x3sJK4cRdhkc9bCuqoQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9559645234097035638",
   "placeId": "ChIJ1VA8x3sJK4cRdhkc9bCuqoQ",
-  "googleRating": 4.5,
-  "googleReviewCount": 134,
+  "googleRating": 4.4,
+  "googleReviewCount": 146,
   "priceRange": "$20–30",
   "description": "Located in Tempe, University Sports Grill is a casual, trendy bar & grill with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 2:00 AM",
@@ -50,5 +38,14 @@
   "groundgameId": "6a24388050d3bda2e5e91a88",
   "seededAt": "2026-06-06T15:10:56Z",
   "updatedAt": "2026-06-16T18:05:00Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 2,
+    "3": 7,
+    "4": 16,
+    "5": 109
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLek-LrvUo5VcNgk2oKfiuPmn3HW3j7Ky3i6_nA-bPqbe6j5iu_cNQPED6lP8nuJIRApyXioUB3EI_W_QjSBNw-G20LvF7duwbfJfEenbLXiQ4RfCpyFzUDlKnSHfd_Av_sIaTiH=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

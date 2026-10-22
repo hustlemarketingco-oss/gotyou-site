@@ -1,0 +1,42 @@
+{
+  "slug": "lash-beauty-by-nikki-tempe",
+  "name": "Lash & Beauty by Nikki",
+  "category": "Health & Beauty",
+  "googleCategory": "Eyelash salon",
+  "secondaryCategories": [
+    "Esthetics service"
+  ],
+  "address": "227 E Baseline Rd J3",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777584,
+  "lng": -111.9359006,
+  "phone": "+16028759396",
+  "website": "https://lashandbeautybynikki.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lash+%26+Beauty+by+Nikki/data=!4m7!3m6!1s0x872b076111668085:0xd2268ab7e0e0e009!8m2!3d33.3777584!4d-111.9359006!16s%2Fg%2F11p1rg8pmf!19sChIJhYBmEWEHK4cRCeDg4LeKJtI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15142943319436353545",
+  "placeId": "ChIJhYBmEWEHK4cRCeDg4LeKJtI",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEfJwS_M3AR4rZCXTUggnR_wePR6WEwzL1A_3eLo1tVOEdRne7d38ft3p0A2DVeAPLcAyUmcSAfd4D1urWERiYHaG9c1XBpONYeIO6EaB2y2INdzE6xOSntC_qX6bnvdv14NPI0MG0M3Eb=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "10:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

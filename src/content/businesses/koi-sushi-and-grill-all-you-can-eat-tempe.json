@@ -15,26 +15,18 @@
   "lng": -111.9266766,
   "phone": "+16235005036",
   "website": "http://www.koisushitempe.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8587437741638163888",
+  "googleMapsUrl": "https://www.google.com/maps/place/KOI+SUSHI+AND+GRILL+%28ALL+YOU+CAN+EAT%29/data=!4m7!3m6!1s0x872b090051f10d79:0x772cb520b9201db0!8m2!3d33.4354672!4d-111.9266766!16s%2Fg%2F11ypny2t_9!19sChIJeQ3xUQAJK4cRsB0guSC1LHc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8587437741638163888",
   "placeId": "ChIJeQ3xUQAJK4cRsB0guSC1LHc",
   "googleRating": 4.8,
-  "googleReviewCount": 585,
+  "googleReviewCount": 750,
   "priceRange": "$30–40",
   "description": "KOI SUSHI AND GRILL (ALL YOU CAN EAT) is a Tempe casual japanese restaurant & asian restaurant known for alcohol & all you can.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Healthy options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 10:00 PM",
@@ -51,5 +43,14 @@
   "groundgameId": "6a243817a316c618dc052565",
   "seededAt": "2026-06-06T15:09:11Z",
   "updatedAt": "2026-07-27T14:07:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 7,
+    "3": 20,
+    "4": 37,
+    "5": 676
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerOor8DEIXC-uqr0if_VR0_UUC8wkoymF0VIRRdDKLALqyDF5GVjcVZh16X2ZaIhImfKOuSb64_TkiYiLuz0jZUndX8rcxyhrS7UVZNpUItIrVsOVfJdsB3E2myOz3Q4_ot1mTjSUSwwEZ=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

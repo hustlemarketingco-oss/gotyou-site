@@ -17,12 +17,10 @@
   "website": "https://www.indyclover.com/location/tempe",
   "placeId": "ChIJR3fhQ2IJK4cRUqfQhf96LE0",
   "googleRating": 4.7,
-  "googleReviewCount": 63,
+  "googleReviewCount": 103,
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Credit card",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "mon": "10:00 AM - 7:00 PM",
@@ -39,5 +37,15 @@
   "groundgameId": "6a39a60cdcfe5e1113ca17ad",
   "seededAt": "2026-06-22T21:15:56Z",
   "updatedAt": "2026-07-20T18:23:45Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "5560954877776013138",
+  "googleMapsUrl": "https://www.google.com/maps/place/Indy+Clover+Tempe/data=!4m7!3m6!1s0x872b096243e17747:0x4d2c7aff85d0a752!8m2!3d33.4065854!4d-111.9243553!16s%2Fg%2F11yhq_dyff!19sChIJR3fhQ2IJK4cRUqfQhf96LE0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "4": 1,
+    "5": 93
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoaouTKWMcILPuthuiNAn9lPArn9RA0bWdyuAke8zESsFKg2s9nAYdwLVDJnL44X3f7vx5D2BJ10XcKT-bPs50Nh8KeNAZlWrizzeoJ6zrlY8ES3dlvNbyFttsgKG-mYXvjKiCGBl22DPx=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

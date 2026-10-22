@@ -1,0 +1,41 @@
+{
+  "slug": "up-against-the-wall-tempe",
+  "name": "Up Against the Wall",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "n, 5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.382098899999995,
+  "lng": -111.964918,
+  "website": "http://simon.com/mall/arizona-mills/stores/up-against-the-wall",
+  "googleMapsUrl": "https://www.google.com/maps/place/Up+Against+the+Wall/data=!4m7!3m6!1s0x872b0f0046735f79:0x17c950ed2669dd8b!8m2!3d33.3820989!4d-111.964918!16s%2Fg%2F11xmr3wpzp!19sChIJeV9zRgAPK4cRi91pJu1QyRc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1713990112673127819",
+  "placeId": "ChIJeV9zRgAPK4cRi91pJu1QyRc",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIJ2c9ASQ0YFMEajnRBNL6gS5ES_oAOVYbriGgP_f59HmdBjqwn5zo4jVW1irPEyzAl4-K3bdz5zqKJsw-mZ_RDd9Q8bdZC2RF4qMJ5aNUTzLGBOQeZ0tsE4vfUIAwerK8F-dVCPdQorE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

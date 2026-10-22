@@ -1,0 +1,49 @@
+{
+  "slug": "fluid-martial-arts-academy-tempe",
+  "name": "Fluid Martial Arts Academy",
+  "category": "Health & Beauty",
+  "googleCategory": "Martial arts school",
+  "secondaryCategories": [
+    "Judo school",
+    "Muay Thai boxing gym"
+  ],
+  "address": "3136 S McClintock Dr Ste 13",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3950106,
+  "lng": -111.9105963,
+  "phone": "+14803495898",
+  "website": "http://www.fluidmartialarts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fluid+Martial+Arts+Academy/data=!4m7!3m6!1s0x872b0883f376ea5f:0x25c5fd19126bbb65!8m2!3d33.3950106!4d-111.9105963!16s%2Fg%2F1pzpq4cyf!19sChIJX-p284MIK4cRZbtrEhn9xSU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2721859833940392805",
+  "placeId": "ChIJX-p284MIK4cRZbtrEhn9xSU",
+  "googleRating": 4.9,
+  "googleReviewCount": 62,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLev0Dee9xjxWHavHdZscPUYuoWJSd9bi6u2_IMZmQ2F4dY0gGMIIPAiTUjGUDPvivwn2kcG9t68-AfCWPov3-1XTUcbhDJACmiiQBVyTpDRNCp5csY1K0PTIPLlwntjBGzoJWDX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 60
+  },
+  "hours": {
+    "mon": "9:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",
+    "tue": "9:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",
+    "wed": "9:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",
+    "thu": "9:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",
+    "fri": "9:00 AM - 12:00 PM, 4:00 PM - 9:00 PM",
+    "sat": "10:00 AM - 1:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

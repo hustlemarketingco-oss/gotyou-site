@@ -14,7 +14,7 @@
   "lat": 33.4246905,
   "lng": -111.9768935,
   "website": "https://baybaysofaz.square.site/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15502956437740605456",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bay+Bay%E2%80%99s+Fish+And+Chicken/data=!4m7!3m6!1s0x872b0fd0e39593fb:0xd72590bdefe25010!8m2!3d33.4246905!4d-111.9768935!16s%2Fg%2F11vf42gw7g!19sChIJ-5OV49APK4cREFDi772QJdc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15502956437740605456",
   "placeId": "ChIJ-5OV49APK4cREFDi772QJdc",
   "googleRating": 4.5,
@@ -36,5 +36,13 @@
   "groundgameId": "6a243a13e0747767c655b15d",
   "seededAt": "2026-06-06T15:17:39Z",
   "updatedAt": "2026-06-06T15:17:39Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 1,
+    "4": 1,
+    "5": 20
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDMGeSxaLlJ7iwr7xKTRt8pDsytJsv_-T5aIVsY0SswUPqzHUhwIKQstHo5sE1It31s9aCZ8AP-gWS3fzPMNCqum_vXh5SCFYGCu38FZa27e3LfuJjz6ts_0WFGlySb8w7zgHCPg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

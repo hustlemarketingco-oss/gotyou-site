@@ -1,0 +1,43 @@
+{
+  "slug": "phoenix-earth-massage-tempe",
+  "name": "Phoenix Earth Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "address": "123 E Baseline Rd D107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3775408,
+  "lng": -111.9376977,
+  "phone": "+16265606991",
+  "website": "http://www.phoenixearthmassage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phoenix+Earth+Massage/data=!4m7!3m6!1s0x872b07001d19cab3:0x2e9b89d79e6c369f!8m2!3d33.3775408!4d-111.9376977!16s%2Fg%2F11x0twdqhx!19sChIJs8oZHQAHK4cRnzZsnteJmy4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3358429506303702687",
+  "placeId": "ChIJs8oZHQAHK4cRnzZsnteJmy4",
+  "googleRating": 5,
+  "googleReviewCount": 54,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyrlquetPb1cBPTtfRrAoVVAPhxqEcZnuj4z9sHrTMgGc9Z8AgvXi1VoKtrKXV19OT2mlO6cPZuyqiAykZ0tsUeYvbAt0AnNC0XaJdha5m_85druHZYwYMPysJ-hEjpa64vSk3H92Ch5g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 53
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "1:00 PM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

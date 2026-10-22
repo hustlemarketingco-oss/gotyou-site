@@ -11,23 +11,17 @@
   "lng": -111.925038,
   "phone": "+14804255580",
   "website": "https://myfoodcity.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8774113098139568094",
+  "googleMapsUrl": "https://www.google.com/maps/place/Food+City/data=!4m7!3m6!1s0x872b09153ba9758b:0x79c3e96021b607de!8m2!3d33.4499873!4d-111.925038!16s%2Fg%2F1tfmj8d2!19sChIJi3WpOxUJK4cR3ge2IWDpw3k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8774113098139568094",
   "placeId": "ChIJi3WpOxUJK4cR3ge2IWDpw3k",
   "googleRating": 4.1,
-  "googleReviewCount": 1417,
+  "googleReviewCount": 1430,
   "priceRange": "$",
   "description": "Located in Tempe, Food City is a grocery store with bakery & food, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "6:00 AM - 10:00 PM",
@@ -44,5 +38,14 @@
   "groundgameId": "6a2439ccd4b8bab0fb70ba6c",
   "seededAt": "2026-06-06T15:16:28Z",
   "updatedAt": "2026-06-06T15:16:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 86,
+    "2": 68,
+    "3": 201,
+    "4": 376,
+    "5": 699
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQihyCzVrbzV36trdvgiVBNMe8cDsooYlTZUT0s18t3PRf_mXxjvW5Lf9ROFSC0UVpTkupZBv2yxibUNPr-smM6f98FX4WOJy_gxIcOpJ-1gRrbCUEJeTBycX6v-iE4ATDkBA7a98VjIB8=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

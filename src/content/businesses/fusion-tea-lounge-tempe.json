@@ -2,7 +2,7 @@
   "slug": "fusion-tea-lounge-tempe",
   "name": "Fusion Tea Lounge",
   "category": "Coffee & Cafe",
-  "googleCategory": "Bubble tea store",
+  "googleCategory": "Asian fusion restaurant",
   "secondaryCategories": [
     "Asian restaurant",
     "Asian fusion restaurant",
@@ -21,32 +21,18 @@
   "lng": -111.9077216,
   "phone": "+14808390115",
   "website": "https://fusiontealounge.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=1912691725778653482",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fusion+Tea+Lounge/data=!4m7!3m6!1s0x872b09a1b9b32f7f:0x1a8b3efd9fdd912a!8m2!3d33.3939631!4d-111.9077216!16s%2Fg%2F11h7nz0csw!19sChIJfy-zuaEJK4cRKpHdn_0-ixo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "1912691725778653482",
   "placeId": "ChIJfy-zuaEJK4cRKpHdn_0-ixo",
   "googleRating": 4.8,
-  "googleReviewCount": 289,
+  "googleReviewCount": 307,
   "priceRange": "$",
   "description": "Fusion Tea Lounge is a casual bubble tea store & asian restaurant in Tempe, serving up coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 8:30 PM",
@@ -63,5 +49,14 @@
   "groundgameId": "6a24360aa057d97c5ebc955b",
   "seededAt": "2026-06-06T15:00:26Z",
   "updatedAt": "2026-07-14T21:27:02Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 3,
+    "3": 5,
+    "4": 18,
+    "5": 274
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3_9E3VjhN90ik6-dPup2Kdnq3qC_cbzUrWntD-yQXnZLy_q2hU8uhXRKvgkOCCzeSpKjRCc5RT2xQuKnBxlE534fFp46bbS2P2_azvYcbKC4IoK6mO9JwKle1rp33X5-RJJKnZw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

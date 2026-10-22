@@ -1,0 +1,48 @@
+{
+  "slug": "heads-up-spa-tempe",
+  "name": "Heads Up! Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Spa and health club",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Facial spa",
+    "Hair salon",
+    "Scale repair service",
+    "Spa"
+  ],
+  "address": "1726 E Southern Ave #4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3942583,
+  "lng": -111.9109191,
+  "phone": "+14802008101",
+  "googleMapsUrl": "https://www.google.com/maps/place/Heads+Up!+Spa/data=!4m7!3m6!1s0x872b08eb504df3ef:0x677847e330be8191!8m2!3d33.3942583!4d-111.9109191!16s%2Fg%2F1tfxyhcc!19sChIJ7_NNUOsIK4cRkYG-MONHeGc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7455788224212795793",
+  "placeId": "ChIJ7_NNUOsIK4cRkYG-MONHeGc",
+  "googleRating": 4.5,
+  "googleReviewCount": 221,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclAU_iiQCg6bY8AGKCqvzEcS0v1r4LH1YBOr8tSJuWiQusOvA3zR8x4WZ5H2QXsD4f3LmsCdHc0MDQ3uOK4fFzNpkk1KMrJi1UL9CXfFUS0nAoUqSU8Z-SAnJcEujra1Jf1Ok=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 2,
+    "3": 4,
+    "4": 3,
+    "5": 191
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

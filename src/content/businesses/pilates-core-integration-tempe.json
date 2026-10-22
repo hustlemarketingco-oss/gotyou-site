@@ -1,0 +1,38 @@
+{
+  "slug": "pilates-core-integration-tempe",
+  "name": "Pilates Core Integration",
+  "category": "Health & Beauty",
+  "googleCategory": "Pilates studio",
+  "address": "5861 S Kyrene Rd #11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.370324,
+  "lng": -111.9453061,
+  "phone": "+14807313101",
+  "website": "http://pilatescoreintegration.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pilates+Core+Integration/data=!4m7!3m6!1s0x872b08ebc149d1f1:0x3e8e4047f55c6c45!8m2!3d33.370324!4d-111.9453061!16s%2Fg%2F11bzr8m4m2!19sChIJ8dFJwesIK4cRRWxc9UdAjj4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4507610954847775813",
+  "placeId": "ChIJ8dFJwesIK4cRRWxc9UdAjj4",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kXJKjR77fg47U7Y2tL_mYQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=88.692505&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "9:30 AM - 6:30 PM",
+    "tue": "9:30 AM - 6:30 PM",
+    "wed": "9:30 AM - 6:30 PM",
+    "thu": "9:30 AM - 6:00 PM",
+    "fri": "9:30 AM - 4:30 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -13,22 +13,16 @@
   "lat": 33.3772971,
   "lng": -111.9515532,
   "phone": "+14805805738",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16370186596494503817",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pepperwood+Water+%26+Ice+Cream/data=!4m7!3m6!1s0x872b060097a255a5:0xe32e95f9feea6f89!8m2!3d33.3772971!4d-111.9515532!16s%2Fg%2F1tddy6zl!19sChIJpVWilwAGK4cRiW_q_vmVLuM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16370186596494503817",
   "placeId": "ChIJpVWilwAGK4cRiW_q_vmVLuM",
   "googleRating": 4.7,
-  "googleReviewCount": 112,
+  "googleReviewCount": 116,
   "priceRange": "$",
   "description": "Located in Tempe, Pepperwood Water & Ice Cream is a casual ice cream shop & ice supplier with takeout & delivery.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "10:00 AM - 8:30 PM",
@@ -45,5 +39,14 @@
   "groundgameId": "6a24361e0b98a5af8d9a9954",
   "seededAt": "2026-06-06T15:00:46Z",
   "updatedAt": "2026-06-06T15:00:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 1,
+    "3": 1,
+    "4": 7,
+    "5": 101
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3V1pj5gFFNKcUrp3AftNJwJzjnySlONB7wygLHZBFI0qitGV__hlUkf38AamEudfnVYzpNHrObJPa4bZhRCqn8ZyfyKgTc5PWcSbEKMkCGKTiSZLakK66C6VjKcbOyNhcaB7F=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

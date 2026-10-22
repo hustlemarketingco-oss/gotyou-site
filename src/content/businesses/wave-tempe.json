@@ -1,0 +1,47 @@
+{
+  "slug": "wave-tempe",
+  "name": "Wave",
+  "category": "Shopping",
+  "googleCategory": "Women's clothing store",
+  "address": "5000 S Arizona Mills Cir #191",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3841507,
+  "lng": -111.96374329999999,
+  "phone": "+14807303054",
+  "website": "http://wavefashion.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Wave/data=!4m7!3m6!1s0x872b0f57545f96f3:0xac1ce92e8704bb!8m2!3d33.3841507!4d-111.9637433!16s%2Fg%2F1tjbsmsz!19sChIJ85ZfVFcPK4cRuwSHLukcrAA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "48445483827791035",
+  "placeId": "ChIJ85ZfVFcPK4cRuwSHLukcrAA",
+  "googleRating": 4.4,
+  "googleReviewCount": 92,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf35tbAlj_q19IvMvf1JJrIuqkUiGYW92RD0YY-0YvhOaTqmF9JafnwmirqyJTIccTqBb8ADRHtuw7NlFB4XDVCkdZLpYftw3I8TEOYFMtbblEijeHBv5EqTuJ3cAatf-sptZBS=w1200-h800-k-no",
+  "description": "Airy shop offering hip women's apparel, shoes & accessories in a range of sizes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "3": 10,
+    "4": 18,
+    "5": 59
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

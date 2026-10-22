@@ -1,0 +1,53 @@
+{
+  "slug": "burger-king-6402-tempe",
+  "name": "Burger King",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Delivery service",
+    "Family restaurant"
+  ],
+  "address": "6402 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3631716,
+  "lng": -111.9291683,
+  "phone": "+14808201182",
+  "website": "https://burgerking.com/store-locator/store/3634",
+  "googleMapsUrl": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x872b066aa55077a1:0xe4c38836b6060989!8m2!3d33.3631716!4d-111.9291683!16s%2Fg%2F1vxvj9sq!19sChIJoXdQpWoGK4cRiQkGtjaIw-Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16484168829669607817",
+  "placeId": "ChIJoXdQpWoGK4cRiQkGtjaIw-Q",
+  "googleRating": 3.1,
+  "googleReviewCount": 677,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAmh8jOPG-ZBgMIaTr4hzPGg5qRFEL_oXZb0fss628NYG6suPSqWC3AzBlbO4NP4h_v5OhXlQK5qerJjQyHpEvIMaQABGGq-bJDQvEK6djp5iwX39DC5UgpTRs9pKBms2IhqwCRo5186e5=w1200-h800-k-no",
+  "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 218,
+    "2": 59,
+    "3": 72,
+    "4": 89,
+    "5": 239
+  },
+  "hours": {
+    "mon": "8:30 AM - 12:00 AM",
+    "tue": "7:00 AM - 12:00 AM",
+    "wed": "7:00 AM - 12:00 AM",
+    "thu": "7:00 AM - 12:00 AM",
+    "fri": "7:30 AM - 12:00 AM",
+    "sat": "7:00 AM - 12:00 AM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "l-aesthetics-tempe",
+  "name": "L Aesthetics",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "address": "555 N College Ave Unit 1034",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4348114,
+  "lng": -111.9303114,
+  "phone": "+14805460652",
+  "googleMapsUrl": "https://www.google.com/maps/place/L+Aesthetics/data=!4m7!3m6!1s0x872b091c856a993b:0xac84769132b1b9c9!8m2!3d33.4348114!4d-111.9303114!16s%2Fg%2F11t9hb_71d!19sChIJO5lqhRwJK4cRybmxMpF2hKw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12431191237442255305",
+  "placeId": "ChIJO5lqhRwJK4cRybmxMpF2hKw",
+  "googleRating": 2.3,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd68kCMkBz9dZPq50wImrWrht5DZEta2sAOjtXYOuAiuA8H36fQQdNtzoXls3aexwYinJPKkBSOa_pYD7GSwuqrrdcvJN0IhvQsQKS4-mkFQfQf8gzkvX6KgKvFUF5cdxS3QFyH=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 1
+  },
+  "hours": {
+    "mon": "7:00 AM - 6:00 PM",
+    "tue": "7:00 AM - 6:00 PM",
+    "wed": "7:00 AM - 6:00 PM",
+    "thu": "7:00 AM - 6:00 PM",
+    "fri": "7:00 AM - 6:00 PM",
+    "sat": "7:00 AM - 6:00 PM",
+    "sun": "7:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

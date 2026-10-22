@@ -21,28 +21,17 @@
   "lng": -111.9482869,
   "phone": "+14805179520",
   "website": "https://honeymoonsweets.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3389734127031873417",
+  "googleMapsUrl": "https://www.google.com/maps/place/Honeymoon+Sweets+European+Bakery/data=!4m7!3m6!1s0x872b08b26952fbe3:0x2f0ac13a9cc0ef89!8m2!3d33.3934298!4d-111.9482263!16s%2Fg%2F1thnp74p!19sChIJ4_tSabIIK4cRie_AnDrBCi8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3389734127031873417",
   "placeId": "ChIJ4_tSabIIK4cRie_AnDrBCi8",
   "googleRating": 4.6,
-  "googleReviewCount": 657,
+  "googleReviewCount": 716,
   "priceRange": "$$",
   "description": "Bakery with coffee, ready-made desserts & pastries plus custom cakes for weddings & special events.",
   "amenities": [
-    "Curbside pickup",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -50,5 +39,23 @@
   "groundgameId": "6a2437d2b540ae1efe06990e",
   "seededAt": "2026-06-06T15:08:02Z",
   "updatedAt": "2026-08-06T20:11:58Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 21,
+    "3": 20,
+    "4": 50,
+    "5": 598
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9cUDC4AuI3Kytlvab8L42OSnCI83MsNhsu-bc9yoLLDIfEhdalrt_ia4lX3IAJ5TYpWd47-A1CztCCLpizUUuhGJcKW09EN6UQ-rRvXdkYhrZcCoxQNxT4oLofqDoye9rrno5Zg-CDt31=w1200-h800-k-no",
+  "hours": {
+    "mon": "7:00 AM - 5:00 PM",
+    "tue": "7:00 AM - 5:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 5:00 PM",
+    "fri": "7:00 AM - 5:00 PM",
+    "sat": "7:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "forefathers-cheesesteaks-tempe",
+  "name": "Forefathers Cheesesteaks",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Cheesesteak restaurant"
+  ],
+  "address": "8707 S Priest Dr Suite 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3358235,
+  "lng": -111.9625963,
+  "phone": "+14807631776",
+  "website": "https://www.forefatherssteaks.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Forefathers+Cheesesteaks/data=!4m7!3m6!1s0x872b042d45e46faf:0x8270c1e7c87150a0!8m2!3d33.3358235!4d-111.9625963!16s%2Fg%2F1v_z9cj0!19sChIJr2_kRS0EK4cRoFBxyOfBcII?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9399225623566700704",
+  "placeId": "ChIJr2_kRS0EK4cRoFBxyOfBcII",
+  "googleRating": 4.6,
+  "googleReviewCount": 2198,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWMf9_9mXgBbC2ahjakiwXZJZ25sKRZIiw-NA8Q0dwOBue79fnM7BdhTtSmyRximGSejfaCO1_aDz6PTdTRwnO6cPwjJy3cAybsmR4e7pabuvV7pZEzuwfBooV0Yerr7a4SX46pg=w1200-h800-k-no",
+  "description": "Industrial-style, counter-serve stop serving cheesesteaks with toppings galore, plus soups & salads.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 42,
+    "2": 39,
+    "3": 83,
+    "4": 348,
+    "5": 1686
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

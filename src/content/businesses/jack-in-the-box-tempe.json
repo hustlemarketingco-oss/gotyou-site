@@ -23,7 +23,7 @@
   "website": "https://locations.jackinthebox.com/us/az/tempe/721-s-mill-ave",
   "placeId": "ChIJl9Ol29kIK4cRN_r93geETCM",
   "googleRating": 3.4,
-  "googleReviewCount": 1071,
+  "googleReviewCount": 1093,
   "priceRange": "$",
   "hours": {
     "mon": "Open 24 hours",
@@ -40,5 +40,22 @@
   "groundgameId": "6a32e359e0b32c3082eabba4",
   "seededAt": "2026-06-17T18:11:37Z",
   "updatedAt": "2026-07-03T17:13:28Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2543553058898311735",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jack+in+the+Box/data=!4m7!3m6!1s0x872b08d9dba5d397:0x234c8407defdfa37!8m2!3d33.4225969!4d-111.9396584!16s%2Fg%2F1tf6xtgq!19sChIJl9Ol29kIK4cRN_r93geETCM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 234,
+    "2": 84,
+    "3": 181,
+    "4": 224,
+    "5": 370
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSO1rlkc6yYODlwJgk-y1SHiUC4q6zfDhDpz-24Bm_DwK0E7-Nwz-cfFDXHApgiiTw6IaX1OvZYahtiAFUnyhZ3InePOF5yD7zygls_y-Il22NbUU6eYc2iCwCyeuN_MJ9qFfTFKImOrrd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

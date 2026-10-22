@@ -2,7 +2,7 @@
   "slug": "spokes-on-southern-tempe-sports-bar-and-grill-tempe",
   "name": "Spokes On Southern, Tempe Sports Bar and Grill",
   "category": "Bars & Pubs",
-  "googleCategory": "Bar and grill",
+  "googleCategory": "Bar & grill",
   "secondaryCategories": [
     "Sports bar",
     "Catering service",
@@ -21,7 +21,7 @@
   "website": "https://spokesonsouthern.com/",
   "placeId": "ChIJi2b5WIMIK4cRyOjnJ0fIP14",
   "googleRating": 4.3,
-  "googleReviewCount": 1745,
+  "googleReviewCount": 1766,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 1:00 AM",
@@ -38,5 +38,22 @@
   "groundgameId": "6a55436e192a1d8028fa1c3d",
   "seededAt": "2026-07-13T19:58:38Z",
   "updatedAt": "2026-07-13T19:58:48Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "6791366971035740360",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spokes+On+Southern,+Tempe+Sports+Bar+and+Grill/data=!4m7!3m6!1s0x872b088358f9668b:0x5e3fc84727e7e8c8!8m2!3d33.3939327!4d-111.9143288!16s%2Fg%2F1hm5l29y0!19sChIJi2b5WIMIK4cRyOjnJ0fIP14?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 83,
+    "2": 64,
+    "3": 167,
+    "4": 400,
+    "5": 1052
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1dT4mEwZoeLPniJhoLvW6M6E4ooXNFM-k6Z_t5mUPWtWi0fmiYGlp_kHyWFqyKvUvHs3JLjFG__S0rCdhM-GVRA0RoBpwJPtV3XR9xnE5xYIdRBLxD3x9WO0iKfRFmOmafZuLck67qAo6=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

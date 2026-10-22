@@ -1,0 +1,37 @@
+{
+  "slug": "suki-hana-tempe",
+  "name": "Suki Hana",
+  "category": "Asian & Pacific",
+  "googleCategory": "Pan-Asian restaurant",
+  "address": "5000 S Arizona Mills Cir #649",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3847302,
+  "lng": -111.9651815,
+  "googleMapsUrl": "https://www.google.com/maps/place/Suki+Hana/data=!4m7!3m6!1s0x872b0f59e1444903:0x2ad42a31f6dc03de!8m2!3d33.3847302!4d-111.9651815!16s%2Fg%2F1tfhgwgq!19sChIJA0lE4VkPK4cR3gPc9jEq1Co?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3086138038739010526",
+  "placeId": "ChIJA0lE4VkPK4cR3gPc9jEq1Co",
+  "googleRating": 2.9,
+  "googleReviewCount": 59,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdV7BJvipzxYg5RNnL1SuOlTPs_dSaNXtCNV9ZkyNpKlPKPYM2w7KX_Ihqy1QzAnxcXpEmLYYbdZPkSwRSj-lMa9fsUQ-8sb6m6i67PpXRgxiQ3M1MeruUa06vARJu8T0EnXJUd3Q=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 2,
+    "3": 3,
+    "4": 6,
+    "5": 22
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

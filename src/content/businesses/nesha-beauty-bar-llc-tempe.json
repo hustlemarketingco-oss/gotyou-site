@@ -1,0 +1,42 @@
+{
+  "slug": "nesha-beauty-bar-llc-tempe",
+  "name": "Nesha Beauty Bar LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "Address:, 3163 S McClintock Dr Ste 12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3940777,
+  "lng": -111.90753339999999,
+  "phone": "+16027846305",
+  "website": "https://neshabeautybar.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nesha+Beauty+Bar+LLC/data=!4m7!3m6!1s0x872ba74c69d8f671:0x13224473bcbe97a3!8m2!3d33.3940777!4d-111.9075334!16s%2Fg%2F11jj379mbd!19sChIJcfbYaUynK4cRo5e-vHNEIhM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1378739699807328163",
+  "placeId": "ChIJcfbYaUynK4cRo5e-vHNEIhM",
+  "googleRating": 5,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lXiqNb3VUJzXGRecNVa_-g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=6.3382564&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 4
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

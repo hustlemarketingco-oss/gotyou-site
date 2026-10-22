@@ -1,0 +1,25 @@
+{
+  "slug": "boldy-you-tempe",
+  "name": "Boldy You",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "1330 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4084478,
+  "lng": -111.9595531,
+  "googleMapsUrl": "https://www.google.com/maps/place/Boldy+You/data=!4m7!3m6!1s0x872b0fd15e07a11b:0xf6ef94ccfcb38d5f!8m2!3d33.4084478!4d-111.9595531!16s%2Fg%2F11x31cbv9r!19sChIJG6EHXtEPK4cRX42z_MyU7_Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17793604260897983839",
+  "placeId": "ChIJG6EHXtEPK4cRX42z_MyU7_Y",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

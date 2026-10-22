@@ -1,0 +1,43 @@
+{
+  "slug": "tempetoesss-tempe",
+  "name": "Tempetoesss",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "414 S Mill Ave Suite 120",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "phone": "+16026007000",
+  "website": "https://tempetoesss.com/collections/all?page=1",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempetoesss/data=!4m7!3m6!1s0x872b093c91313e77:0x8f5042b9202c0d1!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F11thj9tw_x!19sChIJdz4xkTwJK4cR0cACkisE9Qg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "645426706777293009",
+  "placeId": "ChIJdz4xkTwJK4cR0cACkisE9Qg",
+  "googleRating": 4.5,
+  "googleReviewCount": 85,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1P9OS6VMZmDoeKAtUCHr4baeGHPzKMrUcid4fnk_ch0oCerzfnu-6hMHTR0Bv8WQB2vQ_sLEHF8KDbUMf3wABHZ7yzjohxIJJFUKYXTsINO9YFzRgj_XmnoyuKRKtk1YTYMDz08lnNu-Z=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "5": 74
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

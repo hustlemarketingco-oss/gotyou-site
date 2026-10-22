@@ -1,0 +1,52 @@
+{
+  "slug": "hitsquad-ninja-gym-and-parkour-tempe",
+  "name": "Hitsquad Ninja Gym and Parkour",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Parkour spot",
+    "Rock climbing",
+    "Youth center"
+  ],
+  "address": "1275 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3470185,
+  "lng": -111.9585216,
+  "phone": "+14802697577",
+  "website": "http://www.hitsquadninjagym.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hitsquad+Ninja+Gym+and+Parkour/data=!4m7!3m6!1s0x872b05eac4edec99:0xfdd55a6a45c8e3b4!8m2!3d33.3470185!4d-111.9585216!16s%2Fg%2F11h_c59pt2!19sChIJmeztxOoFK4cRtOPIRWpa1f0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18290624874118964148",
+  "placeId": "ChIJmeztxOoFK4cRtOPIRWpa1f0",
+  "googleRating": 4.9,
+  "googleReviewCount": 237,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLei13KlFazCjh4QqnjlfovvD9dA8GWkSzJcpZQWgkscqUyQmb1CSycy--KfqhzvT06DUS786nrO5e3_Hc2t3CMKxZuoToBhE7fh2IN0b3jO-ZaN-QVinEMZCdt6qW8HVR3jqg0yxC1WG0li=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 1,
+    "4": 4,
+    "5": 228
+  },
+  "hours": {
+    "mon": "3:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 2:00 PM, 3:00 PM - 8:30 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "9:30 AM - 12:00 PM, 3:00 PM - 8:30 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "12:00 PM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "miners-rock-shop-tempe",
+  "name": "Miners Rock Shop",
+  "category": "Shopping",
+  "googleCategory": "Rock shop",
+  "secondaryCategories": [
+    "Gift shop",
+    "Jewelry store",
+    "Mining company"
+  ],
+  "address": "1103 W Fairmont Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3961313,
+  "lng": -111.95356819999999,
+  "phone": "+16023451050",
+  "website": "https://minersrockshop.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Miners+Rock+Shop/data=!4m7!3m6!1s0x872b0f4cbcab706b:0xb063b6c43e76b5ad!8m2!3d33.3961313!4d-111.9535682!16s%2Fg%2F11c43b_kbc!19sChIJa3CrvEwPK4cRrbV2PsS2Y7A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12710203527347484077",
+  "placeId": "ChIJa3CrvEwPK4cRrbV2PsS2Y7A",
+  "googleRating": 5,
+  "googleReviewCount": 359,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSdSLfgNq_DUKeiPqtKjccyzSpPcU2aoXbqDPLrSZeFxCsCiDF8GAkjsqfcepzT5TL4zYRyqnZ85pBDJBR-BlGUX-vx-Vb377DGV3a1Z12ZSGmzjoGTD552w8giB7w6HgXZSfz=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 358
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

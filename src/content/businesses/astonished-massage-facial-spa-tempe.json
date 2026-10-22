@@ -1,0 +1,53 @@
+{
+  "slug": "astonished-massage-facial-spa-tempe",
+  "name": "Astonished! Massage & Facial Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "secondaryCategories": [
+    "Day spa",
+    "Health spa",
+    "Massage therapist",
+    "Skin care clinic"
+  ],
+  "address": "2520 E University Dr Unit 102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4223492,
+  "lng": -111.8844913,
+  "phone": "+14806059838",
+  "website": "http://astonishedspa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Astonished!+Massage+%26+Facial+Spa/data=!4m7!3m6!1s0x872b09bc98fe07c5:0x350ddb75c303cb04!8m2!3d33.4223492!4d-111.8844913!16s%2Fg%2F11pxc7ll11!19sChIJxQf-mLwJK4cRBMsDw3XbDTU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3822952957536881412",
+  "placeId": "ChIJxQf-mLwJK4cRBMsDw3XbDTU",
+  "googleRating": 4.8,
+  "googleReviewCount": 453,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcL3I3miX767dP80wR4BuYIoMAEwFcOZPFVrRWTfODKuomm_-BwfXA3FJFz10WOueOiYZ8GAAn4dNFgZ9cL-vesxPke1QsPjRg9dYsiIB_d9R-RY4wpMeeK_xsIrDETldfG65FWlQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 6,
+    "3": 5,
+    "4": 7,
+    "5": 425
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:30 PM",
+    "wed": "9:00 AM - 8:30 PM",
+    "thu": "9:00 AM - 8:30 PM",
+    "fri": "9:00 AM - 8:30 PM",
+    "sat": "9:00 AM - 8:30 PM",
+    "sun": "9:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

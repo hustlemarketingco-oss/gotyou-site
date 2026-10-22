@@ -1,0 +1,56 @@
+{
+  "slug": "rally-house-tempe-marketplace-tempe",
+  "name": "Rally House Tempe Marketplace",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Gift shop",
+    "Hat shop",
+    "Men's clothing store",
+    "Souvenir store",
+    "Sporting goods store",
+    "Sports memorabilia store",
+    "T-shirt store"
+  ],
+  "address": "55 S McClintock Dr #115",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.430612599999996,
+  "lng": -111.908121,
+  "phone": "+14803786048",
+  "website": "https://www.rallyhouse.com/stores/tempe/55-south-mcclintock-drive?utm_source=gbp&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rally+House+Tempe+Marketplace/data=!4m7!3m6!1s0x872b099a359d89f5:0xd889009b914ce6c5!8m2!3d33.4306126!4d-111.908121!16s%2Fg%2F11v6kcdbcr!19sChIJ9YmdNZoJK4cRxeZMkZsAidg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15603003052159461061",
+  "placeId": "ChIJ9YmdNZoJK4cRxeZMkZsAidg",
+  "googleRating": 4.3,
+  "googleReviewCount": 107,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3nwmlpiXjS5Z25AueZSKsW3F2wBSmtZVpSb0Dx1XEC25pN6kgemoa7nWOjW_-Dt-DYLunZ-5Og5CNZgdXW1qx5Vb4RFjnDfSj4oefmdqqJ9OUEn2T8xKbVDKI7ljsVIlYJumsxorRu-Qp=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 3,
+    "3": 6,
+    "4": 9,
+    "5": 78
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

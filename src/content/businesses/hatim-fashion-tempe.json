@@ -1,0 +1,48 @@
+{
+  "slug": "hatim-fashion-tempe",
+  "name": "Hatim Fashion",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Fashion accessories store"
+  ],
+  "address": "13 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377439599999995,
+  "lng": -111.9399179,
+  "phone": "+14808394154",
+  "website": "http://hatimfashions.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hatim+Fashion/data=!4m7!3m6!1s0x872b061ca977f409:0x56c77eb9698c95eb!8m2!3d33.3774396!4d-111.9399179!16s%2Fg%2F11c45jqrdm!19sChIJCfR3qRwGK4cR65WMabl-x1Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6253105942432093675",
+  "placeId": "ChIJCfR3qRwGK4cR65WMabl-x1Y",
+  "googleRating": 4.5,
+  "googleReviewCount": 42,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn87kDbTN1t2Mq00M5AboFHriCBGXVaVV07WpeNYtGmHE0PemO5Dcq9BSoVNOnwrLD3vwGKTfPi5Z3GiG3Baqwxwy8gQBmJ7tdWWE5MSUb8qs3J1oKfS7NtIBUokKxmtkV7de-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "4": 1,
+    "5": 36
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 8:00 PM",
+    "sat": "10:00 AM - 8:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "the-luna-lash-lounge-tempe",
+  "name": "The Luna Lash Lounge",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2525 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4017446,
+  "lng": -111.9253779,
+  "phone": "+15208507777",
+  "website": "https://www.vagaro.com/lunalashlounge",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Luna+Lash+Lounge/data=!4m7!3m6!1s0x872b0914a9e8db39:0x4748ea28bd32533d!8m2!3d33.4017446!4d-111.9253779!16s%2Fg%2F11yp__v117!19sChIJOdvoqRQJK4cRPVMyvSjqSEc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5136612835709834045",
+  "placeId": "ChIJOdvoqRQJK4cRPVMyvSjqSEc",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVu-p9b5RDl4Ib0EOxZJdpNOCPcPWDGhTRgn3_1l8Xnmru0mmkT8jwJqQD5OMCtGZAzvGjWcWJo3HMV3EKOx6Ies7quUsMMhxt_xCOIpQ2UKvEweTH9jyL3qDSzTCQF0ZRzaDnnaOA9Vc=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "starbucks-coffee-company-3206-tempe",
+  "name": "Starbucks Coffee Company",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "address": "3206 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.394909999999996,
+  "lng": -111.90956999999999,
+  "phone": "+14807753635",
+  "website": "https://www.starbucks.com/store-locator/store/8363/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Company/data=!4m7!3m6!1s0x872b08813a047f1d:0xef8c704b3c13c1f!8m2!3d33.39491!4d-111.90957!16s%2Fg%2F1wt3nws8!19sChIJHX8EOoEIK4cRHzzBswTH-A4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1078830933764815903",
+  "placeId": "ChIJHX8EOoEIK4cRHzzBswTH-A4",
+  "googleRating": 4.1,
+  "googleReviewCount": 562,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqW-503YSAmiQ8XfaJw4QtPrfe9cdLnznbvLPYPBJrlWinvUdJUo5bPDhQ2APEbwzUUZhEGDSZEZKcqonqeRZPAYOciujF6hozvXO7k15xR2o6EatJjsPiIMBeFiik4TGxMcri=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 20,
+    "3": 46,
+    "4": 98,
+    "5": 333
+  },
+  "hours": {
+    "mon": "4:00 AM - 9:00 PM",
+    "tue": "4:00 AM - 9:00 PM",
+    "wed": "4:00 AM - 9:00 PM",
+    "thu": "4:00 AM - 9:00 PM",
+    "fri": "4:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

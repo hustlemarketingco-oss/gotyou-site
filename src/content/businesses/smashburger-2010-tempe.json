@@ -22,7 +22,7 @@
   "website": "https://smashburger.com/",
   "placeId": "ChIJVVCw9aoHK4cRlc193JEodz0",
   "googleRating": 4.3,
-  "googleReviewCount": 1483,
+  "googleReviewCount": 1493,
   "priceRange": "$$",
   "hours": {
     "mon": "10:00 AM - 9:30 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a357cb4f44ea72e1207f373",
   "seededAt": "2026-06-19T17:30:28Z",
   "updatedAt": "2026-06-19T17:30:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "4429053365476773269",
+  "googleMapsUrl": "https://www.google.com/maps/place/Smashburger/data=!4m7!3m6!1s0x872b07aaf5b05055:0x3d772891dc7dcd95!8m2!3d33.3495939!4d-111.9021173!16s%2Fg%2F11btm80fkl!19sChIJVVCw9aoHK4cRlc193JEodz0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 106,
+    "2": 50,
+    "3": 86,
+    "4": 299,
+    "5": 952
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0jyEG0Xr4qgHOLTy6rVFWbJKgwL0XGq18JXn0xZuduQzA5TfMaTEnr160uOaDRDUvyMETKISEzblMkEdyfU6rnShVEzYiLhadJ2OZ7Zh_jfRLuUh-zoKXDs4fKzLTz5NudrFguz9DaNM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

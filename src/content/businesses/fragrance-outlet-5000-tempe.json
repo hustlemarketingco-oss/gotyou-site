@@ -1,0 +1,42 @@
+{
+  "slug": "fragrance-outlet-5000-tempe",
+  "name": "Fragrance Outlet",
+  "category": "Shopping",
+  "googleCategory": "Perfume store",
+  "address": "5000 S Arizona Mills Cir #386",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3809025,
+  "lng": -111.9642049,
+  "phone": "+14806180282",
+  "website": "https://www.fragranceoutlet.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fragrance+Outlet/data=!4m7!3m6!1s0x872b0fe3a2491583:0x742e94b7141b5e9f!8m2!3d33.3809025!4d-111.9642049!16s%2Fg%2F11jzxk57yk!19sChIJgxVJouMPK4cRn14bFLeULnQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8371792271365594783",
+  "placeId": "ChIJgxVJouMPK4cRn14bFLeULnQ",
+  "googleRating": 3,
+  "googleReviewCount": 4,
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

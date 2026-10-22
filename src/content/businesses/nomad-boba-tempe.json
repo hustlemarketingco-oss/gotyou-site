@@ -1,0 +1,48 @@
+{
+  "slug": "nomad-boba-tempe",
+  "name": "Nomad Boba",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Bubble tea store",
+  "secondaryCategories": [
+    "Dessert shop",
+    "Ice cream shop",
+    "Sandwich shop",
+    "Tea house"
+  ],
+  "address": "2011 E Apache Blvd Suit 139",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4145535,
+  "lng": -111.89959909999999,
+  "phone": "+14809130511",
+  "website": "https://www.nomadboba.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nomad+Boba/data=!4m7!3m6!1s0x872b096969a7bf5b:0x78de674c508f7e39!8m2!3d33.4145535!4d-111.8995991!16s%2Fg%2F11ltzn2c98!19sChIJW7-naWkJK4cROX6PUExn3ng?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8709512306847874617",
+  "placeId": "ChIJW7-naWkJK4cROX6PUExn3ng",
+  "googleRating": 4.7,
+  "googleReviewCount": 160,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc09z5hdYAqFPWmeo-5TJu6JGg3A_sZN9lcKqGazVI8rVktFjlSnxfNKgt1Br_nZQSmMfPmVxlA7k-zGzq8T3iAXj_bWeSaTqnSjzdeBHWVasYqR641sPIaeAQZppRIefHQeqjV=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 142
+  },
+  "hours": {
+    "mon": "1:00 PM - 8:00 PM",
+    "tue": "1:00 PM - 8:00 PM",
+    "wed": "1:00 PM - 8:00 PM",
+    "thu": "1:00 PM - 8:00 PM",
+    "fri": "1:00 PM - 8:00 PM",
+    "sat": "1:00 PM - 8:00 PM",
+    "sun": "1:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

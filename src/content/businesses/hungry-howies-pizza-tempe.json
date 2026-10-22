@@ -20,7 +20,7 @@
   "website": "http://www.4tempepizza.com/",
   "placeId": "ChIJK8b_Ku8IK4cRszL89bjzUts",
   "googleRating": 3.9,
-  "googleReviewCount": 1100,
+  "googleReviewCount": 1118,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 3:00 AM",
@@ -37,5 +37,19 @@
   "groundgameId": "6a2c63d78f28ea76dd7f3f43",
   "seededAt": "2026-06-12T19:53:59Z",
   "updatedAt": "2026-07-23T20:37:03Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15803962018122969779",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hungry+Howie%27s+Pizza+Tempe/data=!4m7!3m6!1s0x872b08ef2affc62b:0xdb52f3b8f5fc32b3!8m2!3d33.4161137!4d-111.9222431!16s%2Fg%2F1tj2cgcn!19sChIJK8b_Ku8IK4cRszL89bjzUts?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 177,
+    "2": 44,
+    "3": 97,
+    "4": 211,
+    "5": 589
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6QFJHNbAlr35Sz3YbFsK9IYX-H0Eeyw2ZGPuH21UYfpeeOJchu5GmwuqC2r9MwU86ETQtuK4K3ezvODJBzpQDKt9ufuBdX9eY4N_c_2Fsu6XaPOBh_2SgEBCc3EIAQwzjUwAk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

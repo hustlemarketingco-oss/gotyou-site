@@ -14,18 +14,10 @@
   "phone": "+14802561623",
   "description": "Located in Tempe, Hundred Mile Brewing Company is a brewery & bar with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/HundredMileBrewCo"
@@ -36,5 +28,31 @@
   "groundgameId": "6a24363c4d26dd1cfc0f8c59",
   "seededAt": "2026-06-06T15:01:16Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ3desZ-MJK4cR-q38XtxjMVc",
+  "googleCid": "6282912753296125434",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hundred+Mile+Brewing+Company/data=!4m7!3m6!1s0x872b09e367acd7dd:0x573163dc5efcadfa!8m2!3d33.4353288!4d-111.9283416!16s%2Fg%2F11ptsls8w7!19sChIJ3desZ-MJK4cR-q38XtxjMVc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 715,
+  "ratingBreakdown": {
+    "1": 43,
+    "2": 26,
+    "3": 27,
+    "4": 65,
+    "5": 554
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVMNCk8UpZ4LNzLYmJkKMyVqYDCPEe2wQib1fKP61asJFNM-uf9yS3DLSMXOtbV9LtFCduW4dAdkK2fxCNx3LiYnWpBxX9unGzTQTv0fdML7LA8OrVDEJ9i00Fc5_8hKgz2iMpShTbKNA=w1200-h800-k-no",
+  "website": "https://www.hundredmilebrewing.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "8:30 AM - 8:00 PM"
+  },
+  "lat": 33.4353288,
+  "lng": -111.9283416,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -17,11 +17,11 @@
   "lng": -111.9288908,
   "phone": "+14805900161",
   "website": "https://spitz-restaurant.com/mediterranean-food-tempe-asu-bar-restaurant/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2384953224312833457",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spitz+Restaurant+-+Tempe+At+ASU/data=!4m7!3m6!1s0x872b090c2cf80d05:0x21190e524d16c5b1!8m2!3d33.4141431!4d-111.9288908!16s%2Fg%2F11l1ypt380!19sChIJBQ34LAwJK4cRscUWTVIOGSE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2384953224312833457",
   "placeId": "ChIJBQ34LAwJK4cRscUWTVIOGSE",
   "googleRating": 4.8,
-  "googleReviewCount": 2807,
+  "googleReviewCount": 2881,
   "description": "Located in Tempe, Spitz Restaurant - Tempe At ASU is a mediterranean restaurant & greek restaurant.",
   "hours": {
     "fri": "11:00 AM - 1:00 AM",
@@ -38,5 +38,21 @@
   "groundgameId": "6a2437813dee87013593ba40",
   "seededAt": "2026-06-06T15:06:41Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 48,
+    "2": 22,
+    "3": 26,
+    "4": 187,
+    "5": 2598
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWkFsKJofdNK_OScq5nivKqdHhUmfPiyiDwY3kcj_AR9fILxuA1kgfV26HYpZAF3ehgI_v8Z4XimIQg94ssspgquWhdb1rTTjzvDEAePNPVU9fOr28T2_I04R_oa2HPsbMmMi0-133c947=w1200-h800-k-no",
+  "amenities": [
+    "Assistive hearing loop",
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

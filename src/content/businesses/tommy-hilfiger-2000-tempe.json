@@ -1,0 +1,28 @@
+{
+  "slug": "tommy-hilfiger-2000-tempe",
+  "name": "Tommy Hilfiger",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "secondaryCategories": [
+    "Fashion accessories store",
+    "Men's clothing store",
+    "Shoe store",
+    "Women's clothing store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1019",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4325511,
+  "lng": -111.9044515,
+  "googleMapsUrl": "https://www.google.com/maps/place/Tommy+Hilfiger/data=!4m7!3m6!1s0x872b0952d06334ff:0x27bfa6c6ac445ac9!8m2!3d33.4325511!4d-111.9044515!16s%2Fg%2F11nvdbc5f7!19sChIJ_zRj0FIJK4cRyVpErMamvyc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2864191260254821065",
+  "placeId": "ChIJ_zRj0FIJK4cRyVpErMamvyc",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9IA97teBE7FIv9HyRrLHPQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=340.14005&pitch=0&thumbfov=100",
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

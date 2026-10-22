@@ -1,0 +1,42 @@
+{
+  "slug": "cut-by-court-tempe",
+  "name": "Cut By Court",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2330 W University Dr Ste 15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.422482599999995,
+  "lng": -111.9739073,
+  "website": "https://book.thecut.co/courtneyw",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cut+By+Court/data=!4m7!3m6!1s0x872b0f4b24ced997:0x2520f4f381e7026c!8m2!3d33.4224826!4d-111.9739073!16s%2Fg%2F11z3yz2xkx!19sChIJl9nOJEsPK4cRbALngfP0ICU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2675407505351705196",
+  "placeId": "ChIJl9nOJEsPK4cRbALngfP0ICU",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WQrdFqJ07Bo8uud_cm8dOw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=178.77237&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "Closed",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

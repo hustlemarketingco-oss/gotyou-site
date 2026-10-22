@@ -1,0 +1,52 @@
+{
+  "slug": "blick-art-materials-tempe",
+  "name": "Blick Art Materials",
+  "category": "Shopping",
+  "googleCategory": "Art supply store",
+  "secondaryCategories": [
+    "Craft store",
+    "Picture frame shop",
+    "Print shop"
+  ],
+  "address": "930 E University Dr Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4224068,
+  "lng": -111.924999,
+  "phone": "+14804460800",
+  "website": "https://www.dickblick.com/stores/arizona/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Blick+Art+Materials/data=!4m7!3m6!1s0x872b08e7220a164f:0xa42387b6026dab93!8m2!3d33.4224068!4d-111.924999!16s%2Fg%2F1tcy4sbx!19sChIJTxYKIucIK4cRk6ttAraHI6Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11827446262199593875",
+  "placeId": "ChIJTxYKIucIK4cRk6ttAraHI6Q",
+  "googleRating": 4.6,
+  "googleReviewCount": 602,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXKDqyZascFX6OGg-em_wCI00Q7cw6q8b1Fog3frULBZ1Y0s7LsFRHl5PS6vVQ3p6AZ7ZABJ9k0O76VkoUIOwgbUYglkfN65kPtbuepehpvnKZ1w9PzYiABYe9MDTS7hksdwCa=w1200-h800-k-no",
+  "description": "Retailer stocking a large assortment of art supplies, including paint, clay & canvases.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 10,
+    "3": 16,
+    "4": 96,
+    "5": 459
+  },
+  "hours": {
+    "mon": "10:00 AM - 7:00 PM",
+    "tue": "10:00 AM - 7:00 PM",
+    "wed": "10:00 AM - 7:00 PM",
+    "thu": "10:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

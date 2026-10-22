@@ -2,7 +2,7 @@
   "slug": "rodeo-ranch-tempe",
   "name": "Rodeo Ranch",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Night club",
   "secondaryCategories": [
     "Night club"
   ],
@@ -14,24 +14,17 @@
   "lng": -111.9398269,
   "phone": "+14805348620",
   "website": "http://www.therodeoranch.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=9341970516727836716",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rodeo+Ranch/data=!4m7!3m6!1s0x872b0927850e2407:0x81a558b067bc302c!8m2!3d33.4253302!4d-111.9398269!16s%2Fg%2F11g4gc98dd!19sChIJByQOhScJK4cRLDC8Z7BYpYE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "9341970516727836716",
   "placeId": "ChIJByQOhScJK4cRLDC8Z7BYpYE",
   "googleRating": 3.6,
-  "googleReviewCount": 145,
+  "googleReviewCount": 144,
   "description": "Lively bar & nightclub featuring a mechanical bull, live DJ, dancing, games, beers & bottle service.",
   "amenities": [
-    "Outdoor seating",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "8:00 PM - 2:00 AM",
@@ -48,5 +41,14 @@
   "groundgameId": "6a2438983a236808d4a73be1",
   "seededAt": "2026-06-06T15:11:20Z",
   "updatedAt": "2026-06-06T15:11:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 36,
+    "2": 6,
+    "3": 8,
+    "4": 17,
+    "5": 77
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu69Wdu7Kds191hqpERVM7wPvkE08cTJUVyAgy0kookoiGHGeIOO1561sJ55mrnllmGR4Ib5NTtUtQbbw4_W_BydGU5OK37ixn6c6rONSCAjBTRlDDnJ3UjNrZkb7Vmw8ecWteMw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

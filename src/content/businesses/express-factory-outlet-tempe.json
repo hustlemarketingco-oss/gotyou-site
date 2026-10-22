@@ -1,0 +1,56 @@
+{
+  "slug": "express-factory-outlet-tempe",
+  "name": "Express Factory Outlet",
+  "category": "Shopping",
+  "googleCategory": "Outlet store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Jeans shop",
+    "Dress store",
+    "Fashion accessories store",
+    "Men's clothing store",
+    "T-shirt store",
+    "Women's clothing store",
+    "Work clothes store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3829883,
+  "lng": -111.964438,
+  "phone": "+14802813303",
+  "website": "https://stores.expressfactoryoutlet.com/us/az/tempe/5000-arizona-mills-circle?CID=Yext",
+  "googleMapsUrl": "https://www.google.com/maps/place/Express+Factory+Outlet/data=!4m7!3m6!1s0x872b0f59e1444903:0x8d1104055d6fe7c!8m2!3d33.3829883!4d-111.964438!16s%2Fg%2F11bytp6hn3!19sChIJA0lE4VkPK4cRfP7WVUAQ0Qg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "635306890940055164",
+  "placeId": "ChIJA0lE4VkPK4cRfP7WVUAQ0Qg",
+  "googleRating": 4.2,
+  "googleReviewCount": 143,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0qBpESlgZ7sLQVKEMZcZ3MuTWaj8CS4XzxjlA5XqIrBSpw5E5Rme_aCutE10WN9ZhWaTuS6fmj3XgjHO2LiYUM6yghhjBTfnqwbDTtgqCFUSrAQA6O9X47_KABWomsAjSnLdqW99vFzOd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 8,
+    "3": 11,
+    "4": 33,
+    "5": 81
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

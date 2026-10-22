@@ -23,7 +23,7 @@
   "website": "https://www.zippssportsgrills.com/locations/mcclintock/",
   "placeId": "ChIJDVk6md4GK4cRQswcO-b0SZs",
   "googleRating": 4.1,
-  "googleReviewCount": 1809,
+  "googleReviewCount": 1835,
   "hours": {
     "mon": "11:00 AM - 11:00 PM",
     "tue": "11:00 AM - 11:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a319041ee97a438eacbe2e7",
   "seededAt": "2026-06-16T18:04:49Z",
   "updatedAt": "2026-06-16T18:04:49Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11189744018850106434",
+  "googleMapsUrl": "https://www.google.com/maps/place/Zipps+Sports+Grill/data=!4m7!3m6!1s0x872b06de993a590d:0x9b49f4e63b1ccc42!8m2!3d33.3352341!4d-111.9070782!16s%2Fg%2F1wz5350f!19sChIJDVk6md4GK4cRQswcO-b0SZs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 151,
+    "2": 76,
+    "3": 195,
+    "4": 462,
+    "5": 951
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcma6FFBHDEc08a1VbzBiZ_y6EBg7lTI_2eHsqQmMh95oWOWbX4YyCkMmXJBQTHNBrBqpW38jIGGGYWX-BQapwmPukkQY-Q-sVOaLjnHtot0lf1kca_w50fub9DynDGRccrSL0NyN17x1Sh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

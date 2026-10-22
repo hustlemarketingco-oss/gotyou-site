@@ -1,0 +1,41 @@
+{
+  "slug": "barber-and-beauty-by-loralee-tempe",
+  "name": "Barber and Beauty by Loralee",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "115 W 6th St Ste 110 room 109",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4240956,
+  "lng": -111.9419782,
+  "phone": "+13233381581",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barber+and+Beauty+by+Loralee/data=!4m7!3m6!1s0x872b08d7be66cd79:0xbecad6bd430e84f7!8m2!3d33.4240956!4d-111.9419782!16s%2Fg%2F11g8p4rzn2!19sChIJec1mvtcIK4cR94QOQ73Wyr4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13748036920864048375",
+  "placeId": "ChIJec1mvtcIK4cR94QOQ73Wyr4",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nxzDiVYzQVGc11sGRDS_Hw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=197.88467&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

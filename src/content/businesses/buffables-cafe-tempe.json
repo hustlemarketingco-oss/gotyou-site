@@ -19,7 +19,7 @@
   "website": "http://www.buffables.com/",
   "placeId": "ChIJGRFOoq0PK4cRsAn1L6Mt0ds",
   "googleRating": 5,
-  "googleReviewCount": 74,
+  "googleReviewCount": 152,
   "priceRange": "$$",
   "hours": {
     "mon": "6:00 AM - 6:00 PM",
@@ -36,5 +36,19 @@
   "groundgameId": "6a711ccfda599465421d36d5",
   "seededAt": "2026-08-03T22:57:19Z",
   "updatedAt": "2026-08-06T18:03:52Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15839491543346252208",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buffables+Cafe/data=!4m7!3m6!1s0x872b0fada24e1119:0xdbd12da32ff509b0!8m2!3d33.4216712!4d-111.9598604!16s%2Fg%2F11yzzpry3d!19sChIJGRFOoq0PK4cRsAn1L6Mt0ds?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "4": 2,
+    "5": 150
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLIiy5Ync-AxQ-V2d_I7-IFfg7C3st-7wWl8kaasowsRzQUKQdbG-FeYQf2KandzdBvEVo-_2ivzDRoYgF5fq9tmqvo_apnNtCKptGfWzIeiRr6JwksfhpZt5VYe9PGD5TCCUuFIv92rVr=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

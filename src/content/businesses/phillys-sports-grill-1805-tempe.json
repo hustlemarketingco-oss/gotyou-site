@@ -15,23 +15,10 @@
   "priceRange": "$10–20",
   "description": "Located in Tempe, Philly's Sports Grill is a casual, trendy sports bar & bar & grill with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://instagram.com/phillys_az"
@@ -42,5 +29,31 @@
   "groundgameId": "6a2438c9734e33b7e07e83c7",
   "seededAt": "2026-06-06T15:12:09Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJmz5CcDwHK4cRSuMimHPmngc",
+  "googleCid": "549129588733829962",
+  "googleMapsUrl": "https://www.google.com/maps/place/Philly%27s+Sports+Grill/data=!4m7!3m6!1s0x872b073c70423e9b:0x79ee6739822e34a!8m2!3d33.3478934!4d-111.9106923!16s%2Fg%2F11fk961c1q!19sChIJmz5CcDwHK4cRSuMimHPmngc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 445,
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 12,
+    "3": 45,
+    "4": 86,
+    "5": 278
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPXBmgyf7sDV3MbBhS1auhEpSwiwPOduqG2e9zNG_K5_p-ZVmyOrSZQKPI2oj-zgxGeVdC7d-KsMMxCEZur-8W7vMeylc1YRLrL8gx2aDkIZvV54LrZaKedmr0S-44qGfFzR8L-jl_xG5v=w1200-h800-k-no",
+  "website": "https://phillyssportsgrill.com/",
+  "hours": {
+    "mon": "11:00 AM - 12:00 AM",
+    "tue": "11:00 AM - 12:00 AM",
+    "wed": "11:00 AM - 12:00 AM",
+    "thu": "11:00 AM - 1:30 AM",
+    "fri": "10:45 AM - 2:00 AM",
+    "sat": "9:00 AM - 1:30 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "lat": 33.3478934,
+  "lng": -111.9106923,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

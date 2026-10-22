@@ -1,0 +1,30 @@
+{
+  "slug": "car-wash-tempe",
+  "name": "Car Wash",
+  "category": "Local Business",
+  "googleCategory": "Car wash",
+  "address": "808 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378644,
+  "lng": -111.9289895,
+  "googleMapsUrl": "https://www.google.com/maps/place/Car+Wash/data=!4m7!3m6!1s0x872b06189850ebdf:0x7b082bed4a61031f!8m2!3d33.378644!4d-111.9289895!16s%2Fg%2F11mtcz74yd!19sChIJ3-tQmBgGK4cRHwNhSu0rCHs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8865384164633936671",
+  "placeId": "ChIJ3-tQmBgGK4cRHwNhSu0rCHs",
+  "googleRating": 3.5,
+  "googleReviewCount": 26,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedR17miBxZ23qvcVhs8zcw4wjRtm0DYqXHf-oeS5xpiHJqEg-iL3oVczjRVAHDEbz6UDhUGUCHtk3ycw1m2WUia1SgwwBSYP90-L4uC8w4xSpabxbcSmAkAucDGqjg87gS1Ewqbg=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "4": 8,
+    "5": 10
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

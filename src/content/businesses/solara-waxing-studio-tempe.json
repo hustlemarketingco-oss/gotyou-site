@@ -1,0 +1,42 @@
+{
+  "slug": "solara-waxing-studio-tempe",
+  "name": "Solara Waxing Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "address": "6601 S Rural Rd Ste 27",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "website": "https://solarawaxing.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Solara+Waxing+Studio/data=!4m7!3m6!1s0x872b0796c5659be3:0x87ab80bbb617ea01!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11yx31nbnq!19sChIJ45tlxZYHK4cRAeoXtruAq4c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9776048959840053761",
+  "placeId": "ChIJ45tlxZYHK4cRAeoXtruAq4c",
+  "googleRating": 5,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJs5oWU-EhCJDubKeoy-gAtr3Y1IKfqsc2cc4-4C6Jmws-vD0cQzlfqhEweeMhRXtGDtz-xiP1dyEJKojqf9uOuDrfMv-OUZV7HJlKjP_IGmCyFKJLkTxrvlSWNIrN0MyLdonBI4cPthzI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 31
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:30 PM",
+    "tue": "8:00 AM - 6:30 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

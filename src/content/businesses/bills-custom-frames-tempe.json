@@ -1,0 +1,43 @@
+{
+  "slug": "bills-custom-frames-tempe",
+  "name": "Bill's Custom Frames",
+  "category": "Shopping",
+  "googleCategory": "Picture frame shop",
+  "address": "1434 E Williams St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4127933,
+  "lng": -111.914923,
+  "phone": "+14809681771",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bill%27s+Custom+Frames/data=!4m7!3m6!1s0x872b0edf7d08c681:0x339f553cfb1b3a5d!8m2!3d33.4127933!4d-111.914923!16s%2Fg%2F1tn4ymnb!19sChIJgcYIfd8OK4cRXTob-zxVnzM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3719785537630583389",
+  "placeId": "ChIJgcYIfd8OK4cRXTob-zxVnzM",
+  "googleRating": 4.6,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo3iQ7wxC-GmE_dXU7yuCLpZtiNB642UxLlRRm1QgRfN1KM23jfrDaOpCyyvvvae-uY9aKMkQc2Ru1dMO-ecJeErFfNfVJvsS4c8ObYTZ51eqwkuxpVjwPXVQjFez5MCvrMCru=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 3,
+    "5": 14
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 4:00 PM",
+    "wed": "11:00 AM - 4:00 PM",
+    "thu": "11:00 AM - 4:00 PM",
+    "fri": "11:00 AM - 4:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

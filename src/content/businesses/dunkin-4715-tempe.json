@@ -23,7 +23,7 @@
   "website": "https://locations.dunkindonuts.com/en/az/tempe/4715-s-rural-rd/354811&y_source=1_MTIxMTA4NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJCzeHBCIGK4cRxgrQOInPE4A",
   "googleRating": 3.8,
-  "googleReviewCount": 536,
+  "googleReviewCount": 546,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 8:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3ed99ef824c69187a9cc65",
   "seededAt": "2026-06-26T19:57:18Z",
   "updatedAt": "2026-06-26T19:57:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "9228948249682905798",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x872b06220487370b:0x8013cf8938d00ac6!8m2!3d33.3799374!4d-111.9278944!16s%2Fg%2F11cmsylxyn!19sChIJCzeHBCIGK4cRxgrQOInPE4A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 83,
+    "2": 36,
+    "3": 57,
+    "4": 95,
+    "5": 275
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9LAsV5jch1O7afi5dAWn_acmJJSfNBIb8-wYjw1-hOLNaZuuzBrCjVl0swEVO-xPY-7fX6eRVer5Sqf2rr0MotPnkiR2SSvDZE84GxOBOnMctjzqZRNzbbes9r1t6-6Icgogu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

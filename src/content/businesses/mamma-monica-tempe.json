@@ -1,0 +1,49 @@
+{
+  "slug": "mamma-monica-tempe",
+  "name": "Mamma Monica",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Caterer"
+  ],
+  "address": "1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4262191,
+  "lng": -111.9039952,
+  "phone": "+16023273344",
+  "website": "https://chefmammamonica.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mamma+Monica/data=!4m7!3m6!1s0x872b09da875918f9:0x2c87c265d0b4bbcf!8m2!3d33.4262191!4d-111.9039952!16s%2Fg%2F11wmj2z659!19sChIJ-RhZh9oJK4cRz7u00GXChyw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3208747002073758671",
+  "placeId": "ChIJ-RhZh9oJK4cRz7u00GXChyw",
+  "googleRating": 4.6,
+  "googleReviewCount": 38,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_GOSI37EWQS4l820sRVOYXnslD8UefeJk-7LgCigA8M8sDk7fef28fhJcd3sjRB7xil5cvsiUIuhXf5-3Vt1j2epMEJ3i8r_EB1p94YiAeqgv-VaTjxN6X_Wr9x9pfA6vIP2s=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "5": 34
+  },
+  "hours": {
+    "mon": "10:30 AM - 1:30 PM, 5:30 PM - 11:00 PM",
+    "tue": "10:30 AM - 1:30 PM, 5:30 PM - 11:00 PM",
+    "wed": "10:30 AM - 1:30 PM, 5:30 PM - 11:00 PM",
+    "thu": "10:30 AM - 1:30 PM, 5:30 PM - 11:00 PM",
+    "fri": "10:30 AM - 1:30 PM, 5:30 PM - 11:00 PM",
+    "sat": "Closed",
+    "sun": "5:30 PM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

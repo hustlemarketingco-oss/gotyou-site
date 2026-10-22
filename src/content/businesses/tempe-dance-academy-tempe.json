@@ -1,0 +1,42 @@
+{
+  "slug": "tempe-dance-academy-tempe",
+  "name": "Tempe Dance Academy",
+  "category": "Health & Beauty",
+  "googleCategory": "Dance school",
+  "address": "1840 E Warner Rd #132",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3357919,
+  "lng": -111.908119,
+  "phone": "+14808200795",
+  "website": "https://tempedance.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Dance+Academy/data=!4m7!3m6!1s0x872b06e329416789:0x4504530efd6e7d41!8m2!3d33.3357919!4d-111.908119!16s%2Fg%2F1ts3g21t!19sChIJiWdBKeMGK4cRQX1u_Q5TBEU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4973191212370394433",
+  "placeId": "ChIJiWdBKeMGK4cRQX1u_Q5TBEU",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdV6Byk9Fv83DTZ-43F90Eqxq1Tja60Y-oC3kjkKiPhpHy_KUVe36UlGuZdTafu_037DaSDs8DrSElXnRqkzghMkSxUTkJiB8YCDhK-nfaY-NDYEV4AKdp6KOaZMf7WaqkcSeWYVY8ONJ3g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "3:45 PM - 9:00 PM",
+    "tue": "3:45 PM - 9:00 PM",
+    "wed": "3:45 PM - 9:00 PM",
+    "thu": "3:45 PM - 9:00 PM",
+    "fri": "3:45 PM - 8:00 PM",
+    "sat": "9:15 AM - 4:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -11,25 +11,17 @@
   "lng": -111.9299221,
   "phone": "+14802071578",
   "website": "https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt/dining",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10631167101811214510",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sol+Diablo+Cantina/data=!4m7!3m6!1s0x872b097e0d6e80df:0x93897e271b46c8ae!8m2!3d33.4238815!4d-111.9299221!16s%2Fg%2F11kjnwrs7z!19sChIJ34BuDX4JK4cRrshGGyd-iZM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10631167101811214510",
   "placeId": "ChIJ34BuDX4JK4cRrshGGyd-iZM",
   "googleRating": 5,
   "googleReviewCount": 1,
   "description": "Located in Tempe, Sol Diablo Cantina is a casual restaurant with alcohol & beer, takeout & delivery. Popular for lunch & dinner.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "5:00 PM - 12:00 AM",
@@ -46,5 +38,10 @@
   "groundgameId": "6a2438ad4577c27dedef8505",
   "seededAt": "2026-06-06T15:11:41Z",
   "updatedAt": "2026-06-06T15:11:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoCWd0qFkg4ApjrPJ4s3PYeG2APU0pHnUMELV2sb1SVhrmyXt6bmfKVwYtwj_NjiH2atdNwYvC9hAp0IzEeml7Tm7benB8UdMMQNRGff74fF_en3V46NRd7rXpFpEHZQaMhxE=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "the-madison-method-tempe",
+  "name": "The Madison Method",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "4685 S Ash Ave # H-1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3817102,
+  "lng": -111.9413342,
+  "phone": "+17756860680",
+  "website": "https://themadisonmethod.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Madison+Method/data=!4m7!3m6!1s0x872b0961df295b4f:0x865e4b4d83049415!8m2!3d33.3817102!4d-111.9413342!16s%2Fg%2F11thlkdtq_!19sChIJT1sp32EJK4cRFZQEg01LXoY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9682259045175825429",
+  "placeId": "ChIJT1sp32EJK4cRFZQEg01LXoY",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEaaBINyWtsP5KoNn3K9-dVezHlF_qBUI4KHUq3WJcIz1-5P0CosNee5HPQPkE4UlOwQ6eFtlLMer3ZbL2cbzgJPVULiSZX23plbH_CTII9gzTkiH0V9Sal3XjrMERwI7pkng=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

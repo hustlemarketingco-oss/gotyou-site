@@ -11,34 +11,18 @@
   "lng": -111.9403018,
   "phone": "+14808758807",
   "website": "https://www.cupbop.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=17514425143720789992",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cupbop+-+Korean+BBQ+in+a+Cup/data=!4m7!3m6!1s0x872b0905faecc0ff:0xf30fbcdf70a5c7e8!8m2!3d33.423499!4d-111.9403018!16s%2Fg%2F11s9nj5xfw!19sChIJ_8Ds-gUJK4cR6MelcN-8D_M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "17514425143720789992",
   "placeId": "ChIJ_8Ds-gUJK4cR6MelcN-8D_M",
   "googleRating": 4.6,
-  "googleReviewCount": 659,
+  "googleReviewCount": 686,
   "priceRange": "$10–20",
   "description": "Cupbop - Korean BBQ in a Cup is a Tempe casual, trendy korean restaurant known for comfort food & healthy options, takeout.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Healthy options",
-    "Quick bite",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 12:00 AM",
@@ -55,5 +39,14 @@
   "groundgameId": "6a243777e5e244fca18f8fee",
   "seededAt": "2026-06-06T15:06:31Z",
   "updatedAt": "2026-09-22T23:37:23Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 10,
+    "3": 19,
+    "4": 44,
+    "5": 573
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczyQtSxu0NjRz7LeQmeUaPHRZ2S2AUhxUGJQlBLL2yctAM-DN-g93WpUrsnq_t6ICTrvt2qLTCZQf4mHHbh1JwSWyi-Sm7BVCGTYrYmUiOU1xg_BAW0I55PSGLcxNuzJvM4z82=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

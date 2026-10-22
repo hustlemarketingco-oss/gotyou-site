@@ -13,23 +13,16 @@
   "lat": 33.3496029,
   "lng": -111.9604606,
   "phone": "+14804544654",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8201591497908644642",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boba+%26+Donuts/data=!4m7!3m6!1s0x872b0598c67a1da9:0x71d1e80371b56b22!8m2!3d33.3495149!4d-111.9602239!16s%2Fg%2F11s8c6rkz8!19sChIJqR16xpgFK4cRImu1cQPo0XE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8201591497908644642",
   "placeId": "ChIJqR16xpgFK4cRImu1cQPo0XE",
   "googleRating": 4.5,
-  "googleReviewCount": 77,
+  "googleReviewCount": 86,
   "priceRange": "$1–10",
   "description": "Located in Tempe, Boba & Donuts is a bakery & donut shop with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "6:00 AM - 8:00 PM",
@@ -46,5 +39,14 @@
   "groundgameId": "6a24360fb7fd5c5206d803fb",
   "seededAt": "2026-06-06T15:00:31Z",
   "updatedAt": "2026-06-06T15:05:08Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 9,
+    "3": 2,
+    "4": 5,
+    "5": 70
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3hANfCygo5BMEoutWMUvI4ZYKT7o-UbM-2d3hjoqrBKoIo0qftHeqwCRieSM1lWkholCZf9t3Ob8CBaK9QTi1piotMAp8uAFt67YBcyXeA5sVzOMwXh65Oy5W-j9ZLIydGOrfIFADV-07=w1200-h800-k-no",
+  "website": "https://bobandonutselliot.com/?utm_source=google",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

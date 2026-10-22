@@ -2,7 +2,7 @@
   "slug": "top-of-the-rock-restaurant-tempe",
   "name": "Top of the Rock Restaurant",
   "category": "Restaurant",
-  "googleCategory": "Steak house",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Bar",
     "Bistro",
@@ -16,35 +16,18 @@
   "lng": -111.97148,
   "phone": "+16024312370",
   "website": "https://modules.marriott.com/hotel-restaurants/phxtm-marriott-phoenix-resort-tempe-at-the-buttes/top-of-the-rock-restaurant/118030/home-page",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2454789326851524494",
+  "googleMapsUrl": "https://www.google.com/maps/place/Top+of+the+Rock+Restaurant/data=!4m7!3m6!1s0x872b0f38dd097877:0x221129e30167c78e!8m2!3d33.4036103!4d-111.97148!16s%2Fg%2F1tdg_rvp!19sChIJd3gJ3TgPK4cRjsdnAeMpESI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2454789326851524494",
   "placeId": "ChIJd3gJ3TgPK4cRjsdnAeMpESI",
   "googleRating": 4.4,
-  "googleReviewCount": 1772,
+  "googleReviewCount": 1817,
   "priceRange": "$50–100",
   "description": "New American cafe in a Marriott Hotel offering 360-degree views of the valley below & rustic decor.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Quiet",
-    "Romantic",
-    "Trendy",
-    "Upscale",
-    "Free parking lot",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Organic dishes",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "4:30 PM - 9:00 PM",
@@ -61,5 +44,14 @@
   "groundgameId": "6a2437de27ada890ffb1bc4c",
   "seededAt": "2026-06-06T15:08:14Z",
   "updatedAt": "2026-08-05T19:37:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 99,
+    "2": 79,
+    "3": 124,
+    "4": 262,
+    "5": 1253
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQh5xXDPRuJtO_KJr7V127H1Rl4YM388NCnB3Bakb2A0g0MxZiU2VNvIJ9ulBRi6RzyYZ-NaNkOHXjjzT6kuLarLGu1_g9_bx3o95SCTjhJm0NFVQD5vLexWNis41SaU18PJ2o=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

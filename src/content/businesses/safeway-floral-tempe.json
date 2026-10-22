@@ -1,0 +1,26 @@
+{
+  "slug": "safeway-floral-tempe",
+  "name": "Safeway Floral",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "address": "926 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4090212,
+  "lng": -111.9250776,
+  "googleMapsUrl": "https://www.google.com/maps/place/Safeway+Floral/data=!4m7!3m6!1s0x872b09000bd58f41:0x716343d043f1af1b!8m2!3d33.4090212!4d-111.9250776!16s%2Fg%2F11ltbb2lmz!19sChIJQY_VCwAJK4cRG6_xQ9BDY3E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8170448710752382747",
+  "placeId": "ChIJQY_VCwAJK4cRG6_xQ9BDY3E",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=flJ5ynFrV780wm3DlIsoVQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=271.68192&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

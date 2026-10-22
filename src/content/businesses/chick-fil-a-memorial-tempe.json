@@ -1,0 +1,56 @@
+{
+  "slug": "chick-fil-a-memorial-tempe",
+  "name": "Chick-fil-A",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Caterer",
+    "Chicken restaurant",
+    "Delivery service",
+    "Family restaurant"
+  ],
+  "address": "Memorial Union Building, 1290 S Normal Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.417940699999996,
+  "lng": -111.9344272,
+  "phone": "+14809652052",
+  "website": "https://www.chick-fil-a.com/locations/az/arizona-state-university?utm_source=google&utm_medium=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chick-fil-A/data=!4m7!3m6!1s0x872b08dca0b9ebeb:0xbd8d342a44c3150e!8m2!3d33.4179407!4d-111.9344272!16s%2Fg%2F11clt92ly8!19sChIJ6-u5oNwIK4cRDhXDRCo0jb0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13658630601031488782",
+  "placeId": "ChIJ6-u5oNwIK4cRDhXDRCo0jb0",
+  "googleRating": 3.7,
+  "googleReviewCount": 232,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQbiUdyGccO75DAfYgrw410CbCwUpPNHRQtUlJ3aEjHI6PuhJv0O3TMtbSSgiBcNETSqqli4D0VCzb0qIHHU55VPDjsT9oDRxLEZxe0qLeWAunRkdZnpCNMqdqAMvgzOSpvejO8_t6sPM=w1200-h800-k-no",
+  "description": "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 41,
+    "2": 13,
+    "3": 26,
+    "4": 42,
+    "5": 110
+  },
+  "hours": {
+    "mon": "10:30 AM - 6:00 PM",
+    "tue": "10:30 AM - 6:00 PM",
+    "wed": "10:30 AM - 6:00 PM",
+    "thu": "10:30 AM - 6:00 PM",
+    "fri": "10:30 AM - 6:00 PM",
+    "sat": "10:30 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "song-kai-massage-tempe",
+  "name": "Song Kāi Massage",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage spa",
+  "address": "209 E Baseline Rd e102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377566,
+  "lng": -111.9373911,
+  "phone": "+16023450678",
+  "website": "http://www.songkaimassage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Song+K%C4%81i+Massage/data=!4m7!3m6!1s0x872b09e763cf9a6d:0x45820d2b925495d1!8m2!3d33.377566!4d-111.9373911!16s%2Fg%2F11vzhpnnhz!19sChIJbZrPY-cJK4cR0ZVUkisNgkU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5008580216379184593",
+  "placeId": "ChIJbZrPY-cJK4cR0ZVUkisNgkU",
+  "googleRating": 4.6,
+  "googleReviewCount": 44,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaV7vqQOle4ad8ltz3BED_N4Sqefg5fYfS66erL24RIgJipyYVAjg23IcjcqsxRoUAAfbNEw81CUbja96Yc2cXe1NiFXNF-VxYGelnmVczMngsUTnlsSVBuvHTv1WPxk3vZbg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "5": 39
+  },
+  "hours": {
+    "mon": "9:00 AM - 8:00 PM",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

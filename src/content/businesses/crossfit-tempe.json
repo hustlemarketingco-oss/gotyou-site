@@ -1,0 +1,46 @@
+{
+  "slug": "crossfit-tempe",
+  "name": "CrossFit Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "address": "937Q+54, 6426 S McClintock Dr #113",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3631295,
+  "lng": -111.9132269,
+  "phone": "+16027553530",
+  "website": "https://www.crossfittempeaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/CrossFit+Tempe/data=!4m7!3m6!1s0x872b085a6595bbdd:0xeb852b9b06d1fb4e!8m2!3d33.3631295!4d-111.9132269!16s%2Fg%2F12jsq4y7d!19sChIJ3buVZVoIK4cRTvvRBpsrhes?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16971018715649932110",
+  "placeId": "ChIJ3buVZVoIK4cRTvvRBpsrhes",
+  "googleRating": 4.8,
+  "googleReviewCount": 197,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCfUKbr8AbTf6hG6wbI3L9jCSFJRIyEuRPRldTVRtFI6Y5uyCZoGxGtXB4OXTnaQALbXXqZS3rkht3JPZObVE_8uBlgBZcJlgCH4gYMxOh_Y9dyt2cAZHdEa2Nt8ebOjmNlepd=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 2,
+    "4": 8,
+    "5": 181
+  },
+  "hours": {
+    "mon": "5:00 AM - 8:00 PM",
+    "tue": "5:00 AM - 8:00 PM",
+    "wed": "5:00 AM - 8:00 PM",
+    "thu": "5:00 AM - 8:00 PM",
+    "fri": "5:00 AM - 8:00 PM",
+    "sat": "8:30 AM - 10:30 AM",
+    "sun": "8:30 AM - 10:30 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

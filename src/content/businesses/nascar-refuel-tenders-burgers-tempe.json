@@ -1,0 +1,48 @@
+{
+  "slug": "nascar-refuel-tenders-burgers-tempe",
+  "name": "NASCAR Refuel Tenders & Burgers",
+  "category": "Fast Food",
+  "googleCategory": "Hamburger restaurant",
+  "secondaryCategories": [
+    "Delivery service"
+  ],
+  "address": "705 S Rural Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4234708,
+  "lng": -111.92584,
+  "phone": "+18884956104",
+  "website": "https://www.nascarrefuel.com/menu/tenders-and-burgers",
+  "googleMapsUrl": "https://www.google.com/maps/place/NASCAR+Refuel+Tenders+%26+Burgers/data=!4m7!3m6!1s0x872b092bc60606c9:0x559fa43c713264ee!8m2!3d33.4234708!4d-111.92584!16s%2Fg%2F11y27ccf2h!19sChIJyQYGxisJK4cR7mQycTykn1U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6169830594024989934",
+  "placeId": "ChIJyQYGxisJK4cR7mQycTykn1U",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqv3QlcrowvAIFrxUgCgxJQEWiGE3iHJNjcBLbAddzljed3M2SlSiVj3EIhwKapoAAQv8KoCOyqU1urfktkfhBtQ6HzNSmXu-uqQDPNBIwZ61rZCqEPB_ITp7g7iyjlQApiq5hVA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 1
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

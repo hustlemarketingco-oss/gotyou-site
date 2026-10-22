@@ -1,0 +1,59 @@
+{
+  "slug": "jack-in-the-box-2145-tempe",
+  "name": "Jack in the Box",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Chicken restaurant",
+    "Dessert restaurant",
+    "Hamburger restaurant",
+    "Delivery Restaurant",
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "2145 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4217081,
+  "lng": -111.8937591,
+  "phone": "+14808948419",
+  "website": "https://locations.jackinthebox.com/us/az/tempe/2145-e-university-dr?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jack+in+the+Box/data=!4m7!3m6!1s0x872b085adc909927:0x632f2953c10269c1!8m2!3d33.4217081!4d-111.8937591!16s%2Fg%2F1v3lqdtm!19sChIJJ5mQ3FoIK4cRwWkCwVMpL2M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7146976573357451713",
+  "placeId": "ChIJJ5mQ3FoIK4cRwWkCwVMpL2M",
+  "googleRating": 3.5,
+  "googleReviewCount": 865,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoXgvPsMTS6--G-yN9V0GIWqFdbJaXDomSAsRvhJEO-TXAulAOS2zlB9PNMqycOwwtjtKmskrS5mq4GOOZUHFSp7bXRmeycsnYpPGo_xj5LkSgoom57QydJNAIilho2nAreJ-9=w1200-h800-k-no",
+  "description": "Burgers, chicken, tacos & breakfast items fill out the menu at this fast-food chain.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 170,
+    "2": 70,
+    "3": 124,
+    "4": 161,
+    "5": 340
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

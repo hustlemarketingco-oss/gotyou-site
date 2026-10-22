@@ -1,0 +1,59 @@
+{
+  "slug": "olive-garden-italian-restaurant-tempe",
+  "name": "Olive Garden Italian Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Caterer",
+    "Family restaurant",
+    "Gluten-free restaurant",
+    "Takeout Restaurant",
+    "Mediterranean restaurant",
+    "Seafood restaurant",
+    "Soup restaurant",
+    "Wine bar"
+  ],
+  "address": "1010 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.349661999999995,
+  "lng": -111.95505299999999,
+  "phone": "+14807770032",
+  "website": "https://www.olivegarden.com/locations/az/tempe/tempe-w-elliot-rd/1488?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:tempe-az-1488_pl:locurl_rd:1366",
+  "googleMapsUrl": "https://www.google.com/maps/place/Olive+Garden+Italian+Restaurant/data=!4m7!3m6!1s0x872b05d834afe799:0xf1ec68e8c2eca524!8m2!3d33.349662!4d-111.955053!16s%2Fg%2F1tlbv5dq!19sChIJmeevNNgFK4cRJKXswuho7PE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17432423606556337444",
+  "placeId": "ChIJmeevNNgFK4cRJKXswuho7PE",
+  "googleRating": 4.3,
+  "googleReviewCount": 4148,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHIzd52grl-qSEecxQTnPG-FZDnryeQvdwtQK2d4q_uW2e8-gvHmO-uCFyDQTksJMXAQOcnQJmFH2P-6blnf8Dz8ienQvlX2LnoJwslA5ftL2ROvfVioZed4BhjwwqAJugLReP=w1200-h800-k-no",
+  "description": "Lively, family-friendly chain featuring Italian standards such as pastas & salads.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 210,
+    "2": 127,
+    "3": 359,
+    "4": 870,
+    "5": 2582
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

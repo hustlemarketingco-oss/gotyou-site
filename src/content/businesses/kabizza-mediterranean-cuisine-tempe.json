@@ -10,11 +10,11 @@
   "lat": 33.4151909,
   "lng": -111.9110614,
   "phone": "+14804475600",
-  "googleMapsUrl": "https://www.google.com/maps?cid=8292224501047042895",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kabizza+Mediterranean+Cuisine+Tempe/data=!4m7!3m6!1s0x872b097ab41cca0f:0x7313e63fe6b3234f!8m2!3d33.4151909!4d-111.9110614!16s%2Fg%2F11wtyctrsx!19sChIJD8octHoJK4cRTyOz5j_mE3M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "8292224501047042895",
   "placeId": "ChIJD8octHoJK4cRTyOz5j_mE3M",
-  "googleRating": 4.7,
-  "googleReviewCount": 348,
+  "googleRating": 4.6,
+  "googleReviewCount": 439,
   "description": "Located in Tempe, Kabizza Mediterranean Cuisine Tempe is a mediterranean restaurant.",
   "hours": {
     "fri": "11:00 AM - 2:00 AM",
@@ -31,5 +31,20 @@
   "groundgameId": "6a2437811585aea1f7f68758",
   "seededAt": "2026-06-06T15:06:41Z",
   "updatedAt": "2026-07-27T19:14:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 21,
+    "2": 6,
+    "3": 10,
+    "4": 42,
+    "5": 360
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZXxJ6fbAyQYLX-_ERk89DuSDWRUG75pgtTN-HDTNxDiJ9KVRvOQpALakukdIo7kJppFfpmLERRqQi5c9TBhyuGiQ9bn4Me5MPeszCUyBw5eDZtO81hW5nnSZglv-oduQW6xgkoaq1FeyY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

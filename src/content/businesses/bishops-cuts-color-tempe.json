@@ -1,0 +1,51 @@
+{
+  "slug": "bishops-cuts-color-tempe",
+  "name": "Bishops Cuts/Color Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Barber shop"
+  ],
+  "address": "1015 S Rural Rd #102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4174886,
+  "lng": -111.9259455,
+  "phone": "+14808784243",
+  "website": "https://bishops.co/locations/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bishops+Cuts%2FColor+Tempe/data=!4m7!3m6!1s0x872b08e87b0d3713:0xfff702b89ca45a64!8m2!3d33.4174886!4d-111.9259455!16s%2Fg%2F11df81sq9l!19sChIJEzcNe-gIK4cRZFqknLgC9_8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18444213790844410468",
+  "placeId": "ChIJEzcNe-gIK4cRZFqknLgC9_8",
+  "googleRating": 4.8,
+  "googleReviewCount": 2020,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdksr0qghu-JW2yQK0XFh2IJ9CtRUNsEMW1qffsfw_YQqdbTNdLNgqzMKSTuK0fv5yLOhI6W_aNNUQ5RfGazjP30HLez9cPo_DrydX9NP1XLs-xKANXbCY3rGmMZqyKEgF-JbuuvKlJbh8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 79,
+    "2": 20,
+    "3": 17,
+    "4": 52,
+    "5": 1852
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

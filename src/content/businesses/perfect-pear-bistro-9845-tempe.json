@@ -1,0 +1,54 @@
+{
+  "slug": "perfect-pear-bistro-9845-tempe",
+  "name": "Perfect Pear Bistro",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Pasta shop",
+    "Salad shop",
+    "Sandwich shop",
+    "Wine bar"
+  ],
+  "address": "9845 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3216004,
+  "lng": -111.9626,
+  "phone": "+14802473410",
+  "website": "http://www.perfectpearbistro.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Perfect+Pear+Bistro/data=!4m7!3m6!1s0x872b04249460d06d:0xb6230100d76fd7e1!8m2!3d33.3216004!4d-111.9626!16s%2Fg%2F11b64sqfcn!19sChIJbdBglCQEK4cR4ddv1wABI7Y?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13124334842213816289",
+  "placeId": "ChIJbdBglCQEK4cR4ddv1wABI7Y",
+  "googleRating": 4.6,
+  "googleReviewCount": 2149,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLenf6VejWFjNJiP_FffFAYoOj3LdadbCmztDjTE1zTCveK7Ofpi1DgbVF5qMAe0S6qbny40fa69fITalwnRUBb4BySSBwDALqqKZ8ThEIAupt1D3GNv3Q0kjth-84ZbE_Tsw5cX_w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 35,
+    "2": 29,
+    "3": 102,
+    "4": 376,
+    "5": 1607
+  },
+  "hours": {
+    "mon": "10:30 AM - 8:00 PM",
+    "tue": "10:30 AM - 9:00 PM",
+    "wed": "10:30 AM - 9:00 PM",
+    "thu": "10:30 AM - 9:00 PM",
+    "fri": "10:30 AM - 9:00 PM",
+    "sat": "10:30 AM - 9:00 PM",
+    "sun": "10:30 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "claradeans-boutique-tempe",
+  "name": "Claradean's Boutique",
+  "category": "Shopping",
+  "googleCategory": "Boutique",
+  "address": "2049 E Dunbar Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3799619,
+  "lng": -111.8987149,
+  "phone": "+14806503189",
+  "googleMapsUrl": "https://www.google.com/maps/place/Claradean%27s+Boutique/data=!4m7!3m6!1s0x872b07c1900df82d:0x4ab64ba31802bd79!8m2!3d33.3799619!4d-111.8987149!16s%2Fg%2F11y6krz4rw!19sChIJLfgNkMEHK4cReb0CGKNLtko?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5383573568422591865",
+  "placeId": "ChIJLfgNkMEHK4cReb0CGKNLtko",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r9vdlTtyoaqJKe2GpBnDUw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=171.0897&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

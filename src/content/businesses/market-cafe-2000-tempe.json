@@ -1,0 +1,56 @@
+{
+  "slug": "market-cafe-2000-tempe",
+  "name": "Market Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Breakfast restaurant",
+  "secondaryCategories": [
+    "American restaurant",
+    "Brunch restaurant",
+    "Cafe",
+    "Coffee shop",
+    "Lunch restaurant"
+  ],
+  "address": "2000 W Westcourt Way",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4032607,
+  "lng": -111.9711743,
+  "phone": "+16022259000",
+  "website": "https://www.marriott.com/en-us/hotels/phxtm-marriott-phoenix-resort-tempe-at-the-buttes/dining/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Market+Cafe/data=!4m7!3m6!1s0x872b0f38dd097877:0x2d76b271a6f94a9d!8m2!3d33.4032607!4d-111.9711743!16s%2Fg%2F1v5_9x8y!19sChIJd3gJ3TgPK4cRnUr5pnGydi0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3276001980161018525",
+  "placeId": "ChIJd3gJ3TgPK4cRnUr5pnGydi0",
+  "googleRating": 4.6,
+  "googleReviewCount": 247,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBR68wiA8VktFKoDI3gPA7JwxjnqU9HNN71DTRlawdhpGpaMW412IkQtz4wbu22M7fmHnAVD2W2-Ldjb_CepgSnwXh2TY58qECbonFjxtn3WOD0hqdElTKqTG-GXPSRgyQmWTG=w1200-h800-k-no",
+  "description": "Cafe in a Marriott Hotel offering American fare & a weekend Bloody Mary bar, plus scenic views.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 2,
+    "3": 14,
+    "4": 51,
+    "5": 175
+  },
+  "hours": {
+    "mon": "6:30 AM - 2:00 PM",
+    "tue": "6:30 AM - 2:00 PM",
+    "wed": "6:30 AM - 2:00 PM",
+    "thu": "6:30 AM - 2:00 PM",
+    "fri": "6:30 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

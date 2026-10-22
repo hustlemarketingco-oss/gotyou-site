@@ -1,0 +1,45 @@
+{
+  "slug": "man-vs-fries-tempe",
+  "name": "Man vs Fries",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "address": "830 W Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4078024,
+  "lng": -111.9517248,
+  "phone": "+18884167964",
+  "website": "https://www.manvsfries.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Man+vs+Fries/data=!4m7!3m6!1s0x872b096c2c86b4ed:0xe5bee8c079631a6e!8m2!3d33.4078024!4d-111.9517248!16s%2Fg%2F11ln3lg5z2!19sChIJ7bSGLGwJK4cRbhpjecDovuU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16554925193628424814",
+  "placeId": "ChIJ7bSGLGwJK4cRbhpjecDovuU",
+  "googleRating": 4.2,
+  "googleReviewCount": 24,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-98nsjiRb-iX75jAYabsOBTJZMu66ggSFFgdp6MvicXWjor0lrrnAENn86legeS-O_QIWNlkrl86TXx6yra0c-h_WbLR0pCku9kdJg_yR-Z8m7nZvGGz3FkCW5TOOtE8KESe1-w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 1,
+    "4": 1,
+    "5": 18
+  },
+  "hours": {
+    "mon": "5:00 PM - 10:00 PM",
+    "tue": "5:00 PM - 10:00 PM",
+    "wed": "5:00 PM - 10:00 PM",
+    "thu": "5:00 PM - 10:00 PM",
+    "fri": "5:00 PM - 10:00 PM",
+    "sat": "5:00 PM - 10:00 PM",
+    "sun": "5:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

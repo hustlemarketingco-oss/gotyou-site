@@ -1,0 +1,46 @@
+{
+  "slug": "just-sports-2000-tempe",
+  "name": "Just Sports",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "address": "2000 E Rio Salado Pkwy #1139",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4338299,
+  "lng": -111.9022925,
+  "phone": "+14809677222",
+  "website": "http://shopjustsports.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Just+Sports/data=!4m7!3m6!1s0x872b09ab28f814d5:0x3bcc230021bb606a!8m2!3d33.4338299!4d-111.9022925!16s%2Fg%2F1tg_gj29!19sChIJ1RT4KKsJK4cRamC7IQAjzDs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4308857426959622250",
+  "placeId": "ChIJ1RT4KKsJK4cRamC7IQAjzDs",
+  "googleRating": 3.6,
+  "googleReviewCount": 67,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrXLyV3CfHP2LS9xIUe3G5rpXfJervuJ52j7n4IuUV1fHM8qQb__USBq0j5WH0S9fgYFWD5iMlnHYeA5C6kVJ7TXvzZb5sfSAFLaUu5wJ86u_QoFjRJ8cTtWmkjSjVEtu7QGkN=w1200-h800-k-no",
+  "description": "Retailer of licensed professional & college team gear ranging from jerseys to home accessories.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "3": 6,
+    "4": 16,
+    "5": 28
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

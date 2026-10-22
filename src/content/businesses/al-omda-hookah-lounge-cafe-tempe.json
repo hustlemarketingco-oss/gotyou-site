@@ -10,23 +10,18 @@
   "lat": 33.4078128,
   "lng": -111.9511817,
   "phone": "+14803745731",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16011430605647481425",
+  "googleMapsUrl": "https://www.google.com/maps/place/Al-Omda+Hookah+Lounge+%26+Cafe/data=!4m7!3m6!1s0x872b08cb5dfd4853:0xde34074dbb6f8a51!8m2!3d33.4078128!4d-111.9511817!16s%2Fg%2F1wfvn383!19sChIJU0j9XcsIK4cRUYpvu00HNN4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16011430605647481425",
   "placeId": "ChIJU0j9XcsIK4cRUYpvu00HNN4",
   "googleRating": 4.3,
-  "googleReviewCount": 157,
+  "googleReviewCount": 155,
   "priceRange": "$$",
   "description": "Lavishly draped, carpeted hookah lounge offering fruit bowls, snacks & nonalcoholic drinks.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -34,5 +29,14 @@
   "groundgameId": "6a243917a2c05c458670605e",
   "seededAt": "2026-06-06T15:13:27Z",
   "updatedAt": "2026-07-29T20:14:22Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 1,
+    "3": 7,
+    "4": 16,
+    "5": 111
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtMAbNPFAuiap8fmdf4P8uQzX2lwRLWSd7AC8gOJ_rpfuqKEOUhUd7ZLFHiok35w_9MW9YNX21X3L1D7rkIM77-TIc-idgv-RlDjvObho5bGkzuiYWX-CyQewzMx-gEf6iG4NY3Q=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -10,23 +10,18 @@
   "lat": 33.407046,
   "lng": -111.9547876,
   "phone": "+14803347567",
-  "googleMapsUrl": "https://www.google.com/maps?cid=14197693554043528551",
+  "googleMapsUrl": "https://www.google.com/maps/place/Palo+Verde+Lounge/data=!4m7!3m6!1s0x872b0f349f67ff3d:0xc5085710969e2567!8m2!3d33.407046!4d-111.9547876!16s%2Fg%2F1tgdp05b!19sChIJPf9nnzQPK4cRZyWelhBXCMU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14197693554043528551",
   "placeId": "ChIJPf9nnzQPK4cRZyWelhBXCMU",
   "googleRating": 4.4,
-  "googleReviewCount": 254,
+  "googleReviewCount": 256,
   "priceRange": "$10–20",
   "description": "Compact, no-nonsense watering hole featuring pool tables, live bands & a jukebox.",
   "amenities": [
-    "Outdoor seating",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Pets: Inside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "6:00 PM - 2:00 AM",
@@ -43,5 +38,14 @@
   "groundgameId": "6a243887bab50a71c5b05088",
   "seededAt": "2026-06-06T15:11:03Z",
   "updatedAt": "2026-06-06T15:11:03Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 7,
+    "3": 18,
+    "4": 32,
+    "5": 181
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfupssF6YZxFa4DYxk0RD_PxZyP6jJ7ihXu2DQGc6oiwxRvELlWAU9YJOl5MC6glwFdxiB_InPuGySPI1Uft2oLhfaoyKeefrqHa1oocz8tZnyjEkLVTIj3dTYHW1hm3Y4yYA43=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

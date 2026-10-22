@@ -1,0 +1,43 @@
+{
+  "slug": "bike-valet-tempe",
+  "name": "Bike Valet",
+  "category": "Local Business",
+  "googleCategory": "Bicycle rack",
+  "address": "466-470 E Tyler Mall",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4200097,
+  "lng": -111.9310548,
+  "website": "https://cfo.asu.edu/bike",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bike+Valet/data=!4m7!3m6!1s0x872b08ddabfaa3c9:0x52b5a31781593575!8m2!3d33.4200097!4d-111.9310548!16s%2Fg%2F11c2nly6fg!19sChIJyaP6q90IK4cRdTVZgRejtVI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5959849003244402037",
+  "placeId": "ChIJyaP6q90IK4cRdTVZgRejtVI",
+  "googleRating": 4,
+  "googleReviewCount": 5,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLei4vIKt6aQB8ualjF15MxtjI1fZXHzMTG4fLl087O6kB9vkF5VT_ZE3VzsRcJO_rqYCTSkd7ntD8NmHGEDGQkqlHUcpG1mmDptzAjFtOkJKBQ0Kok4H9n_7L_XgMIxjk1B5ChoeQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 3
+  },
+  "hours": {
+    "mon": "7:15 AM - 6:00 PM",
+    "tue": "7:15 AM - 6:00 PM",
+    "wed": "7:15 AM - 6:00 PM",
+    "thu": "7:15 AM - 6:00 PM",
+    "fri": "7:15 AM - 6:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

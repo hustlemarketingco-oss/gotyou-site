@@ -19,8 +19,8 @@
   "phone": "+14803036606",
   "website": "https://locations.einsteinbros.com/us/az/tempe/725-south-rural-road?y_source=1_OTA1MDA3NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
   "placeId": "ChIJsUwKoNwIK4cRvPrme4Kk2nU",
-  "googleRating": 4.3,
-  "googleReviewCount": 519,
+  "googleRating": 4.4,
+  "googleReviewCount": 599,
   "priceRange": "$",
   "hours": {
     "mon": "6:00 AM - 5:00 PM",
@@ -37,5 +37,21 @@
   "groundgameId": "6a2994bd52e91ab68af71bf4",
   "seededAt": "2026-06-10T16:45:49Z",
   "updatedAt": "2026-07-14T19:50:33Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8492280927691930300",
+  "googleMapsUrl": "https://www.google.com/maps/place/Einstein+Bros.+Bagels/data=!4m7!3m6!1s0x872b08dca00a4cb1:0x75daa4827be6fabc!8m2!3d33.4225027!4d-111.9258461!16s%2Fg%2F1thqb9r_!19sChIJsUwKoNwIK4cRvPrme4Kk2nU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 49,
+    "2": 22,
+    "3": 28,
+    "4": 57,
+    "5": 443
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-GwhqdW6B0Ixb448hfanfVqsgQ9Zs76gfw-EFnT3GqireRSyN0kZ0UYe0iKD-5DeZCjvw6eTXdH0ZrX3BQXAohTAAPmqh-k1awHkpxh8OggrfZ-lCT9HdQrxz55n-Japzrp8cLw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

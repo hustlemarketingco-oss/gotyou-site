@@ -13,13 +13,9 @@
   "phone": "+16026321542",
   "description": "United Escapes of America - Tempe is a escape room center & event venue in Tempe. A favorite among family-friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/escaperoomsmesa"
@@ -30,5 +26,31 @@
   "groundgameId": "6a24384dec353e8ef6f4f9b5",
   "seededAt": "2026-06-06T15:10:05Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ0T0SANgIK4cR6KsonVhtpQg",
+  "googleCid": "623024350821919720",
+  "googleMapsUrl": "https://www.google.com/maps/place/United+Escapes+of+America+-+Tempe/data=!4m7!3m6!1s0x872b08d800123dd1:0x8a56d589d28abe8!8m2!3d33.4260912!4d-111.9404632!16s%2Fg%2F11cmcd0sm3!19sChIJ0T0SANgIK4cR6KsonVhtpQg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 883,
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 8,
+    "3": 13,
+    "4": 57,
+    "5": 790
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4JRPEza5T71FWwFuhD1o7U0ypw2_O-BOyigL4NNTuERprTShfUmt_yRjTX-K-DXFZdbA1lzRxrSJe3zNDnKkLdmCRZTUSWESxEUxSJ51KYFjOwpO3ic9-AsSxPa39Gr1UptHUEg=w1200-h800-k-no",
+  "website": "https://tempe.unitedescapesofamerica.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.4260912,
+  "lng": -111.9404632,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

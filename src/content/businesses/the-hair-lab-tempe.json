@@ -1,0 +1,45 @@
+{
+  "slug": "the-hair-lab-tempe",
+  "name": "The Hair Lab",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Hairdresser"
+  ],
+  "address": "7720 S Priest Dr Ste 43",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348132,
+  "lng": -111.96532339999999,
+  "website": "https://thehairlabaz.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Hair+Lab/data=!4m7!3m6!1s0x872b0561a05fbc6f:0x9e9b7ba4f550cc26!8m2!3d33.348132!4d-111.9653234!16s%2Fg%2F11y_yjjpzv!19sChIJb7xfoGEFK4cRJsxQ9aR7m54?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11428864427803331622",
+  "placeId": "ChIJb7xfoGEFK4cRJsxQ9aR7m54",
+  "googleRating": 5,
+  "googleReviewCount": 8,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtqrPxZHxc5vpVq6TVEQWOWkcmh902H7dADeDTyw8SSyHTnU0Amt64FjRMETKxE124hBzx23hhLy6c0iBEwXhc3CYACClvHJIreVb3xBcj8P4h3r0T81MH2ZdK2Imi1gLReXd0hAHVjF4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 8
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:30 PM - 7:00 PM",
+    "wed": "Closed",
+    "thu": "12:30 PM - 7:00 PM",
+    "fri": "10:30 AM - 4:30 PM",
+    "sat": "9:30 AM - 3:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "legacy-co-tempe",
+  "name": "Legacy&co",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "address": "950 S Terrace Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.418921399999995,
+  "lng": -111.92290159999999,
+  "phone": "+14809976408",
+  "googleMapsUrl": "https://www.google.com/maps/place/Legacy%26co/data=!4m7!3m6!1s0x872b09c240c20fd3:0x1d2ad7452261c8f7!8m2!3d33.4189214!4d-111.9229016!16s%2Fg%2F11zxgzmjgb!19sChIJ0w_CQMIJK4cR98hhIkXXKh0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2101728868051306743",
+  "placeId": "ChIJ0w_CQMIJK4cR98hhIkXXKh0",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesmXyMSa4PdRbCtr8qpYE8NmJZxKCA1sP6hsdO68O0ldSi0irORtYzyawlbUGbK0vnpt1go_jOQJA6lhMQbsF-Os3ejpXdceRurfwfsMjJju5aq2v8oNpS79j6fceuK9QibBXQ_1zJXzvB=w1200-h800-k-no",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

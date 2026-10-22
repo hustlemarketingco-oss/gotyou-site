@@ -1,0 +1,45 @@
+{
+  "slug": "el-jefe-breakfast-burritos-tempe",
+  "name": "El Jefe breakfast burritos",
+  "category": "Restaurant",
+  "googleCategory": "Burrito restaurant",
+  "address": "2155 E University Dr Unit 116",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4211908,
+  "lng": -111.8923592,
+  "phone": "+14804317224",
+  "website": "https://www.jefebreakfast.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/El+Jefe+breakfast+burritos/data=!4m7!3m6!1s0x872b095bd25880eb:0x2cf0811207d8a1c9!8m2!3d33.4211908!4d-111.8923592!16s%2Fg%2F11ycmhh330!19sChIJ64BY0lsJK4cRyaHYBxKB8Cw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3238230046520418761",
+  "placeId": "ChIJ64BY0lsJK4cRyaHYBxKB8Cw",
+  "googleRating": 2.8,
+  "googleReviewCount": 16,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRovf8grariVGpff1i2DKCWjNi9xeklLlrgiXeNAryeWm20CuC0428wJ1hUymcChjPoroyLu16zQXSSMraLVkZJzy5M-YkVoJeTHbsIYCK5UYC4B4FY6Hd_wXdu037mI649aFn-jOGzSRh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 1,
+    "4": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "7:00 AM - 1:00 AM",
+    "tue": "7:00 AM - 1:00 AM",
+    "wed": "7:00 AM - 1:00 AM",
+    "thu": "7:00 AM - 1:00 AM",
+    "fri": "7:00 AM - 2:30 AM",
+    "sat": "7:00 AM - 2:30 AM",
+    "sun": "7:00 AM - 1:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

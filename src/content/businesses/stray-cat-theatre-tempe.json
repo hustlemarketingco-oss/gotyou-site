@@ -1,0 +1,35 @@
+{
+  "slug": "stray-cat-theatre-tempe",
+  "name": "Stray Cat Theatre",
+  "category": "Fun & Activities",
+  "googleCategory": "Performing arts theater",
+  "address": "700 W Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4315689,
+  "lng": -111.9487376,
+  "phone": "+14802271766",
+  "website": "http://straycattheatre.org/locations",
+  "googleMapsUrl": "https://www.google.com/maps/place/Stray+Cat+Theatre/data=!4m7!3m6!1s0x872b1201fcd70f0d:0x2893d7c19ed3720c!8m2!3d33.4315689!4d-111.9487376!16s%2Fg%2F11c58p6ckq!19sChIJDQ_X_AESK4cRDHLTnsHXkyg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2923917809686901260",
+  "placeId": "ChIJDQ_X_AESK4cRDHLTnsHXkyg",
+  "googleRating": 4.3,
+  "googleReviewCount": 18,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wMXzWwUiuwh7Tgw00yDWXA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=3.8075213&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "5": 15
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

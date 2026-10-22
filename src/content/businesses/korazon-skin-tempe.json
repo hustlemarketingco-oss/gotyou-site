@@ -1,0 +1,42 @@
+{
+  "slug": "korazon-skin-tempe",
+  "name": "Korazon Skin",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "address": "930 W Broadway Rd Unit 15",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.407835999999996,
+  "lng": -111.9539097,
+  "phone": "+16237073313",
+  "website": "http://korazonskin.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Korazon+Skin/data=!4m7!3m6!1s0x872b0fa967dc0457:0x891a96e75fafb0e3!8m2!3d33.407836!4d-111.9539097!16s%2Fg%2F11w8kk1lbv!19sChIJVwTcZ6kPK4cR47CvX-eWGok?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9879374653077565667",
+  "placeId": "ChIJVwTcZ6kPK4cR47CvX-eWGok",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5gNGU651x5lsivVDThIen16pPm_7ScD8NdCfkT0WtcbSA79tW-LhQzNzV3fLNlLNtK2A4IPBTVWjng_CQJgQhoqFhRUhqx2TGcO-wwHsQ9WDIshwCPinAWRrBpJaufwH_BvdUHA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "5:00 PM - 7:00 PM",
+    "thu": "Closed",
+    "fri": "1:30 PM - 6:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "1:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

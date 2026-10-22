@@ -1,0 +1,58 @@
+{
+  "slug": "ikea-tempe",
+  "name": "IKEA",
+  "category": "Shopping",
+  "googleCategory": "Furniture store",
+  "secondaryCategories": [
+    "Appliance store",
+    "Bedroom furniture store",
+    "Kitchen furniture store",
+    "Kitchen remodeler",
+    "Kitchen supply store",
+    "Lighting store",
+    "Office furniture store",
+    "Outdoor furniture store"
+  ],
+  "address": "2110 W Ikea Way",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3406452,
+  "lng": -111.9701824,
+  "phone": "+18888884532",
+  "website": "https://www.ikea.com/us/en/stores/tempe/?utm_source=google&utm_medium=organic&utm_campaign=map&utm_content=tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/IKEA/data=!4m7!3m6!1s0x872b05c954c560a7:0xd8d66df02a709da2!8m2!3d33.3406452!4d-111.9701824!16s%2Fg%2F1tdl20bl!19sChIJp2DFVMkFK4cRop1wKvBt1tg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15624796835480116642",
+  "placeId": "ChIJp2DFVMkFK4cRop1wKvBt1tg",
+  "googleRating": 4.3,
+  "googleReviewCount": 16398,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDOExnsccI5aX6wwx_qLc3hELPfZsN0o9yIKUNHdqssZXcnJ3gU8NsJ4lOkOFeffuQ1wgfVDKRAw2Mi_JuwOWO1OyHzq2E04rPrfxAXae109P8K9fQ1S9XFp0tTWBU_Z1vwaJ--oBLKEs=w1200-h800-k-no",
+  "description": "Scandinavian chain selling ready-to-assemble furniture, plus textiles, lighting & home decor.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 892,
+    "2": 449,
+    "3": 1147,
+    "4": 3673,
+    "5": 10237
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

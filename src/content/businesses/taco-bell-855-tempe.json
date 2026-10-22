@@ -1,0 +1,52 @@
+{
+  "slug": "taco-bell-855-tempe",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Restaurant",
+    "Tex-Mex restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "855 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777815,
+  "lng": -111.9520948,
+  "phone": "+14808312330",
+  "website": "https://locations.tacobell.com/az/tempe/855-w--baseline.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=037574&utm_content=website&y_source=1_MTExMzQxNTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x872b077d99b59883:0xe4992acac69d9eae!8m2!3d33.3777815!4d-111.9520948!16s%2Fg%2F11gjq211mg!19sChIJg5i1mX0HK4cRrp6dxsoqmeQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16472244162488278702",
+  "placeId": "ChIJg5i1mX0HK4cRrp6dxsoqmeQ",
+  "googleRating": 3.7,
+  "googleReviewCount": 1145,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXEfY0RWZrtz3htwrdToYhQGEN3ky2xbSMzXqa-7FKSGJsT0EQJ1uUNRRRm_F8Qw_NeKyTB1bxNRXUlPy1zhN560bC4kQwAAQCqQUXng-Q5SLo9Yo9-vq6Leb5fH86qMAEb0Gc6g=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "ratingBreakdown": {
+    "1": 155,
+    "2": 94,
+    "3": 189,
+    "4": 221,
+    "5": 486
+  },
+  "hours": {
+    "mon": "8:00 AM - 3:00 AM",
+    "tue": "8:00 AM - 3:00 AM",
+    "wed": "8:00 AM - 3:00 AM",
+    "thu": "8:00 AM - 3:00 AM",
+    "fri": "8:00 AM - 4:00 AM",
+    "sat": "8:00 AM - 4:00 AM",
+    "sun": "8:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

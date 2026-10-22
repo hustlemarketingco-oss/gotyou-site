@@ -1,0 +1,45 @@
+{
+  "slug": "affordable-framing-tempe",
+  "name": "Affordable Framing",
+  "category": "Shopping",
+  "googleCategory": "Picture frame shop",
+  "address": "3306 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3922831,
+  "lng": -111.91106819999999,
+  "phone": "+14806560226",
+  "website": "http://affordableframingaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Affordable+Framing/data=!4m7!3m6!1s0x872b088173e1f6df:0xe84f159de308f9ff!8m2!3d33.3922831!4d-111.9110682!16s%2Fg%2F11c4324ssx!19sChIJ3_bhc4EIK4cR__kI450VT-g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16739622107822488063",
+  "placeId": "ChIJ3_bhc4EIK4cR__kI450VT-g",
+  "googleRating": 4.9,
+  "googleReviewCount": 181,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV3URWjP-K3tsG-2FgomvNhxOSOoK2Y9B9oqXEhb-NMuz8764zYmUfa5IBP-Soj4petpBnqRirYh5UqZcd05fD7dhk9EqOLJYcX_lPtDLMT6sAcu1Vj_la416632XKUshozyidHWMY5UEY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 2,
+    "4": 4,
+    "5": 171
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

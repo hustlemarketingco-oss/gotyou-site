@@ -1,0 +1,48 @@
+{
+  "slug": "bar-capri-tempe",
+  "name": "Bar Capri",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1730 E Warner Rd #10",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3353667,
+  "lng": -111.91168979999999,
+  "phone": "+16029606002",
+  "website": "https://www.bar-capri.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+Capri/data=!4m7!3m6!1s0x872b07e13f0fa05f:0x585174c5d7a61c9c!8m2!3d33.3353667!4d-111.9116898!16s%2Fg%2F11m6445kcs!19sChIJX6APP-EHK4cRnBym18V0UVg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6363996141526588572",
+  "placeId": "ChIJX6APP-EHK4cRnBym18V0UVg",
+  "googleRating": 4.6,
+  "googleReviewCount": 85,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1CkgO3fmBCSRe9q6zoLzvUf_IW5UcPuT24Wb4-mGV_ChI2WYjxDbqb24ojXGc3hsyH018nueR141-W2hiCbT9NqXj19bdkEHNLsGPOUU0cMPsyrBpJhs16db7N_n_pfH63MdbbpMhAGU=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 2,
+    "3": 7,
+    "4": 4,
+    "5": 70
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "4:00 PM - 10:00 PM",
+    "wed": "4:00 PM - 10:00 PM",
+    "thu": "4:00 PM - 10:00 PM",
+    "fri": "4:00 PM - 10:00 PM",
+    "sat": "4:00 PM - 10:00 PM",
+    "sun": "4:00 PM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

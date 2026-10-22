@@ -1,0 +1,55 @@
+{
+  "slug": "rigatonys-authentic-italian-restaurant-tempe",
+  "name": "RigaTony's Authentic Italian Restaurant",
+  "category": "Restaurant",
+  "googleCategory": "Italian restaurant",
+  "secondaryCategories": [
+    "Family restaurant",
+    "Lunch restaurant",
+    "Restaurant",
+    "Seafood restaurant"
+  ],
+  "address": "1850 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.335053,
+  "lng": -111.908374,
+  "phone": "+14808991111",
+  "website": "http://rigatonys.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/RigaTony%27s+Authentic+Italian+Restaurant/data=!4m7!3m6!1s0x872b06e3468f50d7:0xa18faa8c11d22612!8m2!3d33.335053!4d-111.908374!16s%2Fg%2F1hc1gxzcq!19sChIJ11CPRuMGK4cREibSEYyqj6E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11641711080347149842",
+  "placeId": "ChIJ11CPRuMGK4cREibSEYyqj6E",
+  "googleRating": 4.6,
+  "googleReviewCount": 5688,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchIWe0tJWFJSQl2NejUeIzZht-B30ryQZ34815_HaxeYVjZC46gIavl2Kuzy-EXvQ_eKYQrWe8RuIMgfQLDSqcO9LxlqOzgTm8XBs34UzV_opyXsQ0SBWUN7N07_APj-_QJbpE7TZKkdFG=w1200-h800-k-no",
+  "description": "Family-friendly Italian restaurant with throwback decor & a menu featuring homestyle Italian faves.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 121,
+    "2": 105,
+    "3": 311,
+    "4": 884,
+    "5": 4267
+  },
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

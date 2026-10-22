@@ -1,0 +1,42 @@
+{
+  "slug": "eternal-kiss-glambar-tempe",
+  "name": "Eternal Kiss GlamBar",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "610 W Broadway Rd #118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4076801,
+  "lng": -111.9483087,
+  "phone": "+16024007899",
+  "website": "https://www.eternalkissglam.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eternal+Kiss+GlamBar/data=!4m7!3m6!1s0xa0be06d3163a4abf:0x92163e544130db54!8m2!3d33.4076801!4d-111.9483087!16s%2Fg%2F11w7hk3s2_!19sChIJv0o6FtMGvqARVNswQVQ-FpI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10526669710617008980",
+  "placeId": "ChIJv0o6FtMGvqARVNswQVQ-FpI",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TgrTZhVKjVeZ4KIid8Y_LA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=49.12512&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "5:00 PM - 12:00 AM",
+    "tue": "12:00 AM - 9:00 AM, 5:00 PM - 9:00 PM",
+    "wed": "5:00 PM - 9:00 PM",
+    "thu": "5:00 PM - 9:00 PM",
+    "fri": "5:00 PM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

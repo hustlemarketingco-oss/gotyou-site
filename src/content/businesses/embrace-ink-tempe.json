@@ -1,0 +1,42 @@
+{
+  "slug": "embrace-ink-tempe",
+  "name": "Embrace Ink",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo and piercing shop",
+  "address": "600 W 1st St #1024",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4292657,
+  "lng": -111.9476011,
+  "phone": "+17864579291",
+  "website": "https://embraceink.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Embrace+Ink/data=!4m7!3m6!1s0x872b09e403aeaf1b:0xd3789a2f678e6526!8m2!3d33.4292657!4d-111.9476011!16s%2Fg%2F11w8hdtwqb!19sChIJG6-uA-QJK4cRJmWOZy-aeNM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15238098867599598886",
+  "placeId": "ChIJG6-uA-QJK4cRJmWOZy-aeNM",
+  "googleRating": 5,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hK9WtTtG6nnlE13kLX5elw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=359.4622&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 5
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "2:00 PM - 12:00 AM",
+    "thu": "12:00 AM - 11:00 AM, 2:00 PM - 11:00 PM",
+    "fri": "2:00 PM - 1:00 AM",
+    "sat": "2:00 PM - 1:00 AM",
+    "sun": "2:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "chipotle-mexican-grill-1038-tempe",
+  "name": "Chipotle Mexican Grill",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ],
+  "address": "1038 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4179813,
+  "lng": -111.9404017,
+  "phone": "+14802738800",
+  "website": "https://locations.chipotle.com/az/tempe/1038-s-mill-ave?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=1208",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chipotle+Mexican+Grill/data=!4m7!3m6!1s0x872b08d080073ac9:0xe9661c65dae71301!8m2!3d33.4179813!4d-111.9404017!16s%2Fg%2F1tjwj6b_!19sChIJyToHgNAIK4cRARPn2mUcZuk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16818161082251547393",
+  "placeId": "ChIJyToHgNAIK4cRARPn2mUcZuk",
+  "googleRating": 4.1,
+  "googleReviewCount": 1778,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGPh5nEe-NMCt8P1JV26IIji2D_MwjO52RatxHVBNWRJNjjR3_a2Mj0OsszJPdA_1_LseIp2HKwBts--5PAF--EwPbjq9AOHsw8Wi7JnQJulFn-E22414KtjR4lPiZySDHO0uUgz14xEDb=w1200-h800-k-no",
+  "description": "Casual restaurant offering Mexican fare, including design-your-own burritos, tacos & bowls.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 183,
+    "2": 75,
+    "3": 145,
+    "4": 421,
+    "5": 954
+  },
+  "hours": {
+    "mon": "10:45 AM - 11:00 PM",
+    "tue": "10:45 AM - 11:00 PM",
+    "wed": "10:45 AM - 11:00 PM",
+    "thu": "10:45 AM - 11:00 PM",
+    "fri": "10:45 AM - 11:00 PM",
+    "sat": "10:45 AM - 11:00 PM",
+    "sun": "10:45 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

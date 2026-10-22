@@ -17,19 +17,9 @@
   "priceRange": "$1–10",
   "description": "Located in Tempe, Einstein Bros. Bagels is a bagel shop & bakery with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/einsteinbros"
@@ -40,5 +30,31 @@
   "groundgameId": "6a2439be93b945fe820fb5f0",
   "seededAt": "2026-06-06T15:16:14Z",
   "updatedAt": "2026-06-12T22:06:08Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ7WbMUZUGK4cRdTJbo1ruDeQ",
+  "googleCid": "16433052688399938165",
+  "googleMapsUrl": "https://www.google.com/maps/place/Einstein+Bros.+Bagels/data=!4m7!3m6!1s0x872b069551cc66ed:0xe40dee5aa35b3275!8m2!3d33.3221307!4d-111.9288035!16s%2Fg%2F1ts1n2p4!19sChIJ7WbMUZUGK4cRdTJbo1ruDeQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 317,
+  "ratingBreakdown": {
+    "1": 38,
+    "2": 21,
+    "3": 17,
+    "4": 51,
+    "5": 190
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQP8gE82S7WhF5b-F5rRGJRF3-Eo-oU1B8wjDi0h7fkUaDVGs7e6EustaeTKzXNcVnhxxw6C-XWSwFaj9E_6lvKgYloiLYKOsMW6vP9GJsvxu40dO4EJ5Pccl2MhD7l0nw3GukbzzKUiE=w1200-h800-k-no",
+  "website": "https://locations.einsteinbros.com/us/az/tempe/9880-s-rural-rd?y_source=1_OTA1MDE2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "hours": {
+    "mon": "6:00 AM - 2:00 PM",
+    "tue": "6:00 AM - 2:00 PM",
+    "wed": "6:00 AM - 2:00 PM",
+    "thu": "6:00 AM - 2:00 PM",
+    "fri": "6:00 AM - 2:00 PM",
+    "sat": "6:00 AM - 2:00 PM",
+    "sun": "6:00 AM - 2:00 PM"
+  },
+  "lat": 33.322130699999995,
+  "lng": -111.9288035,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

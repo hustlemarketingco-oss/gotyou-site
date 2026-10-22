@@ -1,0 +1,38 @@
+{
+  "slug": "haircuts-by-giovanni-tempe",
+  "name": "Haircuts by Giovanni",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1200 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4222051,
+  "lng": -111.9569313,
+  "phone": "+16469530507",
+  "googleMapsUrl": "https://www.google.com/maps/place/Haircuts+by+Giovanni/data=!4m7!3m6!1s0x872b0f20b49fec39:0x16e5e0122421a26e!8m2!3d33.4222051!4d-111.9569313!16s%2Fg%2F11z1xx5rqj!19sChIJOeyftCAPK4cRbqIhJBLg5RY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1649971207021372014",
+  "placeId": "ChIJOeyftCAPK4cRbqIhJBLg5RY",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AV2TmJ2XF6aI3afdyLVGZw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=354.9959&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

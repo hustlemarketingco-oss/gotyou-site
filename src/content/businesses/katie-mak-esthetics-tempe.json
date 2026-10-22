@@ -1,0 +1,41 @@
+{
+  "slug": "katie-mak-esthetics-tempe",
+  "name": "Katie Mak Esthetics",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2323 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4116043,
+  "lng": -111.8893738,
+  "phone": "+14806285564",
+  "website": "https://katiemakesthetics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Katie+Mak+Esthetics/data=!4m7!3m6!1s0x872b0929f55924af:0x72fee89f0969981e!8m2!3d33.4116043!4d-111.8893738!16s%2Fg%2F11yjcnwx_g!19sChIJryRZ9SkJK4cRHphpCZ_o_nI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8286316134163650590",
+  "placeId": "ChIJryRZ9SkJK4cRHphpCZ_o_nI",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 4:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 4:00 PM",
+    "fri": "9:00 AM - 12:00 PM",
+    "sat": "9:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

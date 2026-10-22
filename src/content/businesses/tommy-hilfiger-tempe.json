@@ -1,0 +1,47 @@
+{
+  "slug": "tommy-hilfiger-tempe",
+  "name": "Tommy Hilfiger",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "5000 S Arizona Mills Cir Ste 332",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3818243,
+  "lng": -111.9644119,
+  "phone": "+14807751843",
+  "website": "https://stores.tommy.com/az/tempe/45/?utm_source=gmb&utm_medium=organic&utm_campaign=local",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tommy+Hilfiger/data=!4m7!3m6!1s0x872b0f59e1444903:0xcf45862b85c4d3f0!8m2!3d33.3818243!4d-111.9644119!16s%2Fg%2F1tpn30lx!19sChIJA0lE4VkPK4cR8NPEhSuGRc8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14935491260730102768",
+  "placeId": "ChIJA0lE4VkPK4cR8NPEhSuGRc8",
+  "googleRating": 4.3,
+  "googleReviewCount": 179,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchXLJb4CUiSsurUPdrfEJaB7k_IpCIhrNOnp7YNhC9YJZHPRewtPtMaIZ7UT5Hzkl9qfpqfVu0lH8pGJV8aRNOHgGEF72is_MhOlZyDJErtFFWZxC1bgV2H5DaI-_QHBBpVR3e=w1200-h800-k-no",
+  "description": "Chain featuring the designer's classic sportswear & accessories. Some stores carry childrenswear.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 11,
+    "2": 3,
+    "3": 16,
+    "4": 35,
+    "5": 114
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

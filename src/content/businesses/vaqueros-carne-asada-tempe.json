@@ -15,8 +15,8 @@
   "phone": "+16024546478",
   "website": "http://vaquerosinc.com/",
   "placeId": "ChIJH6mtB2oPK4cRdVcvrQ3rrKE",
-  "googleRating": 4.1,
-  "googleReviewCount": 1456,
+  "googleRating": 4,
+  "googleReviewCount": 1481,
   "priceRange": "$",
   "hours": {
     "mon": "5:00 AM - 2:00 AM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a2c1d0b1a001b81bc264f10",
   "seededAt": "2026-06-12T14:51:55Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "11649944780073293685",
+  "googleMapsUrl": "https://www.google.com/maps/place/Vaqueros+Carne+Asada/data=!4m7!3m6!1s0x872b0f6a07ada91f:0xa1aceb0dad2f5775!8m2!3d33.393145!4d-111.976234!16s%2Fg%2F1hc2tj5n1!19sChIJH6mtB2oPK4cRdVcvrQ3rrKE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 161,
+    "2": 63,
+    "3": 150,
+    "4": 275,
+    "5": 832
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJzjFH_RBRM_865K1Cece8jJAeiVuL5VpjDlHAz3zBru8ElyPyt0-zlcdVMcbI885fL4jRHj1DrQVe-YSe6gL5QmAjWEXStPx6a5p8caZaP8lzQo-0XGq16C924LXQlsyPkH4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

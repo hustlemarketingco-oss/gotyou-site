@@ -23,7 +23,7 @@
   "website": "https://locations.dunkindonuts.com/en/az/tempe/6375-s-kyrene-rd/362813&y_source=1_MzU4NDAxMTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJ2zZt7v4HK4cR9MiK-kW_WBA",
   "googleRating": 3.4,
-  "googleReviewCount": 200,
+  "googleReviewCount": 210,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 8:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3ed9a4ecbc67d5642950b3",
   "seededAt": "2026-06-26T19:57:24Z",
   "updatedAt": "2026-06-26T19:57:25Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1177901609834432756",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x872b07feee6d36db:0x1058bf45fa8ac8f4!8m2!3d33.3640268!4d-111.945216!16s%2Fg%2F11pyktjrgq!19sChIJ2zZt7v4HK4cR9MiK-kW_WBA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 62,
+    "2": 15,
+    "3": 13,
+    "4": 24,
+    "5": 96
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiBk2FsynBmECPYbjm1yYhPVMM7jPW_vubOMWnz_LgJsDJ09t7AsLKsk54eNNI6iNTFywJJEmynksBa68_hIhScb1NqEzxBmzqrNl1aBU-awIBq3zApm4sDdQCNY8hsUZZJ3zCtA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

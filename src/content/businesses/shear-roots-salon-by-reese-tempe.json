@@ -1,0 +1,52 @@
+{
+  "slug": "shear-roots-salon-by-reese-tempe",
+  "name": "Shear Roots Salon by Reese",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Beauty salon",
+    "Make-up artist",
+    "Hairdresser",
+    "Waxing hair removal service"
+  ],
+  "address": "6601 S Rural Rd #21",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3610751,
+  "lng": -111.92826199999999,
+  "phone": "+14808554477",
+  "website": "http://www.shearrootsbyreese.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shear+Roots+Salon+by+Reese/data=!4m7!3m6!1s0x872b06fb4a8290d3:0x874aacb8db7f8624!8m2!3d33.3610751!4d-111.928262!16s%2Fg%2F11bw64ndx9!19sChIJ05CCSvsGK4cRJIZ_27isSoc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9748794253353387556",
+  "placeId": "ChIJ05CCSvsGK4cRJIZ_27isSoc",
+  "googleRating": 4.5,
+  "googleReviewCount": 43,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWX8tRKIvWQp3IeYMY4pG6ZN60UGwM8tSerNDfq8OkIDu5tsE_WBsUkuar4PwvtZx1jWtBOwQDc2--IaStPnGKSgooXX4QHJnB2jb7_NhZHX5hZdmpgugKalyrX270mRWg709j=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "3": 1,
+    "4": 1,
+    "5": 36
+  },
+  "hours": {
+    "mon": "9:00 AM - 6:00 PM",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "8:00 AM - 12:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

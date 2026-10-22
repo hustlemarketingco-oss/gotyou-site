@@ -1,0 +1,47 @@
+{
+  "slug": "hot-wok-chinese-food-tempe",
+  "name": "Hot Wok (Chinese Food)",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "address": "655 W Warner Rd Ste 117",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3329558,
+  "lng": -111.9479605,
+  "phone": "+14805929328",
+  "website": "https://www.hotwoktempe.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hot+Wok+%28Chinese+Food%29/data=!4m7!3m6!1s0x872b0750170111a5:0xfd2c252fdc525336!8m2!3d33.3329558!4d-111.9479605!16s%2Fg%2F11rgf1q5z_!19sChIJpREBF1AHK4cRNlNS3C8lLP0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18242997078061110070",
+  "placeId": "ChIJpREBF1AHK4cRNlNS3C8lLP0",
+  "googleRating": 3.7,
+  "googleReviewCount": 112,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeABlXoRILQag_xqrcZx5c_7maC8e0nL0B_BytVTkLxO7hdHhEd2lAj9eYjuVnY0ksiHRiTDmGmnbCJTHoLHgmXfUp1zNxg0StV10jCb84-2Y64vPt9LMGVbSBEQH03aY_47aI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 20,
+    "2": 11,
+    "3": 8,
+    "4": 12,
+    "5": 61
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:30 PM",
+    "tue": "11:00 AM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "4:00 PM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

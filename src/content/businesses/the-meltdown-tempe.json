@@ -1,0 +1,46 @@
+{
+  "slug": "the-meltdown-tempe",
+  "name": "The Meltdown",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "address": "1994 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.378758,
+  "lng": -111.96897299999999,
+  "phone": "+16024311818",
+  "website": "https://themeltdown.com/?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Meltdown/data=!4m7!3m6!1s0x872b0f3b5a59c005:0xd0a2e1ab742d629c!8m2!3d33.378758!4d-111.968973!16s%2Fg%2F11m6fyjxf3!19sChIJBcBZWjsPK4cRnGItdKvhotA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15033826632620925596",
+  "placeId": "ChIJBcBZWjsPK4cRnGItdKvhotA",
+  "googleRating": 2.6,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0vJi25_L9niN0El6ofltJcS09bJWwtlekNBgCCYYUK-thYDwPyaAMQpd8wJNeOwnUGXeXa1yrC-g03V3kb7JqajvwAUhZ_kcQ7V04TckpejlhpQJVm33-9Lsb5-PfE-WZtG72muQ2CyEN4MhoREzTCRH8JYbVgMGceW4X1PgvW2aYJ-kABjqM=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "4": 1,
+    "5": 2
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

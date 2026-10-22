@@ -2,7 +2,7 @@
   "slug": "drink-me-tea-room-tempe",
   "name": "Drink Me! Tea Room",
   "category": "Coffee & Cafe",
-  "googleCategory": "Tea house",
+  "googleCategory": "Cafe",
   "secondaryCategories": [
     "Gluten-free restaurant",
     "Tea store",
@@ -16,27 +16,18 @@
   "lng": -111.911971,
   "phone": "+16022065469",
   "website": "http://www.drinkmetearoom.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=3153515406698936888",
+  "googleMapsUrl": "https://www.google.com/maps/place/Drink+Me!+Tea+Room/data=!4m7!3m6!1s0x872b076fdc60a505:0x2bc3898dea02fa38!8m2!3d33.3353532!4d-111.911971!16s%2Fg%2F11j8skrqpx!19sChIJBaVg3G8HK4cROPoC6o2Jwys?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "3153515406698936888",
   "placeId": "ChIJBaVg3G8HK4cROPoC6o2Jwys",
-  "googleRating": 4.5,
-  "googleReviewCount": 356,
+  "googleRating": 4.6,
+  "googleReviewCount": 369,
   "priceRange": "$",
   "description": "Teas & tea cocktails are served with scones, sandwiches & sweets at this imaginative venue.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 5:00 PM",
@@ -53,5 +44,14 @@
   "groundgameId": "6a2437b8bed916a8732c843d",
   "seededAt": "2026-06-06T15:07:36Z",
   "updatedAt": "2026-06-06T15:07:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 12,
+    "2": 17,
+    "3": 18,
+    "4": 26,
+    "5": 296
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4Dna5V6KgueqLDIuBeR-VzOc-QXU0WMZ_mHhOuj2fkYlQ7pINkf6iu8UZzuVPuF-WrfLY9xxBR2hJJmTbKEbv3v7J1C44j0kF1f0wZwNX9ITjpRafLA1Ili3aJyWa0t8C0oNR=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

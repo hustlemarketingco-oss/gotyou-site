@@ -1,0 +1,37 @@
+{
+  "slug": "caya-coffee-tempe",
+  "name": "Caya Coffee",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee stand",
+  "address": "230 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4222016,
+  "lng": -111.93528939999999,
+  "phone": "+16197465749",
+  "website": "https://www.instagram.com/cayacoffeephx/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Caya+Coffee/data=!4m7!3m6!1s0x872b090e956c8e29:0x8591701f63499f30!8m2!3d33.4222016!4d-111.9352894!16s%2Fg%2F11mzz42t8p!19sChIJKY5slQ4JK4cRMJ9JYx9wkYU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9624597158779526960",
+  "placeId": "ChIJKY5slQ4JK4cRMJ9JYx9wkYU",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oJ1KR55kYNV2jP95rmm8gQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=355.8077&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 3:00 PM",
+    "tue": "9:00 AM - 3:00 PM",
+    "wed": "9:00 AM - 3:00 PM",
+    "thu": "9:00 AM - 3:00 PM",
+    "fri": "9:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

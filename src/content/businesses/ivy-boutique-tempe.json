@@ -1,0 +1,32 @@
+{
+  "slug": "ivy-boutique-tempe",
+  "name": "Ivy Boutique",
+  "category": "Shopping",
+  "googleCategory": "Boutique",
+  "secondaryCategories": [
+    "Used clothing store"
+  ],
+  "address": "1840 E Warner Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3357672,
+  "lng": -111.908799,
+  "phone": "+14808971200",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ivy+Boutique/data=!4m7!3m6!1s0x872b06e329416789:0xcdb34dbdcc8f85e0!8m2!3d33.3357672!4d-111.908799!16s%2Fg%2F1thl19tj!19sChIJiWdBKeMGK4cR4IWPzL1Ns80?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14822276276182549984",
+  "placeId": "ChIJiWdBKeMGK4cR4IWPzL1Ns80",
+  "googleRating": 1,
+  "googleReviewCount": 1,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GkjwYRdGwK8Xv3LzinuvQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=357.48642&pitch=0&thumbfov=100",
+  "description": "Stylish consignment boutique selling women's clothes & accessories from high-end designers.",
+  "ratingBreakdown": {
+    "1": 1
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

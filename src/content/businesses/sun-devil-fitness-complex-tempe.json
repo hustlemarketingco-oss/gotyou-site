@@ -1,0 +1,51 @@
+{
+  "slug": "sun-devil-fitness-complex-tempe",
+  "name": "Sun Devil Fitness Complex",
+  "category": "Health & Beauty",
+  "googleCategory": "Physical fitness program",
+  "secondaryCategories": [
+    "Fitness center",
+    "Gym"
+  ],
+  "address": "400 E Apache Blvd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85287",
+  "lat": 33.4152209,
+  "lng": -111.932521,
+  "phone": "+14807277802",
+  "website": "http://fitness.asu.edu/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sun+Devil+Fitness+Complex/data=!4m7!3m6!1s0x872b08c31207479b:0xbbae40e0bcec6742!8m2!3d33.4152209!4d-111.932521!16s%2Fg%2F1262mj70b!19sChIJm0cHEsMIK4cRQmfsvOBArrs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13523818065026639682",
+  "placeId": "ChIJm0cHEsMIK4cRQmfsvOBArrs",
+  "googleRating": 4.7,
+  "googleReviewCount": 755,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGw0wjiJU41BIKOjqxrVd4F2nqtII3Pm7nC7C6U7qfacnsUwggCoodYXW5ES6VcKoQmLnpXs0Dky7NK7sDILR6I9lfEMtq5vf86v1dp8Hd0cBtMYehv1DycKAY5kQXDeel5RRA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 24,
+    "2": 7,
+    "3": 18,
+    "4": 101,
+    "5": 605
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "9:00 AM - 11:00 PM",
+    "sun": "9:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

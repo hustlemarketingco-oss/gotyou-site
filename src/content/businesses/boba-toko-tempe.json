@@ -11,25 +11,17 @@
   "lng": -111.9044413,
   "phone": "+14802477540",
   "website": "http://bobatokoaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12998537643160853550",
+  "googleMapsUrl": "https://www.google.com/maps/place/BOBA+TOKO/data=!4m7!3m6!1s0x872b09cb711f62a1:0xb464151e04255c2e!8m2!3d33.4327077!4d-111.9044413!16s%2Fg%2F11q9fwk_ry!19sChIJoWIfccsJK4cRLlwlBB4VZLQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12998537643160853550",
   "placeId": "ChIJoWIfccsJK4cRLlwlBB4VZLQ",
   "googleRating": 4.3,
-  "googleReviewCount": 289,
+  "googleReviewCount": 319,
   "priceRange": "$",
   "description": "Located in Tempe, BOBA TOKO is a bubble tea store with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://instagram.com/bobatoko"
@@ -49,5 +41,14 @@
   "groundgameId": "6a2435ff1e9dad370c430f7f",
   "seededAt": "2026-06-06T15:00:15Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 40,
+    "2": 7,
+    "3": 11,
+    "4": 20,
+    "5": 241
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-HgRS7MptHFZQ4rmo0Ec1dYZajyQXJTE0GyiTUOtMfbwF3xYk4nxmY0yBcGHg_BaMY0mmCVgA4yczotCSNBjF9uvJ2e3nTYVcQKGspx_6WF_fKWnj4QkkdL-L72Az8iArWGF0=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

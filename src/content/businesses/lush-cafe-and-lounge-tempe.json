@@ -2,7 +2,7 @@
   "slug": "lush-cafe-and-lounge-tempe",
   "name": "Lush Cafe and Lounge",
   "category": "Bars & Pubs",
-  "googleCategory": "Cocktail bar",
+  "googleCategory": "Restaurant",
   "secondaryCategories": [
     "Cafe",
     "Restaurant",
@@ -18,23 +18,10 @@
   "priceRange": "$20–50",
   "description": "Located in Tempe, Lush Cafe and Lounge is a cozy, trendy cocktail bar & cafe with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Trendy",
-    "Upscale",
-    "Free parking lot",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/lushcafeandlounge"
@@ -45,5 +32,31 @@
   "groundgameId": "6a2438ae72197eb4c86fdb89",
   "seededAt": "2026-06-06T15:11:42Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJhVpgSFMFK4cR2ZmYfL-oKeI",
+  "googleCid": "16296742266999445977",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lush+Cafe+and+Lounge/data=!4m7!3m6!1s0x872b055348605a85:0xe229a8bf7c9899d9!8m2!3d33.35114!4d-111.9634733!16s%2Fg%2F11t_k3ccbg!19sChIJhVpgSFMFK4cR2ZmYfL-oKeI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 611,
+  "ratingBreakdown": {
+    "1": 56,
+    "2": 31,
+    "3": 40,
+    "4": 61,
+    "5": 423
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCFqYOK3SZN4UvXuBhpG_6FiuuY-4flgHwKUhSBqereUSt8KQsOgasFPAjwMMxYIFfBcSXmUsFk9k98TZoa24QdXJt7XeSoTXe5hWyoSmDlknEo3MoSxQPmahw9gAsHBN99b7g=w1200-h800-k-no",
+  "website": "http://www.lushcafeandlounge.com/",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "6:00 PM - 9:00 PM",
+    "thu": "6:00 PM - 12:00 AM",
+    "fri": "6:00 PM - 1:00 AM",
+    "sat": "6:00 PM - 1:00 AM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "lat": 33.35114,
+  "lng": -111.96347329999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

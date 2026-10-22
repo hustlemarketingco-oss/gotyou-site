@@ -1,0 +1,54 @@
+{
+  "slug": "gamestop-tempe",
+  "name": "GameStop",
+  "category": "Shopping",
+  "googleCategory": "Video game store",
+  "secondaryCategories": [
+    "Collectibles store",
+    "Computer accessories store",
+    "Electronics store",
+    "Game store",
+    "Trading card store"
+  ],
+  "address": "2040 E Rio Salado Pkwy Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4325273,
+  "lng": -111.9026823,
+  "phone": "+14809682303",
+  "website": "https://www.gamestop.com/store/us/az/HARVEYe/3674/HARVEYe-marketplace-gamestop?utm_source=gmblisting&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/GameStop/data=!4m7!3m6!1s0x872b085536cc0001:0x703c9419378373b!8m2!3d33.4325273!4d-111.9026823!16s%2Fg%2F1tknkxkb!19sChIJAQDMNlUIK4cROzd4k0HJAwc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "505468866679813947",
+  "placeId": "ChIJAQDMNlUIK4cROzd4k0HJAwc",
+  "googleRating": 3.9,
+  "googleReviewCount": 553,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEr3B9T8D4aCENvb9-LHstqKjr0Dn2V1dT76YHsBw8Wd0VH5a-5mIc667tQbsm8_MTSLs8JXKJgzfpLeHmbmL-19UCGzpOpLSDFZgfkKTN4G1MhuRACOWHv6EFr8QGIkHlQ51I2w=w1200-h800-k-no",
+  "description": "Chain retailer offering new & used video games, plus consoles, controllers & related gear.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 91,
+    "2": 26,
+    "3": 40,
+    "4": 95,
+    "5": 301
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

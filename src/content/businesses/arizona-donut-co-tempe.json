@@ -11,31 +11,17 @@
   "lng": -111.954892,
   "phone": "+15206122213",
   "website": "https://arizonadonutco.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12879911982689398039",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Donut+Co./data=!4m7!3m6!1s0x872b0f337982588b:0xb2bea3b5227fad17!8m2!3d33.4078048!4d-111.954892!16s%2Fg%2F11b6gd5d_y!19sChIJi1iCeTMPK4cRF61_IrWjvrI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12879911982689398039",
   "placeId": "ChIJi1iCeTMPK4cRF61_IrWjvrI",
   "googleRating": 4.4,
-  "googleReviewCount": 889,
+  "googleReviewCount": 902,
   "priceRange": "$1–10",
   "description": "Unassuming counter serve featuring traditional doughnuts, breakfast sandwiches, coffee & smoothies.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Cash",
-    "Credit card",
-    "Apple Pay",
-    "Google Pay",
-    "Coffee"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.instagram.com/azdonutco"
@@ -46,5 +32,23 @@
   "groundgameId": "6a2437c8fb0708a521c93f48",
   "seededAt": "2026-06-06T15:07:52Z",
   "updatedAt": "2026-07-30T18:27:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 31,
+    "3": 62,
+    "4": 158,
+    "5": 605
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTBZHBwXVauqKyUAjgQDfSREv-RTUzFrBsZ-3eRlIFa6jzzhRyuJoOM3n2L2aMh_4o6T6QuWuApuAY8xGdXuzsPOwczUHmQx3WVZjWI5qGLuzz8e132PzPVPaEBzuQcyAoWR3W=w1200-h800-k-no",
+  "hours": {
+    "mon": "5:00 AM - 11:00 PM",
+    "tue": "4:00 AM - 11:00 PM",
+    "wed": "4:00 AM - 11:00 PM",
+    "thu": "4:00 AM - 11:00 PM",
+    "fri": "4:00 AM - 11:00 PM",
+    "sat": "4:00 AM - 11:00 PM",
+    "sun": "5:00 AM - 11:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

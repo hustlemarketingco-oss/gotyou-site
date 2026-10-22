@@ -1,0 +1,49 @@
+{
+  "slug": "loving-hut-southern-ave-tempe-az-tempe",
+  "name": "Loving Hut - Southern Ave - Tempe, AZ",
+  "category": "Restaurant",
+  "googleCategory": "Vegan restaurant",
+  "address": "1804 E Southern Ave #1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3932796,
+  "lng": -111.90808659999999,
+  "phone": "+14808979034",
+  "website": "https://lovinghut.us/tempe2/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Loving+Hut+-+Southern+Ave+-+Tempe,+AZ/data=!4m7!3m6!1s0x872b09192783941f:0xa9892dabaec05067!8m2!3d33.3932796!4d-111.9080866!16s%2Fg%2F11fqcb72tt!19sChIJH5SDJxkJK4cRZ1DArqstiak?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12216345679613677671",
+  "placeId": "ChIJH5SDJxkJK4cRZ1DArqstiak",
+  "googleRating": 4.6,
+  "googleReviewCount": 301,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZkI1xK_x9J-his5uxruF91MfPVJ-1oBlfNVILs9-V86R_J6xgU9HekobpFhoxHFTLudJlDCb3cTvO7q7k0GvO7a46GsXYodvln4xfJQ88ibRRTGLBe7vakePcYB-xqsixC8Ra=w1200-h800-k-no",
+  "description": "Outpost of a vegan counter-serve chain with Asian-accented menus that vary by location.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 5,
+    "3": 11,
+    "4": 26,
+    "5": 241
+  },
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sat": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

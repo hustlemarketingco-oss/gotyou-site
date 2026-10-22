@@ -11,12 +11,7 @@
   "description": "Tasting room with a view of the beer vats, board games on hand & eats from a series of food trucks.",
   "amenities": [
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/fourpeaksbrew"
@@ -27,5 +22,21 @@
   "groundgameId": "6a2438a4e0263ab6077debbd",
   "seededAt": "2026-06-06T15:11:32Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJyVLGR7YIK4cRhWC_vb0b04k",
+  "googleCid": "9931312105028280453",
+  "googleMapsUrl": "https://www.google.com/maps/place/Four+Peaks+Wilson/data=!4m7!3m6!1s0x872b08b647c652c9:0x89d31bbdbdbf6085!8m2!3d33.4028767!4d-111.9442403!16s%2Fg%2F1jkwb2j0t!19sChIJyVLGR7YIK4cRhWC_vb0b04k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.1,
+  "googleReviewCount": 57,
+  "ratingBreakdown": {
+    "1": 10,
+    "3": 3,
+    "4": 7,
+    "5": 37
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmcUjHG10zfaa1AsSdV6Umy3VGDgNDAtNw6hyGRV2VMyR53_MRRkBpT7yYcLi20VeXpnwDm5w1pImNxsg2W9T-jJ6OgIVYVH4JXWeQka-TCrv65OtCG5B8qR5Y0kr49_cEm58I=w1200-h800-k-no",
+  "website": "https://www.fourpeaks.com/",
+  "lat": 33.4028767,
+  "lng": -111.94424029999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

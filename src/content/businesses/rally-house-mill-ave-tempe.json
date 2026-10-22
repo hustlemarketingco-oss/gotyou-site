@@ -1,0 +1,53 @@
+{
+  "slug": "rally-house-mill-ave-tempe",
+  "name": "Rally House Mill Ave",
+  "category": "Shopping",
+  "googleCategory": "Sportswear store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Gift shop",
+    "Hat shop",
+    "Men's clothing store",
+    "Souvenir store",
+    "Sporting goods store",
+    "Sports memorabilia store",
+    "T-shirt store"
+  ],
+  "address": "740 S Mill Ave Suite 100",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.423048699999995,
+  "lng": -111.94029289999999,
+  "phone": "+14805667290",
+  "website": "https://www.rallyhouse.com/stores/tempe/740-s-mill-ave?utm_source=gbp&utm_medium=organic",
+  "googleMapsUrl": "https://www.google.com/maps/place/Rally+House+Mill+Ave/data=!4m7!3m6!1s0x872b09c567da8179:0xe520655d9e6c0615!8m2!3d33.4230487!4d-111.9402929!16s%2Fg%2F11zctqrt_n!19sChIJeYHaZ8UJK4cRFQZsnl1lIOU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16510307686704481813",
+  "placeId": "ChIJeYHaZ8UJK4cRFQZsnl1lIOU",
+  "googleRating": 4.6,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGoyFixiTXspnBLlLANgFOZ0DHty6gzgPtk5Rurd_MFk3_Gx_llCtK_tKxanBzhwn9hzpqUVM6YGz38_xHOGZQCmS10nesMoT8lYLUOFbMbLbz3zKeTiB-In-th-N7RQ9q0t2JzQAUkA4w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

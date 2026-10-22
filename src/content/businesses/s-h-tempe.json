@@ -1,0 +1,27 @@
+{
+  "slug": "s-h-tempe",
+  "name": "S & H",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "1730 E Elliot Rd #6",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3504955,
+  "lng": -111.9128313,
+  "googleMapsUrl": "https://www.google.com/maps/place/S+%26+H/data=!4m7!3m6!1s0x872b0700384e65e3:0xcaf7a1aea3e3a5a4!8m2!3d33.3504955!4d-111.9128313!16s%2Fg%2F11zbgwg7pk!19sChIJ42VOOAAHK4cRpKXjo66h98o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14625336086354961828",
+  "placeId": "ChIJ42VOOAAHK4cRpKXjo66h98o",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w_eM7tYKUFwIZusjQL8ahg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=11.453049&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

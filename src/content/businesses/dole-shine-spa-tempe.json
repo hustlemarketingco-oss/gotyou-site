@@ -1,0 +1,26 @@
+{
+  "slug": "dole-shine-spa-tempe",
+  "name": "DOLE SHINE SPA",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2343 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85285",
+  "lat": 33.3926869,
+  "lng": -111.88806939999999,
+  "googleMapsUrl": "https://www.google.com/maps/place/DOLE+SHINE+SPA/data=!4m7!3m6!1s0x872b070005934d67:0x9d49d606b1942a59!8m2!3d33.3926869!4d-111.8880694!16s%2Fg%2F11mcz57xww!19sChIJZ02TBQAHK4cRWSqUsQbWSZ0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11333825261491989081",
+  "placeId": "ChIJZ02TBQAHK4cRWSqUsQbWSZ0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WthH3oncvtqvka6aky0fEw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=289.8269&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

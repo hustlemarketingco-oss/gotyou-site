@@ -1,0 +1,28 @@
+{
+  "slug": "j-bella-mobile-bar-tempe",
+  "name": "J Bella mobile bar",
+  "category": "Bars & Pubs",
+  "googleCategory": "Bar",
+  "address": "337 W Riviera Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.386256599999996,
+  "lng": -111.9450585,
+  "phone": "+14807729477",
+  "googleMapsUrl": "https://www.google.com/maps/place/J+Bella+mobile+bar/data=!4m7!3m6!1s0x872b098e38d6e4bd:0x50845d2f1848fb3e!8m2!3d33.3862566!4d-111.9450585!16s%2Fg%2F11zgw_w1y4!19sChIJveTWOI4JK4cRPvtIGC9dhFA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5801864676812323646",
+  "placeId": "ChIJveTWOI4JK4cRPvtIGC9dhFA",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fb5anAy4EfW2yrC6RQ5Jsw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=178.6031&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

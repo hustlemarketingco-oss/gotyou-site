@@ -18,26 +18,10 @@
   "priceRange": "$20–30",
   "description": "Lively cafe with a huge collection of board & card games, plus sandwiches, salads & drinks.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/snakesandlattes"
@@ -48,5 +32,31 @@
   "groundgameId": "6a24362c3ce6362e62b75042",
   "seededAt": "2026-06-06T15:01:00Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ26utCIwJK4cRNEnbZXlrtPw",
+  "googleCid": "18209297362509842740",
+  "googleMapsUrl": "https://www.google.com/maps/place/Snakes+%26+Lattes+Tempe/data=!4m7!3m6!1s0x872b098c08adabdb:0xfcb46b7965db4934!8m2!3d33.4245379!4d-111.940975!16s%2Fg%2F11g255kpzp!19sChIJ26utCIwJK4cRNEnbZXlrtPw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 2451,
+  "ratingBreakdown": {
+    "1": 90,
+    "2": 78,
+    "3": 145,
+    "4": 377,
+    "5": 1761
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJih1_Y7Y9SRqSA7FmyivCMGUIOtzM5lG0wCzKVhdtQq-Z90yTvjckVS_HyX1kt-Qn9RexEX5o1ugW3rgcHESkYSnkf-dQ8AOS-ngv3fmWUPwNIXbP9CnyZ7ifOH5U0olBmB3m=w1200-h800-k-no",
+  "website": "https://www.snakesandlattes.com/tempe",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 12:00 AM",
+    "sun": "10:00 AM - 10:00 PM"
+  },
+  "lat": 33.4245379,
+  "lng": -111.940975,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

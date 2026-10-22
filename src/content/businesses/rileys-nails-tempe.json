@@ -1,0 +1,47 @@
+{
+  "slug": "rileys-nails-tempe",
+  "name": "Riley's Nails",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "825 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377296099999995,
+  "lng": -111.9518681,
+  "phone": "+14804915388",
+  "website": "http://rileys-nails.poi.place/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Riley%27s+Nails/data=!4m7!3m6!1s0x872b06009f654f51:0xb3b58af5ee2d97ba!8m2!3d33.3772961!4d-111.9518681!16s%2Fg%2F11b6qcq_zt!19sChIJUU9lnwAGK4cRupct7vWKtbM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12949409092441315258",
+  "placeId": "ChIJUU9lnwAGK4cRupct7vWKtbM",
+  "googleRating": 3.9,
+  "googleReviewCount": 215,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZVcP61MHLBYwfOq-5_uvDBnQHZDr7N0tRtcRvjyeOgn_eGr4aEdfyVjOo5EIdFujJqnCjsoZKzjkF9G-mxRzNymGYdZRmNQU4NX67v9jtY5DkhwtdD9PpjmlKgKHNENiTnkxKyQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 45,
+    "2": 10,
+    "3": 7,
+    "4": 18,
+    "5": 135
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:30 AM - 6:00 PM",
+    "wed": "9:30 AM - 6:00 PM",
+    "thu": "9:30 AM - 6:00 PM",
+    "fri": "9:30 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

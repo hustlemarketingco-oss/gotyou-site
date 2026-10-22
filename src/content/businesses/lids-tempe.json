@@ -1,0 +1,55 @@
+{
+  "slug": "lids-tempe",
+  "name": "Lids",
+  "category": "Shopping",
+  "googleCategory": "Hat shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Embroidery service",
+    "Embroidery shop",
+    "Sports memorabilia store",
+    "Sportswear store"
+  ],
+  "address": "2000 E Rio Salado Pkwy Spc - C4",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.433593,
+  "lng": -111.90203969999999,
+  "phone": "+14803030526",
+  "website": "https://www.lids.com/store/lids-tempe-marketplace/sd-38878099+z-9754770-3524067928?_s=bm-LIDS-RETAIL-GMB",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lids/data=!4m7!3m6!1s0x872b08543eea7bab:0x84692fafbc7faf47!8m2!3d33.433593!4d-111.9020397!16s%2Fg%2F1vg4k7vr!19sChIJq3vqPlQIK4cRR69_vK8vaYQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9541209717389373255",
+  "placeId": "ChIJq3vqPlQIK4cRR69_vK8vaYQ",
+  "googleRating": 3.4,
+  "googleReviewCount": 90,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPXXlNeErob5lY4W6A2OIg8mm6TddNzq9kHHlJqheVm3VawHdowoSiEkLo5XvRy7gZzPcA36SYLKbfgeU4DX7AnKGTU6GcgvSlOxnyzvwGGpUnOLHHSx5mZiUo7RBv8fhxvauV=w1200-h800-k-no",
+  "description": "Chain specializing in licensed team hats, logo apparel & other sports merchandise.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 8,
+    "3": 9,
+    "4": 6,
+    "5": 42
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "12:00 PM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "cafe-rio-fresh-modern-mexican-tempe",
+  "name": "Cafe Rio Fresh Modern Mexican",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Family restaurant",
+    "Fast food restaurant",
+    "Restaurant",
+    "Taco restaurant",
+    "Tex-Mex restaurant"
+  ],
+  "address": "5150 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3790356,
+  "lng": -111.9290142,
+  "phone": "+14805007411",
+  "website": "https://www.caferio.com/locations/rural-and-baseline",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Rio+Fresh+Modern+Mexican/data=!4m7!3m6!1s0x872b0618a398cba5:0xca839991863384c5!8m2!3d33.3790356!4d-111.9290142!16s%2Fg%2F11c5snrpmy!19sChIJpcuYoxgGK4cRxYQzhpGZg8o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14592676067911369925",
+  "placeId": "ChIJpcuYoxgGK4cRxYQzhpGZg8o",
+  "googleRating": 3.9,
+  "googleReviewCount": 1161,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdStzWaHEeLYtOgZMqAMAoqT8nvzUjZQjV-SqYTr6SiqG7SBkpYvE3ixCLsNghDtvhkw0o31r8TTJDrk2b9zwr3Hjxi9DPgeCJUZQsSrRYm3iqzyASoF73CyXT-B-h60QV2mfCC0O41HR6T=w1200-h800-k-no",
+  "description": "Counter-serve eatery dishing up Mexican classics including hand-rolled tortillas, burritos & tacos.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 161,
+    "2": 65,
+    "3": 99,
+    "4": 212,
+    "5": 624
+  },
+  "hours": {
+    "mon": "10:30 AM - 10:00 PM",
+    "tue": "10:30 AM - 10:00 PM",
+    "wed": "10:30 AM - 10:00 PM",
+    "thu": "10:30 AM - 10:00 PM",
+    "fri": "10:30 AM - 10:00 PM",
+    "sat": "10:30 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

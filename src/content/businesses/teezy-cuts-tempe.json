@@ -1,0 +1,43 @@
+{
+  "slug": "teezy-cuts-tempe",
+  "name": "Teezy Cuts",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "707 S Farmer Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4225752,
+  "lng": -111.9439584,
+  "phone": "+16235521238",
+  "website": "https://teezycutz70.booksy.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Teezy+Cuts/data=!4m7!3m6!1s0x872b094a7d870351:0x188bd2493533dd51!8m2!3d33.4225752!4d-111.9439584!16s%2Fg%2F11ntt74jg3!19sChIJUQOHfUoJK4cRUd0zNUnSixg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1768738490540088657",
+  "placeId": "ChIJUQOHfUoJK4cRUd0zNUnSixg",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrW4X9lzp1wdvwDmIS0O5mpizTSdv9RW-f9JNOLh1XPlVrgqIPALR5o_0U6R1GEYf6TUdyu_11MY-3M4VbbYztYefjDn0GYAN3fDpG-3lFAvw80rm-FcXyVrK23X21T_wu40byDw50YRY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "9:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

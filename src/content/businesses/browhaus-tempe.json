@@ -1,0 +1,43 @@
+{
+  "slug": "browhaus-tempe",
+  "name": "BROWHAUS",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "4657 S Lakeshore Dr Ste 2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.381178999999996,
+  "lng": -111.92275099999999,
+  "website": "http://browhausaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/BROWHAUS/data=!4m7!3m6!1s0x872b07f86dc1f0db:0xa3e0274e5b6a829c!8m2!3d33.381179!4d-111.922751!16s%2Fg%2F11t5w6vm1p!19sChIJ2_DBbfgHK4cRnIJqW04n4KM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11808481440460079772",
+  "placeId": "ChIJ2_DBbfgHK4cRnIJqW04n4KM",
+  "googleRating": 4.9,
+  "googleReviewCount": 142,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesCLsVjAzuJ5YjH0-1wCh-PD4tQNSwLBs169ECwZQL174XZloayLE742RtVKsF5G5bzGHPNaThxJggvwHHZ8r50UCWBTMNwWCM7CdiTLpyLgZpmc0O5vsm5JdO6GsWQDBbYwGVWs68pyAL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 140
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

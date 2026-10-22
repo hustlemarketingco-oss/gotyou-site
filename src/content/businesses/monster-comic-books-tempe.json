@@ -1,0 +1,46 @@
+{
+  "slug": "monster-comic-books-tempe",
+  "name": "Monster Comic Books",
+  "category": "Shopping",
+  "googleCategory": "Comic book store",
+  "address": "1415 E University Dr suite a-103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.421148599999995,
+  "lng": -111.9156395,
+  "phone": "+14805084839",
+  "website": "https://www.monstercomicbooks.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Monster+Comic+Books/data=!4m7!3m6!1s0x872b08fefae1b263:0x518919acae3203e2!8m2!3d33.4211486!4d-111.9156395!16s%2Fg%2F11cn95sqf1!19sChIJY7Lh-v4IK4cR4gMyrqwZiVE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5875255418329105378",
+  "placeId": "ChIJY7Lh-v4IK4cR4gMyrqwZiVE",
+  "googleRating": 4.7,
+  "googleReviewCount": 188,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCIadmdCIABXhVjIVdP0hulHxQCXmDPZI-2XdU3dzFp8K8ZZ36naVMVHAYDiNQif3J5n90ugqYSU1kmuG0u9WQOlHCULfQ_Zs8s-NpYiv3RSLo54aFBQNG-B4fCuFww5fLJutL=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 3,
+    "3": 6,
+    "4": 19,
+    "5": 158
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

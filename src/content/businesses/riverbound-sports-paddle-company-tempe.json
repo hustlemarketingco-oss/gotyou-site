@@ -1,0 +1,52 @@
+{
+  "slug": "riverbound-sports-paddle-company-tempe",
+  "name": "Riverbound Sports Paddle Company",
+  "category": "Shopping",
+  "googleCategory": "Canoe & kayak store",
+  "secondaryCategories": [
+    "Canoe & kayak rental service",
+    "Learning center",
+    "Outdoor sports store",
+    "Sporting goods store",
+    "Tour operator",
+    "Water sports equipment rental service"
+  ],
+  "address": "1425 E University Dr Ste B-102",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4205809,
+  "lng": -111.9155638,
+  "phone": "+14804636686",
+  "website": "https://www.riverboundsports.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Riverbound+Sports+Paddle+Company/data=!4m7!3m6!1s0x872bab9025be6427:0x835798cd36aab26f!8m2!3d33.4205809!4d-111.9155638!16s%2Fg%2F1q62gcr03!19sChIJJ2S-JZCrK4cRb7KqNs2YV4M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9464201149095260783",
+  "placeId": "ChIJJ2S-JZCrK4cRb7KqNs2YV4M",
+  "googleRating": 5,
+  "googleReviewCount": 695,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLegU1v9f-iU5vM-e7ULlmrmGnMEJaZgohYWeZArmE3Guk41f9POIFpfhVvOupRi6djJD4elWg_LHuVZRXGV_R4dpuiYTulAwiS4vfuR6oN5mlnnu1gQEYYo7SoOJG24Ro8fKGE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "3": 2,
+    "4": 7,
+    "5": 686
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 6:00 PM",
+    "wed": "9:00 AM - 6:00 PM",
+    "thu": "9:00 AM - 6:00 PM",
+    "fri": "9:00 AM - 6:00 PM",
+    "sat": "9:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

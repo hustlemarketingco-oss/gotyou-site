@@ -1,0 +1,46 @@
+{
+  "slug": "foiled-tempe",
+  "name": "Foiled",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "1761 E Warner Rd #122",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3333058,
+  "lng": -111.9121928,
+  "phone": "+14806501398",
+  "website": "https://m.facebook.com/Colorcreationsbyjodi/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Foiled/data=!4m7!3m6!1s0x872b06e4e91c2f5b:0x5eb748d71d0e398d!8m2!3d33.3333058!4d-111.9121928!16s%2Fg%2F11g72xbd44!19sChIJWy8c6eQGK4cRjTkOHddIt14?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6825003849045916045",
+  "placeId": "ChIJWy8c6eQGK4cRjTkOHddIt14",
+  "googleRating": 4.1,
+  "googleReviewCount": 8,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-zcVD1_QS_sixh1L2Reo2g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=178.45865&pitch=0&thumbfov=100",
+  "description": "Easygoing salon specializing in fashionable haircuts, plus highlights & styling in a modest setting.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 6
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 2:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 2:30 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

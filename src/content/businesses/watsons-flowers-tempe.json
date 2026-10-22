@@ -1,0 +1,54 @@
+{
+  "slug": "watsons-flowers-tempe",
+  "name": "Watson's Flowers",
+  "category": "Shopping",
+  "googleCategory": "Florist",
+  "secondaryCategories": [
+    "Flower delivery",
+    "Flower designer",
+    "Flower market",
+    "Gift basket store",
+    "Gift shop"
+  ],
+  "address": "1719 E Southern Ave Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391777399999995,
+  "lng": -111.9099244,
+  "phone": "+14809678797",
+  "website": "https://www.watsonsflowers.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Watson%27s+Flowers/data=!4m7!3m6!1s0x872b092a1c906867:0xa5a084a45e8916cc!8m2!3d33.3917774!4d-111.9099244!16s%2Fg%2F11f9_jn3j2!19sChIJZ2iQHCoJK4cRzBaJXqSEoKU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11934684854027359948",
+  "placeId": "ChIJZ2iQHCoJK4cRzBaJXqSEoKU",
+  "googleRating": 4.7,
+  "googleReviewCount": 196,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwJs5ZWITQ17a5gFBRyeX9GPBBv_eJv4p9-blBIPn3pc6VSuOcL16jO3zsgMPwg1XtNIo8jjgjshTRJSfORgrVuUzU_CPJkczt-FRfpcqs9AnRYcqJxNue_iPDlqW-GMlXSr6s9A=w1200-h800-k-no",
+  "description": "Veteran florist shop offering gift baskets, bouquets & arrangements for weddings & other occasions.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 5,
+    "3": 7,
+    "4": 5,
+    "5": 174
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

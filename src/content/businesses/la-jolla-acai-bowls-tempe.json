@@ -20,33 +20,14 @@
   "website": "https://lajollaacaibowls.com/",
   "placeId": "ChIJZZsySccHK4cR4rV4qPuqTWY",
   "googleRating": 4.9,
-  "googleReviewCount": 304,
+  "googleReviewCount": 310,
   "priceRange": "$10–20",
   "description": "La Jolla Açaí Bowls is a casual, quiet açaí shop & coffee shop in Tempe, serving up coffee & healthy options, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Organic dishes",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/Allfitnutrition",
@@ -59,5 +40,25 @@
   "groundgameId": "6a23808cb47825a7cab926e4",
   "seededAt": "2026-06-06T02:06:04Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7371736162915366370",
+  "googleMapsUrl": "https://www.google.com/maps/place/La+Jolla+A%C3%A7a%C3%AD+Bowls/data=!4m7!3m6!1s0x872b07c749329b65:0x664daafba878b5e2!8m2!3d33.3341998!4d-111.9134504!16s%2Fg%2F11vs7w7m27!19sChIJZZsySccHK4cR4rV4qPuqTWY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "3": 3,
+    "4": 3,
+    "5": 300
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRsvGhsz2-04hZDH6UoKw-hVCqx2WwN3aLQnz-PfF3rLywx3QX6LtyHHCeSpdzqcEbxycKwfSlFY8wVTEKu3OaNdx6f-ykjHjLxy-A6zYqR9PCwem4GHgyM3C_V7-T5TM5x88Y9m7-sKi7=w1200-h800-k-no",
+  "hours": {
+    "mon": "3:00 PM - 7:00 PM",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "3:30 PM - 7:30 PM",
+    "sun": "12:00 PM - 4:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

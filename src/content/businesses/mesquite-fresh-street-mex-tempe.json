@@ -16,7 +16,7 @@
   "website": "https://www.eatmesquite.com/",
   "placeId": "ChIJrx3o4QcJK4cRFKKp5cjEabk",
   "googleRating": 4.4,
-  "googleReviewCount": 624,
+  "googleReviewCount": 634,
   "priceRange": "$",
   "hours": {
     "mon": "7:00 AM - 2:35 AM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a32d9e2dfcf6be4f51f1d93",
   "seededAt": "2026-06-17T17:31:14Z",
   "updatedAt": "2026-06-26T18:25:31Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "13360426136696889876",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mesquite+Fresh+Street+Mex/data=!4m7!3m6!1s0x872b0907e1e81daf:0xb969c4c8e5a9a214!8m2!3d33.4251759!4d-111.9397118!16s%2Fg%2F11f8jh_085!19sChIJrx3o4QcJK4cRFKKp5cjEabk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 21,
+    "3": 30,
+    "4": 83,
+    "5": 450
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLclSAJ2nvnqF7I69CwPi1TLNjL8RlnBEH3sn74m-me1zz84qhQIKAIuuDKOfuF-3KtnYo-r3zAqVW7-btuHpM5uaESUwvLbCr6ue7BrZIJURdAckGx4tRcM0A9g5LCm9gfEs_Iz6g=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

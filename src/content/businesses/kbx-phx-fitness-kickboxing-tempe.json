@@ -1,0 +1,50 @@
+{
+  "slug": "kbx-phx-fitness-kickboxing-tempe",
+  "name": "KBX PHX Fitness Kickboxing",
+  "category": "Health & Beauty",
+  "googleCategory": "Fitness center",
+  "secondaryCategories": [
+    "Boxing gym",
+    "Gym",
+    "Kickboxing school",
+    "Martial arts club",
+    "Physical fitness program"
+  ],
+  "address": "1819 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493396,
+  "lng": -111.9257701,
+  "phone": "+16025151512",
+  "website": "https://kbxphx.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/KBX+PHX+Fitness+Kickboxing/data=!4m7!3m6!1s0x872b13f4864d44b7:0x4fd8b0c82f880531!8m2!3d33.4493396!4d-111.9257701!16s%2Fg%2F11h55sx59t!19sChIJt0RNhvQTK4cRMQWIL8iw2E8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5753542897803199793",
+  "placeId": "ChIJt0RNhvQTK4cRMQWIL8iw2E8",
+  "googleRating": 5,
+  "googleReviewCount": 79,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9QCmChLxZtazism2KymSYkLKfXUQ_QckjHmn3L2vixn5vJKB6oieSTvMF3j1fGogd3ku2DidhIqIcSOZkEYdtncAvZ99zL36on2Fnz9bY1qydgOVhJg3v5JiCpVhehSLMGaWZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 79
+  },
+  "hours": {
+    "mon": "5:30 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+    "tue": "4:00 PM - 9:00 PM",
+    "wed": "5:30 AM - 12:00 PM, 3:30 PM - 8:00 PM",
+    "thu": "4:00 PM - 9:00 PM",
+    "fri": "4:00 PM - 7:00 PM",
+    "sat": "8:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

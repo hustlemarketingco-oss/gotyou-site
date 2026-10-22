@@ -16,17 +16,17 @@
   "lng": -111.9134197,
   "phone": "+14808941905",
   "website": "https://sites.google.com/view/haji-baba/home",
-  "googleMapsUrl": "https://www.google.com/maps?cid=11604950164189429587",
+  "googleMapsUrl": "https://www.google.com/maps/place/Haji-Baba/data=!4m7!3m6!1s0x872b08f3ce2282b3:0xa10d10b04c9f3f53!8m2!3d33.414347!4d-111.9134197!16s%2Fg%2F1th87l9z!19sChIJs4IizvMIK4cRUz-fTLAQDaE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "11604950164189429587",
   "placeId": "ChIJs4IizvMIK4cRUz-fTLAQDaE",
   "googleRating": 4.6,
-  "googleReviewCount": 3238,
+  "googleReviewCount": 3272,
   "description": "No-frills counter-serve spot serving kebabs, shawarma, gyros & more inside a Middle Eastern grocery.",
   "amenities": [
-    "Cash",
-    "Apple Pay",
-    "Google Pay",
-    "Credit card"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 7:30 PM",
@@ -43,5 +43,14 @@
   "groundgameId": "6a243783e7bc67502b098910",
   "seededAt": "2026-06-06T15:06:43Z",
   "updatedAt": "2026-07-22T20:41:52Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 80,
+    "2": 48,
+    "3": 146,
+    "4": 413,
+    "5": 2585
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcumrBjMXlh7iPOWVoWHPkb7gYXJ_eASzHngHKjbJWTvv71U5RQlGBwSQjqEotodOlpxlKTSrX_csIobZBBAL_Ub_7LGJQqVHtbzMX_NmYB5TsLrOUKbt02z9Fji6yg2xPg1o0=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

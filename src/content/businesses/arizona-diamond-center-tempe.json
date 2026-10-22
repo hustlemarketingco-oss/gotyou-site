@@ -1,0 +1,48 @@
+{
+  "slug": "arizona-diamond-center-tempe",
+  "name": "Arizona Diamond Center",
+  "category": "Shopping",
+  "googleCategory": "Jewelry store",
+  "secondaryCategories": [
+    "Jeweler"
+  ],
+  "address": "5000 S Arizona Mills Cir Ste 224",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383661,
+  "lng": -111.964024,
+  "phone": "+14804215132",
+  "website": "https://www.arizonadiamondcenter.com/#utm_source=google&utm_medium=local&utm_campaign=Arizona%20Mills%20Mall",
+  "googleMapsUrl": "https://www.google.com/maps/place/Arizona+Diamond+Center/data=!4m7!3m6!1s0x872b68254714e26b:0x304d4cd41464bbe8!8m2!3d33.383661!4d-111.964024!16s%2Fg%2F1hc2pcfsz!19sChIJa-IURyVoK4cR6LtkFNRMTTA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3480522560786185192",
+  "placeId": "ChIJa-IURyVoK4cR6LtkFNRMTTA",
+  "googleRating": 4.9,
+  "googleReviewCount": 1169,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqCSdn83ELft3DSv1osimig61kKqB18KMWnfJfee-ppopSKPQWa2CkhIIEnOnFl20DjHifJvw5uuV-_6LV6qVxOdmzKbT7PmmKv-PPXxEhiueVt1UPvmXhX9wzsYAkV3OLaieP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 1,
+    "4": 16,
+    "5": 1138
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

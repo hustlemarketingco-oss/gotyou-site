@@ -1,0 +1,48 @@
+{
+  "slug": "georges-breakfast-and-brunch-tempe",
+  "name": "Georges breakfast and brunch",
+  "category": "Restaurant",
+  "googleCategory": "Brunch restaurant",
+  "address": "4715 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3801369,
+  "lng": -111.92790799999999,
+  "phone": "+16027675054",
+  "website": "https://georgesbreakfastandbrunch.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Georges+breakfast+and+brunch/data=!4m7!3m6!1s0x872b070034bb0c1f:0x203f7b4822f52a01!8m2!3d33.3801369!4d-111.927908!16s%2Fg%2F11yfdw2n37!19sChIJHwy7NAAHK4cRASr1Ikh7PyA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2323711482500819457",
+  "placeId": "ChIJHwy7NAAHK4cRASr1Ikh7PyA",
+  "googleRating": 3.5,
+  "googleReviewCount": 182,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpGMCyG_uS6nq23jx8OSNuG8_yaY7yCTdQGy6nlRNWzUZ0V-SULXmP_GRudbQkY5EiKy8rCzEZYW5aMo-KYG6Chmwx7KBNL91hyu9l3hW_SrwsiIs5_Wa_2uMIfYxsztfNP9-_2DM8JlY=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 46,
+    "2": 16,
+    "3": 12,
+    "4": 8,
+    "5": 100
+  },
+  "hours": {
+    "mon": "9:00 AM - 12:00 AM",
+    "tue": "9:00 AM - 12:00 AM",
+    "wed": "9:00 AM - 2:00 AM",
+    "thu": "9:00 AM - 2:00 AM",
+    "fri": "9:00 AM - 4:00 AM",
+    "sat": "9:00 AM - 4:00 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

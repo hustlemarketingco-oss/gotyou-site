@@ -10,29 +10,18 @@
   "lat": 33.4235277,
   "lng": -111.936902,
   "website": "https://laymoon.cafe/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=10732406038373203209",
+  "googleMapsUrl": "https://www.google.com/maps/place/Laymoon+Cafe/data=!4m7!3m6!1s0x872b09713ee1463b:0x94f12a6dde7dfd09!8m2!3d33.4235277!4d-111.936902!16s%2Fg%2F11yskh6ml5!19sChIJO0bhPnEJK4cRCf193m0q8ZQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "10732406038373203209",
   "placeId": "ChIJO0bhPnEJK4cRCf193m0q8ZQ",
-  "googleRating": 4.7,
-  "googleReviewCount": 357,
+  "googleRating": 4.6,
+  "googleReviewCount": 474,
   "priceRange": "$10–20",
   "description": "Located in Tempe, Laymoon Cafe is a casual coffee shop with coffee, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee"
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.instagram.com/laymoon.cafe"
@@ -52,5 +41,14 @@
   "groundgameId": "6a24374076c904ee8edb11cb",
   "seededAt": "2026-06-06T15:05:36Z",
   "updatedAt": "2026-07-06T17:56:58Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 15,
+    "2": 15,
+    "3": 19,
+    "4": 30,
+    "5": 395
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciOF3h8XyJe6XMQQUFH2XZGI_1fXdKfItJP47cgJhVCbeyPUwb_d0t6fEvt7KHbEg4oe3vI79x7Pfo5Imehk9P2hjTYzbnqEdbun9g2iGDpCNY_ObRgaOw6ZKAAWki8nIMZWE5v-PhEd8F=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

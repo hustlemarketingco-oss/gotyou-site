@@ -1,0 +1,43 @@
+{
+  "slug": "j-west-studio-tempe",
+  "name": "J.West Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "227 E Baseline Rd j003",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377898699999996,
+  "lng": -111.9357412,
+  "phone": "+16023290015",
+  "website": "http://jessicawest.co/",
+  "googleMapsUrl": "https://www.google.com/maps/place/J.West+Studio/data=!4m7!3m6!1s0x872b07b430de389b:0xe06d6b70be2053d8!8m2!3d33.3778987!4d-111.9357412!16s%2Fg%2F11qp32l671!19sChIJmzjeMLQHK4cR2FMgvnBrbeA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16171699968927618008",
+  "placeId": "ChIJmzjeMLQHK4cR2FMgvnBrbeA",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2YxC-meQUdcZZ2GApRqX19eG74hie45m-hT5TLUcjmDNF84u4hVrx07SX2WKhgz2Q1dQMHCYyW3uyZn1YVsUK1KlO6-BiWDuaJ89Rps1kdVc6RNkMp4S6H6eFjEO0rNkujE1s=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:30 AM - 6:30 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "10:30 AM - 6:30 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

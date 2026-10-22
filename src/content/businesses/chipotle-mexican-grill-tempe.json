@@ -16,24 +16,24 @@
   "source": "groundgame",
   "placeId": "ChIJm3VQP1QIK4cRbRy-F03ffN0",
   "googleCid": "15959876701698006125",
-  "googleMapsUrl": "https://maps.google.com/?cid=15959876701698006125",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chipotle+Mexican+Grill/data=!4m7!3m6!1s0x872b08543f50759b:0xdd7cdf4d17be1c6d!8m2!3d33.4339749!4d-111.9013196!16s%2Fg%2F1tf_nr_t!19sChIJm3VQP1QIK4cRbRy-F03ffN0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleRating": 3.8,
-  "googleReviewCount": 881,
+  "googleReviewCount": 882,
   "ratingBreakdown": {
-    "1": 161,
+    "1": 162,
     "2": 46,
     "3": 74,
     "4": 168,
     "5": 432
   },
-  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhFJ0z8cmaNm2XvFzzw5O3FnV72Hm7KY4E1DmXl4YqCglce236A9f5akgKqmCEmzfPAEZqCWFE6q_xwUEH-WWYlXmsKdMdXo-1Bm-geSszIpjX0prB_yfOKOtghzwvREH5wpc=w1200-h800-k-no",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLczQ6mJY4fspUM3qdnHimV0cQ4qgS4j5HIyojt_LO9TvnoTuwHC2_eP8u4GrQtdSgt-VXDTsSFaS0ZbT4X9ZgpejUbDCcfB3SSuHj-zbc4MeDwvDZGkFLq9-8X4jyyTAzl6YDg=w1200-h800-k-no",
   "amenities": [
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
     "Wheelchair accessible seating"
   ],
-  "gbpCheckedAt": "2026-10-18T13:16:09Z",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z",
   "hours": {
     "mon": "10:45 AM - 11 PM",
     "tue": "10:45 AM - 11 PM",
@@ -45,5 +45,14 @@
   },
   "website": "https://locations.chipotle.com/az/tempe/2000-e-rio-salado-pkwy?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=744",
   "lat": 33.433974899999996,
-  "lng": -111.9013196
+  "lng": -111.9013196,
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Caterer",
+    "Delivery service",
+    "Takeout Restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ]
 }

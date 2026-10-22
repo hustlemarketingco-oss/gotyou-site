@@ -1,0 +1,58 @@
+{
+  "slug": "black-bear-diner-tempe",
+  "name": "Black Bear Diner Tempe",
+  "category": "Restaurant",
+  "googleCategory": "Diner",
+  "secondaryCategories": [
+    "American restaurant",
+    "Breakfast restaurant",
+    "Brunch restaurant",
+    "Caterer",
+    "Family restaurant",
+    "Takeout Restaurant",
+    "Pancake restaurant"
+  ],
+  "address": "7700 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3473869,
+  "lng": -111.9636494,
+  "phone": "+14807194520",
+  "website": "https://blackbeardiner.com/location/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Black+Bear+Diner+Tempe/data=!4m7!3m6!1s0x872b05daae4f9cc9:0x9191b693f5ed0b61!8m2!3d33.3473869!4d-111.9636494!16s%2Fg%2F11c1p547mf!19sChIJyZxPrtoFK4cRYQvt9ZO2kZE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10489365753724996449",
+  "placeId": "ChIJyZxPrtoFK4cRYQvt9ZO2kZE",
+  "googleRating": 4.2,
+  "googleReviewCount": 4250,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDSxxHKR2eNpzQIcI0X4skOaUjuIddQ6g3Vx8iHeZ7x07i-33sy32xAKutFsSnK_-VAGNqmfPJ_rYGnMNi0uEp-xirBXtDu0BLhoGxw-TfhcAnSXRs_I5-86Gy5M_lzoM3g2YQc5h8su_a=w1200-h800-k-no",
+  "description": "Easygoing chain serving familiar all-day comfort food & desserts in a woodsy setting.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 286,
+    "2": 212,
+    "3": 343,
+    "4": 830,
+    "5": 2579
+  },
+  "hours": {
+    "mon": "6:00 AM - 9:00 PM",
+    "tue": "6:00 AM - 9:00 PM",
+    "wed": "6:00 AM - 9:00 PM",
+    "thu": "6:00 AM - 9:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

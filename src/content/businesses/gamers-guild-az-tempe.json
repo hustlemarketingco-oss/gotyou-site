@@ -1,0 +1,46 @@
+{
+  "slug": "gamers-guild-az-tempe",
+  "name": "Gamers Guild AZ - Tempe",
+  "category": "Shopping",
+  "googleCategory": "Game store",
+  "address": "2223 S 48th St Suite C/D",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4043977,
+  "lng": -111.9763897,
+  "phone": "+16026182690",
+  "website": "http://www.gamersguildusa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gamers+Guild+AZ+-+Tempe/data=!4m7!3m6!1s0x872b0f1392a6dafd:0xb2ba65beefedd86e!8m2!3d33.4043977!4d-111.9763897!16s%2Fg%2F11nn210c88!19sChIJ_dqmkhMPK4cRbtjt775lurI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12878717955162888302",
+  "placeId": "ChIJ_dqmkhMPK4cRbtjt775lurI",
+  "googleRating": 4.6,
+  "googleReviewCount": 973,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8quw2thQdUGmRvMQApwewYAet6uukI9jI2hJnh67av8EFV2lflzUAZkjcOq_O5WyxnMIqnoZg5JSHgcH7r7PkgUmNsF0eXqsr1R6vFpbcISlN8PB3e9GaE9FEasKVATMbgQZT=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 58,
+    "2": 15,
+    "3": 16,
+    "4": 52,
+    "5": 832
+  },
+  "hours": {
+    "mon": "10:00 AM - 11:00 PM",
+    "tue": "10:00 AM - 11:00 PM",
+    "wed": "10:00 AM - 11:00 PM",
+    "thu": "10:00 AM - 11:00 PM",
+    "fri": "10:00 AM - 12:00 AM",
+    "sat": "10:00 AM - 11:00 PM",
+    "sun": "10:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

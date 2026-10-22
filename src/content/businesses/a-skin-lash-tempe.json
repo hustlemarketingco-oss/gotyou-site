@@ -1,0 +1,36 @@
+{
+  "slug": "a-skin-lash-tempe",
+  "name": "A Skin & Lash",
+  "category": "Health & Beauty",
+  "googleCategory": "Facial spa",
+  "address": "7720 S Priest Dr Unit 41",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348130999999995,
+  "lng": -111.965351,
+  "phone": "+16022929661",
+  "googleMapsUrl": "https://www.google.com/maps/place/A+Skin+%26+Lash/data=!4m7!3m6!1s0x872b05ccc037ac01:0xcab37a8b6106b24!8m2!3d33.348131!4d-111.965351!16s%2Fg%2F11kk7yq12f!19sChIJAaw3wMwFK4cRJGsQtqg3qww?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "912884547221220132",
+  "placeId": "ChIJAaw3wMwFK4cRJGsQtqg3qww",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_IUOzOmoJhIZQOSC7TtSJw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=139.28003&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "10:30 AM - 6:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

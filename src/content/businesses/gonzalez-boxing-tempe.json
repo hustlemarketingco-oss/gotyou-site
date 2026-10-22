@@ -1,0 +1,46 @@
+{
+  "slug": "gonzalez-boxing-tempe",
+  "name": "Gonzalez Boxing",
+  "category": "Health & Beauty",
+  "googleCategory": "Boxing gym",
+  "secondaryCategories": [
+    "Personal trainer",
+    "Physical fitness program"
+  ],
+  "address": "120 W Palmdale Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.40678,
+  "lng": -111.94303699999999,
+  "phone": "+16025494779",
+  "website": "http://gonzalezboxing.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Gonzalez+Boxing/data=!4m7!3m6!1s0x872b08c855928c77:0xa575a0c3e409680d!8m2!3d33.40678!4d-111.943037!16s%2Fg%2F1thcstbz!19sChIJd4ySVcgIK4cRDWgJ5MOgdaU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11922612351738144781",
+  "placeId": "ChIJd4ySVcgIK4cRDWgJ5MOgdaU",
+  "googleRating": 5,
+  "googleReviewCount": 30,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7XXuLkttRX9PJxjH6nFcWRpyoqtpMdABwtRoSPzjnUbLr_wfU44CY3Je6XnX63baEFW_EAqlI-fbSjXwuuJQrfJy3WT2tla8WxQPN14uyY9m9B5zTJuQJ7dCh6RXgOYa7sMY2FQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 30
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:00 PM",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:30 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

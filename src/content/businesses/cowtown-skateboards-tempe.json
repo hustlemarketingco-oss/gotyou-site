@@ -1,0 +1,51 @@
+{
+  "slug": "cowtown-skateboards-tempe",
+  "name": "Cowtown Skateboards",
+  "category": "Shopping",
+  "googleCategory": "Skateboard shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Shoe store"
+  ],
+  "address": "215 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421573599999995,
+  "lng": -111.9425955,
+  "phone": "+14803793605",
+  "website": "http://www.cowtownskateboards.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cowtown+Skateboards/data=!4m7!3m6!1s0x872b08d7218f8383:0x3ac05500a2da4b4c!8m2!3d33.4215736!4d-111.9425955!16s%2Fg%2F1td6gyvq!19sChIJg4OPIdcIK4cRTEvaogBVwDo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4233477110948842316",
+  "placeId": "ChIJg4OPIdcIK4cRTEvaogBVwDo",
+  "googleRating": 4.7,
+  "googleReviewCount": 315,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyCO0zPd3WM6_sedyFv00C59mvhvhKKeWwbWSSoq_O9xQXR_YFgfEUT9cn072NYGvWPh135gv5aTLhe9Lv8FYeRxZFk8j_WqDE9388QZI2Qj818mGrsiuNcHT1nXM8HL4sio4=w1200-h800-k-no",
+  "description": "Laid-back skate shop carrying skateboards, accessories, magazines, footwear & clothing.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 14,
+    "2": 6,
+    "3": 5,
+    "4": 14,
+    "5": 276
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 8:00 PM",
+    "sat": "11:00 AM - 8:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

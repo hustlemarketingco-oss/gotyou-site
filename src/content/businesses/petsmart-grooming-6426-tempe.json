@@ -1,0 +1,46 @@
+{
+  "slug": "petsmart-grooming-6426-tempe",
+  "name": "PetSmart Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "6426 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.362897,
+  "lng": -111.91274779999999,
+  "phone": "+14802829016",
+  "website": "https://stores.petsmart.com/az/tempe/tempe/grooming?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
+  "googleMapsUrl": "https://www.google.com/maps/place/PetSmart+Grooming/data=!4m7!3m6!1s0x872b075754200285:0x14970b49ecd85cb2!8m2!3d33.362897!4d-111.9127478!16s%2Fg%2F11s_xq0jlx!19sChIJhQIgVFcHK4cRslzY7EkLlxQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1483667014375988402",
+  "placeId": "ChIJhQIgVFcHK4cRslzY7EkLlxQ",
+  "googleRating": 4,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCuf-8o4ikwKt7BYt_EJYgCleCiHbwJTM8Uv5lj9PP7ktgQq5jtnI_lDFJc6KpcELXFIkQHFVu6l6SesmwCxincFbIpSwRxbLEX-G32NVvC6tcGnV1XRJB3yq55TQvnFHCJYIk=w1200-h800-k-no",
+  "description": "Offshoot of the pet store chain focused on grooming services, including nail & ear care.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "2": 1,
+    "4": 6,
+    "5": 8
+  },
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

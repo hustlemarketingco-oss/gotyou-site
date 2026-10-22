@@ -1,0 +1,57 @@
+{
+  "slug": "cvs-802-tempe",
+  "name": "CVS",
+  "category": "Shopping",
+  "googleCategory": "Drug store",
+  "secondaryCategories": [
+    "Beauty supply store",
+    "Beer store",
+    "Convenience store",
+    "Cosmetics store",
+    "Greeting card shop",
+    "Liquor store",
+    "Perfume store",
+    "Stationery store"
+  ],
+  "address": "802 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.421563899999995,
+  "lng": -111.9404186,
+  "phone": "+14809666271",
+  "website": "https://www.cvs.com/store-locator/tempe-az-pharmacies/802-s-mill-ave-tempe-az-85281/storeid=9205?WT.mc_id=LS_GOOGLE_FS_9205",
+  "googleMapsUrl": "https://www.google.com/maps/place/CVS/data=!4m7!3m6!1s0x872b08d75813ec7f:0xb4775241fddcc041!8m2!3d33.4215639!4d-111.9404186!16s%2Fg%2F1tjfbqsl!19sChIJf-wTWNcIK4cRQcDc_UFSd7Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13003952892441051201",
+  "placeId": "ChIJf-wTWNcIK4cRQcDc_UFSd7Q",
+  "googleRating": 3,
+  "googleReviewCount": 241,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCilinY4lxFARMwFAGet00Msr1iQG7pV1Lt4oiGx_PyWHvpE1E3j93F3PbH0RUVDaU4VHcFHbFDQPM-yExrQ2Vt-WIwGrq1YGt-tCMWlaabPbUWk32lDriBdHW4sYaNHD_4mgHNWS7VHI=w1200-h800-k-no",
+  "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 13,
+    "3": 6,
+    "4": 30,
+    "5": 90
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

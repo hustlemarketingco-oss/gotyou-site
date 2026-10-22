@@ -1,0 +1,55 @@
+{
+  "slug": "jersey-mikes-subs-1537-tempe",
+  "name": "Jersey Mike's Subs",
+  "category": "Fast Food",
+  "googleCategory": "Sandwich shop",
+  "secondaryCategories": [
+    "Caterer",
+    "Deli",
+    "Fast food restaurant",
+    "Takeout Restaurant"
+  ],
+  "address": "1537 W Broadway Rd Ste. 106",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4070947,
+  "lng": -111.96534319999999,
+  "phone": "+14809214101",
+  "website": "https://www.jerseymikes.com/9027/tempe-az?utm_source=google&utm_medium=organic&utm_campaign=listings",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jersey+Mike%27s+Subs/data=!4m7!3m6!1s0x872b0f3b04828f37:0x40ad2ec1027cde67!8m2!3d33.4070947!4d-111.9653432!16s%2Fg%2F11cjq1phpc!19sChIJN4-CBDsPK4cRZ958AsEurUA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4660432595903635047",
+  "placeId": "ChIJN4-CBDsPK4cRZ958AsEurUA",
+  "googleRating": 4.1,
+  "googleReviewCount": 388,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrp7P8F3Ej04kepHCgeTHq6M41xoVwdevbuuyzYnPhUZyqrL0I3xtb2JzzmdXP8ixC9oxKa6uCGi8epqWg12Ei7kjPND8U3uvdboT3byr56dozIab1XbuPGjOy6cikP_VdjvyZdw=w1200-h800-k-no",
+  "description": "New Jersey–based counter-serve sandwich chain serving jumbo subs filled with cold cuts & toppings.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 52,
+    "2": 13,
+    "3": 26,
+    "4": 56,
+    "5": 241
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "tri-2b-fit-tempe",
+  "name": "Tri 2B Fit",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Personal trainer",
+    "Sports massage therapist",
+    "Weight loss service"
+  ],
+  "address": "625 S Smith Rd #12",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4241113,
+  "lng": -111.8995439,
+  "phone": "+14806068462",
+  "website": "http://www.tri2bfitaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tri+2B+Fit/data=!4m7!3m6!1s0x872baff3a48a0131:0xfb4d7e06d9bfc1a8!8m2!3d33.4241113!4d-111.8995439!16s%2Fg%2F1tq6kj_s!19sChIJMQGKpPOvK4cRqMG_2QZ-Tfs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18108268244614758824",
+  "placeId": "ChIJMQGKpPOvK4cRqMG_2QZ-Tfs",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XIQxIjWH_QMkMlyzi8Er_Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=130.09962&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "6:00 AM - 8:00 PM",
+    "tue": "6:00 AM - 8:00 PM",
+    "wed": "6:00 AM - 8:00 PM",
+    "thu": "6:00 AM - 8:00 PM",
+    "fri": "6:00 AM - 8:00 PM",
+    "sat": "6:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

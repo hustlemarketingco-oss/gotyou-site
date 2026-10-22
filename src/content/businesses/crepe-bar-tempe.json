@@ -2,7 +2,7 @@
   "slug": "crepe-bar-tempe",
   "name": "Crêpe Bar",
   "category": "Desserts & Bakery",
-  "googleCategory": "Creperie",
+  "googleCategory": "Breakfast restaurant",
   "secondaryCategories": [
     "Brunch restaurant",
     "Coffee shop",
@@ -16,38 +16,18 @@
   "lng": -111.9298556,
   "phone": "+14802478012",
   "website": "http://www.crepebar.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=6977432063767357623",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cr%C3%AApe+Bar/data=!4m7!3m6!1s0x872b06676d2169b3:0x60d4d17e754628b7!8m2!3d33.3497583!4d-111.9298556!16s%2Fg%2F11gz75f7n!19sChIJs2khbWcGK4cRtyhGdX7R1GA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "6977432063767357623",
   "placeId": "ChIJs2khbWcGK4cRtyhGdX7R1GA",
   "googleRating": 4.6,
-  "googleReviewCount": 1141,
+  "googleReviewCount": 1171,
   "priceRange": "$10–20",
   "description": "Spare, modern cafe furnishing creative sweet & savory crêpes as well as specialty coffees & teas.",
   "amenities": [
-    "Outdoor seating",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Organic dishes",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/CrepeBarAZ"
@@ -58,5 +38,23 @@
   "groundgameId": "6a2438b7414b131277865719",
   "seededAt": "2026-06-06T15:11:51Z",
   "updatedAt": "2026-06-08T04:58:32Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 32,
+    "3": 41,
+    "4": 171,
+    "5": 901
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK40OOlbTDzhuLvihChi-aF5c0wVbEKrwem7j9HOU6AY-ENfaH0A7HQjsF5GGlEWAa7Dno_b90aXBXf5JtajZUj-R-74pv-iputDHI6EgPt-h8SgzEz1PBt4z8DKspKSpviUs7VDKUVa9M=w1200-h800-k-no",
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "7:30 AM - 2:00 PM",
+    "thu": "7:30 AM - 2:00 PM",
+    "fri": "7:30 AM - 2:00 PM",
+    "sat": "7:00 AM - 2:00 PM",
+    "sun": "7:00 AM - 2:00 PM"
+  },
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

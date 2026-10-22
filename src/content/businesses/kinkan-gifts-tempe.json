@@ -1,0 +1,44 @@
+{
+  "slug": "kinkan-gifts-tempe",
+  "name": "Kinkan Gifts",
+  "category": "Shopping",
+  "googleCategory": "Stationery store",
+  "address": "2016 E Wildermuth Ave #1124",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.413875499999996,
+  "lng": -111.89932739999999,
+  "phone": "+14803821448",
+  "website": "https://kinkangifts.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Kinkan+Gifts/data=!4m7!3m6!1s0x872b098a706a175f:0x8bfceea65de96e09!8m2!3d33.4138755!4d-111.8993274!16s%2Fg%2F11lcn1q40c!19sChIJXxdqcIoJK4cRCW7pXabu_Is?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10087199663710629385",
+  "placeId": "ChIJXxdqcIoJK4cRCW7pXabu_Is",
+  "googleRating": 5,
+  "googleReviewCount": 84,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFZQ0OywHNWS-4Q8zfMSOUCl3NLGI1JVlqbqzi7hY2FyvnST9bntD407Fn6HCiTQ-3L9g0cVrEtei6Nvb-bwCplFAPYawQk_zeFvDJp4xC6jcCEbWEUDGEteCzqJONsct63LXN=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 83
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:00 PM",
+    "tue": "11:00 AM - 7:00 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 7:00 PM",
+    "sun": "10:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

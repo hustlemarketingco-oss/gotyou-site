@@ -1,0 +1,45 @@
+{
+  "slug": "tempe-mesa-mall-tempe",
+  "name": "Tempe-Mesa Mall",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "2155-2161 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4215144,
+  "lng": -111.8929146,
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe-Mesa+Mall/data=!4m7!3m6!1s0x872b085ad75206f7:0xa37fa94847f774a6!8m2!3d33.4215144!4d-111.8929146!16s%2Fg%2F11k5drlw44!19sChIJ9wZS11oIK4cRpnT3R0ipf6M?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11781321278134645926",
+  "placeId": "ChIJ9wZS11oIK4cRpnT3R0ipf6M",
+  "googleRating": 4.4,
+  "googleReviewCount": 354,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv74jmpgvqawlZaiNqNKiJrmIpOtCnuJL_B5nzFTrLlxUETAuFFA48jNlVKWzotNVrKuDa_9_NaYEnVpqGG14vJpB6Ti4-V7RBI-TX90VfraboCddiPZ7IDdYVEJ5TaA88xjZn=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 8,
+    "3": 39,
+    "4": 65,
+    "5": 234
+  },
+  "hours": {
+    "mon": "9:00 AM - 12:30 PM, 3:00 PM - 6:30 PM",
+    "tue": "3:00 PM - 6:30 PM",
+    "wed": "9:00 AM - 12:30 PM, 3:00 PM - 6:30 PM",
+    "thu": "3:00 PM - 6:30 PM",
+    "fri": "9:00 AM - 12:30 PM, 3:00 PM - 6:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

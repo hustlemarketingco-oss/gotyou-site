@@ -1,0 +1,47 @@
+{
+  "slug": "jazzercise-of-tempe-nrg-tempe",
+  "name": "Jazzercise of Tempe NRG",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Physical fitness program",
+    "Spa and health club"
+  ],
+  "address": "931 E Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3475651,
+  "lng": -111.92785889999999,
+  "phone": "+16027413626",
+  "website": "https://www.jazzercise.com/location/jazzercise-of-tempe#pricing",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jazzercise+of+Tempe+NRG/data=!4m7!3m6!1s0x872b07647422f8e9:0xeba06b3561465717!8m2!3d33.3475651!4d-111.9278589!16s%2Fg%2F11sx0td8x6!19sChIJ6fgidGQHK4cRF1dGYTVroOs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16978688472196208407",
+  "placeId": "ChIJ6fgidGQHK4cRF1dGYTVroOs",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGnP1tD0CMr6fqMYPWkEEHlwrDl9bueUQYtn1LyCZOtUjnJR_XAiU4n_-AwDFVrwJg3k8OAfNximuTE8-FRPx1aAozDGi-FqbhvtDdQ2SSfpnxywx__P3PH501f6KEZbg55vgu=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "8:15 AM - 9:45 PM",
+    "tue": "4:15 PM - 5:45 PM",
+    "wed": "4:15 PM - 5:45 PM",
+    "thu": "4:15 PM - 5:45 PM",
+    "fri": "8:15 AM - 9:45 AM",
+    "sat": "8:15 AM - 9:45 AM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

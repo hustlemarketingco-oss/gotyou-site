@@ -14,7 +14,7 @@
   "lng": -111.9408483,
   "placeId": "ChIJ-UYdl68IK4cRP-bXDO5X5DI",
   "googleRating": 4.2,
-  "googleReviewCount": 870,
+  "googleReviewCount": 872,
   "hours": {
     "mon": "Open 24 hours",
     "tue": "Open 24 hours",
@@ -30,5 +30,21 @@
   "groundgameId": "6a72311462f6b91f2a16b869",
   "seededAt": "2026-08-04T18:36:04Z",
   "updatedAt": "2026-08-04T18:39:06Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "3667152676515735103",
+  "googleMapsUrl": "https://www.google.com/maps/place/Danelle+Plaza/data=!4m7!3m6!1s0x872b08af971d46f9:0x32e457ee0cd7e63f!8m2!3d33.3920787!4d-111.9408483!16s%2Fg%2F1vhlyn96!19sChIJ-UYdl68IK4cRP-bXDO5X5DI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 23,
+    "2": 51,
+    "3": 161,
+    "4": 159,
+    "5": 478
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDaPNHuN0wdAJg9D_SuppMn4M4SpMroHviDDqvFOIVErKXoVqEVaxHlqS-oB1kWRcWuhrYAvfEKzQb9eCXFuBYXfvloKMkfSUPs6-SsUFSkn7LT_Ag6ymP13hMYfs04ud83jdbPA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

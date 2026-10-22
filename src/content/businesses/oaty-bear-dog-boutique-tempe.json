@@ -1,0 +1,42 @@
+{
+  "slug": "oaty-bear-dog-boutique-tempe",
+  "name": "Oaty Bear Dog Boutique",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "2036 E Wildermuth Ave Ste 1254",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4136806,
+  "lng": -111.898742,
+  "website": "http://www.oatybear.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Oaty+Bear+Dog+Boutique/data=!4m7!3m6!1s0x872b095144a929e9:0x4316c74ba7da47ab!8m2!3d33.4136806!4d-111.898742!16s%2Fg%2F11y953l151!19sChIJ6SmpRFEJK4cRq0fap0vHFkM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4834270377781381035",
+  "placeId": "ChIJ6SmpRFEJK4cRq0fap0vHFkM",
+  "googleRating": 4.9,
+  "googleReviewCount": 42,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZgfBUaLZF7lyhq3nG9CmnyG2FB1itm9aMrrmP5rEkA3d2xQZzYltihrlmDnp85gMER9Vgy8Y1LM7_I9scSqy5AfRYVz0c20GWICcZOurKbXDn2ZoOP3SvAr2Lk5g8XRVxlfwzKtGVkquC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 41
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 3:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 3:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

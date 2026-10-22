@@ -1,0 +1,36 @@
+{
+  "slug": "pet-sit-pro-tempe",
+  "name": "Pet Sit Pro",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "503 W Duke Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.375275099999996,
+  "lng": -111.9462844,
+  "phone": "+14808097179",
+  "website": "https://petsit-pro.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pet+Sit+Pro/data=!4m7!3m6!1s0x872b07f78d7f2af9:0x1f4a28004f0325d6!8m2!3d33.3752751!4d-111.9462844!16s%2Fg%2F11yfgy6z60!19sChIJ-Sp_jfcHK4cR1iUDTwAoSh8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2254658545243071958",
+  "placeId": "ChIJ-Sp_jfcHK4cR1iUDTwAoSh8",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yvaJJUe0AYoouL4PuCgb2w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=186.76523&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

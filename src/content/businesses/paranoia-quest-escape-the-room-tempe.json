@@ -10,14 +10,9 @@
   "phone": "+14805883760",
   "description": "Located in Tempe, Paranoia Quest Escape The Room is a escape room center.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/paranoiaquestescapetheroom"
@@ -28,5 +23,30 @@
   "groundgameId": "6a243851862c8e13df37051e",
   "seededAt": "2026-06-06T15:10:09Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJhcPCiosFK4cRESQcdYGsvwI",
+  "googleCid": "198066580643128337",
+  "googleMapsUrl": "https://www.google.com/maps/place/Paranoia+Quest+Escape+The+Room/data=!4m7!3m6!1s0x872b058b8ac2c385:0x2bfac81751c2411!8m2!3d33.3410117!4d-111.9668406!16s%2Fg%2F11vxprs9cm!19sChIJhcPCiosFK4cRESQcdYGsvwI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 5,
+  "googleReviewCount": 1513,
+  "ratingBreakdown": {
+    "1": 4,
+    "3": 2,
+    "4": 8,
+    "5": 1499
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8d82juiGlksBXEpBWsLP5RaCdKHtNLD-QbpJAbu9AkjvtfETPxjpYWM1A1aCLHoKf0YJb-VPny2_0N7uxDcKCDHtAkD6ql4ZHZfFlUdgRJYjydetpR2bspVwaVrnIWjSspfE=w1200-h800-k-no",
+  "website": "https://www.paranoiaquest.com/tempe?utm_source=google&utm_medium=gbp&utm_campaign=gbp_optimization",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.341011699999996,
+  "lng": -111.9668406,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -13,12 +13,10 @@
   "website": "https://www.electricbatarcade.com/",
   "placeId": "ChIJq6ldbyIJK4cRl68MC2VDVvI",
   "googleRating": 4.8,
-  "googleReviewCount": 254,
+  "googleReviewCount": 263,
   "amenities": [
-    "Credit card",
-    "Cash",
-    "Apple Pay",
-    "Google Pay"
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "mon": "6:00 AM - 2:00 AM",
@@ -35,5 +33,16 @@
   "groundgameId": "6a723116ffda4b5f0c84231a",
   "seededAt": "2026-08-04T18:36:06Z",
   "updatedAt": "2026-08-04T18:38:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17462218706431815575",
+  "googleMapsUrl": "https://www.google.com/maps/place/Electric+Bat+Arcade/data=!4m7!3m6!1s0x872b09226f5da9ab:0xf25643650b0caf97!8m2!3d33.3926534!4d-111.9403528!16s%2Fg%2F11gnrwqb83!19sChIJq6ldbyIJK4cRl68MC2VDVvI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 6,
+    "4": 22,
+    "5": 229
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1jb0IctTUzuRzulYJRVCZaU7tGwIq9ADlfjJeVxX-oADuhZDki_VdBF8ZNiTp9nbrB4LIjlxrZ8ET-XX0TmL3REOv_W-bsubPwpr15dxSlYQCnhbJwO0Ac3t1PzYvejIHwmsm=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

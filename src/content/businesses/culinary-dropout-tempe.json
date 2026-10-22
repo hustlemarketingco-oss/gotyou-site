@@ -22,7 +22,7 @@
   "website": "https://www.culinarydropout.com/locations/tempe-az/",
   "placeId": "ChIJR1oNBSkJK4cRQS7VirCYfGU",
   "googleRating": 4.4,
-  "googleReviewCount": 8868,
+  "googleReviewCount": 8983,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 10:00 PM",
@@ -39,5 +39,22 @@
   "groundgameId": "6a397b2afa8c18622aa39613",
   "seededAt": "2026-06-22T18:12:58Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7312887778953735745",
+  "googleMapsUrl": "https://www.google.com/maps/place/Culinary+Dropout/data=!4m7!3m6!1s0x872b0929050d5a47:0x657c98b08ad52e41!8m2!3d33.4286913!4d-111.9440252!16s%2Fg%2F11b6j70xw8!19sChIJR1oNBSkJK4cRQS7VirCYfGU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 225,
+    "2": 225,
+    "3": 640,
+    "4": 2100,
+    "5": 5793
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaVzjZFC0PcfF3RdH-wvcK8b8H2RrEnwoEyK1p68z4rq2Y2vmO861MK3Plt-heji4VZXTOPWcZzYamWBRaCQugFLVz_h_8Z53YXkijo9n4-ExjkX6VxMO_Ix3miFsFCf4fL8mX=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

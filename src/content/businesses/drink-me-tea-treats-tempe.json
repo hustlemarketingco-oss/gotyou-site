@@ -1,0 +1,54 @@
+{
+  "slug": "drink-me-tea-treats-tempe",
+  "name": "Drink Me! Tea & Treats",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Bakery",
+    "Cafe",
+    "Gluten-free restaurant",
+    "Tea market place",
+    "Vegan restaurant",
+    "Vegetarian cafe and deli"
+  ],
+  "address": "1730 E Warner Rd #8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3353628,
+  "lng": -111.9118558,
+  "phone": "+16022065469",
+  "website": "https://drinkmetearoom.com/teaandtreats/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Drink+Me!+Tea+%26+Treats/data=!4m7!3m6!1s0x872b076863a8e94b:0x12e96ffd13c09ec2!8m2!3d33.3353628!4d-111.9118558!16s%2Fg%2F11vyzhn8ns!19sChIJS-moY2gHK4cRwp7AE_1v6RI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1362743495005085378",
+  "placeId": "ChIJS-moY2gHK4cRwp7AE_1v6RI",
+  "googleRating": 4.8,
+  "googleReviewCount": 31,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerzevOwTa2wSlLTsuoVjG8i0RwFa35reaZsOqSCfUBej3Zc15fBcxxIAyMQSvSeL2LtI54FkjKkb_ZQ2GWCTcC7j3MBP8R1Js-DsdoLSQ1q_7ijxO3Yu3vgVmq0EfDbOTgspz42PJwtLXq=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 29
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -10,21 +10,10 @@
   "priceRange": "$$",
   "description": "Basic take-out joint with vegan sandwiches & pastries, plus coffee, smoothies & cold-pressed juices.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Free street parking",
-    "Paid parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/EarlyBirdVegan"
@@ -35,5 +24,21 @@
   "groundgameId": "6a243936e3d02d54a4d6a52f",
   "seededAt": "2026-06-06T15:13:58Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ8Q7Z4EsPK4cR62jGIIfN5oM",
+  "googleCid": "9504510043866163435",
+  "googleMapsUrl": "https://www.google.com/maps/place/Early+Bird+Vegan/data=!4m7!3m6!1s0x872b0f4be0d90ef1:0x83e6cd8720c668eb!8m2!3d33.4080083!4d-111.894778!16s%2Fg%2F11qn9ggsxl!19sChIJ8Q7Z4EsPK4cR62jGIIfN5oM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.8,
+  "googleReviewCount": 404,
+  "ratingBreakdown": {
+    "1": 15,
+    "3": 6,
+    "4": 13,
+    "5": 370
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePlgfmhYYFuTUcjwf2Git74MfXHXlitKpbtE0N5P37SM0heD5PTV_YgCt5xT6OrrO7QM0CuoXjNeAVy2XXeVH_ZfaMyCJrAjjkbO5sk8nxv9GzuiarPNvYZO6D38Xley7KdspNZ_lVEBHv=w1200-h800-k-no",
+  "website": "http://www.earlybirdvegan.com/",
+  "lat": 33.4080083,
+  "lng": -111.89477799999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

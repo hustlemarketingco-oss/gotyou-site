@@ -1,0 +1,56 @@
+{
+  "slug": "frutilandia-tempe",
+  "name": "Frutilandia",
+  "category": "Desserts & Bakery",
+  "googleCategory": "Ice cream shop",
+  "secondaryCategories": [
+    "Bar",
+    "Dessert shop",
+    "Hamburger restaurant",
+    "Hot dog stand",
+    "Mexican restaurant",
+    "Restaurant"
+  ],
+  "address": "5025 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.380570899999995,
+  "lng": -111.96237149999999,
+  "phone": "+14808852251",
+  "website": "https://frutilandiausa.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Frutilandia/data=!4m7!3m6!1s0x872b0f09113fed6f:0x140aec53fe4502fc!8m2!3d33.3805709!4d-111.9623715!16s%2Fg%2F11vlnhhfcl!19sChIJb-0_EQkPK4cR_AJF_lPsChQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1444226476018041596",
+  "placeId": "ChIJb-0_EQkPK4cR_AJF_lPsChQ",
+  "googleRating": 4.6,
+  "googleReviewCount": 422,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUFT-shnh_YmBIO5wXn3Z408-0UZtIheuWV550plpvoi-phJ7IKYsYwhR5p7qJNgsi-YvNdRBaK7xnpNBKMPisuoOYeLQ7xCB5SapYnidnPPoZ4NfUdX3F9TEDphHUaciGpTfcbw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 7,
+    "3": 10,
+    "4": 13,
+    "5": 364
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "develan-tempe",
+  "name": "Develan",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "805 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.377164799999996,
+  "lng": -111.95127099999999,
+  "website": "https://develan.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Develan/data=!4m7!3m6!1s0x872b07a61069f395:0x34de2d93b47c0323!8m2!3d33.3771648!4d-111.951271!16s%2Fg%2F11yt0h1pfd!19sChIJlfNpEKYHK4cRIwN8tJMt3jQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3809532447213486883",
+  "placeId": "ChIJlfNpEKYHK4cRIwN8tJMt3jQ",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RnGJrjnfLdRobWvBRN2EfA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=176.34904&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

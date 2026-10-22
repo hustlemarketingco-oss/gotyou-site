@@ -2,7 +2,7 @@
   "slug": "mochi-fresh-homemade-boba-milk-tea-tempe",
   "name": "Mochi Fresh Homemade Boba Milk Tea",
   "category": "Coffee & Cafe",
-  "googleCategory": "Bubble tea store",
+  "googleCategory": "Tea house",
   "secondaryCategories": [
     "Tea house",
     "Cafe",
@@ -17,25 +17,16 @@
   "lng": -111.9512549,
   "phone": "+14805973115",
   "website": "http://www.mochifresh.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=18364730659100750211",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mochi+Fresh+Homemade+Boba+Milk+Tea/data=!4m7!3m6!1s0x872b098948480ab3:0xfedca13be36cf183!8m2!3d33.4226458!4d-111.9512549!16s%2Fg%2F11fn9pfbvt!19sChIJswpISIkJK4cRg_Fs4zuh3P4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "18364730659100750211",
   "placeId": "ChIJswpISIkJK4cRg_Fs4zuh3P4",
   "googleRating": 4.8,
-  "googleReviewCount": 690,
+  "googleReviewCount": 719,
   "priceRange": "$",
   "description": "Located in Tempe, Mochi Fresh Homemade Boba Milk Tea is a bubble tea store & tea house with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "hours": {
     "fri": "12:00 PM - 9:00 PM",
@@ -52,5 +43,14 @@
   "groundgameId": "6a243600862c8e13df370381",
   "seededAt": "2026-06-06T15:00:16Z",
   "updatedAt": "2026-08-05T22:02:51Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 18,
+    "2": 6,
+    "3": 15,
+    "4": 43,
+    "5": 637
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdhudnqkKPfuQRHw_U_04KZ9WMziUp7E10E1aYQKMk7C3jecPZ2B3qWpw9Q5DSD7NXt_sVOd_lSofkbGdMMnyblKBSRwukZNxvmK0pHdL34G6jyHz26Jm8RK3imtyXKXPWHxu_=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

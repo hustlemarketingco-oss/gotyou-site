@@ -1,0 +1,43 @@
+{
+  "slug": "nail-dates-tempe",
+  "name": "Nail Dates",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "209 E Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3772776,
+  "lng": -111.9371369,
+  "website": "https://naildates.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nail+Dates/data=!4m7!3m6!1s0x872b07d3e813bf07:0x6d9872abbff831b7!8m2!3d33.3772776!4d-111.9371369!16s%2Fg%2F11y8t6t0_9!19sChIJB78T6NMHK4cRtzH4v6tymG0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7897188028579852727",
+  "placeId": "ChIJB78T6NMHK4cRtzH4v6tymG0",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3FwtkLybzc7CRnsxGVVb4wK-pKEDm34CJdvrQvoXNn_JkgrWCFjeKAbeQ8JTz9T3zEyHoyDkFrM07zoyjJ0tuEMObWcWI7nWvcRyZKYZn8JLtSIfPavaAGBZhUNsE843TPZQMpk4WVz5Y=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "9:30 AM - 2:00 PM",
+    "tue": "9:30 AM - 2:00 PM",
+    "wed": "9:30 AM - 2:00 PM",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "9:30 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

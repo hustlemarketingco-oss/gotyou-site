@@ -1,0 +1,45 @@
+{
+  "slug": "mo-braids-tempe",
+  "name": "Mo Braids",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "secondaryCategories": [
+    "Hairdresser"
+  ],
+  "address": "7720 S Priest Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348126,
+  "lng": -111.9653372,
+  "phone": "+13144433467",
+  "website": "https://mobraids.square.site/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Mo+Braids/data=!4m7!3m6!1s0x872a49fe9cba0eb7:0xb221f265b4e231dc!8m2!3d33.348126!4d-111.9653372!16s%2Fg%2F11m5qzldpg!19sChIJtw66nP5JKocR3DHitGXyIbI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12835806931622965724",
+  "placeId": "ChIJtw66nP5JKocR3DHitGXyIbI",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpgCwFnmosI23eKKBx6_m9hU4YlXMJ6L4lQd1KPdgpaEMQiCcVziPIzBjjozduNmflzT1njbNchaMDB7OEKVkVreWeJdAVAvrs55m7dqxU_Q4ZOkk2zR9fTB-EC6Zw9ShgUfjCowU9_HdZ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

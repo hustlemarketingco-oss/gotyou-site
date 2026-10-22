@@ -1,0 +1,50 @@
+{
+  "slug": "food-for-the-gods-cafe-tempe",
+  "name": "Food for The Gods Cafe",
+  "category": "Restaurant",
+  "googleCategory": "Raw food restaurant",
+  "secondaryCategories": [
+    "Cafe",
+    "Health and beauty shop",
+    "Skin care clinic",
+    "Vegan restaurant"
+  ],
+  "address": "906 N Miller Rd #1011",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.440055799999996,
+  "lng": -111.91887779999999,
+  "phone": "+14809715700",
+  "googleMapsUrl": "https://www.google.com/maps/place/Food+for+The+Gods+Cafe/data=!4m7!3m6!1s0x872b0903832d42fd:0x60508f42303cd95b!8m2!3d33.4400558!4d-111.9188778!16s%2Fg%2F11yk6csjw6!19sChIJ_UItgwMJK4cRW9k8MEKPUGA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6940204540217842011",
+  "placeId": "ChIJ_UItgwMJK4cRW9k8MEKPUGA",
+  "googleRating": 3,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o-acZ-0n07fUl5vHOQGK-w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=188.6363&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 1
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "1:00 PM - 8:00 PM",
+    "thu": "1:00 PM - 8:00 PM",
+    "fri": "1:00 PM - 8:00 PM",
+    "sat": "Closed",
+    "sun": "1:00 PM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "pei-wei-asian-kitchen-tempe",
+  "name": "Pei Wei Asian Kitchen",
+  "category": "Asian & Pacific",
+  "googleCategory": "Chinese restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Caterer",
+    "Delivery service"
+  ],
+  "address": "1825 E Guadalupe Rd Ste F-112",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.361378099999996,
+  "lng": -111.9103763,
+  "phone": "+14803330014",
+  "website": "https://www.peiwei.com/locations/arizona/91-south-tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pei+Wei+Asian+Kitchen/data=!4m7!3m6!1s0x872b064bdc367e8f:0x76f4f5579de3a998!8m2!3d33.3613781!4d-111.9103763!16s%2Fg%2F1vgx16fs!19sChIJj3423EsGK4cRmKnjnVf19HY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8571745747452799384",
+  "placeId": "ChIJj3423EsGK4cRmKnjnVf19HY",
+  "googleRating": 3.6,
+  "googleReviewCount": 686,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXs3FGsXRQ9OLI33LmbNV37pQxNo4ny2p5XLpi93M_1UP83oraOYWl0UFwE1d7b9mTR1EP9d9xQbdNcQR7aUf3NIuhmmpsH54EOaEGcpcQjx4eQEdKpXLLEnY3L-oJtWaJGlrgJA=w1200-h800-k-no",
+  "description": "Counter-serve Pan-Asian chain for health-conscious noodle & rice dishes & more.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 144,
+    "2": 49,
+    "3": 64,
+    "4": 116,
+    "5": 313
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

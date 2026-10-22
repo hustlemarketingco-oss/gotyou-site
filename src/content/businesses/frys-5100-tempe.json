@@ -1,0 +1,58 @@
+{
+  "slug": "frys-5100-tempe",
+  "name": "Fry's",
+  "category": "Shopping",
+  "googleCategory": "Grocery store",
+  "secondaryCategories": [
+    "Bakery",
+    "Butcher shop",
+    "Cheese shop",
+    "Deli",
+    "Florist",
+    "Grocery delivery service",
+    "Health food store",
+    "Liquor store"
+  ],
+  "address": "5100 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3794396,
+  "lng": -111.91090489999999,
+  "phone": "+14807529700",
+  "website": "https://www.frysfood.com/stores/grocery/az/tempe/baseline-mcclintock/660/00607?cid=loc_66000607_gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fry%27s/data=!4m7!3m6!1s0x872b062de01d255d:0x53d8acd9382edf1c!8m2!3d33.3794396!4d-111.9109049!16s%2Fg%2F1tfkr71z!19sChIJXSUd4C0GK4cRHN8uONms2FM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6041768949067996956",
+  "placeId": "ChIJXSUd4C0GK4cRHN8uONms2FM",
+  "googleRating": 4.1,
+  "googleReviewCount": 1193,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6o6J-Sdw32b7wD1oYSZt6NeWXm2yCLGSbnIfVN0dRb9Ol5bFvYxt9SSkFgGxIQL2tZAdaV_i-tlSRl3vmE5qit6cjtUVQ6o0dwCMjLNKq3hgZH5xqydJrUO3yiqG_nFuWuPFp=w1200-h800-k-no",
+  "description": "Outpost of a grocery store chain with typical offerings like produce, meat & household supplies.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 111,
+    "2": 38,
+    "3": 104,
+    "4": 249,
+    "5": 691
+  },
+  "hours": {
+    "mon": "6:00 AM - 10:00 PM",
+    "tue": "6:00 AM - 10:00 PM",
+    "wed": "6:00 AM - 10:00 PM",
+    "thu": "6:00 AM - 10:00 PM",
+    "fri": "6:00 AM - 10:00 PM",
+    "sat": "6:00 AM - 10:00 PM",
+    "sun": "6:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

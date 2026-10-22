@@ -1,0 +1,37 @@
+{
+  "slug": "quick-tag-tempe",
+  "name": "Quick-Tag",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "Walmart Supercenter, 800 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3937987,
+  "lng": -111.9278428,
+  "phone": "+18886008247",
+  "website": "http://www.quick-tag.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Quick-Tag/data=!4m7!3m6!1s0x872b0935f4cd85fb:0x9ed2f02ad506532d!8m2!3d33.3937987!4d-111.9278428!16s%2Fg%2F11ss7vlfyw!19sChIJ-4XN9DUJK4cRLVMG1Srw0p4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "11444473669855105837",
+  "placeId": "ChIJ-4XN9DUJK4cRLVMG1Srw0p4",
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfa9ien5EJQak9eUzfwSCI_FXFZZiAxbgQ3sshYi0F7LnoitL_O7vXH158zoFeHwZqmXreoazReYM9QLOaFkCeEET44Gx4xRgVdfnwYa8HXFDsU1F6gx5p872JbB-lRzEGC-tzS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "6:00 AM - 11:00 PM",
+    "sun": "6:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

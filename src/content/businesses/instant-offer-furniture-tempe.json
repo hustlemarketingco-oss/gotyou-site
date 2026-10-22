@@ -1,0 +1,45 @@
+{
+  "slug": "instant-offer-furniture-tempe",
+  "name": "Instant Offer Furniture",
+  "category": "Shopping",
+  "googleCategory": "Used furniture store",
+  "secondaryCategories": [
+    "Furniture store"
+  ],
+  "address": "2180 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4223395,
+  "lng": -111.9726395,
+  "phone": "+16028835854",
+  "website": "https://instantofferfurniture.com/phoenix",
+  "googleMapsUrl": "https://www.google.com/maps/place/Instant+Offer+Furniture/data=!4m7!3m6!1s0x872b0f79891356c5:0x860dfff89524be4d!8m2!3d33.4223395!4d-111.9726395!16s%2Fg%2F11zfqtwsvd!19sChIJxVYTiXkPK4cRTb4klfj_DYY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9659658218898767437",
+  "placeId": "ChIJxVYTiXkPK4cRTb4klfj_DYY",
+  "googleRating": 5,
+  "googleReviewCount": 30,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezkf6I8x_oXXwaJTBX5xVGpWE0DuttxMPWYd0ZQTid7qT8TG3b3X04fHbj8uSFoR3c0ZZ6-17w-WGCi7MeqU7bNv_IexF98MZ9JyrPR8MVavDYxTXc5HuAX3bCK54TXHtHPvy8jdGf8-We=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 30
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 2:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

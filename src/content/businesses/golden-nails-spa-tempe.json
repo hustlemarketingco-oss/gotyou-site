@@ -1,0 +1,49 @@
+{
+  "slug": "golden-nails-spa-tempe",
+  "name": "Golden Nails & Spa",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Spa"
+  ],
+  "address": "1815 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392196,
+  "lng": -111.907759,
+  "phone": "+14807300040",
+  "googleMapsUrl": "https://www.google.com/maps/place/Golden+Nails+%26+Spa/data=!4m7!3m6!1s0x872b088116df8a43:0x4b99f7fcba261695!8m2!3d33.392196!4d-111.907759!16s%2Fg%2F11b7cmvx02!19sChIJQ4rfFoEIK4cRlRYmuvz3mUs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5447657889108203157",
+  "placeId": "ChIJQ4rfFoEIK4cRlRYmuvz3mUs",
+  "googleRating": 4.1,
+  "googleReviewCount": 189,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnYxLMQQvenIDdlY6N5i2sAVfH7YhpVINA5FSkLcOnuF4AF1eN9FJBFWDcXkuRZDR1ufxoo0pQ5dPvOX9iPgHF6uWW8u_G-jZfDVcyFLIZwcNErKfKrjKyV2wWxO70MhWSCSk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 33,
+    "2": 5,
+    "3": 8,
+    "4": 16,
+    "5": 127
+  },
+  "hours": {
+    "mon": "9:30 AM - 7:00 PM",
+    "tue": "9:30 AM - 7:00 PM",
+    "wed": "9:30 AM - 7:00 PM",
+    "thu": "9:30 AM - 7:00 PM",
+    "fri": "9:30 AM - 7:00 PM",
+    "sat": "9:30 AM - 6:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

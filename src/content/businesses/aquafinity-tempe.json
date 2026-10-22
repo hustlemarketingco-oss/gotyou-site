@@ -1,0 +1,37 @@
+{
+  "slug": "aquafinity-tempe",
+  "name": "Aquafinity",
+  "category": "Shopping",
+  "googleCategory": "Swimming pool supply store",
+  "address": "1733 E McKellips Rd Suite 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.450445,
+  "lng": -111.9114025,
+  "phone": "+14805537052",
+  "website": "https://aquafinity.com/about/aes-aquatic-environmental-systems/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aquafinity/data=!4m7!3m6!1s0x872b0987ba36c525:0xfde7760afa8fd3d3!8m2!3d33.450445!4d-111.9114025!16s%2Fg%2F11z4y43hn3!19sChIJJcU2uocJK4cR09OP-gp25_0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18295721800741409747",
+  "placeId": "ChIJJcU2uocJK4cR09OP-gp25_0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=09hwB1gyfoqfEgztWPazSQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=188.6314&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "7:00 AM - 3:30 PM",
+    "tue": "7:00 AM - 3:30 PM",
+    "wed": "7:00 AM - 3:30 PM",
+    "thu": "7:00 AM - 3:30 PM",
+    "fri": "7:00 AM - 3:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

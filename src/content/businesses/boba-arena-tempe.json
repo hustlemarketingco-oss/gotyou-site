@@ -10,13 +10,8 @@
   "phone": "+14804784099",
   "description": "Located in Tempe, Boba Arena is a bubble tea store with takeout & delivery.",
   "amenities": [
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/bobaarena"
@@ -27,5 +22,30 @@
   "groundgameId": "6a24360cce7cb85d6083b469",
   "seededAt": "2026-06-06T15:00:28Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJRTD_EIUFK4cRRBXgvPghVS8",
+  "googleCid": "3410669645007426884",
+  "googleMapsUrl": "https://www.google.com/maps/place/Boba+Arena/data=!4m7!3m6!1s0x872b058510ff3045:0x2f5521f8bce01544!8m2!3d33.3510125!4d-111.9610989!16s%2Fg%2F11wx21k8l2!19sChIJRTD_EIUFK4cRRBXgvPghVS8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 35,
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 1,
+    "4": 1,
+    "5": 30
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLcKMyfd-iGetCseemfrGJfJ6IXC9BW0H6XkCl-rvk5kIIDJcI3EBGDtcgoxwZVM3EB0jq2jlTbTqt7U0Qs5Wk8It-wS5b7mEkVVU_Ls5jphepYQN1p_KWNQAsLRs3ZV60PrE=w1200-h800-k-no",
+  "website": "https://www.bobaarena.com/",
+  "hours": {
+    "mon": "1:00 PM - 10:00 PM",
+    "tue": "1:00 PM - 10:00 PM",
+    "wed": "12:00 PM - 10:00 PM",
+    "thu": "12:00 PM - 10:00 PM",
+    "fri": "12:00 PM - 10:00 PM",
+    "sat": "11:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 10:00 PM"
+  },
+  "lat": 33.351012499999996,
+  "lng": -111.9610989,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

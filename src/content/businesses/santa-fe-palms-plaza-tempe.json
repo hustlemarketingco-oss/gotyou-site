@@ -1,0 +1,46 @@
+{
+  "slug": "santa-fe-palms-plaza-tempe",
+  "name": "Santa Fe Palms Plaza",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "1712 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3644606,
+  "lng": -111.91319229999999,
+  "website": "http://santa-fe-palms-plaza.edan.io/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Santa+Fe+Palms+Plaza/data=!4m7!3m6!1s0x872b0649aa1489e5:0x3737c5dcc78da34e!8m2!3d33.3644606!4d-111.9131923!16s%2Fg%2F1tcwx5kw!19sChIJ5YkUqkkGK4cRTqONx9zFNzc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3978866347836547918",
+  "placeId": "ChIJ5YkUqkkGK4cRTqONx9zFNzc",
+  "googleRating": 4.2,
+  "googleReviewCount": 77,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebw1SeuIL7dhxgY5QUlRGFS707FqqFx3d05Ute8Q-Rvq6-EBff88FQxXydUCpjIP_O3hzpaIFpLXQIHSqScz53s0Z_WzzQfcsNH1M7zR8QjlUaeiQDWhePKQ9eir5sQ-2XfDoR=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 2,
+    "3": 13,
+    "4": 23,
+    "5": 38
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

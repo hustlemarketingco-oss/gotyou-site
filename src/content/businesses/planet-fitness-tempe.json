@@ -1,0 +1,52 @@
+{
+  "slug": "planet-fitness-tempe",
+  "name": "Planet Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Spa",
+    "Tanning salon"
+  ],
+  "address": "1405 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3915874,
+  "lng": -111.9616033,
+  "phone": "+14802198281",
+  "website": "https://www.planetfitness.com/gyms/tempe-west-az?utm_medium=organic&utm_source=extnet",
+  "googleMapsUrl": "https://www.google.com/maps/place/Planet+Fitness/data=!4m7!3m6!1s0x872b0f4fb127766f:0xd770580d2ca3a1c!8m2!3d33.3915874!4d-111.9616033!16s%2Fg%2F11gdpv9qmh!19sChIJb3YnsU8PK4cRHDrK0oAFdw0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "970250295572052508",
+  "placeId": "ChIJb3YnsU8PK4cRHDrK0oAFdw0",
+  "googleRating": 4.4,
+  "googleReviewCount": 1000,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea8c-iT13PguybVN0fD-GuDKNUKqUKIqK3LsJkOF-njy56LSL83wkPVMpmz6vN_EQBo9AMl4TP_NV51eT4z0PaKZULjoI-ZTGUig2cs2SRh4Tkl10dl06iizFoVvdpsb6djXR_YKSr3DVe=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 76,
+    "2": 19,
+    "3": 35,
+    "4": 141,
+    "5": 729
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "12:00 AM - 10:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

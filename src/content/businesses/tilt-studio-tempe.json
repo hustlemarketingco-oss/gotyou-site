@@ -17,15 +17,9 @@
   "phone": "+14806481222",
   "description": "Located in Tempe, Tilt Studio is a video arcade & american restaurant. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/tiltstudiosouthernhills"
@@ -36,5 +30,31 @@
   "groundgameId": "6a2437a797cdd5c06dbc4db0",
   "seededAt": "2026-06-06T15:07:19Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJNVhRbFoPK4cRm67TchXOLhU",
+  "googleCid": "1526383915241287323",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tilt+Studio/data=!4m7!3m6!1s0x872b0f5a6c515835:0x152ece1572d3ae9b!8m2!3d33.3856787!4d-111.9650431!16s%2Fg%2F11c1r20x8r!19sChIJNVhRbFoPK4cRm67TchXOLhU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.2,
+  "googleReviewCount": 2461,
+  "ratingBreakdown": {
+    "1": 137,
+    "2": 104,
+    "3": 251,
+    "4": 558,
+    "5": 1411
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3TIixdkMPGCP4G9rnHar9GvcrXiBSjg-N1C9oEvUxlFE68ZbnMOP1yjuKPJVHqGcHCFCbXUGY8toRJhH8Dy-X_JhfpTF4VSbd17z5K7YAQTTn4KNPceR33HO1lN75hAzuFPTE=w1200-h800-k-no",
+  "website": "https://tiltstudio.com/tempe/",
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "lat": 33.3856787,
+  "lng": -111.96504309999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

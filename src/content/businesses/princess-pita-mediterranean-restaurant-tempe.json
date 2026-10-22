@@ -20,11 +20,11 @@
   "lng": -111.95535,
   "phone": "+16232869860",
   "website": "https://princesspitaaz.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=12090886989010533053",
+  "googleMapsUrl": "https://www.google.com/maps/place/Princess+Pita+Mediterranean+Restaurant+-+Tempe/data=!4m7!3m6!1s0x872b0fd47e318c39:0xa7cb75a7ff5d7abd!8m2!3d33.4423256!4d-111.95535!16s%2Fg%2F11khr_s94t!19sChIJOYwxftQPK4cRvXpd_6d1y6c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "12090886989010533053",
   "placeId": "ChIJOYwxftQPK4cRvXpd_6d1y6c",
   "googleRating": 4.5,
-  "googleReviewCount": 496,
+  "googleReviewCount": 550,
   "description": "Located in Tempe, Princess Pita Mediterranean Restaurant - Tempe is a mediterranean restaurant & caterer.",
   "hours": {
     "fri": "10:00 AM - 9:00 PM",
@@ -41,5 +41,17 @@
   "groundgameId": "6a243782dbd4110d6f8210f7",
   "seededAt": "2026-06-06T15:06:42Z",
   "updatedAt": "2026-07-30T17:59:04Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 31,
+    "2": 17,
+    "3": 20,
+    "4": 52,
+    "5": 430
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRcX52z1IjTsC5ZWCOfbFFtfIwarqjjnQOZ6DRJ0gpcQet2BI2uALiAqdXRldkzW12K1KOK2xanY2ohk3s_gbndC6WMIhbOmp_gKe0lAr8WnnH3vlQYdfNBE3f_n8XatcjNx6Rvg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

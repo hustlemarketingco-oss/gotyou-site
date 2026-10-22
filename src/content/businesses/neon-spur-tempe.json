@@ -1,0 +1,46 @@
+{
+  "slug": "neon-spur-tempe",
+  "name": "Neon Spur",
+  "category": "Bars & Pubs",
+  "googleCategory": "Cocktail bar",
+  "address": "680 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4236739,
+  "lng": -111.9402112,
+  "phone": "+14802091760",
+  "website": "https://neonspurdive.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Neon+Spur/data=!4m7!3m6!1s0x872b09e0563472c5:0x540c533d224e2fd0!8m2!3d33.4236739!4d-111.9402112!16s%2Fg%2F11x1y28jym!19sChIJxXI0VuAJK4cR0C9OIj1TDFQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6056307120940134352",
+  "placeId": "ChIJxXI0VuAJK4cR0C9OIj1TDFQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 159,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8MKO4ftYMON7sD8Hef4q-mWSfn6lp2dBH7F8DHj_dSqCoQNT0T2Ef8mpy1wJC3RshhzjNZQbyHri1QNbNA-IgmubZ3bJTglL0R2cMFhgvkwWWR38kDKnkVax6ZLUTWkEbmrwM71J-o2na=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 6,
+    "3": 2,
+    "5": 125
+  },
+  "hours": {
+    "mon": "4:00 PM - 12:00 AM",
+    "tue": "Closed",
+    "wed": "4:00 PM - 2:00 AM",
+    "thu": "4:00 PM - 2:00 AM",
+    "fri": "4:00 PM - 2:00 AM",
+    "sat": "9:00 AM - 2:00 AM",
+    "sun": "9:00 AM - 12:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

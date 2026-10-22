@@ -1,0 +1,42 @@
+{
+  "slug": "sportex-apparel-tempe",
+  "name": "Sportex Apparel",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "2020 W 4th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4271544,
+  "lng": -111.9711482,
+  "phone": "+18004868677",
+  "website": "http://sportexapparel.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sportex+Apparel/data=!4m7!3m6!1s0x872b0edc830cd5bf:0x31c5680c92581eeb!8m2!3d33.4271544!4d-111.9711482!16s%2Fg%2F11b6bv6f5w!19sChIJv9UMg9wOK4cR6x5YkgxoxTE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3586387081474612971",
+  "placeId": "ChIJv9UMg9wOK4cR6x5YkgxoxTE",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X6Uxv0Hl02QcsPUfeY4OhQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=337.9503&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "eos-fitness-tempe",
+  "name": "EōS Fitness",
+  "category": "Health & Beauty",
+  "googleCategory": "Gym",
+  "secondaryCategories": [
+    "Fitness center",
+    "Indoor cycling",
+    "Personal trainer",
+    "Sauna",
+    "Weightlifting area",
+    "Yoga studio"
+  ],
+  "address": "750 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3650342,
+  "lng": -111.9300785,
+  "phone": "+14806023320",
+  "website": "https://www.eosfitness.com/gym/tempe-s-rural-rd-e-guadalupe-rd?utm_source=local&utm_medium=organic&utm_content=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/E%C5%8DS+Fitness/data=!4m7!3m6!1s0x872b07cd249a2b69:0x812dbb36b2fad93d!8m2!3d33.3650342!4d-111.9300785!16s%2Fg%2F11wp4qsrmv!19sChIJaSuaJM0HK4cRPdn6sja7LYE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9308301848450095421",
+  "placeId": "ChIJaSuaJM0HK4cRPdn6sja7LYE",
+  "googleRating": 4.5,
+  "googleReviewCount": 1116,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeocHPJEMQyXKWCJhrRl3XNlHwgcW89r5ABC3GooFthwiwlog-dJhliZ4CUzkY_3MvOef1WvaW1m8xfaoKgB0tLbwesgU5g-LW9afQnBTcl_EBTAIhPsKOI920poOltSmOJmO0=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 100,
+    "2": 19,
+    "3": 25,
+    "4": 37,
+    "5": 935
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

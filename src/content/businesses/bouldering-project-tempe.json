@@ -1,0 +1,46 @@
+{
+  "slug": "bouldering-project-tempe",
+  "name": "Bouldering Project - Tempe",
+  "category": "Health & Beauty",
+  "googleCategory": "Rock climbing gym",
+  "address": "2626 S Hardy Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4006624,
+  "lng": -111.95288889999999,
+  "phone": "+14807169014",
+  "website": "https://boulderingproject.com/location/tempe/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bouldering+Project+-+Tempe/data=!4m7!3m6!1s0x872b0f57a05bacb9:0xc48a32a8e8c4a9db!8m2!3d33.4006624!4d-111.9528889!16s%2Fg%2F11tp5nwy55!19sChIJuaxboFcPK4cR26nE6KgyisQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14162187679261043163",
+  "placeId": "ChIJuaxboFcPK4cR26nE6KgyisQ",
+  "googleRating": 4.4,
+  "googleReviewCount": 325,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdD2e5vruGSNMpkWCr6YJzOPnx_IzsK7def-TEryQoADfSEQilU1hv2PN8705nE89VSMiDe0RB_USV8DWBtd-CgpkXQU0wHPse3dSdiHiYzyV6m8azqXho8u_i2tCEcw_hhl1n8Og=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 31,
+    "2": 10,
+    "3": 12,
+    "4": 25,
+    "5": 247
+  },
+  "hours": {
+    "mon": "6:00 AM - 11:00 PM",
+    "tue": "6:00 AM - 11:00 PM",
+    "wed": "6:00 AM - 11:00 PM",
+    "thu": "6:00 AM - 11:00 PM",
+    "fri": "6:00 AM - 11:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

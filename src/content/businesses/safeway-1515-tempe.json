@@ -21,25 +21,17 @@
   "lng": -111.9136731,
   "phone": "+14807551844",
   "website": "https://local.safeway.com/safeway/az/tempe/1515-e-elliot-rd.html",
-  "googleMapsUrl": "https://www.google.com/maps?cid=2897593589767393829",
+  "googleMapsUrl": "https://www.google.com/maps/place/Safeway/data=!4m7!3m6!1s0x872b0656e31f4c0b:0x283652048d88d225!8m2!3d33.3482464!4d-111.9136731!16s%2Fg%2F1td53xbf!19sChIJC0wf41YGK4cRJdKIjQRSNig?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "2897593589767393829",
   "placeId": "ChIJC0wf41YGK4cRJdKIjQRSNig",
   "googleRating": 4.3,
-  "googleReviewCount": 1125,
+  "googleReviewCount": 1138,
   "priceRange": "$$",
   "description": "Longtime supermarket chain carrying brand-name & house-label groceries, plus a deli, bakery & more.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Checks",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/122880034460785"
@@ -59,5 +51,14 @@
   "groundgameId": "6a2439974c4a97437b4e9715",
   "seededAt": "2026-06-06T15:15:35Z",
   "updatedAt": "2026-06-06T15:15:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 35,
+    "3": 96,
+    "4": 266,
+    "5": 687
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy7WICPB7T0w17LachANLbqiRA4m3Z6GN-8JtdOuYitXQ7rdYzhMJRNC4BHRTC2lDdX5xn97y6iYiKAivQh9q0b6mGHHtAQ-GW4zlFb7UinCUmU-PP0hF_xdnmR_JYow-diL8=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

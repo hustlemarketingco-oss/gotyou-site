@@ -2,7 +2,7 @@
   "slug": "aloha-yogurt-tempe",
   "name": "Aloha Yogurt",
   "category": "Desserts & Bakery",
-  "googleCategory": "Ice cream shop",
+  "googleCategory": "Frozen yogurt shop",
   "secondaryCategories": [
     "Dessert shop",
     "Confectionery",
@@ -18,7 +18,7 @@
   "website": "http://www.alohayogurt.com/",
   "placeId": "ChIJnaQBjxsGK4cRH627zzQdQOc",
   "googleRating": 4.8,
-  "googleReviewCount": 777,
+  "googleReviewCount": 793,
   "priceRange": "$",
   "hours": {
     "mon": "Closed",
@@ -35,5 +35,21 @@
   "groundgameId": "6a3ee04df17824cea7b8f649",
   "seededAt": "2026-06-26T20:25:49Z",
   "updatedAt": "2026-08-06T01:47:29Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16663350733931523359",
+  "googleMapsUrl": "https://www.google.com/maps/place/Aloha+Yogurt/data=!4m7!3m6!1s0x872b061b8f01a49d:0xe7401d34cfbbad1f!8m2!3d33.377826!4d-111.9362714!16s%2Fg%2F113h0_t3y!19sChIJnaQBjxsGK4cRH627zzQdQOc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 6,
+    "2": 8,
+    "3": 25,
+    "4": 63,
+    "5": 691
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK3DBHq0s0sGYtOHUJTLOPUX-TAqDXYL1IInoMFwPi13hDiIzKKBZy4H9-4ONVhsvxDY12Qw6guCdLcctfyyPJ5YNFf63pWVBK3s1t7jS3O_GxJe3DvueT8IJxlNJcthbDYImf-A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

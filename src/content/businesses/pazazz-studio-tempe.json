@@ -1,0 +1,33 @@
+{
+  "slug": "pazazz-studio-tempe",
+  "name": "Pazazz Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "5430 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3752126,
+  "lng": -111.91971199999999,
+  "phone": "+14808388966",
+  "googleMapsUrl": "https://www.google.com/maps/place/Pazazz+Studio/data=!4m7!3m6!1s0x872b06e4605b6c55:0xfb75ea68bc22f0f3!8m2!3d33.3752126!4d-111.919712!16s%2Fg%2F1tdfz5j1!19sChIJVWxbYOQGK4cR8_AivGjqdfs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18119646411348963571",
+  "placeId": "ChIJVWxbYOQGK4cR8_AivGjqdfs",
+  "googleRating": 5,
+  "googleReviewCount": 17,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0IVRpp3SvhP4r6B5MRyg28LOEAqS-1-HPUFI2KtgdgtMfQE2qbflqLB1I0g4uO7Q_VFt2exFIOcDO9aBZsrU-uA_lJ9As4BWMvHA8hdmMHcZUDKVcy-mqOvi4Ci5jNCFcCkKGEw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 17
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

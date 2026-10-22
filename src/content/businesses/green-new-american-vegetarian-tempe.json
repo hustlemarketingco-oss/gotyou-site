@@ -16,7 +16,7 @@
   "website": "http://greenvegetarian.com/",
   "placeId": "ChIJFdVqP2oJK4cR45_C6m_ulQ0",
   "googleRating": 4.7,
-  "googleReviewCount": 2218,
+  "googleReviewCount": 2233,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 9:00 PM",
@@ -33,5 +33,22 @@
   "groundgameId": "6a3ac48bfacb8f301068c6fb",
   "seededAt": "2026-06-23T17:38:19Z",
   "updatedAt": "2026-06-23T17:38:20Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "978950658470354915",
+  "googleMapsUrl": "https://www.google.com/maps/place/green+Restaurant/data=!4m7!3m6!1s0x872b096a3f6ad515:0xd95ee6feac29fe3!8m2!3d33.4541481!4d-111.9270403!16s%2Fg%2F1v9gkghq!19sChIJFdVqP2oJK4cR45_C6m_ulQ0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 63,
+    "2": 34,
+    "3": 80,
+    "4": 246,
+    "5": 1810
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtZBnz9v1pRWkcFKJ_z0Ct0hWwSCtn44L5bhoiwtubl_8qEX03E21lTDQsQnOZsd8AcIa0-4Ti9DOVQV3CkyHwhjn7APa6SF4_em3jNel87FlFeTkF1HAePf3HBo4S1mbyHBja=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

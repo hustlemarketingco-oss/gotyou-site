@@ -2,7 +2,7 @@
   "slug": "berry-divine-acai-bowls-960-tempe",
   "name": "Berry Divine Acai Bowls",
   "category": "Coffee & Cafe",
-  "googleCategory": "Acai shop",
+  "googleCategory": "Health food restaurant",
   "secondaryCategories": [
     "Brazilian restaurant",
     "Breakfast restaurant"
@@ -17,7 +17,7 @@
   "website": "http://www.berrydivineacai.com/",
   "placeId": "ChIJA7DDkhcJK4cRg7RwGTUBqic",
   "googleRating": 4.5,
-  "googleReviewCount": 1152,
+  "googleReviewCount": 1163,
   "priceRange": "$$",
   "hours": {
     "mon": "7:30 AM - 10:00 PM",
@@ -34,5 +34,22 @@
   "groundgameId": "6a27659352c4a58b6ad01d42",
   "seededAt": "2026-06-09T01:00:03Z",
   "updatedAt": "2026-07-29T19:24:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "2858098241091712131",
+  "googleMapsUrl": "https://www.google.com/maps/place/Berry+Divine+Acai+Bowls/data=!4m7!3m6!1s0x872b091792c3b003:0x27aa01351970b483!8m2!3d33.4399665!4d-111.926817!16s%2Fg%2F11byywmc8s!19sChIJA7DDkhcJK4cRg7RwGTUBqic?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 31,
+    "3": 47,
+    "4": 135,
+    "5": 896
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPdNfZeK1wmmqQo2K9sNhpq-N5hgEALzJVpf-2s6Mgzpt_KwXpS8u8FCsV33ZmflhGbTecxFtKUc6MKGa0B1GtDorb-rLLtF0bhcvapX9Eu_IEPPSxi_cuCUNBYbVs19DV9hQK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

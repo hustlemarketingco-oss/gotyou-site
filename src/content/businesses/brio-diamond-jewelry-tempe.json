@@ -1,0 +1,48 @@
+{
+  "slug": "brio-diamond-jewelry-tempe",
+  "name": "Brio Diamond & Jewelry",
+  "category": "Local Business",
+  "googleCategory": "Jeweler",
+  "secondaryCategories": [
+    "Diamond buyer",
+    "Diamond dealer",
+    "Jewelry appraiser",
+    "Jewelry designer"
+  ],
+  "address": "414 S Mill Ave #202",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4259647,
+  "lng": -111.9402513,
+  "phone": "+16024100180",
+  "website": "http://www.briojewelry.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Brio+Diamond+%26+Jewelry/data=!4m7!3m6!1s0x872b08d7fff6c88f:0xea3bbb58aa539302!8m2!3d33.4259647!4d-111.9402513!16s%2Fg%2F1hm2g4cwl!19sChIJj8j2_9cIK4cRApNTqli7O-o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16878290017990185730",
+  "placeId": "ChIJj8j2_9cIK4cRApNTqli7O-o",
+  "googleRating": 4.8,
+  "googleReviewCount": 33,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiNc_5JHUt0I_G6c5vowMoRCXWAdbFPk71-sG8lxREWLbtHO1bKfy1AvuH8XSAd2shxqlKh90hSVlIqcHMXrHyt4pykAzrxH_qtzV-gnP7m7ay8XrfcKHtkVumJr7s47gfoa4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "5": 31
+  },
+  "hours": {
+    "mon": "11:00 AM - 7:30 PM",
+    "tue": "11:00 AM - 7:30 PM",
+    "wed": "11:00 AM - 7:00 PM",
+    "thu": "11:00 AM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 3:00 PM",
+    "sun": "11:00 AM - 1:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

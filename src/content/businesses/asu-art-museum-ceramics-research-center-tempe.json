@@ -1,0 +1,51 @@
+{
+  "slug": "asu-art-museum-ceramics-research-center-tempe",
+  "name": "ASU Art Museum Ceramics Research Center",
+  "category": "Fun & Activities",
+  "googleCategory": "Art museum",
+  "secondaryCategories": [
+    "Art gallery",
+    "Museum",
+    "Research institute",
+    "Tourist attraction"
+  ],
+  "address": "699 S Mill Ave Brickyard Engineering",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.423566799999996,
+  "lng": -111.9392688,
+  "phone": "+14807278170",
+  "website": "https://asuartmuseum.org/research-learning/ceramics-research-center-archive/",
+  "googleMapsUrl": "https://www.google.com/maps/place/ASU+Art+Museum+Ceramics+Research+Center/data=!4m7!3m6!1s0x872b08d8328497bb:0x3c42ebbfd245497f!8m2!3d33.4235668!4d-111.9392688!16s%2Fg%2F11bw4729d0!19sChIJu5eEMtgIK4cRf0lF0r_rQjw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4342292199837616511",
+  "placeId": "ChIJu5eEMtgIK4cRf0lF0r_rQjw",
+  "googleRating": 4.8,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7Xvwlx9sMWBPoE1dpjbZffL9dJW2GmL1sFrteivabZnD6XgOoCAbAWotdG1zcDK_uEISmkYL3rWdxaUpH2Jt1GGKdqdeOiM72cv1Vsyl6PLGH1irent2CjOQ4qK8ydkPwc08G=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 2,
+    "5": 15
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "11:00 AM - 5:00 PM",
+    "thu": "11:00 AM - 5:00 PM",
+    "fri": "11:00 AM - 5:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

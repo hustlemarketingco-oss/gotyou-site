@@ -2,7 +2,7 @@
   "slug": "baseline-pub-tempe",
   "name": "Baseline Pub",
   "category": "Bars & Pubs",
-  "googleCategory": "Sports bar",
+  "googleCategory": "Bar",
   "secondaryCategories": [
     "Bar"
   ],
@@ -13,24 +13,17 @@
   "lat": 33.3779816,
   "lng": -111.9062775,
   "phone": "+14808385883",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13357115899315327383",
+  "googleMapsUrl": "https://www.google.com/maps/place/Baseline+Pub/data=!4m7!3m6!1s0x872b063296a26e99:0xb95e022432699197!8m2!3d33.3779816!4d-111.9062775!16s%2Fg%2F1wn_6kq7!19sChIJmW6iljIGK4cRl5FpMiQCXrk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13357115899315327383",
   "placeId": "ChIJmW6iljIGK4cRl5FpMiQCXrk",
   "googleRating": 4.4,
-  "googleReviewCount": 374,
+  "googleReviewCount": 376,
   "priceRange": "$20–30",
   "description": "Baseline Pub is a Tempe casual, cozy sports bar & bar known for alcohol & beer, dine-in. A favorite among good for groups diners.",
   "amenities": [
-    "Outdoor seating",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible restroom"
   ],
   "hours": {
     "fri": "9:00 AM - 2:00 AM",
@@ -47,5 +40,14 @@
   "groundgameId": "6a2438cee09cab7e1913bf1f",
   "seededAt": "2026-06-06T15:12:14Z",
   "updatedAt": "2026-06-06T15:12:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 10,
+    "3": 31,
+    "4": 58,
+    "5": 258
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfAwAoUCaJu-Z2fHq-MjCidtTDHT8KxYMJ5HVx7QAB_FH0B50DY18uK-36Br9klMKoaREiwqyDtAGw6Yjx5TNVtAk8J7FgEUVHoczrgglvvyZthgifUCGOApjTKyReLl7OxX0=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

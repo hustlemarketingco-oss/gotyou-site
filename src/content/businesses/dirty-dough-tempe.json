@@ -11,15 +11,8 @@
   "priceRange": "$$$",
   "description": "Located in Tempe, Dirty Dough is a cookie shop with coffee, takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Paid parking lot",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/dirtydoughcookies"
@@ -30,5 +23,22 @@
   "groundgameId": "6a2436466c27e6b22c6de4f1",
   "seededAt": "2026-06-06T15:01:26Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJEdNcxlUPK4cRT6iYpnIbl18",
+  "googleCid": "6888004334321707087",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dirty+Dough/data=!4m7!3m6!1s0x872b0f55c65cd311:0x5f971b72a698a84f!8m2!3d33.4071932!4d-111.9656081!16s%2Fg%2F11j2z22302!19sChIJEdNcxlUPK4cRT6iYpnIbl18?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 483,
+  "ratingBreakdown": {
+    "1": 43,
+    "2": 14,
+    "3": 20,
+    "4": 16,
+    "5": 390
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC41SOTrAc1hq0AE4_x1OKX_CnuREvtG9uaChZ9vVE1j1-PexqlxXGaHbGQ2_-7OPj5HQtzBnfxilwc8hm-VyC6KrhE87dHwn0sj9HDd488docm5sGWmbvwxo2xT4uXAVqIvgsJA=w1200-h800-k-no",
+  "website": "https://dirtydoughcookies.com/",
+  "lat": 33.4071932,
+  "lng": -111.9656081,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

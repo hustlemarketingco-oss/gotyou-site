@@ -1,0 +1,40 @@
+{
+  "slug": "my-practice-yoga-tempe",
+  "name": "My Practice Yoga",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "address": "5235 S Kyrene Rd #202",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3767583,
+  "lng": -111.9454976,
+  "website": "https://www.mypracticeyoga.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/My+Practice+Yoga/data=!4m7!3m6!1s0x872b078f54bbcded:0x1510130af4da188b!8m2!3d33.3767583!4d-111.9454976!16s%2Fg%2F11lcrflv8t!19sChIJ7c27VI8HK4cRixja9AoTEBU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1517734012202391691",
+  "placeId": "ChIJ7c27VI8HK4cRixja9AoTEBU",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD8KSVCpxhSfClu4GWIWDR8qOv90i0Rtpl7p4-iqZfZGr50JLjZKcJnIJf8StgwDYWF_bRIVRVeoWC-Os2nRvH2X54SwkUpIbGKTAlrob8l-kSP7uEw66JWQnqXS4bJBBJ8hF34A=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "hours": {
+    "mon": "5:00 AM - 9:00 PM",
+    "tue": "5:00 AM - 9:00 PM",
+    "wed": "5:00 AM - 9:00 PM",
+    "thu": "5:00 AM - 9:00 PM",
+    "fri": "5:00 AM - 9:00 PM",
+    "sat": "5:00 AM - 9:00 PM",
+    "sun": "5:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

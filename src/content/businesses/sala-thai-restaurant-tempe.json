@@ -11,29 +11,18 @@
   "lng": -111.9104695,
   "phone": "+14802644287",
   "website": "https://www.salathaistreeteatery.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=16344526871422079906",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sala+Thai+Tempe+AKA+Sala+Thai+Supper+Club/data=!4m7!3m6!1s0x872b09fa55dee8f5:0xe2d36c97b0f093a2!8m2!3d33.4079748!4d-111.9104695!16s%2Fg%2F11v48r5nn3!19sChIJ9ejeVfoJK4cRopPwsJds0-I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "16344526871422079906",
   "placeId": "ChIJ9ejeVfoJK4cRopPwsJds0-I",
   "googleRating": 4.6,
-  "googleReviewCount": 288,
+  "googleReviewCount": 314,
   "priceRange": "$10–30",
   "description": "Sala Thai Restaurant Tempe is a casual, cozy restaurant in Tempe, serving up comfort food & healthy options, takeout & delivery.",
   "amenities": [
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Healthy options",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "12:00 PM - 11:30 PM",
@@ -50,5 +39,14 @@
   "groundgameId": "6a2439e9cccd9644e89afa8e",
   "seededAt": "2026-06-06T15:16:57Z",
   "updatedAt": "2026-06-06T15:16:57Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 19,
+    "2": 6,
+    "3": 6,
+    "4": 22,
+    "5": 261
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf24f0xPMZzIRgqlR0xqhQ4SUEA8BAQDqzY3UAy1ORf9maeSTFIkm7T2sab6XNN7oumvdP9q3Pa1FmUxxWYQjH53jAIQzyR3cYyEhra0lYS6s0yWjGFNJgbaSydN9wtJqgyCzAk=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,49 @@
+{
+  "slug": "studio-adt-art-of-framing-tempe",
+  "name": "Studio ADT/Art of Framing",
+  "category": "Shopping",
+  "googleCategory": "Picture frame shop",
+  "secondaryCategories": [
+    "Artist",
+    "Arts organization",
+    "Interior designer"
+  ],
+  "address": "7650 S McClintock Dr #108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347955299999995,
+  "lng": -111.9121462,
+  "phone": "+14804912606",
+  "website": "http://www.studioadt.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Studio+ADT%2FArt+of+Framing/data=!4m7!3m6!1s0x872b064bdc365fe9:0x393bb3a78030371c!8m2!3d33.3479553!4d-111.9121462!16s%2Fg%2F1pp2vcf9d!19sChIJ6V823EsGK4cRHDcwgKezOzk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4124087415779374876",
+  "placeId": "ChIJ6V823EsGK4cRHDcwgKezOzk",
+  "googleRating": 5,
+  "googleReviewCount": 36,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeF_Rk_VtqjbQgQHVqIlXO8jx94KzC7-2TLzWT8l8dhCyoldmD01uMrFr1nNSic_mQYJ23K-X6VlFCEs-vC7uW3OuikPKn4ou85iiiYYpDkaI5MIJ_adF2oroqcXJIRS25Lp9Wk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "4": 1,
+    "5": 35
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "12:00 PM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

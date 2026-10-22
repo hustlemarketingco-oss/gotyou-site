@@ -2,7 +2,7 @@
   "slug": "terra-tempe-kitchen-spirits-tempe",
   "name": "Terra Tempe Kitchen & Spirits",
   "category": "Restaurant",
-  "googleCategory": "Restaurant",
+  "googleCategory": "Southwestern restaurant (US)",
   "secondaryCategories": [
     "Bar"
   ],
@@ -14,22 +14,10 @@
   "priceRange": "$30–50",
   "description": "Terra Tempe Kitchen & Spirits is a Tempe cozy, romantic restaurant known for alcohol & beer, dine-in. Popular for lunch & dinner.",
   "amenities": [
-    "Onsite services",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Romantic",
-    "Trendy",
-    "Upscale",
-    "Paid parking lot",
-    "Paid street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/TerraTempeKitchen"
@@ -40,5 +28,31 @@
   "groundgameId": "6a24378a4a560e38caf15daa",
   "seededAt": "2026-06-06T15:06:50Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJc3Y5z9kIK4cReN9fVPbuLck",
+  "googleCid": "14496505517320429432",
+  "googleMapsUrl": "https://www.google.com/maps/place/Terra+Tempe+Kitchen+%26+Spirits/data=!4m7!3m6!1s0x872b08d9cf397673:0xc92deef6545fdf78!8m2!3d33.4229612!4d-111.9392662!16s%2Fg%2F11rxlw35zy!19sChIJc3Y5z9kIK4cReN9fVPbuLck?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.3,
+  "googleReviewCount": 148,
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 8,
+    "3": 13,
+    "4": 18,
+    "5": 99
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckevM6OOIu-EUtolYlV4krxAiqI7Q9XqyJ4SZAR4TOOajD7CoVycFVJG3eX_CWT-6LsYM4Mve9DV3bkrA7ZStIBdybTQ-7-kR9gm5yoNxAxqGIdtBpehYrfmEe8Ma4SEOBcgzdqg=w1200-h800-k-no",
+  "website": "https://terratempe.com/",
+  "hours": {
+    "mon": "7:00 AM - 10:00 PM",
+    "tue": "7:00 AM - 10:00 PM",
+    "wed": "7:00 AM - 10:00 PM",
+    "thu": "7:00 AM - 10:00 PM",
+    "fri": "7:00 AM - 10:00 PM",
+    "sat": "7:00 AM - 10:00 PM",
+    "sun": "7:00 AM - 10:00 PM"
+  },
+  "lat": 33.422961199999996,
+  "lng": -111.93926619999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

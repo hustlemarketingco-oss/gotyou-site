@@ -22,8 +22,8 @@
   "phone": "+14807800986",
   "website": "https://locations.dunkindonuts.com/en/az/tempe/744-west-broadway-road/363446&y_source=1_OTczNTQyOTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJp1BnSsMJK4cRcAHOFaXg49Q",
-  "googleRating": 3.5,
-  "googleReviewCount": 71,
+  "googleRating": 3.4,
+  "googleReviewCount": 78,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 8:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3ed9a0a7f65b13553819ab",
   "seededAt": "2026-06-26T19:57:20Z",
   "updatedAt": "2026-06-26T19:57:21Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "15340351755394089328",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x872b09c34a6750a7:0xd4e3e0a515ce0170!8m2!3d33.4077172!4d-111.9492076!16s%2Fg%2F11st9zlm79!19sChIJp1BnSsMJK4cRcAHOFaXg49Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 3,
+    "3": 5,
+    "4": 4,
+    "5": 41
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6koqQZ7xpMLclLStOQ0fOmKjenFYFcqN26FNRo3HOeJoq1f_vnkZr3riPgII06mUIDWFCLIcpzw8RURz9kh1WnA-zGM7f0XRcF7hySQ6H8pc0BdjiuPQJe6cJgEdMsiHoEuJP=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

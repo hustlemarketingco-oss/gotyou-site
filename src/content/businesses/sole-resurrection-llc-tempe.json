@@ -1,0 +1,43 @@
+{
+  "slug": "sole-resurrection-llc-tempe",
+  "name": "Sole Resurrection, LLC",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "610 W Broadway Rd #118",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4076801,
+  "lng": -111.9483087,
+  "phone": "+16025855797",
+  "website": "http://facebook.com/soleresurrectionllc",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sole+Resurrection,+LLC/data=!4m7!3m6!1s0x872b097da001af53:0xe45da6528e0e261!8m2!3d33.4076801!4d-111.9483087!16s%2Fg%2F11tfnsg3nz!19sChIJU68BoH0JK4cRYeLgKGXaRQ4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1028468217936405089",
+  "placeId": "ChIJU68BoH0JK4cRYeLgKGXaRQ4",
+  "googleRating": 5,
+  "googleReviewCount": 2,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6eC3w0SdaDgFpLB2GA-AKYxSxLkSPpvCnbUk9eo6kI9Hy4cRMfZDhHkaT_sWMd4tU5HSMqTNMDLaf7IhWDlb39dmlM5Xl1eD7TpZOqtET-4sAx-TzhaQMo-G_iJmg_xD1IUZzrg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "5": 2
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

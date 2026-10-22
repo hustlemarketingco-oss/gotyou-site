@@ -1,0 +1,54 @@
+{
+  "slug": "garcias-mexican-restaurant-5000-tempe",
+  "name": "Garcia's | Mexican Restaurant",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Lunch restaurant",
+    "Takeout Restaurant",
+    "Restaurant"
+  ],
+  "address": "5000 S Arizona Mills Cir #567",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3832789,
+  "lng": -111.9652387,
+  "phone": "+14808389610",
+  "website": "http://www.garciasmexicanrestaurants.net/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Garcia%27s+%7C+Mexican+Restaurant/data=!4m7!3m6!1s0x872b0f59e1444903:0xb65698e9d8382de6!8m2!3d33.3832789!4d-111.9652387!16s%2Fg%2F1trxkr6w!19sChIJA0lE4VkPK4cR5i042OmYVrY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13138857093022363110",
+  "placeId": "ChIJA0lE4VkPK4cR5i042OmYVrY",
+  "googleRating": 4.3,
+  "googleReviewCount": 2393,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLdv2QAKTXcHpi_ehS5tBcRKnKVdcq8jK3plwc_cI7tFHaaSoB71MPgFl1I6cjTCpg2jnzxjeExt_8NOjsgbyxCFzpJFWqWUlQftSRfPw-O0CiyAnHm7faii36k5slYVw0mSBNx4-rf3Q=w1200-h800-k-no",
+  "description": "Regional chain outpost supplying standard Mexican meals in a colorful, family-friendly setting.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 124,
+    "2": 69,
+    "3": 210,
+    "4": 515,
+    "5": 1475
+  },
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

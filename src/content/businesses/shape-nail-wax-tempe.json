@@ -1,0 +1,47 @@
+{
+  "slug": "shape-nail-wax-tempe",
+  "name": "Shape Nail & Wax",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "secondaryCategories": [
+    "Waxing hair removal service"
+  ],
+  "address": "2700 W Baseline Rd Apt 134",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3785872,
+  "lng": -111.9766806,
+  "phone": "+16024380977",
+  "website": "https://shapenailandwax.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Shape+Nail+%26+Wax/data=!4m7!3m6!1s0x872b0fd286f8a409:0xd0030721215978c4!8m2!3d33.3785872!4d-111.9766806!16s%2Fg%2F11xkqk853_!19sChIJCaT4htIPK4cRxHhZISEHA9A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14988831823693969604",
+  "placeId": "ChIJCaT4htIPK4cRxHhZISEHA9A",
+  "googleRating": 5,
+  "googleReviewCount": 420,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR9J484cLyeoCOE-r8mDiF9BiOnNH0GRi0-ZKV_WEoV9RWgYC1-CiLw37Mtr_5o6vbAtXqg5-faIOWy-Czpg02yqlJLMspvApENlMByM8yBHvXFx5vIeb-y-CT4AufuLzQQoYgDjbF2FgF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 7,
+    "5": 412
+  },
+  "hours": {
+    "mon": "9:00 AM - 9:00 PM",
+    "tue": "9:00 AM - 9:00 PM",
+    "wed": "9:00 AM - 9:00 PM",
+    "thu": "9:00 AM - 9:00 PM",
+    "fri": "9:00 AM - 9:00 PM",
+    "sat": "9:00 AM - 9:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

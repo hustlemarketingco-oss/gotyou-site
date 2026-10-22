@@ -1,0 +1,44 @@
+{
+  "slug": "hair-haven-by-jada-tempe",
+  "name": "Hair Haven by Jada",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "115 W 6th St Suite 107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4239363,
+  "lng": -111.9418541,
+  "phone": "+16232959022",
+  "website": "http://hairhavenbyjada.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hair+Haven+by+Jada/data=!4m7!3m6!1s0x872b09185e0a0967:0xe0815a11fb1a1b20!8m2!3d33.4239363!4d-111.9418541!16s%2Fg%2F11mdb0f6r0!19sChIJZwkKXhgJK4cRIBsa-xFageA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16177310369765268256",
+  "placeId": "ChIJZwkKXhgJK4cRIBsa-xFageA",
+  "googleRating": 4.9,
+  "googleReviewCount": 53,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8Jq4eY0cHp2Ee_VuhbW_VNNKwF7VP1-P1X9btmYlTKdgIYDc3PCmDHyIlNIpbEJfZGPPH4cbLs3OkI-5e7w5GldZ29r0iwqFlokYBA_6lKNJVcoUj5GWixb698RLFdYub1JaiR-BoSuYg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 52
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 7:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

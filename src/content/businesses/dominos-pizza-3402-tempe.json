@@ -19,8 +19,8 @@
   "phone": "+14808879400",
   "website": "https://www.dominos.com/en/",
   "placeId": "ChIJ1_tfcy0JK4cRn3qnK5KxSxk",
-  "googleRating": 3.5,
-  "googleReviewCount": 152,
+  "googleRating": 3.4,
+  "googleReviewCount": 161,
   "priceRange": "$",
   "hours": {
     "mon": "10:00 AM - 12:00 AM",
@@ -37,5 +37,20 @@
   "groundgameId": "6a44172e8357703844043aca",
   "seededAt": "2026-06-30T19:21:18Z",
   "updatedAt": "2026-06-30T19:21:19Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "1822745715557235359",
+  "googleMapsUrl": "https://www.google.com/maps/place/Domino%27s+Pizza/data=!4m7!3m6!1s0x872b092d735ffbd7:0x194bb1922ba77a9f!8m2!3d33.3914967!4d-111.9096829!16s%2Fg%2F11llq5s0z3!19sChIJ1_tfcy0JK4cRn3qnK5KxSxk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 50,
+    "2": 9,
+    "3": 7,
+    "4": 10,
+    "5": 85
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehZ944rfRN7U37kf5RN3TWRrAIjpDBcx7KAgHUwopn2E6KjyDpb8CzjUeRWto2yyKoT1CCi8RMbI8N3a1z5xTjJMXPs3ppCoe8linF7GiydRMZt2Pn3vGIj-dAJ4NIPe87ShKbqg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -13,7 +13,7 @@
   "website": "https://eurekarestaurantgroup.com/",
   "placeId": "ChIJyWFyaycJK4cRqWZCG-X1k3A",
   "googleRating": 4.4,
-  "googleReviewCount": 270,
+  "googleReviewCount": 300,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 11:30 PM",
@@ -30,5 +30,21 @@
   "groundgameId": "6a2c1e33e364cfd4f8c8c63c",
   "seededAt": "2026-06-12T14:56:51Z",
   "updatedAt": "2026-06-26T04:24:36Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "8112097718178047657",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eureka!+Tempe/data=!4m7!3m6!1s0x872b09276b7261c9:0x7093f5e51b4266a9!8m2!3d33.4243312!4d-111.9276519!16s%2Fg%2F11vqm_kx_r!19sChIJyWFyaycJK4cRqWZCG-X1k3A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 11,
+    "3": 12,
+    "4": 19,
+    "5": 231
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerESDtOsADq092YuEeAS-rj7gZk_GPQom3vDzq7Q1p687mttElPu_87HbRKvhUJ5W5eoXWCvHab_PFR9l0BSR7myYcPx3z600poBgSNRlnxIouY1WNoRDV4wUfQQVvhOq7AbmJ3w=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

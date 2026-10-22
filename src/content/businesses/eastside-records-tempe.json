@@ -1,0 +1,26 @@
+{
+  "slug": "eastside-records-tempe",
+  "name": "Eastside Records",
+  "category": "Shopping",
+  "googleCategory": "Music store",
+  "address": "W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4219344,
+  "lng": -111.96001079999999,
+  "phone": "+14809682087",
+  "googleMapsUrl": "https://www.google.com/maps/place/Eastside+Records/data=!4m7!3m6!1s0x872b0ffbcfd6b0ef:0xfd13fc46e2960dbb!8m2!3d33.4219344!4d-111.9600108!16s%2Fg%2F11jz7lq99j!19sChIJ77DWz_sPK4cRuw2W4kb8E_0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "18236196697532665275",
+  "placeId": "ChIJ77DWz_sPK4cRuw2W4kb8E_0",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qcy599jjfZnpw_S2TkMLmg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=286.93784&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible seating"
+  ],
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

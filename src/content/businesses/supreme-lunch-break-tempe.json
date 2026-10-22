@@ -1,0 +1,43 @@
+{
+  "slug": "supreme-lunch-break-tempe",
+  "name": "Supreme Lunch Break",
+  "category": "Fast Food",
+  "googleCategory": "Delivery Restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Caterer",
+    "Lunch restaurant"
+  ],
+  "address": "455 S 48th St Ste 110",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.424982199999995,
+  "lng": -111.9768512,
+  "website": "http://supremelunchbreak.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Supreme+Lunch+Break/data=!4m7!3m6!1s0x14e3eabd71cef429:0x247abb216769cd38!8m2!3d33.4249822!4d-111.9768512!16s%2Fg%2F11b75gwq6r!19sChIJKfTOcb3q4xQROM1pZyG7eiQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2628619084667407672",
+  "placeId": "ChIJKfTOcb3q4xQROM1pZyG7eiQ",
+  "googleRating": 4.2,
+  "googleReviewCount": 49,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePcD3_YK4jL5fdOKOnI_M3gLmwsGwzldbzkaLBglrjjeJ10S0mScuDeEc2vh329oH_2VkgD3bV0UKjRP5X70Lk47_AYi0GTDKsw8QUdsxONbxDDWSOSbjmDhxk6Cy6VzqsoZU=w1200-h800-k-no",
+  "description": "Unassuming, no-frills breakfast & lunch counter with a handful of eat-in tables, snacks & coffee.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 4,
+    "3": 6,
+    "4": 10,
+    "5": 28
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

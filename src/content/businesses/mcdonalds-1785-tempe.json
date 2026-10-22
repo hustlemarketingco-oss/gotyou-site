@@ -1,0 +1,55 @@
+{
+  "slug": "mcdonalds-1785-tempe",
+  "name": "McDonald's",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Coffee shop",
+    "Hamburger restaurant",
+    "Restaurant",
+    "Sandwich shop"
+  ],
+  "address": "1785 E University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4215411,
+  "lng": -111.91024759999999,
+  "phone": "+14804468619",
+  "website": "https://www.mcdonalds.com/us/en-us/location/AZ/TEMPE/1785-E-UNIVERSITY/22111.html?cid=RF:YXT:GMB::Clicks",
+  "googleMapsUrl": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x872b08f9f16d7db5:0x73c471767a6119e8!8m2!3d33.4215411!4d-111.9102476!16s%2Fg%2F1tdwkzkk!19sChIJtX1t8fkIK4cR6BlhenZxxHM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8341917163470264808",
+  "placeId": "ChIJtX1t8fkIK4cR6BlhenZxxHM",
+  "googleRating": 3.4,
+  "googleReviewCount": 2380,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqZMBFBFdGX_8bNRoxfd_jhDRqWXQ9l5WbFof9A8322K0wxtC9p3ucO8oELK7svP8V_wxGBXIDZ9_mQJoyZpSqrMz9aiqG84XcjItGrUKkdCx0a-LlfOLkpl3rdXLXaDG-bb2Otk758WA9=w1200-h800-k-no",
+  "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 528,
+    "2": 181,
+    "3": 391,
+    "4": 429,
+    "5": 851
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

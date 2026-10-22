@@ -10,17 +10,9 @@
   "phone": "+14802561093",
   "description": "Located in Tempe, bake the Cookie Shoppe is a dessert shop with takeout & delivery. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/bakethecookieshoppe"
@@ -31,5 +23,31 @@
   "groundgameId": "6a243976871149fc8fc40036",
   "seededAt": "2026-06-06T15:15:02Z",
   "updatedAt": "2026-06-09T01:18:41Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJBxjraJ8HK4cRWRHJbTCzGKA",
+  "googleCid": "11536167466091221337",
+  "googleMapsUrl": "https://www.google.com/maps/place/bake+the+Cookie+Shoppe/data=!4m7!3m6!1s0x872b079f68eb1807:0xa018b3306dc91159!8m2!3d33.3613781!4d-111.9103763!16s%2Fg%2F11n3z8lhyv!19sChIJBxjraJ8HK4cRWRHJbTCzGKA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 3.4,
+  "googleReviewCount": 124,
+  "ratingBreakdown": {
+    "1": 39,
+    "2": 13,
+    "3": 1,
+    "4": 5,
+    "5": 66
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrpFz3fNNUCLLyBMEs691rC7EduTjgL0V2z4g0cDg5nq-JuITJPpxLkYSsX7UejL2ShZ73AJb6s_fl_-3Nf9jUcw0oo28HB5l7eQ-FSepE3uoULiZuKufSy-Lj796zn21CUs7UqNGYpbcR=w1200-h800-k-no",
+  "website": "https://www.bakethecookieshoppe.com/",
+  "hours": {
+    "mon": "11:00 AM - 8:00 PM",
+    "tue": "11:00 AM - 8:00 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "11:00 AM - 8:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 8:00 PM"
+  },
+  "lat": 33.361378099999996,
+  "lng": -111.9103763,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

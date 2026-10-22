@@ -15,14 +15,9 @@
   "phone": "+16024974456",
   "description": "The Back Nine Golf | Tempe, AZ is a indoor golf course & golf driving range in Tempe. A favorite among family-friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/backninegolf"
@@ -33,5 +28,29 @@
   "groundgameId": "6a243843b9ff2f1e0d8777c8",
   "seededAt": "2026-06-06T15:09:55Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ60q6lL8JK4cRBLphqvP-JGM",
+  "googleCid": "7144115231405488644",
+  "googleMapsUrl": "https://www.google.com/maps/place/Back+Nine+Golf+%7C+Tempe,+AZ/data=!4m7!3m6!1s0x872b09bf94ba4aeb:0x6324fef3aa61ba04!8m2!3d33.3948483!4d-111.9384874!16s%2Fg%2F11x7mcyg2w!19sChIJ60q6lL8JK4cRBLphqvP-JGM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 23,
+  "ratingBreakdown": {
+    "1": 1,
+    "3": 1,
+    "5": 21
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckGSSw_Mo-bfAE3zdcyFLMlOdkaltMnh_c_SF8tb7Jbbanip0u0HkIiSSHMUf305ly_lsuTSYXiu4Yz6womtMeS6_VQypb6cyHXTfCco0jxFDGSvDEPk-2jSvhd9gfb-omabf16F82F4K8=w1200-h800-k-no",
+  "website": "https://thebackninegolf.com/local/tempeaz/",
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "lat": 33.3948483,
+  "lng": -111.9384874,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

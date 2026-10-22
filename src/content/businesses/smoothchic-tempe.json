@@ -1,0 +1,43 @@
+{
+  "slug": "smoothchic-tempe",
+  "name": "SmoothChic",
+  "category": "Health & Beauty",
+  "googleCategory": "Waxing hair removal service",
+  "address": "4690 S Lakeshore Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.380215199999995,
+  "lng": -111.9218087,
+  "phone": "+14805225894",
+  "website": "http://thesmoothchic.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/SmoothChic/data=!4m7!3m6!1s0x872ba9f15463f2c9:0xcd2cc94baaa05db4!8m2!3d33.3802152!4d-111.9218087!16s%2Fg%2F11rcrqvrdg!19sChIJyfJjVPGpK4cRtF2gqkvJLM0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14784413003572862388",
+  "placeId": "ChIJyfJjVPGpK4cRtF2gqkvJLM0",
+  "googleRating": 5,
+  "googleReviewCount": 95,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzMZwK-JquQcALvUPZltfSdZGXHB-FCYTZJFpc3vpCgYlY1cndN5ZwQn2fATBGX_C8ioRD1-8s9bhQTJkg363GH0s6KSuA5rx-m1XquBUUbpBNcExnGrjJj8UUIoQOSCsd3B1cDg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 95
+  },
+  "hours": {
+    "mon": "10:00 AM - 4:30 AM",
+    "tue": "1:00 PM - 7:00 PM",
+    "wed": "10:00 AM - 4:30 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 3:00 PM",
+    "sun": "11:00 AM - 2:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

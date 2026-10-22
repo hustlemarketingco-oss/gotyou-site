@@ -1,0 +1,46 @@
+{
+  "slug": "md-hair-studio-tempe",
+  "name": "MD Hair Studio",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "115 W 6th St Ste 108",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4241208,
+  "lng": -111.9418463,
+  "phone": "+16028829388",
+  "googleMapsUrl": "https://www.google.com/maps/place/MD+Hair+Studio/data=!4m7!3m6!1s0x872b077f5fbf1951:0x27b77855f7caa98b!8m2!3d33.4241208!4d-111.9418463!16s%2Fg%2F11j7_3twdv!19sChIJURm_X38HK4cRi6nK91V4tyc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2861888398842046859",
+  "placeId": "ChIJURm_X38HK4cRi6nK91V4tyc",
+  "googleRating": 3.4,
+  "googleReviewCount": 23,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9EV4XPaNwFlxyyBYimrS1lJh7TrUwgoTfKEH5bTz71T7ylxkMIaWj6apE_yLG4p9Wz6LpM4gZ_xvtbho9WFHEj6UQsA6Fxx0IwGzTX3-4_vtH5eEJFm6qZ-3Vx05oMmbUFKI=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 2,
+    "3": 1,
+    "4": 1,
+    "5": 12
+  },
+  "hours": {
+    "mon": "8:00 AM - 6:30 PM",
+    "tue": "Closed",
+    "wed": "8:00 AM - 6:30 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 6:30 PM",
+    "sat": "6:00 AM - 2:30 PM",
+    "sun": "11:30 AM - 6:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

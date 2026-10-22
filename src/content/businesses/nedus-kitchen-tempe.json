@@ -1,0 +1,48 @@
+{
+  "slug": "nedus-kitchen-tempe",
+  "name": "Nedu's Kitchen",
+  "category": "Restaurant",
+  "googleCategory": "West African restaurant",
+  "address": "Food Court, 1900 E 5th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4260535,
+  "lng": -111.9039955,
+  "phone": "+16027382093",
+  "website": "http://www.nedukitchen.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nedu%27s+Kitchen/data=!4m7!3m6!1s0x872b053a7ad444df:0x7e83c153c2ea4ac!8m2!3d33.4260535!4d-111.9039955!16s%2Fg%2F11ty69158q!19sChIJ30TUejoFK4cRrKQuPBU86Ac?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "569771414764037292",
+  "placeId": "ChIJ30TUejoFK4cRrKQuPBU86Ac",
+  "googleRating": 4.4,
+  "googleReviewCount": 122,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeogZMICXx3OD8YAR81fEOiArE-sGjxk-eOv4R1JNS_HxvFUhtAnRd3yWQhDlrc-t7Cj7-333-5n7kcoZR7xOesqoycduoU8snmscdqNB4Suxw_wsmWM5UQIArqTGGpVTYEdBX9=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 2,
+    "3": 9,
+    "4": 8,
+    "5": 93
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 7:30 PM",
+    "wed": "11:00 AM - 8:00 PM",
+    "thu": "Closed",
+    "fri": "Closed",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

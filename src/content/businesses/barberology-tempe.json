@@ -1,0 +1,42 @@
+{
+  "slug": "barberology-tempe",
+  "name": "Barberology",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "7707 S Kyrene Rd suiet 1",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3475513,
+  "lng": -111.94527769999999,
+  "phone": "+19375766652",
+  "website": "https://barberology-barbershop.ueniweb.com/?utm_campaign=gmb",
+  "googleMapsUrl": "https://www.google.com/maps/place/Barberology/data=!4m7!3m6!1s0x872b0700860e0adb:0x1ef90f933eabb035!8m2!3d33.3475513!4d-111.9452777!16s%2Fg%2F11jrsb0qvb!19sChIJ2woOhgAHK4cRNbCrPpMP-R4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2231832215424839733",
+  "placeId": "ChIJ2woOhgAHK4cRNbCrPpMP-R4",
+  "googleRating": 5,
+  "googleReviewCount": 1,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuv9WpqPtqANFAYemet47ZHFj4HQFNCN1UFw2lAruldxzSABXRi9a8c9a4jXahTdiw7n3pOHKIH44uT7ud3R7ipU1hpyCLZaHvCGR7BjgToX_fzK0L0YzJDRbTOcmiKtbdvsDS=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "Closed",
+    "thu": "Closed",
+    "fri": "8:30 AM - 6:30 PM",
+    "sat": "8:30 AM - 6:30 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

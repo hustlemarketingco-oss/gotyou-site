@@ -1,0 +1,36 @@
+{
+  "slug": "tempe-bicycle-960-tempe",
+  "name": "Tempe Bicycle",
+  "category": "Shopping",
+  "googleCategory": "Bicycle Shop",
+  "secondaryCategories": [
+    "Bicycle repair shop"
+  ],
+  "address": "960 W University Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4220118,
+  "lng": -111.9513276,
+  "phone": "+14804463033",
+  "googleMapsUrl": "https://www.google.com/maps/place/Tempe+Bicycle/data=!4m7!3m6!1s0x872b08d5302dc531:0x6c7b21d5dd659ea3!8m2!3d33.4220118!4d-111.9513276!16s%2Fg%2F1tdm_zl1!19sChIJMcUtMNUIK4cRo55l3dUhe2w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7816878780657802915",
+  "placeId": "ChIJMcUtMNUIK4cRo55l3dUhe2w",
+  "googleRating": 4.3,
+  "googleReviewCount": 4,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZljfEeIS3r_1kLCL8DpH1Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=311.68802&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "2": 1,
+    "5": 3
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

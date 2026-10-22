@@ -10,14 +10,9 @@
   "phone": "+14803390127",
   "description": "Located in Tempe, GOLFTEC Tempe is a golf instructor. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/golftectempe/reviews"
@@ -28,5 +23,29 @@
   "groundgameId": "6a24384ae0fff61aeedd53a0",
   "seededAt": "2026-06-06T15:10:02Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJS3qhgKEJK4cRut7NLM2x5y8",
+  "googleCid": "3451923134180875962",
+  "googleMapsUrl": "https://www.google.com/maps/place/GOLFTEC+Tempe/data=!4m7!3m6!1s0x872b09a180a17a4b:0x2fe7b1cd2ccddeba!8m2!3d33.4321269!4d-111.9029239!16s%2Fg%2F11skqxjpgm!19sChIJS3qhgKEJK4cRut7NLM2x5y8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 18,
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "5": 16
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdREJh1UVWJTjCq5OE1pTNsr5n9fS64_wtgmg-nSvLlkIfy4Pxgm_7jEN4PSZ5Nb3gi3M-WtVeFCcsX5SnPbtBrPTYdoAanGnVK6d3jxgx5uz1pJojjednLqoa9pX50m8_3GC0E=w1200-h800-k-no",
+  "website": "https://www.golftec.com/golf-lessons/tempe?utm_source=gmb&utm_medium=organic&utm_campaign=tempe",
+  "hours": {
+    "mon": "8:00 AM - 8:00 PM",
+    "tue": "8:00 AM - 8:00 PM",
+    "wed": "8:00 AM - 8:00 PM",
+    "thu": "8:00 AM - 8:00 PM",
+    "fri": "8:00 AM - 8:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "lat": 33.4321269,
+  "lng": -111.90292389999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

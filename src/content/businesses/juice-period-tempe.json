@@ -10,16 +10,8 @@
   "phone": "+14803385383",
   "description": "Located in Tempe, Juice Period is a casual, trendy juice shop with takeout & delivery. Popular for solo dining.",
   "amenities": [
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Casual",
-    "Trendy",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/100623062661887"
@@ -30,5 +22,27 @@
   "groundgameId": "6a24391c05adb12f240a4cc0",
   "seededAt": "2026-06-06T15:13:32Z",
   "updatedAt": "2026-06-09T01:21:13Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJBw6KH_MPK4cRI6n4nUW61v8",
+  "googleCid": "18435126932853532963",
+  "googleMapsUrl": "https://www.google.com/maps/place/Juice+Period/data=!4m7!3m6!1s0x872b0ff31f8a0e07:0xffd6ba459df8a923!8m2!3d33.3820989!4d-111.964918!16s%2Fg%2F11q9fx2td_!19sChIJBw6KH_MPK4cRI6n4nUW61v8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 5,
+  "googleReviewCount": 3,
+  "ratingBreakdown": {
+    "5": 3
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIdzdxcUpgFAB0MohsdgwjS56qu7YLQ3shf_oM7lRJ5haz5_cWCQXinVrTtX6QyCmfbWZHaqPaEAd7XQbDxOfRLsPF84L6FJL77ZFbU9cmI6Wv_OWrbnb5M5iIWHSKKixwemuR=w1200-h800-k-no",
+  "website": "http://juiceperiod.com/",
+  "hours": {
+    "mon": "7:00 AM - 9:00 PM",
+    "tue": "7:00 AM - 9:00 PM",
+    "wed": "7:00 AM - 5:00 PM",
+    "thu": "7:00 AM - 9:00 PM",
+    "fri": "7:00 AM - 9:00 PM",
+    "sat": "7:00 AM - 9:00 PM",
+    "sun": "7:00 AM - 9:00 PM"
+  },
+  "lat": 33.382098899999995,
+  "lng": -111.964918,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

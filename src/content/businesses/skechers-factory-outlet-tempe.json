@@ -1,0 +1,53 @@
+{
+  "slug": "skechers-factory-outlet-tempe",
+  "name": "SKECHERS Factory Outlet",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "secondaryCategories": [
+    "Clothing store",
+    "Men's clothing store",
+    "Outlet store",
+    "Women's clothing store"
+  ],
+  "address": "5000 S Arizona Mills Cir",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.383081499999996,
+  "lng": -111.9641654,
+  "phone": "+14807557888",
+  "website": "https://local.skechers.com/az/tempe/10/?utm_source=Google&utm_medium=Maps&utm_campaign=Google_Places",
+  "googleMapsUrl": "https://www.google.com/maps/place/SKECHERS+Factory+Outlet/data=!4m7!3m6!1s0x872b0f59e5500b59:0x391db5f3dd924e02!8m2!3d33.3830815!4d-111.9641654!16s%2Fg%2F1v9lc78l!19sChIJWQtQ5VkPK4cRAk6S3fO1HTk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4115645693485534722",
+  "placeId": "ChIJWQtQ5VkPK4cRAk6S3fO1HTk",
+  "googleRating": 4.3,
+  "googleReviewCount": 199,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY7NLRSf43pAbY2urKdobM7vDbVybnJNeMk7Ae1qOx3NjeyETJfglu9cT9XbcSjkKm4LKxzdamkLxg-E50HESt86o_i4alXcFbHhPGFglN8nOV3kWEZPFiO3rKg_kHNN09GUR_FJO2uyjD=w1200-h800-k-no",
+  "description": "Family footwear brand featuring athletic & casual shoes in a range of styles, plus apparel.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 13,
+    "2": 6,
+    "3": 17,
+    "4": 35,
+    "5": 128
+  },
+  "hours": {
+    "mon": "10:00 AM - 8:00 PM",
+    "tue": "10:00 AM - 8:00 PM",
+    "wed": "10:00 AM - 8:00 PM",
+    "thu": "10:00 AM - 8:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

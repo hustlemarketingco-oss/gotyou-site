@@ -16,7 +16,7 @@
   "website": "https://whataburger.com/home",
   "placeId": "ChIJcyzAXugFK4cRqXP_dC_Mnms",
   "googleRating": 4.1,
-  "googleReviewCount": 919,
+  "googleReviewCount": 971,
   "priceRange": "$",
   "hours": {
     "mon": "Open 24 hours",
@@ -33,5 +33,21 @@
   "groundgameId": "6a2c1d69c12eeccbbd8389ca",
   "seededAt": "2026-06-12T14:53:29Z",
   "updatedAt": "2026-09-22T15:41:43Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "7754860112577000361",
+  "googleMapsUrl": "https://www.google.com/maps/place/Whataburger/data=!4m7!3m6!1s0x872b05e85ec02c73:0x6b9ecc2f74ff73a9!8m2!3d33.3494997!4d-111.9665214!16s%2Fg%2F11sgq91q1c!19sChIJcyzAXugFK4cRqXP_dC_Mnms?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 107,
+    "2": 47,
+    "3": 62,
+    "4": 166,
+    "5": 589
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHuA0WMiGp9g4IFOxOjhWj7iH8gLJX5axdTnmuoTEBxWBULZaInGvvFuq2iX_uRkeIAhsU08ZUNuchzdH2PzN8dljbc54x6mP8ru-b3BVMkt1KVoInKDu26BCjGInP6od2kYv8cw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

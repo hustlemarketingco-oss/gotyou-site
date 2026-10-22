@@ -1,0 +1,45 @@
+{
+  "slug": "cash-cutz-barbershop-tempe",
+  "name": "Cash Cutz Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "2747 W Southern Ave #2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.392182399999996,
+  "lng": -111.97709409999999,
+  "phone": "+16026182274",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cash+Cutz+Barbershop/data=!4m7!3m6!1s0x872b0f69f46fffff:0xdb4866d0f3d8dcc4!8m2!3d33.3921824!4d-111.9770941!16s%2Fg%2F11hchwr95l!19sChIJ__9v9GkPK4cRxNzY89BmSNs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15800992340259691716",
+  "placeId": "ChIJ__9v9GkPK4cRxNzY89BmSNs",
+  "googleRating": 4.6,
+  "googleReviewCount": 124,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfidpkYWJnhS_s1L0rc_7-GSADbZvA0Uwu2GfBbX287YALN0RzUw0yCcy_F-0PSu2GC8eYh_8Dzi_h7alOi2HzW85A18BLz0Md3yyG8VLEgmdnBjKb93amPjms0EBpnI4E0STLK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 10,
+    "2": 3,
+    "4": 1,
+    "5": 110
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

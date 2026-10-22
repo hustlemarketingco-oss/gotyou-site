@@ -1,0 +1,45 @@
+{
+  "slug": "popular-cuts-barber-shop-tempe",
+  "name": "Popular Cuts Barber Shop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "1460 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.445879,
+  "lng": -111.926925,
+  "phone": "+14803613733",
+  "googleMapsUrl": "https://www.google.com/maps/place/Popular+Cuts+Barber+Shop/data=!4m7!3m6!1s0x872b0915bfd87687:0xb519d57d9cb2050c!8m2!3d33.445879!4d-111.926925!16s%2Fg%2F11bymz9r7c!19sChIJh3bYvxUJK4cRDAWynH3VGbU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "13049696130759263500",
+  "placeId": "ChIJh3bYvxUJK4cRDAWynH3VGbU",
+  "googleRating": 4.8,
+  "googleReviewCount": 192,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7Dp2sJos8St1-cu0t6a0r1cGE6cIF3Q_V_IWDgJ_EK7XtkeG1zz9vXMrnVbhjOV8xrHXvd2EVw9_j9pF82aNJ5gH_ByDoxIfjVzknKEz_UWcLfRReMR_Iv3W2FeI0VnwvCFwF=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 3,
+    "3": 2,
+    "4": 7,
+    "5": 173
+  },
+  "hours": {
+    "mon": "10:30 AM - 7:00 PM",
+    "tue": "10:30 AM - 7:00 PM",
+    "wed": "10:30 AM - 7:00 PM",
+    "thu": "10:30 AM - 7:00 PM",
+    "fri": "10:30 AM - 7:00 PM",
+    "sat": "10:30 AM - 7:00 PM",
+    "sun": "10:00 AM - 4:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

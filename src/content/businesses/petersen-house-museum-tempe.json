@@ -1,0 +1,50 @@
+{
+  "slug": "petersen-house-museum-tempe",
+  "name": "Petersen House Museum",
+  "category": "Fun & Activities",
+  "googleCategory": "Local history museum",
+  "secondaryCategories": [
+    "Museum",
+    "Tourist attraction"
+  ],
+  "address": "1414 W Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3934478,
+  "lng": -111.9618206,
+  "phone": "+14803505151",
+  "website": "https://www.tempe.gov/government/community-services/tempe-history-museum/petersen-house-museum",
+  "googleMapsUrl": "https://www.google.com/maps/place/Petersen+House+Museum/data=!4m7!3m6!1s0x872b0f4f1b447e35:0x9473adb312e903fc!8m2!3d33.3934478!4d-111.9618206!16s%2Fm%2F06_kvbk!19sChIJNX5EG08PK4cR_APpErOtc5Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10697084524563071996",
+  "placeId": "ChIJNX5EG08PK4cR_APpErOtc5Q",
+  "googleRating": 4.6,
+  "googleReviewCount": 131,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelFAQqQNbWo3kxmlbatgE-bPpBmdBBIiVwgqSbNkW0rTdMww-opBaTbf1nVaxMapd6kcYbPPh5JTW6Jow1Iep0jIrs6OrupOq30toCzQetQ269qzz0i8ujOBNff2UUedpT3fKO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 8,
+    "4": 14,
+    "5": 103
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

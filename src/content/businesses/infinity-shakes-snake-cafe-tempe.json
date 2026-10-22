@@ -13,7 +13,7 @@
   "lat": 33.3957524,
   "lng": -111.92669,
   "phone": "+14803697280",
-  "googleMapsUrl": "https://www.google.com/maps?cid=13006110330907433561",
+  "googleMapsUrl": "https://www.google.com/maps/place/Infinity+Shakes+Snake+Cafe/data=!4m7!3m6!1s0xa5b6731e92637a07:0xb47efc6fc7469a59!8m2!3d33.3957524!4d-111.92669!16s%2Fg%2F11sg9r_f6w!19sChIJB3pjkh5ztqURWZpGx2_8frQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "13006110330907433561",
   "placeId": "ChIJB3pjkh5ztqURWZpGx2_8frQ",
   "googleRating": 5,
@@ -21,12 +21,9 @@
   "priceRange": "$10–20",
   "description": "Infinity Shakes Snake Cafe is a Tempe cafe & health food store known for coffee, dine-in. A favorite among lgbtq+ friendly diners.",
   "amenities": [
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Debit cards",
-    "Coffee"
+    "Wheelchair accessible seating"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -34,5 +31,10 @@
   "groundgameId": "6a2437b60c5649241be1ea70",
   "seededAt": "2026-06-06T15:07:34Z",
   "updatedAt": "2026-06-06T15:07:34Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "5": 16
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMwkD-GN-DFZ2NlnGB-YgF-NUR9JegVf-zDKNeCHVozWhItOYG9s55Tmi0v7ZnUusAgLveOX8XcwRnhTDFE1fPnsZuGWq32GWZwkVF7yO3q0ohTkbFJKkybaspcL_M-FEmCNDktw=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

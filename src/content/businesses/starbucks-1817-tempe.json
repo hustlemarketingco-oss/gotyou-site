@@ -1,0 +1,56 @@
+{
+  "slug": "starbucks-1817-tempe",
+  "name": "Starbucks",
+  "category": "Coffee & Cafe",
+  "googleCategory": "Coffee shop",
+  "secondaryCategories": [
+    "Breakfast restaurant",
+    "Cafe",
+    "Coffee store",
+    "Espresso bar",
+    "Internet cafe"
+  ],
+  "address": "1817 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.36294,
+  "lng": -111.91067,
+  "phone": "+14808383989",
+  "website": "https://www.starbucks.com/store-locator/store/14842/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x872b0649584eea3b:0x95cfa813356024af!8m2!3d33.36294!4d-111.91067!16s%2Fg%2F1tfv0_yx!19sChIJO-pOWEkGK4cRryRgNROoz5U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10795031632283706543",
+  "placeId": "ChIJO-pOWEkGK4cRryRgNROoz5U",
+  "googleRating": 4.1,
+  "googleReviewCount": 268,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPB9_E8NVFjLjlG0Yk94DxyZ4Qwgq9JlF5CyI3gFLUBEHV-qXl4bw-dnM4xyQnj18Zaj9QzXfXlNEW6m_L1Q8SxoOb331sr2qDdhmfqRKGmWDBOMzyMDPTsGsQd7HH_rsg1vFONQ=w1200-h800-k-no",
+  "description": "Welcoming coffeehouse with handcrafted coffee, espresso & tea, plus breakfast, lunch & pastries.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 27,
+    "2": 13,
+    "3": 23,
+    "4": 50,
+    "5": 155
+  },
+  "hours": {
+    "mon": "4:00 AM - 9:00 PM",
+    "tue": "4:00 AM - 9:00 PM",
+    "wed": "4:00 AM - 9:00 PM",
+    "thu": "4:00 AM - 9:00 PM",
+    "fri": "4:00 AM - 9:00 PM",
+    "sat": "4:00 AM - 9:00 PM",
+    "sun": "4:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

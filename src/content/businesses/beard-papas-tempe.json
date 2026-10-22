@@ -11,15 +11,9 @@
   "priceRange": "$",
   "description": "Located in Tempe, Beard Papa's is a dessert shop with takeout & delivery.",
   "amenities": [
-    "Delivery",
-    "Onsite services",
-    "Takeout",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible restroom",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible restroom"
   ],
   "sameAs": [
     "https://www.facebook.com/BeardPapasusa"
@@ -30,5 +24,31 @@
   "groundgameId": "6a2437b90e1895dbd089deb9",
   "seededAt": "2026-06-06T15:07:37Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJ-4wCtzp1K4cRVBDnrVd4rqw",
+  "googleCid": "12443015138446348372",
+  "googleMapsUrl": "https://www.google.com/maps/place/Beard+Papa%27s/data=!4m7!3m6!1s0x872b753ab7028cfb:0xacae7857ade71054!8m2!3d33.4261389!4d-111.9039142!16s%2Fg%2F11qy8k1ryz!19sChIJ-4wCtzp1K4cRVBDnrVd4rqw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4,
+  "googleReviewCount": 129,
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 8,
+    "3": 8,
+    "4": 19,
+    "5": 77
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG70aQqZXCOonFyxN0hLEYu9bpLwxCwZBlQULbXPbEeBx_Rvz5tjmEzstbizWKNvc9ooi_nUcv8SI2FXv_XUIi4pFBL71FkNTSUf4JtGUZbqbDggBwtbleBa-yA-Nv0Yfuj8H2=w1200-h800-k-no",
+  "website": "https://beardpapas.com/",
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "lat": 33.4261389,
+  "lng": -111.90391419999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

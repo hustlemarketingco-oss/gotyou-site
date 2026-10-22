@@ -1,0 +1,52 @@
+{
+  "slug": "filibertos-mexican-food-1845-tempe",
+  "name": "Filiberto's Mexican Food",
+  "category": "Mexican & Latin",
+  "googleCategory": "Mexican restaurant",
+  "secondaryCategories": [
+    "Fast food restaurant"
+  ],
+  "address": "1845 E Guadalupe Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.36335,
+  "lng": -111.909747,
+  "phone": "+14808398898",
+  "website": "https://www.filibertos.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Filiberto%27s+Mexican+Food/data=!4m7!3m6!1s0x872b064bc01c448b:0xd982a2420608a054!8m2!3d33.36335!4d-111.909747!16s%2Fg%2F1v8y4h42!19sChIJi0QcwEsGK4cRVKAIBkKigtk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "15673268057655517268",
+  "placeId": "ChIJi0QcwEsGK4cRVKAIBkKigtk",
+  "googleRating": 4,
+  "googleReviewCount": 966,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn46L8BLAxdoIZpE4BVvpBjR1oL5MiQBrWXjnV9sM8Vb1m-6zhPceJZg0IGg-GYq6eNR6XMaHyoE4QGMqgoEmZ8s71punJU5QuvRPO8R7yG2T4LP7u9orMNY90VtUg_tNOoszS5tAS3P8t=w1200-h800-k-no",
+  "description": "Mexican fast-food chain outlet specializing in tacos, burritos, tostadas & quesadillas.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 112,
+    "2": 39,
+    "3": 81,
+    "4": 210,
+    "5": 524
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

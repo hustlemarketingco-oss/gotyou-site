@@ -1,0 +1,48 @@
+{
+  "slug": "broadway-marketplace-tempe",
+  "name": "Broadway Marketplace",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "917 E Broadway Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061513,
+  "lng": -111.9255139,
+  "phone": "+18338004343",
+  "website": "https://properties.kimcorealty.com/p/commercial-real-estate-listings/Tempe-AZ-85282/118270",
+  "googleMapsUrl": "https://www.google.com/maps/place/Broadway+Marketplace/data=!4m7!3m6!1s0x872b0894d910ba71:0xe9631a43fbd91e9d!8m2!3d33.4061513!4d-111.9255139!16s%2Fg%2F1tdw3ymr!19sChIJcboQ2ZQIK4cRnR7Z-0MaY-k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16817314312822005405",
+  "placeId": "ChIJcboQ2ZQIK4cRnR7Z-0MaY-k",
+  "googleRating": 4.2,
+  "googleReviewCount": 651,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJDFfUixzQt0JMZK-i5ozMD6qR52Rm9C77ri-CvLUv5loJC19URWTuZ8PHCI_qfEHA-GU8SkKHFYFer6W-XugdusZ4Jv9TR3o2lWQCdtrCBZc3I94Omu_sLEUpCZOF4YaC5ORei1WS8C-s=w1200-h800-k-no",
+  "description": "Small outdoor shopping center with several big-name stores, fast food outlets & casual restaurants.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 24,
+    "3": 112,
+    "4": 168,
+    "5": 330
+  },
+  "hours": {
+    "mon": "Open 24 hours",
+    "tue": "Open 24 hours",
+    "wed": "Open 24 hours",
+    "thu": "Open 24 hours",
+    "fri": "Open 24 hours",
+    "sat": "Open 24 hours",
+    "sun": "Open 24 hours"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

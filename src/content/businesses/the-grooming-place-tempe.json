@@ -1,0 +1,45 @@
+{
+  "slug": "the-grooming-place-tempe",
+  "name": "The Grooming Place",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "secondaryCategories": [
+    "Hair extension technician"
+  ],
+  "address": "270 S Wilson St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4273582,
+  "lng": -111.9464378,
+  "phone": "+14802341594",
+  "website": "https://www.thegroomingplaceexperience.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Grooming+Place/data=!4m7!3m6!1s0x872b09c2ef768681:0x847709f489626848!8m2!3d33.4273582!4d-111.9464378!16s%2Fg%2F11vr16crdy!19sChIJgYZ278IJK4cRSGhiifQJd4Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9545108881116653640",
+  "placeId": "ChIJgYZ278IJK4cRSGhiifQJd4Q",
+  "googleRating": 5,
+  "googleReviewCount": 39,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLekQbU0RKI1itlrQtRvIoPyo4jmRKOPkeVAenJR0TsZezUzdIFGYkOvPRyCTvtZSeIJ7uWfdWVNLc516-fqrma6-ifYiovIBXse_4pzpUBaZ0mCcgJBr1waMLcUBqVDT8udDSHEkQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 39
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 6:00 PM",
+    "wed": "8:00 AM - 6:00 PM",
+    "thu": "8:00 AM - 6:00 PM",
+    "fri": "8:00 AM - 6:00 PM",
+    "sat": "8:00 AM - 6:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

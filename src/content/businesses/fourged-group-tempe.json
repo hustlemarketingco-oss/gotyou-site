@@ -1,0 +1,46 @@
+{
+  "slug": "fourged-group-tempe",
+  "name": "Fourged Group",
+  "category": "Shopping",
+  "googleCategory": "Gun shop",
+  "secondaryCategories": [
+    "Laser cutting service",
+    "Machine shop"
+  ],
+  "address": "304 S River Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4275313,
+  "lng": -111.8957506,
+  "phone": "+14807930191",
+  "website": "https://fourged.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Fourged+Group/data=!4m7!3m6!1s0x872b0859e03fffff:0x496633a459ec83bb!8m2!3d33.4275313!4d-111.8957506!16s%2Fg%2F11smxsz256!19sChIJ__8_4FkIK4cRu4PsWaQzZkk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5288971593369551803",
+  "placeId": "ChIJ__8_4FkIK4cRu4PsWaQzZkk",
+  "googleRating": 5,
+  "googleReviewCount": 35,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQuTxwHlzgHKGi_KHALm55MFqwh6dbmCWdpeTWTnX8ynupAN1b-MsQPecEHPJiW6dpi18Q62X8X8Sm4IchDKgUIU7KNaMIm60wU1AyNdeKutS9PtH4i3G-Dgq8rvrna8QLplHxVg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 35
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 8:00 PM",
+    "wed": "9:00 AM - 8:00 PM",
+    "thu": "9:00 AM - 8:00 PM",
+    "fri": "9:00 AM - 8:00 PM",
+    "sat": "9:00 AM - 8:00 PM",
+    "sun": "9:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

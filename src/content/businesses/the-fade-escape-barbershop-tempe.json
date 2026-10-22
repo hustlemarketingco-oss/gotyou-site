@@ -1,0 +1,47 @@
+{
+  "slug": "the-fade-escape-barbershop-tempe",
+  "name": "The Fade Escape Barbershop",
+  "category": "Health & Beauty",
+  "googleCategory": "Barber shop",
+  "address": "3163 S McClintock Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3943382,
+  "lng": -111.9074893,
+  "phone": "+16024100073",
+  "website": "http://www.thefadeescape.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/The+Fade+Escape+Barbershop/data=!4m7!3m6!1s0x872b07e95a4b29b7:0x876328ca83613700!8m2!3d33.3943382!4d-111.9074893!16s%2Fg%2F11c53jw6kr!19sChIJtylLWukHK4cRADdhg8ooY4c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9755686068067317504",
+  "placeId": "ChIJtylLWukHK4cRADdhg8ooY4c",
+  "googleRating": 4.7,
+  "googleReviewCount": 88,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcP-vnKDMVWfpPNKgIyTld3i7BQlmbcIqq7ribp9WnT4awWSDmn9EzquxT9Ii3UxzUYslVLvsONl5C_gl0ZzGUQYcXWB01tg0HKKSWidYraZILRYGK1O2gIkZHlvye0Mb_dv7NO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "5": 78
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "10:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "10:00 AM - 5:00 PM",
+    "sat": "10:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

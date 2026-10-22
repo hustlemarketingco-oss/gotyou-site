@@ -1,0 +1,51 @@
+{
+  "slug": "sentient-tattoo-collective-tempe",
+  "name": "Sentient Tattoo Collective",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "secondaryCategories": [
+    "Tattoo artist",
+    "Tattoo removal service"
+  ],
+  "address": "227 S Smith Rd #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.42764,
+  "lng": -111.9001931,
+  "phone": "+14803829219",
+  "website": "https://sentienttattoocollective.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Sentient+Tattoo+Collective/data=!4m7!3m6!1s0x872b096e014ed8bf:0x4533bd3fbdc985c5!8m2!3d33.42764!4d-111.9001931!16s%2Fg%2F11h2mh2n2l!19sChIJv9hOAW4JK4cRxYXJvT-9M0U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4986537293893961157",
+  "placeId": "ChIJv9hOAW4JK4cRxYXJvT-9M0U",
+  "googleRating": 5,
+  "googleReviewCount": 1501,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0FJRL-r0dL5ZvTX0iAXc_7s-FOXh8dNPmZZ5zehKmlAlp8KqtbAqNxyztQhomG2aJYNHnxYcM30midqbBgWLySRB2lNmc4JwklSTKEu7Sayd3zjz8FHJGjelGTKSQgK6mbElIaQ=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "4": 5,
+    "5": 1491
+  },
+  "hours": {
+    "mon": "12:00 PM - 8:00 PM",
+    "tue": "12:00 PM - 8:00 PM",
+    "wed": "12:00 PM - 8:00 PM",
+    "thu": "12:00 PM - 8:00 PM",
+    "fri": "12:00 PM - 8:00 PM",
+    "sat": "12:00 PM - 8:00 PM",
+    "sun": "12:00 PM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

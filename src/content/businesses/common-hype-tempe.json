@@ -1,0 +1,46 @@
+{
+  "slug": "common-hype-tempe",
+  "name": "Common Hype",
+  "category": "Shopping",
+  "googleCategory": "Shoe store",
+  "address": "3222 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3945163,
+  "lng": -111.9413244,
+  "phone": "+16028817793",
+  "website": "https://commonhype.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Common+Hype/data=!4m7!3m6!1s0x872b0505a8811cd3:0x5d3a8835cbf84cb4!8m2!3d33.3945163!4d-111.9413244!16s%2Fg%2F11k2z8q06c!19sChIJ0xyBqAUFK4cRtEz4yzWIOl0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6717831558813207732",
+  "placeId": "ChIJ0xyBqAUFK4cRtEz4yzWIOl0",
+  "googleRating": 4.8,
+  "googleReviewCount": 770,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGt6RmMlndvHtQm7U1pNy30dOMPPMvtq-Wib4ls_QlkDPz2QWVB__uMmO79kLQr8Nkpwp7fFPT42Nehkyf7dh9uQkYPYW6FKfB2O3_r2UzEvhzKVj0JCfgHZ9uCL_vwyFfIa22j-Q5jP6a=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 34,
+    "2": 3,
+    "3": 9,
+    "4": 10,
+    "5": 714
+  },
+  "hours": {
+    "mon": "12:00 PM - 7:00 PM",
+    "tue": "12:00 PM - 7:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "12:00 PM - 7:00 PM",
+    "sat": "12:00 PM - 7:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

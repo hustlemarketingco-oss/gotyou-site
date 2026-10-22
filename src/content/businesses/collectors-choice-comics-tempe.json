@@ -1,0 +1,44 @@
+{
+  "slug": "collectors-choice-comics-tempe",
+  "name": "Collectors Choice Comics",
+  "category": "Shopping",
+  "googleCategory": "Comic book store",
+  "address": "1805 E Elliot Rd Ste 101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.347571099999996,
+  "lng": -111.910733,
+  "phone": "+14807803272",
+  "website": "https://www.collectorschoicecomics.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Collectors+Choice+Comics/data=!4m7!3m6!1s0x872b09816a12bd79:0xeb98872f6f5470cc!8m2!3d33.3475711!4d-111.910733!16s%2Fg%2F11qlh_0936!19sChIJeb0SaoEJK4cRzHBUby-HmOs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "16976467433174102220",
+  "placeId": "ChIJeb0SaoEJK4cRzHBUby-HmOs",
+  "googleRating": 4.9,
+  "googleReviewCount": 112,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeymi7vEq7E0cqxLVe66ChFWF3uUpnx9FVsiFxUVdhNXrz_m9n5UovwvXRqmpu7RczWBebZYhFy_SKBvxW-9tAbratWBEFb9epp2yOyu5r320C66SlIy8HsTbvHhXT40RFfpAwJQw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "4": 6,
+    "5": 104
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 4:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "12:00 PM - 7:00 PM",
+    "fri": "11:00 AM - 7:00 PM",
+    "sat": "11:00 AM - 7:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

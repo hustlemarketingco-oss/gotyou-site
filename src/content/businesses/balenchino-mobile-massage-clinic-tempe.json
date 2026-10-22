@@ -1,0 +1,48 @@
+{
+  "slug": "balenchino-mobile-massage-clinic-tempe",
+  "name": "Balenchino Mobile Massage Clinic",
+  "category": "Health & Beauty",
+  "googleCategory": "Massage therapist",
+  "secondaryCategories": [
+    "Rehabilitation center"
+  ],
+  "address": "2155 E University Dr #111",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4212704,
+  "lng": -111.8928251,
+  "phone": "+16124862775",
+  "website": "http://www.balenchinomassage.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Balenchino+Mobile+Massage+Clinic/data=!4m7!3m6!1s0x872b05cbd0816333:0x3d86c6343b2e3af!8m2!3d33.4212704!4d-111.8928251!16s%2Fg%2F11hz15y0yv!19sChIJM2OB0MsFK4cRr-OyQ2Ns2AM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "277090550676644783",
+  "placeId": "ChIJM2OB0MsFK4cRr-OyQ2Ns2AM",
+  "googleRating": 5,
+  "googleReviewCount": 94,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrIZWSRFyePe7m7gkMIKhiaGsJWJgYPh2TMExIOlAz3GWldCBoXXFNCEK9-wtwpNxag6AAilopO5hmjyhWu8bshJze48twqvGg4C7DC5k16eo7dlBP2YhexT-CCazG0tvCNEQVW26VwDIO=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "3": 1,
+    "4": 1,
+    "5": 92
+  },
+  "hours": {
+    "mon": "9:00 AM - 11:00 AM, 6:00 PM - 9:00 PM",
+    "tue": "Closed",
+    "wed": "9:00 AM - 12:30 PM",
+    "thu": "Closed",
+    "fri": "9:00 AM - 11:30 AM, 6:00 PM - 8:00 PM",
+    "sat": "11:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

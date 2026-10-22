@@ -14,30 +14,18 @@
   "lng": -111.9627168,
   "phone": "+14809219661",
   "website": "https://www.instagram.com/lucys.cafe/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=18187374864094867730",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lucy%27s+Fountainhead+Cafe/data=!4m7!3m6!1s0x872b0f37a0e2e35f:0xfc668913fb3e3112!8m2!3d33.4030109!4d-111.9627168!16s%2Fg%2F1hc0wcc2y!19sChIJX-PioDcPK4cREjE--xOJZvw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "18187374864094867730",
   "placeId": "ChIJX-PioDcPK4cREjE--xOJZvw",
   "googleRating": 4.5,
-  "googleReviewCount": 76,
+  "googleReviewCount": 78,
   "priceRange": "$10–20",
   "description": "Lucy's Fountainhead Cafe is a Tempe casual coffee shop & american restaurant known for coffee & comfort food, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "7:00 AM - 2:30 PM",
@@ -54,5 +42,14 @@
   "groundgameId": "6a24394a64a7d320c4f572f6",
   "seededAt": "2026-06-06T15:14:18Z",
   "updatedAt": "2026-06-06T15:14:18Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 1,
+    "2": 1,
+    "3": 5,
+    "4": 19,
+    "5": 52
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCGLFTWWb4tRpJm_CCXxuZk7deqYiRfhg-6WsADpUmgLxce-Uz8psj5CLZQsGt6wVtcLrgxHeHASoe_5qUE83KFQG4RMtpoImK__OAngqmEHzrqk1uHda63WiDOTjQMFxfSW46Rg=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "roman-god-of-fire-tempe",
+  "name": "Roman God of Fire",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "52 E Rio Salado Pkwy",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4302388,
+  "lng": -111.9389806,
+  "phone": "+14805204242",
+  "website": "https://www.romangodoffire.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Roman+God+of+Fire/data=!4m7!3m6!1s0x872b09003095d745:0xf7129e71a38b957d!8m2!3d33.4302388!4d-111.9389806!16s%2Fg%2F11npnkrc25!19sChIJRdeVMAAJK4cRfZWLo3GeEvc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17803466487861319037",
+  "placeId": "ChIJRdeVMAAJK4cRfZWLo3GeEvc",
+  "googleRating": 4.4,
+  "googleReviewCount": 227,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUe0u-0crBq-fkzc8rlTcr4tA7FEm0m5fLOwbJx_44c-EcIGoJgR3IWiJgkQvlqCdfdn0JbLKLPhO3rjB6FAlewBOe1ywYnzpMr2e7Jb9jobHWg0QDYbluxJeqSRBTRPEkJ4-nhGpiphSk=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 12,
+    "3": 26,
+    "4": 24,
+    "5": 157
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

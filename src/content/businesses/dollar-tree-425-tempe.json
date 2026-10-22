@@ -1,0 +1,57 @@
+{
+  "slug": "dollar-tree-425-tempe",
+  "name": "Dollar Tree",
+  "category": "Shopping",
+  "googleCategory": "Discount store",
+  "secondaryCategories": [
+    "Candy store",
+    "Convenience store",
+    "Dollar store",
+    "Grocery store",
+    "Home goods store",
+    "Party store",
+    "Seasonal goods store",
+    "Variety store"
+  ],
+  "address": "425 W Baseline Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3777403,
+  "lng": -111.94558339999999,
+  "phone": "+14807440055",
+  "website": "https://locations.dollartree.com/az/tempe/425-w-baseline-rd?utm_source=google&utm_medium=organic&utm_campaign=maps",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dollar+Tree/data=!4m7!3m6!1s0x872b0603eff7b129:0x57c57bee7aaf77b3!8m2!3d33.3777403!4d-111.9455834!16s%2Fg%2F11cs3wh9tz!19sChIJKbH37wMGK4cRs3eveu57xVc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6324597515902482355",
+  "placeId": "ChIJKbH37wMGK4cRs3eveu57xVc",
+  "googleRating": 4.1,
+  "googleReviewCount": 583,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLez4Ywi6KYowGPl2PQvpMj0bJgEZ78ditQ1-gNW_Zc0vAokHfESrtpnoOB9ZUHV_TcaJN106DcsvZ6Ax-mg6n1SKNPFww8UsYAE9ifLgzWEAqmevSXjN333rKcNeKbZ13W9Y8wYSEdIt8QC=w1200-h800-k-no",
+  "description": "Chain offering a mix of household items, beauty products, food & more at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 54,
+    "2": 10,
+    "3": 60,
+    "4": 134,
+    "5": 325
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "8:00 AM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

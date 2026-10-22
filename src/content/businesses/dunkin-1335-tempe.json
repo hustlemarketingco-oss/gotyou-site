@@ -23,7 +23,7 @@
   "website": "https://locations.dunkindonuts.com/en/az/tempe/1335-w.-university-dr/304991&y_source=1_MTIxMDYxMjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "placeId": "ChIJeUdT2ikPK4cRpqJK61nKvuk",
   "googleRating": 4.1,
-  "googleReviewCount": 622,
+  "googleReviewCount": 631,
   "priceRange": "$",
   "hours": {
     "mon": "4:00 AM - 6:00 PM",
@@ -40,5 +40,22 @@
   "groundgameId": "6a3ed9a2fdf2863dfacb2712",
   "seededAt": "2026-06-26T19:57:22Z",
   "updatedAt": "2026-08-06T18:41:35Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "16843122143960670886",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x872b0f29da534779:0xe9beca59eb4aa2a6!8m2!3d33.4212243!4d-111.9605682!16s%2Fg%2F1tf7bkg2!19sChIJeUdT2ikPK4cRpqJK61nKvuk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 65,
+    "2": 27,
+    "3": 52,
+    "4": 133,
+    "5": 354
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAJIvQ63T6Lg4o9S3c9yfxMNN-X68t6lDKOyPTil9-5hOee3Ey4FwtmqtcGPOrIrDCOhsx2xDo7vOfhlRJUHw463PlUnlu3R5xglCX6VBmJuGgxU-9aZBfYmB0VnbMSH4xWYo=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

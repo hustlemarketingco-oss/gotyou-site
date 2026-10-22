@@ -16,27 +16,10 @@
   "priceRange": "$20–30",
   "description": "Located in Tempe, Freely Taproom & Kitchen is a casual, cozy restaurant & beer hall with alcohol & beer, takeout & delivery.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/FreelyTaproom"
@@ -47,5 +30,31 @@
   "groundgameId": "6a24379c75e0dbfee30a8f43",
   "seededAt": "2026-06-06T15:07:08Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJVXrFqLUHK4cRx6sw93OYOdM",
+  "googleCid": "15220364039511124935",
+  "googleMapsUrl": "https://www.google.com/maps/place/Freely+Taproom+%26+Kitchen/data=!4m7!3m6!1s0x872b07b5a8c57a55:0xd3399873f730abc7!8m2!3d33.3353028!4d-111.9115971!16s%2Fg%2F11n78n0y9_!19sChIJVXrFqLUHK4cRx6sw93OYOdM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.7,
+  "googleReviewCount": 315,
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 8,
+    "3": 9,
+    "4": 40,
+    "5": 251
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIh_T_J4LScsdZBLu48-j-VMeB5ErOZhTlQx50CX3bWYGKdL_WTVHdXoPb2lesWCpHKDqFB5WESDTijszweOFjQn3rN19r4tmE16FlO0sXwPPHl3nA8O6GmtQC35DkUELrl5Q=w1200-h800-k-no",
+  "website": "http://www.freelytaproom.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 10:00 PM",
+    "sat": "9:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 10:00 PM"
+  },
+  "lat": 33.3353028,
+  "lng": -111.9115971,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

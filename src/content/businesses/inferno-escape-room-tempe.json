@@ -16,13 +16,9 @@
   "phone": "+14805670190",
   "description": "Located in Tempe, Inferno Escape Room is a escape room center & amusement center. A favorite among family-friendly diners.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Free parking lot",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/infernoescaperoom"
@@ -33,5 +29,22 @@
   "groundgameId": "6a24385214e7de8b0bcd0c94",
   "seededAt": "2026-06-06T15:10:10Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJvWGDzYEJK4cRLeiK3aU3O_g",
+  "googleCid": "17886951530558056493",
+  "googleMapsUrl": "https://www.google.com/maps/place/Inferno+Escape+Room/data=!4m7!3m6!1s0x872b0981cd8361bd:0xf83b37a5dd8ae82d!8m2!3d33.4215329!4d-111.8931891!16s%2Fg%2F11g0ds6_8k!19sChIJvWGDzYEJK4cRLeiK3aU3O_g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.9,
+  "googleReviewCount": 478,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 4,
+    "4": 16,
+    "5": 452
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrguq711H8V985u0Jt0RJdSfGvagxRTR66ENJPoA4bobkDwlH8H_v8BYO1Agp5hNwsRcTSNfFCEesfDeQIMcG8Ib_LnTmKVSLjX8ksFINOy0514nRtsz_mwEQZ4bia-UD78i-KvlvJXhas=w1200-h800-k-no",
+  "website": "http://infernoescaperoom.com/",
+  "lat": 33.421532899999995,
+  "lng": -111.8931891,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

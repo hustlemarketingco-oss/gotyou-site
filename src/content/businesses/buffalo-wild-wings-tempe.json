@@ -15,32 +15,18 @@
   "lng": -111.9258474,
   "phone": "+14808589464",
   "website": "https://www.buffalowildwings.com/",
-  "googleMapsUrl": "https://www.google.com/maps?cid=15011993182563151385",
+  "googleMapsUrl": "https://www.google.com/maps/place/Buffalo+Wild+Wings/data=!4m7!3m6!1s0x872b08e0d38f4f59:0xd055504339432e19!8m2!3d33.4235789!4d-111.9258474!16s%2Fg%2F1vknpvrc!19sChIJWU-P0-AIK4cRGS5DOUNQVdA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "15011993182563151385",
   "placeId": "ChIJWU-P0-AIK4cRGS5DOUNQVdA",
   "googleRating": 3.7,
-  "googleReviewCount": 2608,
+  "googleReviewCount": 2644,
   "priceRange": "$10–20",
   "description": "Chain dishing up wings, tenders & burgers, plus sauces ranging from sweet to very spicy.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "hours": {
     "fri": "11:00 AM - 2:00 AM",
@@ -57,5 +43,14 @@
   "groundgameId": "6a243a1ba4fc106fc71a4221",
   "seededAt": "2026-06-06T15:17:47Z",
   "updatedAt": "2026-06-06T15:17:47Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "1": 464,
+    "2": 164,
+    "3": 291,
+    "4": 579,
+    "5": 1146
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_i0DlZqBon5AP1zYcV-Ha_T9lc5PIf2k4ehqRvdNtdf3dVDUHBFLNQ50-YlXsSnfWEPgcpzSHbRBpgYxpyBWHWGnsh-yU0VtvIuHIo7T3aYnatxDrxF3oRPB6QOxKZWtoanOi4eijrS9L=w1200-h800-k-no",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

@@ -1,0 +1,47 @@
+{
+  "slug": "athoria-games-tempe",
+  "name": "Athoria Games Tempe",
+  "category": "Shopping",
+  "googleCategory": "Game store",
+  "address": "3136 S McClintock Dr #11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3950106,
+  "lng": -111.9105963,
+  "phone": "+14808759777",
+  "website": "https://athoriagames.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Athoria+Games+Tempe/data=!4m7!3m6!1s0x872b095bcd9836cd:0xca3738c0d66a44ef!8m2!3d33.3950106!4d-111.9105963!16s%2Fg%2F11t6y4swdd!19sChIJzTaYzVsJK4cR70Rq1sA4N8o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14571177520262694127",
+  "placeId": "ChIJzTaYzVsJK4cR70Rq1sA4N8o",
+  "googleRating": 4.7,
+  "googleReviewCount": 531,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZmN5cdaEbQFG9zpJZpBsKyXRmgZEFIAZ5Ih0108xqL9NOyMPtiMWZd2w2xok5kNZVfxgBlR9Y7x0Dxow55INzA2r1s_V0JacIdTvl54RBzWM_X_MYv5j9YaQgXc1vWfsCdO5odoa6l6sK=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 28,
+    "2": 6,
+    "3": 5,
+    "4": 10,
+    "5": 482
+  },
+  "hours": {
+    "mon": "10:00 AM - 10:00 PM",
+    "tue": "10:00 AM - 10:00 PM",
+    "wed": "10:00 AM - 10:00 PM",
+    "thu": "10:00 AM - 10:00 PM",
+    "fri": "10:00 AM - 10:00 PM",
+    "sat": "10:00 AM - 10:00 PM",
+    "sun": "10:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "nexus-entertainment-tempe",
+  "name": "Nexus Entertainment",
+  "category": "Shopping",
+  "googleCategory": "Game store",
+  "address": "1829 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4493575,
+  "lng": -111.92556049999999,
+  "phone": "+14803064636",
+  "website": "https://www.nexus-entertainment.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Nexus+Entertainment/data=!4m7!3m6!1s0x872b098a2d669f2d:0xb27185a828d90245!8m2!3d33.4493575!4d-111.9255605!16s%2Fg%2F11xl4351m8!19sChIJLZ9mLYoJK4cRRQLZKKiFcbI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "12858205368405787205",
+  "placeId": "ChIJLZ9mLYoJK4cRRQLZKKiFcbI",
+  "googleRating": 4.6,
+  "googleReviewCount": 50,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzHlKKP1SWLJUbY5bHXA8CHusJDBCz8YniPm1qdTohD0PLQBDwWxApMgyapHK2lziKUmb7JAhAhWi_EQ8DnZBYMg9UfXk1ZfW_PzMt95BIwas7IFY8U2GE5xsYTnSxPweTUhDaFD_8uak=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 3,
+    "2": 3,
+    "5": 44
+  },
+  "hours": {
+    "mon": "3:00 PM - 8:30 PM",
+    "tue": "3:00 PM - 8:30 PM",
+    "wed": "11:00 AM - 8:30 PM",
+    "thu": "11:00 AM - 8:30 PM",
+    "fri": "11:00 AM - 8:30 PM",
+    "sat": "11:00 AM - 8:30 PM",
+    "sun": "11:00 AM - 8:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -2,7 +2,7 @@
   "slug": "bonfire-craft-kitchen-and-tap-house-tempe",
   "name": "Bonfire Craft Kitchen and Tap House Tempe",
   "category": "Bars & Pubs",
-  "googleCategory": "Sports bar",
+  "googleCategory": "Barbecue restaurant",
   "secondaryCategories": [
     "Chicken wings restaurant",
     "Pizza restaurant",
@@ -16,23 +16,10 @@
   "priceRange": "$20–30",
   "description": "Bonfire Craft Kitchen and Tap House Tempe is a Tempe casual, trendy sports bar & chicken wings restaurant known for alcohol.",
   "amenities": [
-    "Outdoor seating",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "Coffee",
-    "Quick bite",
-    "Pets: Outside"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/bonfirecraftkitchenandtaphouse"
@@ -43,5 +30,31 @@
   "groundgameId": "6a2438cd41c7b8ce2fcc48d8",
   "seededAt": "2026-06-06T15:12:13Z",
   "updatedAt": "2026-06-09T13:10:46Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJY774cAoFK4cREguHyaBUZLA",
+  "googleCid": "12710377097898953490",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bonfire+Craft+Kitchen+and+Tap+House+Tempe/data=!4m7!3m6!1s0x872b050a70f8be63:0xb06454a0c9870b12!8m2!3d33.3339646!4d-111.965244!16s%2Fg%2F11qbqz_sf5!19sChIJY774cAoFK4cREguHyaBUZLA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 1272,
+  "ratingBreakdown": {
+    "1": 53,
+    "2": 48,
+    "3": 91,
+    "4": 212,
+    "5": 868
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6P9GSwkXRMy8L3t2muR4JfTjAU9m0DpuRVig34x3v7DIKru0vRDnd904HQDy25QFrq1BWVZimnO0DbQi0VX9vATxr9oAQs2kAkgeW5NadPjdZgLJQsLVh7xbDcg4aeQe1XYWnwg=w1200-h800-k-no",
+  "website": "https://www.bonfirektap.com/",
+  "hours": {
+    "mon": "11:00 AM - 10:00 PM",
+    "tue": "11:00 AM - 10:00 PM",
+    "wed": "11:00 AM - 10:00 PM",
+    "thu": "11:00 AM - 10:00 PM",
+    "fri": "11:00 AM - 11:00 PM",
+    "sat": "11:00 AM - 11:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "lat": 33.3339646,
+  "lng": -111.965244,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

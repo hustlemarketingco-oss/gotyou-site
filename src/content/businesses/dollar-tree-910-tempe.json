@@ -1,0 +1,57 @@
+{
+  "slug": "dollar-tree-910-tempe",
+  "name": "Dollar Tree",
+  "category": "Shopping",
+  "googleCategory": "Discount store",
+  "secondaryCategories": [
+    "Candy store",
+    "Convenience store",
+    "Dollar store",
+    "Grocery store",
+    "Home goods store",
+    "Party store",
+    "Seasonal goods store",
+    "Variety store"
+  ],
+  "address": "910 E Elliot Rd Ste 103",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.3498964,
+  "lng": -111.9275626,
+  "phone": "+16028990165",
+  "website": "https://locations.dollartree.com/az/tempe/910-e-elliot-suite-103?utm_source=google&utm_medium=organic&utm_campaign=maps",
+  "googleMapsUrl": "https://www.google.com/maps/place/Dollar+Tree/data=!4m7!3m6!1s0x872b070007fd843b:0x30ed1569fed0b422!8m2!3d33.3498964!4d-111.9275626!16s%2Fg%2F11vy0wq4kf!19sChIJO4T9BwAHK4cRIrTQ_mkV7TA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3525497628291806242",
+  "placeId": "ChIJO4T9BwAHK4cRIrTQ_mkV7TA",
+  "googleRating": 4.3,
+  "googleReviewCount": 51,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdOgxvwXu6EfzF1sG6ewR8jsqloS0ChKVD3MoWpRcqzgsMIrziirmJQhxgJWE9UeDYNmWnuCREFk1tLB73DQ8jJKZxt0QZkaFCJRwTmD-r3x1wz4ShF57MT7GkTOaSrnP8VWyN_3YKUr8r=w1200-h800-k-no",
+  "description": "Chain offering a mix of household items, beauty products, food & more at discount prices.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 10,
+    "5": 34
+  },
+  "hours": {
+    "mon": "8:00 AM - 10:00 PM",
+    "tue": "8:00 AM - 10:00 PM",
+    "wed": "8:00 AM - 10:00 PM",
+    "thu": "8:00 AM - 10:00 PM",
+    "fri": "8:00 AM - 10:00 PM",
+    "sat": "8:00 AM - 10:00 PM",
+    "sun": "9:00 AM - 8:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

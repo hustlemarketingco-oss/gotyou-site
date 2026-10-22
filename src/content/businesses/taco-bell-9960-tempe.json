@@ -1,0 +1,51 @@
+{
+  "slug": "taco-bell-9960-tempe",
+  "name": "Taco Bell",
+  "category": "Fast Food",
+  "googleCategory": "Fast food restaurant",
+  "secondaryCategories": [
+    "Burrito restaurant",
+    "Mexican restaurant",
+    "Taco restaurant"
+  ],
+  "address": "9960 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3205125,
+  "lng": -111.92999569999999,
+  "phone": "+14809400442",
+  "website": "https://locations.tacobell.com/az/tempe/9960-south-rural-road.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=037549&utm_content=website&y_source=1_NjE0MTU0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://www.google.com/maps/place/Taco+Bell/data=!4m7!3m6!1s0x872b06bfe80528b9:0x1eb6c25dc2b05b33!8m2!3d33.3205125!4d-111.9299957!16s%2Fg%2F1tgdcwn6!19sChIJuSgF6L8GK4cRM1uwwl3Cth4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2213169974853262131",
+  "placeId": "ChIJuSgF6L8GK4cRM1uwwl3Cth4",
+  "googleRating": 3.8,
+  "googleReviewCount": 858,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfT8RdWXi67WVFuYjmdnTxfTd9RA2xrHkle7Iyf1DDo5sV0LT5FdCCRhIUQGTJw11UkaIHFES1PFqkxf6Re9dpmthirIO6OE1Frnu2pzXw0uvl90q3HqW3L87dpRq__-NAvGLHP=w1200-h800-k-no",
+  "description": "Fast-food chain serving Mexican-inspired fare such as tacos, quesadillas & nachos.",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 102,
+    "2": 53,
+    "3": 124,
+    "4": 186,
+    "5": 393
+  },
+  "hours": {
+    "mon": "8:00 AM - 2:00 AM",
+    "tue": "8:00 AM - 2:00 AM",
+    "wed": "8:00 AM - 3:00 AM",
+    "thu": "8:00 AM - 3:00 AM",
+    "fri": "8:00 AM - 3:00 AM",
+    "sat": "8:00 AM - 3:00 AM",
+    "sun": "8:00 AM - 3:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

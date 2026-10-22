@@ -2,7 +2,7 @@
   "slug": "busan-mart-2005-tempe",
   "name": "Busan Mart",
   "category": "Shopping",
-  "googleCategory": "Convenience store",
+  "googleCategory": "Korean grocery store",
   "secondaryCategories": [
     "Asian grocery store",
     "Grocery store",
@@ -18,7 +18,7 @@
   "website": "https://www.busanmart.us/",
   "placeId": "ChIJYbdyiCEJK4cRuZo33DRmKdA",
   "googleRating": 4.7,
-  "googleReviewCount": 161,
+  "googleReviewCount": 167,
   "hours": {
     "mon": "9:00 AM - 10:30 PM",
     "tue": "9:00 AM - 10:30 PM",
@@ -34,5 +34,21 @@
   "groundgameId": "6a552a97d3daf0f216f4bf05",
   "seededAt": "2026-07-13T18:12:39Z",
   "updatedAt": "2026-07-13T18:13:14Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "14999632411153111737",
+  "googleMapsUrl": "https://www.google.com/maps/place/Busan+Mart/data=!4m7!3m6!1s0x872b09218872b761:0xd0296634dc379ab9!8m2!3d33.4141628!4d-111.900106!16s%2Fg%2F11y44rtq_g!19sChIJYbdyiCEJK4cRuZo33DRmKdA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 7,
+    "2": 3,
+    "3": 4,
+    "4": 8,
+    "5": 145
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftOAnXkmOniLKK23f0I8PLPbhHP5BzbTJbdP4zNvQIRm6AqvMvf8Lizs7CaW8VRyOOCrX6JJJ_mI43uNKeNH5KaOnY5EG3AaifWdURN90iUwJ4jP1ohl011YPOcyDZDImMalP4rLUSyj-d=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

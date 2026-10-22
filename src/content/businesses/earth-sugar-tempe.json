@@ -9,7 +9,7 @@
   "zip": "85288",
   "lat": 33.4215468,
   "lng": -111.9159656,
-  "googleMapsUrl": "https://www.google.com/maps?cid=14031553090369258218",
+  "googleMapsUrl": "https://www.google.com/maps/place/Earth+Sugar/data=!4m7!3m6!1s0x872b092a6d629e15:0xc2ba17317e7e82ea!8m2!3d33.4215468!4d-111.9159656!16s%2Fg%2F11vdwdpshn!19sChIJFZ5ibSoJK4cR6oJ-fjEXusI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "googleCid": "14031553090369258218",
   "placeId": "ChIJFZ5ibSoJK4cR6oJ-fjEXusI",
   "googleRating": 5,
@@ -17,9 +17,7 @@
   "description": "Located in Tempe, Earth Sugar is a bakery.",
   "amenities": [
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Debit cards",
-    "NFC mobile payments"
+    "Wheelchair accessible parking lot"
   ],
   "timezone": "America/Phoenix",
   "claimStatus": "unclaimed",
@@ -27,5 +25,10 @@
   "groundgameId": "6a2439bcba0815e01e379de8",
   "seededAt": "2026-06-06T15:16:12Z",
   "updatedAt": "2026-06-06T15:16:12Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "ratingBreakdown": {
+    "5": 1
+  },
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xoiQcz1l2aXzUK4JvrBYAA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=174.02153&pitch=0&thumbfov=100",
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

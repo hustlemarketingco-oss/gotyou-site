@@ -14,11 +14,8 @@
   "phone": "+14809214161",
   "description": "Located in Tempe, Jonathan Robins Bakery is a wholesale bakery & bakery.",
   "amenities": [
-    "Onsite services",
     "Wheelchair accessible entrance",
-    "Wheelchair accessible parking lot",
-    "Credit cards",
-    "Debit cards"
+    "Wheelchair accessible parking lot"
   ],
   "sameAs": [
     "https://www.facebook.com/jonathanrobinsbakery"
@@ -29,5 +26,30 @@
   "groundgameId": "6a24397c98a437049f7224fc",
   "seededAt": "2026-06-06T15:15:08Z",
   "updatedAt": "2026-06-09T01:18:40Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJQ096WUwPK4cRmnjDTtxLVZQ",
+  "googleCid": "10688532700220061850",
+  "googleMapsUrl": "https://www.google.com/maps/place/Jonathan+Robins+Bakery/data=!4m7!3m6!1s0x872b0f4c597a4f43:0x94554bdc4ec3789a!8m2!3d33.3945597!4d-111.9555385!16s%2Fg%2F1thl19wh!19sChIJQ096WUwPK4cRmnjDTtxLVZQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.4,
+  "googleReviewCount": 35,
+  "ratingBreakdown": {
+    "1": 3,
+    "3": 2,
+    "4": 5,
+    "5": 25
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfznCI20o4RDYhyRiKPperHG9SRgNZ5Z9TP7FXqHEzzI16_FmoNyVJMLHd7Swx0jofILwAsLsLATknDWyYaTBMzP-rhT4R322AaFqrKRcQc1wdBhJvpHz75GgSOltgrdzluR4vj=w1200-h800-k-no",
+  "website": "https://jonathanrobinsbakery.com/",
+  "hours": {
+    "mon": "7:00 AM - 3:00 PM",
+    "tue": "7:00 AM - 3:00 PM",
+    "wed": "7:00 AM - 3:00 PM",
+    "thu": "7:00 AM - 3:00 PM",
+    "fri": "7:00 AM - 3:00 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "lat": 33.394559699999995,
+  "lng": -111.95553849999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

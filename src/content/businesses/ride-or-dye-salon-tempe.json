@@ -1,0 +1,43 @@
+{
+  "slug": "ride-or-dye-salon-tempe",
+  "name": "Ride or Dye Salon",
+  "category": "Health & Beauty",
+  "googleCategory": "Hair salon",
+  "address": "Palette Collective, 7720 S Priest Dr Unit 27",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.348130999999995,
+  "lng": -111.965351,
+  "phone": "+14805604139",
+  "website": "https://www.rideordyesalonaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Ride+or+Dye+Salon/data=!4m7!3m6!1s0x872b05431e09a95f:0x5592440452f91207!8m2!3d33.348131!4d-111.965351!16s%2Fg%2F11nmf88781!19sChIJX6kJHkMFK4cRBxL5UgREklU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6166065625186243079",
+  "placeId": "ChIJX6kJHkMFK4cRBxL5UgREklU",
+  "googleRating": 5,
+  "googleReviewCount": 7,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMvHG_mt8J9KXpjL9bIPSc33SvlLIi-eksxHZmUkXOiU8Go5k-KI60iuaNd1ZxxZ_NN0oKmuVPvLr5sTQ3_X-jWKiQdEiRsGF-L_xcn0vAu9crG1zIbaK_ZdfYdmeKZWisjjU-=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 7
+  },
+  "hours": {
+    "mon": "9:00 AM - 5:00 PM",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "9:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "9:00 AM - 5:00 PM",
+    "sun": "8:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

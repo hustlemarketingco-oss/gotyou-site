@@ -1,0 +1,45 @@
+{
+  "slug": "hale-pet-doors-of-arizona-tempe",
+  "name": "Hale Pet Doors of Arizona",
+  "category": "Shopping",
+  "googleCategory": "Pet supply store",
+  "address": "5028 S Ash Ave #101",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85283",
+  "lat": 33.37945,
+  "lng": -111.94298029999999,
+  "phone": "+16239317979",
+  "website": "https://halepetdoorsofaz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Hale+Pet+Doors+of+Arizona/data=!4m7!3m6!1s0x872b6b30b0b1d097:0x1c2a5bae66627dba!8m2!3d33.37945!4d-111.9429803!16s%2Fg%2F1tmpfd9s!19sChIJl9CxsDBrK4cRun1iZq5bKhw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2029535386683997626",
+  "placeId": "ChIJl9CxsDBrK4cRun1iZq5bKhw",
+  "googleRating": 4.9,
+  "googleReviewCount": 393,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOval8VpHOGOxBp6ltZW4KVl1MdnT2eNo9FwpoEdqlvXghKTWQZW9NtPH-ndYrqV5p1HHd7glUeYTUfe3Jlctk4MRGKduvontHDDjhj4RU4Z5nGM6TLL3m6DuTMDaw4d-PGbyUiEcgyW8=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 5,
+    "2": 1,
+    "4": 3,
+    "5": 384
+  },
+  "hours": {
+    "mon": "8:00 AM - 4:00 PM",
+    "tue": "8:00 AM - 4:00 PM",
+    "wed": "8:00 AM - 4:00 PM",
+    "thu": "8:00 AM - 4:00 PM",
+    "fri": "8:00 AM - 4:00 PM",
+    "sat": "8:00 AM - 12:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

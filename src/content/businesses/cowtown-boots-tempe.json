@@ -1,0 +1,50 @@
+{
+  "slug": "cowtown-boots-tempe",
+  "name": "Cowtown Boots",
+  "category": "Shopping",
+  "googleCategory": "Boot store",
+  "secondaryCategories": [
+    "Western apparel store"
+  ],
+  "address": "1001 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4407121,
+  "lng": -111.9258552,
+  "phone": "+14809684748",
+  "website": "https://cowtownboots.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Cowtown+Boots/data=!4m7!3m6!1s0x872b09179f5f498b:0x47bf512e36886ace!8m2!3d33.4407121!4d-111.9258552!16s%2Fg%2F1trsygpk!19sChIJi0lfnxcJK4cRzmqINi5Rv0c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5169940156169874126",
+  "placeId": "ChIJi0lfnxcJK4cRzmqINi5Rv0c",
+  "googleRating": 4.5,
+  "googleReviewCount": 237,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0qUK52XnmzMbWn0w5svxClpd9Zipv-XF_t7F5YedrpTeMhN2IfJSpt_JZSyAvQLEZERc-NTMB-V7hYQ7JbamvCrqg62hbnr_AFz9QKsqYJrfjx1CElgUoTOrCiq_1nkzqvPZx=w1200-h800-k-no",
+  "description": "Large outpost selling cowboy boots & other Western-style footwear for men, women & children.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 8,
+    "2": 8,
+    "3": 18,
+    "4": 24,
+    "5": 179
+  },
+  "hours": {
+    "mon": "10:00 AM - 6:00 PM",
+    "tue": "10:00 AM - 6:00 PM",
+    "wed": "10:00 AM - 6:00 PM",
+    "thu": "10:00 AM - 6:00 PM",
+    "fri": "10:00 AM - 6:00 PM",
+    "sat": "10:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 5:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

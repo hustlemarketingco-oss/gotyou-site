@@ -1,0 +1,46 @@
+{
+  "slug": "scooby-dos-pet-grooming-tempe",
+  "name": "Scooby Do's Pet Grooming",
+  "category": "Local Business",
+  "googleCategory": "Pet groomer",
+  "address": "930 W Broadway Rd Ste 8",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4077668,
+  "lng": -111.95357229999999,
+  "phone": "+14809669870",
+  "website": "https://scoobydospetgrooming.glossgenius.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Scooby+Do%27s+Pet+Grooming/data=!4m7!3m6!1s0x872b08cb53bd62bd:0x899ac619b4069c0e!8m2!3d33.4077668!4d-111.9535723!16s%2Fg%2F1tslk5hd!19sChIJvWK9U8sIK4cRDpwGtBnGmok?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9915455343306382350",
+  "placeId": "ChIJvWK9U8sIK4cRDpwGtBnGmok",
+  "googleRating": 4.4,
+  "googleReviewCount": 208,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVmoYj7_AZ6tSsVwvxiVqL8-Qh17TZEqahuVvPFic2qe5S71db6oQbe4IjUgR4Pai4raWygg5q5kC_d3jU9CzCji01ZqFymYVOMWIZlfr6Y9WAzZeNmGzDkO8eDmxMtl8oPjfsprP5bKw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 26,
+    "2": 2,
+    "3": 3,
+    "4": 6,
+    "5": 171
+  },
+  "hours": {
+    "mon": "8:00 AM - 5:00 PM",
+    "tue": "Closed",
+    "wed": "9:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:00 PM",
+    "fri": "8:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 5:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "spirit-of-yoga-tempe",
+  "name": "Spirit Of Yoga",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "secondaryCategories": [
+    "Educational institution"
+  ],
+  "address": "1420 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.393918899999996,
+  "lng": -111.9151232,
+  "phone": "+14805670695",
+  "website": "http://soy.swiha.edu/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Spirit+Of+Yoga/data=!4m7!3m6!1s0x872b08835eba75e7:0x489889528e983013!8m2!3d33.3939189!4d-111.9151232!16s%2Fg%2F1vn18_bx!19sChIJ53W6XoMIK4cREzCYjlKJmEg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "5231081954863493139",
+  "placeId": "ChIJ53W6XoMIK4cREzCYjlKJmEg",
+  "googleRating": 4.9,
+  "googleReviewCount": 85,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXGIJqLOwqBlbF9xvizBleBd6q4N9vqo5p_jt7gbvM1dGorMAw6yQvdBD4hymVKFkh8RitvyLo1q0aRJZPFYTP4EiIavolXsQeyj6nSDLdRL3rgXL3sxEqtP0xXDGbgQN3zj_amA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 2,
+    "3": 1,
+    "4": 1,
+    "5": 81
+  },
+  "hours": {
+    "mon": "8:00 AM - 12:00 PM, 3:30 PM - 7:30 PM",
+    "tue": "8:00 AM - 12:00 PM, 3:30 PM - 7:30 PM",
+    "wed": "8:00 AM - 12:00 PM, 3:30 PM - 7:30 PM",
+    "thu": "8:30 AM - 12:00 PM, 3:30 PM - 7:30 PM",
+    "fri": "8:30 AM - 12:00 PM, 4:30 PM - 6:30 PM",
+    "sat": "8:30 AM - 12:30 PM",
+    "sun": "8:30 AM - 1:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

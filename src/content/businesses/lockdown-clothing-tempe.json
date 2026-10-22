@@ -1,0 +1,42 @@
+{
+  "slug": "lockdown-clothing-tempe",
+  "name": "Lockdown Clothing",
+  "category": "Shopping",
+  "googleCategory": "Clothing store",
+  "address": "712 S Hacienda Dr",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4232957,
+  "lng": -111.9065876,
+  "phone": "+16025390999",
+  "googleMapsUrl": "https://www.google.com/maps/place/Lockdown+Clothing/data=!4m7!3m6!1s0x872b08f84431ae4f:0xeca4b741327a17b!8m2!3d33.4232957!4d-111.9065876!16s%2Fg%2F11c1vkbx0w!19sChIJT64xRPgIK4cRe6EnE3RLyg4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "1065747223736197499",
+  "placeId": "ChIJT64xRPgIK4cRe6EnE3RLyg4",
+  "googleRating": 4.2,
+  "googleReviewCount": 5,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ig8euF3r0ZD8wEll8X5rcA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=6.390861&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 4
+  },
+  "hours": {
+    "mon": "9:00 AM - 4:30 PM",
+    "tue": "9:00 AM - 4:30 PM",
+    "wed": "9:00 AM - 4:30 PM",
+    "thu": "9:00 AM - 4:30 PM",
+    "fri": "9:00 AM - 4:30 PM",
+    "sat": "Closed",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

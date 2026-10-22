@@ -1,0 +1,58 @@
+{
+  "slug": "ycs-mongolian-grill-tempe",
+  "name": "YC's Mongolian Grill",
+  "category": "Asian & Pacific",
+  "googleCategory": "Mongolian barbecue restaurant",
+  "secondaryCategories": [
+    "Asian fusion restaurant",
+    "Asian restaurant",
+    "Buffet restaurant",
+    "Chinese restaurant",
+    "Health food restaurant",
+    "Vegan restaurant",
+    "Vegetarian restaurant"
+  ],
+  "address": "752 W Elliot Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3496502,
+  "lng": -111.94912339999999,
+  "phone": "+14807772929",
+  "website": "http://www.ycs-mongoliangrill.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/YC%27s+Mongolian+Grill/data=!4m7!3m6!1s0x872b05d8016585cb:0xc763b5af8c478050!8m2!3d33.3496502!4d-111.9491234!16s%2Fg%2F1tfl0nzy!19sChIJy4VlAdgFK4cRUIBHjK-1Y8c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "14367527001819414608",
+  "placeId": "ChIJy4VlAdgFK4cRUIBHjK-1Y8c",
+  "googleRating": 4.8,
+  "googleReviewCount": 4249,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9hp6akKwiBEVVtWLpgOuw6UPsfxUzm_ACIlxAPEM-MgQOQHWAu1KVIlasYvRX83N2VOH0BA83Qri4QIejoh63MvzqFX7O5l3SV6q20dii0Hyw10-FUxqOA4ZgQdzrEd6xyOk=w1200-h800-k-no",
+  "description": "Casual, contemporary spot where diners create their own stir-fry dishes using over a dozen sauces.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 25,
+    "2": 16,
+    "3": 69,
+    "4": 399,
+    "5": 3740
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "11:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

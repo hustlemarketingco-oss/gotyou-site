@@ -1,0 +1,43 @@
+{
+  "slug": "prissy-polish-tempe",
+  "name": "Prissy Polish",
+  "category": "Health & Beauty",
+  "googleCategory": "Nail salon",
+  "address": "1800 E Rio Salado Pkwy #170",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4301305,
+  "lng": -111.90786109999999,
+  "phone": "+19258340737",
+  "website": "https://linktr.ee/prissypolish",
+  "googleMapsUrl": "https://www.google.com/maps/place/Prissy+Polish/data=!4m7!3m6!1s0x872b09761d141e65:0x21e9a7a5c1019fe8!8m2!3d33.4301305!4d-111.9078611!16s%2Fg%2F11yzrcxkrc!19sChIJZR4UHXYJK4cR6J8BwaWn6SE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "2443668603174756328",
+  "placeId": "ChIJZR4UHXYJK4cR6J8BwaWn6SE",
+  "googleRating": 5,
+  "googleReviewCount": 10,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdl0QWMiCzt9LaH2XB13GekGYN0vBCTfE3z1nERPvXNMHmY20jJKAR2piM7-aoAhgUgkQ5MLsRurK32X2X-7_GYUnByIIwl-l98UQobALJbB4W3aWURsBlxy_-cbS2jBR7G5tXDKykAnFhg=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 10
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "8:00 AM - 5:00 PM",
+    "wed": "8:00 AM - 5:00 PM",
+    "thu": "8:00 AM - 5:30 PM",
+    "fri": "8:00 AM - 5:30 PM",
+    "sat": "8:00 AM - 4:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

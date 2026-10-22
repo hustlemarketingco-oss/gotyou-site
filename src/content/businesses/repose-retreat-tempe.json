@@ -1,0 +1,42 @@
+{
+  "slug": "repose-retreat-tempe",
+  "name": "Repose Retreat",
+  "category": "Health & Beauty",
+  "googleCategory": "Sports massage therapist",
+  "address": "2409 S Rural Rd Ste C room 2",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4026266,
+  "lng": -111.92598629999999,
+  "phone": "+14807442800",
+  "website": "http://reposeretreat.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Repose+Retreat/data=!4m7!3m6!1s0x872b094984e45f6b:0x95384f5beddd4d21!8m2!3d33.4026266!4d-111.9259863!16s%2Fg%2F11h54n4547!19sChIJa1_khEkJK4cRIU3d7VtPOJU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "10752431366598380833",
+  "placeId": "ChIJa1_khEkJK4cRIU3d7VtPOJU",
+  "googleRating": 5,
+  "googleReviewCount": 9,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0kvjVwj_cgXPnrq52FekJgHWOVXsWb2Rqo1WE5QM-ZJkRoPjvTtynZ807OoirDFiIk1ywrTxDxMctYgOX3Q6JV0hzGqWd2p5lwAyQmQpM-bBdfJzVx0SvFvcni6MQ35hIsOmh=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 9
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "11:00 AM - 5:00 PM",
+    "wed": "12:00 PM - 7:00 PM",
+    "thu": "Closed",
+    "fri": "10:00 AM - 4:00 PM",
+    "sat": "9:00 AM - 5:30 PM",
+    "sun": "1:30 PM - 5:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

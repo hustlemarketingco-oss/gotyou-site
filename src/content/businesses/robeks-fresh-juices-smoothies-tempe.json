@@ -14,23 +14,10 @@
   "priceRange": "$1–10",
   "description": "Counter-serve chain pouring blended juices, protein shakes & smoothies in a bright setting.",
   "amenities": [
-    "Curbside pickup",
-    "No-contact delivery",
-    "Delivery",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Pets: Outside"
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/RobeksSmoothies"
@@ -41,5 +28,29 @@
   "groundgameId": "6a2435e7ea70f13e6b006ca5",
   "seededAt": "2026-06-06T14:59:51Z",
   "updatedAt": "2026-09-22T15:41:27Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJS-PPfsMHK4cRkTc80DiQHTM",
+  "googleCid": "3683258643945109393",
+  "googleMapsUrl": "https://www.google.com/maps/place/Robeks+Fresh+Juices+%26+Smoothies/data=!4m7!3m6!1s0x872b07c37ecfe34b:0x331d9038d03c3791!8m2!3d33.335972!4d-111.9106088!16s%2Fg%2F11l5kmwbw6!19sChIJS-PPfsMHK4cRkTc80DiQHTM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.5,
+  "googleReviewCount": 41,
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 2,
+    "5": 35
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDSEeKSOVRPmpMxXkTxu_2G4BmNHJnLfLUFecnG-ZgzNFJn2YjbE1jlWbyxMvwDBj4a3SMBl3_g69fbfMdFW66620YkJRjCAy11gx8CwQKQnMoauFQJW7Gv8pYI-X4Q2jM22M0=w1200-h800-k-no",
+  "website": "https://robeks.com/locations/az/tempe/1840-e-warner-rd?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=website",
+  "hours": {
+    "mon": "7:00 AM - 7:00 PM",
+    "tue": "7:00 AM - 7:00 PM",
+    "wed": "7:00 AM - 7:00 PM",
+    "thu": "7:00 AM - 7:00 PM",
+    "fri": "7:00 AM - 7:00 PM",
+    "sat": "8:00 AM - 7:00 PM",
+    "sun": "8:00 AM - 6:00 PM"
+  },
+  "lat": 33.335972,
+  "lng": -111.91060879999999,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

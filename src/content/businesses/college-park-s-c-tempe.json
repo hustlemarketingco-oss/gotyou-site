@@ -1,0 +1,47 @@
+{
+  "slug": "college-park-s-c-tempe",
+  "name": "College Park S.C. - Tempe",
+  "category": "Shopping",
+  "googleCategory": "Shopping mall",
+  "address": "5158 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3795607,
+  "lng": -111.92920409999999,
+  "phone": "+18338004343",
+  "website": "https://properties.kimcorealty.com/p/commercial-real-estate-listings/Tempe-AZ-85282/116770",
+  "googleMapsUrl": "https://www.google.com/maps/place/College+Park+S.C.+-+Tempe/data=!4m7!3m6!1s0x872b07bd35a8582d:0x4204d209777e9253!8m2!3d33.3795607!4d-111.9292041!16s%2Fg%2F11f012xkvt!19sChIJLVioNb0HK4cRU5J-dwnSBEI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4757158044511408723",
+  "placeId": "ChIJLVioNb0HK4cRU5J-dwnSBEI",
+  "googleRating": 4.2,
+  "googleReviewCount": 392,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIXQc_QFkXQEhT7ZdEq3tyBAJ5RdzlOaiV79LCWXmWOrhbqF_bm0hWZQCHmRn7_sBEioXYfuMSzB8miDeqQ70LrLWp-wiWtIavRJuHz3QwRBXENLdoyfp-emWXPco1GovpEG3gkw=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "1": 9,
+    "2": 11,
+    "3": 66,
+    "4": 106,
+    "5": 200
+  },
+  "hours": {
+    "mon": "10:00 AM - 9:00 PM",
+    "tue": "10:00 AM - 9:00 PM",
+    "wed": "10:00 AM - 9:00 PM",
+    "thu": "10:00 AM - 9:00 PM",
+    "fri": "10:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

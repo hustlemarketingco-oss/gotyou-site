@@ -1,0 +1,47 @@
+{
+  "slug": "bar-moxy-tempe",
+  "name": "Bar MOXY",
+  "category": "Restaurant",
+  "googleCategory": "Restaurant",
+  "address": "1333 S Rural Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.413952699999996,
+  "lng": -111.9257002,
+  "phone": "+14809683451",
+  "website": "http://marriott.com/phxox",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+MOXY/data=!4m7!3m6!1s0x872b0991654ab847:0xef5e9ce4463c248a!8m2!3d33.4139527!4d-111.9257002!16s%2Fg%2F11t4_mvr0y!19sChIJR7hKZZEJK4cRiiQ8RuScXu8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "17248396127120401546",
+  "placeId": "ChIJR7hKZZEJK4cRiiQ8RuScXu8",
+  "googleRating": 3.8,
+  "googleReviewCount": 18,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebgAAa1jxSyXrYCH2r03acsPj67Tm9RZUXQlYOMDY5BUo0urMYazYt0SsPsT5O5XH7vozC7PaLqnVqKXEffZZCmuuiVM7xrc7yrRwktDtWfgZ2Ukn0H3MQ7nuNBBaEsES2oFJuiA=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 4,
+    "2": 1,
+    "4": 2,
+    "5": 11
+  },
+  "hours": {
+    "mon": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM",
+    "tue": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM",
+    "wed": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM",
+    "thu": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM",
+    "fri": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM",
+    "sat": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM",
+    "sun": "7:00 AM - 11:00 AM, 12:30 PM - 11:30 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

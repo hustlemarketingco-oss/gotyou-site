@@ -15,28 +15,10 @@
   "priceRange": "$10–20",
   "description": "Brightly decorated, chef-owned Thai restaurant supplying fried rice dishes, noodles & curries.",
   "amenities": [
-    "No-contact delivery",
-    "Delivery",
-    "Onsite services",
-    "Takeout",
-    "Dine-in",
     "Wheelchair accessible entrance",
     "Wheelchair accessible parking lot",
     "Wheelchair accessible restroom",
-    "Wheelchair accessible seating",
-    "Casual",
-    "Quiet",
-    "Trendy",
-    "Free parking lot",
-    "Free street parking",
-    "Credit cards",
-    "Debit cards",
-    "NFC mobile payments",
-    "Coffee",
-    "Healthy options",
-    "Quick bite",
-    "Vegan options",
-    "Vegetarian options"
+    "Wheelchair accessible seating"
   ],
   "sameAs": [
     "https://www.facebook.com/YuphasThaiKitchen"
@@ -47,5 +29,31 @@
   "groundgameId": "6a2439ec2cf8fda137fd829a",
   "seededAt": "2026-06-06T15:17:00Z",
   "updatedAt": "2026-06-09T01:20:15Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "placeId": "ChIJC_DL3lUGK4cRdB-MDsygRF8",
+  "googleCid": "6864788530297315188",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yupha%27s+Thai+Kitchen/data=!4m7!3m6!1s0x872b0655decbf00b:0x5f44a0cc0e8c1f74!8m2!3d33.3478965!4d-111.9096143!16s%2Fg%2F1td6gyv9!19sChIJC_DL3lUGK4cRdB-MDsygRF8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleRating": 4.6,
+  "googleReviewCount": 1751,
+  "ratingBreakdown": {
+    "1": 57,
+    "2": 29,
+    "3": 58,
+    "4": 281,
+    "5": 1326
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCxqFX5D7h8IZiTldVf1367jYwj_sD3XA-rWtjUiFeQi9N_IbWCbrB-W8_eEnSPPn-SN72UAMNfkSYR4O_olksqHID8di-6mzMI-Za58CqaBo5ZzhZSwKI3E1wURuk4dp66unP0A=w1200-h800-k-no",
+  "website": "http://www.yuphas.com/",
+  "hours": {
+    "mon": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "tue": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "wed": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "thu": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "fri": "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM",
+    "sat": "5:00 PM - 9:00 PM",
+    "sun": "Closed"
+  },
+  "lat": 33.3478965,
+  "lng": -111.9096143,
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

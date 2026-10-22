@@ -1,0 +1,48 @@
+{
+  "slug": "iconic-games-hobbies-tempe",
+  "name": "Iconic games&hobbies",
+  "category": "Shopping",
+  "googleCategory": "Trading card store",
+  "secondaryCategories": [
+    "Hobby store",
+    "Toy store"
+  ],
+  "address": "113 E Southern Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.391998199999996,
+  "lng": -111.93746089999999,
+  "phone": "+16026427319",
+  "googleMapsUrl": "https://www.google.com/maps/place/Iconic+games%26hobbies/data=!4m7!3m6!1s0x872ba77890980e75:0x41d3a78bf5a03c3f!8m2!3d33.3919982!4d-111.9374609!16s%2Fg%2F11r68l4d1z!19sChIJdQ6YkHinK4cRPzyg9Yun00E?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4743319052114476095",
+  "placeId": "ChIJdQ6YkHinK4cRPzyg9Yun00E",
+  "googleRating": 4.6,
+  "googleReviewCount": 80,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc2lMS6lI07FisOge7jWh8Lfk6rTLw2-bE9n1OFxirlRwggOTBfLBG8vwFQ9Kjc66aWaXhDxeLUPypQ9pyoVrLfql-JN9gygCddiytZ2kC_O9tfvixC6lGyopDAGhMzLY7DRE8leU1eP4=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 6,
+    "3": 2,
+    "4": 5,
+    "5": 67
+  },
+  "hours": {
+    "mon": "Closed",
+    "tue": "Closed",
+    "wed": "3:00 PM - 10:00 PM",
+    "thu": "3:00 PM - 10:00 PM",
+    "fri": "3:00 PM - 10:00 PM",
+    "sat": "3:00 PM - 10:00 PM",
+    "sun": "3:00 PM - 10:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "phantom-fox-beer-company-tempe",
+  "name": "Phantom Fox Beer Company Tempe",
+  "category": "Bars & Pubs",
+  "googleCategory": "Brewery",
+  "address": "525 S Mill Ave",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.4246742,
+  "lng": -111.9397444,
+  "website": "https://phantomfox.beer/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Phantom+Fox+Beer+Company+Tempe/data=!4m7!3m6!1s0x872b099eb7dc090f:0x423fb031ca70605b!8m2!3d33.4246742!4d-111.9397444!16s%2Fg%2F11nvy7wf8n!19sChIJDwnct54JK4cRW2BwyjGwP0I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "4773727857932263515",
+  "placeId": "ChIJDwnct54JK4cRW2BwyjGwP0I",
+  "googleRating": 5,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcucOFOzufJmtpx0MzSXfhylN1UkSvMh7KO1J9wW_iog-Vaci9xLf5G-lgK2VnXOkJdDY0iUi2Kqr5ckOlONaDQpWm4NPv5__Bw-9-AXL_FnHeafSiIkFCp70zp162mRY_p09SwkSvL7fA=w1200-h800-k-no",
+  "ratingBreakdown": {
+    "5": 13
+  },
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 12:00 AM",
+    "fri": "11:00 AM - 1:00 AM",
+    "sat": "10:00 AM - 1:00 AM",
+    "sun": "9:45 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

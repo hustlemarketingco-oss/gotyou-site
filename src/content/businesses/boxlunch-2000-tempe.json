@@ -1,0 +1,49 @@
+{
+  "slug": "boxlunch-2000-tempe",
+  "name": "BoxLunch",
+  "category": "Shopping",
+  "googleCategory": "Gift shop",
+  "secondaryCategories": [
+    "Clothing store",
+    "Collectibles store",
+    "Novelty store"
+  ],
+  "address": "2000 E Rio Salado Pkwy #1127",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.4334682,
+  "lng": -111.9030488,
+  "phone": "+14804993613",
+  "website": "https://www.boxlunch.com/stores-details?StoreId=4785",
+  "googleMapsUrl": "https://www.google.com/maps/place/BoxLunch/data=!4m7!3m6!1s0x872b093f009ad879:0x85bf47764b268471!8m2!3d33.4334682!4d-111.9030488!16s%2Fg%2F11vsntq1ng!19sChIJediaAD8JK4cRcYQmS3ZHv4U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9637500300988679281",
+  "placeId": "ChIJediaAD8JK4cRcYQmS3ZHv4U",
+  "googleRating": 4.7,
+  "googleReviewCount": 13,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5Hlw6Bn5f1zMf8ltQBTWuDt-_y_mvmYKr2xEN1KnWD1A4wUtziCGHBoBtsaiGjmrovVR398kizTHBTEOGh5zg8fAaaMZmdwiUzOaPCyQnZLjdQt88TKvx_064BbioPw3lSU5R=w1200-h800-k-no",
+  "description": "Local chain specialty retailer selling apparel, accessories, home goods, gifts & novelties.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "5": 12
+  },
+  "hours": {
+    "mon": "11:00 AM - 9:00 PM",
+    "tue": "11:00 AM - 9:00 PM",
+    "wed": "11:00 AM - 9:00 PM",
+    "thu": "11:00 AM - 9:00 PM",
+    "fri": "11:00 AM - 9:00 PM",
+    "sat": "10:00 AM - 9:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

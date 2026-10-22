@@ -1,0 +1,46 @@
+{
+  "slug": "catfish-corner-tempe",
+  "name": "Catfish Corner",
+  "category": "Restaurant",
+  "googleCategory": "Soul food restaurant",
+  "address": "1857 N Scottsdale Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85288",
+  "lat": 33.450860299999995,
+  "lng": -111.92509469999999,
+  "phone": "+14809196492",
+  "website": "http://catfishcorneraz.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Catfish+Corner/data=!4m7!3m6!1s0x872b0984f09bc7f7:0x340a726458638ee8!8m2!3d33.4508603!4d-111.9250947!16s%2Fg%2F11nhj_y_wx!19sChIJ98eb8IQJK4cR6I5jWGRyCjQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "3749935415044574952",
+  "placeId": "ChIJ98eb8IQJK4cR6I5jWGRyCjQ",
+  "googleRating": 4.7,
+  "googleReviewCount": 19,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffZM4_lkrPbLx0rUzpLigBd6btVyMVBWFvQxYz8epxTNjNIzie11Lgb7tbOvglijea-RH5Ewx3ykcHc5FezsSRzj9KKwxbwbEQM5nir7zT3RBHd8D8Vg_UXAi1Ob9l9YkRxCKkmtqo6p8M=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 1,
+    "4": 1,
+    "5": 17
+  },
+  "hours": {
+    "mon": "11:00 AM - 4:00 AM",
+    "tue": "11:00 AM - 4:00 AM",
+    "wed": "11:00 AM - 4:00 AM",
+    "thu": "11:00 AM - 4:00 AM",
+    "fri": "11:00 AM - 4:00 AM",
+    "sat": "11:00 AM - 4:00 AM",
+    "sun": "11:00 AM - 4:00 AM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

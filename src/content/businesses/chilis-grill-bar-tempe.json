@@ -21,7 +21,7 @@
   "website": "https://www.chilis.com/locations",
   "placeId": "ChIJ_fns89YIK4cRtdcTRonqk_U",
   "googleRating": 4.1,
-  "googleReviewCount": 2840,
+  "googleReviewCount": 2896,
   "priceRange": "$$",
   "hours": {
     "mon": "11:00 AM - 11:00 PM",
@@ -38,5 +38,22 @@
   "groundgameId": "6a46badc2512dcf7ace4ac11",
   "seededAt": "2026-07-02T19:24:12Z",
   "updatedAt": "2026-07-28T19:17:44Z",
-  "source": "groundgame"
+  "source": "groundgame",
+  "googleCid": "17695745236175935413",
+  "googleMapsUrl": "https://www.google.com/maps/place/Chili%27s+Grill+%26+Bar/data=!4m7!3m6!1s0x872b08d6f3ecf9fd:0xf593ea894613d7b5!8m2!3d33.422172!4d-111.944549!16s%2Fg%2F1tgh3fsy!19sChIJ_fns89YIK4cRtdcTRonqk_U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "ratingBreakdown": {
+    "1": 247,
+    "2": 149,
+    "3": 298,
+    "4": 693,
+    "5": 1509
+  },
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc9FAmWsBMaYqlZChscd3GS_dphLeBBhB5RmDghRPxupoArsHv8BfbF4bpqPjOyc2ickTBJ_qGvNUEbmcVtmNDihv0xn_zX-DJfjTHYSrbEQRf197nOIhIceg6j1YXWXITlyY8f7pc4zRE=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "gbpCheckedAt": "2026-10-22T14:11:04Z"
 }

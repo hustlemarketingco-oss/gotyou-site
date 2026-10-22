@@ -1,0 +1,53 @@
+{
+  "slug": "bubbas-33-tempe",
+  "name": "Bubba's 33",
+  "category": "Restaurant",
+  "googleCategory": "American restaurant",
+  "secondaryCategories": [
+    "Restaurant",
+    "Sports bar"
+  ],
+  "address": "1730 W Ranch Rd",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.333727599999996,
+  "lng": -111.96895549999999,
+  "phone": "+14804932184",
+  "website": "https://www.bubbas33.com/locations/arizona/tempe",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bubba%27s+33/data=!4m7!3m6!1s0x872b050044682e5b:0x5f80a0f23c1a2629!8m2!3d33.3337276!4d-111.9689555!16s%2Fg%2F11lngzkxy9!19sChIJWy5oRAAFK4cRKSYaPPKggF8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "6881677192872994345",
+  "placeId": "ChIJWy5oRAAFK4cRKSYaPPKggF8",
+  "googleRating": 4.5,
+  "googleReviewCount": 731,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyzc7V9H98PLkRECdomBlGoVo4CZxFIsynQzEV7mG_8SN1c-uWQhM9akkwRKHb55YPTtcQSwAg_dMmqIGxv3IS_WVUR6V8f7ZnDTMTCPeXFibgM8JXiuhKoOFgxVA3TOcBpLsbjijZWN1X=w1200-h800-k-no",
+  "description": "Burgers, pizza & beer served alongside many large-screen TVs showing sports & music videos.",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom",
+    "Wheelchair accessible seating"
+  ],
+  "ratingBreakdown": {
+    "1": 32,
+    "2": 16,
+    "3": 47,
+    "4": 77,
+    "5": 559
+  },
+  "hours": {
+    "mon": "11:00 AM - 11:00 PM",
+    "tue": "11:00 AM - 11:00 PM",
+    "wed": "11:00 AM - 11:00 PM",
+    "thu": "11:00 AM - 11:00 PM",
+    "fri": "11:00 AM - 12:00 AM",
+    "sat": "11:00 AM - 12:00 AM",
+    "sun": "11:00 AM - 11:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "inkriver-tattoo-tempe",
+  "name": "InkRiver tattoo",
+  "category": "Health & Beauty",
+  "googleCategory": "Tattoo shop",
+  "address": "7720 S Priest Dr Unit 33",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85284",
+  "lat": 33.3481135,
+  "lng": -111.96525229999999,
+  "phone": "+14803895119",
+  "website": "https://inkrivertattoo.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/InkRiver+tattoo/data=!4m7!3m6!1s0x872b0500349af091:0x6fb1c731686100e9!8m2!3d33.3481135!4d-111.9652523!16s%2Fg%2F11xz64q9mp!19sChIJkfCaNAAFK4cR6QBhaDHHsW8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "8048433024106299625",
+  "placeId": "ChIJkfCaNAAFK4cR6QBhaDHHsW8",
+  "googleRating": 5,
+  "googleReviewCount": 12,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t8omwTvngDxGRbPOaIC8AQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=278.05396&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "5": 12
+  },
+  "hours": {
+    "mon": "11:00 AM - 6:00 PM",
+    "tue": "11:00 AM - 6:00 PM",
+    "wed": "11:00 AM - 6:00 PM",
+    "thu": "11:00 AM - 6:00 PM",
+    "fri": "11:00 AM - 6:00 PM",
+    "sat": "11:00 AM - 6:00 PM",
+    "sun": "11:00 AM - 6:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

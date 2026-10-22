@@ -1,0 +1,37 @@
+{
+  "slug": "get-pretty-with-mia-tempe",
+  "name": "Get Pretty With Mia",
+  "category": "Health & Beauty",
+  "googleCategory": "Beauty salon",
+  "address": "2039 S Mill Ave Ste A Unit 11",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.4061939,
+  "lng": -111.93942899999999,
+  "phone": "+16028151420",
+  "website": "https://www.getprettywithmia.as.me/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Get+Pretty+With+Mia/data=!4m7!3m6!1s0x872b09ec751470e1:0x6a1b6a04447d8270!8m2!3d33.4061939!4d-111.939429!16s%2Fg%2F11vhxf91sk!19sChIJ4XAUdewJK4cRcIJ9RARqG2o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "7645821358953038448",
+  "placeId": "ChIJ4XAUdewJK4cRcIJ9RARqG2o",
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=16FIQSt61kgsfk47El18tg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=315.8992&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "hours": {
+    "mon": "Closed",
+    "tue": "9:00 AM - 5:00 PM",
+    "wed": "10:00 AM - 5:00 PM",
+    "thu": "10:00 AM - 5:00 PM",
+    "fri": "9:00 AM - 5:00 PM",
+    "sat": "8:00 AM - 3:00 PM",
+    "sun": "Closed"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

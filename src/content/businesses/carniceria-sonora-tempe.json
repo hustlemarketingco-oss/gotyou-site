@@ -1,0 +1,52 @@
+{
+  "slug": "carniceria-sonora-tempe",
+  "name": "Carnicería Sonora",
+  "category": "Shopping",
+  "googleCategory": "Butcher shop",
+  "secondaryCategories": [
+    "Mexican goods store",
+    "Mexican grocery store",
+    "Mexican restaurant",
+    "Mexican torta restaurant"
+  ],
+  "address": "3135 S 48th St #107",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85282",
+  "lat": 33.3944942,
+  "lng": -111.97788209999999,
+  "phone": "+16024310063",
+  "website": "http://www.carniceriassonora.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Carnicer%C3%ADa+Sonora/data=!4m7!3m6!1s0x872b0f6a5cb66dad:0x87a810a1626e9e4a!8m2!3d33.3944942!4d-111.9778821!16s%2Fg%2F1tksj7x7!19sChIJrW22XGoPK4cRSp5uYqEQqIc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9775081276534857290",
+  "placeId": "ChIJrW22XGoPK4cRSp5uYqEQqIc",
+  "googleRating": 4.4,
+  "googleReviewCount": 183,
+  "photoUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn1CziENWXmX-siCBJUn-pWdmLp5FJC8r8ip1HKVXUriE2EA6qWTjgtvz7sLkeMkG9vXhiWSqiY7vgXvtFNaYkwupxU5-5WpQDjLUyDZjL9ke94BOwepg1u5frlRXV8-8TPoCC=w1200-h800-k-no",
+  "amenities": [
+    "Wheelchair accessible entrance",
+    "Wheelchair accessible parking lot"
+  ],
+  "ratingBreakdown": {
+    "1": 17,
+    "2": 2,
+    "3": 6,
+    "4": 22,
+    "5": 136
+  },
+  "hours": {
+    "mon": "8:00 AM - 9:00 PM",
+    "tue": "8:00 AM - 9:00 PM",
+    "wed": "8:00 AM - 9:00 PM",
+    "thu": "8:00 AM - 9:00 PM",
+    "fri": "8:00 AM - 9:00 PM",
+    "sat": "8:00 AM - 9:00 PM",
+    "sun": "8:00 AM - 9:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}

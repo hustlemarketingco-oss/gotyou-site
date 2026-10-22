@@ -1,0 +1,42 @@
+{
+  "slug": "yoga-nirvana-tempe",
+  "name": "Yoga Nirvana",
+  "category": "Health & Beauty",
+  "googleCategory": "Yoga studio",
+  "address": "95 W 4th St",
+  "city": "Tempe",
+  "state": "AZ",
+  "zip": "85281",
+  "lat": 33.426294299999995,
+  "lng": -111.94097749999999,
+  "phone": "+18155709642",
+  "website": "http://www.yoganirvanastudio.com/",
+  "googleMapsUrl": "https://www.google.com/maps/place/Yoga+Nirvana/data=!4m7!3m6!1s0x872b08eb504df3ef:0x851ddf728741be6b!8m2!3d33.4262943!4d-111.9409775!16s%2Fg%2F1wbf_wcv!19sChIJ7_NNUOsIK4cRa75Bh3LfHYU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "googleCid": "9592068464357523051",
+  "placeId": "ChIJ7_NNUOsIK4cRa75Bh3LfHYU",
+  "googleRating": 5,
+  "googleReviewCount": 79,
+  "photoUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ASfs5YFaUb-t5PbX6axqcg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=172.02779&pitch=0&thumbfov=100",
+  "amenities": [
+    "Wheelchair accessible parking lot",
+    "Wheelchair accessible restroom"
+  ],
+  "ratingBreakdown": {
+    "5": 79
+  },
+  "hours": {
+    "mon": "9:00 AM - 7:00 PM",
+    "tue": "9:00 AM - 7:00 PM",
+    "wed": "9:00 AM - 7:00 PM",
+    "thu": "9:00 AM - 7:00 PM",
+    "fri": "9:00 AM - 2:00 PM",
+    "sat": "9:00 AM - 12:00 PM",
+    "sun": "9:00 AM - 7:00 PM"
+  },
+  "timezone": "America/Phoenix",
+  "claimStatus": "unclaimed",
+  "checkinCount": 0,
+  "seededAt": "2026-10-22T14:11:04Z",
+  "updatedAt": "2026-10-22T14:11:04Z",
+  "source": "gmaps-scraper"
+}
