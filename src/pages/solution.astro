@@ -22,7 +22,7 @@ const flow = [
       <a href="/pricing" class="btn btn--lime btn--lg">See pricing</a>
       <a href={BRAND.merchantSignupUrl} class="btn btn--ghost btn--lg">Get started</a>
     </div>
-    <img slot="aside" src="/images/site/merchant_hero.jpg" alt="GOTYOU merchant dashboard on a laptop: see who walked in, win them back" class="hero-img" />
+    <img slot="aside" src="/images/site/merchant-dashboard.webp" alt="The new GOTYOU merchant center: Cafe Luna at 399 of 520 monthly customers, 77% of its goal" class="hero-img" width="1600" height="1044" />
   </PageHero>
 
   <section class="section">
@@ -113,7 +113,9 @@ const flow = [
   }
   .hero-img {
     width: min(560px, 46%);
-    border-radius: var(--radius-lg);
+    height: auto;
+    border-radius: 20px;
+    border: 6px solid rgba(255, 255, 255, 0.12);
     box-shadow: 0 30px 70px rgba(10, 30, 90, 0.35);
   }
   .flow {
