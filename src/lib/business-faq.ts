@@ -13,7 +13,7 @@ export const BUSINESS_FAQ_GROUPS = [
     items: [
       [
         'How much does GOTYOU cost for businesses?',
-        'The platform — merchant dashboard, AI customer discovery, local map listing, check-in and attribution tracking — is included at $0/month. You pay for customer demand: a $1 trial, or plans that guarantee 50, 100 or 200 first-time customers a month for $175, $300 or $500. <a href="/pricing/">Compare plans.</a>',
+        'Merchant Member is $24.95 a month: your merchant profile, verified check-ins with GOTYOU Tap at your counter, customer insights and promo tools, with pay-as-you-go usage. GOTYOU 50 ($175 a month) and GOTYOU 100 ($300 a month) add 50 or 100 guaranteed first-time customers every month. <a href="/pricing/">Compare plans.</a>',
       ],
       [
         'Is there a contract?',
@@ -29,7 +29,7 @@ export const BUSINESS_FAQ_GROUPS = [
       ],
       [
         'Do I need special hardware?',
-        'Check-ins use the GOTYOU Counter Tap NFC pad at your counter. The In-Store Kit (pad, table tents and window stickers) is included free with GOTYOU 50, 100 and 200, or $50 on its own.',
+        'Check-ins use the GOTYOU Counter Tap NFC pad at your counter. GOTYOU Tap is part of every plan. The full In-Store Kit (pad, table tents and window stickers) is included free with GOTYOU 50 and 100, or $50 on its own.',
       ],
       [
         'How quickly can I get started?',

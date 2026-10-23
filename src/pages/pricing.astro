@@ -3,39 +3,39 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PageHero from '../components/PageHero.astro';
 import { BRAND } from '../lib/constants';
 
-const DEMAND = [
-  '100% delivery guarantee — we deliver or refund the rest',
-  '11:23 Daily Drop engine included',
-  'AI customer discovery & free map listing',
-  'Full GOTYOU platform included ($0/mo)',
-  'In-Store Kit included (NFC pad & signage, $50 value)',
-];
 const plans = [
   {
-    tag: 'Platform access',
-    name: 'GOTYOU Trial',
-    price: '$1',
-    per: 'one-time',
-    blurb: 'Platform only. Set up your account, explore AI discovery, and list on our consumer map.',
+    tag: 'Join the network',
+    name: 'Merchant Member',
+    price: '$24.95',
+    per: '/ month',
+    blurb: 'Your spot on the GOTYOU network. Verified visits, customer insights and promo tools, with pay-as-you-go pricing only after results happen.',
     features: [
-      'Free local business map & profile listing',
-      'AI customer discovery & user behavior graph',
-      'Complete GOTYOU merchant dashboard',
-      'In-store check-in & attribution tracking',
-      'Offer & campaign management tools',
+      'Merchant profile',
+      'Verified check-ins',
+      'GOTYOU Tap at your counter',
+      'Visit history & user insights',
+      'Offer and promo tools',
+      'Pay-as-you-go usage',
+      'Month to month',
     ],
-    excluded: ['11:23 Daily Drops not included', 'In-Store Kit available separately ($50)'],
-    cta: 'Start trial for $1',
-    fine: 'No guaranteed customer deliveries. Upgrade anytime.',
+    cta: 'Subscribe',
+    fine: 'Month-to-month. No contract. Cancel anytime.',
   },
   {
     tag: 'Starter demand',
     name: 'GOTYOU 50',
     price: '$175',
     per: '/ month',
-    blurb: '50 first-time customers through your door every month.',
-    features: ['50 guaranteed new customers / mo', 'Every customer is a first-time visitor', ...DEMAND],
-    cta: 'Get 50 customers / mo',
+    blurb: '50 guaranteed new customers monthly. For cafes, QSR & retail (under $25 avg. ticket). Includes a Daily Drop promotion slot and user behavior profiles.',
+    features: [
+      'Everything in Merchant Member',
+      '50 guaranteed new customers / month',
+      '$175 monthly customer acquisition credit',
+      '1 cross-promotion campaign included',
+      'User behavior & insights',
+    ],
+    cta: 'Subscribe',
     fine: 'Month-to-month. No contract. Cancel anytime.',
   },
   {
@@ -43,21 +43,18 @@ const plans = [
     name: 'GOTYOU 100',
     price: '$300',
     per: '/ month',
-    blurb: '100 first-time customers through your door every month. Our sweet spot.',
-    features: ['100 guaranteed new customers / mo', 'Every customer is a first-time visitor', ...DEMAND],
-    cta: 'Get 100 customers / mo',
+    blurb: '100 guaranteed new customers monthly. For everyday local spots ready to scale (under $25 avg. ticket). Includes a cross-promotion campaign and digital & offline ad attribution.',
+    features: [
+      'Everything in Merchant Member',
+      '100 guaranteed new customers / month',
+      '$300 monthly customer acquisition budget',
+      '2 cross-promotion campaigns included',
+      'Social media & digital ad attribution tracking',
+      'Offline advertising attribution tracking',
+    ],
+    cta: 'Subscribe',
     fine: 'Month-to-month. No contract. Cancel anytime.',
     hot: true,
-  },
-  {
-    tag: 'Best value',
-    name: 'GOTYOU 200',
-    price: '$500',
-    per: '/ month',
-    blurb: '200 first-time customers through your door every month. Built for volume.',
-    features: ['200 guaranteed new customers / mo', 'Every customer is a first-time visitor', ...DEMAND],
-    cta: 'Get 200 customers / mo',
-    fine: 'Month-to-month. No contract. Cancel anytime.',
   },
 ];
 
@@ -71,10 +68,10 @@ const customMail = `mailto:${BRAND.helloEmail}?subject=Custom%20GOTYOU%20Demand%
 const faqs = [
   { q: 'How does the customer guarantee work?', a: 'Your monthly plan buys a guaranteed number of unique new customers through your door via 11:23 Daily Drops. Every visit is tracked in real time through your GOTYOU Counter Tap NFC pad and dashboard. If we fall short of your plan’s commitment during the month, we extend your campaign at no charge until we deliver them, or automatically refund the difference.' },
   { q: 'Are these brand-new customers or people who already visit me?', a: 'Brand new, every time. The 11:23 Daily Drop only counts first-time visitors toward your plan, and the same person is never counted twice. Bringing past customers back is a separate, much less expensive motion — that runs through your GOTYOU Demand Budget, not your plan.' },
-  { q: 'Is the GOTYOU platform really free?', a: 'Yes. We don’t believe in charging local businesses hundreds of dollars a month just to access software. Your merchant profile, AI customer discovery engine, local map listing, customer database, attribution tracking, and campaign management tools are included at $0/month. You only pay for actual customer demand.' },
+  { q: 'What does the $24.95 Merchant Membership include?', a: 'Your spot on the GOTYOU network: a merchant profile, verified check-ins with GOTYOU Tap at your counter, visit history and user insights, and offer and promo tools. Usage is pay-as-you-go, so you only pay more after results happen. It’s month-to-month and you can cancel anytime.' },
   { q: 'Why are standard plans built for businesses with tickets under $25?', a: 'The 11:23 Daily Drop model is designed around everyday, high-frequency venues like coffee shops, bakeries, quick-service restaurants, and casual retail, where a first visit turns into a habit quickly. High-ticket venues need a different incentive structure, which we support through dedicated GOTYOU Demand Budgets.' },
-  { q: 'Do you offer custom plans for spas, salons, med spas, or massage clinics?', a: `Yes. While our standard 11:23 Daily Drop plans are calibrated for everyday venues under $25, we build custom GOTYOU Demand Plans for higher average-order-value businesses. Acquiring a new customer for a $150 spa treatment or a $300 salon service takes a different incentive structure, so we configure a dedicated GOTYOU Demand Budget tailored to your unit economics. You still get the entire GOTYOU platform, AI discovery, map listing, and Counter Tap technology at $0/month. <a href="${customMail}">Contact us to build your custom plan.</a>` },
-  { q: 'What’s the difference between the $1 Trial and the demand plans?', a: 'The $1 Trial gives you full platform access to build your profile, list on our local consumer map, test our AI customer discovery tools, and set up your dashboard. It does not include guaranteed 11:23 Daily Drop customer deliveries. When you’re ready for guaranteed foot traffic, upgrade to GOTYOU 50, 100, or 200.' },
+  { q: 'Do you offer custom plans for spas, salons, med spas, or massage clinics?', a: `Yes. While our standard 11:23 Daily Drop plans are calibrated for everyday venues under $25, we build custom GOTYOU Demand Plans for higher average-order-value businesses. Acquiring a new customer for a $150 spa treatment or a $300 salon service takes a different incentive structure, so we configure a dedicated GOTYOU Demand Budget tailored to your unit economics. You still get the full GOTYOU platform, your merchant profile and Counter Tap technology. <a href="${customMail}">Contact us to build your custom plan.</a>` },
+  { q: 'What’s the difference between Merchant Member and GOTYOU 50 or 100?', a: 'Merchant Member puts you on the GOTYOU network with verified check-ins, customer insights and promo tools, and you pay as you go. GOTYOU 50 and 100 add a guaranteed number of first-time customers every month, a monthly customer acquisition credit, cross-promotion campaigns and, on GOTYOU 100, social, digital and offline ad attribution tracking. Upgrade whenever you’re ready for guaranteed foot traffic.' },
 ];
 
 const faqLd = {
@@ -84,17 +81,17 @@ const faqLd = {
 };
 ---
 
-<BaseLayout title="Pricing" description="Stop paying for software. Start paying for customers. GOTYOU guarantees real, new customers through your door every month — month-to-month, no contract.">
+<BaseLayout title="Pricing" description="GOTYOU pricing: Merchant Member $24.95/month, or guaranteed new customers with GOTYOU 50 ($175/month) and GOTYOU 100 ($300/month). Month-to-month, no contract.">
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqLd)} />
 
   <PageHero
     eyebrow="Transparent pricing · Month to month"
-    title="Stop paying for software. <em>Start paying for customers.</em>"
-    lede="GOTYOU guarantees real, new customers through your door every month. Full platform access, AI customer discovery, local map listing, and in-store check-in technology are included at no extra cost."
+    title="Stop paying for ads. <em>Start paying for customers.</em>"
+    lede="Join the GOTYOU network for $24.95 a month, then add guaranteed new customers through your door when you’re ready. Every plan is month-to-month."
   >
     <div class="hero-ctas">
       <a href={BRAND.appUrl} class="btn btn--lime btn--lg">Get 100 customers a month</a>
-      <a href={BRAND.appUrl} class="btn btn--ghost btn--lg">Start your $1 trial</a>
+      <a href={BRAND.appUrl} class="btn btn--ghost btn--lg">Become a member for $24.95/mo</a>
     </div>
   </PageHero>
 
@@ -111,7 +108,7 @@ const faqLd = {
     <div class="container">
       <div class="section-head">
         <span class="eyebrow">Three ways GOTYOU grows your business</span>
-        <h2 class="h2">The platform is included. <span class="hl-blue">You only pay for customer demand.</span></h2>
+        <h2 class="h2">Join the network. <span class="hl-blue">Pay for real customers, not ads.</span></h2>
       </div>
       <div class="ways">
         {steps.map((s) => (
@@ -132,7 +129,7 @@ const faqLd = {
         <span class="eyebrow">Plans</span>
         <h2 class="h2">Pick the number of customers you want</h2>
         <p class="lede">
-          Every plan is month-to-month, with no setup fee and no contract. Plans below are built for everyday, high-frequency businesses with an average ticket under $25.
+          Every plan is month-to-month, with no setup fee and no contract. GOTYOU 50 and 100 are built for everyday, high-frequency businesses with an average ticket under $25.
         </p>
       </div>
       <div class="plans">
@@ -157,7 +154,7 @@ const faqLd = {
           <img src="/images/site/tap-pad.webp" alt="GOTYOU Counter Tap NFC pad: tap here for local rewards" loading="lazy" width="900" height="705" />
           <div>
             <h3>Need in-store check-in hardware?</h3>
-            <p>Add the GOTYOU In-Store Kit for a one-time $50 and get your Counter Tap NFC check-in pad, branded table tents, and storefront window stickers. Included free with GOTYOU 50, 100, and 200.</p>
+            <p>Add the GOTYOU In-Store Kit for a one-time $50 and get your Counter Tap NFC check-in pad, branded table tents, and storefront window stickers. Included free with GOTYOU 50 and 100.</p>
             <a href={BRAND.appUrl} class="link-arrow">Add the In-Store Kit — $50 <i class="ti ti-arrow-right"></i></a>
           </div>
         </div>
@@ -182,7 +179,7 @@ const faqLd = {
           Your plan guarantees a specific number of new customers every month, and every one of them is a first-time visitor — we never count the same person twice. If GOTYOU doesn’t deliver the promised count during your billing cycle, we keep running the campaign until we do, or we refund the undelivered portion.
         </p>
         <p class="lede">
-          Every GOTYOU demand plan is month-to-month. No annual commitments, no setup fees, no lock-in. Upgrade, downgrade, or cancel anytime right inside your merchant dashboard.
+          Every GOTYOU plan is month-to-month. No annual commitments, no setup fees, no lock-in. Upgrade, downgrade, or cancel anytime right inside your merchant dashboard.
         </p>
       </div>
     </div>
@@ -278,7 +275,9 @@ const faqLd = {
 
   .plans {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 1060px;
+    margin-inline: auto;
     gap: 18px;
     align-items: stretch;
   }
@@ -476,9 +475,10 @@ const faqLd = {
     margin: 12px 0 28px;
   }
 
-  @media (max-width: 1100px) {
+  @media (max-width: 980px) {
     .plans {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr;
+      max-width: 520px;
     }
     .plan--hot {
       transform: none;
@@ -506,9 +506,6 @@ const faqLd = {
     }
   }
   @media (max-width: 560px) {
-    .plans {
-      grid-template-columns: 1fr;
-    }
     .extra {
       flex-direction: column;
     }

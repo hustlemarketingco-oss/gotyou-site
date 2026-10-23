@@ -23,7 +23,7 @@ export const GET: APIRoute = async ({ site }) => {
     `- [How GOTYOU works](${u('/#how-it-works')}): the consumer app — Explore, check in, earn`,
     `- [The 11:23 Daily Drop](${u('/1123/')}): one local deal every day at 11:23 AM`,
     `- [For business](${u('/solution/')}): Verified Physical Commerce for merchants`,
-    `- [Pricing](${u('/pricing/')}): $1 trial; 50/100/200 guaranteed new customers a month for $175/$300/$500`,
+    `- [Pricing](${u('/pricing/')}): Merchant Member $24.95/month; 50 or 100 guaranteed new customers a month for $175/$300`,
     `- [Where GOTYOU works](${u('/where-gotyou-works/')}): live cities and zones`,
     `- [FAQ](${u('/faq/')}): app questions, plus a business guide to loyalty and rewards programs, getting more customers, filling slow hours and community-led marketing (${u('/faq/#for-business')})`,
     `- [About](${u('/about/')})`,

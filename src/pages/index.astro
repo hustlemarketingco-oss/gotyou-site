@@ -71,17 +71,6 @@ const steps = [
     <Skyline fill="var(--bg)" />
   </section>
 
-  <!-- ───────── Proof strip ───────── -->
-  <section class="proof">
-    <div class="container proof-row">
-      <div><strong>30+</strong><span>live zones</span></div>
-      <div><strong>12</strong><span>states</span></div>
-      <div><strong>2,000+</strong><span>local businesses</span></div>
-      <div><strong>11:23</strong><span>a new drop, every day</span></div>
-      <div><strong>$0</strong><span>to join, always</span></div>
-    </div>
-  </section>
-
   <!-- ───────── How it works ───────── -->
   <section class="section" id="how-it-works">
     <div class="container">
@@ -411,37 +400,6 @@ const steps = [
     font-size: 22px;
   }
 
-  /* proof */
-  .proof {
-    background: var(--bg);
-    padding: 8px 0 0;
-  }
-  .proof-row {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 12px;
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: var(--radius);
-    padding: 22px 12px;
-    box-shadow: var(--shadow-sm);
-    text-align: center;
-  }
-  .proof-row div {
-    display: flex;
-    flex-direction: column;
-  }
-  .proof-row strong {
-    font-size: clamp(24px, 3vw, 32px);
-    font-weight: 800;
-    color: var(--blue);
-    letter-spacing: -0.02em;
-    line-height: 1.1;
-  }
-  .proof-row span {
-    font-size: 14px;
-    color: var(--muted);
-  }
 
   /* steps */
   .steps {
@@ -994,10 +952,6 @@ const steps = [
       width: 108%;
       margin: 0 -4% -20px;
     }
-    .proof-row {
-      grid-template-columns: repeat(3, 1fr);
-      row-gap: 18px;
-    }
     .biz-art {
       margin-bottom: 40px;
     }
@@ -1045,12 +999,6 @@ const steps = [
     .bubble--drop {
       right: 0;
       bottom: 6%;
-    }
-    .proof-row {
-      grid-template-columns: repeat(2, 1fr);
-    }
-    .proof-row div:last-child {
-      grid-column: 1 / -1;
     }
 
     .drop-art {
