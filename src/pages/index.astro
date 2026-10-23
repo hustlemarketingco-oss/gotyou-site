@@ -67,7 +67,7 @@ const steps = [
 ];
 ---
 
-<BaseLayout title="GOTYOU" description={`${BRAND.promise} GOTYOU points you to the right local spot, then pays you real cash for showing up.`}>
+<BaseLayout title="GOTYOU" description={`${BRAND.promise} GOTYOU points you to the right local spot, then pays you back: savings every time you go out, plus cash for reviews and referrals.`}>
   <!-- ───────── Hero ───────── -->
   <section class="hero sky">
     <div class="container hero-grid">
@@ -75,7 +75,7 @@ const steps = [
         <span class="eyebrow eyebrow--pill"><span class="dot"></span>Your city. One drop a day.</span>
         <h1 class="display">The daily <span class="hl-lime">match</span> between locals and the businesses near them.</h1>
         <p class="lede">
-          GOTYOU reads the moment and points you to the right local spot — then pays you real cash for showing up.
+          GOTYOU reads the moment and points you to the right local spot — then pays you back for showing up. Save every time you go out, and earn for reviews and referrals.
         </p>
         <StoreBadges size="lg" />
         <a href="/businesses" class="explore-link">Or explore local spots on the web <i class="ti ti-arrow-right"></i></a>
@@ -83,12 +83,12 @@ const steps = [
       <div class="hero-art">
         <img src="/images/site/mockup-map-offers.webp" srcset="/images/site/mockup-map-offers-640.webp 640w, /images/site/mockup-map-offers.webp 1200w" sizes="(max-width: 900px) 100vw, 600px" alt="The GOTYOU app: a live map of local spots and today's offers from Chipotle Mexican Grill" class="hero-mockup" fetchpriority="high" width="1200" height="1094" />
         <div class="bubble bubble--earn float" aria-hidden="true">
-          <span class="plus">+5<span class="gy"></span></span>
-          <span><b>Pier 49 Pizza</b><small>Review · $0.05 value</small></span>
+          <span class="plus plus--save">$5</span>
+          <span><b>$5.00 Cash Back</b><small>Pier 49 Pizza · $14.23 spend</small></span>
         </div>
         <div class="bubble bubble--wallet float float--slow" aria-hidden="true">
           <i class="ti ti-wallet"></i>
-          <span><b>$46.65</b><small>Lifetime value unlocked</small></span>
+          <span><b>$623.21</b><small>Lifetime value unlocked</small></span>
         </div>
         <div class="bubble bubble--drop float float--slow" aria-hidden="true">
           <i class="ti ti-flame"></i>
@@ -117,7 +117,7 @@ const steps = [
         <span class="eyebrow">How GOTYOU works</span>
         <h2 class="h2">Local rewards, <span class="hl-blue">minus the noise.</span></h2>
         <p class="lede">
-          The free GOTYOU app connects you directly to the local spots you love — no email lists, no spam, no coupon apps to juggle. Your info stays private. Your everyday habits finally pay you back.
+          The free GOTYOU app connects you directly to the local spots you love — no email lists, no spam, no coupon books to juggle. Your info stays private. Your everyday habits finally pay you back. It’s like you get paid for who you are.
         </p>
       </div>
       <div class="steps">
@@ -194,29 +194,66 @@ const steps = [
         <span class="eyebrow">One app. Real cash.</span>
         <h2 class="h2">Spent right back into <span class="grad-text">your community.</span></h2>
         <p class="lede">
-          Dine out, shop, catch a movie — earn at local businesses across the GOTYOU network. Stop juggling apps, emails, texts, and coupons. GOTYOU turns your everyday visits into real cash, and keeps that value in the neighborhood where you spent it.
+          Dine out, shop, catch a movie — save every time you go out, and earn at local businesses across the GOTYOU network. Stop juggling apps, emails, texts, and coupons. GOTYOU turns your everyday visits into real savings and cash, and keeps that value in the neighborhood where you spent it.
         </p>
         <a href="/download" class="btn btn--primary btn--lg">Start earning free</a>
       </div>
       <div class="wallet-cards reveal" aria-label="Example GOTYOU wallet">
         <div class="wcard wcard--earn">
           <span class="wl"><i class="ti ti-coins"></i>Earning</span>
-          <strong>2,140<span class="gy"></span></strong>
-          <span>value <b>$21.40</b></span>
+          <strong>4,860<span class="gy"></span></strong>
+          <span>value <b>$48.60</b></span>
           <small>Since joining</small>
         </div>
         <div class="wcard wcard--save">
           <span class="wl"><i class="ti ti-moneybag"></i>Saving</span>
-          <strong>$25.25</strong>
+          <strong>$574.61</strong>
           <span>USD</span>
           <small>Since joining</small>
         </div>
         <ul class="activity">
-          <li><span class="av">P</span><span><b>Pier 49 Pizza</b><small>Review</small></span><em>+5<span class="gy"></span></em></li>
+          <li><span class="av">P</span><span><b>Pier 49 Pizza</b><small>Cash back · $14.23 spend</small></span><em class="saved">$5.00</em></li>
           <li><span class="av av--2">C</span><span><b>Chipotle Mexican Grill</b><small>Check in</small></span><em>+5<span class="gy"></span></em></li>
-          <li><span class="av av--3">H</span><span><b>Hash Kitchen</b><small>Share</small></span><em>+5<span class="gy"></span></em></li>
-          <li class="total"><span class="av av--4"><i class="ti ti-sparkles"></i></span><span><b>Lifetime value unlocked</b><small>Earning + saving since joining</small></span><em>$46.65</em></li>
+          <li><span class="av av--3">H</span><span><b>Hash Kitchen</b><small>Referral</small></span><em>+5<span class="gy"></span></em></li>
+          <li class="total"><span class="av av--4"><i class="ti ti-sparkles"></i></span><span><b>Lifetime value unlocked</b><small>Earning + saving since joining</small></span><em>$623.21</em></li>
         </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ───────── Where the ad money goes ───────── -->
+  <section class="section section--white money">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Why it works</span>
+        <h2 class="h2">Local spots pay <span class="hl-blue">you</span>, not Big Tech.</h2>
+        <p class="lede">
+          Local merchants used to pay Google and Meta to get noticed. With GOTYOU, they pay that value back to the people who actually walk in — as savings at the counter and cash for helping spread the word.
+        </p>
+      </div>
+      <div class="flows">
+        <div class="flow flow--old reveal">
+          <span class="flow-tag">The old way</span>
+          <ol>
+            <li><i class="ti ti-building-store"></i><span><b>Local merchant</b><small>pays for ads</small></span></li>
+            <li class="arrow"><i class="ti ti-arrow-down"></i></li>
+            <li><i class="ti ti-ad-2"></i><span><b>Google &amp; Meta</b><small>keep the ad money</small></span></li>
+            <li class="arrow"><i class="ti ti-arrow-down"></i></li>
+            <li><i class="ti ti-user"></i><span><b>You</b><small>get another ad in your feed</small></span></li>
+          </ol>
+        </div>
+        <div class="flow flow--new reveal">
+          <span class="flow-tag">The GOTYOU way</span>
+          <ol>
+            <li><i class="ti ti-building-store"></i><span><b>Local merchant</b><small>pays only when you come in</small></span></li>
+            <li class="arrow"><i class="ti ti-arrow-down"></i></li>
+            <li><i class="ti ti-user"></i><span><b>You</b><small>save every time you go out, and earn for reviews and referrals</small></span></li>
+          </ol>
+          <div class="wins">
+            <span><i class="ti ti-circle-check-filled"></i>Consumers win</span>
+            <span><i class="ti ti-circle-check-filled"></i>Merchants win</span>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -274,7 +311,7 @@ const steps = [
         </div>
       </div>
       <div class="biz-art reveal">
-        <img src="/images/site/merchant_hero.jpg" alt="GOTYOU merchant dashboard: see who walked in, win them back" loading="lazy" class="merchant" />
+        <img src="/images/site/merchant-dashboard.webp" alt="The new GOTYOU merchant center: Cafe Luna at 399 of 520 monthly customers, 77% of its goal" loading="lazy" class="merchant" width="1600" height="1044" />
         <img src="/images/site/puck.webp" alt="GOTYOU Counter Tap NFC pad: tap here, earn here" loading="lazy" class="puck float" />
       </div>
     </div>
@@ -494,6 +531,9 @@ const steps = [
     border-radius: 14px;
     padding: 8px 10px;
     font-size: 18px;
+  }
+  .plus--save {
+    background: linear-gradient(135deg, #3cc98a 0%, var(--green) 100%);
   }
   .bubble--drop {
     right: 0;
@@ -825,6 +865,9 @@ const steps = [
     background: var(--lime);
     color: var(--ink);
   }
+  .activity em.saved {
+    color: var(--green);
+  }
   .activity em {
     font-style: normal;
     font-weight: 800;
@@ -967,15 +1010,120 @@ const steps = [
     position: relative;
   }
   .merchant {
-    border-radius: var(--radius-lg);
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    border: 6px solid rgba(255, 255, 255, 0.08);
     box-shadow: 0 30px 70px rgba(0, 0, 0, 0.4);
   }
   .puck {
     position: absolute;
-    width: 46%;
-    left: -10%;
-    bottom: -18%;
+    width: 34%;
+    left: -8%;
+    bottom: -16%;
     filter: drop-shadow(0 24px 30px rgba(0, 0, 0, 0.45));
+  }
+
+  /* where the ad money goes */
+  .flows {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    max-width: 920px;
+    margin: 0 auto;
+  }
+  .flow {
+    border-radius: var(--radius-lg);
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .flow--old {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    color: var(--muted);
+  }
+  .flow--new {
+    background: var(--ink);
+    color: #fff;
+    box-shadow: 0 30px 70px rgba(10, 40, 110, 0.25);
+  }
+  .flow-tag {
+    font: 800 12px var(--font-display);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .flow--new .flow-tag {
+    color: var(--lime);
+  }
+  .flow ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .flow li {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .flow li > i {
+    flex: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 14px;
+    display: grid;
+    place-items: center;
+    font-size: 22px;
+    background: rgba(0, 0, 0, 0.05);
+  }
+  .flow--new li > i {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--lime);
+  }
+  .flow li b {
+    display: block;
+    color: var(--ink);
+  }
+  .flow--new li b {
+    color: #fff;
+  }
+  .flow li small {
+    font-size: 14px;
+  }
+  .flow--new li small {
+    color: rgba(255, 255, 255, 0.72);
+  }
+  .flow li.arrow {
+    padding-left: 12px;
+    font-size: 18px;
+    opacity: 0.5;
+  }
+  .wins {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: auto;
+  }
+  .wins span {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--lime);
+    color: var(--lime-ink);
+    font-weight: 800;
+    border-radius: 999px;
+    padding: 8px 14px;
+    font-size: 14px;
+  }
+  @media (max-width: 760px) {
+    .flows {
+      grid-template-columns: 1fr;
+    }
   }
 
   /* posts */
@@ -1058,9 +1206,6 @@ const steps = [
     .hero-mockup {
       width: 132%;
       margin: 0 -16% -16px;
-    }
-    .bubble--wallet {
-      display: none;
     }
     .bubble {
       padding: 8px 12px 8px 8px;

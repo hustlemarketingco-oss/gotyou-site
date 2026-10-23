@@ -20,18 +20,18 @@ import Phone from '../components/Phone.astro';
         </div>
       </div>
       <!-- Three real app screens fanned out (Drop, Explore, Wallet) with the rewards they lead to floating on top. -->
-      <div class="art" role="img" aria-label="The GOTYOU app: the 11:23 Daily Drop, a live map of local spots, and a wallet showing $46.65 unlocked">
+      <div class="art" role="img" aria-label="The GOTYOU app: the 11:23 Daily Drop, a live map of local spots, and a wallet of lifetime value unlocked">
         <span class="glow" aria-hidden="true"></span>
         <div class="fan fan--left float float--slow"><Phone src="/images/app/drop.webp" alt="" width={230} tilt={-9} eager /></div>
         <div class="fan fan--right float float--slow"><img src="/images/site/mockup-wallet-750.webp" alt="" class="wallet" width="750" height="1582" fetchpriority="high" /></div>
         <div class="fan fan--center float"><Phone src="/images/app/explore-map.webp" alt="" width={270} eager /></div>
         <div class="pop pop--cash" aria-hidden="true">
           <span class="pop-icon pop-icon--purple"><i class="ti ti-wallet"></i></span>
-          <span><strong>$46.65</strong><small>Lifetime value unlocked</small></span>
+          <span><strong>$623.21</strong><small>Lifetime value unlocked</small></span>
         </div>
         <div class="pop pop--earn" aria-hidden="true">
-          <span class="pop-icon pop-icon--blue">+5</span>
-          <span><strong>Checked in</strong><small>+5 GYC earned</small></span>
+          <span class="pop-icon pop-icon--green">$5</span>
+          <span><strong>$5.00 Cash Back</strong><small>Pier 49 Pizza · $14.23 spend</small></span>
         </div>
         <div class="pop pop--drop" aria-hidden="true">
           <span class="pop-icon pop-icon--lime"><i class="ti ti-flame"></i></span>
@@ -183,8 +183,8 @@ import Phone from '../components/Phone.astro';
     background: linear-gradient(135deg, #b46cff, var(--purple));
     color: #fff;
   }
-  .pop-icon--blue {
-    background: linear-gradient(135deg, #3fb2ff, var(--blue));
+  .pop-icon--green {
+    background: linear-gradient(135deg, #3cc98a, var(--green));
     color: #fff;
     font-size: 17px;
   }
@@ -193,7 +193,8 @@ import Phone from '../components/Phone.astro';
     color: var(--lime-ink);
   }
   .pop--cash {
-    top: 9%;
+    /* sits over the wallet screenshot's own lifetime total */
+    top: 22%;
     right: -2%;
     animation-delay: 0.2s, 0.8s;
   }
