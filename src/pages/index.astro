@@ -312,7 +312,7 @@ const steps = [
       </div>
       <div class="biz-art reveal">
         <img src="/images/site/merchant-dashboard.webp" alt="The new GOTYOU merchant center: Cafe Luna at 399 of 520 monthly customers, 77% of its goal" loading="lazy" class="merchant" width="1600" height="1044" />
-        <img src="/images/site/puck.webp" alt="GOTYOU Counter Tap NFC pad: tap here, earn here" loading="lazy" class="puck float" />
+        <img src="/images/site/tap-pad.webp" alt="GOTYOU Counter Tap NFC pad: tap here for local rewards" loading="lazy" class="puck float" width="900" height="705" />
       </div>
     </div>
   </section>
@@ -1022,7 +1022,8 @@ const steps = [
     width: 34%;
     left: -8%;
     bottom: -16%;
-    filter: drop-shadow(0 24px 30px rgba(0, 0, 0, 0.45));
+    /* thin light rim so the navy pad stands off the dark section */
+    filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.5)) drop-shadow(0 24px 30px rgba(0, 0, 0, 0.5));
   }
 
   /* where the ad money goes */
@@ -1206,6 +1207,10 @@ const steps = [
     .hero-mockup {
       width: 132%;
       margin: 0 -16% -16px;
+    }
+    .puck {
+      left: -2%;
+      width: 38%;
     }
     .bubble {
       padding: 8px 12px 8px 8px;
